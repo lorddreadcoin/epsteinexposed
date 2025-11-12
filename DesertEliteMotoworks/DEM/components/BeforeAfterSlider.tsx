@@ -15,6 +15,20 @@ export default function BeforeAfterSlider({ before, after, title, description }:
   const [isDragging, setIsDragging] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
 
+  // Custom image positioning based on vehicle
+  const getImageStyle = () => {
+    if (title.includes('Porsche 911')) {
+      return { objectPosition: 'center 35%' }; // Push up to show more of the car
+    }
+    if (title.includes('Mustang Fastback')) {
+      return { objectPosition: 'center 35%' }; // Push up to show more of the car
+    }
+    if (title.includes('Camaro SS')) {
+      return { objectPosition: 'center 30%', transform: 'scale(0.85)' }; // Zoom out slightly and push up
+    }
+    return { objectPosition: 'center center' }; // Default
+  };
+
   const handleMove = (clientX: number) => {
     if (!containerRef.current) return;
     
@@ -69,6 +83,7 @@ export default function BeforeAfterSlider({ before, after, title, description }:
             src={after} 
             alt="After restoration" 
             className="w-full h-full object-cover"
+            style={getImageStyle()}
             draggable={false}
           />
           <motion.div 
@@ -91,6 +106,7 @@ export default function BeforeAfterSlider({ before, after, title, description }:
             src={before} 
             alt="Before restoration" 
             className="w-full h-full object-cover"
+            style={getImageStyle()}
             draggable={false}
           />
           <motion.div 
