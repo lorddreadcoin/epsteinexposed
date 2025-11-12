@@ -5,6 +5,8 @@ import { Star, Phone, Mail, MapPin, Clock, Award, Shield, Sparkles, FileCheck, C
 import HeroSection from '@/components/HeroSection';
 import AnimatedStats from '@/components/AnimatedStats';
 import BeforeAfterSlider from '@/components/BeforeAfterSlider';
+import ServicesQuickView from '@/components/ServicesQuickView';
+import ComprehensiveServices from '@/components/ComprehensiveServices';
 
 export default function DesertEliteMotorworks() {
   const [activeTab, setActiveTab] = useState('hero');
@@ -70,31 +72,31 @@ export default function DesertEliteMotorworks() {
           
           <div className="grid md:grid-cols-2 gap-8 mb-8">
             <BeforeAfterSlider
-              before="https://images.unsplash.com/photo-1581540222194-0def2dda95b8?w=800"
-              after="https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800"
-              title="1973 Porsche 911 RS"
+              before="https://images.unsplash.com/photo-1619405399517-d7fce0f13302?w=800&q=80"
+              after="https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80"
+              title="1973 Porsche 911 Carrera"
               description="Complete frame-off restoration with period-correct details"
             />
             <BeforeAfterSlider
-              before="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800"
-              after="https://images.unsplash.com/photo-1494905998402-395d579af36f?w=800"
-              title="1967 Shelby GT500"
+              before="https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+              after="https://images.unsplash.com/photo-1494905998402-395d579af36f?w=800&q=80"
+              title="1967 Ford Mustang Fastback"
               description="Engine rebuild and suspension upgrade"
             />
           </div>
 
           <div className="grid md:grid-cols-2 gap-8">
             <BeforeAfterSlider
-              before="https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800"
-              after="https://images.unsplash.com/photo-1542362567-b07e54358753?w=800"
+              before="https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80"
+              after="https://images.unsplash.com/photo-1542362567-b07e54358753?w=800&q=80"
               title="1969 Chevrolet Camaro SS"
               description="Full restoration with modern performance upgrades"
             />
             <BeforeAfterSlider
-              before="https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=800"
-              after="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800"
-              title="1965 Ford Mustang"
-              description="Restomod conversion with fuel injection"
+              before="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80"
+              after="https://images.unsplash.com/photo-1580414057403-c5f451f30740?w=800&q=80"
+              title="1965 Mercedes-Benz 230SL"
+              description="Restomod conversion with modern amenities"
             />
           </div>
         </div>
@@ -240,61 +242,11 @@ export default function DesertEliteMotorworks() {
         </div>
       </section>
 
-      {/* Services */}
-      <section id="services" className="py-20 px-6">
-        <div className="max-w-6xl mx-auto">
-          <div className="text-center mb-16">
-            <p className="text-amber-400 text-sm font-semibold tracking-widest mb-4">SERVICES</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-6">Elite Automotive Services</h2>
-          </div>
+      {/* Quick Services Overview */}
+      <ServicesQuickView />
 
-          <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-8">
-              <Award className="w-12 h-12 text-amber-400 mb-4" />
-              <h3 className="text-2xl font-bold mb-3">Elite Restorations</h3>
-              <p className="text-zinc-400 mb-4">Concours-level restoration services for classic and vintage automobiles.</p>
-              <ul className="space-y-2 text-zinc-300">
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Complete frame-off restoration</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Period-correct detailing</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Documentation & provenance</li>
-              </ul>
-            </div>
-
-            <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-8">
-              <div className="w-12 h-12 border-2 border-amber-400 rounded-lg mb-4"></div>
-              <h3 className="text-2xl font-bold mb-3">Classic Builds</h3>
-              <p className="text-zinc-400 mb-4">Custom builds blending heritage with modern performance.</p>
-              <ul className="space-y-2 text-zinc-300">
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Restomod conversions</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Engine swaps & upgrades</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Modern amenities integration</li>
-              </ul>
-            </div>
-
-            <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-8">
-              <Sparkles className="w-12 h-12 text-amber-400 mb-4" />
-              <h3 className="text-2xl font-bold mb-3">High-End Service</h3>
-              <p className="text-zinc-400 mb-4">Meticulous maintenance for luxury and exotic vehicles.</p>
-              <ul className="space-y-2 text-zinc-300">
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />European & exotic specialists</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Factory-spec diagnostics</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Genuine parts only</li>
-              </ul>
-            </div>
-
-            <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-8">
-              <Shield className="w-12 h-12 text-amber-400 mb-4" />
-              <h3 className="text-2xl font-bold mb-3">White Glove Concierge</h3>
-              <p className="text-zinc-400 mb-4">Complete concierge service for your convenience.</p>
-              <ul className="space-y-2 text-zinc-300">
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Free pickup & delivery</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Daily progress updates</li>
-                <li className="flex items-start"><CheckCircle className="w-5 h-5 text-amber-400 mr-2 mt-0.5 flex-shrink-0" />Dedicated service advisor</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
+      {/* Comprehensive Services Section */}
+      <ComprehensiveServices />
 
       {/* Reviews */}
       <section id="reviews" className="py-20 px-6 bg-zinc-900">

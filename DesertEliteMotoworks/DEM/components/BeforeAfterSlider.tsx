@@ -106,28 +106,30 @@ export default function BeforeAfterSlider({ before, after, title, description }:
 
         {/* Slider line and handle */}
         <div 
-          className="absolute top-0 bottom-0 w-1 bg-white shadow-2xl pointer-events-none"
+          className="absolute top-0 bottom-0 w-1 bg-white shadow-2xl"
           style={{ left: `${sliderPosition}%` }}
         >
-          {/* Handle */}
+          {/* Handle - DRAGGABLE */}
           <motion.div 
             className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2
-                       w-14 h-14 bg-white rounded-full shadow-2xl
-                       flex items-center justify-center cursor-ew-resize pointer-events-auto
-                       border-4 border-zinc-900"
-            whileHover={{ scale: 1.2 }}
+                       w-16 h-16 bg-white rounded-full shadow-2xl
+                       flex items-center justify-center cursor-grab active:cursor-grabbing
+                       border-4 border-zinc-900 z-50"
+            whileHover={{ scale: 1.15 }}
             whileTap={{ scale: 0.95 }}
             animate={isDragging ? { scale: 1.1 } : {}}
+            onMouseDown={handleInteractionStart}
+            onTouchStart={handleInteractionStart}
           >
             <div className="flex items-center space-x-0.5">
-              <ChevronLeft className="w-5 h-5 text-zinc-900" />
-              <ChevronRight className="w-5 h-5 text-zinc-900" />
+              <ChevronLeft className="w-6 h-6 text-zinc-900" />
+              <ChevronRight className="w-6 h-6 text-zinc-900" />
             </div>
           </motion.div>
 
           {/* Top and bottom indicators */}
-          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-8 h-8 bg-white rounded-full shadow-lg" />
-          <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-8 h-8 bg-white rounded-full shadow-lg" />
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-10 h-10 bg-white rounded-full shadow-lg border-2 border-zinc-900" />
+          <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-10 h-10 bg-white rounded-full shadow-lg border-2 border-zinc-900" />
         </div>
       </div>
 
