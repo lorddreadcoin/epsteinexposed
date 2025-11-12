@@ -20,18 +20,17 @@ export default function HeroSection() {
           }}
         />
         
-        {/* Multi-layer gradient overlays for text readability */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/85 via-black/70 to-black/85" />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-transparent to-black/80" />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-transparent to-black/60" />
+        {/* Lighter gradient overlays - let the image shine through */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-black/60" />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-transparent to-black/40" />
         
-        {/* Subtle vignette effect for depth */}
+        {/* Subtle vignette effect for depth - lighter */}
         <div className="absolute inset-0" style={{
-          background: 'radial-gradient(ellipse at center, transparent 0%, rgba(0,0,0,0.4) 70%, rgba(0,0,0,0.8) 100%)'
+          background: 'radial-gradient(ellipse at center, transparent 0%, rgba(0,0,0,0.2) 70%, rgba(0,0,0,0.5) 100%)'
         }} />
         
-        {/* Premium blur overlay for text area */}
-        <div className="absolute inset-0 backdrop-blur-[2px]" />
+        {/* Very subtle blur - keep image sharp */}
+        <div className="absolute inset-0 backdrop-blur-[0.5px]" />
         
         {/* Animated amber accent glow (complements gold in image) */}
         <motion.div
@@ -131,12 +130,12 @@ export default function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-none mb-4"
-                  style={{ textShadow: '0 4px 20px rgba(0,0,0,0.8), 0 2px 8px rgba(0,0,0,0.9)' }}>
+              <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-none mb-4">
                 <span className="block animate-shimmer"
                       style={{ 
-                        filter: 'drop-shadow(0 2px 10px rgba(217, 119, 6, 0.3))',
-                        WebkitTextStroke: '0.5px rgba(217, 119, 6, 0.1)'
+                        textShadow: '0 0 40px rgba(251,191,36,1), 0 0 80px rgba(251,191,36,0.6), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
+                        filter: 'drop-shadow(0 0 30px rgba(251,191,36,0.8)) brightness(1.2)',
+                        WebkitTextStroke: '1px rgba(217, 119, 6, 0.3)'
                       }}>
                   AUTOMOTIVE
                 </span>
@@ -148,12 +147,12 @@ export default function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.6 }}
             >
-              <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-none mb-4"
-                  style={{ textShadow: '0 4px 20px rgba(0,0,0,0.8), 0 2px 8px rgba(0,0,0,0.9)' }}>
+              <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-none mb-4">
                 <span className="block bg-gradient-to-r from-white via-zinc-100 to-zinc-300 bg-clip-text text-transparent"
                       style={{ 
-                        filter: 'drop-shadow(0 2px 10px rgba(0, 0, 0, 0.5))',
-                        WebkitTextStroke: '0.5px rgba(255, 255, 255, 0.1)'
+                        textShadow: '0 0 30px rgba(255,255,255,0.8), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
+                        filter: 'drop-shadow(0 0 20px rgba(255,255,255,0.5)) brightness(1.3)',
+                        WebkitTextStroke: '1px rgba(255, 255, 255, 0.2)'
                       }}>
                   EXCELLENCE
                 </span>
@@ -165,12 +164,12 @@ export default function HeroSection() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.8, delay: 0.8 }}
             >
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-black"
-                  style={{ textShadow: '0 4px 20px rgba(0,0,0,0.8), 0 2px 8px rgba(0,0,0,0.9)' }}>
+              <h1 className="text-5xl md:text-6xl lg:text-7xl font-black">
                 <span className="block animate-shimmer"
                       style={{ 
-                        filter: 'drop-shadow(0 2px 10px rgba(217, 119, 6, 0.3))',
-                        WebkitTextStroke: '0.5px rgba(217, 119, 6, 0.1)'
+                        textShadow: '0 0 40px rgba(251,191,36,1), 0 0 80px rgba(251,191,36,0.6), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
+                        filter: 'drop-shadow(0 0 35px rgba(251,191,36,0.9)) brightness(1.2)',
+                        WebkitTextStroke: '1px rgba(217, 119, 6, 0.3)'
                       }}>
                   REDEFINED
                 </span>
@@ -184,12 +183,17 @@ export default function HeroSection() {
             animate={{ opacity: 1 }}
             transition={{ duration: 1, delay: 1.2 }}
             className="text-xl md:text-2xl lg:text-3xl mb-12 max-w-4xl mx-auto font-light leading-relaxed"
-            style={{ textShadow: '0 2px 12px rgba(0, 0, 0, 0.9), 0 1px 4px rgba(0, 0, 0, 1)' }}
           >
-            <span className="text-zinc-200">Where million-dollar restorations meet white-glove service.</span>
+            <span className="text-zinc-100" 
+                  style={{ textShadow: '0 0 20px rgba(255,255,255,0.5), 0 2px 12px rgba(0, 0, 0, 0.9), 0 1px 4px rgba(0, 0, 0, 1)' }}>
+              Where million-dollar restorations meet white-glove service.
+            </span>
             <br />
-            <span className="animate-shimmer font-semibold" 
-                  style={{ textShadow: '0 2px 10px rgba(217, 119, 6, 0.5), 0 1px 4px rgba(0, 0, 0, 1)' }}>
+            <span className="animate-shimmer font-bold" 
+                  style={{ 
+                    textShadow: '0 0 30px rgba(251,191,36,0.9), 0 0 60px rgba(251,191,36,0.5), 0 2px 10px rgba(0, 0, 0, 1)',
+                    filter: 'brightness(1.2)'
+                  }}>
               The Coachella Valley's only CA BAR licensed luxury facility.
             </span>
           </motion.p>
