@@ -133,8 +133,8 @@ export default function HeroSection() {
               <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-none mb-4">
                 <span className="block animate-shimmer"
                       style={{ 
-                        textShadow: '0 0 40px rgba(251,191,36,1), 0 0 80px rgba(251,191,36,0.6), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
-                        filter: 'drop-shadow(0 0 30px rgba(251,191,36,0.8)) brightness(1.2)',
+                        textShadow: '0 0 20px rgba(251,191,36,0.5), 0 0 40px rgba(251,191,36,0.3), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
+                        filter: 'drop-shadow(0 0 15px rgba(251,191,36,0.4)) brightness(1.1)',
                         WebkitTextStroke: '1px rgba(217, 119, 6, 0.3)'
                       }}>
                   AUTOMOTIVE
@@ -150,8 +150,8 @@ export default function HeroSection() {
               <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-none mb-4">
                 <span className="block bg-gradient-to-r from-white via-zinc-100 to-zinc-300 bg-clip-text text-transparent"
                       style={{ 
-                        textShadow: '0 0 30px rgba(255,255,255,0.8), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
-                        filter: 'drop-shadow(0 0 20px rgba(255,255,255,0.5)) brightness(1.3)',
+                        textShadow: '0 0 15px rgba(255,255,255,0.4), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
+                        filter: 'drop-shadow(0 0 10px rgba(255,255,255,0.25)) brightness(1.15)',
                         WebkitTextStroke: '1px rgba(255, 255, 255, 0.2)'
                       }}>
                   EXCELLENCE
@@ -167,8 +167,8 @@ export default function HeroSection() {
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-black">
                 <span className="block animate-shimmer"
                       style={{ 
-                        textShadow: '0 0 40px rgba(251,191,36,1), 0 0 80px rgba(251,191,36,0.6), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
-                        filter: 'drop-shadow(0 0 35px rgba(251,191,36,0.9)) brightness(1.2)',
+                        textShadow: '0 0 20px rgba(251,191,36,0.5), 0 0 40px rgba(251,191,36,0.3), 0 4px 20px rgba(0,0,0,0.9), 0 2px 8px rgba(0,0,0,1)',
+                        filter: 'drop-shadow(0 0 18px rgba(251,191,36,0.45)) brightness(1.1)',
                         WebkitTextStroke: '1px rgba(217, 119, 6, 0.3)'
                       }}>
                   REDEFINED
@@ -185,14 +185,14 @@ export default function HeroSection() {
             className="text-xl md:text-2xl lg:text-3xl mb-12 max-w-4xl mx-auto font-light leading-relaxed"
           >
             <span className="text-zinc-100" 
-                  style={{ textShadow: '0 0 20px rgba(255,255,255,0.5), 0 2px 12px rgba(0, 0, 0, 0.9), 0 1px 4px rgba(0, 0, 0, 1)' }}>
+                  style={{ textShadow: '0 0 10px rgba(255,255,255,0.25), 0 2px 12px rgba(0, 0, 0, 0.9), 0 1px 4px rgba(0, 0, 0, 1)' }}>
               Where million-dollar restorations meet white-glove service.
             </span>
             <br />
             <span className="animate-shimmer font-bold" 
                   style={{ 
-                    textShadow: '0 0 30px rgba(251,191,36,0.9), 0 0 60px rgba(251,191,36,0.5), 0 2px 10px rgba(0, 0, 0, 1)',
-                    filter: 'brightness(1.2)'
+                    textShadow: '0 0 15px rgba(251,191,36,0.45), 0 0 30px rgba(251,191,36,0.25), 0 2px 10px rgba(0, 0, 0, 1)',
+                    filter: 'brightness(1.1)'
                   }}>
               The Coachella Valley's only CA BAR licensed luxury facility.
             </span>
