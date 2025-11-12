@@ -264,6 +264,14 @@ export default function DesertEliteMotorworks() {
               <div className="text-6xl font-bold mb-2">4.9</div>
               <div className="text-xl font-semibold">64 Google Reviews</div>
             </div>
+
+            {/* Business Relationship Note */}
+            <div className="mt-8 max-w-2xl mx-auto p-4 bg-zinc-800/50 border border-zinc-700 rounded-xl">
+              <p className="text-sm text-zinc-300 leading-relaxed">
+                <span className="text-amber-400 font-semibold">Desert Elite Motorworks</span> is the premium white-glove division of{' '}
+                <span className="font-semibold">Nick's Automotive</span>, bringing the same trusted craftsmanship and dedication to excellence—now elevated with concierge-level service for discerning automotive enthusiasts.
+              </p>
+            </div>
           </div>
 
           <div className="grid md:grid-cols-2 gap-6 mb-8">
@@ -289,8 +297,8 @@ export default function DesertEliteMotorworks() {
           </div>
 
           <div className="text-center">
-            <a href="https://www.google.com/maps/place/Nick's+Automotive/@33.7215154,-116.2069718,17z" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:text-amber-300 font-semibold inline-flex items-center space-x-2">
-              <span>Read All 64 Five-Star Reviews</span>
+            <a href="https://google.com/maps/place/Nick's+Automotive/@33.7215154,-116.2069718,17z/data=!4m6!3m5!1s0x80daf7a236fd6dc1:0x20a8fbd7ea3f49c1!8m2!3d33.7215154!4d-116.2043969!16s%2Fg%2F12cnsf672?entry=ttu&g_ep=EgoyMDI1MTEwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:text-amber-300 font-semibold inline-flex items-center space-x-2">
+              <span>Read All 64 Five-Star Reviews on Google</span>
               <ArrowRight className="w-4 h-4" />
             </a>
           </div>
@@ -326,7 +334,7 @@ export default function DesertEliteMotorworks() {
               </div>
             </a>
 
-            <a href="https://www.google.com/maps/place/Nick's+Automotive/@33.7215154,-116.2069718,17z" target="_blank" rel="noopener noreferrer" className="flex items-start space-x-4 p-6 bg-zinc-900 rounded-xl hover:bg-zinc-800">
+            <a href="https://google.com/maps/place/Nick's+Automotive/@33.7215154,-116.2069718,17z/data=!4m6!3m5!1s0x80daf7a236fd6dc1:0x20a8fbd7ea3f49c1!8m2!3d33.7215154!4d-116.2043969!16s%2Fg%2F12cnsf672?entry=ttu&g_ep=EgoyMDI1MTEwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" className="flex items-start space-x-4 p-6 bg-zinc-900 rounded-xl hover:bg-zinc-800">
               <div className="w-12 h-12 bg-amber-500/10 rounded-lg flex items-center justify-center">
                 <MapPin className="w-6 h-6 text-amber-400" />
               </div>
