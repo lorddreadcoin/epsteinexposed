@@ -1,0 +1,17 @@
+[build]
+  base = "epsteinexposed"
+  command = "corepack enable && pnpm install --frozen-lockfile && pnpm run build"
+  publish = "epsteinexposed/apps/web/.next"
+
+[build.environment]
+  NODE_VERSION = "20"
+  ENABLE_EXPERIMENTAL_COREPACK = "1"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
