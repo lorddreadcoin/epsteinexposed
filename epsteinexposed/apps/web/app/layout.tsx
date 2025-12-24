@@ -13,13 +13,26 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Epstein Exposed | Autonomous Investigation Interface",
-  description: "AI-powered investigation platform analyzing the Epstein files in real-time. Zero friction. Pure discovery.",
-  keywords: ["Epstein", "investigation", "AI", "documents", "analysis"],
+  title: "Epstein Exposed | Public Investigation Platform",
+  description: "The definitive cross-referenced database of 11,622 DOJ documents, flight logs, and the infamous Black Book. AI-powered analysis with source citations.",
+  keywords: ["Epstein", "investigation", "DOJ documents", "flight logs", "Black Book", "AI analysis", "public records"],
+  authors: [{ name: "Epstein Exposed Team" }],
   openGraph: {
-    title: "Epstein Exposed | Autonomous Investigation Interface",
-    description: "AI-powered investigation platform analyzing the Epstein files in real-time.",
+    title: "Epstein Exposed | Public Investigation Platform",
+    description: "Cross-referenced investigation of 11,622 DOJ documents + unredacted sources. CTRL+Click entities to analyze connections.",
+    images: ["/og-image.png"],
     type: "website",
+    siteName: "Epstein Exposed",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Epstein Exposed",
+    description: "The definitive public investigation platform - 11,622 documents cross-referenced with flight logs & Black Book",
+    images: ["/og-image.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
 };
 

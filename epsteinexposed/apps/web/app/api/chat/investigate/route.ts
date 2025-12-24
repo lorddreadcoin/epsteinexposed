@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { headers } from 'next/headers';
 import Anthropic from '@anthropic-ai/sdk';
 import fs from 'fs/promises';
 import path from 'path';
@@ -7,6 +8,34 @@ import path from 'path';
 const anthropic = new Anthropic({
   apiKey: process.env.ANTHROPIC_API_KEY || '',
 });
+
+// Rate limiting to protect API costs
+const RATE_LIMIT = 20; // requests per hour per IP
+const rateLimitMap = new Map<string, { count: number; reset: number }>();
+
+function checkRateLimit(ip: string): boolean {
+  const now = Date.now();
+  const record = rateLimitMap.get(ip);
+  
+  if (!record || now > record.reset) {
+    rateLimitMap.set(ip, { count: 1, reset: now + 3600000 }); // 1 hour
+    return true;
+  }
+  
+  if (record.count >= RATE_LIMIT) return false;
+  record.count++;
+  return true;
+}
+
+// Clean up old rate limit entries periodically
+setInterval(() => {
+  const now = Date.now();
+  for (const [ip, record] of rateLimitMap.entries()) {
+    if (now > record.reset) {
+      rateLimitMap.delete(ip);
+    }
+  }
+}, 300000); // Every 5 minutes
 
 interface DocumentResult {
   id: string;
@@ -181,6 +210,19 @@ function extractCitations(text: string, docs: DocumentResult[]): Citation[] {
 
 export async function POST(req: NextRequest) {
   try {
+    // Rate limiting check
+    const headersList = await headers();
+    const ip = headersList.get('x-forwarded-for')?.split(',')[0] || 
+               headersList.get('x-real-ip') || 
+               'unknown';
+    
+    if (!checkRateLimit(ip)) {
+      return NextResponse.json(
+        { error: 'Rate limit exceeded. Please try again later.', rateLimited: true },
+        { status: 429 }
+      );
+    }
+    
     const { message, context } = await req.json();
     const selectedEntities = context?.selectedEntities || [];
     const conversationHistory = context?.conversationHistory || [];
