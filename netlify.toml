@@ -1,11 +1,10 @@
 [build]
-  base = "epsteinexposed"
-  command = "corepack enable && pnpm install --frozen-lockfile && pnpm --filter web build"
-  publish = "epsteinexposed/apps/web/.next"
+  base = "epsteinexposed/apps/web"
+  command = "npm install && npm run build"
+  publish = ".next"
 
 [build.environment]
   NODE_VERSION = "20"
-  ENABLE_EXPERIMENTAL_COREPACK = "1"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
