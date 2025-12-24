@@ -1,411 +1,463 @@
 'use client';
 
-import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls, Stars, Text } from '@react-three/drei';
-import { useEffect, useState, useRef, useMemo } from 'react';
+import { useRef, useState, useEffect, useMemo, useCallback } from 'react';
+import { Canvas, useFrame, ThreeEvent } from '@react-three/fiber';
+import { OrbitControls, Text, Line } from '@react-three/drei';
 import * as THREE from 'three';
-import { EvidencePanel } from '../evidence/EvidencePanel';
-import { ConnectionEvidencePanel } from '../evidence/ConnectionEvidencePanel';
-import { PDFViewer } from '../evidence/PDFViewer';
+
+// =============================================================================
+// TYPES
+// =============================================================================
 
 interface Node {
   id: string;
-  position: [number, number, number];
   label: string;
-  type: string;
-  occurrences?: number;
-  documentCount?: number;
+  type: 'person' | 'location' | 'organization' | 'date';
+  position: [number, number, number];
+  documentCount: number;
+  connections: number;
 }
 
 interface Edge {
   from: string;
   to: string;
   strength: number;
+  documentIds?: string[];
 }
 
-interface NodeDetails {
-  id: string;
-  name: string;
-  type: string;
-  occurrences: number;
-  documentIds: string[];
-  context?: string;
-  connections?: Array<{ name: string; id: string; strength: number; documents: number }>;
+interface GraphData {
+  nodes: Node[];
+  edges: Edge[];
 }
 
-function GraphNode({ node, onClick, isSelected, isHovered, onHover }: {
+interface Graph3DCoreProps {
+  onNodeSelect?: (node: Node | null) => void;
+  onEdgeSelect?: (edge: Edge | null) => void;
+  onAnalyzeConnection?: (entities: string[]) => void;
+}
+
+// =============================================================================
+// CONSTANTS - Arkham/Bubblemaps Aesthetic
+// =============================================================================
+
+const DEFAULT_COLOR = { main: '#00d4ff', glow: 'rgba(0, 212, 255, 0.6)' };
+
+const NODE_COLORS: Record<string, { main: string; glow: string }> = {
+  person: { main: '#00d4ff', glow: 'rgba(0, 212, 255, 0.6)' },
+  location: { main: '#ffb800', glow: 'rgba(255, 184, 0, 0.6)' },
+  organization: { main: '#ff3366', glow: 'rgba(255, 51, 102, 0.6)' },
+  date: { main: '#00ff88', glow: 'rgba(0, 255, 136, 0.6)' },
+};
+
+function getNodeColor(type: string) {
+  return NODE_COLORS[type] || DEFAULT_COLOR;
+}
+
+const ANIMATION_CONFIG = {
+  dampingFactor: 0.05,
+  hoverScale: 1.2,
+  selectedScale: 1.5,
+  transitionSpeed: 8,
+  floatAmplitude: 0.02,
+  floatSpeed: 0.5,
+  pulseSpeed: 3,
+};
+
+// =============================================================================
+// GRAPH NODE COMPONENT
+// =============================================================================
+
+function GraphNode({
+  node,
+  isSelected,
+  isHovered,
+  isMultiSelected,
+  onHover,
+  onClick,
+}: {
   node: Node;
-  onClick: (node: Node) => void;
   isSelected: boolean;
   isHovered: boolean;
+  isMultiSelected: boolean;
   onHover: (node: Node | null) => void;
+  onClick: (node: Node, event: ThreeEvent<MouseEvent>) => void;
 }) {
   const meshRef = useRef<THREE.Mesh>(null);
+  const glowRef = useRef<THREE.Mesh>(null);
+  const ringRef = useRef<THREE.Mesh>(null);
   
-  useFrame(() => {
-    if (meshRef.current) {
-      const targetScale = isSelected ? 1.8 : isHovered ? 1.4 : 1.0;
-      meshRef.current.scale.lerp(new THREE.Vector3(targetScale, targetScale, targetScale), 0.1);
+  const colors = getNodeColor(node.type);
+  const baseSize = 0.15 + Math.log10(Math.max(node.documentCount, 1) + 1) * 0.15;
+  
+  const targetScale = useMemo(() => {
+    if (isSelected || isMultiSelected) return baseSize * ANIMATION_CONFIG.selectedScale;
+    if (isHovered) return baseSize * ANIMATION_CONFIG.hoverScale;
+    return baseSize;
+  }, [isSelected, isMultiSelected, isHovered, baseSize]);
+  
+  useFrame((state, delta) => {
+    if (!meshRef.current) return;
+    
+    const currentScale = meshRef.current.scale.x;
+    const newScale = THREE.MathUtils.lerp(currentScale, targetScale, delta * ANIMATION_CONFIG.transitionSpeed);
+    meshRef.current.scale.setScalar(newScale);
+    
+    const floatOffset = Math.sin(
+      state.clock.elapsedTime * ANIMATION_CONFIG.floatSpeed + node.id.charCodeAt(0)
+    ) * ANIMATION_CONFIG.floatAmplitude;
+    meshRef.current.position.y = node.position[1] + floatOffset;
+    
+    if (glowRef.current) {
+      const material = glowRef.current.material as THREE.MeshBasicMaterial;
+      if (isSelected || isMultiSelected) {
+        material.opacity = 0.3 + Math.sin(state.clock.elapsedTime * ANIMATION_CONFIG.pulseSpeed) * 0.15;
+      } else {
+        material.opacity = THREE.MathUtils.lerp(material.opacity, 0.1, delta * 5);
+      }
+    }
+    
+    if (ringRef.current && isMultiSelected) {
+      ringRef.current.rotation.z += delta * 0.5;
     }
   });
   
-  const color = useMemo(() => {
-    switch (node.type) {
-      case 'person': return '#F59E0B';
-      case 'location': return '#3B82F6';
-      case 'flight': return '#EF4444';
-      case 'organization': return '#10B981';
-      default: return '#8B5CF6';
-    }
-  }, [node.type]);
+  const handleClick = useCallback((event: ThreeEvent<MouseEvent>) => {
+    event.stopPropagation();
+    onClick(node, event);
+  }, [node, onClick]);
   
-  const size = useMemo(() => {
-    const base = 0.2;
-    const occurrenceBonus = Math.min((node.occurrences || 1) / 100, 0.3);
-    return base + occurrenceBonus;
-  }, [node.occurrences]);
+  const handlePointerEnter = useCallback((event: ThreeEvent<PointerEvent>) => {
+    event.stopPropagation();
+    onHover(node);
+    document.body.style.cursor = 'pointer';
+  }, [node, onHover]);
+  
+  const handlePointerLeave = useCallback((event: ThreeEvent<PointerEvent>) => {
+    event.stopPropagation();
+    onHover(null);
+    document.body.style.cursor = 'default';
+  }, [onHover]);
   
   return (
     <group position={node.position}>
-      <mesh
-        ref={meshRef}
-        onClick={(e) => { e.stopPropagation(); onClick(node); }}
-        onPointerEnter={(e) => { e.stopPropagation(); onHover(node); }}
-        onPointerLeave={() => onHover(null)}
-      >
-        <sphereGeometry args={[size, 16, 16]} />
-        <meshBasicMaterial color={color} transparent opacity={isSelected ? 1 : 0.85} />
+      <mesh ref={glowRef} scale={baseSize * 3}>
+        <sphereGeometry args={[1, 16, 16]} />
+        <meshBasicMaterial color={colors.main} transparent opacity={0.1} depthWrite={false} />
       </mesh>
       
-      {(isHovered || isSelected) && (
-        <Text
-          position={[0, size + 0.3, 0]}
-          fontSize={0.25}
-          color="white"
-          anchorX="center"
-          anchorY="middle"
-          outlineWidth={0.02}
-          outlineColor="black"
-        >
-          {node.label.length > 20 ? node.label.slice(0, 20) + '...' : node.label}
-        </Text>
+      <mesh ref={meshRef} onClick={handleClick} onPointerEnter={handlePointerEnter} onPointerLeave={handlePointerLeave}>
+        <sphereGeometry args={[1, 32, 32]} />
+        <meshStandardMaterial
+          color={colors.main}
+          emissive={colors.main}
+          emissiveIntensity={isSelected || isMultiSelected ? 0.8 : isHovered ? 0.5 : 0.2}
+          metalness={0.3}
+          roughness={0.4}
+        />
+      </mesh>
+      
+      {isMultiSelected && (
+        <mesh ref={ringRef} rotation={[Math.PI / 2, 0, 0]} scale={baseSize * 2.2}>
+          <ringGeometry args={[0.85, 1.0, 32]} />
+          <meshBasicMaterial color="#ffffff" transparent opacity={0.9} side={THREE.DoubleSide} />
+        </mesh>
+      )}
+      
+      {isSelected && !isMultiSelected && (
+        <mesh rotation={[Math.PI / 2, 0, 0]} scale={baseSize * 1.8}>
+          <ringGeometry args={[0.9, 1.1, 32]} />
+          <meshBasicMaterial color={colors.main} transparent opacity={0.8} side={THREE.DoubleSide} />
+        </mesh>
+      )}
+      
+      {(isHovered || isSelected || isMultiSelected) && (
+        <>
+          <Text position={[0, baseSize * 2 + 0.3, 0]} fontSize={0.15} color="#ffffff" anchorX="center" anchorY="middle" outlineWidth={0.015} outlineColor="#000000">
+            {node.label}
+          </Text>
+          <Text position={[0, baseSize * 2 + 0.1, 0]} fontSize={0.08} color={colors.main} anchorX="center" anchorY="middle">
+            {node.documentCount} docs • {node.connections} connections
+          </Text>
+        </>
       )}
     </group>
   );
 }
 
-function ConnectionLine({ edge, nodes }: { edge: Edge; nodes: Node[] }) {
+// =============================================================================
+// CONNECTION LINE COMPONENT
+// =============================================================================
+
+function ConnectionLine({ edge, nodes, isHighlighted }: { edge: Edge; nodes: Node[]; isHighlighted: boolean }) {
   const fromNode = nodes.find(n => n.id === edge.from);
   const toNode = nodes.find(n => n.id === edge.to);
   
-  const lineGeometry = useMemo(() => {
-    if (!fromNode || !toNode) return null;
-    const points = [
-      new THREE.Vector3(...fromNode.position),
-      new THREE.Vector3(...toNode.position),
-    ];
-    return new THREE.BufferGeometry().setFromPoints(points);
-  }, [fromNode, toNode]);
+  if (!fromNode || !toNode) return null;
   
-  if (!lineGeometry) return null;
-  
-  const opacity = Math.min(0.1 + edge.strength * 0.05, 0.5);
+  const baseOpacity = Math.min(0.08 + (edge.strength / 100) * 0.3, 0.4);
+  const opacity = isHighlighted ? 0.8 : baseOpacity;
+  const lineWidth = isHighlighted ? 2 : 0.5 + (edge.strength / 50);
+  const color = isHighlighted ? '#00d4ff' : '#ffffff';
   
   return (
-    <primitive object={new THREE.Line(lineGeometry, new THREE.LineBasicMaterial({ color: '#F59E0B', transparent: true, opacity }))} />
+    <Line points={[fromNode.position, toNode.position]} color={color} lineWidth={lineWidth} transparent opacity={opacity} />
   );
 }
 
-export function Graph3DCore() {
-  const [nodes, setNodes] = useState<Node[]>([]);
-  const [edges, setEdges] = useState<Edge[]>([]);
-  const [selectedNode, setSelectedNode] = useState<Node | null>(null);
-  const [hoveredNode, setHoveredNode] = useState<Node | null>(null);
-  const [nodeDetails, setNodeDetails] = useState<NodeDetails | null>(null);
+// =============================================================================
+// CAMERA CONTROLLER
+// =============================================================================
+
+function CameraController({ target }: { target: [number, number, number] | null }) {
+  const controlsRef = useRef<{ target: THREE.Vector3; update: () => void } | null>(null);
+  
+  useFrame(() => {
+    if (controlsRef.current && target) {
+      controlsRef.current.target.lerp(new THREE.Vector3(...target), 0.02);
+      controlsRef.current.update();
+    }
+  });
+  
+  return (
+    <OrbitControls
+      // @ts-expect-error - OrbitControls ref typing is complex
+      ref={controlsRef}
+      enableDamping
+      dampingFactor={ANIMATION_CONFIG.dampingFactor}
+      rotateSpeed={0.5}
+      zoomSpeed={0.8}
+      minDistance={3}
+      maxDistance={50}
+    />
+  );
+}
+
+// =============================================================================
+// MAIN GRAPH COMPONENT
+// =============================================================================
+
+export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCoreProps) {
+  const [graphData, setGraphData] = useState<GraphData>({ nodes: [], edges: [] });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  
-  // Evidence panel states
-  const [showEvidencePanel, setShowEvidencePanel] = useState(false);
-  const [showConnectionEvidence, setShowConnectionEvidence] = useState(false);
-  const [connectionData, setConnectionData] = useState<{ entity1: string; entity2: string; strength: number } | null>(null);
-  const [viewingPDF, setViewingPDF] = useState<{ id: string; filename: string; entities: string[] } | null>(null);
+  const [selectedNode, setSelectedNode] = useState<Node | null>(null);
+  const [hoveredNode, setHoveredNode] = useState<Node | null>(null);
+  const [multiSelectedNodes, setMultiSelectedNodes] = useState<Set<string>>(new Set());
   
   useEffect(() => {
     const fetchGraph = async () => {
       try {
-        setLoading(true);
         const response = await fetch('http://localhost:3001/trpc/graph.getGraph?input={}');
         const data = await response.json();
         
         if (data.result?.data) {
-          setNodes(data.result.data.nodes);
-          setEdges(data.result.data.edges);
-          setError(null);
-        } else {
-          throw new Error('Invalid response format');
+          const nodesWithPositions = data.result.data.nodes.map((node: Node, i: number) => {
+            if (node.position) return node;
+            const phi = Math.acos(-1 + (2 * i) / data.result.data.nodes.length);
+            const theta = Math.sqrt(data.result.data.nodes.length * Math.PI) * phi;
+            const radius = 8 + Math.random() * 4;
+            return {
+              ...node,
+              position: [
+                radius * Math.cos(theta) * Math.sin(phi),
+                radius * Math.sin(theta) * Math.sin(phi),
+                radius * Math.cos(phi),
+              ] as [number, number, number],
+            };
+          });
+          setGraphData({ nodes: nodesWithPositions, edges: data.result.data.edges || [] });
         }
+        setLoading(false);
       } catch (err) {
         console.error('Failed to load graph:', err);
-        setError('Failed to connect to API. Make sure the API server is running on port 3001.');
+        setError('Failed to load graph data');
+        setLoading(false);
         
-        // Fallback to mock data
+        // Generate mock data for demo
         const mockNodes: Node[] = Array.from({ length: 50 }, (_, i) => ({
           id: `node-${i}`,
-          position: [
-            (Math.random() - 0.5) * 20,
-            (Math.random() - 0.5) * 20,
-            (Math.random() - 0.5) * 20,
-          ],
           label: `Entity ${i}`,
-          type: i % 3 === 0 ? 'location' : 'person',
-          occurrences: Math.floor(Math.random() * 50) + 1,
+          type: ['person', 'location', 'organization', 'date'][i % 4] as Node['type'],
+          position: [(Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15] as [number, number, number],
+          documentCount: Math.floor(Math.random() * 100) + 1,
+          connections: Math.floor(Math.random() * 20) + 1,
         }));
-        setNodes(mockNodes);
-      } finally {
-        setLoading(false);
+        setGraphData({ nodes: mockNodes, edges: [] });
+        setError(null);
       }
     };
-    
     fetchGraph();
   }, []);
   
-  const handleNodeClick = async (node: Node) => {
-    setSelectedNode(node);
+  const handleNodeClick = useCallback((node: Node, event: ThreeEvent<MouseEvent>) => {
+    const isCtrlHeld = event.nativeEvent.ctrlKey || event.nativeEvent.metaKey;
     
-    try {
-      const response = await fetch(
-        `http://localhost:3001/trpc/graph.getNodeDetails?input=${encodeURIComponent(JSON.stringify({ nodeId: node.id }))}`
-      );
-      const data = await response.json();
-      
-      if (data.result?.data) {
-        setNodeDetails(data.result.data);
-      }
-    } catch (err) {
-      console.error('Failed to load node details:', err);
+    if (isCtrlHeld) {
+      setMultiSelectedNodes(prev => {
+        const next = new Set(prev);
+        if (next.has(node.id)) next.delete(node.id);
+        else next.add(node.id);
+        return next;
+      });
+      setSelectedNode(null);
+    } else {
+      setMultiSelectedNodes(new Set());
+      const newSelected = selectedNode?.id === node.id ? null : node;
+      setSelectedNode(newSelected);
+      onNodeSelect?.(newSelected);
     }
-  };
+  }, [selectedNode, onNodeSelect]);
+  
+  const handleAnalyzeConnection = useCallback(() => {
+    if (multiSelectedNodes.size < 2) return;
+    const entities = [...multiSelectedNodes].map(nodeId => {
+      const node = graphData.nodes.find(n => n.id === nodeId);
+      return node?.label || nodeId;
+    });
+    
+    // Call prop handler
+    onAnalyzeConnection?.(entities);
+    
+    // Also dispatch CustomEvent for decoupled components
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new CustomEvent('analyzeConnection', { 
+        detail: { entities, nodeIds: [...multiSelectedNodes] }
+      }));
+    }
+  }, [multiSelectedNodes, graphData.nodes, onAnalyzeConnection]);
+  
+  const handleClearMultiSelect = useCallback(() => {
+    setMultiSelectedNodes(new Set());
+  }, []);
+  
+  const highlightedEdges = useMemo(() => {
+    const highlighted = new Set<string>();
+    const relevantNodes = new Set([selectedNode?.id, ...multiSelectedNodes].filter(Boolean) as string[]);
+    if (relevantNodes.size === 0) return highlighted;
+    graphData.edges.forEach(edge => {
+      if (relevantNodes.has(edge.from) || relevantNodes.has(edge.to)) {
+        highlighted.add(`${edge.from}-${edge.to}`);
+      }
+    });
+    return highlighted;
+  }, [selectedNode, multiSelectedNodes, graphData.edges]);
+  
+  const cameraTarget = useMemo(() => {
+    if (selectedNode) return selectedNode.position;
+    if (multiSelectedNodes.size === 1) {
+      const nodeId = [...multiSelectedNodes][0];
+      const node = graphData.nodes.find(n => n.id === nodeId);
+      return node?.position || null;
+    }
+    return null;
+  }, [selectedNode, multiSelectedNodes, graphData.nodes]);
   
   if (loading) {
     return (
-      <div className="h-screen w-full flex items-center justify-center bg-black">
+      <div className="w-full h-full flex items-center justify-center bg-[#0a0a0f]">
         <div className="text-center">
-          <div className="w-16 h-16 border-4 border-amber-500 border-t-transparent rounded-full animate-spin mx-auto mb-4" />
-          <div className="text-amber-500 text-xl animate-pulse">Loading entity network...</div>
-          <div className="text-gray-500 text-sm mt-2">Connecting to 96,322 extracted entities</div>
+          <div className="relative w-64 h-1 bg-[#1a1a24] rounded overflow-hidden mb-4">
+            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-[#00d4ff] to-transparent animate-pulse" />
+          </div>
+          <p className="font-mono text-[#00d4ff] text-sm">INITIALIZING NEURAL GRAPH...</p>
+          <p className="font-mono text-[#606070] text-xs mt-2">Loading entities</p>
+        </div>
+      </div>
+    );
+  }
+  
+  if (error && graphData.nodes.length === 0) {
+    return (
+      <div className="w-full h-full flex items-center justify-center bg-[#0a0a0f]">
+        <div className="text-center">
+          <p className="text-[#ff3366] font-mono mb-4">{error}</p>
+          <button onClick={() => window.location.reload()} className="px-4 py-2 bg-[#ff3366]/20 text-[#ff3366] rounded font-mono text-sm hover:bg-[#ff3366]/30">
+            Retry
+          </button>
         </div>
       </div>
     );
   }
   
   return (
-    <div className="h-screen w-full relative bg-black">
-      <Canvas
-        camera={{ position: [0, 0, 25], fov: 75 }}
-        gl={{ antialias: false, alpha: false, powerPreference: 'high-performance' }}
-        dpr={1}
-      >
-        <ambientLight intensity={0.5} />
-        <pointLight position={[10, 10, 10]} intensity={0.8} />
-        
-        <Stars radius={100} depth={50} count={3000} factor={4} fade speed={0.5} />
-        
-        {edges.map((edge, i) => (
-          <ConnectionLine key={i} edge={edge} nodes={nodes} />
-        ))}
-        
-        {nodes.map(node => (
-          <GraphNode
-            key={node.id}
-            node={node}
-            onClick={handleNodeClick}
-            isSelected={selectedNode?.id === node.id}
-            isHovered={hoveredNode?.id === node.id}
-            onHover={setHoveredNode}
-          />
-        ))}
-        
-        <OrbitControls enableDamping dampingFactor={0.05} maxDistance={50} minDistance={5} />
-      </Canvas>
-      
-      {/* Header */}
-      <div className="absolute top-8 left-8 text-white z-10">
-        <h1 className="text-4xl font-bold mb-2">Epstein Files</h1>
-        <p className="text-sm text-gray-400">Autonomous Investigation Interface</p>
-        <div className="mt-2 text-xs text-green-400">
-          <span className="inline-block w-2 h-2 bg-green-400 rounded-full animate-pulse mr-2" />
-          {nodes.length} entities loaded • Click to explore connections
-        </div>
-        {error && (
-          <div className="mt-2 text-xs text-red-400 bg-red-900/30 px-2 py-1 rounded">
-            {error}
-          </div>
-        )}
-      </div>
-      
-      {/* Legend */}
-      <div className="absolute bottom-8 left-8 text-white z-10 bg-black/80 rounded-lg p-4">
-        <div className="text-xs font-semibold mb-2">ENTITY TYPES</div>
-        <div className="flex flex-wrap gap-4 text-xs">
-          <div className="flex items-center gap-2">
-            <div className="w-3 h-3 rounded-full bg-amber-500" />
-            <span>Person</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <div className="w-3 h-3 rounded-full bg-blue-500" />
-            <span>Location</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <div className="w-3 h-3 rounded-full bg-red-500" />
-            <span>Flight</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <div className="w-3 h-3 rounded-full bg-green-500" />
-            <span>Organization</span>
-          </div>
-        </div>
-      </div>
-      
-      {/* Selected Node Details Panel */}
-      {selectedNode && (
-        <div className="absolute bottom-8 right-8 w-96 bg-black/95 border border-gray-800 rounded-lg p-4 z-10 max-h-[60vh] overflow-y-auto">
-          <div className="flex items-start justify-between mb-3">
-            <div>
-              <h3 className="text-white font-bold text-lg">{selectedNode.label}</h3>
-              <span className={`text-xs px-2 py-0.5 rounded ${
-                selectedNode.type === 'person' ? 'bg-amber-500/20 text-amber-400' :
-                selectedNode.type === 'location' ? 'bg-blue-500/20 text-blue-400' :
-                'bg-gray-500/20 text-gray-400'
-              }`}>
-                {selectedNode.type}
-              </span>
-            </div>
-            <button 
-              onClick={() => { setSelectedNode(null); setNodeDetails(null); }}
-              className="text-gray-500 hover:text-white"
-            >
-              ✕
-            </button>
-          </div>
-          
-          {nodeDetails ? (
-            <>
-              <div className="grid grid-cols-2 gap-2 mb-4">
-                <div className="bg-gray-900 rounded p-2">
-                  <div className="text-xs text-gray-500">Mentions</div>
-                  <div className="text-xl font-bold text-white">{nodeDetails.occurrences}</div>
-                </div>
-                <div className="bg-gray-900 rounded p-2">
-                  <div className="text-xs text-gray-500">Documents</div>
-                  <div className="text-xl font-bold text-white">{nodeDetails.documentIds?.length || 0}</div>
-                </div>
+    <div className="w-full h-full relative">
+      {multiSelectedNodes.size > 0 && (
+        <div className="absolute top-4 left-1/2 -translate-x-1/2 z-10">
+          <div className="bg-[#12121a]/95 backdrop-blur-sm border border-[#00d4ff]/30 rounded-lg px-5 py-3 shadow-xl">
+            <div className="flex items-center gap-4">
+              <div className="flex items-center gap-2">
+                <div className="w-2 h-2 rounded-full bg-[#00d4ff] animate-pulse" />
+                <span className="text-[#00d4ff] font-mono text-sm font-medium">{multiSelectedNodes.size} ENTITIES SELECTED</span>
               </div>
-              
-              {nodeDetails.context && (
-                <div className="mb-4">
-                  <div className="text-xs text-gray-500 mb-1">Context</div>
-                  <div className="text-sm text-gray-300">{nodeDetails.context}</div>
-                </div>
-              )}
-              
-              {nodeDetails.connections && nodeDetails.connections.length > 0 && (
-                <div>
-                  <div className="text-xs text-gray-500 mb-2">Connected Entities ({nodeDetails.connections.length})</div>
-                  <div className="space-y-1 max-h-40 overflow-y-auto">
-                    {nodeDetails.connections.slice(0, 10).map((conn, i) => (
-                      <div 
-                        key={i}
-                        className="flex items-center justify-between bg-gray-900/50 rounded px-2 py-1 text-sm cursor-pointer hover:bg-gray-800"
-                        onClick={() => {
-                          const connNode = nodes.find(n => n.id === conn.id);
-                          if (connNode) handleNodeClick(connNode);
-                        }}
-                      >
-                        <span className="text-gray-300 truncate">{conn.name}</span>
-                        <span className="text-xs text-amber-500">{conn.strength} docs</span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
-              
-              <button 
-                onClick={() => setShowEvidencePanel(true)}
-                className="w-full mt-4 bg-amber-500/20 text-amber-400 py-2 rounded text-sm hover:bg-amber-500/30 transition"
-              >
-                View Source Documents ({nodeDetails.documentIds?.length || 0})
-              </button>
-              
-              {nodeDetails.connections && nodeDetails.connections.length > 0 && nodeDetails.connections[0] && (
-                <button 
-                  onClick={() => {
-                    const topConn = nodeDetails.connections?.[0];
-                    if (topConn) {
-                      setConnectionData({
-                        entity1: selectedNode.label,
-                        entity2: topConn.name,
-                        strength: topConn.strength,
-                      });
-                      setShowConnectionEvidence(true);
-                    }
-                  }}
-                  className="w-full mt-2 bg-gray-800 text-gray-300 py-2 rounded text-sm hover:bg-gray-700 transition"
-                >
-                  View Connection Evidence
+              <div className="h-4 w-px bg-[#ffffff20]" />
+              <span className="text-[#606070] font-mono text-xs">CTRL+Click to add more</span>
+              <div className="h-4 w-px bg-[#ffffff20]" />
+              {multiSelectedNodes.size >= 2 && (
+                <button onClick={handleAnalyzeConnection} className="px-4 py-1.5 bg-[#00d4ff] text-[#0a0a0f] rounded font-mono text-xs font-bold hover:bg-[#00d4ff]/90 transition-colors flex items-center gap-2">
+                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  </svg>
+                  ANALYZE CONNECTION
                 </button>
               )}
-            </>
-          ) : (
-            <div className="text-gray-500 text-sm animate-pulse">Loading details...</div>
-          )}
+              <button onClick={handleClearMultiSelect} className="p-1.5 text-[#606070] hover:text-[#ff3366] transition-colors" title="Clear selection">
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+            <div className="flex flex-wrap gap-2 mt-2">
+              {[...multiSelectedNodes].map(nodeId => {
+                const node = graphData.nodes.find(n => n.id === nodeId);
+                const colors = getNodeColor(node?.type || 'person');
+                return (
+                  <span key={nodeId} className="px-2 py-0.5 rounded text-xs font-mono" style={{ backgroundColor: `${colors.main}20`, color: colors.main, border: `1px solid ${colors.main}40` }}>
+                    {node?.label || nodeId}
+                  </span>
+                );
+              })}
+            </div>
+          </div>
         </div>
       )}
       
-      {/* Evidence Panel - Shows all documents for selected entity */}
-      {showEvidencePanel && selectedNode && (
-        <EvidencePanel
-          entityName={selectedNode.label}
-          entityType={selectedNode.type}
-          onClose={() => setShowEvidencePanel(false)}
-          onViewDocument={(doc) => {
-            setViewingPDF({
-              id: doc.id,
-              filename: doc.filename,
-              entities: [selectedNode.label],
-            });
-            setShowEvidencePanel(false);
-          }}
-        />
+      {multiSelectedNodes.size === 0 && !selectedNode && (
+        <div className="absolute bottom-4 left-4 z-10">
+          <div className="bg-[#12121a]/80 backdrop-blur-sm border border-[#ffffff10] rounded-lg px-4 py-2">
+            <p className="text-[#606070] font-mono text-xs">
+              <span className="text-[#00d4ff]">Click</span> node to select • 
+              <span className="text-[#ffb800] ml-2">CTRL+Click</span> to multi-select • 
+              <span className="text-[#ff3366] ml-2">Scroll</span> to zoom
+            </p>
+          </div>
+        </div>
       )}
       
-      {/* Connection Evidence Panel - Shows documents proving a connection */}
-      {showConnectionEvidence && connectionData && (
-        <ConnectionEvidencePanel
-          entity1={connectionData.entity1}
-          entity2={connectionData.entity2}
-          connectionStrength={connectionData.strength}
-          onClose={() => setShowConnectionEvidence(false)}
-          onViewDocument={(doc) => {
-            setViewingPDF({
-              id: doc.id,
-              filename: doc.filename,
-              entities: [connectionData.entity1, connectionData.entity2],
-            });
-            setShowConnectionEvidence(false);
-          }}
-        />
-      )}
+      <div className="absolute top-4 right-4 z-10">
+        <div className="bg-[#12121a]/80 backdrop-blur-sm border border-[#ffffff10] rounded-lg px-3 py-2">
+          <p className="text-[#606070] font-mono text-xs">
+            <span className="text-[#00d4ff]">{graphData.nodes.length.toLocaleString()}</span> entities • 
+            <span className="text-[#ffb800] ml-2">{graphData.edges.length.toLocaleString()}</span> connections
+          </p>
+        </div>
+      </div>
       
-      {/* PDF Viewer */}
-      {viewingPDF && (
-        <PDFViewer
-          documentId={viewingPDF.id}
-          filename={viewingPDF.filename}
-          highlightEntities={viewingPDF.entities}
-          onClose={() => setViewingPDF(null)}
-        />
-      )}
+      <Canvas camera={{ position: [0, 0, 20], fov: 60 }} gl={{ antialias: true, alpha: true }} style={{ background: '#0a0a0f' }} onPointerMissed={() => { if (!multiSelectedNodes.size) { setSelectedNode(null); onNodeSelect?.(null); } }}>
+        <ambientLight intensity={0.4} />
+        <pointLight position={[10, 10, 10]} intensity={0.6} color="#00d4ff" />
+        <pointLight position={[-10, -10, -10]} intensity={0.4} color="#ffb800" />
+        <pointLight position={[0, 15, 0]} intensity={0.3} color="#ffffff" />
+        <fog attach="fog" args={['#0a0a0f', 20, 60]} />
+        <CameraController target={cameraTarget} />
+        {graphData.edges.map(edge => (
+          <ConnectionLine key={`${edge.from}-${edge.to}`} edge={edge} nodes={graphData.nodes} isHighlighted={highlightedEdges.has(`${edge.from}-${edge.to}`)} />
+        ))}
+        {graphData.nodes.map(node => (
+          <GraphNode key={node.id} node={node} isSelected={selectedNode?.id === node.id} isHovered={hoveredNode?.id === node.id} isMultiSelected={multiSelectedNodes.has(node.id)} onHover={setHoveredNode} onClick={handleNodeClick} />
+        ))}
+      </Canvas>
     </div>
   );
 }
+
+export default Graph3DCore;

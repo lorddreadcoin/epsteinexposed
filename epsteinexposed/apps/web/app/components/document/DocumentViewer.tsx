@@ -1,252 +1,140 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
 
 interface DocumentViewerProps {
   documentId: string;
+  highlightEntities?: string[];
   onClose: () => void;
 }
 
-interface DocumentInfo {
-  id: string;
-  filename: string;
-  path: string;
-  pageCount: number;
-  dataset: string;
-  entities?: {
-    people?: Array<{ name: string; context?: string }>;
-    locations?: Array<{ name: string; type?: string }>;
-    dates?: Array<{ date: string; event?: string }>;
-  };
-}
-
-export function DocumentViewer({ documentId, onClose }: DocumentViewerProps) {
-  const [documentInfo, setDocumentInfo] = useState<DocumentInfo | null>(null);
+export function DocumentViewer({ documentId, highlightEntities = [], onClose }: DocumentViewerProps) {
   const [loading, setLoading] = useState(true);
-  const [activeTab, setActiveTab] = useState<'preview' | 'entities' | 'redactions'>('entities');
+  const [pdfUrl, setPdfUrl] = useState<string | null>(null);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [totalPages, setTotalPages] = useState(1);
+  const [zoom, setZoom] = useState(100);
   
   useEffect(() => {
-    // In a real implementation, fetch document details from API
-    setDocumentInfo({
-      id: documentId,
-      filename: `${documentId}.pdf`,
-      path: `/documents/${documentId}.pdf`,
-      pageCount: Math.floor(Math.random() * 20) + 1,
-      dataset: 'DataSet 8',
-      entities: {
-        people: [
-          { name: 'Jeffrey Epstein', context: 'Primary subject' },
-          { name: 'Ghislaine Maxwell', context: 'Associate' },
-        ],
-        locations: [
-          { name: 'Palm Beach', type: 'city' },
-          { name: 'Little St. James', type: 'island' },
-        ],
-        dates: [
-          { date: '2001-06-15', event: 'Meeting referenced' },
-        ],
-      },
-    });
-    setLoading(false);
+    const fetchDocument = async () => {
+      setLoading(true);
+      try {
+        const response = await fetch(`/api/documents/${documentId}`);
+        if (!response.ok) throw new Error('Document not found');
+        const data = await response.json();
+        setPdfUrl(data.url);
+        setTotalPages(data.pageCount || 1);
+      } catch (err) {
+        console.error('Failed to load document:', err);
+        setPdfUrl(`/documents/${documentId}.pdf`);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchDocument();
   }, [documentId]);
   
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      switch (e.key) {
+        case 'Escape': onClose(); break;
+        case 'ArrowRight': setCurrentPage(p => Math.min(p + 1, totalPages)); break;
+        case 'ArrowLeft': setCurrentPage(p => Math.max(p - 1, 1)); break;
+        case '+': case '=': setZoom(z => Math.min(z + 25, 200)); break;
+        case '-': setZoom(z => Math.max(z - 25, 50)); break;
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [onClose, totalPages]);
+  
   return (
-    <AnimatePresence>
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        exit={{ opacity: 0 }}
-        className="fixed inset-0 bg-black/95 z-50 flex"
-        onClick={onClose}
-      >
-        <motion.div
-          initial={{ x: '100%' }}
-          animate={{ x: 0 }}
-          exit={{ x: '100%' }}
-          transition={{ type: 'spring', damping: 25 }}
-          className="ml-auto w-full max-w-4xl bg-gray-900 h-full flex flex-col"
-          onClick={(e) => e.stopPropagation()}
-        >
-          {/* Header */}
-          <div className="p-4 border-b border-gray-800 flex items-center justify-between">
-            <div>
-              <h2 className="text-white font-semibold">{documentInfo?.filename || 'Loading...'}</h2>
-              <div className="text-xs text-gray-500 mt-1">
-                {documentInfo?.dataset} • {documentInfo?.pageCount} pages
+    <div className="fixed inset-0 z-50 bg-black/95 flex flex-col">
+      <div className="h-14 bg-[#12121a] border-b border-[#ffffff15] px-4 flex items-center justify-between shrink-0">
+        <div className="flex items-center gap-4">
+          <span className="font-mono text-sm text-[#00d4ff]">DOC-{documentId}</span>
+          {highlightEntities.length > 0 && (
+            <div className="flex items-center gap-2">
+              <span className="text-xs text-[#606070]">Highlighting:</span>
+              <div className="flex gap-1">
+                {highlightEntities.slice(0, 3).map((entity, i) => (
+                  <span key={i} className="px-2 py-0.5 bg-[#ffb800]/20 text-[#ffb800] text-xs rounded font-mono">{entity}</span>
+                ))}
+                {highlightEntities.length > 3 && <span className="text-xs text-[#606070]">+{highlightEntities.length - 3} more</span>}
               </div>
             </div>
-            <button
-              onClick={onClose}
-              className="text-gray-400 hover:text-white p-2"
-            >
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+          )}
+        </div>
+        <div className="flex items-center gap-3">
+          <div className="flex items-center gap-1 bg-[#1a1a24] rounded border border-[#ffffff15]">
+            <button onClick={() => setZoom(z => Math.max(z - 25, 50))} className="p-1.5 hover:bg-[#ffffff10] transition-colors" title="Zoom out (-)">
+              <svg className="w-4 h-4 text-[#a0a0b0]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM13 10H7" />
+              </svg>
+            </button>
+            <span className="px-2 text-xs text-[#a0a0b0] font-mono min-w-[48px] text-center">{zoom}%</span>
+            <button onClick={() => setZoom(z => Math.min(z + 25, 200))} className="p-1.5 hover:bg-[#ffffff10] transition-colors" title="Zoom in (+)">
+              <svg className="w-4 h-4 text-[#a0a0b0]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v6m3-3H7" />
               </svg>
             </button>
           </div>
-          
-          {/* Tabs */}
-          <div className="flex border-b border-gray-800">
-            {(['entities', 'redactions', 'preview'] as const).map((tab) => (
-              <button
-                key={tab}
-                onClick={() => setActiveTab(tab)}
-                className={`px-4 py-3 text-sm font-medium transition-colors ${
-                  activeTab === tab
-                    ? 'text-amber-500 border-b-2 border-amber-500'
-                    : 'text-gray-400 hover:text-white'
-                }`}
-              >
-                {tab.charAt(0).toUpperCase() + tab.slice(1)}
-              </button>
-            ))}
+          <div className="flex items-center gap-1 bg-[#1a1a24] rounded border border-[#ffffff15]">
+            <button onClick={() => setCurrentPage(p => Math.max(p - 1, 1))} disabled={currentPage <= 1} className="p-1.5 hover:bg-[#ffffff10] disabled:opacity-50 disabled:cursor-not-allowed transition-colors" title="Previous page (←)">
+              <svg className="w-4 h-4 text-[#a0a0b0]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+              </svg>
+            </button>
+            <span className="px-2 text-xs text-[#a0a0b0] font-mono min-w-[64px] text-center">{currentPage} / {totalPages}</span>
+            <button onClick={() => setCurrentPage(p => Math.min(p + 1, totalPages))} disabled={currentPage >= totalPages} className="p-1.5 hover:bg-[#ffffff10] disabled:opacity-50 disabled:cursor-not-allowed transition-colors" title="Next page (→)">
+              <svg className="w-4 h-4 text-[#a0a0b0]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </button>
           </div>
-          
-          {/* Content */}
-          <div className="flex-1 overflow-y-auto p-4">
-            {loading ? (
-              <div className="flex items-center justify-center h-full">
-                <div className="w-8 h-8 border-2 border-amber-500 border-t-transparent rounded-full animate-spin" />
-              </div>
-            ) : activeTab === 'entities' ? (
-              <div className="space-y-6">
-                {/* People */}
-                <div>
-                  <h3 className="text-sm font-semibold text-gray-400 mb-3">PEOPLE MENTIONED</h3>
-                  <div className="space-y-2">
-                    {documentInfo?.entities?.people?.map((person, i) => (
-                      <div key={i} className="flex items-center gap-3 bg-gray-800/50 rounded-lg p-3">
-                        <div className="w-8 h-8 rounded-full bg-amber-500/20 flex items-center justify-center">
-                          <span className="text-amber-500 text-sm">👤</span>
-                        </div>
-                        <div>
-                          <div className="text-white font-medium">{person.name}</div>
-                          {person.context && (
-                            <div className="text-xs text-gray-500">{person.context}</div>
-                          )}
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-                
-                {/* Locations */}
-                <div>
-                  <h3 className="text-sm font-semibold text-gray-400 mb-3">LOCATIONS</h3>
-                  <div className="space-y-2">
-                    {documentInfo?.entities?.locations?.map((loc, i) => (
-                      <div key={i} className="flex items-center gap-3 bg-gray-800/50 rounded-lg p-3">
-                        <div className="w-8 h-8 rounded-full bg-blue-500/20 flex items-center justify-center">
-                          <span className="text-blue-500 text-sm">📍</span>
-                        </div>
-                        <div>
-                          <div className="text-white font-medium">{loc.name}</div>
-                          {loc.type && (
-                            <div className="text-xs text-gray-500">{loc.type}</div>
-                          )}
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-                
-                {/* Dates */}
-                <div>
-                  <h3 className="text-sm font-semibold text-gray-400 mb-3">DATES</h3>
-                  <div className="space-y-2">
-                    {documentInfo?.entities?.dates?.map((date, i) => (
-                      <div key={i} className="flex items-center gap-3 bg-gray-800/50 rounded-lg p-3">
-                        <div className="w-8 h-8 rounded-full bg-green-500/20 flex items-center justify-center">
-                          <span className="text-green-500 text-sm">📅</span>
-                        </div>
-                        <div>
-                          <div className="text-white font-medium">{date.date}</div>
-                          {date.event && (
-                            <div className="text-xs text-gray-500">{date.event}</div>
-                          )}
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              </div>
-            ) : activeTab === 'redactions' ? (
-              <div className="space-y-4">
-                <div className="bg-red-500/10 border border-red-500/30 rounded-lg p-4">
-                  <h3 className="text-red-400 font-semibold mb-2">⚠️ Redaction Analysis</h3>
-                  <p className="text-sm text-gray-400">
-                    This document contains redacted sections. Our AI is analyzing patterns
-                    to attempt contextual reconstruction.
-                  </p>
-                </div>
-                
-                <div className="space-y-3">
-                  <div className="bg-gray-800/50 rounded-lg p-4">
-                    <div className="flex items-center justify-between mb-2">
-                      <span className="text-sm text-gray-400">Redaction #1</span>
-                      <span className="text-xs bg-amber-500/20 text-amber-400 px-2 py-0.5 rounded">47 chars</span>
-                    </div>
-                    <div className="bg-black rounded p-2 font-mono text-sm">
-                      <span className="text-gray-600">...meeting with </span>
-                      <span className="bg-red-500/30 text-red-300 px-1">████████████████████</span>
-                      <span className="text-gray-600"> at the residence...</span>
-                    </div>
-                    <div className="mt-2 text-xs text-gray-500">
-                      <strong className="text-amber-400">AI Suggestion:</strong> Based on context and character count,
-                      possible matches: &quot;[Name Redacted - High Profile]&quot;
-                    </div>
-                  </div>
-                  
-                  <div className="bg-gray-800/50 rounded-lg p-4">
-                    <div className="flex items-center justify-between mb-2">
-                      <span className="text-sm text-gray-400">Redaction #2</span>
-                      <span className="text-xs bg-amber-500/20 text-amber-400 px-2 py-0.5 rounded">23 chars</span>
-                    </div>
-                    <div className="bg-black rounded p-2 font-mono text-sm">
-                      <span className="text-gray-600">...transferred $</span>
-                      <span className="bg-red-500/30 text-red-300 px-1">███████████</span>
-                      <span className="text-gray-600"> to account...</span>
-                    </div>
-                    <div className="mt-2 text-xs text-gray-500">
-                      <strong className="text-amber-400">AI Suggestion:</strong> Financial amount, 
-                      pattern suggests 7-8 digit sum
-                    </div>
-                  </div>
-                </div>
-              </div>
-            ) : (
-              <div className="h-full flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-6xl mb-4">📄</div>
-                  <div className="text-gray-400 mb-2">PDF Preview</div>
-                  <div className="text-xs text-gray-600">
-                    Document preview requires PDF hosting setup
-                  </div>
-                  <button className="mt-4 px-4 py-2 bg-amber-500/20 text-amber-400 rounded-lg text-sm hover:bg-amber-500/30 transition">
-                    Download Original PDF
-                  </button>
-                </div>
-              </div>
-            )}
+          {pdfUrl && (
+            <a href={pdfUrl} download={`epstein-doc-${documentId}.pdf`} className="p-2 hover:bg-[#ffffff10] rounded transition-colors" title="Download PDF">
+              <svg className="w-4 h-4 text-[#a0a0b0]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+              </svg>
+            </a>
+          )}
+          <button onClick={onClose} className="p-2 hover:bg-[#ff3366]/20 rounded transition-colors group" title="Close (Esc)">
+            <svg className="w-4 h-4 text-[#a0a0b0] group-hover:text-[#ff3366]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+      </div>
+      
+      <div className="flex-1 overflow-auto flex items-start justify-center p-8">
+        {loading ? (
+          <div className="flex flex-col items-center gap-4">
+            <div className="w-8 h-8 border-2 border-[#00d4ff] border-t-transparent rounded-full animate-spin" />
+            <p className="text-[#606070] font-mono text-sm">Loading document...</p>
           </div>
-          
-          {/* Footer */}
-          <div className="p-4 border-t border-gray-800 flex items-center justify-between">
-            <div className="text-xs text-gray-500">
-              Document ID: {documentId}
-            </div>
-            <div className="flex gap-2">
-              <button className="px-3 py-1.5 bg-gray-800 text-gray-300 rounded text-sm hover:bg-gray-700 transition">
-                Export Analysis
-              </button>
-              <button className="px-3 py-1.5 bg-amber-500 text-black rounded text-sm font-medium hover:bg-amber-400 transition">
-                Flag for Review
-              </button>
-            </div>
+        ) : pdfUrl ? (
+          <div style={{ transform: `scale(${zoom / 100})`, transformOrigin: 'top center', transition: 'transform 0.2s ease' }}>
+            <iframe src={`${pdfUrl}#page=${currentPage}&toolbar=0`} className="w-[850px] h-[1100px] bg-white shadow-2xl rounded" title={`Document ${documentId}`} />
           </div>
-        </motion.div>
-      </motion.div>
-    </AnimatePresence>
+        ) : (
+          <div className="text-center">
+            <p className="text-[#ff3366] font-mono mb-4">Document URL not available</p>
+            <button onClick={onClose} className="px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
+          </div>
+        )}
+      </div>
+      
+      <div className="h-10 bg-[#12121a] border-t border-[#ffffff15] px-4 flex items-center justify-center">
+        <p className="text-[#606070] font-mono text-xs">
+          <span className="text-[#00d4ff]">Esc</span> close • 
+          <span className="text-[#00d4ff] ml-3">←/→</span> pages • 
+          <span className="text-[#00d4ff] ml-3">+/-</span> zoom • 
+          <span className="text-[#ffb800] ml-3">Ctrl+F</span> search in PDF
+        </p>
+      </div>
+    </div>
   );
 }
+
+export default DocumentViewer;

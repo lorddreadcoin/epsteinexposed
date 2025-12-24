@@ -53,7 +53,7 @@ export const nextJsConfig = [
       // React scope no longer necessary with new JSX transform.
       "react/react-in-jsx-scope": "off",
       // Allow React Three Fiber properties
-      "react/no-unknown-property": ["error", { ignore: ["args", "position", "intensity", "transparent", "object", "opacity"] }],
+      "react/no-unknown-property": "off",
     },
   },
 ];

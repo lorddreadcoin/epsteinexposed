@@ -6,12 +6,18 @@
     "dev": "tsx watch src/server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
-    "ingest": "tsx scripts/ingest-docs.ts"
+    "ingest": "tsx scripts/ingest-docs.ts",
+    "setup:data": "powershell -ExecutionPolicy Bypass -File scripts/setup-all-data.ps1",
+    "fetch:external": "tsx scripts/fetch-external-data.ts",
+    "parse:blackbook": "tsx scripts/parse-black-book.ts",
+    "parse:flights": "tsx scripts/parse-flight-logs.ts",
+    "build:index": "tsx scripts/build-unified-index.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "@trpc/server": "^11.8.1",
     "cors": "^2.8.5",
+    "csv-parse": "^5.6.0",
     "dotenv": "^16.4.5",
     "express": "^5.2.1",
     "pdf-parse": "^1.1.1",
