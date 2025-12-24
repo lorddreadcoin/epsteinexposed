@@ -1,7 +1,7 @@
 [build]
-  base = "epsteinexposed/apps/web"
-  command = "npm install && npm run build"
-  publish = ".next"
+  base = "epsteinexposed"
+  command = "corepack enable && pnpm install && cd apps/web && pnpm run build"
+  publish = "apps/web/.next"
 
 [build.environment]
   NODE_VERSION = "20"
