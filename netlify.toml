@@ -1,6 +1,6 @@
 [build]
   base = "epsteinexposed"
-  command = "corepack enable && pnpm install && cd apps/web && pnpm run build"
+  command = "corepack enable && pnpm install && pnpm --filter web build"
   publish = "apps/web/.next"
 
 [build.environment]
