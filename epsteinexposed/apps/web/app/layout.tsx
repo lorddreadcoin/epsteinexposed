@@ -16,11 +16,21 @@ export const metadata: Metadata = {
   title: "Epstein Exposed | Public Investigation Platform",
   description: "The definitive cross-referenced database of 11,622 DOJ documents, flight logs, and the infamous Black Book. AI-powered analysis with source citations.",
   keywords: ["Epstein", "investigation", "DOJ documents", "flight logs", "Black Book", "AI analysis", "public records"],
-  authors: [{ name: "Epstein Exposed Team" }],
+  authors: [{ name: "The Legendary Dankster A.I. Algorithm" }],
+  icons: {
+    icon: "/favicon.ico",
+  },
   openGraph: {
     title: "Epstein Exposed | Public Investigation Platform",
     description: "Cross-referenced investigation of 11,622 DOJ documents + unredacted sources. CTRL+Click entities to analyze connections.",
-    images: ["/og-image.png"],
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Epstein Exposed - Public Investigation Platform",
+      },
+    ],
     type: "website",
     siteName: "Epstein Exposed",
   },
@@ -28,7 +38,15 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Epstein Exposed",
     description: "The definitive public investigation platform - 11,622 documents cross-referenced with flight logs & Black Book",
-    images: ["/og-image.png"],
+    images: [
+      {
+        url: "/twitter-image.png",
+        width: 1200,
+        height: 600,
+        alt: "Epstein Exposed",
+      },
+    ],
+    creator: "@danksterintel",
   },
   robots: {
     index: true,
