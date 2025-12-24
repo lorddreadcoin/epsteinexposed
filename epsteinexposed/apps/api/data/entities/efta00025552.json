@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00025552",
+    "filename": "EFTA00025552.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025552.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n(USANYS)\" \n(USANYS)\" <=.• \nSubject: June 25 Production in Epstein FOIA \nDate: Sun, 13 Jun 2021 23:31:10 +0000 \nHi M, \nJust checking in—BOP currently has a deadline of June 25 to produce documents without any redactions based on Noel in \nthe Epstein FOIA. Is everything on track in Noel for that date to still work? As in, all interviews or any other processes that \ncould support 7(A) withholdings will be wrapped up by June 25, right? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00025552",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "by June 25, right? \nThanks, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTele"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.414Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019929",
+    "filename": "EFTA00019929.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019929.pdf",
+    "text": "\n\nFrom: Robert Glassman <IIMMIII> \nTo: \nCc: \nSubject: Re: bail application \nDate: Wed, 02 Dec 2020 23:32:10 +0000 \nThanks for the update \nRobert \nS. Glassman \nPanish Shea & Boyle \npsblaw.com \nOn Dec 2, 2020, at 2:54 PM, I=IIMvvrote: \nRobert, \nWe wanted to let you know that Ghislaine Maxwell's attorneys intend to file a new bail application. The application has \nnot yet been filed, and we don't have a specific briefing schedule or hearing date. We will make sure to keep you \nupdated, but we wanted to touch base in advance to make sure you were aware. As always, please feel free to give us a \ncall if you have any questions or if you'd like to discuss this. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00019929",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Mvvrote: \nRobert, \nWe wanted to let you know that Ghislaine Maxwell's attorneys intend to file a new bail application"
+      },
+      {
+        "name": "Robert Glassman",
+        "role": "extracted",
+        "context": "From: Robert Glassman <IIMMIII> \nTo: \nCc: \nSubject:"
+      },
+      {
+        "name": "Glassman \nPanish",
+        "role": "extracted",
+        "context": "ks for the update \nRobert \nS. Glassman \nPanish Shea & Boyle \npsblaw.com \nOn"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "ish Shea & Boyle \npsblaw.com \nOn Dec 2, 2020, at 2:54 PM, I=IIMvvr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to discuss this. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.880Z"
+}

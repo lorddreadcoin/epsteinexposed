@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032237",
+    "filename": "EFTA00032237.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032237.pdf",
+    "text": "\n\nFrom: \nTo:' \n(USANYS)\"  \nCc: ' \n(USANYS)\"\nSubject: RE: UNIT UPDATES ARE DUE \nDate: Fri, 07 Dec 2018 16:25:11 +0000 \nImportance: Normal \nAttachments: PC_Unitr_Short_Form_Update.12.6.18.v2docx.docx \nAttached. \nFrom: \n(USANYS) \nSent: Friday, December 7, 201810:45 AM \nTo: \nCc: (USANYS) < \nSubject: RE: UNIT UPDATES ARE DUE \nYou'll have PC in about 15 minutes. \nFrom: \nSent: Friday, December 7, 2018 10:40 AM \nTo: \n(USANYS) < \n(USANYS) \n< \n>; \n(USANYS) \nSubject: UNIT UPDATES ARE DUE \nImportance: High \nGood Morning, \n(USANYS) \n6 \nUnit updates are due. Please let me know if you plan on submitting and \nwhen I can expect to receive them. \nThanks! \nEFTA00032237",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 16:25:11 +0000 \nImportance: Normal \nAttachments: PC_Unitr_Short_Form_Update.1"
+      },
+      {
+        "name": "High \nGood",
+        "role": "extracted",
+        "context": "UPDATES ARE DUE \nImportance: High \nGood Morning, \n(USANYS) \n6 \nUnit u"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-07",
+        "event": "December 7, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.925Z"
+}

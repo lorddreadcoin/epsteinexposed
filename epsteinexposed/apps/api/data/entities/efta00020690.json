@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00020690",
+    "filename": "EFTA00020690.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020690.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: LOL \nDate: Thu, 25 Apr 2019 22:45:03 +0000 \nImportance: Normal \nFYI, decoding the legend --\nCYYR: Newfoundland, Canada \nKETB: \nTeterboro, NJ \nyou beat me to it \n \nOri:inal Message---\nFrom: \nSent: Thursda , April 25, 2019 18:37 \nTo: \nCc: \nSubject: Epstein Travel \nAttached is a summary of Epstein's travel from 1.1.2015 to 4.21.19. \nSpecial Agent \nFBI New York \nVCAC/Human Trafficking \nEFTA00020690",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Travel",
+        "role": "extracted",
+        "context": "019 18:37 \nTo: \nCc: \nSubject: Epstein Travel \nAttached is a summary of Eps"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "el from 1.1.2015 to 4.21.19. \nSpecial Agent \nFBI New York \nVCAC/Human Tra"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ial Agent \nFBI New York \nVCAC/Human Trafficking \nEFTA00020690"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Teterboro",
+        "type": "location"
+      },
+      {
+        "name": "Teterboro, NJ",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-04-25",
+        "event": "April 25, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.360Z"
+}

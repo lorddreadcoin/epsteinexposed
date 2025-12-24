@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00029240",
+    "filename": "EFTA00029240.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029240.pdf",
+    "text": "\n\nFrom: \n\" alMliff' \nTo:' \n\" ala \nCc: (USANYS)\" cz\nIMIE> \nSubject: \nDate: Thu, 08 Apr 2021 14:35:26 +0000 \nAttachments: \nUSGME01220266.doe \nFYI, I came across this in relativity. I checked, and it isn't already in his witness folder. Just passing along in case you hadn't \nseen it. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10O07 \nEFTA00029240",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "in case you hadn't \nseen it. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t \nseen it. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10O07 \nEFTA00029240"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.075Z"
+}

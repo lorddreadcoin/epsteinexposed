@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00023411",
+    "filename": "EFTA00023411.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023411.pdf",
+    "text": "\n\nFrom: \n\" \naMIE> \nTo: Nathan NYSD Chambers •t:\n> \nCc: USANYS \" \nChristian Everdell \n1 \nLaura Mennin er \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 \nDate: Sat, 13 Nov 2021 05:20:59 +0000 \nAttachments: 2021-11-12_GMJetter re_GX_52_Redacted.pdf; 2021-11-\n12_GMJetter re_GX_52.proposed_redactions.pdf; GX-52-G.pdf \nChambers, \nThe Government respectfully submits the attached letter, both unredacted and with proposed redactions, along with the \nexhibit referenced in the letter, which is respectfully requested to be filed under seal. The Government has filed a version \non ECF that implements the proposed redactions. \nThank you. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00023411",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ll \n1 \nLaura Mennin er \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 \nDate: Sat, 13 Nov 2021 05:20:59 +000"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "Chambers •t:\n> \nCc: USANYS \" \nChristian Everdell \n1 \nLaura Mennin er \nSubject:"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "NYS \" \nChristian Everdell \n1 \nLaura Mennin er \nSubject: United States v."
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": ".pdf; GX-52-G.pdf \nChambers, \nThe Government respectfully submits the atta"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "osed redactions. \nThank you. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00023411"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.908Z"
+}

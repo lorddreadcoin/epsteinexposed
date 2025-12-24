@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021176",
+    "filename": "EFTA00021176.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021176.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Maxwell \nDate: Tue, 21 Sep 2021 14:36:42 +0000 \nThanks for chatting yesterday. As discussed, here is a list of potential testifying witnesses for you to check for in your \nfiles/emails. Please let us know if you have any questions. \nThanks! \nLara \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00021176",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Maxwell \nDate: Tue, 21 Sep 2021 14:36:42 +0"
+      },
+      {
+        "name": "Lara \nAssistant",
+        "role": "extracted",
+        "context": "have any questions. \nThanks! \nLara \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Lara \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.140Z"
+}

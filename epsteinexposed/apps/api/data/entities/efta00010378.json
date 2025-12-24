@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00010378",
+    "filename": "EFTA00010378.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010378.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: delivery of hard drive to MDC for discovery production to inmate \nDate: Wed, 05 Aug 2020 20:34:33 +0000 \nWe have a hard drive with loaded discovery that we need to deliver to Ghislaine Maxwell at MDC. Could you \nplease let us know what the current protocol is for that? Also, it's our understanding that hard drives with discovery \nmaterials for inmates needs to be non-encrypted (and not have a password for access), is that also correct? \nWe're hoping to get these materials to her tomorrow if at all possible, so we greatly appreciate your help. And I'm \nreachable any time \nal \nif it would be helpful to discuss. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00010378",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "with loaded discovery that we need to deliver to Ghislaine Maxwell at MDC. Could you \nplease let us know what the cu"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "uss. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.848Z"
+}

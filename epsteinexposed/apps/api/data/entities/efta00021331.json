@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00021331",
+    "filename": "EFTA00021331.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021331.pdf",
+    "text": "\n\nFrom: \nTo: \n• \nSubject: FW: Epstein Client Meetings \nDate: Thu, 10 Oct 2019 18:18:00 +0000 \nInline-Images: image001.png \nWe have left our schedule open for interviews so that will work for us as well. \nOn Oct \n10, 2019 2:15 PM, \nI See below. I'm available on 10/23 after 2pm and all day on \n10/24. What works for you guys? \nFrom: Brittany \nHenderson < \nSent: Thursday, October 10, 2019 2:08 PM \nTo: \nCc: Brad Edwards < \nSubject: Epstein Client Meetings \n>; \nwrote: \nWe have been coordinating with to schedule the following victim interviews for October 23 & 24: \nIf possible, the morning on October 24 works best for would prefer the 23 to minimize her travel \ninto the City. and are available either day. \nLet us know what works best for you. \nr irwil0 \nr  1L—a \nEDWARDS \nPOTTINGER LLC \nBrittany \nHenderson \nTrial \nAttorney \nwww.epnc.com \nEFTA00021331",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Client",
+        "role": "extracted",
+        "context": "From: \nTo: \n• \nSubject: FW: Epstein Client Meetings \nDate: Thu, 10 Oct 2"
+      },
+      {
+        "name": "Meetings \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: Epstein Client Meetings \nDate: Thu, 10 Oct 2019 18:18:00 +0"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "at will work for us as well. \nOn Oct \n10, 2019 2:15 PM, \nI See bel"
+      },
+      {
+        "name": "Brittany \nHenderson",
+        "role": "extracted",
+        "context": "at works for you guys? \nFrom: Brittany \nHenderson < \nSent: Thursday, October 10"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "er 10, 2019 2:08 PM \nTo: \nCc: Brad Edwards < \nSubject: Epstein Client Me"
+      },
+      {
+        "name": "Trial \nAttorney",
+        "role": "extracted",
+        "context": "GER LLC \nBrittany \nHenderson \nTrial \nAttorney \nwww.epnc.com \nEFTA00021331"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-10",
+        "event": "October 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.443Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018614",
+    "filename": "EFTA00018614.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018614.pdf",
+    "text": "\n\nSubject: Application for Search Warrant \nDate: Tue, 27 Oct 2020 13:18:10 +0000 \nGood morning, \nAttached for Judge Wang's consideration please find an application for the issuance of a search warrant, the four exhibits \nreferenced in that application, and a proposed search warrant. \nThe agent is available this afternoon and tomorrow morning to swear out the warrant. I can be reached by email or on \nmy cellphone \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018614",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "Subject: Application for Search Warrant \nDate: Tue, 27 Oct 2020 13:18"
+      },
+      {
+        "name": "Judge Wang",
+        "role": "extracted",
+        "context": "Good morning, \nAttached for Judge Wang's consideration please find a"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "one \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018614"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.290Z"
+}

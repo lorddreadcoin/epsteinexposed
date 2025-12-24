@@ -1,0 +1,61 @@
+{
+  "document": {
+    "id": "efta00019466",
+    "filename": "EFTA00019466.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019466.pdf",
+    "text": "\n\nFrom: ' \nTo:' )\" < \nSubject: RE: Epstein search warrant documents \nDate: Mon, 13 Jul 2020 13:51:47 +0000 \nInline-Images: image002.png; image003.png \n(USANYS) [Contractor]\" < \n•   easystore (F:) >   Island Macs \nA \nA \nName \ndocuments \nemail \nNYCO24363 \n_I \npresentations \n))  spreadsheets \nDate modified \n6/30/20201:40 \nPM \n6/3W2020 1:44 PM \n7/8/2020 10:35 AM \n6/30/2020 2:00 \nPM \n6/30/2020 \n1:43 PM \nType \nFile \nfolder \nFile folder \nFile folder \nFile \nfolder \nFile \nfolder \nSize \nreadMetxt \n6/3M202012:51 PM \nText Document 1 KB \nFrom: (USANYS) [Contractor] \nSent: Monday, July 13, 2020 9:43 AM \nTo: \nII \nSubject: FW: Epstein search warrant documents \nFrom: (USANYS) [Contractor] \nSent: Monday, July 13, 2020 9:0S AM \nTo: Flatley, Stephen R. (NY) (FBI) <la \nSubject: RE: Epstein search warrant documents \neasystore (F:) s   IDE drives \nA Name Date modified Type \ndocuments \n6/25/202010:41 AM File \nfolder \n1  email \npresentations \nspreadsheets \nM ReadMe.txt \n6/25/2020 11:50 AM \n6/25/2020 11:44 AM \n6/25/2020 12:43 PM \n7/7/2020 \n12:23 PM \nFile folder \nFile folder \nFile folder \nText Document \nSez \nEFTA00019466",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Island Macs",
+        "role": "extracted",
+        "context": "r]\" < \n•   easystore (F:) >   Island Macs \nA \nA \nName \ndocuments \nemail"
+      },
+      {
+        "name": "Type \nFile",
+        "role": "extracted",
+        "context": "2:00 \nPM \n6/30/2020 \n1:43 PM \nType \nFile \nfolder \nFile folder \nFile fo"
+      },
+      {
+        "name": "Text Document",
+        "role": "extracted",
+        "context": "readMetxt \n6/3M202012:51 PM \nText Document 1 KB \nFrom: (USANYS) [Contrac"
+      },
+      {
+        "name": "Name Date",
+        "role": "extracted",
+        "context": "ystore (F:) s   IDE drives \nA Name Date modified Type \ndocuments \n6/2"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-08",
+        "event": "7/8/2020"
+      },
+      {
+        "date": "2020-06-30",
+        "event": "6/30/2020"
+      },
+      {
+        "date": "2020-06-25",
+        "event": "6/25/2020"
+      },
+      {
+        "date": "2020-07-07",
+        "event": "7/7/2020"
+      },
+      {
+        "date": "2020-07-13",
+        "event": "July 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.956Z"
+}

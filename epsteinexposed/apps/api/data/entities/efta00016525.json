@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016525",
+    "filename": "EFTA00016525.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016525.pdf",
+    "text": "\n\nOUTSIDE \nFIELD \nROP \nAuto \n~wig \nco \nFT \nPT \nPERSON \nneeded \nfor \nanswer \ning \nphones \nI \nlight \nclean., \nOwing \nSchool \n11 \nMiss \nMaxwell \nPEST \nCONTROL \nTECH \nNo \nexperience \nnecessary \nWill \ntrain \nin \nall \nareas \nClean \ndriving \n8 \n000 \nhealth \na  \nmull \nStarting \nCall \nfor \nin \ntry's* \nEFTA00016525",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "clean., \nOwing \nSchool \n11 \nMiss \nMaxwell \nPEST \nCONTROL \nTECH \nN"
+      },
+      {
+        "name": "Owing \nSchool",
+        "role": "extracted",
+        "context": "g \nphones \nI \nlight \nclean., \nOwing \nSchool \n11 \nMiss \nMaxwell \nPEST \nCON"
+      },
+      {
+        "name": "Miss \nMaxwell",
+        "role": "extracted",
+        "context": "clean., \nOwing \nSchool \n11 \nMiss \nMaxwell \nPEST \nCONTROL \nTECH \nNo \nexp"
+      },
+      {
+        "name": "Starting \nCall",
+        "role": "extracted",
+        "context": "ng \n8 \n000 \nhealth \na  \nmull \nStarting \nCall \nfor \nin \ntry's* \nEFTA0001652"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.862Z"
+}

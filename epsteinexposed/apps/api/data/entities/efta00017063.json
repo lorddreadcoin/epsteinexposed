@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017063",
+    "filename": "EFTA00017063.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017063.pdf",
+    "text": "\n\nFrom: \nTo: (NY) (FBI)\" <1 \nCc:' \n< \nSubject: Epstein Search Warrant Materials \nDate: Tue, 12 Nov 2019 22:07:11 +0000 \nHi =, \nI've put the drive for the search warrant materials downstairs at our office under your name for pick up. If you let me \nknow when it is ready I can come by and pick it up from you. \nThanks, \nParalegal Specialist \nUnited States Attorney's Office \nSouthern District of New York \nOffice \nCell \nEFTA00017063",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Search",
+        "role": "extracted",
+        "context": "(FBI)\" <1 \nCc:' \n< \nSubject: Epstein Search Warrant Materials \nDate: Tue,"
+      },
+      {
+        "name": "Warrant Materials",
+        "role": "extracted",
+        "context": "' \n< \nSubject: Epstein Search Warrant Materials \nDate: Tue, 12 Nov 2019 22:07"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "ick it up from you. \nThanks, \nParalegal Specialist \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ist \nUnited States Attorney's Office \nSouthern District of New York \nOffice"
+      },
+      {
+        "name": "Office \nCell",
+        "role": "extracted",
+        "context": "outhern District of New York \nOffice \nCell \nEFTA00017063"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.930Z"
+}

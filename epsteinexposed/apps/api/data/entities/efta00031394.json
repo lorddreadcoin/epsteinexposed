@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031394",
+    "filename": "EFTA00031394.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031394.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc \nSubject: Re: https://www.foxnews.com/us/forensic-pathologist-jeffrey-epstein-homicide-suicide \nDate: Wed, 30 Oct 2019 12:58:43 +0000 \nFWIW: from a reporter \"Epstein's brother who hired him is telling him to go do this cause they feel like they're \nnot getting any answers. So there you go. All makes sense now.\" \nSent from my iPhone \nOn Oct \n30, 2019, at 8:29 AM, > wrote: \nObviously we can't officially comment but we are confident it's bunk — this guy is pretty controversial and \nthey should consider the source — so do what you can to tamp down any hysteria. \nSent from my iPhone \nOn Oct \n30, 2019, at 8:26 AM, > wrote: \nBaden emphatically told FOX News this morning that his findings are more consistent with \nstrangulations: \"I've not seen in 50 years where that occurred in a suicidal hanging case,\" the 85-year-old \nmedical legend told Fox News. \nWe'll get a lot of inquiries about this today. \nSent from my iPhone \nEFTA00031394",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nCc \nSubject: Re: https://www.foxnews.com/"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "es sense now.\" \nSent from my iPhone \nOn Oct \n30, 2019, at 8:29 AM, >"
+      },
+      {
+        "name": "Fox News",
+        "role": "extracted",
+        "context": "year-old \nmedical legend told Fox News. \nWe'll get a lot of inquirie"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.987Z"
+}

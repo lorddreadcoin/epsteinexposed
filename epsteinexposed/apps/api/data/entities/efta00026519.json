@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00026519",
+    "filename": "EFTA00026519.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026519.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: ' \nSubject: Re: Language to include \nDate: Thu, 02 Jul 2020 02:33:26 +0000 \nSure \nSent from my iPhone \nOn Jul 1, 2020, at 22:27, > wrote: \ncould you please take on this project of making sure the victim info in the database is accurate for the letter that \nwill go out? I can't tell if this email is just meant to supplement the data we already have, or if they're sending this as the \nproposed list (which would be strange, since it has our statutory victims on it). Thanks. \nFrom: \nSent: Wednesday, July 1, 2020 9:37 PM \nTo: \nCc: \nSubject: Re: Language to include \nGood Evening, \nSA has identified each of these names on the attached spreadsheet as victims in the original \ncase against Jeffrey Epstein. Included in the attached document is victim contact information as well as \nattorney information regarding representation and contact information. This is a  comprehensive list. \nLastly, would you be able to send your draft language for the VNS notifications? \nThank you, \nProgram Manager \nFBI Victim Services Division \nFrom: \nSent: Monday, June 29, 2020 9:05 AM \nTo: \nCc: \nEFTA00026519\n\nSubject: Language to include \nGood Morning, \nI hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD \nexecutive management and our OGC rep. I'm more than happy to have a call if you would like to discuss. \nThe FBI's Victim Services Division (VSD) is committed to providing services and support to victims of crimes \ncommitted by Jeffrey Epstein. Though this particular indictment is focused on specific individuals, you are still \nentitled to your rights, resources, and referrals as a federal victim independent of this indictment. An \noverview of these services is available at www.fbi.gov/resources/victim-services.  If you would like to speak \nwith a Victim Specialist, or if you have any questions regarding your rights to victim services and referrals, \nplease email victimservices@fbi.gov.\nThank you, \nProgram Manager \nFBI Victim Services Division \n<contact list only 31E-NY-3027571 6.26.2020.xlsx> \nEFTA00026520",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "eadsheet as victims in the original \ncase against Jeffrey Epstein. Included in the attached document is victim cont"
+      },
+      {
+        "name": "Sure \nSent",
+        "role": "extracted",
+        "context": ", 02 Jul 2020 02:33:26 +0000 \nSure \nSent from my iPhone \nOn Jul 1, 202"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "26 +0000 \nSure \nSent from my iPhone \nOn Jul 1, 2020, at 22:27, > wrot"
+      },
+      {
+        "name": "Good Evening",
+        "role": "extracted",
+        "context": "ect: Re: Language to include \nGood Evening, \nSA has identified each of t"
+      },
+      {
+        "name": "Program Manager",
+        "role": "extracted",
+        "context": "S notifications? \nThank you, \nProgram Manager \nFBI Victim Services Division"
+      },
+      {
+        "name": "Victim Services",
+        "role": "extracted",
+        "context": "nk you, \nProgram Manager \nFBI Victim Services Division \nFrom: \nSent: Monday"
+      },
+      {
+        "name": "Division \nFrom",
+        "role": "extracted",
+        "context": "Manager \nFBI Victim Services Division \nFrom: \nSent: Monday, June 29, 2020"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "Subject: Language to include \nGood Morning, \nI hope each of you had a go"
+      },
+      {
+        "name": "Victim Specialist",
+        "role": "extracted",
+        "context": "u would like to speak \nwith a Victim Specialist, or if you have any questions"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Good Evening, SA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-01",
+        "event": "July 1, 2020"
+      },
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.486Z"
+}

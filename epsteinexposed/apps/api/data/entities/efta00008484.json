@@ -1,0 +1,135 @@
+{
+  "document": {
+    "id": "efta00008484",
+    "filename": "EFTA00008484.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 5\\VOL00005\\IMAGES\\0001\\EFTA00008484.pdf",
+    "text": "\n\nChain \nof \nCustody-ELSUR \nEvidence \nEnvelope \nFB-504b \n(Rev. \n547.01) \nEnclosure: \nMedium: \nCase \nFilen: \n33?\n-\n-\n7\nCase \nAgt.: \nAgt. \nSupervising \nTitle \nIII \nIntercepts: \n \nO \nCourt \nAuthorized \nIntercept \n- \nSource/Symbolii: \nJ2f \nConsensual \nMonitoring \nIntercept \n- \nCM# \n(if \nassigned): \nO \nTelephonic \n(TCM) \nNontelephonic \n(NTCM) \nIf \nNTCM \nSpecify \nDevice \nUsed: \n \nf:13/fi \nNg \nOriginal \nO \nMagnetic \nTape \nO \nDuplicate \nO \nComputer \nDisk \nO \nEnhanced \nOriginal \nO \nPrinted \nMaterial \nI \nDU: \n \nTapc/Diskft: \n \nGm \n56\n-\n41 \nO \nRecording \nof \nan \nInterview \nO \nVolunteered/Subpoenaed \nMedium \n- \nNot \nFBI \nELSUR \nO \nOther \nType \nof \nRecording/Interception, \nSpecify: \n \nIntercept \nDate: \n \n0/\n1\n03/D9 \n \nPlace: \n    \nADV., \nAk\ne\nbh \nData \nTransferred \nfor \nPermanent \nStorage \n- \nDate: \n  I \nt \n/03/0 \n1\n \n \nTime: \nO \nConsensual: \nList \nIntercept= \nBelow \nO \nCourt \nAuthorized: \nEnter \n\" \nSee \nLog\" \nBelow \n• \ntirtdo \nfi\nodri\ns\nuet \nAc \nReleased \n   \nto\nSignature: \nSignature: \nDate: \n \n0 \n0 \n \nTim\ne\n: \n \nDate: \nReason: \n \n/\nReason: \nSignatu \nDate: \n \n \nsen\n: \n.4\nRe.1501)\n.\nan \nL. \nVE \nSignature. \nDate: \nReason: \nSignature \nDate: \nReason: \n40 \nnuEing \nSignature: \nDate: \nReason: \nSignature: \nDate: \nReason: \nSignatu \nDate: \nI \nin \nmilli \nkill \nE02782875 \nTIG1i \nEFTA00008484",
+    "pageCount": 1,
+    "dataset": "Dataset 5"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Evidence \nEnvelope",
+        "role": "extracted",
+        "context": "Chain \nof \nCustody-ELSUR \nEvidence \nEnvelope \nFB-504b \n(Rev. \n547.01) \nEnc"
+      },
+      {
+        "name": "Case \nFilen",
+        "role": "extracted",
+        "context": "547.01) \nEnclosure: \nMedium: \nCase \nFilen: \n33?\n-\n-\n7\nCase \nAgt.: \nAgt."
+      },
+      {
+        "name": "Case \nAgt",
+        "role": "extracted",
+        "context": "ium: \nCase \nFilen: \n33?\n-\n-\n7\nCase \nAgt.: \nAgt. \nSupervising \nTitle"
+      },
+      {
+        "name": "Supervising \nTitle \nIII",
+        "role": "extracted",
+        "context": "33?\n-\n-\n7\nCase \nAgt.: \nAgt. \nSupervising \nTitle \nIII \nIntercepts: \n \nO \nCourt \nAut"
+      },
+      {
+        "name": "Court \nAuthorized",
+        "role": "extracted",
+        "context": "Title \nIII \nIntercepts: \n \nO \nCourt \nAuthorized \nIntercept \n- \nSource/Symboli"
+      },
+      {
+        "name": "Consensual \nMonitoring",
+        "role": "extracted",
+        "context": "pt \n- \nSource/Symbolii: \nJ2f \nConsensual \nMonitoring \nIntercept \n- \nCM# \n(if \nassi"
+      },
+      {
+        "name": "Specify \nDevice",
+        "role": "extracted",
+        "context": "telephonic \n(NTCM) \nIf \nNTCM \nSpecify \nDevice \nUsed: \n \nf:13/fi \nNg \nOrigin"
+      },
+      {
+        "name": "Ng \nOriginal",
+        "role": "extracted",
+        "context": "fy \nDevice \nUsed: \n \nf:13/fi \nNg \nOriginal \nO \nMagnetic \nTape \nO \nDuplic"
+      },
+      {
+        "name": "Magnetic \nTape",
+        "role": "extracted",
+        "context": "f:13/fi \nNg \nOriginal \nO \nMagnetic \nTape \nO \nDuplicate \nO \nComputer \nD"
+      },
+      {
+        "name": "Computer \nDisk",
+        "role": "extracted",
+        "context": "netic \nTape \nO \nDuplicate \nO \nComputer \nDisk \nO \nEnhanced \nOriginal \nO \nPr"
+      },
+      {
+        "name": "Enhanced \nOriginal",
+        "role": "extracted",
+        "context": "licate \nO \nComputer \nDisk \nO \nEnhanced \nOriginal \nO \nPrinted \nMaterial \nI \nDU:"
+      },
+      {
+        "name": "Printed \nMaterial",
+        "role": "extracted",
+        "context": "sk \nO \nEnhanced \nOriginal \nO \nPrinted \nMaterial \nI \nDU: \n \nTapc/Diskft: \n \nGm"
+      },
+      {
+        "name": "Subpoenaed \nMedium",
+        "role": "extracted",
+        "context": "an \nInterview \nO \nVolunteered/Subpoenaed \nMedium \n- \nNot \nFBI \nELSUR \nO \nOther"
+      },
+      {
+        "name": "Other \nType",
+        "role": "extracted",
+        "context": "edium \n- \nNot \nFBI \nELSUR \nO \nOther \nType \nof \nRecording/Interception,"
+      },
+      {
+        "name": "Intercept \nDate",
+        "role": "extracted",
+        "context": "ng/Interception, \nSpecify: \n \nIntercept \nDate: \n \n0/\n1\n03/D9 \n \nPlace:"
+      },
+      {
+        "name": "Data \nTransferred",
+        "role": "extracted",
+        "context": "Place: \n    \nADV., \nAk\ne\nbh \nData \nTransferred \nfor \nPermanent \nStorage \n-"
+      },
+      {
+        "name": "Permanent \nStorage",
+        "role": "extracted",
+        "context": "e\nbh \nData \nTransferred \nfor \nPermanent \nStorage \n- \nDate: \n  I \nt \n/03/0 \n1"
+      },
+      {
+        "name": "List \nIntercept",
+        "role": "extracted",
+        "context": "1\n \n \nTime: \nO \nConsensual: \nList \nIntercept= \nBelow \nO \nCourt \nAuthorized"
+      },
+      {
+        "name": "See \nLog",
+        "role": "extracted",
+        "context": "Court \nAuthorized: \nEnter \n\" \nSee \nLog\" \nBelow \n• \ntirtdo \nfi\nodri\ns"
+      },
+      {
+        "name": "Ac \nReleased",
+        "role": "extracted",
+        "context": "ow \n• \ntirtdo \nfi\nodri\ns\nuet \nAc \nReleased \n   \nto\nSignature: \nSignature"
+      },
+      {
+        "name": "Signatu \nDate",
+        "role": "extracted",
+        "context": "Date: \nReason: \n \n/\nReason: \nSignatu \nDate: \n \n \nsen\n: \n.4\nRe.1501)\n.\nan"
+      },
+      {
+        "name": "Signature \nDate",
+        "role": "extracted",
+        "context": "Signature. \nDate: \nReason: \nSignature \nDate: \nReason: \n40 \nnuEing \nSignat"
+      },
+      {
+        "name": "Eing \nSignature",
+        "role": "extracted",
+        "context": "nature \nDate: \nReason: \n40 \nnuEing \nSignature: \nDate: \nReason: \nSignature:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:38.656Z"
+}

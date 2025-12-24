@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00026808",
+    "filename": "EFTA00026808.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026808.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: Relativity-- saved searches \nDate: Wed, 14 Oct 2020 15:06:30 +0000 \nInline-Images: image001.jpg \nThanks! \nFroml \nSent: Wednesday, October 14, 2020 9:34 AM \nTo \nCc \nSu ject: RE: Relativity-- saved searches \nThe below searches have been created and available for review: \nmi \nSearch Requests \n-  Q Search 01 \nQ Search 02 \nQ Search 03 \nQ Search \n04 \nQ Search 05 \nPlease let me know if there are any questions. \nThank you. \nFron \nSent: Friday October 9, 2020 6:47 PM \nTo: \nCc: \nSubject: Relativity-- saved searches \nHope you're doing well. For the relativity database \"U.S. v. Epstein (SW Returns),\" could you please create the following as \nfive separate saved searches: \n• Search 1: Any email (including attachments) that hits on the email address: \n• Search 2: Any email (including attachments) that hits on the email address: \n• Search 3: Any email (including attachments) that hits on the email addresses or \nEFTA00026808\n\n• Search 4: Any email (including attachments) that hits on the email addresses: or \n• Searc 5: Any ocument or family of documents containing either the word \"Maxwell\" or the word \"Ghislaine\" \nThanks very much, \nuant Unwed States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00026809",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Relativity-"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Relativity-- saved searc"
+      },
+      {
+        "name": "Froml \nSent",
+        "role": "extracted",
+        "context": "mages: image001.jpg \nThanks! \nFroml \nSent: Wednesday, October 14, 2020"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "ay, October 14, 2020 9:34 AM \nTo \nCc \nSu ject: RE: Relativity-- sa"
+      },
+      {
+        "name": "Search Requests",
+        "role": "extracted",
+        "context": "nd available for review: \nmi \nSearch Requests \n-  Q Search 01 \nQ Search 02"
+      },
+      {
+        "name": "Fron \nSent",
+        "role": "extracted",
+        "context": "e any questions. \nThank you. \nFron \nSent: Friday October 9, 2020 6:47"
+      },
+      {
+        "name": "Friday October",
+        "role": "extracted",
+        "context": "ons. \nThank you. \nFron \nSent: Friday October 9, 2020 6:47 PM \nTo: \nCc: \nSu"
+      },
+      {
+        "name": "Unwed States",
+        "role": "extracted",
+        "context": "ine\" \nThanks very much, \nuant Unwed States Attorney \nSouthern District o"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "very much, \nuant Unwed States Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00026809"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-14",
+        "event": "October 14, 2020"
+      },
+      {
+        "date": "2020-10-09",
+        "event": "October 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.884Z"
+}

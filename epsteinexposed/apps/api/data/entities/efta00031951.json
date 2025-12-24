@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00031951",
+    "filename": "EFTA00031951.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031951.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nlife Silvio 1  Mollo Building \nNex• York, New York 10007 \nDecember 3, 2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nal D artment \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the drive containing discovery materials pertinent to Ghislaine Maxwell \n(02879-509) is \nby: \nVery truly \nyours, \nAUDREY \nSTRAUSS \nActing United States Attorney \nAssistant United States Attorneys\nEFTA00031951",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "artment \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the drive con"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nlife Silvio 1  M"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "t of New York \nlife Silvio 1  Mollo Building \nNex• York, New York 10007 \nD"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nal D artment \nBrookly"
+      },
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "uly \nyours, \nAUDREY \nSTRAUSS \nActing United States Attorney \nAssistant Un"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "cting United States Attorney \nAssistant United States Attorneys\nEFTA00031951"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "es Attorney \nAssistant United States Attorneys\nEFTA00031951"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Brooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-03",
+        "event": "December 3, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.285Z"
+}

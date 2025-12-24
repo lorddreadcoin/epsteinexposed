@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00023865",
+    "filename": "EFTA00023865.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023865.pdf",
+    "text": "\n\nFrom: \" )\" < \nTo:' \nI\" <>1 \" \nSubject: RE: Witness torpedoes Prince Andrew's denials about alleged Epstein sex slave I Toronto Sun \nDate: Sat, 08 Feb 2020 19:44:05 +0000 \nYeah thanks, l  saw this -- one wonders if we had acquiesced to their insistence that we interview the client in person whether there \nwould have soon thereafter been an article about the meeting ... \n Original Message \nFrom: \nSent: Saturday, February 08, 2020 10:06 \nTo: `•.>; \nSubject: Fwd: Witness torpedoes Prince Andrew's denials about alleged Epstein sex slave I Toronto Sun \nPassing this along in case you didn't see it. Lisa Bloom's comment that her client is \"cooperating\" with our investigation is really \nsomething. \n> https://torontosun.cominews/world/witness-torpedoes-prince-andrews-denials-about-alleged-epstein-sex-slave \n> Sent from my 'Phone \nEFTA00023865",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "< \nTo:' \nI\" <>1 \" \nSubject: RE: Witness torpedoes Prince Andrew's denials about alleged Epstein sex slave I Toron"
+      },
+      {
+        "name": "Toronto Sun",
+        "role": "extracted",
+        "context": "t alleged Epstein sex slave I Toronto Sun \nDate: Sat, 08 Feb 2020 19:44"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ticle about the meeting ... \n Original Message \nFrom: \nSent: Saturday, Febru"
+      },
+      {
+        "name": "Lisa Bloom",
+        "role": "extracted",
+        "context": "ng in case you didn't see it. Lisa Bloom's comment that her client is"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-08",
+        "event": "February 08, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.785Z"
+}

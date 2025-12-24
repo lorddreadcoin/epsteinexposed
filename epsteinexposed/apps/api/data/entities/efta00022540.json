@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00022540",
+    "filename": "EFTA00022540.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022540.pdf",
+    "text": "\n\nFrom: ' \n r    \nTo: ' (USANYS)\"  \nCc: ' \"\nI \n(USANYS)\" \nSubject: RE: Palm Beach Sherriffs Office \nDate: Fri, 26 Jul 2019 19:52:57 +0000 \nThanks—and I should clarify, we've been in touch with the Palm Beach Police Department (who handled the first phase of \nthe investigation) but not the Sheriff's Office, who I think dealt with Epstein when he was serving his sentence. \nFrom: (USANYS) \nSent: Friday, July 26, 2019 3:50 PM \nTo: \nCc: \n(USANYS) \nSubject: RE: Palm Beach Sherriff's Office \nSure \nFrom: \nc>\nSent: Friday, July 26, 2019 3:49 PM \nTo: (USANYS) \nCc: \n(USANYS) \n> \nSubject: RE: Palm Beach Sherriff's Office \nThanks—is 4:15 ok? I think MI is on some calls right now. \nFrom: (USANYS) \nSent: Friday, July 26, 2019 3:46 PM \nTo: \nCc: \n(USANYS) \nSubject: Re: Palm Beach Sherriff's Office \nOkay, is gone but I'm around. Would 4 work? \nSent from my iPhone \nOn Jul 26, 2019, at 3:44 PM, <> wrote: \nOur agents made contact when were down in Florida and got a general point of contact, but I'm not sure if they've \nfollowed up since then. If you and are around in a bit, we can catch up with you about this, as well as today's \ninterview. We also spoke with the person at CART handling the devices, who gave us an update. \nFrom: (USANYS) \nSent: Friday, July 26, 2019 3:42 PM \nTo: \nEFTA00022540\n\nCc: (USANYS) < \nSubject: Palm Beach Sherriff's Office \nHave we made contact with them yet? I got a call about them just now —  can update you whenever you have time. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00022541",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "\"\nI \n(USANYS)\" \nSubject: RE: Palm Beach Sherriffs Office \nDate: Fri,"
+      },
+      {
+        "name": "Sherriffs Office",
+        "role": "extracted",
+        "context": "YS)\" \nSubject: RE: Palm Beach Sherriffs Office \nDate: Fri, 26 Jul 2019 19:52"
+      },
+      {
+        "name": "Police Department",
+        "role": "extracted",
+        "context": "in touch with the Palm Beach Police Department (who handled the first phase"
+      },
+      {
+        "name": "Office \nSure",
+        "role": "extracted",
+        "context": "ct: RE: Palm Beach Sherriff's Office \nSure \nFrom: \nc>\nSent: Friday, July"
+      },
+      {
+        "name": "Office \nThanks",
+        "role": "extracted",
+        "context": "ct: RE: Palm Beach Sherriff's Office \nThanks—is 4:15 ok? I think MI is on"
+      },
+      {
+        "name": "Office \nOkay",
+        "role": "extracted",
+        "context": "ct: Re: Palm Beach Sherriff's Office \nOkay, is gone but I'm around. Woul"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Would 4 work? \nSent from my iPhone \nOn Jul 26, 2019, at 3:44 PM, <>"
+      },
+      {
+        "name": "Office \nHave",
+        "role": "extracted",
+        "context": "ubject: Palm Beach Sherriff's Office \nHave we made contact with them yet"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "ver you have time. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000225"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-26",
+        "event": "July 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.110Z"
+}

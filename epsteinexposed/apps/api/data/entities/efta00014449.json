@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014449",
+    "filename": "EFTA00014449.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014449.pdf",
+    "text": "\n\nSubject: RE: Checks \nDate: Tue, 02 Jul 2019 01:16:24 +0000 \nImportance: Normal \nThanks, we'll take a look—if you could send over a summary of her flights with him over the past 6 months, that would be \nhelpful. Have you guys looked at the phone numbers associated with the email accounts we got subscriber info for? Let us \nknow if you think any of those numbers are live. \nThanks, \nFrom: \nSent: Monday, July 1, 2019 8:53 PM \nTo: \n)\nN. (NY) (FBI) \n).; \nSubject: Checks \n>;S, \nSee attached phone records for .  As per our conversation her cell phone number may be \nrelevant to her recent travels with Epstein. \nDetective \nNYPD / FBI \nChild \nExploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00014449",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Checks \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Checks \nDate: Tue, 02 Jul 2019 01:16:24 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 01:16:24 +0000 \nImportance: Normal \nThanks, we'll take a look—if you cou"
+      },
+      {
+        "name": "Child \nExploitation",
+        "role": "extracted",
+        "context": "tein. \nDetective \nNYPD / FBI \nChild \nExploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "PD / FBI \nChild \nExploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-01",
+        "event": "July 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.871Z"
+}

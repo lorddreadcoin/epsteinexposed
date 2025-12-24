@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029464",
+    "filename": "EFTA00029464.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029464.pdf",
+    "text": "\n\nFrom: \nTo:' \n\" \nCc: \"Ma \n`MIMMIna \nSubject: RE: v. Maxwell, et al., 15 Civ. 7433 \n(RWS) \nDate: Tue, 05 Feb 2019 18:40:39 +0000 \nImportance: Normal \nAttachments: 2019-02-05, JE,_unsealing_application_and_order,_15_Civ_7433 JRWS).pdf \nTo the Chambers of Judge Sweet: \nPlease see the attached application and proposed order in connection with the above-captioned case, which the \nGovernment respectfully requests be filed under seal for the reasons explained in the application. \nRespectfully, \nEFTA00029464",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ina \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo:' \n\" \nCc: \"Ma \n`MIMMIna \nSubject: RE: v. Maxwell, et al., 15 C"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:40:39 +0000 \nImportance: Normal \nAttachments: 2019-02-05, JE,_unsealing_ap"
+      },
+      {
+        "name": "Judge Sweet",
+        "role": "extracted",
+        "context": "JRWS).pdf \nTo the Chambers of Judge Sweet: \nPlease see the attached app"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-05",
+        "event": "2019-02-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.475Z"
+}

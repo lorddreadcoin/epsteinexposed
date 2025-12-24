@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015565",
+    "filename": "EFTA00015565.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015565.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: RE: \nDate: Fri, 21 Jun 2019 23:06:37 +0000 \nImportance: Normal \nAttachments: Epstein_NPA,_dated_2007-09-24.pdf \nNo problem and definitely —  NPA attached. \nFrom: \nSent: Friday, June 21, 2019 19:06 \nTo: \nSubject: RE: \nThanks so much. I should have clarified that Geoff wanted to review them over the weekend. Could you please also send \nme the Florida NPA? Thanks again. \nFrom: \nSent: Friday, June 21, 2019 7:01 PM \nTo: \nSubject: RE: \nHey sorry, didn't realize you needed them this afternoon. They're attached — initial email with the pros memo and the \ndecision. And let me know if anything else would be helpful, happy to send along whatever. Thanks again. \nFrom: \nSent: Friday, June 21, 2019 18:56 \nTo: \nSubject: \nHey= \nCan you please shoot me those dots when you can? Thanks very much. \nBest, \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00015565",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 23:06:37 +0000 \nImportance: Normal \nAttachments: Epstein_NPA,_dated_2007-09-2"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "an? Thanks very much. \nBest, \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00015565"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-21",
+        "event": "June 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.986Z"
+}

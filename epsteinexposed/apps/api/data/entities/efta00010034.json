@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00010034",
+    "filename": "EFTA00010034.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010034.pdf",
+    "text": "\n\nFrom: Nathan NYSD Chambers <MIE> \nTo: \nSubject: 20cr330, US v. Maxwell \nDate: Fri, 12 Nov 2021 02:55:17 +0000 \nAttachments: 20cr330_Order 11.11.21.pdf \nCounsel: \nAttached please find an order issued by Judge Nathan, which will be filed on the docket \ntomorrow morning. \nSincerely, \nChambers of the Hon. \nAlison J. Nathan \nEFTA00010034",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: 20cr330, US v. Maxwell \nDate: Fri, 12 Nov 2021 02:55:17 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "lease find an order issued by Judge Nathan, which will be filed on the d"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.144Z"
+}

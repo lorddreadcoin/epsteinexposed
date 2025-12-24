@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00020166",
+    "filename": "EFTA00020166.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020166.pdf",
+    "text": "\n\nFrom: \"=, \nTo:\n' \nM. (NY) (FBI)\" ala> \n\" \n' \n\" \nCc: lanlisrnamm\nSubject: Subpoenas Re \nDate: Thu, 15 Aug 2019 21:07:45 +0000 \nAttachments: \nPlease pre are return to me subpoenas for Wells Fargo, CITI, MoneyGram, Western Union and Experian \nregarding I  have attached the riders for the subpoenas. I will serve the subpoenas. \nAdditionally, please utilize the following text in the subpoenas: \nIf ou have an uestions lease contact Forensic Accountant or Special Agent \nPlease forward the results in an electronic format to Special Agent Federal Bureau of \nInvestigation, 26 Federal Plaza, New York, NY 10278, telephone \nIf you have any questions or comments, please contact me. \nThanks \nForensic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA00020166",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoenas Re",
+        "role": "extracted",
+        "context": "\" \nCc: lanlisrnamm\nSubject: Subpoenas Re \nDate: Thu, 15 Aug 2019 21:07"
+      },
+      {
+        "name": "Wells Fargo",
+        "role": "extracted",
+        "context": "re return to me subpoenas for Wells Fargo, CITI, MoneyGram, Western Uni"
+      },
+      {
+        "name": "Western Union",
+        "role": "extracted",
+        "context": "Wells Fargo, CITI, MoneyGram, Western Union and Experian \nregarding I  ha"
+      },
+      {
+        "name": "Forensic Accountant",
+        "role": "extracted",
+        "context": "ave an uestions lease contact Forensic Accountant or Special Agent \nPlease forw"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "ontact Forensic Accountant or Special Agent \nPlease forward the results i"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "ronic format to Special Agent Federal Bureau of \nInvestigation, 26 Federal"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "Bureau of \nInvestigation, 26 Federal Plaza, New York, NY 10278, telephon"
+      },
+      {
+        "name": "Thanks \nForensic",
+        "role": "extracted",
+        "context": "comments, please contact me. \nThanks \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.316Z"
+}

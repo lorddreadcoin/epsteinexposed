@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019111",
+    "filename": "EFTA00019111.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019111.pdf",
+    "text": "\n\nFrom: Bruce Barket <E=M=> \ncM.Mas \nTo: \nCc: \nSubject: Re: Ex parte order \nDate: Sat, 13 Jun 2020 10:42:31 +0000 \n(USANYS\" \n\"Aida Leisenring\" \nReceived. Thank you. \nBruce A. Barket \nBarket, Epstein, Kearon, Aldea & LoTurco \nOn Jun \n12, 2020, at 4:44 PM, \nDear Defense Counsel and Firewall Counsel. \nAttached, please find a brief ex parte order from Judge Karas. The same will be filed under seal. \n--Chambers of Judge Karas \n<16cr832_ex parte order.pdf> \nwrote: \nEFTA00019111",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bruce Barket",
+        "role": "extracted",
+        "context": "From: Bruce Barket <E=M=> \ncM.Mas \nTo: \nCc: \nSub"
+      },
+      {
+        "name": "Mas \nTo",
+        "role": "extracted",
+        "context": "From: Bruce Barket <E=M=> \ncM.Mas \nTo: \nCc: \nSubject: Re: Ex parte"
+      },
+      {
+        "name": "Aida Leisenring",
+        "role": "extracted",
+        "context": "20 10:42:31 +0000 \n(USANYS\" \n\"Aida Leisenring\" \nReceived. Thank you. \nBruce"
+      },
+      {
+        "name": "Barket \nBarket",
+        "role": "extracted",
+        "context": "eceived. Thank you. \nBruce A. Barket \nBarket, Epstein, Kearon, Aldea & LoT"
+      },
+      {
+        "name": "Turco \nOn",
+        "role": "extracted",
+        "context": "t, Epstein, Kearon, Aldea & LoTurco \nOn Jun \n12, 2020, at 4:44 PM, \nD"
+      },
+      {
+        "name": "Dear Defense",
+        "role": "extracted",
+        "context": "n Jun \n12, 2020, at 4:44 PM, \nDear Defense Counsel and Firewall Counsel."
+      },
+      {
+        "name": "Firewall Counsel",
+        "role": "extracted",
+        "context": "PM, \nDear Defense Counsel and Firewall Counsel. \nAttached, please find a bri"
+      },
+      {
+        "name": "Judge Karas",
+        "role": "extracted",
+        "context": "d a brief ex parte order from Judge Karas. The same will be filed under"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.317Z"
+}

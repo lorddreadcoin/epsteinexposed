@@ -1,0 +1,88 @@
+{
+  "document": {
+    "id": "efta00020689",
+    "filename": "EFTA00020689.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020689.pdf",
+    "text": "\n\nFrom: )\" < \nTo: \nSubject: Epstein Travel \nDate: Thu, 25 Apr 2019 22:44:23 +0000 \nImportance: Normal \nLooks like the relevant airport codes here are: \n• KTEB and TEB are both codes for Teterboro Airport, New Jersey \n• CYYR is Goose Bay Airport in Newfoundland \n• LFPB is Paris \n• TIST is the Virgin Islands \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020689",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Travel",
+        "role": "extracted",
+        "context": "From: )\" < \nTo: \nSubject: Epstein Travel \nDate: Thu, 25 Apr 2019 22:44"
+      },
+      {
+        "name": "Normal \nLooks",
+        "role": "extracted",
+        "context": "9 22:44:23 +0000 \nImportance: Normal \nLooks like the relevant airport cod"
+      },
+      {
+        "name": "Teterboro Airport",
+        "role": "extracted",
+        "context": "EB and TEB are both codes for Teterboro Airport, New Jersey \n• CYYR is Goose"
+      },
+      {
+        "name": "New Jersey",
+        "role": "extracted",
+        "context": "codes for Teterboro Airport, New Jersey \n• CYYR is Goose Bay Airport"
+      },
+      {
+        "name": "Goose Bay",
+        "role": "extracted",
+        "context": "irport, New Jersey \n• CYYR is Goose Bay Airport in Newfoundland \n• LF"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "LFPB is Paris \n• TIST is the Virgin Islands \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "• TIST is the Virgin Islands \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "gin Islands \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020689"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Teterboro",
+        "type": "location"
+      },
+      {
+        "name": "TEB",
+        "type": "airport"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.357Z"
+}

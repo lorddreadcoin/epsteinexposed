@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00030614",
+    "filename": "EFTA00030614.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030614.pdf",
+    "text": "\n\nFrom: \nSubject: USAO SDNY Prisoner for Court Production Request \nDate: Thu, 18 Jul 2019 20:42:50 +0000 \nPRISONER PRODUCTION FOR COURT REQUEST \nUse this e-mail only to order defendants for Court. \nDATE 7/31/19 TIME 11 am JUDGE Berman \nPRODUCTION TYPE (enter X in box to the right of \ndescription) \nArraignment Bond hearing \nDetention hearing Fatico hearing \nPreliminary \nhearing \nStatus hearing \nRevocation hearing \nSuppression \nhearing \nDefendant USMS # \nCOURT \nROOM \nCASE# 19 Cr. 490 (RMB) \nBond signing \nMotion hearing \nRevocation & \nsentencing \nTrial \n17B \nChange of plea \nOther, describe below \nSentencing \nMaterial witness \nOn writ status \nUSMS use only/report result to CrimSec \n(indicate Y \nonly) \nSentence \nTime served Detainer \n1 Jeffrey Epstein \n76318-054 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \nREMARKS (security precautions, separations, violent crime charge, not standard release issues): \nAUSA NAME AUSA PHONE \nEFTA00030614\n\nAssistant United States Attorney \nSouthern District of New York \nNew York. NY 10007 \nEFTA00030615",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "icate Y \nonly) \nSentence \nTime served Detainer \n1 Jeffrey Epstein \n76318-054 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \nREMARKS ("
+      },
+      {
+        "name": "Court Production",
+        "role": "extracted",
+        "context": "bject: USAO SDNY Prisoner for Court Production Request \nDate: Thu, 18 Jul 20"
+      },
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "Prisoner for Court Production Request \nDate: Thu, 18 Jul 2019 20:42:50 +0"
+      },
+      {
+        "name": "Arraignment Bond",
+        "role": "extracted",
+        "context": "o the right of \ndescription) \nArraignment Bond hearing \nDetention hearing Fa"
+      },
+      {
+        "name": "Sentencing \nMaterial",
+        "role": "extracted",
+        "context": "plea \nOther, describe below \nSentencing \nMaterial witness \nOn writ status \nUSMS"
+      },
+      {
+        "name": "Sentence \nTime",
+        "role": "extracted",
+        "context": "CrimSec \n(indicate Y \nonly) \nSentence \nTime served Detainer \n1 Jeffrey Ep"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "AME AUSA PHONE \nEFTA00030614\n\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "FTA00030614\n\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York. NY 100"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.284Z"
+}

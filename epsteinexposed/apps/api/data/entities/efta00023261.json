@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00023261",
+    "filename": "EFTA00023261.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023261.pdf",
+    "text": "\n\nFrom: \nTo: \nBcc: \"USAHUB-USAJouma1111\" \nSubject: RE: Response to Rule I6/Brady Letter \nDate: Sun, 25 Oct 2020 18:54:41 +0000 \nEmbedded: RE_Response_to_Rule_16_Brady_Letter.msg \nSender: \nSubject: : esponse to u e Brady Letter \nMessa \nTo: \nTo: \nEFTA00023261",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brady Letter",
+        "role": "extracted",
+        "context": "ject: RE: Response to Rule I6/Brady Letter \nDate: Sun, 25 Oct 2020 18:54"
+      },
+      {
+        "name": "Messa \nTo",
+        "role": "extracted",
+        "context": "esponse to u e Brady Letter \nMessa \nTo: \nTo: \nEFTA00023261"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.573Z"
+}

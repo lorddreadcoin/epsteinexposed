@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019867",
+    "filename": "EFTA00019867.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019867.pdf",
+    "text": "\n\nFrom: \nTo: john diaz \nCc: a ' SANYS \" \nSubject: -  trial subpoena \nDate: Tue, 13 Jul 2021 19:41:34 +0000 \nAttachments: 2021.07.13_Court_Subpoenas  _df \nHi John, \nWe've had multiple helpful prep sessions with this summer, and we are planning to call him as a witness at \ntrial. Attached please find a subpoena requiring his testimony at the trial scheduled to begin on November 29, 2021. \nOur team will let you and now closer to trial what date he will be needed to testify. I expect he will testify \nsometime in the second or third week of trial in December. We will reach out in early November 2021 to schedule \nadditional prep by VTC and to make travel and hotel arrangements for In the meantime, if you or \nhave any questions, please feel free to reach out to our team. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nSt. Andrew's Plaza \nNew York, NY 10007 \nEFTA00019867",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi John",
+        "role": "extracted",
+        "context": "1.07.13_Court_Subpoenas  _df \nHi John, \nWe've had multiple helpful"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ch out to our team. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nSt. Andrew's Pla"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ict of New York \nSt. Andrew's Plaza \nNew York, NY 10007 \nEFTA00019867"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.740Z"
+}

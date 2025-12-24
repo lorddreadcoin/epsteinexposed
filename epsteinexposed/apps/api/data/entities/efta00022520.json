@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022520",
+    "filename": "EFTA00022520.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022520.pdf",
+    "text": "\n\nFrom: \"M, \n(USANYS)\"  \nTo: (USANYS)\"  \nSubject: RE: Filed version of Epstein \npapers \nDate: Wed, 17 Jul 2019 13:45:19 +0000 \nYes, these are fine; thanks \nFrom: \n(USANYS)  \nSent: Wednesday, July 17, 2019 9:43 AM \nTo: \n(USANYS)  \nSubject: RE: Filed version of Epstein papers \nAre you referring to the papers filed yesterday? If so, they are attached. These are the publicly filed versions —if you want \nour unredacted version of the submission, just let me \nknow. \nFrom: EM, (USANYS) \nSent: Wednesday, July 17, 2019 9:37 AM \nTo: (USANYS) \nSubject: Filed version of Epstein papers \nWould you pls send me? Sorry if this is request for resend, but if you sent, I can't find it. \nThanks. \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel.: \nEFTA00022520",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Deputy United",
+        "role": "extracted",
+        "context": "t, I can't find it. \nThanks. \nDeputy United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d it. \nThanks. \nDeputy United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel.:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-17",
+        "event": "July 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.069Z"
+}

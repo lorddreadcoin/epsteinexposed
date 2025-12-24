@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00027372",
+    "filename": "EFTA00027372.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027372.pdf",
+    "text": "\n\nFrom: \"cmecf@ca2.uscourts.gov\" \n<cmecf@ca2.uscourts.gov> \nTo: \nSubject: 21-58 United States of America v. Maxwell \"Defective Document CURED\" \nDate: Mon, 05 Apr 2021 16:27:57 +0000 \n***NOTE TO PUBLIC ACCESS USERS*** Judicial Conference of the United States policy permits \nattorneys of record and parties in a case (including pro se litigants) to receive one free electronic copy of \nall documents filed electronically, if receipt is required by law or directed by the filer. PACER access fees \napply to all other users. To avoid later charges, download a copy of each document during this first \nviewing. \nCourt of Appeals, 2nd Circuit \nNotice of Docket Activity \nThe following transaction was filed on 04/05/2021 \nCase Name: United States of America v. Maxwell \nCase Number: 21-58 \nDocket Text: \nCURED DEFECTIVE MOTION FOR BAIL[39], on behalf of Appellant Ghislaine Maxwell in 21-58, 21-770, \nFILED.[3070280] [21-58, 21-770] \nNotice \nwill be electronically mailed to: \nNotice will be stored \nin the notice cart for: \nQuality Control I \nEFTA00027372",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "CTIVE MOTION FOR BAIL[39], on behalf of Appellant Ghislaine Maxwell in 21-58, 21-770, \nFILED.[3070280] [21-58, 21-770"
+      },
+      {
+        "name": "Defective Document",
+        "role": "extracted",
+        "context": "States of America v. Maxwell \"Defective Document CURED\" \nDate: Mon, 05 Apr 202"
+      },
+      {
+        "name": "Judicial Conference",
+        "role": "extracted",
+        "context": "OTE TO PUBLIC ACCESS USERS*** Judicial Conference of the United States policy p"
+      },
+      {
+        "name": "Circuit \nNotice",
+        "role": "extracted",
+        "context": "ewing. \nCourt of Appeals, 2nd Circuit \nNotice of Docket Activity \nThe follo"
+      },
+      {
+        "name": "Docket Activity",
+        "role": "extracted",
+        "context": "peals, 2nd Circuit \nNotice of Docket Activity \nThe following transaction wa"
+      },
+      {
+        "name": "Case Name",
+        "role": "extracted",
+        "context": "tion was filed on 04/05/2021 \nCase Name: United States of America v."
+      },
+      {
+        "name": "Maxwell \nCase",
+        "role": "extracted",
+        "context": ": United States of America v. Maxwell \nCase Number: 21-58 \nDocket Text:"
+      },
+      {
+        "name": "Docket Text",
+        "role": "extracted",
+        "context": "Maxwell \nCase Number: 21-58 \nDocket Text: \nCURED DEFECTIVE MOTION FOR"
+      },
+      {
+        "name": "Appellant Ghislaine",
+        "role": "extracted",
+        "context": "ON FOR BAIL[39], on behalf of Appellant Ghislaine Maxwell in 21-58, 21-770, \nFI"
+      },
+      {
+        "name": "Quality Control",
+        "role": "extracted",
+        "context": "red \nin the notice cart for: \nQuality Control I \nEFTA00027372"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-05",
+        "event": "04/05/2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.106Z"
+}

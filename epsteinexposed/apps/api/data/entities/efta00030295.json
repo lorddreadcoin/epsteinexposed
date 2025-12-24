@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030295",
+    "filename": "EFTA00030295.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030295.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: ,  former chef \nDate: Wed, 30 Jan 2019 22:13:59 +0000 \nImportance: Normal \no former chef, was on board the plane \no some people said he knew lots of stuff; was on the plane when girls were being shuttled \n• Jeff Golenblock was his atty, \n• not sure if Golenblock was paid by Epstein \nAssistant U.S. Attorney \nrn Di ri of New York \nEFTA00030295",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff Golenblock",
+        "role": "extracted",
+        "context": "girls were being shuttled \n• Jeff Golenblock was his atty, \n• not sure if"
+      },
+      {
+        "name": "Epstein \nAssistant",
+        "role": "extracted",
+        "context": "ure if Golenblock was paid by Epstein \nAssistant U.S. Attorney \nrn Di ri of Ne"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.507Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019894",
+    "filename": "EFTA00019894.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019894.pdf",
+    "text": "\n\nFrom: \nr \nTo: lMil.ISJIYS)\"\n=IMACT\nSYI\" \n, \".1>(USANYS)\" \ncc: \nSubject: 050D-NY-3027571_0000239.pdf \nDate: Wed, 11 Nov 2020 21:47:28 +0000 \nAttachments: 050D-NY-3027571_0000239.pdf \n(USANYS)\" \nHi all, \nIn reviewing FBI reports from the Epstein tip line, came across the attached report. We wanted to share this \nwith you in connection with the MCC guards case. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00019894",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "he MCC guards case. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.799Z"
+}

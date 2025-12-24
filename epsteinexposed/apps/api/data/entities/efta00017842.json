@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017842",
+    "filename": "EFTA00017842.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017842.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" czi \nTo: ' (USANYS)\"  \nSubject: RE: Maxwell Letter \nDate: Thu, 20 Aug 2020 19:14:11 +0000 \nAttachments: 2020-08-20_GM_Ietter to judge_Nathan_re_unsealing_materials.rd.docx \nSorry, use this version. \nFrom: (USANYS) \nSent: Thursday, August 20, 2020 3:14 PM \nTo: (USANYS) \nSubject: Maxwell Letter \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nCell \nEFTA00017842",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Letter",
+        "role": "extracted",
+        "context": "o: ' (USANYS)\"  \nSubject: RE: Maxwell Letter \nDate: Thu, 20 Aug 2020 19:14"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "xwell Letter \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nC"
+      },
+      {
+        "name": "Desk \nCell",
+        "role": "extracted",
+        "context": "outhern District of New York \nDesk \nCell \nEFTA00017842"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-20",
+        "event": "August 20, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.718Z"
+}

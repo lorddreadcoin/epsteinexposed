@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014106",
+    "filename": "EFTA00014106.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014106.pdf",
+    "text": "\n\nFrom: ' (USAFLS)\" \nTo: Jack Goldberger  \nBcc: '   (USAFLS)\" \nSubject: RE: Epstein contact \nDate: Wed, 09 Jul 2008 19:58:36 +0000 \nImportance: Normal \nGreat. Thanks. Just faxed a letter to you. I  have to run to an appointment but will be in tomorrow morning. \nAssistant U.S. Attorney \nFrom: Jack Goldberger [mallto \nSent: Wednesday, July 09, 2008 3:56 PM \nTo:  \n. \n(USAFLS) \nSubject: \nRE: Epstein contact \nDear \nM, \nI am the contact person My office address is sufficient for contact \njack \nFrom: (USAFLS) [mallto \nSent: Wednesday, July 09, 2008 1:16 PM \nTo: Jack Goldbe er \nCc: (USAFLS) \nSubject: Epstein contact \nDear Jack: I  have received your letter and am considering it now. One of the questions I  had asked you last \nweek was whether you are the person whom attorneys for the victims should contact if they decide to file any \nclaim. Are you the person? And, if so, what, if any, contact information would you like me to provide? \nThank you. \nAssistant U.S. Attorney \nEFTA00014106",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "From: ' (USAFLS)\" \nTo: Jack Goldberger  \nBcc: '   (USAFLS)\" \nSubject"
+      },
+      {
+        "name": "Normal \nGreat",
+        "role": "extracted",
+        "context": "8 19:58:36 +0000 \nImportance: Normal \nGreat. Thanks. Just faxed a letter"
+      },
+      {
+        "name": "Attorney \nFrom",
+        "role": "extracted",
+        "context": "rrow morning. \nAssistant U.S. Attorney \nFrom: Jack Goldberger [mallto \nSen"
+      },
+      {
+        "name": "Jack Goldbe",
+        "role": "extracted",
+        "context": "y, July 09, 2008 1:16 PM \nTo: Jack Goldbe er \nCc: (USAFLS) \nSubject: Ep"
+      },
+      {
+        "name": "Dear Jack",
+        "role": "extracted",
+        "context": "S) \nSubject: Epstein contact \nDear Jack: I  have received your letter"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-07-09",
+        "event": "July 09, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.134Z"
+}

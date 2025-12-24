@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00011526",
+    "filename": "EFTA00011526.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011526.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: 2021-03-01 attorney proffer re \nDate: Mon, 01 Mar 2021 20:02:18 +0000 \nCall with AUSA S Attorneys Mariann Wang & Gloria Allred \nMW & GA wanted to provide attorney proffer of additional information their client, had disclosed \nsince being interviewed by SDNY & FBI in 2020. • is available to be re-interviewed if necessary. \nhad subsequent interactions with Epstein beyond November 2017, those interactions took place in December 2018-\nJuly 2019 \n•  Accurate that JE lured to Paris & to Florida with offer of employment \n•  Accurate that left and did not want to deal with JE again \n•  JE & another woman names (spelling unknown) kept reaching out to JE offered help \n• took up offer, and JE bought a ticket for to travel to NY and let. stay in so JE said, in essence, \nM owed and • felt obligated to agree to additional trips \n• \n•  Another trip to Florida & VI, sexual abuse in both. \n• • also went to JE's Paris apartment when= was already in Paris, she talked about a dental issue= had, JE had \narrange dentist appointments for=and flew to NY for dental appointments, appointments were right \naround the time when JE was arrested. • interacted with around that time. \n•  JE would ask to find girls for him, and JE asked • to meet with a young (18/19) girl for coffee in Russia. • did \nso, but does not recall her name, just told JE that the girl seemed fine. \nEFTA00011526",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorneys Mariann",
+        "role": "extracted",
+        "context": "02:18 +0000 \nCall with AUSA S Attorneys Mariann Wang & Gloria Allred \nMW & GA"
+      },
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "SA S Attorneys Mariann Wang & Gloria Allred \nMW & GA wanted to provide at"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Paris Apartment",
+        "type": "residence"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-03-01",
+        "event": "2021-03-01"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.833Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00017957",
+    "filename": "EFTA00017957.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017957.pdf",
+    "text": "\n\nDaniel Siad \na 3G \ntad \nDaniel Siad \nPhone \nNumbers \nMobile: \nOther: \nti . \nTT TTT \nyrres-T-ror.,  -  \n- - \nEmail \nAddresses \nEFTA00017957",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Daniel Siad",
+        "role": "extracted",
+        "context": "Daniel Siad \na 3G \ntad \nDaniel Siad \nPhon"
+      },
+      {
+        "name": "Phone \nNumbers",
+        "role": "extracted",
+        "context": "Siad \na 3G \ntad \nDaniel Siad \nPhone \nNumbers \nMobile: \nOther: \nti . \nTT TT"
+      },
+      {
+        "name": "Email \nAddresses",
+        "role": "extracted",
+        "context": "TTT \nyrres-T-ror.,  -  \n- - \nEmail \nAddresses \nEFTA00017957"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.939Z"
+}

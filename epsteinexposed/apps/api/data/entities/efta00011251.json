@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00011251",
+    "filename": "EFTA00011251.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011251.pdf",
+    "text": "\n\nFrom: \nTo:  >, (USANYS)\" \nSubject: FW: Request re Maxwell Relativity \nDate: Tue, 08 Dec 2020 21:46:21 +0000 \nlane-Images: image002.jpg \nAs we discussed on our call with and on Friday, my understanding is that the FBI has ceased reviewing all \ncontent from Epstein's devices and will limit their review of the devices to (a) documents tagged Responsive on Relativity, \n(b) images and videos identified as Responsive during the review conducted by the FBI and SDNY this fall, and (c) portions \nof iPads and the iPhone that SDNY identified responsive during our review this fall. \nWe should plan to do the same going forward. If you guys encounter anything that appears to come from any of Epstein's \ndevices that you believe was not identified responsive, please let me know, and we can take action to confirm and lock off \nany nonresponsive material from review. \nFrom: (USANYS) [Contractor] \nSent: Tuesday, December 8, 202010:07 AM \nTo: \nCc: \n>, \n(USANYS) \n<\nSubject: RE: Request re Maxwell \nRelativity \nHello \nCan you please confirm that the below search is the correct data to secure: \nUS v. Epstein (SW Returns) - Potentially Non-Responsive - https://dlpe.nss.pae.com/Relativityjgo?id=2370462-4350955 \nCan you also please confirm that the Potentially Non-Responsive data will be placed in two subfolders under the following \nparent folders: \nI-- Di Search \nWarrant Returns \nNew_Search Warrant Returns_FBI \n4- \nb \nUSvE_20200728 \nThank you. \nFrom: \nSent: Friday, December 4, 202010:55 AM \nTo: (USANYS) [Contractor] <II> \n(USANYS) \nSubject: Request re Maxwell Relativity \nEFTA00011251\n\nNow that we have completed our responsiveness review in the \"US v Epstein (SW Returns)\" database, we need to lock off \naccess to any non-responsive materials in that database. Would it be possible to please lock off access to the 397,365 \ndocuments in that database that are NOT currently tagged \"Identified Responsive\"? That should leave just the 1,218,719 \ndocuments that are tagged \"Identified Responsive\" accessible to the team for use in our case. \nHappy to have a call to discuss if that would be useful. \nThanks very much, \nEFTA00011252",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Relativity",
+        "role": "extracted",
+        "context": "YS)\" \nSubject: FW: Request re Maxwell Relativity \nDate: Tue, 08 Dec 2020 21:46"
+      },
+      {
+        "name": "Maxwell \nRelativity",
+        "role": "extracted",
+        "context": "S) \n<\nSubject: RE: Request re Maxwell \nRelativity \nHello \nCan you please confir"
+      },
+      {
+        "name": "Hello \nCan",
+        "role": "extracted",
+        "context": "quest re Maxwell \nRelativity \nHello \nCan you please confirm that the b"
+      },
+      {
+        "name": "Potentially Non",
+        "role": "extracted",
+        "context": "US v. Epstein (SW Returns) - Potentially Non-Responsive - https://dlpe.nss"
+      },
+      {
+        "name": "Di Search",
+        "role": "extracted",
+        "context": "llowing \nparent folders: \nI-- Di Search \nWarrant Returns \nNew_Search"
+      },
+      {
+        "name": "Warrant Returns",
+        "role": "extracted",
+        "context": "rent folders: \nI-- Di Search \nWarrant Returns \nNew_Search Warrant Returns_F"
+      },
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "Search \nWarrant Returns \nNew_Search Warrant Returns_FBI \n4- \nb \nUSvE_2020"
+      },
+      {
+        "name": "Identified Responsive",
+        "role": "extracted",
+        "context": "hat are NOT currently tagged \"Identified Responsive\"? That should leave just the"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.401Z"
+}

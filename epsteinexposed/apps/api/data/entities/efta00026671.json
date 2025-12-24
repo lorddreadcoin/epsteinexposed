@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026671",
+    "filename": "EFTA00026671.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026671.pdf",
+    "text": "\n\nFrom: \n'\n)' \nTo: \nCc: \nSubject: Pitman deputy contact info?? \nDate: Sun, 07 Jul 2019 17:19:32 +0000 \nImportance: Normal \nHi guys —this is a long shot, but by any chance do you happen to have a cell phone number for Judge Pitman's deputy? Or \neven an email address? We've been asked to try to tee up the Epstein unsealing for him tomorrow morning—I think we \ncould just call him at 9:00 when the court opens, but far more important people than I would like us to try to reach out \ntoday. We have all the Moses duty info since she's on this weekend, but nothing for Pitman (and he doesn't list any email \naddress in his individual rules). Thanks either wayl \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00026671",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "9 17:19:32 +0000 \nImportance: Normal \nHi guys —this is a long shot, bu"
+      },
+      {
+        "name": "Judge Pitman",
+        "role": "extracted",
+        "context": "have a cell phone number for Judge Pitman's deputy? Or \neven an email a"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "s either wayl \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.791Z"
+}

@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00019283",
+    "filename": "EFTA00019283.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019283.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio 1  Mob Building \nOne Saint Andrew's Haw \nNew York, New York 10007 \nDecember 17, 2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinent to the following inmate: \n• \nGhislaine Maxwell: \nPlease allow her access to the materials enclosed. \nVery truly yours, \nAUDREY \nSTRAUSS \nActing United States \nAttorney \nby: \nAssistant United States Attorneys \nEnclosure \nEFTA00019283",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinen"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio 1  Mo"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio 1  Mob Building \nOne Saint An"
+      },
+      {
+        "name": "Mob Building",
+        "role": "extracted",
+        "context": "ct of New York \nThe Silvio 1  Mob Building \nOne Saint Andrew's Haw \nNew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Silvio 1  Mob Building \nOne Saint Andrew's Haw \nNew York, New Y"
+      },
+      {
+        "name": "Haw \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Haw \nNew York, New York 10007 \nDecembe"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "ruly yours, \nAUDREY \nSTRAUSS \nActing United States \nAttorney \nby: \nAssist"
+      },
+      {
+        "name": "States \nAttorney",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nActing United States \nAttorney \nby: \nAssistant United States"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "United States \nAttorney \nby: \nAssistant United States Attorneys \nEnclosure"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "torney \nby: \nAssistant United States Attorneys \nEnclosure \nEFTA00019283"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-17",
+        "event": "December 17, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.599Z"
+}

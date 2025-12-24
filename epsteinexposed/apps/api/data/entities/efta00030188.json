@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00030188",
+    "filename": "EFTA00030188.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030188.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nfr-\" \nTo:  \nSubject: Vanity Fair: Just \"Him and Epstein\" and \"28 Girls\": Florida Man Drops a Dime on Trump \nDate: Wed, 10 Jul 2019 16:43:57 +0000 \nImportance: Normal \nJust \"Him and Epstein\" and \"28 Girls\": Florida Man Drops a Dime on Trump \nFlorida businessman George Houraney told the New York Times that the president's relationship with Jeffrey \nEpstein involved at least one \"calendar girl\" party at Mar-a-Lago. \nRead in Vanity Fair: https://apple.news/Awefdq1DmSzCEGW6gem3VQ\nShared from Apple News \nEFTA00030188",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Vanity Fair",
+        "role": "extracted",
+        "context": "ANYS)\"  \nfr-\" \nTo:  \nSubject: Vanity Fair: Just \"Him and Epstein\" and \""
+      },
+      {
+        "name": "Florida Man",
+        "role": "extracted",
+        "context": "and Epstein\" and \"28 Girls\": Florida Man Drops a Dime on Trump \nDate:"
+      },
+      {
+        "name": "Trump \nDate",
+        "role": "extracted",
+        "context": ": Florida Man Drops a Dime on Trump \nDate: Wed, 10 Jul 2019 16:43:57 +0"
+      },
+      {
+        "name": "Normal \nJust",
+        "role": "extracted",
+        "context": "9 16:43:57 +0000 \nImportance: Normal \nJust \"Him and Epstein\" and \"28 Gir"
+      },
+      {
+        "name": "Trump \nFlorida",
+        "role": "extracted",
+        "context": ": Florida Man Drops a Dime on Trump \nFlorida businessman George Houraney t"
+      },
+      {
+        "name": "George Houraney",
+        "role": "extracted",
+        "context": "on Trump \nFlorida businessman George Houraney told the New York Times that"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "president's relationship with Jeffrey \nEpstein involved at least one \"calend"
+      },
+      {
+        "name": "Apple News",
+        "role": "extracted",
+        "context": "q1DmSzCEGW6gem3VQ\nShared from Apple News \nEFTA00030188"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.222Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020125",
+    "filename": "EFTA00020125.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020125.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: \nRe: Epstein \nDate: Mon, 26 Aug \n2019 17:29:29 +0000 \nWe spoke with her, all set. Thanks. \nSent from my iPhone \nOn Aug 26, 2019, at 1:22 PM, ■ \nSent from my iPhone \nBegin forwarded message: \nFrom:\nDate: August 26, 2019 at 12:39:45 EDT \nTo:\nSubject: Epstein \nHi, This is \nSent from my iPhone \nwrote: \ns attorney, Please give me a call regarding tomorrow \nEFTA00020125",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: \nRe: Epstein \nDate: Mon, 26 Aug \n2019 17:29:29 +"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "l set. Thanks. \nSent from my iPhone \nOn Aug 26, 2019, at 1:22 PM, ■"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "at 1:22 PM, ■ \nSent from my iPhone \nBegin forwarded message: \nFrom:\nDat"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "at 12:39:45 EDT \nTo:\nSubject: Epstein \nHi, This is \nSent from my iPhone"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-26",
+        "event": "August 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.241Z"
+}

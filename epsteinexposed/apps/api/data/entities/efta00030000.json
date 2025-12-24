@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030000",
+    "filename": "EFTA00030000.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030000.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \n[=. \nTo: (USANYS)\"  \nSubject: FW: GM Letter Due \nToday \nDate: Thu, 28 Jan 2021 22:56:50 +0000 \nAttachments: 2021-01-\n28_GM _letter to_Judge_Nathan_re_defense_proposed_redactions_in_pretrial_motions_vl.r \nd.docx \nMy \nedits \nFrom: (USANYS) \nSent: Thursday, January 28, 2021 5:45 PM \nTo: (USANYS) \nCc: \nII< \n>; \nSubject: GM Letter Due Today \n(USANYS) \nApologies for getting this to you at this hour, but we owe the Court a letter today regarding the defendant's proposed \nredactions to the pre-trial motions. Attached is a draft letter and the exhibit for your review. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \n13 \nEFTA00030000",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter Due",
+        "role": "extracted",
+        "context": ": (USANYS)\"  \nSubject: FW: GM Letter Due \nToday \nDate: Thu, 28 Jan 202"
+      },
+      {
+        "name": "Today \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: GM Letter Due \nToday \nDate: Thu, 28 Jan 2021 22:56:50 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "it for your review. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \n13 \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-28",
+        "event": "January 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.748Z"
+}

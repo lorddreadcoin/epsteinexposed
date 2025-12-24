@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00032981",
+    "filename": "EFTA00032981.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032981.pdf",
+    "text": "\n\nFrom: ' \n)11 \n<I \nTo:' \nCc: \"M, \n) \nSubject: RE: Human trafficking \nDate: Wed, 18 Dec 2019 22:39:48 +0000 \n(USANYS) [Contractor] 1\" <I \nThanks very much —  we do happen to have this one, but please don't hesitate to send along anything you see on the \nEpstein case, we appreciate it. \nthanks again, \nFrom: (USANYS) [Contractor] 1 \nSent: Monday, December 16, 2019 15:27 \nTo: \nCc: \n) 1 < \nSubject: Human trafficking \n> \nI believe you have the associated investigation related to this SAR. It does not show a  law enforcement contact, so I \nwanted to make sure you have seen it. \nFinancial Investigator \nMoney Laundering 8. Transnational Criminal Enterprises Unit \nUnited StatesAttome s Office Southern District of New York \nASRC Federal I Customer-Focused. Operationally Excellent \nEFTA00032981",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Financial Investigator",
+        "role": "extracted",
+        "context": "make sure you have seen it. \nFinancial Investigator \nMoney Laundering 8. Transnat"
+      },
+      {
+        "name": "Money Laundering",
+        "role": "extracted",
+        "context": "it. \nFinancial Investigator \nMoney Laundering 8. Transnational Criminal Ent"
+      },
+      {
+        "name": "Transnational Criminal",
+        "role": "extracted",
+        "context": "stigator \nMoney Laundering 8. Transnational Criminal Enterprises Unit \nUnited Stat"
+      },
+      {
+        "name": "Enterprises Unit",
+        "role": "extracted",
+        "context": "ing 8. Transnational Criminal Enterprises Unit \nUnited StatesAttome s Office"
+      },
+      {
+        "name": "Office Southern",
+        "role": "extracted",
+        "context": "s Unit \nUnited StatesAttome s Office Southern District of New York \nASRC Fe"
+      },
+      {
+        "name": "Operationally Excellent",
+        "role": "extracted",
+        "context": "C Federal I Customer-Focused. Operationally Excellent \nEFTA00032981"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-16",
+        "event": "December 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.966Z"
+}

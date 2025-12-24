@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00026665",
+    "filename": "EFTA00026665.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026665.pdf",
+    "text": "\n\nFrom: \n\" \nTo: ' \n\" ctIMIE> \n' \nSubject: Point of View: Jeffrey Epstein victims not silenced by NDAs, attorney says - Opinion - The \nPalm Beach Post - West Palm Beach, FL \nDate: Sun, 30 Jun 2019 22:35:55 +0000 \nImportance: Normal \nI know you guys have google alerts, too, but I  thought it was interesting that Brad wrote this, given everything \nthat's going on. \nhttps://www.palmbeachpost.corn/opinion/20190630/point-of-view-jeffrey-epstein-victims-not-silenced-by-ndas-\nattorney-says \nSent from my iPhone \nEFTA00026665",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "\" \nTo: ' \n\" ctIMIE> \n' \nSubject: Point of View: Jeffrey Epstein victims not silenced by NDAs, attorney says - Opi"
+      },
+      {
+        "name": "The \nPalm",
+        "role": "extracted",
+        "context": "As, attorney says - Opinion - The \nPalm Beach Post - West Palm Beach,"
+      },
+      {
+        "name": "Beach Post",
+        "role": "extracted",
+        "context": "ey says - Opinion - The \nPalm Beach Post - West Palm Beach, FL \nDate:"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "nion - The \nPalm Beach Post - West Palm Beach, FL \nDate: Sun, 30 Jun"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.776Z"
+}

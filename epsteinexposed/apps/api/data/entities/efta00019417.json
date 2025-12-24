@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00019417",
+    "filename": "EFTA00019417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019417.pdf",
+    "text": "\n\nFrom: \nTo: 'Si's, [Contractor\nCc: ' SANYS \" \n0 \"\nii\nSubject: [EXTERNAL] US V Maxwell VOir Dire 11/18/21 \nDate: Thu, 18 Nov 2021 19:54:17 +0000 \nAttachments: XLBIlMAXVDF.pdf \nEFTA00019417",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Contractor\nCc",
+        "role": "extracted",
+        "context": "From: \nTo: 'Si's, [Contractor\nCc: ' SANYS \" \n0 \"\nii\nSubject: ["
+      },
+      {
+        "name": "Oir Dire",
+        "role": "extracted",
+        "context": "ect: [EXTERNAL] US V Maxwell VOir Dire 11/18/21 \nDate: Thu, 18 Nov 2"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.846Z"
+}

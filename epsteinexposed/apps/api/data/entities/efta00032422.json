@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032422",
+    "filename": "EFTA00032422.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032422.pdf",
+    "text": "\n\nFrom: \nTo: \n(NY) \n(FBI)\" la \n(USANYS USANYS \n(OIG)\" \nCc: \nSubject: Finalized 302 \nDate: Fri, 30 Aug 2019 16:52:12 +0000 \nAttachment- 302.pdf \n(NY)\n \n(QUA)\" \nMI=IMIN'' \nII \nSpecial Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00032422",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "(NY)\n \n(QUA)\" \nMI=IMIN'' \nII \nSpecial Agent \nFBI New York Field \nOffice"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nE"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "FBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00032422"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field \nOffice \nViolent Crimes Task Force \nEFTA00032422"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.594Z"
+}

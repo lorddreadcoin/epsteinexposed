@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028594",
+    "filename": "EFTA00028594.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028594.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc:I\nSubject: Bill Richardson \nDate: Thu, 13 May 2021 16:08:11 +0000 \nEmbedded: FW:_Richardson.msg \nHi \nCan we find some time next week to discuss the WebEx S and I had today with former Governor Bill \nRichardson's new attorneys, please? Not urgent. \nFor context, attached is email correspondence from 2019 regarding teractions with Richardson's prior \ncounsel. \nThanks, \nEFTA00028594",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bill Richardson",
+        "role": "extracted",
+        "context": "From: \nTo:' \nCc:I\nSubject: Bill Richardson \nDate: Thu, 13 May 2021 16:08:11 +0000 \nEmbedded:"
+      },
+      {
+        "name": "Hi \nCan",
+        "role": "extracted",
+        "context": "Embedded: FW:_Richardson.msg \nHi \nCan we find some time next week t"
+      },
+      {
+        "name": "Governor Bill",
+        "role": "extracted",
+        "context": "S and I had today with former Governor Bill \nRichardson's new attorneys,"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-13",
+        "event": "13 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.552Z"
+}

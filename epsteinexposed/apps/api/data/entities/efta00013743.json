@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013743",
+    "filename": "EFTA00013743.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013743.pdf",
+    "text": "\n\nFrom \nTo: \"Acosta, Alex (USAFLS)\" \nSubject: Epstein \nDate: Wed, 12 Sep 2007 15:07:20 +0000 \nImportance: Normal \nalong with Gerald Lefcourt and Jack Goldberger, are meeting with Barry Kirscher today at 1:30 regarding \nthe proposed resolution. \nEFTA00013743",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \"Acosta, Alex (USAFLS)\" \nSub"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "sta, Alex (USAFLS)\" \nSubject: Epstein \nDate: Wed, 12 Sep 2007 15:07:20 +0"
+      },
+      {
+        "name": "Gerald Lefcourt",
+        "role": "extracted",
+        "context": "mportance: Normal \nalong with Gerald Lefcourt and Jack Goldberger, are meet"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "long with Gerald Lefcourt and Jack Goldberger, are meeting with Barry Kirsc"
+      },
+      {
+        "name": "Barry Kirscher",
+        "role": "extracted",
+        "context": "Goldberger, are meeting with Barry Kirscher today at 1:30 regarding \nthe"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.295Z"
+}

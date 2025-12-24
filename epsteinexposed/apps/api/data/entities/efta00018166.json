@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00018166",
+    "filename": "EFTA00018166.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018166.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: reporter query about Epstein \nDate: Tue, 09 Jul 2019 18:54:29 +0000 \nImportance: Normal \nFYI \nFrom: Ostrowski, Jeffrey \nSent: Tuesday, July 09, 2019 14:26 \nTo: \nSubject: reporter query about Epstein \nI'm writing about the indictment of Jeffrey Epstein, and I  wonder if the government it plans to pursue the Palm \nBeach property. I'm trying to reconcile the mention forfeiture of \"any property\" with the lack of a specific \nmention of the address or legal description of the El Brillo Way real estate. \nThanks. \nJeff \nOstrowski \nReporter \nThe Palm Beach Post I  Palm Beach Dail News GateHouse Florida \nThis message may contain confidential and/or privileged information. If you are not the intended recipient or authorized to \nreceive this for the intended recipient, you must not use, copy, disclose or take any action based on this message or any \ninformation herein. If you have received this message in error, please advise the sender immediately by sending a reply e-\nmail and delete this message. Thank you for your cooperation. \nEFTA00018166",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "bout Epstein \nI'm writing about the indictment of Jeffrey Epstein, and I  wonder if the government it plans to purs"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ect: FW: reporter query about Epstein \nDate: Tue, 09 Jul 2019 18:54:29 +0"
+      },
+      {
+        "name": "Jeffrey \nSent",
+        "role": "extracted",
+        "context": "Normal \nFYI \nFrom: Ostrowski, Jeffrey \nSent: Tuesday, July 09, 2019 14:26"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "rnment it plans to pursue the Palm \nBeach property. I'm trying to recon"
+      },
+      {
+        "name": "El Brillo",
+        "role": "extracted",
+        "context": "s or legal description of the El Brillo Way real estate. \nThanks. \nJe"
+      },
+      {
+        "name": "Jeff \nOstrowski",
+        "role": "extracted",
+        "context": "lo Way real estate. \nThanks. \nJeff \nOstrowski \nReporter \nThe Palm Beach Pos"
+      },
+      {
+        "name": "Reporter \nThe",
+        "role": "extracted",
+        "context": "e. \nThanks. \nJeff \nOstrowski \nReporter \nThe Palm Beach Post I  Palm Beach"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "eff \nOstrowski \nReporter \nThe Palm Beach Post I  Palm Beach Dail News"
+      },
+      {
+        "name": "Dail News",
+        "role": "extracted",
+        "context": "Palm Beach Post I  Palm Beach Dail News GateHouse Florida \nThis messa"
+      },
+      {
+        "name": "House Florida",
+        "role": "extracted",
+        "context": "t I  Palm Beach Dail News GateHouse Florida \nThis message may contain con"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 09, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.317Z"
+}

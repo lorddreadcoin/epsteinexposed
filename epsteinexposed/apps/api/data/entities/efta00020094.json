@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020094",
+    "filename": "EFTA00020094.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020094.pdf",
+    "text": "\n\nFrom: \"\" alMIN> \nTo: \n'ntANYS)\" \nSubject: FW: JOINT Proposed Voir Dire Sent_(Reponse to Defense v1) (002).docx \nDate: \nSun, 10 Oct 2021 19:50:24 +0000 \nAttachments: JOINT_Proposed_Voir Dire_Sent_(Reponse_to_Defense_v2).docx \nUpdated version that incorporates edits is attached and on the share. \nFrom (USANYS) <MM> \nSent: Sunday, October 10, 2021 3:08 PM \n(USANYS) To: \nCc: (USANYS) ‹> \nSubject: JOINT Proposed Voir Dire Sent_(Reponse to Defense v1) (002).docx \nThis looks good. A few additions in comment bubbles. M, I'm going to call you \nnow. \nEFTA00020094",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proposed Voir",
+        "role": "extracted",
+        "context": "'ntANYS)\" \nSubject: FW: JOINT Proposed Voir Dire Sent_(Reponse to Defense"
+      },
+      {
+        "name": "Dire Sent",
+        "role": "extracted",
+        "context": "ject: FW: JOINT Proposed Voir Dire Sent_(Reponse to Defense v1) (002)"
+      },
+      {
+        "name": "Voir Dire",
+        "role": "extracted",
+        "context": "Attachments: JOINT_Proposed_Voir Dire_Sent_(Reponse_to_Defense_v2)."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-10",
+        "event": "October 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.180Z"
+}

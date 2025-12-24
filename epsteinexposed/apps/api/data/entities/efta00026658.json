@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00026658",
+    "filename": "EFTA00026658.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026658.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: US v Jeffery Epstein \nDate: Tue, 09 Jul 2019 19:21:35 +0000 \nImportance: Normal \nThank you for passing this along. \nAssistant United States Attorney \nSouthern District of New York \nFrom:\nSent: Tuesday, July 9, 2019 3:16 PM \nTo: \nCc: \nSubject: US v Jeffery Epstein \nCounsel: \nAs Duty Assistant yesterday, the EDNY received this phone call from a potential witness in the Epstein case. Though \nreferred to the FBI, he indicated he only wished to speak to someone from the USAO. Having failed to get someone at the \nSDNY he called here. An investigator from our office witnessed the call and his Memorandum of the call is attached. We \nindicated that we would refer the matter to you and that an investigator from the SDNY might be in contact with him. \nAssistant U.S. Attorney \nSenior Investigative Counsel \nEastern District of New York \noffice \ncell \nEFTA00026658",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffery Epstein",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: RE: US v Jeffery Epstein \nDate: Tue, 09 Jul 2019 19:21"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "9 19:21:35 +0000 \nImportance: Normal \nThank you for passing this along."
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "you for passing this along. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "this along. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nFrom:\nSent: Tues"
+      },
+      {
+        "name": "As Duty",
+        "role": "extracted",
+        "context": "v Jeffery Epstein \nCounsel: \nAs Duty Assistant yesterday, the EDNY"
+      },
+      {
+        "name": "Attorney \nSenior",
+        "role": "extracted",
+        "context": "act with him. \nAssistant U.S. Attorney \nSenior Investigative Counsel \nEaster"
+      },
+      {
+        "name": "Investigative Counsel",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \nSenior Investigative Counsel \nEastern District of New York"
+      },
+      {
+        "name": "Eastern District",
+        "role": "extracted",
+        "context": "Senior Investigative Counsel \nEastern District of New York \noffice \ncell \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.759Z"
+}

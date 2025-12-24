@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032417",
+    "filename": "EFTA00032417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032417.pdf",
+    "text": "\n\nFrom: Laura Woods <laurawoods579®gmail.com> \nTo: 'SI\nSubject: Ghislane MAXWELL \nDate: Fri, 27 Sep 2019 11:49:59 +0000 \nGhislane looks very much like Melania Trump. \nRespectfully submitted, \nLaura Isabel Woods \nEFTA00032417",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Laura Woods",
+        "role": "extracted",
+        "context": "From: Laura Woods <laurawoods579®gmail.com> \nTo"
+      },
+      {
+        "name": "Melania Trump",
+        "role": "extracted",
+        "context": "Ghislane looks very much like Melania Trump. \nRespectfully submitted, \nLa"
+      },
+      {
+        "name": "Laura Isabel",
+        "role": "extracted",
+        "context": "mp. \nRespectfully submitted, \nLaura Isabel Woods \nEFTA00032417"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.582Z"
+}

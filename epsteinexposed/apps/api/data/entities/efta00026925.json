@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026925",
+    "filename": "EFTA00026925.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026925.pdf",
+    "text": "\n\nEvent: Declined: Epstein FOIA Next Steps - Noel Team \nStart Date: 2021-04-13 20:00:00 +0000 \nEnd Date: 2021-04-13 20:30:00 +0000 \nLocation: \nClass: X-PERSONAL \nComment: \nDate Created: 2021-04-13 20:27:41 +0000 \nDate Modified: 2021-04-13 20:27:41 +0000 \nPriority: 5 \nDTSTAMP: 2021-04-13 17:10:17 +0000 \nAttendee: \n> \nEFTA00026925",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Next Steps",
+        "role": "extracted",
+        "context": "Event: Declined: Epstein FOIA Next Steps - Noel Team \nStart Date: 2021"
+      },
+      {
+        "name": "Noel Team",
+        "role": "extracted",
+        "context": "ed: Epstein FOIA Next Steps - Noel Team \nStart Date: 2021-04-13 20:00"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "FOIA Next Steps - Noel Team \nStart Date: 2021-04-13 20:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-04-13 20:00:00 +0000 \nEnd Date: 2021-04-13 20:30:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-04-13 20:27:41 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-04-13 20:27:41 +0000 \nDate Modified: 2021-04-13 20:27:41 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-13",
+        "event": "2021-04-13"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.160Z"
+}

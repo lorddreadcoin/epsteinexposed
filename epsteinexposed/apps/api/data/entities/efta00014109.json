@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00014109",
+    "filename": "EFTA00014109.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014109.pdf",
+    "text": "\n\nFrom: (USAFLS)\" alMIN> \nTo: (USAFLS)\" \nalMIN> \nBcc: (USAFLS)\" aMIIM> \nSubject: RE: Jeffrey Epstein Agreement \nDate: Wed, 25 Jun 2008 12:39:31 +0000 \nImportance: Normal \nHi 1 think I have designed a solution to the 2255 issue and I  will call you to discuss the plea. lam still finishing up these search \nwarrants. As soon as they are done, I  will give you a call. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n--Original Message---\nFrom: \n(USAFLS) \nSent: Tuesday, June 24, 2008 9:14 PM \nTo: . (USAFLS) \nSubject: Re: Jeffrey Epstein Agreement \nLet's talk about going to the COP \n---- Original Message \nFrom: (USAFLS) \nTo: Roy BLACK a; Jack Goldberger\nCc: \n(USAFLS) \nSent: Tue Jun 24 16:04:55 2008 \nSubject: Jeffrey Epstein Agreement \nDear Roy and Jack: \nI am just writing to re-state that it is the Government's position that we have a signed, binding agreement and that there is no need for \nfurther modification. \nPlease keep us informed of the date and time of the change of plea and sentencing. \nThank you. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014109",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "LS)\" \nalMIN> \nBcc: (USAFLS)\" aMIIM> \nSubject: RE: Jeffrey Epstein Agreement \nDate: Wed, 25 Jun 2008 12:39:31 +0000"
+      },
+      {
+        "name": "Agreement \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Jeffrey Epstein Agreement \nDate: Wed, 25 Jun 2008 12:39:31 +0"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 12:39:31 +0000 \nImportance: Normal \nHi 1 think I have designed a sol"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "e you a call. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n--Orig"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \n--Original Message---\nFrom:"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "each, FL 33401 \nPhone \nFax \n--Original Message---\nFrom: \n(USAFLS) \nSent: Tue"
+      },
+      {
+        "name": "Agreement \nLet",
+        "role": "extracted",
+        "context": "Subject: Re: Jeffrey Epstein Agreement \nLet's talk about going to the COP"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "m: (USAFLS) \nTo: Roy BLACK a; Jack Goldberger\nCc: \n(USAFLS) \nSent: Tue Jun"
+      },
+      {
+        "name": "Tue Jun",
+        "role": "extracted",
+        "context": "ldberger\nCc: \n(USAFLS) \nSent: Tue Jun 24 16:04:55 2008 \nSubject: Je"
+      },
+      {
+        "name": "Agreement \nDear",
+        "role": "extracted",
+        "context": "008 \nSubject: Jeffrey Epstein Agreement \nDear Roy and Jack: \nI am just writ"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-24",
+        "event": "June 24, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.151Z"
+}

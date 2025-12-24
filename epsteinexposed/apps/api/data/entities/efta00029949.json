@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029949",
+    "filename": "EFTA00029949.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029949.pdf",
+    "text": "\n\nFrom: \n\" \nalMIE> \nTo:' \n\" \nalMIE> \nSubject: \nDate: Mon, 29 Mar 2021 23:54:24 +0000 \nAttachments: 2021-03-29_Letter_Re_Discovery_Requests_Re_FOIA.pdf \nAssistant United States Attorney \nSouthern District of New York \nEFTA00029949",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "scovery_Requests_Re_FOIA.pdf \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Re_FOIA.pdf \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00029949"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.620Z"
+}

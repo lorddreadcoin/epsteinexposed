@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00021547",
+    "filename": "EFTA00021547.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021547.pdf",
+    "text": "\n\nFrom: \" \nTo:\" \n\" \nCc: inn>\n<\nIMIIW, \nSubject: Ex Parte Submission: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nDate: Fri, 02 Aug 2019 22:16:46 +0000 \nAttachments: 2019-08-02, JE_ex-parte_discovery_letter.pdf \nTo the Chambers of Judge Berman: \nThe Government respectfully submits the attached ex parte letter. The letter is respectfully requested to be filed under \nseal, because it discusses victim witnesses. \nSincerely, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021547",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ", \nSubject: Ex Parte Submission: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nDate: Fri, 02 Aug 2019 22:16:4"
+      },
+      {
+        "name": "Ex Parte",
+        "role": "extracted",
+        "context": "Cc: inn>\n<\nIMIIW, \nSubject: Ex Parte Submission: United States v."
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "etter.pdf \nTo the Chambers of Judge Berman: \nThe Government respectfully"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "he Chambers of Judge Berman: \nThe Government respectfully submits the atta"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ictim witnesses. \nSincerely, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Sincerely, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021547"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-02",
+        "event": "2019-08-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.880Z"
+}

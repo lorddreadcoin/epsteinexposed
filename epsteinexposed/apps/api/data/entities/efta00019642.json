@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00019642",
+    "filename": "EFTA00019642.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019642.pdf",
+    "text": "\n\n****All information contained alongside this file within the ZIP container is Google Confidential an \nd Proprietary**** \nExport Summary \nOriginating Identifier: \nResolved Identifier: \nResolution Path: \nEmail Address Associated \nService: Google Account \nResource: Subscriber Info \n(Email Address( \nwith Google Account ID: \nN \n(Google Acco \n[Email Address) -> 1  Account I\nStart of date range: Not Specified. \nEnd of date range: 2020-08-27 00:00:00 UTC \nEFTA00019642",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Google Confidential",
+        "role": "extracted",
+        "context": "e within the ZIP container is Google Confidential an \nd Proprietary**** \nExport"
+      },
+      {
+        "name": "Export Summary",
+        "role": "extracted",
+        "context": "ential an \nd Proprietary**** \nExport Summary \nOriginating Identifier: \nRes"
+      },
+      {
+        "name": "Originating Identifier",
+        "role": "extracted",
+        "context": "prietary**** \nExport Summary \nOriginating Identifier: \nResolved Identifier: \nResol"
+      },
+      {
+        "name": "Resolved Identifier",
+        "role": "extracted",
+        "context": "ary \nOriginating Identifier: \nResolved Identifier: \nResolution Path: \nEmail Add"
+      },
+      {
+        "name": "Resolution Path",
+        "role": "extracted",
+        "context": "ifier: \nResolved Identifier: \nResolution Path: \nEmail Address Associated \nS"
+      },
+      {
+        "name": "Email Address",
+        "role": "extracted",
+        "context": "dentifier: \nResolution Path: \nEmail Address Associated \nService: Google A"
+      },
+      {
+        "name": "Associated \nService",
+        "role": "extracted",
+        "context": "solution Path: \nEmail Address Associated \nService: Google Account \nResource: Su"
+      },
+      {
+        "name": "Google Account",
+        "role": "extracted",
+        "context": "Address Associated \nService: Google Account \nResource: Subscriber Info \n("
+      },
+      {
+        "name": "Subscriber Info",
+        "role": "extracted",
+        "context": "ce: Google Account \nResource: Subscriber Info \n(Email Address( \nwith Google"
+      },
+      {
+        "name": "Google Acco",
+        "role": "extracted",
+        "context": "with Google Account ID: \nN \n(Google Acco \n[Email Address) -> 1  Accoun"
+      },
+      {
+        "name": "Not Specified",
+        "role": "extracted",
+        "context": "ccount I\nStart of date range: Not Specified. \nEnd of date range: 2020-08-"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-27",
+        "event": "2020-08-27"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.301Z"
+}

@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00023478",
+    "filename": "EFTA00023478.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023478.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo:\n,  Bobbi Sternheim \n\"Mark S. Cohen\" \n\"Laura \nMenninger\" Jeff Pagliuca \nCc: \nSANYS) \nntractor]\" \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - discovery production \nDate: Mon, 04 Oct 2021 15:33:04 +0000 \nAttachments: 2021.10.04_Maxwell_Discovery_Letter.pdf \nCounsel, \nwe have an additional discovery production ready to send to you today. Attached please find the accompanying cover \nletter. The production will be made via USAfx. \nWe will send a CD with the new production to the MDC for Ms. Maxwell. If you would prefer that she receive the \nproduction on a drive, we can either request that the MDC send us one of the drives back to load with the production, or \nwe can load a new drive if you would like to provide us with one. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York \nNew York 10007 \nEFTA00023478",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "new production to the MDC for Ms. Maxwell. If you would prefer that"
+      },
+      {
+        "name": "Bobbi Sternheim",
+        "role": "extracted",
+        "context": "From: (USANYS)\" \nTo:\n,  Bobbi Sternheim \n\"Mark S. Cohen\" \n\"Laura \nMen"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "Sternheim \n\"Mark S. Cohen\" \n\"Laura \nMenninger\" Jeff Pagliuca \nCc: \nSANYS)"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "S. Cohen\" \n\"Laura \nMenninger\" Jeff Pagliuca \nCc: \nSANYS) \nntractor]\" \nSub"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "rovide us with one. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York \nNe"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York \nNew York 10007 \nEFTA000"
+      },
+      {
+        "name": "York \nNew",
+        "role": "extracted",
+        "context": "One St. Andrew's Plaza \nNew York \nNew York 10007 \nEFTA00023478"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.024Z"
+}

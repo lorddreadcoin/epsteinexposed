@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028032",
+    "filename": "EFTA00028032.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028032.pdf",
+    "text": "\n\nFrom: \nMEI=e \nTo: ' \n\" , \" \n( )\" \n11 \nE \nSubject: \nDate: Tue, 26 Oct 2021 21:30:37 +0000 \nShe called our 800 line. She said that it took her many years and months to get the courage to call. She called the FBI \nhotline but nobody got back to her and she called . She has applied for the Victim Compensation fund. \nShe wanted to know if she could come to the trial. I told her that I will do whatever I can within the Judges rules to let her \nview the trial. \nShe met Epstein and Maxwell 25 years ago has had a  hard time reliving the events. \nShe has the gown that she was wearing and the presents that they gave her. No pictures. \nThis might be nothing. She was very nice and asked me for help. She lives in \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \nTel. \nEFTA00028032",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Victim Compensation",
+        "role": "extracted",
+        "context": "led . She has applied for the Victim Compensation fund. \nShe wanted to know if"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "ed me for help. She lives in \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "She lives in \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \nTel. \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.494Z"
+}

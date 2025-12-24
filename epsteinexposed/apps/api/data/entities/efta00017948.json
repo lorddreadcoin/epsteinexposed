@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00017948",
+    "filename": "EFTA00017948.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017948.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: DVR Update \nDate: Mon, 09 Mar 2020 21:59:42 +0000 \nSpecial Agent \nFBI New York Field Office \nViolent Crimes Task Force \nFrom: \nSent: Tuesda Se tember 17 2019 12:43 PM \nTo: \nCc: \nSubject: DVR Update \nJust got an update from OTD, Digital Forensic Analysis Unit (DFAU), \nDVR 1  has been up and running since the last update. DFAU received the password from the MCC Contractor \nearlier this morning. They are reviewing the data now. (NFI) \nDVR 2 (the cameras that covered the MCC SHU) is currently not running. The MCC Contractor has been \napproved to enter the OTD Lab and start working with DFAU tomorrow to get DVR 2 running. More to follow... \npedal gent \nFBI New York I  C-19 \nViolent Crimes Task Force \nEFTA00017948",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: DVR Update \nDate: Mon, 09 Mar 2020 21:59:42 +0"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": ", 09 Mar 2020 21:59:42 +0000 \nSpecial Agent \nFBI New York Field Office \nV"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nViolent Crimes Task Force \nF"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nViolent Crimes Task Force \nFrom: \nSent: Tues"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field Office \nViolent Crimes Task Force \nFrom: \nSent: Tuesda Se tembe"
+      },
+      {
+        "name": "Tuesda Se",
+        "role": "extracted",
+        "context": "imes Task Force \nFrom: \nSent: Tuesda Se tember 17 2019 12:43 PM \nTo:"
+      },
+      {
+        "name": "Update \nJust",
+        "role": "extracted",
+        "context": "43 PM \nTo: \nCc: \nSubject: DVR Update \nJust got an update from OTD, Digit"
+      },
+      {
+        "name": "Digital Forensic",
+        "role": "extracted",
+        "context": "Just got an update from OTD, Digital Forensic Analysis Unit (DFAU), \nDVR 1"
+      },
+      {
+        "name": "Analysis Unit",
+        "role": "extracted",
+        "context": "te from OTD, Digital Forensic Analysis Unit (DFAU), \nDVR 1  has been up a"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.916Z"
+}

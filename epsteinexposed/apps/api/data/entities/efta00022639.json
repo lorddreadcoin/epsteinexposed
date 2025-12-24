@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022639",
+    "filename": "EFTA00022639.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022639.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Brass materials \nDate: Wed, 14 Aug 2019 23:14:44 +0000 \nAttachments: Brass_Presentation Outline.docx; 2019.08.14_Brass_Presentation PPT.pptx \nThis is super high level. Do you want to add in your stuff then we can send to the chiefs? \nI'll fill this in more for my own purposes but they don't need that tonight. \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00022639",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Presentation Outline",
+        "role": "extracted",
+        "context": ":44 +0000 \nAttachments: Brass_Presentation Outline.docx; 2019.08.14_Brass_Presen"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hey don't need that tonight. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "at tonight. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000226"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.308Z"
+}

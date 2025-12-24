@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00021033",
+    "filename": "EFTA00021033.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021033.pdf",
+    "text": "\n\nFrom: \"a\" alMIE> \nTo: Brad Edwards <=lia>, Brittany Henderson ailla> \nCc: ' \" ' SANYS \" \nI, 11 \nSubject: Response re Rule 17(c) subpoena \nDate: Tue, 23 Nov 2021 00:27:48 +0000 \nAttachments: 2021.11.22 JSP Letter Response to Motions to Quash to W-3 Redacted.pdf _ _ _ _ _ \nBrad, \nBrittany, \nAttached is Maxwell's response to the motions to quash her Rule 17(c) subpoena. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00021033",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "From: \"a\" alMIE> \nTo: Brad Edwards <=lia>, Brittany Henderson ai"
+      },
+      {
+        "name": "Brittany Henderson",
+        "role": "extracted",
+        "context": "IE> \nTo: Brad Edwards <=lia>, Brittany Henderson ailla> \nCc: ' \" ' SANYS \" \nI,"
+      },
+      {
+        "name": "Letter Response",
+        "role": "extracted",
+        "context": "Attachments: 2021.11.22 JSP Letter Response to Motions to Quash to W-3 Re"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ule 17(c) subpoena. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "a. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.876Z"
+}

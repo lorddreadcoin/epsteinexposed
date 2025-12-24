@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00013880",
+    "filename": "EFTA00013880.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013880.pdf",
+    "text": "\n\nFrom: \nTo: Jack \nGoldberger < \nCc: \nBcc: \nSubject: Notice of Non-Compliance \nDate: Fri, 27 Jun 2008 21:43:23 +0000 \nImportance: Normal \nAttachments: 080627 Goldberger Black_notificationittpdf \nDear Messrs. Goldberger and Black: \nPlease see the attached Notification Letter. \n«080627 Goldberger Black notification Itr.pdf>> \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nIN\" \nEFTA00013880",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jack \nGoldberger",
+        "role": "extracted",
+        "context": "From: \nTo: Jack \nGoldberger < \nCc: \nBcc: \nSubject: Notice"
+      },
+      {
+        "name": "Compliance \nDate",
+        "role": "extracted",
+        "context": "Bcc: \nSubject: Notice of Non-Compliance \nDate: Fri, 27 Jun 2008 21:43:23 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 21:43:23 +0000 \nImportance: Normal \nAttachments: 080627 Goldberger Black_noti"
+      },
+      {
+        "name": "Goldberger Black",
+        "role": "extracted",
+        "context": ": Normal \nAttachments: 080627 Goldberger Black_notificationittpdf \nDear Mess"
+      },
+      {
+        "name": "Dear Messrs",
+        "role": "extracted",
+        "context": "ger Black_notificationittpdf \nDear Messrs. Goldberger and Black: \nPleas"
+      },
+      {
+        "name": "Notification Letter",
+        "role": "extracted",
+        "context": "ack: \nPlease see the attached Notification Letter. \n«080627 Goldberger Black no"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \nIN\" \nEFTA00013880"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.635Z"
+}

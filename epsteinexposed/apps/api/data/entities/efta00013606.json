@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013606",
+    "filename": "EFTA00013606.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013606.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein \nDate: Tue, 03 Jul 2007 10:26:25 +0000 \nImportance: High \nPriority: Urgent \nI have received a couple of calls and an e-mail from Lilly Ann Sanchez asking for an extension of time to \nrespond to several subpoena. She also states that they intend to provide us with a \"supplement\" to their \npresentation and what they believe will be their resolution with the state. I intend to send a response stating that \nthe subpoenas for financial documents can be put off, but we want to get the computer equipment that was \nremoved from Epstein's home prior to the state search warrant as soon as possible. I also intend to invite her to \ncall me to discuss a resolution of the federal investigation that could include concurrent time. \nIf anyone has communicated anything to any of Epstein's attorneys that is contrary to this, please contact my \nassistant,as soon as possible. I have askede send out the e-mail while I am in trial. You \nwill all receive a copy of the e-mail when it is sent. \nThank you. \nEFTA00013606",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein \nDate: Tue, 03 Jul 2007 10:26:25 +0"
+      },
+      {
+        "name": "High \nPriority",
+        "role": "extracted",
+        "context": "7 10:26:25 +0000 \nImportance: High \nPriority: Urgent \nI have received a co"
+      },
+      {
+        "name": "Lilly Ann",
+        "role": "extracted",
+        "context": "e of calls and an e-mail from Lilly Ann Sanchez asking for an extensi"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.964Z"
+}

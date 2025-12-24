@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00024887",
+    "filename": "EFTA00024887.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024887.pdf",
+    "text": "\n\nFrom: EIMIle \nTo: \nr>, BOBBI C STERNHEIM \nCc: Christian EvercSrlc S. Cohen\" \nBee: \"\n:3' \nSubject: Re: Ghislaine Maxwell 02879-509 \nDate: Thu, 07 Jan 2021 17:05:43 +0000 \nEmbedded: Re:_Ghislaine_Maxwell_02879-509.msg \nSender: \nSubject: Re: Ghislaine Maxwell 02879-509 \nMessage-Id: <5FF73F5D020000920008C205@SMTP1.BOP.GOV> \nRecipient: \nEFTA00024887",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ian EvercSrlc S. Cohen\" \nBee: \"\n:3' \nSubject: Re: Ghislaine Maxwell 02879-509 \nDate: Thu, 07 Jan 2021 17:05:43 +0000"
+      },
+      {
+        "name": "Ile \nTo",
+        "role": "extracted",
+        "context": "From: EIMIle \nTo: \nr>, BOBBI C STERNHEIM \nCc:"
+      },
+      {
+        "name": "Christian Everc",
+        "role": "extracted",
+        "context": ": \nr>, BOBBI C STERNHEIM \nCc: Christian EvercSrlc S. Cohen\" \nBee: \"\n:3' \nSu"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.035Z"
+}

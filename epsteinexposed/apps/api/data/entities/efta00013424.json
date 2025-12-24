@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00013424",
+    "filename": "EFTA00013424.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013424.pdf",
+    "text": "\n\nFrom: \" (USANYS)\" \nTo: a\"\nSANYS)\" aNIMIE>, \nCc: I\nnca, \nSubjectMl \nDate: Sat, 09 Oct 2021 19:14:55 +0000 \nAttachments: 2020.06.20_20.23_RE_Epstein_search_warrant_documents_(151).pdf; \n2020.08.04_18.03_RE_EXTERNAL_EMAIL_-_RE_Epstein_Evidence_status_(94).pdf; \n2020.10.09_19.05_Epstein_HDs.pdf; 2020.10.09_21.03_Bronx_evidence_-\npulling_evidence_.pdf \nAs and I previewed, here are a few email exchanges with Thanks \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00013424",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ml \nDate",
+        "role": "extracted",
+        "context": "aNIMIE>, \nCc: I\nnca, \nSubjectMl \nDate: Sat, 09 Oct 2021 19:14:55 +0"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "re a few email exchanges with Thanks \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "anks \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.562Z"
+}

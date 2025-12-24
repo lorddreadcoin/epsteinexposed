@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00019580",
+    "filename": "EFTA00019580.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019580.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: TVPA and Forfeiture.docx \nDate: Thu, 18 Apr 2019 14:06:26 +0000 \nImportance: Normal \nAttachments: TVPA and Forfeiture.docx \nFYI — this is on the share and is a work in progress in the early stages. \nOnce I start getting 302s I can start filling in the victim details. \nEFTA00019580",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: TVPA and Forfeitur"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 14:06:26 +0000 \nImportance: Normal \nAttachments: TVPA and Forfeiture.docx \nFY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.202Z"
+}

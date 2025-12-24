@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00028831",
+    "filename": "EFTA00028831.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028831.pdf",
+    "text": "\n\nFrom: \"Weinstein, Marc A.\" \nTo:'\nIt \nSubject: US v. Epstein (civil forfeiture matter) \nDate: Thu, 17 Oct 2019 15:07:19 +0000 \nImportance: Normal \nAttachments: unnamed \nInline-Images: ATT76249_1.jpg \nIIIIR OnlineMeetingCenter \nDial-In Information (for meetings with no presentations or video) \nDial-In Numbe \nConference ID: \nOne touch dial-in from mobile  phone (via \ncellular service) \nAdditional Dial-In Numbers \nFull list of dial-in \nnumbers \nMeetings with a presentation or video \nConnect from computer or mobile device  (via network/internet connection) \nHelp \nTry Skype Web App if \nyou are having  trouble  joining \nJoining from a  computer using the \"Connect from computer or mobile device\" link provides additional \ncapabilities, however you can simply call in from your telephone using the number provided above if your \nmeeting will not include video or a presentation. Click the \"Help\" link for additional information if you are a \nguest joining a Skype for Business meeting from your computer or mobile device for the first time. \nFor meeting organizers: Reset your dial-in \nPIN? \nEFTA00028831",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "It \nSubject",
+        "role": "extracted",
+        "context": "m: \"Weinstein, Marc A.\" \nTo:'\nIt \nSubject: US v. Epstein (civil forfeit"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 15:07:19 +0000 \nImportance: Normal \nAttachments: unnamed \nInline-Images: ATT7"
+      },
+      {
+        "name": "Center \nDial",
+        "role": "extracted",
+        "context": "249_1.jpg \nIIIIR OnlineMeetingCenter \nDial-In Information (for meetings"
+      },
+      {
+        "name": "In Information",
+        "role": "extracted",
+        "context": "IIR OnlineMeetingCenter \nDial-In Information (for meetings with no present"
+      },
+      {
+        "name": "In Numbe",
+        "role": "extracted",
+        "context": "presentations or video) \nDial-In Numbe \nConference ID: \nOne touch di"
+      },
+      {
+        "name": "Additional Dial",
+        "role": "extracted",
+        "context": "hone (via \ncellular service) \nAdditional Dial-In Numbers \nFull list of dial"
+      },
+      {
+        "name": "In Numbers",
+        "role": "extracted",
+        "context": "lar service) \nAdditional Dial-In Numbers \nFull list of dial-in \nnumber"
+      },
+      {
+        "name": "Help \nTry",
+        "role": "extracted",
+        "context": "network/internet connection) \nHelp \nTry Skype Web App if \nyou are hav"
+      },
+      {
+        "name": "Skype Web",
+        "role": "extracted",
+        "context": "ternet connection) \nHelp \nTry Skype Web App if \nyou are having  troub"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.254Z"
+}

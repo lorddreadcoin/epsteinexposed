@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019464",
+    "filename": "EFTA00019464.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019464.pdf",
+    "text": "\n\nFrom: \"MIE=a \nTo:'\nSubject: EOUSA-2020-003382, ABC \nNews \nDate: The, 07 Jul 2020 20:17:06 +0000 \nAttachments: EXEMPTION \nMEMO.docx \nGood \nafternoon, \nHere is a new FOIA request regarding United States v. Jeffrey Epstein. I am attaching a standard \nexemption document for you. \nPlease try to send it back on or about July 14th, 2020. \nThe requester entered \nhis request directly into the portal rather than a PDF.: \n\"Dear records officer, Pursuant to FOIA, I request a copy of the 5 \nyears of banking records of \nJeffrey Epstein from \"Insitution-1\" referenced by SDNY in a Jul 12, 2019 letter to Richard \nBerman (see Page 11 of supporting document). \nPlease acknowledge receipt of this request. \nThank you. Exact Source: Case \n1:19-er-00490-RA4B Document 11 Filed 07/12/19\" \nThank \nyou! \nEFTA00019464",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "is a new FOIA request regarding United States v. Jeffrey Epstein. I am attaching a standard \nexemption document fo"
+      },
+      {
+        "name": "News \nDate",
+        "role": "extracted",
+        "context": "ject: EOUSA-2020-003382, ABC \nNews \nDate: The, 07 Jul 2020 20:17:06 +0"
+      },
+      {
+        "name": "Richard \nBerman",
+        "role": "extracted",
+        "context": "Y in a Jul 12, 2019 letter to Richard \nBerman (see Page 11 of supporting do"
+      },
+      {
+        "name": "Exact Source",
+        "role": "extracted",
+        "context": "of this request. \nThank you. Exact Source: Case \n1:19-er-00490-RA4B Doc"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.951Z"
+}

@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00015992",
+    "filename": "EFTA00015992.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015992.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Jeffrey Epstein Victim; Ms-, 17 years old \nDate: Fri, 22 Nov 2019 18:24:08 +0000 \nPassing along the below per our usual policy. \nthanks, \nFrom: \nSent: Friday, November 22, 2019 13:17 \nTo: \n> \nSubject: FW: Jeffrey Epstein Victim; Ms 17 years old \nCan you send to FBI. \nFrom: \nSent: Thursday, November 21, 2019 8:12 PM \nTo: \nSubject: Jeffrey Epstein Victim; Ms 17 years old \nI am a very close friend of Ms. and her guardian, Ms. \nof Calderitas, Mexico. Ms. was abused by \nJeffrey Epstein on numerous occasions at his townhome in New \nYork and his caribbean island home in the Virgin Islands. They \nboth have expressed their interest in asking me to register her claim \nas a victim in any case involving Mr. Epstein's estate, which she \nbelieves she may have a claim. \nShe does not have legal representation yet, but is in negotiations to \nretain and attorney soon. \nRegards, \nEFTA00015992\n\nEFTA00015993",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Jeffrey Epstein Victim; Ms-, 17 years old \nDate: Fri, 22 Nov 2019"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "victim in any case involving Mr. Epstein's estate, which she \nbeli"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "occasions at his townhome in New \nYork and his caribbean island home"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "caribbean island home in the Virgin Islands. They \nboth have expressed th"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-22",
+        "event": "November 22, 2019"
+      },
+      {
+        "date": "2019-11-21",
+        "event": "November 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.916Z"
+}

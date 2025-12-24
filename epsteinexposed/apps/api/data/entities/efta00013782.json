@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013782",
+    "filename": "EFTA00013782.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013782.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: Epstein \nDate: Thu, 22 May 2008 21:14:36 +0000 \nImportance: Normal \nThank-you for your call Tuesday. It was great to hear from you. Any forward movement on this case at this point is good \nnews. Should there be any other developments or you need anything from us, please do not hestitate to give me a  call. You \nhave my office number and my cell is Thanks again for the update. \nEFTA00013782",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: Epstein \nDate: Thu, 22 May 2008 21:14:36 +0"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 21:14:36 +0000 \nImportance: Normal \nThank-you for your call Tuesday. It"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-05-22",
+        "event": "22 May 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.392Z"
+}

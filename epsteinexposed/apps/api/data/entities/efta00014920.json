@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014920",
+    "filename": "EFTA00014920.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014920.pdf",
+    "text": "\n\nFrom: \" \nTo:' \nCc:\" \nSubject: \nCorrected SW \nDate: Thu, 02 Jul 2020 11:45:21 +0000 \nAttachments: SDNY \nPremises_Search_Warrant_Bundleisecond_revised).pdf \nAttached is the corrected SW binder, which FBI informs me they are comfortable with. The only difference from the last \nbinder I sent you is to change the date and time that the cell site simulator revealed that the phone is located at the \nsubject premises from last night at 10:15pm to this morning at 7:36am. This should be ready to swear out as soon as the \nJudge is available. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00014920",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Judge is available. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00014920"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.842Z"
+}

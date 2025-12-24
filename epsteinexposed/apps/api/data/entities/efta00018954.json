@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018954",
+    "filename": "EFTA00018954.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018954.pdf",
+    "text": "\n\nFrom: ' (USANYS) [Contractor]\" \nTo: ' (USANYS)\" <=l \nSubject: RE: Subpoenas to Serve \nDate: Mon, 19 Aug 2019 14:01:37 +0000 \nDoing so right now. Just going to change the dates and then proceed to send them. \nFrom: (USANYS) <> \nSent: Saturday, August 17, 2019 3:55 PM \nTo: (USANYS) (Contractor] \nSubject: Subpoenas to Serve \nCan you send all of these out? All Epstein related. To each of them can you attach the O8211 form at the end, which I've \nalso attached. Thanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00018954",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Serve \nDate",
+        "role": "extracted",
+        "context": "=l \nSubject: RE: Subpoenas to Serve \nDate: Mon, 19 Aug 2019 14:01:37 +0"
+      },
+      {
+        "name": "Serve \nCan",
+        "role": "extracted",
+        "context": "actor] \nSubject: Subpoenas to Serve \nCan you send all of these out? Al"
+      },
+      {
+        "name": "All Epstein",
+        "role": "extracted",
+        "context": "an you send all of these out? All Epstein related. To each of them can"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "I've \nalso attached. Thanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ed. Thanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-17",
+        "event": "August 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.003Z"
+}

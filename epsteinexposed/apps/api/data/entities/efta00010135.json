@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00010135",
+    "filename": "EFTA00010135.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010135.pdf",
+    "text": "\n\nFrom: \n\"Shappert, Gretchen \n(USAVI)\"\nTo: \"Berman, Geoffrey \n(USANYS)\" \nCc: \"Shappert, \nGretchen (USAVI)\"\nSubject: From the USVI--Jeffrey Epstein matter \nDate: Mon, 08 Jun 2020 11:34:10 +0000 \nInline-Images: image00 1 .jpg \nGood \nmorning, Geoff and greetings from St. Thomas: \nWe are having some coordination issues here, regarding the SDNY and USVI investigations of the Jeffrey \nEpstein matter. I realize that you have a huge number of pressing issues to address and was hoping that you \ncould direct me to one of your supervisors, with whom I could discuss this matter. \nThanks so much, \nGretchen \nGretchen C.F. Shappert \nU.S. Attorney for the Virgin Islands \nOffice of the U.S. Attorney \nRon De Lugo Federal Building \nCharlotte Amalie, St. Thomas \n4 \nfront desk) \nhttps://www.justice gov/usao-vi \nEFTA00010135",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ppert, \nGretchen (USAVI)\"\nSubject: From the USVI--Jeffrey Epstein matter \nDate: Mon, 08 Jun 2020 11:34:10 +0000 \nIn"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "nd USVI investigations of the Jeffrey \nEpstein matter. I realize that you ha"
+      },
+      {
+        "name": "Gretchen \nGretchen",
+        "role": "extracted",
+        "context": "his matter. \nThanks so much, \nGretchen \nGretchen C.F. Shappert \nU.S. Attorney"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "appert \nU.S. Attorney for the Virgin Islands \nOffice of the U.S. Attorney"
+      },
+      {
+        "name": "Attorney \nRon",
+        "role": "extracted",
+        "context": "n Islands \nOffice of the U.S. Attorney \nRon De Lugo Federal Building \nCha"
+      },
+      {
+        "name": "De Lugo",
+        "role": "extracted",
+        "context": "ice of the U.S. Attorney \nRon De Lugo Federal Building \nCharlotte A"
+      },
+      {
+        "name": "Federal Building",
+        "role": "extracted",
+        "context": "he U.S. Attorney \nRon De Lugo Federal Building \nCharlotte Amalie, St. Thomas"
+      },
+      {
+        "name": "Charlotte Amalie",
+        "role": "extracted",
+        "context": "Ron De Lugo Federal Building \nCharlotte Amalie, St. Thomas \n4 \nfront desk)"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.355Z"
+}

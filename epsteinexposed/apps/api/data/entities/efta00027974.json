@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00027974",
+    "filename": "EFTA00027974.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027974.pdf",
+    "text": "\n\nFD\n-597 \n(Rev. \n4-13-20[5) \nPage \nof\n \nI \nUNITED \nSTATES \nDEPARTMENT \nOF \nJUSTICE \nFEDERAL \nBUREAU \nOF \nINVESTIGATION \nReceipt \nfor \nProperty \nCase \nID: \n90A \n- \nf•PI \n-315122} \non \nNato \n \nel \ni51 \nlel \n(Name) \n_MCC\n(Street \nAddress) \n \n150 \nPart \nRes, \na\n(City) \n \nw.ent \nP44 \nitem \n(s) \nlisted \nbelow \nwere: \n07. \nCollected/Seized \nUjI\n \nReceived \nFmm \no \nReturned \n1 \nL \nReleased \nTo \nDescription \nof \nItem \n(s): \n \nN  \nIC \ne•\n \nVkcio \nIN \nPro \nDV \ng. \n/ \n- \nNR\n-2000 \n- \n;tit\n-1O-1 \nNo. \n`4314\n4\n4 \n9 \nO \nk \nNice\n-V \niS \nto \nr, \nbY \nR. \n1 \nbtik. \nPinerol \n— \nM\no\ndel \nPrt,\nr\nn;,,,,\nEn\n \nSboo \n- \nNo \n'• \n2.3 \n2- \n4WD\n'   1 \nbe\n-11 \nPo \nwere.c.10\n \ne_ \nS\n \n4 \n2. \n0 \n— \nSot- \nvi \nc.c. \nTcAc\nt\n \n513M \nQ \n; \n11.) \n}-cA-3\n,\n-by \nEsc\ni \nal-e-\nho,,c1 \ni‘c\nti\n \nFbreKrc \ntm6.\n0c\n \nTir \nry \n11-c. \nrn\n \njut< \no \nhide \nr' \ntte \nVisit,/ \nPro \nbACR, \ndived \nFrom: \nPrinted \nName/Fide \nEFTA00027974",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Property \nCase",
+        "role": "extracted",
+        "context": "INVESTIGATION \nReceipt \nfor \nProperty \nCase \nID: \n90A \n- \nf•PI \n-315122}"
+      },
+      {
+        "name": "Street \nAddress",
+        "role": "extracted",
+        "context": "el \ni51 \nlel \n(Name) \n_MCC\n(Street \nAddress) \n \n150 \nPart \nRes, \na\n(City)"
+      },
+      {
+        "name": "Part \nRes",
+        "role": "extracted",
+        "context": "MCC\n(Street \nAddress) \n \n150 \nPart \nRes, \na\n(City) \n \nw.ent \nP44 \nite"
+      },
+      {
+        "name": "Seized \nUj",
+        "role": "extracted",
+        "context": "below \nwere: \n07. \nCollected/Seized \nUjI\n \nReceived \nFmm \no \nReturned"
+      },
+      {
+        "name": "Received \nFmm",
+        "role": "extracted",
+        "context": "07. \nCollected/Seized \nUjI\n \nReceived \nFmm \no \nReturned \n1 \nL \nReleased"
+      },
+      {
+        "name": "Released \nTo",
+        "role": "extracted",
+        "context": "ived \nFmm \no \nReturned \n1 \nL \nReleased \nTo \nDescription \nof \nItem \n(s):"
+      },
+      {
+        "name": "En\n \nSboo",
+        "role": "extracted",
+        "context": "ol \n— \nM\no\ndel \nPrt,\nr\nn;,,,,\nEn\n \nSboo \n- \nNo \n'• \n2.3 \n2- \n4WD\n'"
+      },
+      {
+        "name": "Printed \nName",
+        "role": "extracted",
+        "context": ",/ \nPro \nbACR, \ndived \nFrom: \nPrinted \nName/Fide \nEFTA00027974"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.375Z"
+}

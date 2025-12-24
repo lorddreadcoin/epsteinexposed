@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018031",
+    "filename": "EFTA00018031.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018031.pdf",
+    "text": "\n\nFrom: \n\" aNIMIIW \nTo: Jack Scarola <=I=> \nCc: 'INI6><Waiirasli...>\nSubject: Local Criminal Rule 23.1 \nDate: Mon, 02 Aug 2021 14:59:46 +0000 \nAttachments: 2021.07.30_Order Regarding_Local_Rule_23.1.pdf \nHi Jack, \nWe wanted to let you know about a recent order from Judge Nathan regarding Local Criminal Rule 23.1, which applies not \nonly to counsel of record in a criminal case, but also to attorneys associated with a case, such as attorneys for witnesses. \nThe order is attached, and the full text version of the local SDNY rules can be found on the court's website. If you have \nany questions about the rule or the order, please let us know. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York. NY 10007 \nEFTA00018031",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jack Scarola",
+        "role": "extracted",
+        "context": "From: \n\" aNIMIIW \nTo: Jack Scarola <=I=> \nCc: 'INI6><Waiirasli.."
+      },
+      {
+        "name": "Local Criminal",
+        "role": "extracted",
+        "context": "'INI6><Waiirasli...>\nSubject: Local Criminal Rule 23.1 \nDate: Mon, 02 Aug"
+      },
+      {
+        "name": "Order Regarding",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2021.07.30_Order Regarding_Local_Rule_23.1.pdf \nHi Jack,"
+      },
+      {
+        "name": "Hi Jack",
+        "role": "extracted",
+        "context": "egarding_Local_Rule_23.1.pdf \nHi Jack, \nWe wanted to let you know a"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "now about a recent order from Judge Nathan regarding Local Criminal Rule"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "please let us know. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York. NY 10007 \nEFTA00018031"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.062Z"
+}

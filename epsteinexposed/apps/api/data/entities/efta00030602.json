@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030602",
+    "filename": "EFTA00030602.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030602.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBce: \nSubject: RE: \nCopies \nDate: Mon, 19 Oct 2020 19:35:49 +0000 \nEmbedded: \nRE:_Copies.msg \nSender: \nSubject: \nRE: Copies \nMessage-Id: \n<CY1P110MB05680A9747309EC082DB24668F1E0@CY1P110MB0568.NAMP110.PROD.OUTLOOK.COM \nTo: \nCc \nEFTA00030602",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Copies \nDate",
+        "role": "extracted",
+        "context": "To: \nCc: \nBce: \nSubject: RE: \nCopies \nDate: Mon, 19 Oct 2020 19:35:49 +0"
+      },
+      {
+        "name": "Copies \nMessage",
+        "role": "extracted",
+        "context": "s.msg \nSender: \nSubject: \nRE: Copies \nMessage-Id: \n<CY1P110MB05680A9747309E"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.251Z"
+}

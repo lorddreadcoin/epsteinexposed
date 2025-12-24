@@ -1,0 +1,93 @@
+{
+  "document": {
+    "id": "efta00023503",
+    "filename": "EFTA00023503.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023503.pdf",
+    "text": "\n\nFrom: '  \n„tl \nTo: '\nSS)\" <I \nCc: ' \" < \n>, \n(USANYS)\" \nSubject: Fwd: US v. Maxwell, 20 Cr. 330 (AJN) - ex pane sealed letter \nDate: Thu, 17 Sep 2020 15:08:28 +0000 \nAttachments: 20cr330_SEALED_Memo_Endorsement_9.17.20.pdf; ATT00001.htm \n)11\nAttached is the decision from Judge Nathan. \nSent from my iPhone \nBegin forwarded message: \nFrom: Nathan NYSD \nChambers < \nDate: Se u tember 17, 2020 at 10:59:14AM EDT \nTo: \" \nCc: \nSubject: RE: US v. Maxwell, 20 Cr. 330 (AJN) - ex parte sealed \nletter \nGood \nmorning, \n(USANYS)\" \nPlease find attached a memo endorsement signed by Judge Nathan, which will be filed under \nseal. \nRespectfully, \nJuan Ruiz \nToro \nLaw Clerk to the Hon. Alison J. Nathan \nFrom: \nSent: Wednesday, September 16, 2020 5:49 PM \nTo: Nathan NYSD Chambers \nCc: \nSubject: RE: US v. Maxwell, 20 Cr. 330 (AIN) - ex parte sealed letter \nGood afternoon, \nPursuant to Judge Nathan's September 15, 2020 memo endorsement order, attached please find a supplemental letter, \nwhich the Government respectfully requests be filed ex porte and under seal. \n(USANYS) \n> \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00023503\n\nFrom: Nathan NYSD Chambers \nSent: Tuesday, September 15, 2020 2:47 PM \nTo: \nCc: \n>; \n(USANYS) \nSubject: RE: US v. Maxwell, 20 Cr. 330 (AJN) - ex parte sealed letter \nGood afternoon, \nPlease find attached a memo endorsement signed by Judge Nathan, which will temporarily remain under seal. Please \nconfirm receipt. \nRespectfully, \nJuan Ruiz Toro \nLaw Clerk to the Hon. Alison J. Nathan \nFrom: \nSent: Monday, September 14, 2020 8:00 PM \nTo: Nathan NYSD Chambers \n< \nCc: \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - ex parte sealed letter \nGood evening, \nAttached for Judge Nathan's consideration please find a letter pursuant to Federal Rule of Criminal Procedure 16(d)(1), \nwhich the Government respectfully requests be filed ex parte and under seal. \n(USANYS) \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00023504",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "Attached is the decision from Judge Nathan. \nSent from my iPhone \nBegin"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "Judge Nathan. \nSent from my iPhone \nBegin forwarded message: \nFrom: Nat"
+      },
+      {
+        "name": "Juan Ruiz",
+        "role": "extracted",
+        "context": "under \nseal. \nRespectfully, \nJuan Ruiz \nToro \nLaw Clerk to the Hon."
+      },
+      {
+        "name": "Toro \nLaw",
+        "role": "extracted",
+        "context": "l. \nRespectfully, \nJuan Ruiz \nToro \nLaw Clerk to the Hon. Alison J. N"
+      },
+      {
+        "name": "Nathan \nFrom",
+        "role": "extracted",
+        "context": "w Clerk to the Hon. Alison J. Nathan \nFrom: \nSent: Wednesday, September"
+      },
+      {
+        "name": "Chambers \nCc",
+        "role": "extracted",
+        "context": "2020 5:49 PM \nTo: Nathan NYSD Chambers \nCc: \nSubject: RE: US v. Maxwell,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "> \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00023503\n\nFr"
+      },
+      {
+        "name": "Chambers \nSent",
+        "role": "extracted",
+        "context": "TA00023503\n\nFrom: Nathan NYSD Chambers \nSent: Tuesday, September 15, 2020"
+      },
+      {
+        "name": "Federal Rule",
+        "role": "extracted",
+        "context": "ase find a letter pursuant to Federal Rule of Criminal Procedure 16(d)(1"
+      },
+      {
+        "name": "Criminal Procedure",
+        "role": "extracted",
+        "context": "r pursuant to Federal Rule of Criminal Procedure 16(d)(1), \nwhich the Governme"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-16",
+        "event": "September 16, 2020"
+      },
+      {
+        "date": "2020-09-15",
+        "event": "September 15, 2020"
+      },
+      {
+        "date": "2020-09-14",
+        "event": "September 14, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.073Z"
+}

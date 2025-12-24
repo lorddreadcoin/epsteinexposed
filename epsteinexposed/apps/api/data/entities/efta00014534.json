@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00014534",
+    "filename": "EFTA00014534.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014534.pdf",
+    "text": "\n\nFrom: \n0 \nTo: \"Miller, Michael\" Martin Weinberg \n* \n\"-\nReid\" , Marc Fernich \nCc: \nH \nIc' \" \nSubject: Discovery \nproduction \nDate: Tue, 30 Jul 2019 17:08:02 +0000 \nAll, \nOur first discovery production will include approximately 12 GB of data. As a result, we need to request that you please \nprovide us with a drive (or drives if you would like multiple copies) on which to load the discovery for you. You can either \nbring the drive(s) to tomorrow's conference, or you can send them to our office at the below address to my attention. \nOnce we receive a drive (or drives) from you, we will get it loaded and sent back out to you as quickly as possible. \nAdditionally, if you would like Mr. Epstein to receive his own electronic copy of the discovery to review at the MCC, please \nprovide us with a hard drive (not a thumb drive—the MCC will only accept external hard drives) for us to load and send to \nthe MCC for his review. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00014534",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ditionally, if you would like Mr. Epstein to receive his own electr"
+      },
+      {
+        "name": "Martin Weinberg",
+        "role": "extracted",
+        "context": "om: \n0 \nTo: \"Miller, Michael\" Martin Weinberg \n* \n\"-\nReid\" , Marc Fernich"
+      },
+      {
+        "name": "Marc Fernich",
+        "role": "extracted",
+        "context": "artin Weinberg \n* \n\"-\nReid\" , Marc Fernich \nCc: \nH \nIc' \" \nSubject: Disc"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e MCC for his review. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "iew. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00014534"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.040Z"
+}

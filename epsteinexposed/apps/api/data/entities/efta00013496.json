@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "efta00013496",
+    "filename": "EFTA00013496.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013496.pdf",
+    "text": "\n\nFrom: \" . \\(USAFLS\\)\" \nTo: ' MUSAFLS\\)\" \nSubject: RE: Judge Marra -- Epstein -- Urgent \nDate: Tue, 11 Sep 2007 13:54:07 +0000 \nImportance: Normal \nI  left a message. \nAssistant U.S. Attorne \nPhone \nFax 561 820-8777 \nFrom: \n(USAFLS) \nSent: Tuesday, September 11, 2007 9:50 AM \nTo:  \n(USAFLS) \nSubject: RE: Judge Marra -- Epstein -- Urgent \nYes. \nFrom: (USAFLS) \nSent: Tuesda ,  September 11, 2007 9:49 AM \nTo: \n(USAFLS) \nSubject: Judge Marra -- Epstein —  Urgent \nImportance: High \nI  li - Sony, while we were talking Judge Marra's CRD called to see if we can do the hearing on Epstein's \nmotion to quash tomorrow morning. Do you want me to put it off? \nAssistant U.S. \nAttorne \nPhone \nFax 561 820-8777 \nEFTA00013496",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Marra",
+        "role": "extracted",
+        "context": "o: ' MUSAFLS\\)\" \nSubject: RE: Judge Marra -- Epstein -- Urgent \nDate: T"
+      },
+      {
+        "name": "Urgent \nDate",
+        "role": "extracted",
+        "context": "RE: Judge Marra -- Epstein -- Urgent \nDate: Tue, 11 Sep 2007 13:54:07 +0"
+      },
+      {
+        "name": "Attorne \nPhone",
+        "role": "extracted",
+        "context": "ft a message. \nAssistant U.S. Attorne \nPhone \nFax 561 820-8777 \nFrom: \n(US"
+      },
+      {
+        "name": "Urgent \nYes",
+        "role": "extracted",
+        "context": "RE: Judge Marra -- Epstein -- Urgent \nYes. \nFrom: (USAFLS) \nSent: Tuesd"
+      },
+      {
+        "name": "Urgent \nImportance",
+        "role": "extracted",
+        "context": "ct: Judge Marra -- Epstein —  Urgent \nImportance: High \nI  li - Sony, while we"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-09-11",
+        "event": "September 11, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.712Z"
+}

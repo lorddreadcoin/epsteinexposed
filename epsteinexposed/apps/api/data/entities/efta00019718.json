@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00019718",
+    "filename": "EFTA00019718.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019718.pdf",
+    "text": "\n\nFrom: 'en \nausa.doj.gov> \nTo: ' \n@nysd.uscourts.gov\" <nysd.uscourts.gov> \nCc: Xavier Donaldson n,aol.com>, IMM\n(USANYS)\" \nSubject: 13 Cr. 416 (PGG) - United States v. (Proposed Redactions to Sentencing \nTranscript) (Request to be Filed Under Seal) \nDate: Sat, 19 Oct 2019 00:14:34 +0000 \nAttachments: Exhibit_A_-\n_Proposed_Redactions_to_190912_Sentencing_Transcriptiwith_red_boxes).pdf; \nLetter re_Proposed_Redactions_to_Sentencing_Transcript_vl.pdf \nAttached is a letter and an exhibit regarding proposed redactions to the sentencing transcript in the above-referenced \ncase. Because the letter and proposed redactions discuss an ongoing criminal investigation, the Government respectfully \nrequests that the letter and exhibit be filed under seal. Thanks so much — \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne Saint Andrews Plaza \nNew York, NY 11106 \nEFTA00019718",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Xavier Donaldson",
+        "role": "extracted",
+        "context": "gov\" <nysd.uscourts.gov> \nCc: Xavier Donaldson n,aol.com>, IMM\n(USANYS)\" \nSu"
+      },
+      {
+        "name": "Proposed Redactions",
+        "role": "extracted",
+        "context": "416 (PGG) - United States v. (Proposed Redactions to Sentencing \nTranscript) (R"
+      },
+      {
+        "name": "Sentencing \nTranscript",
+        "role": "extracted",
+        "context": "es v. (Proposed Redactions to Sentencing \nTranscript) (Request to be Filed Under S"
+      },
+      {
+        "name": "Filed Under",
+        "role": "extracted",
+        "context": "g \nTranscript) (Request to be Filed Under Seal) \nDate: Sat, 19 Oct 2019"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "under seal. Thanks so much — \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s so much — \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrews Plaza \nNew York, NY 1"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "strict of New York \nOne Saint Andrews Plaza \nNew York, NY 11106 \nEFTA0001"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.454Z"
+}

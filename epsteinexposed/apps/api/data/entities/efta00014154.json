@@ -1,0 +1,99 @@
+{
+  "document": {
+    "id": "efta00014154",
+    "filename": "EFTA00014154.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014154.pdf",
+    "text": "\n\nFrom: Spencer Kuvin  \nTo: '   (USAFLS)\" <1 \nSubject: RE: Work Release Notice -- Kuvin Clients.pdf \nDate: Mon, 08 Dec 2008 16:05:29 +0000 \nImportance: Normal \nThank \nyou. Got it. \nS  encer T. Kuvin \nFrom: \n(USAFLS) \n(mailto \nSent: Monday, December 08, 2008 11:01 AM \nTo: Spencer Kuvin \nSubject: Work Release Notice -- Kuvin Dients.pdf \nDear Mr. Kuvin: As we discussed, I  have attached a notification of Mr. Epstein's release. The notification \naddresses both Ms. and Ms. in case the earlier e-mail to Mr. Leopold did not go through. \nThank you. \n«Work Release Notice —  Kuvin Clients.pdf» \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014154",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Kuvin",
+        "role": "extracted",
+        "context": "ice -- Kuvin Dients.pdf \nDear Mr. Kuvin: As we discussed, I  have"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ve attached a notification of Mr. Epstein's release. The notificati"
+      },
+      {
+        "name": "Leopold",
+        "role": "extracted",
+        "context": "in case the earlier e-mail to Mr. Leopold did not go through. \nThan"
+      },
+      {
+        "name": "Spencer Kuvin",
+        "role": "extracted",
+        "context": "From: Spencer Kuvin  \nTo: '   (USAFLS)\" <1 \nSubje"
+      },
+      {
+        "name": "Work Release",
+        "role": "extracted",
+        "context": "(USAFLS)\" <1 \nSubject: RE: Work Release Notice -- Kuvin Clients.pdf"
+      },
+      {
+        "name": "Kuvin Clients",
+        "role": "extracted",
+        "context": "t: RE: Work Release Notice -- Kuvin Clients.pdf \nDate: Mon, 08 Dec 2008 1"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 16:05:29 +0000 \nImportance: Normal \nThank \nyou. Got it. \nS  encer T. Ku"
+      },
+      {
+        "name": "Kuvin \nFrom",
+        "role": "extracted",
+        "context": "nk \nyou. Got it. \nS  encer T. Kuvin \nFrom: \n(USAFLS) \n(mailto \nSent: Mo"
+      },
+      {
+        "name": "Kuvin Dients",
+        "role": "extracted",
+        "context": "bject: Work Release Notice -- Kuvin Dients.pdf \nDear Mr. Kuvin: As we di"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": "e Notice -- Kuvin Dients.pdf \nDear Mr. Kuvin: As we discussed, I  h"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "Clients.pdf» \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014154"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-12-08",
+        "event": "December 08, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.278Z"
+}

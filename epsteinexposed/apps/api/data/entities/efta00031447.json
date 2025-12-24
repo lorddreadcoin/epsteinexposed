@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031447",
+    "filename": "EFTA00031447.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031447.pdf",
+    "text": "\n\nSGT \nMICHAE . \nTHOMAS \n2nd \nBattalion, \n15th \nField Artillery \nRegiment \nCerqficate of-\nAchieve \nit \nMP' \nTORWERITORIOVSACIfIEVEMENTOVWNG \nTIFE OATTALION \nG129VWERS \nTESTING \nER011 22 \n.1ANV/IR T. \n2003 TO 24 \n,ZANVAAR-Y. 2003. \nSGTTOONAY.V.ARD \nWORKAND \nCOWW \nITMENT TO \nEXCE LLE)4\n59ESETTJTEWAIITLE \nEOREIELD \nARTILLEKMENEVERTWIfERE, REAECTS \nGREAT \nMON' \nVTON \nW-1.11, T7fE \n2J~D WATIALlON \n1.5\"(\n \n<F \nAKITGLEWY \nAN9,:)) \n'ME `01-ITED \n9\n,4 \nMICHA J. LO EZ \nCSM, USA \nCommand Sergeant Major \nFROM 22 JAN 03 TO 24 \nJAN 03 \nSTA \nX914% \n - \n- \nDREW A. TURINSKI \nLTC, FA \nCommanding \nEFTA00031447",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Field Artillery",
+        "role": "extracted",
+        "context": "HOMAS \n2nd \nBattalion, \n15th \nField Artillery \nRegiment \nCerqficate of-\nAch"
+      },
+      {
+        "name": "Regiment \nCerqficate",
+        "role": "extracted",
+        "context": "lion, \n15th \nField Artillery \nRegiment \nCerqficate of-\nAchieve \nit \nMP' \nTORWERI"
+      },
+      {
+        "name": "Command Sergeant",
+        "role": "extracted",
+        "context": ",4 \nMICHA J. LO EZ \nCSM, USA \nCommand Sergeant Major \nFROM 22 JAN 03 TO 24"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.107Z"
+}

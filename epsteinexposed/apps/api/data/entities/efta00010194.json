@@ -1,0 +1,57 @@
+{
+  "document": {
+    "id": "efta00010194",
+    "filename": "EFTA00010194.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010194.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 77 Filed 12/01/20 Page 1  of 1 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY \nFILER \nDOC  \nDATE FILED: 12/\n1/20 \n20-CR-330 (MN) \nORDER \nALISON J. NATHAN, District Judge: \nOn November 25, 2020, the Defendant filed a letter request under seal. On November \n30, 2020, she filed a second letter request in which she proposed redactions on both letters. The \nGovernment is hereby ORDERED to respond to the Defendant's November 25, 2020 letter \nrequest and to the request for proposed redactions by no later than December 2, 2020. The \nletters shall be temporarily sealed while the Court resolves the redaction request. \nSO ORDERED. \nDated: December 1, 2020 \nNew York, New York ALISON J. NATHAN \nUnited States District Judge \nI \nEFTA00010194",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "MN) \nORDER \nALISON J. NATHAN, District Judge: \nOn November 25, 2020, the D"
+      },
+      {
+        "name": "On November",
+        "role": "extracted",
+        "context": "N J. NATHAN, District Judge: \nOn November 25, 2020, the Defendant filed"
+      },
+      {
+        "name": "The \nGovernment",
+        "role": "extracted",
+        "context": "d redactions on both letters. The \nGovernment is hereby ORDERED to respond"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-25",
+        "event": "November 25, 2020"
+      },
+      {
+        "date": "2020-11-30",
+        "event": "November \n30, 2020"
+      },
+      {
+        "date": "2020-12-02",
+        "event": "December 2, 2020"
+      },
+      {
+        "date": "2020-12-01",
+        "event": "December 1, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.469Z"
+}

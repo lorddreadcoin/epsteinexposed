@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00015529",
+    "filename": "EFTA00015529.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015529.pdf",
+    "text": "\n\nFrom: art\nTo: \"Berman, Geoffit \nSANYS \n(USANYS \" \nC (USANYS)\" \nSubject: RE: draft bail reply, Epstein \nDate: Fri, 12 Jul 2019 18:00:21 +0000 \nImportance: Normal \nAttachments: 2019-07-12,_JE, _response_to_bail_release_request,firaft_3.docx \nBail reply attached for review, incorporating input from our team and chiefs. Due at 5:00, though we're happy to file \nearlier than that if it's set to go. I'll be in an interview for about the next hour but then back online. Thank you! \nEFTA00015529",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ubject: RE: draft bail reply, Epstein \nDate: Fri, 12 Jul 2019 18:00:21 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:00:21 +0000 \nImportance: Normal \nAttachments: 2019-07-12,_JE, _response_to"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "2019-07-12"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.878Z"
+}

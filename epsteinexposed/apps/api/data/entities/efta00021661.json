@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021661",
+    "filename": "EFTA00021661.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021661.pdf",
+    "text": "\n\nFrom: \nTo \nCc: ' \nSubject: SDNY Epstein Case \nDate: Fri, 26 Jul 2019 13:51:53 +0000 \nThanks very much for speaking just now. I'm cc'ing the rest of the SDNY Epstein team, including AUSA. \nandl, as well as the lead case agent We really appreciate your \nwillingness to \nhelp with our prosecution and ongoing investigation. \nAs discussed, we would ask that any witnesses or victims who contact your office while our case is pending and our \ninvestigation is ongoing be referred to our team. Once our case is complete, we will refer any matters that were not \ncovered by our case and that may be within your jurisdiction to your office. \nPlease feel free to contact any of us if any questions or issues arise, and thank you again for your help. \nMaurene \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00021661",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: ' \nSubject: SDNY Epstein Cas"
+      },
+      {
+        "name": "Epstein Case",
+        "role": "extracted",
+        "context": "om: \nTo \nCc: ' \nSubject: SDNY Epstein Case \nDate: Fri, 26 Jul 2019 13:51"
+      },
+      {
+        "name": "Maurene \nAssistant",
+        "role": "extracted",
+        "context": "ank you again for your help. \nMaurene \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "rene \nAssistant United States Attorney \nSouthern District of New York \nI  St."
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00021661"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.138Z"
+}

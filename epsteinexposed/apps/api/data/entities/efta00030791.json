@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030791",
+    "filename": "EFTA00030791.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030791.pdf",
+    "text": "\n\nFrom: \n'•\n \n(OPR)\" \na=MMIE \nTo:'\nSubject: OPR Epstein investigation -- request for consultation \nDate: Tue, 10 Mar 2020 12:52:12 +0000 \n--\nIf you're still working on the matter, could we speak briefly, this afternoon if possible? What time would work for you? \nThank you, \nOffice of Professional Responsibility \nU.S. Department of Justice —  Suite 3266 \n950 Pennsylvania Avenue \nNW \nWashin \non DC 20530 \nEFTA00030791",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Professional Responsibility",
+        "role": "extracted",
+        "context": "r you? \nThank you, \nOffice of Professional Responsibility \nU.S. Department of Justice —"
+      },
+      {
+        "name": "Pennsylvania Avenue",
+        "role": "extracted",
+        "context": "of Justice —  Suite 3266 \n950 Pennsylvania Avenue \nNW \nWashin \non DC 20530 \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.680Z"
+}

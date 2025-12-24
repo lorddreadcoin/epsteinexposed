@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032513",
+    "filename": "EFTA00032513.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032513.pdf",
+    "text": "\n\nFrom: \" \n)\"  \nTo:' \nSubject: Re: what's your trial status? \nDate: Thu, 21 Feb 2019 18:48:47 +0000 \nImportance: Normal \n)\"  \nFor sure. Happy to chat about the case too— I'm in the trial room if you want to call my cell. \nSent from my iPhone \nOn Feb 21, 2019, at 12:43 PM, \nawesome, godspeed. \n> \nwrote: \n(and I may send you a draft Epstein thing if you feel like a distraction while you're waiting, but no pressure at all) \nFrom: \nSent: Thursday, February 21, 2019 12:43 \nTo: \nSubject: Re: what's your trial status? \nJudge Sweet just finished reading the charge. \nSent from my iPhone \nOn Feb 21, 2019, at 12:42 PM, \nwith the jury?? \nAssistant U.S. Attorney \nSouthern District of New York \nwrote: \nEFTA00032513",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "call my cell. \nSent from my iPhone \nOn Feb 21, 2019, at 12:43 PM, \na"
+      },
+      {
+        "name": "Judge Sweet",
+        "role": "extracted",
+        "context": "e: what's your trial status? \nJudge Sweet just finished reading the cha"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "th the jury?? \nAssistant U.S. Attorney \nSouthern District of New York \nwrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-21",
+        "event": "February 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.824Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00010384",
+    "filename": "EFTA00010384.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010384.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Prince Andrew \nDate: Wed, 20 Nov \n2019 18:50:40 +0000 \nWe've been asked and will decline about the statement released by Andrew a  short time ago: \nROYAL \nCOMMUNICATIONS \nStatement by His Royal Highness The Duke of York KG \nIt has become \nclear to me over the last few days that the circumstances relating to my former \nassociation with Jeffrey Epstein has become a major disruption to my family's work and the \nvaluable work going on in the many organisations and charities that I am proud to support. \nTherefore, I have asked Her Majesty if I may step back \nfrom public duties for the foreseeable \nfuture, and she \nhas given her permission. \nI continue to unequivocally regret my ill-judged association with Jeffrey Epstein. His suicide has \nleft many unanswered questions, particularly for his victims, and I deeply sympathise with \neveryone who has \nbeen affected and wants some form of closure. I can only hope that, in time, \nthey will be able to rebuild their lives. Of course, I am willing to help any appropriate law \nenforcement agency with their investigations, if required. \nWednesday 20th \nNovember, 2019 \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nEFTA00010384",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "umstances relating to my former \nassociation with Jeffrey Epstein has become a major disruption to my family's work"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Prince Andrew \nDate: Wed, 20 Nov \n2019 18:50:40 +0000 \nWe've be"
+      },
+      {
+        "name": "His Royal",
+        "role": "extracted",
+        "context": "COMMUNICATIONS \nStatement by His Royal Highness The Duke of York KG"
+      },
+      {
+        "name": "Highness The",
+        "role": "extracted",
+        "context": "TIONS \nStatement by His Royal Highness The Duke of York KG \nIt has becom"
+      },
+      {
+        "name": "Her Majesty",
+        "role": "extracted",
+        "context": "ort. \nTherefore, I have asked Her Majesty if I may step back \nfrom publ"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "dnesday 20th \nNovember, 2019 \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nEFTA00010384"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.861Z"
+}

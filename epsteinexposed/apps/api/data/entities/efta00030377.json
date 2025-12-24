@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00030377",
+    "filename": "EFTA00030377.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030377.pdf",
+    "text": "\n\nFrom: ' \n)\"      fr\" \nTo: ' (USANYS) 8\"  \nSubject: RE: Press Conference Advisory, Thursday, July 2, 2020, 12:00 p.m. \nDate: Mon, 06 Jul 2020 17:08:03 +0000 \nThis is now belated, but thank you — really appreciate it! \nFrom: (USANYS) 8 < \nSent: Thursday, July 02, 2020 10:57 \nTo: \n>; \nSubject: Fwd: Press Conference Advisory, Thursday, July 2, 2020, 12:00 p.m. \nYou are American heroes. Congratulations! \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Press-Office, SDNY \n(USANYS)\" <ME \nDate: July 2, 2020 at 9:49:14 AM EDT \nSubject: Press Conference Advisory, Thursday, July 2, 2020, 12:00 p.m. \nU.S. \nv. Ghislaine Maxwell Indictment.pdf\n>; \nEFTA00030377",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ory, Thursday, July 2, 2020, 12:00 p.m. \nU.S. \nv. Ghislaine Maxwell Indictment.pdf\n>; \nEFTA00030377"
+      },
+      {
+        "name": "Press Conference",
+        "role": "extracted",
+        "context": "' (USANYS) 8\"  \nSubject: RE: Press Conference Advisory, Thursday, July 2, 2"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "ngratulations! \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Pr"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "July 2, 2020"
+      },
+      {
+        "date": "2020-07-02",
+        "event": "July 02, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.728Z"
+}

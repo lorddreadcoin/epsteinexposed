@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00021545",
+    "filename": "EFTA00021545.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021545.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Martin G. Weinberg\" \n<I  \n, \nCc: , \"'Miller, Michael\"' \nin, Reid Weingarten \nSubject: RE: US v Epstein \nDate: Fri, 02 Aug 2019 14:11:37 +0000 \nReceived, thank you Marty. Going forward, we would be grateful if you would please include all three of us on any emails \nrelated to this case. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: Martin G. Weinberg <MI> \nSent: Friday, August 2, 2019 10:08 AM \nTo: \n'; \nCc: \n>: \n'Martin G. Weinberg' \nMichael' c:>; \nReid Weingarten \nSubject: US v Epstein \n; 'Miller, \nI sent the attached to last night who informed me he is out of the office so to be sure you have \nreceived it as well, I am re-sending to all. Thanks, Marty \nMartin G. Weinberg, Esq. \nThis Electronic Message contains information from the Law Office \nof Martin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the addressee \nonly. If you are not the addressee, please note that any disclosure, copying, distribution, or use of the contents \nof this message is prohibited. \nEFTA00021545",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "c: , \"'Miller, Michael\"' \nin, Reid Weingarten \nSubject: RE: US v Epstein \nD"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Weingarten \nSubject: RE: US v Epstein \nDate: Fri, 02 Aug 2019 14:11:37 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "related to this case. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ase. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: Martin"
+      },
+      {
+        "name": "Marty \nMartin",
+        "role": "extracted",
+        "context": "am re-sending to all. Thanks, Marty \nMartin G. Weinberg, Esq. \nThis Elect"
+      },
+      {
+        "name": "This Electronic",
+        "role": "extracted",
+        "context": "ty \nMartin G. Weinberg, Esq. \nThis Electronic Message contains information"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "contains information from the Law Office \nof Martin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-02",
+        "event": "August 2, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.875Z"
+}

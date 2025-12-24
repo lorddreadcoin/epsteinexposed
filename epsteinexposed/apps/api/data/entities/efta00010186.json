@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00010186",
+    "filename": "EFTA00010186.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010186.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein-related does released by Second Circuit \nDate: Fri, 09 Aug 2019 15:43:03 +0000 \np”Just FYI for everybody, today the Second Circuit has unsealed (and posted) a ton of documents from the\nGhislaine Maxwell libel lawsuit, so there likely will be a ton of reporting on that. Any reference to those new y-unsea e \ndocuments are separate from—and do not include—any filings we've made, and are independent of our case. \n(We have been aware of the litigation and generally aware of the filings, though it also won't hurt to have a bunch of \njournalists combing through them and reporting out interesting elements.) \nAnyway just wanted to note that there's likely to be a flood of attention to this development but that it's not anything new \nspecifically from our investigation. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00010186",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "unsealed (and posted) a ton of documents from the\nGhislaine Maxwell libel lawsuit, so there likely will be a ton of r"
+      },
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "tein-related does released by Second Circuit \nDate: Fri, 09 Aug 2019 15:43"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "nvestigation. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.458Z"
+}

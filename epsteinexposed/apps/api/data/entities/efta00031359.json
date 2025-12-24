@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00031359",
+    "filename": "EFTA00031359.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031359.pdf",
+    "text": "\n\nFrom: ' \n)\"     \nTo:'  \n )\"  \nSubject: RE: draft letter to Netbum \nDate: Wed, 22 Jul 2020 18:19:09 +0000 \nAttachments: 2020-07-22 JE letter to Netburn re order on unsealing.moe.docx \nHere are some proposed edits. Thanks for drafting this. \nFrom: \nSent: Wednesday, July 22, 2020 1:55 PM \nTo: \nCc: \nSubject: RE: draft letter to Netburn \nNo problem, totally understand. \nFrom: \nSent: Wednesday, July 22, 2020 13:55 \nTo: \nCc: \nSubject: Re: draft letter to Netburn \n> \n> \n> \nSorry guys I can't. I keep getting kicked off the vpn, and I'm fighting with my computer, so I haven't been able to do nearly \nas much work as I had planned this afternoon. \nOn Jul 22, 2020, at 1:52 PM, wrote: \nSo I obviously had to do this pretty quickly today, and it doesn't help that Westlaw has been down all afternoon, but one \nway or the other we gotta get something filed. Does either of you have a moment to take a look at this in the next hour \nor so? I'm sorry, I know you have something at 2:00! If the answer is no, totally understand, I can just pass it \nup to and .  Thanks either way and talk soon. \n<2020-07-22, JE, letter to Netburn re order on unsealing.docx> \nEFTA00031359",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Netbum \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: draft letter to Netbum \nDate: Wed, 22 Jul 2020 18:19:09 +0"
+      },
+      {
+        "name": "Netburn \nNo",
+        "role": "extracted",
+        "context": "Subject: RE: draft letter to Netburn \nNo problem, totally understand."
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "had planned this afternoon. \nOn Jul 22, 2020, at 1:52 PM, wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-22",
+        "event": "2020-07-22"
+      },
+      {
+        "date": "2020-07-22",
+        "event": "July 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.929Z"
+}

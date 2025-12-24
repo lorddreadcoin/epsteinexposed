@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028484",
+    "filename": "EFTA00028484.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028484.pdf",
+    "text": "\n\nFrom: \n\"-\nTo: \n\"-\nSubject: Epstein \nSW Scans \nDate: Fri, 26 Jul 2019 19:31:57 +0000 \n) \n[Contractor]\" <1 \nAttachments: 6571_SW_Application.pdf; 657 l_SW.pdf; 6572_SW_Application.pdf; \n6573_ \nSW_ Application.pdf; 6573_SW.pdf \nHey, \nThey are \nattached. The pagination on them is very weird, but they are scanned in the order they are stapled. \nThanks, \n= \nParalegal Specialist \nUnited States Attorney's Office \nSouthern District of New York \nOffice: \nCell: \nEFTA00028484",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scans \nDate",
+        "role": "extracted",
+        "context": "To: \n\"-\nSubject: Epstein \nSW Scans \nDate: Fri, 26 Jul 2019 19:31:57 +0"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "hey are stapled. \nThanks, \n= \nParalegal Specialist \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ist \nUnited States Attorney's Office \nSouthern District of New York \nOffice:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.334Z"
+}

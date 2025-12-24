@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029236",
+    "filename": "EFTA00029236.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029236.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo \nCc: Christian Everdell Laura Mennin er \nJeff \nPagliuc.\nSubject: U.S. v. Maxwell S2 20 Cr. 330 (ALN) \nDate: Thu, 08 Apr 2021 02:25:25 +0000 \nAttachments: Reply_to_Govt_MDC_4-6_Letter.pdf; ATT00001.htm \nGood \nevening-\nAttached is a courtesy copy of today's ECF filing. \nRegards-\nBobbi \nEFTA00029236",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: BOBBI C STERNHEIM \nTo \nCc: Christian Everdell Laura Men"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "m: BOBBI C STERNHEIM \nTo \nCc: Christian Everdell Laura Mennin er \nJeff \nPagliu"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "M \nTo \nCc: Christian Everdell Laura Mennin er \nJeff \nPagliuc.\nSubject: U"
+      },
+      {
+        "name": "Jeff \nPagliuc",
+        "role": "extracted",
+        "context": "ian Everdell Laura Mennin er \nJeff \nPagliuc.\nSubject: U.S. v. Maxwell S2"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.066Z"
+}

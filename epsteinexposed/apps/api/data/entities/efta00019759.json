@@ -1,0 +1,106 @@
+{
+  "document": {
+    "id": "efta00019759",
+    "filename": "EFTA00019759.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019759.pdf",
+    "text": "\n\nU. S. \nDepartment of Justice \nFederal Bureau of Prisons \nMetropolitan Correctional Center \nNew York, New York \nFor Immediate Release \nAugust 10, 2019 \nContact: Lee Plourde \nPublic Information Officer \n(646) 836-6300 \nInmate Death at the MCC New York \nNew York, NY: On Saturday, August 10, 2019, at approximately 6:30 a.m., inmate Jeffrey \nEdward Epstein was found unresponsive in his cell in the Special Housing Unit from an apparent \nsuicide at the Metropolitan Correctional Center (MCC) in New York, New York. Life-saving \nmeasures were initiated immediately by responding staff. Staff requested emergency medical \nservices (EMS) and life-saving efforts continued. Mr. Epstein was transported by EMS to a local \nhospital for treatment of life-threatening injuries, and subsequently pronounced dead by hospital \nstaff. The FBI is investigating the incident. \nMr. Epstein was a 66-year-old male who arrived at MCC New York on July 6, 2019 under \npretrial status after being indicted for sex trafficking of minors and conspiracy. \nMCC New York is an Administrative security facility that currently houses 763 male offenders \nin New York, New York. \nAdditional information about the Federal Bureau of Prisons can be found at www.bop.gov. \nEFTA00019759",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ife-saving efforts continued. Mr. Epstein was transported by EMS to"
+      },
+      {
+        "name": "Justice \nFederal",
+        "role": "extracted",
+        "context": "U. S. \nDepartment of Justice \nFederal Bureau of Prisons \nMetropolit"
+      },
+      {
+        "name": "Prisons \nMetropolitan",
+        "role": "extracted",
+        "context": "of Justice \nFederal Bureau of Prisons \nMetropolitan Correctional Center \nNew York"
+      },
+      {
+        "name": "Correctional Center",
+        "role": "extracted",
+        "context": "reau of Prisons \nMetropolitan Correctional Center \nNew York, New York \nFor Imme"
+      },
+      {
+        "name": "For Immediate",
+        "role": "extracted",
+        "context": "l Center \nNew York, New York \nFor Immediate Release \nAugust 10, 2019 \nCon"
+      },
+      {
+        "name": "Release \nAugust",
+        "role": "extracted",
+        "context": "York, New York \nFor Immediate Release \nAugust 10, 2019 \nContact: Lee Plourd"
+      },
+      {
+        "name": "Lee Plourde",
+        "role": "extracted",
+        "context": "se \nAugust 10, 2019 \nContact: Lee Plourde \nPublic Information Officer"
+      },
+      {
+        "name": "Public Information",
+        "role": "extracted",
+        "context": ", 2019 \nContact: Lee Plourde \nPublic Information Officer \n(646) 836-6300 \nInma"
+      },
+      {
+        "name": "Inmate Death",
+        "role": "extracted",
+        "context": "tion Officer \n(646) 836-6300 \nInmate Death at the MCC New York \nNew York"
+      },
+      {
+        "name": "On Saturday",
+        "role": "extracted",
+        "context": "e MCC New York \nNew York, NY: On Saturday, August 10, 2019, at approxim"
+      },
+      {
+        "name": "Jeffrey \nEdward",
+        "role": "extracted",
+        "context": "proximately 6:30 a.m., inmate Jeffrey \nEdward Epstein was found unresponsiv"
+      },
+      {
+        "name": "Special Housing",
+        "role": "extracted",
+        "context": "responsive in his cell in the Special Housing Unit from an apparent \nsuicid"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "m an apparent \nsuicide at the Metropolitan Correctional Center (MCC) in New York, New"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "itional information about the Federal Bureau of Prisons can be found at ww"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      },
+      {
+        "date": "2019-07-06",
+        "event": "July 6, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(646) 836-6300"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.522Z"
+}

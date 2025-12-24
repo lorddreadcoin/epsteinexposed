@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00013430",
+    "filename": "EFTA00013430.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013430.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire \nDate: Mon, 11 Oct 2021 23:53:59 +0000 \nAttachments: 2021.10.11 Letter re Jury Questionnaire and Voir Dire [to Court].pdf; _ _ _ _ _ _ _ _ \nJoint_Proposed_Voir_Dire Jto_Court].pdf; \nJoint Maxwell _ Jury _Questionnaire Jto Court].pdf \nGood evening, \nAttached please find the parties' joint proposed juror questionnaire and voir dire. Per the attached letter, the parties \nrespectfully request that the Court accept the joint proposed juror questionnaire and voir dire under seal. \nIn addition, the Government has produced Jencks Act material and exhibits to the defense today. If the Court would like a \ncopy, we would be happy to provide it. \nRespectfully submitted, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNe 07 \nTel \nEFTA00013430",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Joint Proposed",
+        "role": "extracted",
+        "context": ". Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir"
+      },
+      {
+        "name": "Juror Questionnaire",
+        "role": "extracted",
+        "context": "r. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire \nDate: Mon, 11"
+      },
+      {
+        "name": "Voir Dire",
+        "role": "extracted",
+        "context": "posed Juror Questionnaire and Voir Dire \nDate: Mon, 11 Oct 2021 23:53"
+      },
+      {
+        "name": "Jury Questionnaire",
+        "role": "extracted",
+        "context": "chments: 2021.10.11 Letter re Jury Questionnaire and Voir Dire [to Court].pdf;"
+      },
+      {
+        "name": "Dire Jto",
+        "role": "extracted",
+        "context": "_ _ _ _ \nJoint_Proposed_Voir_Dire Jto_Court].pdf; \nJoint Maxwell _"
+      },
+      {
+        "name": "Joint Maxwell",
+        "role": "extracted",
+        "context": "ed_Voir_Dire Jto_Court].pdf; \nJoint Maxwell _ Jury _Questionnaire Jto Cou"
+      },
+      {
+        "name": "Questionnaire Jto",
+        "role": "extracted",
+        "context": "].pdf; \nJoint Maxwell _ Jury _Questionnaire Jto Court].pdf \nGood evening, \nAt"
+      },
+      {
+        "name": "Jencks Act",
+        "role": "extracted",
+        "context": ", the Government has produced Jencks Act material and exhibits to the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "it. \nRespectfully submitted, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNe 07"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.577Z"
+}

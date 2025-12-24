@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00015597",
+    "filename": "EFTA00015597.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015597.pdf",
+    "text": "\n\nFrom: ' \nTo: \n'• \n(USANYS)\"\nSubject: RE: Jeffrey Epstein \nDate: Sun, 07 Jul 2019 20:44:29 +0000 \nImportance: Normal \nThanks man — I appreciate it \nFrom: (USANYS) \nSent: Sunday, July 07, 2019 16:44 \nTo: \nSubject: Fwd: Jeffrey Epstein \nCongratulations. \nBegin \nforwarded message: \nFrom: \n\"-(USANYS)\" \nDate: July 7, 2019 at 1:08:19 PM EDT \nTo:\" \nSubject: Jeffrey Epstein \n(USANYS)\" \nHey PCU —As you likely may have seen/heard at this point, last evening, we arrested Jeffrey Epstein on sex trafficking \ncharges. Epstein is in custody and will be presented and arraigned on an Indictment that will be unsealed tomorrow \nmorning. \nThe case is an incredibly important one — not only is the conduct extremely serious and deeply disturbing — but our \ncharges ensure that dozens if not more of Epstein's victims, girls who were as young as 14 at the time they were abused, \nwill finally have their day in court. It is an extraordinarily worthy prosecution and just the latest example of how this \nunit will never shy away from bringing tough cases against powerful people who have committed grievous crimes. \nPlease join me and in extending a very well-deserved congratulations to the team, \nwho have worked tirelessly to make this case happen (and happen so quickly). They have done us all proud, and if you \nare free, we hope you join us for the press conference formally announcing the charges, which should happen Monday \nmorning at 11. \nMat \nEFTA00015597",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: ' \nTo: \n'• \n(USANYS)\"\nSubject: RE: Jeffrey Epstein \nDate: Sun, 07 Jul 2019 20:44:29 +0000 \nImportanc"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 20:44:29 +0000 \nImportance: Normal \nThanks man — I appreciate it \nFrom:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-07",
+        "event": "July 07, 2019"
+      },
+      {
+        "date": "2019-07-07",
+        "event": "July 7, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.055Z"
+}

@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00032213",
+    "filename": "EFTA00032213.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032213.pdf",
+    "text": "\n\nFrom: \nTo: \n)II \n(USANYS)\" \n(USANYS) [Contractor]\" \nSubject: FW: Privileged & Confidential -  JPMorgan Chase \nDate: Wed, 02 Sep 2020 22:57:54 +0000 \nAttachments: 2020-09-02 SDNY Letter.pdf \nCover letter for the JPM production is attached, per the below. \nFrom: \nSent: Wednesday, September 02, 2020 18:57 \nTo: 'Russell, Kelsey D' \nCc: Sahni, Anjan Stoddart, Allison c>  Chau, Truong \nSubject: RE: Privileged & Confidential —JPMorgan Chase \nKelsey, \nReceived, and thanks very much. I'll let you know if any issues with accessing the production, but should be fine. Thanks \nagain for your continued help. \nFrom: Russell, Kelsey D \nSent: Wednesday, September 02, 2020 17:26 \nTo: \nCc: Sahni, Anjan \n> \nStoddart, Allison < \n>; \nChau, Truong \nSubject: Privileged & Confidential —JPMorgan Chase \nPrivileged & Confidential \nI hope this email finds you well. As discussed during our August 10, 2020 call, please find attached a cover letter \naccompanying JPMorgan's production in response to the August 11, 2019, August 16, 2019, September 3, 2019, and \nOctober 9, 2019 grand jury subpoenas. As with previous productions, you will receive a separate email with instructions \nto download the production. You will receive the password under separate cover. \nPlease let me know if you have any questions or would like to discuss. \nThanks very much, \nKelsey \nKelsey D Russell I  WilmerHale \n7 World Trade Center \n250 Greenwich Street \nNew York, NY 10007 USA \nEFTA00032213\n\n(t) \nPlease consider the environment before printing this email. \nThis email message and any attachments are being sent by Wilmer Cutler Pickering Hale and Dort LLP, are confidential, and may be privileged. If you are not \nthe intended recipient, please notify us immediately—by replying to this message or by sending an email to postmaster@wilmerhale.com—and destroy all \ncopies of this message and any attachments. Thank you. \nFor more information about WIlmerHale, please visit us at http://www.wilmerhale.com.\nEFTA00032214",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "rivileged & Confidential -  JPMorgan Chase \nDate: Wed, 02 Sep 2020 22:57"
+      },
+      {
+        "name": "Anjan Stoddart",
+        "role": "extracted",
+        "context": "ussell, Kelsey D' \nCc: Sahni, Anjan Stoddart, Allison c>  Chau, Truong \nSu"
+      },
+      {
+        "name": "Truong \nSubject",
+        "role": "extracted",
+        "context": "n Stoddart, Allison c>  Chau, Truong \nSubject: RE: Privileged & Confidentia"
+      },
+      {
+        "name": "Kelsey \nKelsey",
+        "role": "extracted",
+        "context": "discuss. \nThanks very much, \nKelsey \nKelsey D Russell I  WilmerHale \n7 Wo"
+      },
+      {
+        "name": "World Trade",
+        "role": "extracted",
+        "context": "ey D Russell I  WilmerHale \n7 World Trade Center \n250 Greenwich Street"
+      },
+      {
+        "name": "Greenwich Street",
+        "role": "extracted",
+        "context": "le \n7 World Trade Center \n250 Greenwich Street \nNew York, NY 10007 USA \nEFTA"
+      },
+      {
+        "name": "Wilmer Cutler",
+        "role": "extracted",
+        "context": "attachments are being sent by Wilmer Cutler Pickering Hale and Dort LLP,"
+      },
+      {
+        "name": "Pickering Hale",
+        "role": "extracted",
+        "context": "e being sent by Wilmer Cutler Pickering Hale and Dort LLP, are confidentia"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-09-02",
+        "event": "2020-09-02"
+      },
+      {
+        "date": "2020-09-02",
+        "event": "September 02, 2020"
+      },
+      {
+        "date": "2020-08-10",
+        "event": "August 10, 2020"
+      },
+      {
+        "date": "2019-08-11",
+        "event": "August 11, 2019"
+      },
+      {
+        "date": "2019-08-16",
+        "event": "August 16, 2019"
+      },
+      {
+        "date": "2019-09-03",
+        "event": "September 3, 2019"
+      },
+      {
+        "date": "2019-10-09",
+        "event": "October 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.879Z"
+}

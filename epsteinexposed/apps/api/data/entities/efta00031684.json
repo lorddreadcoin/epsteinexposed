@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00031684",
+    "filename": "EFTA00031684.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031684.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 264 Filed 05/03/21 Page 1  of 1 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY FILED \nDOC 0: \nDATE FILED: 5/3/\n21\n20-CR-330 (AJN) \nORDER \nALISON J. NATHAN, District Judge: \nOn April 21, 2021, the Court's Chambers received a letter from counsel for a non-party \nrequesting assurances as to privacy protections for his client in any filings or proceedings in this \ncase. The letter requests anonymity on behalf of the client as an alleged victim of a sexual crime. \nAfter receiving the letter, the Court forwarded it to the parties and required the Government to \nrespond to counsel, which it has done. The Court will take no further action based on the April \n21, 2021 letter but will file it under seal to protect the privacy interests of the non-party asserting \nthat interest. \nThe Government is requested to forward this order to counsel for the non-party. \nSO \nORDERED. \nDated: May 3, 2021 \nNew York, New York \nALISON J. NATHAN \nUnited States District Judge \nEFTA00031684",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "JN) \nORDER \nALISON J. NATHAN, District Judge: \nOn April 21, 2021, the Cour"
+      },
+      {
+        "name": "On April",
+        "role": "extracted",
+        "context": "N J. NATHAN, District Judge: \nOn April 21, 2021, the Court's Chamber"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "ty asserting \nthat interest. \nThe Government is requested to forward this"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-21",
+        "event": "April 21, 2021"
+      },
+      {
+        "date": "2021-04-21",
+        "event": "April \n21, 2021"
+      },
+      {
+        "date": "2021-05-03",
+        "event": "May 3, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.607Z"
+}

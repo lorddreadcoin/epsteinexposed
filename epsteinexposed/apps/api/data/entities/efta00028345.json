@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028345",
+    "filename": "EFTA00028345.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028345.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: ' \nUSANYS)\" \n<a, \nSubject: Thomas - Draft Discovery Response \nDate: The, 31 Mar 2020 19:31:32 +0000 \nAttachments: 2020.04.xx_Response_to_Thomas_Second_Discovery_Request_vl.docx; \nMichael Thomas - Second_Discovery_Request.pdf \n(USANYS)\" \nHey, \nLet me know if you have any comments, thanks! \nAssistant United States Attorney \nSouthern District of New York \nEFTA00028345",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Draft Discovery",
+        "role": "extracted",
+        "context": "NYS)\" \n<a, \nSubject: Thomas - Draft Discovery Response \nDate: The, 31 Mar 2"
+      },
+      {
+        "name": "Response \nDate",
+        "role": "extracted",
+        "context": "ect: Thomas - Draft Discovery Response \nDate: The, 31 Mar 2020 19:31:32 +0"
+      },
+      {
+        "name": "Michael Thomas",
+        "role": "extracted",
+        "context": "d_Discovery_Request_vl.docx; \nMichael Thomas - Second_Discovery_Request.pd"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "u have any comments, thanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ts, thanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00028345"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.062Z"
+}

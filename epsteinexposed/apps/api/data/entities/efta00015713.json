@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00015713",
+    "filename": "EFTA00015713.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015713.pdf",
+    "text": "\n\nFrom: \".=1,  \n1\" \nTo: 'llEntaNYS)\" \"Ellall.SHYS\" \n, 1M\n(USANYS) 3\" \nSubject: Fwd: NYT article \nDate: Wed, 24 Jul 2019 12:11:46 +0000 \nill touch base with the PC team today to stay up to date. We have a subpoena out on our DB \nAML investigation that should overlap. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' (USANYS)\"  \nDate: July 23, 2019 at 9:04:07 PM EDT \nTo: '\nUSANYS)\" \nCc: ' SANYS)\" \nSubject: Re: NYT article \nNot at all, thanks for flagging. \nSent from my iPhone \nOn Jul \n23, 2019, at 9:02 PM, (USANYS)     wrote: \n10 \nGreat. Thanks. Sorry to have bothered about it. \nSent from my iPhone \nOn Jul \n23, 2019, at 9:00 PM, (USANYS)  > wrote: \nYes, thanks. We've been getting docs from them pursuant to a subpoena and review is underway. \nSent from my iPhone \nOn Jul 23, 2019, at 8:57 PM, (USANYS)     wrote: \nEFTA00015713\n\nPlease pardon the interruption. Just confirming that you've all seen article in NYT re Epstein and \nDeutsche Bk. \nSent from my iPhone \nEFTA00015714",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "hould overlap. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "for flagging. \nSent from my iPhone \nOn Jul \n23, 2019, at 9:02 PM, (U"
+      },
+      {
+        "name": "Deutsche Bk",
+        "role": "extracted",
+        "context": "rticle in NYT re Epstein and \nDeutsche Bk. \nSent from my iPhone \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-23",
+        "event": "July 23, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.284Z"
+}

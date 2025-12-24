@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00021650",
+    "filename": "EFTA00021650.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021650.pdf",
+    "text": "\n\nFrom: \nTo: \"Martin \nG. \nWeinberg\" \nC\nCc: \nWeingarten \nSubject: Protective Order \nDate: Tue, 23 Jul 2019 23:02:28 +0000 \nAttachments: 2019-07-23,_JE,firotective_order_for_discoveryiRMB).pdf \n\"'Miller, Michael\"' , Reid \nMarty, \nFollowing up on our conversation this morning, I'm attaching the proposed protective order we discussed. If you have any \nquestions, or think it would be productive to schedule a call to discuss, please let us know. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021650",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Weingarten \nSubject",
+        "role": "extracted",
+        "context": "Martin \nG. \nWeinberg\" \nC\nCc: \nWeingarten \nSubject: Protective Order \nDate: Tue,"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "C\nCc: \nWeingarten \nSubject: Protective Order \nDate: Tue, 23 Jul 2019 23:02"
+      },
+      {
+        "name": "Reid \nMarty",
+        "role": "extracted",
+        "context": "B).pdf \n\"'Miller, Michael\"' , Reid \nMarty, \nFollowing up on our convers"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "please let us know. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021650"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-23",
+        "event": "2019-07-23"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.123Z"
+}

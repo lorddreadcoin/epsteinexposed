@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00028352",
+    "filename": "EFTA00028352.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028352.pdf",
+    "text": "\n\nFrom: \nTo: <1 \nSubject: Fwd: Business Insider, Request for comment \nDate: Wed, 10 Jul 2019 04:36:14 +0000 \nBegin forwarded message: \nFrom: Benjamin Goggin\nDate: July 9, 2019 at 7:20:41 PM EDT \nTo: \nSubject: Business Insider, Request for comment \nHi \nMy name is Ben Goggin, Pm writing a story for Business Insider about your participation in the rosecution of \nJeffrey Epstein and wanted to ask you a few questions. I'll list them here but feel free to call me \n*can you confirm that you are 30 years old? \n*can you respond to criticisms that you have a conflict of interest due to your father, your past political \ndonations, or your reported attendence of the women's march? Is the picture on this blog you? \n*can you comment on your work at Debevoise & Plimpton LLP? \n*can you elaborate on what happened in the 2016 case against the camp counselor who allegedly solicited nude \nphotos from a middle schooler? Why did he plead to a lesser charge? \nThank you! \nBest, \nBenjamin Goggin \nWeekend Editor \nBusiness Insider-INSIDER \nW: C: \nSign up for the \nExecutive Summary, a biweekly recap of what's new at Insider Inc. \nFollow us on Twitter! \nEFTA00028352",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "er about your participation in the rosecution of \nJeffrey Epstein and wanted to ask you a few questions. I'll list"
+      },
+      {
+        "name": "Business Insider",
+        "role": "extracted",
+        "context": "From: \nTo: <1 \nSubject: Fwd: Business Insider, Request for comment \nDate: W"
+      },
+      {
+        "name": "Benjamin Goggin",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Benjamin Goggin\nDate: July 9, 2019 at 7:20:41"
+      },
+      {
+        "name": "Hi \nMy",
+        "role": "extracted",
+        "context": "Insider, Request for comment \nHi \nMy name is Ben Goggin, Pm writin"
+      },
+      {
+        "name": "Ben Goggin",
+        "role": "extracted",
+        "context": "t for comment \nHi \nMy name is Ben Goggin, Pm writing a story for Busin"
+      },
+      {
+        "name": "Weekend Editor",
+        "role": "extracted",
+        "context": "you! \nBest, \nBenjamin Goggin \nWeekend Editor \nBusiness Insider-INSIDER \nW:"
+      },
+      {
+        "name": "Executive Summary",
+        "role": "extracted",
+        "context": "IDER \nW: C: \nSign up for the \nExecutive Summary, a biweekly recap of what's n"
+      },
+      {
+        "name": "Insider Inc",
+        "role": "extracted",
+        "context": "weekly recap of what's new at Insider Inc. \nFollow us on Twitter! \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.076Z"
+}

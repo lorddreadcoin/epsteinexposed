@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00016348",
+    "filename": "EFTA00016348.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016348.pdf",
+    "text": "\n\nFrom: ' \nTo: Parker NYSD Chambers <I \nCc: aj\n r  • \nSubject: Application for Warrant for Cellphone Location Information \nDate: Mon, 29 Jun 2020 00:46:29 +0000 \nAttachments: Application_for_Maxwell_GPS_Combo.pdf; Exhibit_A_-\nMaxwell Indictmentitmsigned).pdf; Exhibit _B_ \nMaxwell_Arrest_Warrant_(unsigned).pdf \nGood evening, \nAttached for Judge Parker's review please find an application for two warrants for cellphone location information. The \napplication incorporates by reference an indictment that the Government intends to present to a grand jury in White \nPlains tomorrow and a corresponding arrest warrant. I have attached unsigned drafts of the indictment and arrest \nwarrant for the Judge's review, and will send signed copies upon completion of the presentation tomorrow morning. \nThe agent will be available to swear out the warrant as soon as the indictment is returned, which we anticipate will take \nplace at or around 11:30am tomorrow. I can be reached on my cellphone at should any questions or \nconcerns arise. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016348",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cellphone Location",
+        "role": "extracted",
+        "context": ": Application for Warrant for Cellphone Location Information \nDate: Mon, 29 Ju"
+      },
+      {
+        "name": "Information \nDate",
+        "role": "extracted",
+        "context": "arrant for Cellphone Location Information \nDate: Mon, 29 Jun 2020 00:46:29 +0"
+      },
+      {
+        "name": "Maxwell Indictmentitmsigned",
+        "role": "extracted",
+        "context": "ll_GPS_Combo.pdf; Exhibit_A_-\nMaxwell Indictmentitmsigned).pdf; Exhibit _B_ \nMaxwell_Ar"
+      },
+      {
+        "name": "Judge Parker",
+        "role": "extracted",
+        "context": "Good evening, \nAttached for Judge Parker's review please find an appli"
+      },
+      {
+        "name": "White \nPlains",
+        "role": "extracted",
+        "context": "to present to a grand jury in White \nPlains tomorrow and a corresponding"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "se. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016348"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.515Z"
+}

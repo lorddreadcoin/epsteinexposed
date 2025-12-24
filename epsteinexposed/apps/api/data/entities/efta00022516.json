@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00022516",
+    "filename": "EFTA00022516.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022516.pdf",
+    "text": "\n\nFrom: \"a\" alMin\n>\nTo: M'\nIMr\" 'caMME> \nCc: MINIIIII:Siiingam>\nSubject: Rule 17 subpoenas \nDate: Mon, 03 May 2021 19:12:31 +0000 \nAttachments: 2021.04.16_AJN_opinionnDkt._207.pdf; 2021.03.30_BSF_Ltr Motn.pdf; \n2021.04.05 BSF Reply_re_Maxwell_Rule_17(c)_Subpoent[Govemment_Proposed_Reda \nctions].pdc 2021705-XX_Letter to_AJN_re_Requests_9-11_v3.docx; \n2021.04.02_Defts_Resp_to_BSF_Lth_Motn_to_Quash_Rule_17_SubiGovernment_Propos \ned \nRedactions].pdf \nHey \nWe owe Judge Nathan a  letter tomorrow about our views on three of Maxwell's subpoena requests. Attached is a  draft \nresponse. \nFor your reference, I've also attached (1) Judge Nathan's order, and (2) the letters on the subject from Maxwell and Boies \nSchiller. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00022516",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ltr Motn",
+        "role": "extracted",
+        "context": "nDkt._207.pdf; 2021.03.30_BSF_Ltr Motn.pdf; \n2021.04.05 BSF Reply_re"
+      },
+      {
+        "name": "Hey \nWe",
+        "role": "extracted",
+        "context": "_Propos \ned \nRedactions].pdf \nHey \nWe owe Judge Nathan a  letter to"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "Redactions].pdf \nHey \nWe owe Judge Nathan a  letter tomorrow about our"
+      },
+      {
+        "name": "Boies \nSchiller",
+        "role": "extracted",
+        "context": "the subject from Maxwell and Boies \nSchiller. \nThanks, \nAssistant United S"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nd Boies \nSchiller. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00022516"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-03",
+        "event": "03 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.062Z"
+}

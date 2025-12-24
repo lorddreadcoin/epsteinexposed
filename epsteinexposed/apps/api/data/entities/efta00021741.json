@@ -1,0 +1,119 @@
+{
+  "document": {
+    "id": "efta00021741",
+    "filename": "EFTA00021741.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021741.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Subpoena Contact \nDate: Wed, 31 Jul 2019 21:56:29 +0000 \nAttachments: Epstein_Subpoena_Index.xlsx \nHi \nAttached is an index listing the subpoenas we have sent out and an indication of whether we have received a  response. I \nonly marked an entry as non-responsive if we received nothing from the entity. For instance, if we received a  letter stating \na lack of records, that was still marked as yes. So for any entry labeled \"No\", we received nothing. If you have any records \nwe are missing please send them over, and if we have any outstanding subpoenas the AUSAs are hoping you can check in \nwith the entities. \nLet me know if you have any questions, or if I can be of any help. \nThanks, \nAndy \nFrom: \nSent: Thursday, July 25, 2019 6:51 AM \nTo: \nSubject: RE: Subpoena Contact \n1030 works. My desk number is \nOn \nJul 24, 2019 4:42 PM, \" \nHi \nDoes 10:30 work for you? \nThanks, \nAndy \nFrom \nSent: Wednesday, July 24, 2019 4:34 PM \nTo: \nSubject: RE: Subpoena Contact \n) \n[Contractor]\" \n< \n> wrote: \nI  will be in the office around 9 tomorrow morning. Let me know what time is good for you. \nEFTA00021741\n\nOn Jul 24, 2019 1:15 PM,' wrote: \nHI \nThanks again for helping with this project. By way of introduction, I've copied Andy Hamilton, a paralegal in our \nunit. If you could please connect with Andy to discuss this project, that would be great. I've spoken with him about \nwhat we're hoping to accomplish, so he can bring you up to speed, but if either of you have questions, please let us \nknow. \nThanks—\nAssistant United States Attorney \nSouthern District of New York \nOne Saint Plaza \nNew York, NY 10007 \nMr \nOriginal Message-----\nFrom: \nSent: Wednesday, July 24, 2019 1:01 PM \nTo: \nCc: \nSubject: Subpoena Contact \nI.\nHey \nI just wanted to let you know that our Intel Analyst Natalie Beck will be the point of contact for the subpoena info to \ncoordinate with your paralegal. She is cc'd on this email. \nSpecial Agent \nFBI New York \nVCACIHuman Trafficking \nEFTA00021742",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena Contact",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Subpoena Contact \nDate: Wed, 31 Jul 2019 21:56"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "Epstein_Subpoena_Index.xlsx \nHi \nAttached is an index listing the subpo"
+      },
+      {
+        "name": "Andy \nFrom",
+        "role": "extracted",
+        "context": "can be of any help. \nThanks, \nAndy \nFrom: \nSent: Thursday, July 25, 20"
+      },
+      {
+        "name": "On \nJul",
+        "role": "extracted",
+        "context": "030 works. My desk number is \nOn \nJul 24, 2019 4:42 PM, \" \nHi \nDoes"
+      },
+      {
+        "name": "Hi \nDoes",
+        "role": "extracted",
+        "context": "On \nJul 24, 2019 4:42 PM, \" \nHi \nDoes 10:30 work for you? \nThanks,"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "good for you. \nEFTA00021741\n\nOn Jul 24, 2019 1:15 PM,' wrote: \nHI"
+      },
+      {
+        "name": "Andy Hamilton",
+        "role": "extracted",
+        "context": "of introduction, I've copied Andy Hamilton, a paralegal in our \nunit. If"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "please let us \nknow. \nThanks—\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ow. \nThanks—\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Plaza"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Plaza \nNew York, NY 10007 \nMr"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "strict of New York \nOne Saint Plaza \nNew York, NY 10007 \nMr \nOriginal"
+      },
+      {
+        "name": "Mr \nOriginal",
+        "role": "extracted",
+        "context": "nt Plaza \nNew York, NY 10007 \nMr \nOriginal Message-----\nFrom: \nSent: Wed"
+      },
+      {
+        "name": "Intel Analyst",
+        "role": "extracted",
+        "context": "nted to let you know that our Intel Analyst Natalie Beck will be the poin"
+      },
+      {
+        "name": "Natalie Beck",
+        "role": "extracted",
+        "context": "u know that our Intel Analyst Natalie Beck will be the point of contact"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": ". She is cc'd on this email. \nSpecial Agent \nFBI New York \nVCACIHuman Tra"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ial Agent \nFBI New York \nVCACIHuman Trafficking \nEFTA00021742"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-25",
+        "event": "July 25, 2019"
+      },
+      {
+        "date": "2019-07-24",
+        "event": "July 24, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.310Z"
+}

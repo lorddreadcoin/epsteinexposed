@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019869",
+    "filename": "EFTA00019869.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019869.pdf",
+    "text": "\n\nFrom: 1:3' \nTo: IIM Reynolds \nSubject: meeting tomorrow \nDate: The, 13 Jul 2021 19:46:59 +0000 \nAttachments: \n2021.07.13_Court_Subpoena_-adf \nM, \nLooking forward to meeting with you and at your office tomorrow at 9:30am. As we've previously discussed, \nI'm attaching a trial subpoena requiring to testify at our trial, which is scheduled to begin on November 29, \n2021. I expect we will call to testify sometime in early December 2021 during that trial. \nAfter our prep tomorrow, I do not think we will need to meet with again until we get closer to trial. I'll plan to \nreach back out in early November to arrange for a VTC on which we can conduct a refresher prep session and to arrange \nfor travel and hotel for trial. \nThanks and see you tomorrow. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew% Plaza \nNew York, NY 10007 \nEFTA00019869",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reynolds \nSubject",
+        "role": "extracted",
+        "context": "From: 1:3' \nTo: IIM Reynolds \nSubject: meeting tomorrow \nDate: The,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "and see you tomorrow. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "row. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew% Pl"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ct of New York \n1 St. Andrew% Plaza \nNew York, NY 10007 \nEFTA00019869"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, \n2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.745Z"
+}

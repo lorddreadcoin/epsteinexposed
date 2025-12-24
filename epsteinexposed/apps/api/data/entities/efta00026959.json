@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026959",
+    "filename": "EFTA00026959.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026959.pdf",
+    "text": "\n\nFrom: \nTo: \n• \nSubject: Fwd: \nDate: Fri, 08 Jan 2021 12:23:52 +0000 \nAttachments: 2021.1.7_Letter_to_ \nFYI. I will still have the quick call with them this morning, as planned, but I will not get into a discussion about \nthe letter. \nBegin forwarded message: \nFrom: Susan Necheles \nDate: Janua 7 2021 at 11:46:05 PM EST \nTo: ' \nCc: ' \nSubject: RE: \nI forgot to attach the letter. \nFrom: Susan Necheles \nSent: Thursday, January 7, 2021 11:36 PM \nTo: \n\"Kathleen E. \nCassidy\" < \n; Kathleen E. Cassidy < \nCc: \nSubject: \nRE: \nI= we had been \nworking on this letter to send to] \nI wanted to send it to you before our conversation tomorrow so that you could understand our thoughts at this point. \nLooking forward to speaking. \nSusan \nFrom: \nSent: Thursday, January 7, 2021 \n5:57 PM \nTo: Susan Necheles <->; \nKathleen \nE. \nCassidy \n< \nSubject: \n>; \nEFTA00026959\n\nAll: \nI hope all of you are doing well. Do you have a few minutes for a quick call tomorrow? \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \nEFTA00026960",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Susan Necheles",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Susan Necheles \nDate: Janua 7 2021 at 11:46:"
+      },
+      {
+        "name": "Susan \nFrom",
+        "role": "extracted",
+        "context": "Looking forward to speaking. \nSusan \nFrom: \nSent: Thursday, January 7,"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "quick call tomorrow? \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-07",
+        "event": "January 7, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.251Z"
+}

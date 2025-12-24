@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00015956",
+    "filename": "EFTA00015956.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015956.pdf",
+    "text": "\n\nFrom: \" \nr\nTo: \"Weinstein, Marc A.\" \n,,, i, \nCc: Andrew Tomback <1 \nk se \nSubject: RE: Epstein NY property \nDate: Thu, 16 Jul 2020 14:24:56 +0000 \nMarc, \nAny time in that range works for us —  if you send a dial-in, we'll call whenever you set it for. Thanks, and speak with you \nthen. \nFrom: Weinstein, Marc A. \nSent: Thursday, July 16, 2020 10:04 \nTo: \nCc: Andrew Tomback \nSubject: Epstein NY property \n>; >; \nWould you have time for a call today for an update on the NY property? If so, would something between 1:00-1:45 work? \nThanks, \nMarc \nMarc A. Weinstein I Partner \nChair, Mile Collar Defense \nHughes Hubbard & Reed LLP \nOne Battery Path Plaza, 17th floor I New York, NY 10004-1482 \nOffice \nThis message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not \ndisseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-\nmail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, \ndestroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this \nmessage, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. \nEFTA00015956",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "nstein, Marc A.\" \n,,, i, \nCc: Andrew Tomback <1 \nk se \nSubject: RE: Epstei"
+      },
+      {
+        "name": "Marc \nMarc",
+        "role": "extracted",
+        "context": "een 1:00-1:45 work? \nThanks, \nMarc \nMarc A. Weinstein I Partner \nChair"
+      },
+      {
+        "name": "Partner \nChair",
+        "role": "extracted",
+        "context": "s, \nMarc \nMarc A. Weinstein I Partner \nChair, Mile Collar Defense \nHughes"
+      },
+      {
+        "name": "Mile Collar",
+        "role": "extracted",
+        "context": ". Weinstein I Partner \nChair, Mile Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "I Partner \nChair, Mile Collar Defense \nHughes Hubbard & Reed LLP \nOne Batte"
+      },
+      {
+        "name": "One Battery",
+        "role": "extracted",
+        "context": "e \nHughes Hubbard & Reed LLP \nOne Battery Path Plaza, 17th floor I New"
+      },
+      {
+        "name": "Path Plaza",
+        "role": "extracted",
+        "context": "bbard & Reed LLP \nOne Battery Path Plaza, 17th floor I New York, NY 10"
+      },
+      {
+        "name": "Office \nThis",
+        "role": "extracted",
+        "context": "or I New York, NY 10004-1482 \nOffice \nThis message contains confidential"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-16",
+        "event": "July 16, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.839Z"
+}

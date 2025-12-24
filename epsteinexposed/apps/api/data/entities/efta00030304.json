@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00030304",
+    "filename": "EFTA00030304.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030304.pdf",
+    "text": "\n\nFrom: \nSubject: Final Voucher 11063602-1(1) has received final approval \nDate: Tue, 24 Mar 2020 16:48:36 +0000 \nImportance: Normal \nDear \nFinal voucher 11063602-1(1) has received final approval. \nTrip ID: 11063602-1 \nVoucher ID: 1 \nVoucher type: Final \nTraveler name: \nMinor Customer name: \nPurpose: \nR20NYS \n13404 - Epstein Investigation Witness interview \nDestination: Beverly Hills, CA, United States \nDates: 2020-02-25 - 2020-02-29 \nCurrent status: Voucher Awaiting Payment \nVoucher total expenses: 1981.97 \nEstimated trip cost: 2004.11 \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive \nfrom us. \nReference ID# V0008 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00030304",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Final Voucher",
+        "role": "extracted",
+        "context": "From: \nSubject: Final Voucher 11063602-1(1) has received fi"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "0 16:48:36 +0000 \nImportance: Normal \nDear \nFinal voucher 11063602-1(1)"
+      },
+      {
+        "name": "Final \nTraveler",
+        "role": "extracted",
+        "context": "Voucher ID: 1 \nVoucher type: Final \nTraveler name: \nMinor Customer name:"
+      },
+      {
+        "name": "Minor Customer",
+        "role": "extracted",
+        "context": "type: Final \nTraveler name: \nMinor Customer name: \nPurpose: \nR20NYS \n1340"
+      },
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "e: \nPurpose: \nR20NYS \n13404 - Epstein Investigation Witness interview \nDestinatio"
+      },
+      {
+        "name": "Beverly Hills",
+        "role": "extracted",
+        "context": "tness interview \nDestination: Beverly Hills, CA, United States \nDates: 20"
+      },
+      {
+        "name": "Voucher Awaiting",
+        "role": "extracted",
+        "context": "- 2020-02-29 \nCurrent status: Voucher Awaiting Payment \nVoucher total expens"
+      },
+      {
+        "name": "Payment \nVoucher",
+        "role": "extracted",
+        "context": "rent status: Voucher Awaiting Payment \nVoucher total expenses: 1981.97 \nEsti"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Beverly Hills, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-25",
+        "event": "2020-02-25"
+      },
+      {
+        "date": "2020-02-29",
+        "event": "2020-02-29"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.530Z"
+}

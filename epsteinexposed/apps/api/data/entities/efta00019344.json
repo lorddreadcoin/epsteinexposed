@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019344",
+    "filename": "EFTA00019344.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019344.pdf",
+    "text": "\n\nFrom: IIIMIMII. \nTo: \nCc: \nSubject: Chron \nDate: Wed, 14 Aug \n2019 16:32:18 +0000 \nAttachments: MCC \nTimeline.xlsx \nThis is \na chron that we put \ntogether, in case you want \nto take a  look. \nAssistant United States \nAttorney \nSouthern District of New \nYork \nTel: \nEFTA00019344",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chron \nDate",
+        "role": "extracted",
+        "context": "IIIMIMII. \nTo: \nCc: \nSubject: Chron \nDate: Wed, 14 Aug \n2019 16:32:18 +"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e you want \nto take a  look. \nAssistant United States \nAttorney \nSouthern Di"
+      },
+      {
+        "name": "States \nAttorney",
+        "role": "extracted",
+        "context": "ke a  look. \nAssistant United States \nAttorney \nSouthern District of New \nYo"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tant United States \nAttorney \nSouthern District of New \nYork \nTel: \nEFTA00019"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ttorney \nSouthern District of New \nYork \nTel: \nEFTA00019344"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.724Z"
+}

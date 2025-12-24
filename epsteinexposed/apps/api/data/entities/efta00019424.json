@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019424",
+    "filename": "EFTA00019424.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019424.pdf",
+    "text": "\n\nFrom: \nTo:' \n\" \nCc: \" \n(USANYS)\" \nSANYS) [Contractor]\" \nSubject: RE: GM \nresponse \nDate: Fri, 18 Dec 2020 15:03:44 +0000 \nHas Judge Nathan scheduled a day to rule on Maxwell's renewed bail motion? If/when, should we update the \nVW site? \nhttps://vvww.justice.gov/usao-sdny/united-states-v-ghislaine-maxwell \n Original Messa e \nFrom: \naNIMIN> \nSent: Wednesda December 16 2020 9:14 PM \nTo: \n• \n(USANYS) \nu ject: e: response \nSure thing, I'll forward it to you. \n> On Dec 16, 2020, at 9:11 PM, Biase, Nicholas (USANYS) a \nwrote: \n> Awesome, thanks, Would it be possible to get a copy just for me and. Obviously no rush, \ntomorrow would be fine. \n> Sent from my iPad \n>> On Dec 16, 2020, at 9:08 PM, <IIMIN> \nwrote: \n>> We filed our response today, but Judge Nathan required us to file it under seal with proposed redactions in the \nfirst instance. Defense counsel has 24 hours to object to our redactions. So our response likely won't be on the \ndocket for at least a couple days. \n>>>> On Dec 16, 2020, at 8:46 PM, \n(USANYS) \nalMIE> \nwrote: \n>>> \n>>> Pardon the interruption, I couldn't seem to find it on PACER, but when is our response to their renewed bail \npackage due? Thanks. \n>>> \n>>> \nSent from my iPad \nEFTA00019424",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Has Judge",
+        "role": "extracted",
+        "context": ", 18 Dec 2020 15:03:44 +0000 \nHas Judge Nathan scheduled a day to rul"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "-states-v-ghislaine-maxwell \n Original Messa e \nFrom: \naNIMIN> \nSent: Wedn"
+      },
+      {
+        "name": "Wednesda December",
+        "role": "extracted",
+        "context": "essa e \nFrom: \naNIMIN> \nSent: Wednesda December 16 2020 9:14 PM \nTo: \n• \n(USA"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "g, I'll forward it to you. \n> On Dec 16, 2020, at 9:11 PM, Biase,"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "filed our response today, but Judge Nathan required us to file it under"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-16",
+        "event": "December 16 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.861Z"
+}

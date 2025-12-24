@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00007576",
+    "filename": "EFTA00007576.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007576.pdf",
+    "text": "\n\nEFTA00007576\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nbn \nEFTA00007577\n\nEFTA00007578\n\nMtlien\n*\nTown \nof \nPalm \nBeach \nPolice \nDepartment \nEVIDENCE \nCASE \n5-3428 \nPROPERTY \nY \n05 \n\"P5to \nCONTENTS \n;-8/37\nItem \nQuantity \nDescription \nMir \nro \nLai \nSuspect: \nLit\nOfficer: \n,(b\nar\n .\nLab \n#: \n1\n-e\n-(m \nDate:0 \nr-\nKL•231 \nEFTA00007579\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \n14,on \nAo4,,, \nCRS,,t.e)_ \nEFTA00007580\n\nEFTA00007581",
+    "pageCount": 6,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "A00007578\n\nMtlien\n*\nTown \nof \nPalm \nBeach \nPolice \nDepartment \nEVIDENCE"
+      },
+      {
+        "name": "Police \nDepartment",
+        "role": "extracted",
+        "context": "lien\n*\nTown \nof \nPalm \nBeach \nPolice \nDepartment \nEVIDENCE \nCASE \n5-3428 \nPROP"
+      },
+      {
+        "name": "Item \nQuantity",
+        "role": "extracted",
+        "context": "05 \n\"P5to \nCONTENTS \n;-8/37\nItem \nQuantity \nDescription \nMir \nro \nLai \nS"
+      },
+      {
+        "name": "Description \nMir",
+        "role": "extracted",
+        "context": "TENTS \n;-8/37\nItem \nQuantity \nDescription \nMir \nro \nLai \nSuspect: \nLit\nOffic"
+      },
+      {
+        "name": "Lai \nSuspect",
+        "role": "extracted",
+        "context": "antity \nDescription \nMir \nro \nLai \nSuspect: \nLit\nOfficer: \n,(b\nar\n .\nLab"
+      },
+      {
+        "name": "Lit\nOfficer",
+        "role": "extracted",
+        "context": "tion \nMir \nro \nLai \nSuspect: \nLit\nOfficer: \n,(b\nar\n .\nLab \n#: \n1\n-e\n-(m"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.077Z"
+}

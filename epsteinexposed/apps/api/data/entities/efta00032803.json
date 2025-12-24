@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00032803",
+    "filename": "EFTA00032803.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032803.pdf",
+    "text": "\n\nEvent: TC with Reid Weingarten re Epstein \nStart Date: 2019-11-19 21:30:00 +0000 \nEnd Date: 2019-11-19 22:00:00 +0000 \nOrganizer: (USANYS) \nLocation: RD's office \nClass: X-PERSONAL \nDate Created: 2019-11-19 20:45:25 +0000 \nDate Modified: 2019-11-19 20:45:25 +0000 \nPriority: 5 \nDTSTAMP: 2019-11-19 20:11:06 +0000 \nAttendee: (USANYS) < \n>;\nAlarm: Display the following message 15m before start \nReminder \nReid wants to have a call with and I regarding the indictment and ask questions. I had to get \noff the phone to join another call but my plan will be to say we can't say much. FYI to Epstein \nteam. \nEFTA00032803",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "Event: TC with Reid Weingarten re Epstein \nStart Date: 2019-"
+      },
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "t: TC with Reid Weingarten re Epstein \nStart Date: 2019-11-19 21:30:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-11-19 21:30:00 +0000 \nEnd Date: 2019-11-19 22:00:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "'s office \nClass: X-PERSONAL \nDate Created: 2019-11-19 20:45:25 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-11-19 20:45:25 +0000 \nDate Modified: 2019-11-19 20:45:25 +0000 \nP"
+      },
+      {
+        "name": "Reminder \nReid",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \nReid wants to have a call with and"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-19",
+        "event": "2019-11-19"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.526Z"
+}

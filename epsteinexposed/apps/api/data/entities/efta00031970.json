@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00031970",
+    "filename": "EFTA00031970.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031970.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: quick question re: MCC stuff \nDate: Tue, 27 Jul 2021 14:30:36 +0000 \nSure, on my cell \nFrom \nSent: Tuesda Jul 27 2021 10:13 AM \nTo \nSubject: quick question re: MCC stuff \nHey I have a quick question for you re: MCC stuff and Epstein guards case, as it relates to Tartaglione. Let me \nknow when you have a second to chat. Thanks. \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00031970",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: quick question"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "0:36 +0000 \nSure, on my cell \nFrom \nSent: Tuesda Jul 27 2021 10:13 AM"
+      },
+      {
+        "name": "Tuesda Jul",
+        "role": "extracted",
+        "context": "Sure, on my cell \nFrom \nSent: Tuesda Jul 27 2021 10:13 AM \nTo \nSubject"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "Tuesda Jul 27 2021 10:13 AM \nTo \nSubject: quick question re: MCC stuff"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "ve a second to chat. Thanks. \nDeputy Chief, White Plains Division \nUnite"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "chat. Thanks. \nDeputy Chief, White Plains Division \nUnited States Attor"
+      },
+      {
+        "name": "Division \nUnited",
+        "role": "extracted",
+        "context": ". \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "White Plains Division \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ion \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.316Z"
+}

@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00026715",
+    "filename": "EFTA00026715.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026715.pdf",
+    "text": "\n\nU.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern District of New York \nThe Si!lo J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nAugust 13, 2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h \nStreet \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the drive containing discovery materials is \nVery truly \nyours, \nAUDREY \nSTRAUSS \nActing \nUnited States \nAttome \nEnclosure \nAssistant United States Attorneys \nEFTA00026715",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the drive con"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "epartment of \nJustice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Si!lo J. Mol"
+      },
+      {
+        "name": "The Si",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Si!lo J. Mollo Building \nOne Sai"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "ict of New York \nThe Si!lo J. Mollo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Si!lo J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nAugust"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h \nStreet"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "r \nLegal Department \n80 29'h \nStreet \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Acting \nUnited",
+        "role": "extracted",
+        "context": "uly \nyours, \nAUDREY \nSTRAUSS \nActing \nUnited States \nAttome \nEnclosure \nAs"
+      },
+      {
+        "name": "States \nAttome",
+        "role": "extracted",
+        "context": "DREY \nSTRAUSS \nActing \nUnited States \nAttome \nEnclosure \nAssistant United"
+      },
+      {
+        "name": "Enclosure \nAssistant",
+        "role": "extracted",
+        "context": "cting \nUnited States \nAttome \nEnclosure \nAssistant United States Attorneys \nEFTA"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-08-13",
+        "event": "August 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.885Z"
+}

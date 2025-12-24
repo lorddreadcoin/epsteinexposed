@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019911",
+    "filename": "EFTA00019911.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019911.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Emails \nDate: Sun, 15 Dec 2019 19:32:10 +0000 \nAttachments: 2008-09-03_Convo_with_Epstein.pdf; 2008-09-\n03 i  hear_you've_had_a_spot_of bother.pdf; 2009-07- \n22_—ffmail_ from_ \nJeffrey_ \nEpstein.pdf; 2010-06-29 Meeting Jeffrey Epstein.pdf; 2010-06- \n29 where are u.pdf; 2010-9-   2010-10- \n23-   Emad fr;m_Jeffrey_Epstein.pdf; 2011-05-09_Email_to_JE_NYC.pdf; 2012-10- \n3_11_Jelfrey_Epstein.pdf \nInline-Images: image001.png \ncould you please create a folder for \"Emails\" in thE older in the Epstein share drive and save \nthe attached emails there? Thanks very much. \nFrom \nSent: a  ur ay, ecem er , : \nCc I I I \nSubject: \n[mails \nI have attached the emails provided by \nHope everyone \nis doing well, \n111\" \nTi \nEDWARDS \nILd I POTTINGER LLC \n425 North Andrews Avenue, Suite 2 \nFort Lauderdale, Florida 33301 \nEFTA00019911",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "from_ \nJeffrey_ \nEpstein.pdf; 2010-06-29 Meeting Jeffrey Epstein.pdf; 2010-06- \n29 where are u.pdf; 2010-9-   2010"
+      },
+      {
+        "name": "Emails \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Emails \nDate: Sun, 15 Dec 2019 19:32:10 +0"
+      },
+      {
+        "name": "Meeting Jeffrey",
+        "role": "extracted",
+        "context": "rey_ \nEpstein.pdf; 2010-06-29 Meeting Jeffrey Epstein.pdf; 2010-06- \n29 whe"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ils there? Thanks very much. \nFrom \nSent: a  ur ay, ecem er , : \nCc I"
+      },
+      {
+        "name": "North Andrews",
+        "role": "extracted",
+        "context": "RDS \nILd I POTTINGER LLC \n425 North Andrews Avenue, Suite 2 \nFort Lauderd"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "role": "extracted",
+        "context": "orth Andrews Avenue, Suite 2 \nFort Lauderdale, Florida 33301 \nEFTA00019911"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2010-06-29",
+        "event": "2010-06-29"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.839Z"
+}

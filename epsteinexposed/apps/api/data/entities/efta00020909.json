@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00020909",
+    "filename": "EFTA00020909.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020909.pdf",
+    "text": "\n\nFrom: \nTo: r, \nCc: \nSubject: RE: Voice Message Attached from \nDate: Fri, 15 Nov 2019 21:14:47 +0000 \nEmbedded: two communications_ from_ individuals_who_may_have_JE_information.msg \nNote that this is the same individual who called us in October (see attached email and associated voicemail), so I \nimagine it already has either been addressed or is in the queue. \naNIMIN> \nOriginal Messa e \nFrom:\nSent: \nFriday, November \n15, \n2019 14:44 \nTo: \nSubject: \nFW: Voice Message Attached from \nThe attached voicemail is from someone who claims to have information pertinent to our ongoing investigation. \nPer our policy of passing along civilian information, I'm forwarding so that the FBI can handle as it sees fit. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York. NY 10007 \n Original Message \nFrom: postmaster@voip.usa.doj.gov <postmaster@voip.usa.doj.gov> \nSent: \nFriday. \nNovember \n15.2019 \n2:29 PM \nTo: \nCc: \nSubject: Voice \nMessage Attached from \nTime: Nov 15, 2019 2:28:31 PM \nClick attachment to listen to Voice Message \nEFTA00020909",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "m: \nTo: r, \nCc: \nSubject: RE: Voice Message Attached from \nDate: Fri, 15"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "or is in the queue. \naNIMIN> \nOriginal Messa e \nFrom:\nSent: \nFriday, Novem"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "dle as it sees fit. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew York. NY 10007 \n Original Mes"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "s Plaza \nNew York. NY 10007 \n Original Message \nFrom: postmaster@voip.usa.do"
+      },
+      {
+        "name": "Voice \nMessage",
+        "role": "extracted",
+        "context": "2:29 PM \nTo: \nCc: \nSubject: Voice \nMessage Attached from \nTime: Nov 15,"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-15",
+        "event": "November \n15, \n2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.598Z"
+}

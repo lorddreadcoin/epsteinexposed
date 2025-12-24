@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016156",
+    "filename": "EFTA00016156.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016156.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \naMIE> \nTo: 1\"  .1.1111YS)\"\nCc: \n(USANYS) [Contractor]\" \nSubject: Final Visual \nDate: Tue, 30 Jun 2020 16:12:58 +0000 \nAttachments: Ghislaine_Maxwell_Visual_DRAFT_v5.pdf \n(USANYS)\" \nFormatted for printing. Attached. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office [Southern District of New York \n'Mobile: I  Press Office: \nEFTA00016156",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Final Visual",
+        "role": "extracted",
+        "context": "ANYS) [Contractor]\" \nSubject: Final Visual \nDate: Tue, 30 Jun 2020 16:12"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "tted for printing. Attached. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office [Southern District of New York \n'Mobile: I  Pres"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "rict of New York \n'Mobile: I  Press Office: \nEFTA00016156"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.124Z"
+}

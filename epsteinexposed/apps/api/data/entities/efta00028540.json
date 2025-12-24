@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00028540",
+    "filename": "EFTA00028540.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028540.pdf",
+    "text": "\n\nFrom: IS' \n<IMIW' \nTo: 11 \n(USANYS)\" \naMIE> \nSubject: RE: Epstein \nDate: Sat, 10 Aug 2019 19:06:47 +0000 \nHey thank you, we really appreciate it -- it's obviously shocking even given all the circumstances, and extremely \ndisappointing for the victims (and, y'know, the cause of justice more generally). I  think we're just working \nthrough the many phone calls and updates today, but it's thoughtful of you to reach out so thanks very much \nagain. \n Ori inal Messa e \nFrom: \n(USANYS) \nalMIE> \nSent: Saturda , Au ust 10 2019 11:11 \nTo: • \nSubject: Epstein \nAll, \nSony to see the sad news about Epstein. I'm sure you're shaken. and I went through a similar \nsuicide three years ago with a securities fraud defendant. If you need anything, we're here for you. You were \ndoing you're job and obviously no one wishes harm to come to anyone. \nEFTA00028540",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "USANYS)\" \naMIE> \nSubject: RE: Epstein \nDate: Sat, 10 Aug 2019 19:06:47 +0"
+      },
+      {
+        "name": "Epstein \nAll",
+        "role": "extracted",
+        "context": "0 2019 11:11 \nTo: • \nSubject: Epstein \nAll, \nSony to see the sad news ab"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.432Z"
+}

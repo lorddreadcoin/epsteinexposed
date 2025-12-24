@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00025276",
+    "filename": "EFTA00025276.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025276.pdf",
+    "text": "\n\nFrom:\" \n( \n\\ ) \n(1 \n131) \nTo:II•  (NY) (FBI)\"\nSubject: Epstein status \nDate: Mon, 12 Oct 2020 18:48:49 +0000 \nFYI. I did 5 hours on Saturday, another 3 yesterday, and have been here since 9. I  have successfully exported \nstuff from 41 items. I have another 8 left. They are all Macs and have been problematic. I will beat on it again \ntomorrow. I was able to do the exports with 5 machines. I will be down to 2 for the remaining Mac stuff. Will \nkeep you posted as to how stuff goes. \nNY CART Coordinator \nSenior Forensic Examiner \ncell \ndesk \nEFTA00025276",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Coordinator \nSenior",
+        "role": "extracted",
+        "context": "s to how stuff goes. \nNY CART Coordinator \nSenior Forensic Examiner \ncell \ndesk"
+      },
+      {
+        "name": "Forensic Examiner",
+        "role": "extracted",
+        "context": "NY CART Coordinator \nSenior Forensic Examiner \ncell \ndesk \nEFTA00025276"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.852Z"
+}

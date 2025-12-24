@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00011431",
+    "filename": "EFTA00011431.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011431.pdf",
+    "text": "\n\nUncalled Witnesses —  Equally Available to Both Sides \nThere are people whose names you heard during the course of the trial but did not appear \nto testify. I instruct you that each party had an equal opportunity or lack of opportunity to call \nany of these witnesses. Therefore, you should not draw any inferences or reach any conclusions \nas to what they would have testified to had they been called. Their absence should not affect your \njudgment in any way. \nIn a criminal case, however, the law does not impose on the defendant the burden or duty \nof calling any witnesses or producing any evidence. \nEFTA00011431",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Uncalled Witnesses",
+        "role": "extracted",
+        "context": "Uncalled Witnesses —  Equally Available to Both"
+      },
+      {
+        "name": "Equally Available",
+        "role": "extracted",
+        "context": "Uncalled Witnesses —  Equally Available to Both Sides \nThere are peop"
+      },
+      {
+        "name": "Both Sides",
+        "role": "extracted",
+        "context": "esses —  Equally Available to Both Sides \nThere are people whose names"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.608Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016448",
+    "filename": "EFTA00016448.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016448.pdf",
+    "text": "\n\nFrom: ' \n)\" <I \nTo: Gloria Allred  \nCc: a .1 \nSubject: Call today \nDate: Thu, 21 May 2020 19:21:07 +0000 \nGloria, \nWould you be available for a quick call this afternoon? We have a couple quick questions for you relating to the Epstein \ncase. I'm available to talk any time. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016448",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "From: ' \n)\" <I \nTo: Gloria Allred  \nCc: a .1 \nSubject: Call tod"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e to talk any time. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016448"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-05-21",
+        "event": "21 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.698Z"
+}

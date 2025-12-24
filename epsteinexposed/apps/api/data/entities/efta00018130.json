@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018130",
+    "filename": "EFTA00018130.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018130.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: inmate interviews \nDate: Wed, 04 Dec 2019 17:40:31 +0000 \nEmbedded: Hammad_Memo_msg; \nHammad_Memo_ \nHammad_MemonEpstein_Death_Investigation.msg \nIn most cases, we had the agents interview the inmates without counsel after doing a Hammad memo. I've attached a \nfew examples. Where the inmate is a cooperator, we worked through the attorney. There were also two instances where \nan inmate was not a cooperator but we worked through the attorney because of the nature of the defendant (both were \nEDNY death eligible inmates). \nFrom: \nSent: Wednesday, December 4, 2019 12:24 PM \nTo: \nSubject: inmate interviews \nI'm working on a Rikers investigation, and suggested I check with you to ask: for the MCC case, were you ever \npresent for an uncounseled inmate interview, or did you guys just have agents do those interviews? He wasn't sure what \nthe practice was. Thanks. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018130",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "t \nthe practice was. Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "as. Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018130"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-04",
+        "event": "December 4, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.234Z"
+}

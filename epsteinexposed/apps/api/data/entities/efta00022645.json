@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00022645",
+    "filename": "EFTA00022645.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022645.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \n:=IIISYS)\" \n(USANYS)\" \nCc: II II \nSubject: GM - \nDate: Sat, 09 Oct 2021 04:10:34 +0000 \nAttachments: .pdf; Pages_from_PB_76-2.pdf; \n2020.07.02_050D-NY-3027571 \n0000413.pdf \nWe had mentioned to MI wanting to chat through a few things tomorrow. One of the topics we would like to chat about \nis S who we spoke with today. I'm attaching the notes from today, as well as a report on her tipline call and \npages from the PBPD report we discussed earlier this week. \nThanksl \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00022645",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "discussed earlier this week. \nThanksl \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "nksl \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.321Z"
+}

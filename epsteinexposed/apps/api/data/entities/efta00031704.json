@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00031704",
+    "filename": "EFTA00031704.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031704.pdf",
+    "text": "\n\nFrom: Nick Allen \nTo:\nSubject: Epstein enquiry \nDate: Sun, 11 Aug 2019 14:29:07 +0000 \nHello M1 \nSony to bother you on a Sunday. I'm a journalist with the UK's Daily Telegraph. \nIs it possible to say, on background, whether you want to question Prince Andrew and Ghislaine Maxwell [both \nBritish citizens...] \nThere is also a report in the New York Post that Ms Maxwell is \"cooperating with authorities\". Can you confirm, \non background, if that is true? \nMany thanks \nNick Allen \nNick Allen \nWashington Editor \nThe Daily Telegraph \nCel \nThe contents of this message and any attachments to it are private, confidential and may be the subject of legal privilege. Telegraph \nMedia Group Limited is registered in England and Wales (company number 451593) at Ill Buckingham Palace Road, London, SW I W \nODT. If you are not the intended recipient of this email please inform us and the sender immediately. You must not take any action \nbased upon the contents of this email, nor copy it or show it to anyone. Any unauthorised disclosure, use or dissemination of the whole \nor part of the message contained in such email is prohibited. Any views or opinions expressed do not necessarily represent those of \nTelegraph Media Group Limited. It is the recipient's responsibility to carry out any virus checking. \nEFTA00031704",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "d, whether you want to question Prince Andrew and Ghislaine Maxwell [both \nBritish citizens...] \nThere is also a repo"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "say, on background, whether you want to question Prince Andrew and Ghislaine Maxwell [both \nBritish citizens...]"
+      },
+      {
+        "name": "Nick Allen",
+        "role": "extracted",
+        "context": "From: Nick Allen \nTo:\nSubject: Epstein enquiry"
+      },
+      {
+        "name": "Daily Telegraph",
+        "role": "extracted",
+        "context": "'m a journalist with the UK's Daily Telegraph. \nIs it possible to say, on b"
+      },
+      {
+        "name": "Ms Maxwell",
+        "role": "extracted",
+        "context": "ort in the New York Post that Ms Maxwell is \"cooperating with authorit"
+      },
+      {
+        "name": "Washington Editor",
+        "role": "extracted",
+        "context": "anks \nNick Allen \nNick Allen \nWashington Editor \nThe Daily Telegraph \nCel \nTh"
+      },
+      {
+        "name": "The Daily",
+        "role": "extracted",
+        "context": "ick Allen \nWashington Editor \nThe Daily Telegraph \nCel \nThe contents"
+      },
+      {
+        "name": "Telegraph \nCel",
+        "role": "extracted",
+        "context": "Washington Editor \nThe Daily Telegraph \nCel \nThe contents of this message"
+      },
+      {
+        "name": "Telegraph \nMedia",
+        "role": "extracted",
+        "context": "e subject of legal privilege. Telegraph \nMedia Group Limited is registered i"
+      },
+      {
+        "name": "Group Limited",
+        "role": "extracted",
+        "context": "l privilege. Telegraph \nMedia Group Limited is registered in England and"
+      },
+      {
+        "name": "Ill Buckingham",
+        "role": "extracted",
+        "context": "es (company number 451593) at Ill Buckingham Palace Road, London, SW I W"
+      },
+      {
+        "name": "Palace Road",
+        "role": "extracted",
+        "context": "ber 451593) at Ill Buckingham Palace Road, London, SW I W \nODT. If you"
+      },
+      {
+        "name": "Telegraph Media",
+        "role": "extracted",
+        "context": "cessarily represent those of \nTelegraph Media Group Limited. It is the reci"
+      }
+    ],
+    "locations": [
+      {
+        "name": "London, SW",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.651Z"
+}

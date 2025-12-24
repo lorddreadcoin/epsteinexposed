@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00023417",
+    "filename": "EFTA00023417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023417.pdf",
+    "text": "\n\nFrom: \nTo \nSubject: OOP \nDate: Wed, 17 Nov 2021 03:41:28 -r0000 \nAttachments: Maxwell Order of Proof v12.docx \nRevised draft attached. please let us know once you've decided what you'd like to do about the order around \nEFTA00023417",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo \nSubject: OOP \nDate: Wed, 17 Nov 2021"
+      },
+      {
+        "name": "Maxwell Order",
+        "role": "extracted",
+        "context": "03:41:28 -r0000 \nAttachments: Maxwell Order of Proof v12.docx \nRevised dr"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.922Z"
+}

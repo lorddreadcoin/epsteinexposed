@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027935",
+    "filename": "EFTA00027935.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027935.pdf",
+    "text": "\n\nFrom: \n'lir\nSubject: Phone call \nDate: Sun, 11 Aug 2019 18:52:43 +0000 \nIt appears there is new information about the phone call at 7:17pm Friday night. \nThe Warden briefed OIG SAC Modano that the call was 19 minutes long. I did not brief the Warden on any \ninformation regarding that call. \nEpstein was never in general population, because of that he did not need an approved list of people to call. \nOn Friday he had a legal visit that lasted from 8:00ish an until almost 7:00pm. He was supervised the entire time \nby BOP staff. \nSent from \nmobile device, please excuse typos. \nSpecial Agent \nOffice of the Inspector General \n1  Battery Park Plaza, 29th floor \nNew York NY 10004 \nEFTA00027935",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Warden",
+        "role": "extracted",
+        "context": "call at 7:17pm Friday night. \nThe Warden briefed OIG SAC Modano that t"
+      },
+      {
+        "name": "On Friday",
+        "role": "extracted",
+        "context": "oved list of people to call. \nOn Friday he had a legal visit that las"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "device, please excuse typos. \nSpecial Agent \nOffice of the Inspector Gene"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "Special Agent \nOffice of the Inspector General \n1  Battery Park Plaza, 29th"
+      },
+      {
+        "name": "Battery Park",
+        "role": "extracted",
+        "context": "of the Inspector General \n1  Battery Park Plaza, 29th floor \nNew York N"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.294Z"
+}

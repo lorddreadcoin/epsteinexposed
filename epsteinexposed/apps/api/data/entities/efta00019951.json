@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019951",
+    "filename": "EFTA00019951.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019951.pdf",
+    "text": "\n\nFrom: \n\"Miller. Michael\"\nTo: \" H , \"Martin G. Weinberg\" \n< \n, \n\"Weingarten, \nReid\" \nCc: ' \n\" \nSubject: RE: US v  Epstein \nDate: Sat, 10 Aug 2019 15:57:56 +0000 \nThank you, M. Mike \nFrom: \nSent: Saturday, August 10, 2019 11:57 AM \nTo: Miller, Michael <.:>; Martin G. Weinberg \nc \n>; Weingarten, Reid \nCc: \nce; \nSubject: Re: US v Epstein \nMike, Marty, Reid, \nFollowing up on my conversations with Mike and Marty this morning, and my discussion with Mike moments ago, \nattached is a press release just sent to us (and I believe also issued publicly) some minutes ago. It represents all the \ninformation we have from BOP so far, but of course if we are successful in our continuing efforts to get additional \ninformation we will pass it along immediately. \nSeparately, we can tell you that the reports that an FBI investigation into the death has been initiated are accurate, and I \nfully expect that investigation to be extremely rigorous. \nAs always please don't hesitate to reach out to us directly at any time if that would be useful. \nthank you, \nEFTA00019951",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: ' \n\" \nSubject: RE: US v  Epstein \nDate: Sat, 10 Aug 2019 15:57:56 +0"
+      },
+      {
+        "name": "Mike \nFrom",
+        "role": "extracted",
+        "context": "15:57:56 +0000 \nThank you, M. Mike \nFrom: \nSent: Saturday, August 10,"
+      },
+      {
+        "name": "Reid \nCc",
+        "role": "extracted",
+        "context": ". Weinberg \nc \n>; Weingarten, Reid \nCc: \nce; \nSubject: Re: US v Epst"
+      },
+      {
+        "name": "Epstein \nMike",
+        "role": "extracted",
+        "context": "Cc: \nce; \nSubject: Re: US v Epstein \nMike, Marty, Reid, \nFollowing up o"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.926Z"
+}

@@ -1,0 +1,150 @@
+{
+  "document": {
+    "id": "efta00011510",
+    "filename": "EFTA00011510.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011510.pdf",
+    "text": "\n\nAugust 10, 2019 \nU.S. Department of Justice \nFederal Bureau of Prisons \nOffice of the Warden \nMetronnlann fonretinml Censer \nSENT VIA \nEMAIL \nThe Honorable Colleen McMahon, Chief Judge \nThe Honorable Richard M. Berman, \nDistrict Judge \nDaniel Patrick \nMoynihan United \nStates Courthouse \nRe: \nEPSTEIN, Jeffrey, Federal Register No. 76318-054 \nUnited States v. Jeffrey Enstein, 19-cr-00490-RMB \nDear Chief Judge McMahon and Judge Berman: \nI am writing to notify the Court of the death \nof Jeffrey Epstein, who passed away Saturday, \nAugust 10, 2019, at \naround 7:37 a.m. \nMr. Epstein had been found unresponsive in his cell in the Special \nHousing Unit at around \n6:30 am from an apparent suicide at the Metropolitan Correctional Center (MCC) in New \nYork, New York. Responding staff immediately initiated life-saving measures and \nrequested emergency medical services (EMS), by whom \nMr. Epstein was transported to a \nlocal hospital for \ntreatment of life-threatening injuries. Mr. Epstein was \npronounced dead at \nthe New York Presbyterian-Lower Manhattan Hospital in New York, New York. \nAt this time, there \nare no preliminary \nreports \nidentifying the \nexact cause of \ndeath. An \nautopsy is pending, and we expect to have more information as to the cause of death from the \nmedical examiner in the near future. The Federal Bureau of \nInvestigation (FBI) is actively \ninvestigating the incident. In addition to the FBI's investigation, \nthe Attorney General has \nrequested that the Department of Justice Office of \nthe Inspector General look into the matter \nas well. \nEFTA00011510\n\nMCC New York will \nprovide an update to the Court as soon as the autopsy is completed and \nthe official cause of death is determined.  If you have any questions or concerns, please feel \nfree to call me at     Thank you for your time and attention to this matter. \nSincerely.\nWarden \nMCC New York \ncc: \nEFTA00011511",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "I am writing to notify the Court of the death \nof Jeffrey Epstein, who passed away Saturday, \nAugust 10, 2019, at"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": ", 2019, at \naround 7:37 a.m. \nMr. Epstein had been found unresponsi"
+      },
+      {
+        "name": "Justice \nFederal",
+        "role": "extracted",
+        "context": "10, 2019 \nU.S. Department of Justice \nFederal Bureau of Prisons \nOffice of"
+      },
+      {
+        "name": "Prisons \nOffice",
+        "role": "extracted",
+        "context": "of Justice \nFederal Bureau of Prisons \nOffice of the Warden \nMetronnlann fo"
+      },
+      {
+        "name": "Warden \nMetronnlann",
+        "role": "extracted",
+        "context": "eau of Prisons \nOffice of the Warden \nMetronnlann fonretinml Censer \nSENT VIA"
+      },
+      {
+        "name": "The Honorable",
+        "role": "extracted",
+        "context": "inml Censer \nSENT VIA \nEMAIL \nThe Honorable Colleen McMahon, Chief Judge"
+      },
+      {
+        "name": "Colleen Mc",
+        "role": "extracted",
+        "context": "ENT VIA \nEMAIL \nThe Honorable Colleen McMahon, Chief Judge \nThe Honora"
+      },
+      {
+        "name": "Chief Judge",
+        "role": "extracted",
+        "context": "he Honorable Colleen McMahon, Chief Judge \nThe Honorable Richard M. Ber"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "Honorable Richard M. Berman, \nDistrict Judge \nDaniel Patrick \nMoynihan Uni"
+      },
+      {
+        "name": "Daniel Patrick",
+        "role": "extracted",
+        "context": "d M. Berman, \nDistrict Judge \nDaniel Patrick \nMoynihan United \nStates Cour"
+      },
+      {
+        "name": "Moynihan United",
+        "role": "extracted",
+        "context": "strict Judge \nDaniel Patrick \nMoynihan United \nStates Courthouse \nRe: \nEPST"
+      },
+      {
+        "name": "States Courthouse",
+        "role": "extracted",
+        "context": "iel Patrick \nMoynihan United \nStates Courthouse \nRe: \nEPSTEIN, Jeffrey, Feder"
+      },
+      {
+        "name": "Federal Register",
+        "role": "extracted",
+        "context": "house \nRe: \nEPSTEIN, Jeffrey, Federal Register No. 76318-054 \nUnited States"
+      },
+      {
+        "name": "Jeffrey Enstein",
+        "role": "extracted",
+        "context": ". 76318-054 \nUnited States v. Jeffrey Enstein, 19-cr-00490-RMB \nDear Chief"
+      },
+      {
+        "name": "Dear Chief",
+        "role": "extracted",
+        "context": "rey Enstein, 19-cr-00490-RMB \nDear Chief Judge McMahon and Judge Berma"
+      },
+      {
+        "name": "Judge Mc",
+        "role": "extracted",
+        "context": ", 19-cr-00490-RMB \nDear Chief Judge McMahon and Judge Berman: \nI am"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "Dear Chief Judge McMahon and Judge Berman: \nI am writing to notify the"
+      },
+      {
+        "name": "Special \nHousing",
+        "role": "extracted",
+        "context": "responsive in his cell in the Special \nHousing Unit at around \n6:30 am from"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "om an apparent suicide at the Metropolitan Correctional Center (MCC) in New \nYork, Ne"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "Correctional Center (MCC) in New \nYork, New York. Responding staff i"
+      },
+      {
+        "name": "Lower Manhattan",
+        "role": "extracted",
+        "context": "at \nthe New York Presbyterian-Lower Manhattan Hospital in New York, New Yor"
+      },
+      {
+        "name": "The Federal",
+        "role": "extracted",
+        "context": "examiner in the near future. The Federal Bureau of \nInvestigation (FBI"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "the FBI's investigation, \nthe Attorney General has \nrequested that the Depar"
+      },
+      {
+        "name": "Justice Office",
+        "role": "extracted",
+        "context": "uested that the Department of Justice Office of \nthe Inspector General loo"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice Office of \nthe Inspector General look into the matter \nas well"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.793Z"
+}

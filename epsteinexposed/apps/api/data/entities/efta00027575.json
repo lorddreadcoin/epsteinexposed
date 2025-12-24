@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00027575",
+    "filename": "EFTA00027575.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027575.pdf",
+    "text": "\n\nFrom: SAS Auto-messages CAS-AUTONOTIFY®usdoj.gov> \nTo: cl \nSubject: \nSAS: Request 21000415 routed to Intake \nDate: Fri, 24 Sep 2021 17:54:00 +0000 \nOEO Special Approvals System - Status Message \nThis email serves as confirmation that your Witness Immunity request has been submitted with the following \ninformation: \nRequest ID: 21000415 \nRequest Type: Witness Immunit \nSubject: \nSubmitted By: \nDistrict: NYS \nEFTA00027575",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "S: Request 21000415 routed to Intake \nDate: Fri, 24 Sep 2021 17:54:00 +0"
+      },
+      {
+        "name": "Special Approvals",
+        "role": "extracted",
+        "context": "Sep 2021 17:54:00 +0000 \nOEO Special Approvals System - Status Message \nThis"
+      },
+      {
+        "name": "Status Message",
+        "role": "extracted",
+        "context": "EO Special Approvals System - Status Message \nThis email serves as confirm"
+      },
+      {
+        "name": "Witness Immunity",
+        "role": "extracted",
+        "context": "ves as confirmation that your Witness Immunity request has been submitted wi"
+      },
+      {
+        "name": "Request Type",
+        "role": "extracted",
+        "context": "ation: \nRequest ID: 21000415 \nRequest Type: Witness Immunit \nSubject: \nS"
+      },
+      {
+        "name": "Witness Immunit",
+        "role": "extracted",
+        "context": "t ID: 21000415 \nRequest Type: Witness Immunit \nSubject: \nSubmitted By: \nDis"
+      },
+      {
+        "name": "Submitted By",
+        "role": "extracted",
+        "context": "e: Witness Immunit \nSubject: \nSubmitted By: \nDistrict: NYS \nEFTA00027575"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.567Z"
+}

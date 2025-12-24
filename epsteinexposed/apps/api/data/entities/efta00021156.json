@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00021156",
+    "filename": "EFTA00021156.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021156.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Voucher for Trip 10777198 is late \nDate: Tue, 12 Nov 2019 05:02:37 +0000 \nImportance: Normal \nDear \nYour travel voucher for the trip below is now late based on your customer settings. Please submit your voucher \nfor this trip and mark it as Final if you have no additional expenses to claim. \nTrip ID: \n10777198 \nTraveler name: \nDestination: West Palm Beach \nPurpose: R20NYS13144 - Epstein investigation - Witness Interviews \nTrip Dates: 2019-11-04 - 2019-11-05 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from \nus. \nReference ID# V0013 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00021156",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "9 05:02:37 +0000 \nImportance: Normal \nDear \nYour travel voucher for the"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "Traveler name: \nDestination: West Palm Beach \nPurpose: R20NYS13144 -"
+      },
+      {
+        "name": "Beach \nPurpose",
+        "role": "extracted",
+        "context": "name: \nDestination: West Palm Beach \nPurpose: R20NYS13144 - Epstein invest"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "144 - Epstein investigation - Witness Interviews \nTrip Dates: 2019-11-04 - 201"
+      },
+      {
+        "name": "Trip Dates",
+        "role": "extracted",
+        "context": "igation - Witness Interviews \nTrip Dates: 2019-11-04 - 2019-11-05 \nCur"
+      },
+      {
+        "name": "Authorization Approved",
+        "role": "extracted",
+        "context": "- 2019-11-05 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (wit"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "s: Authorization Approved \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "tion Approved \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-04",
+        "event": "2019-11-04"
+      },
+      {
+        "date": "2019-11-05",
+        "event": "2019-11-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.100Z"
+}

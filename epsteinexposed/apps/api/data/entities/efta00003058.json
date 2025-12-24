@@ -1,0 +1,108 @@
+{
+  "document": {
+    "id": "efta00003058",
+    "filename": "EFTA00003058.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003058.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas. \nVI \n00802 \nTel: \n340-775-8100 \nFax: \n340-775-8108 \nDate: \n03/16/1B \nEmployee \nName: \nJustina \nde \nIs \nCruz \nEmergency \nContact \nForm \nStart \nDate: \nAddress: \nDate \nof \nBirth: \nPhone: \nCad \nE\n-Mail: \nTitle \n/ \nPosition: \nHousekeeper \nMarital \nStatus: \nMarred \nLicense: \nnergency \nInformation: \nv. \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's \nName: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact: \nName \nFeliz \nde \nla \nCruz \neaame \nBembenido \nGedeno \nRelationship \nPhone: Phone: \nHusband \nPhone \nRelationship \nBrother \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003058",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas. \nVI \n00802"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "40-775-8108 \nDate: \n03/16/1B \nEmployee \nName: \nJustina \nde \nIs \nCruz \nEmer"
+      },
+      {
+        "name": "Is \nCruz",
+        "role": "extracted",
+        "context": "Employee \nName: \nJustina \nde \nIs \nCruz \nEmergency \nContact \nForm \nSt"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "Name: \nJustina \nde \nIs \nCruz \nEmergency \nContact \nForm \nStart \nDate: \nAddress:"
+      },
+      {
+        "name": "Form \nStart",
+        "role": "extracted",
+        "context": "Is \nCruz \nEmergency \nContact \nForm \nStart \nDate: \nAddress: \nDate \nof \nB"
+      },
+      {
+        "name": "Housekeeper \nMarital",
+        "role": "extracted",
+        "context": "-Mail: \nTitle \n/ \nPosition: \nHousekeeper \nMarital \nStatus: \nMarred \nLicense: \nn"
+      },
+      {
+        "name": "Marred \nLicense",
+        "role": "extracted",
+        "context": "ousekeeper \nMarital \nStatus: \nMarred \nLicense: \nnergency \nInformation: \nv."
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "ormation: \nv. \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedi"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's"
+      },
+      {
+        "name": "Name \nFeliz",
+        "role": "extracted",
+        "context": "Emergency, \nPlease \ncontact: \nName \nFeliz \nde \nla \nCruz \neaame \nBembeni"
+      },
+      {
+        "name": "Bembenido \nGedeno",
+        "role": "extracted",
+        "context": "Feliz \nde \nla \nCruz \neaame \nBembenido \nGedeno \nRelationship \nPhone: Phone:"
+      },
+      {
+        "name": "Relationship \nPhone",
+        "role": "extracted",
+        "context": "uz \neaame \nBembenido \nGedeno \nRelationship \nPhone: Phone: \nHusband \nPhone \nRela"
+      },
+      {
+        "name": "Husband \nPhone",
+        "role": "extracted",
+        "context": "Relationship \nPhone: Phone: \nHusband \nPhone \nRelationship \nBrother \nPhone"
+      },
+      {
+        "name": "Relationship \nBrother",
+        "role": "extracted",
+        "context": "hone: Phone: \nHusband \nPhone \nRelationship \nBrother \nPhone \nThis \nInformation \nis"
+      },
+      {
+        "name": "Phone \nThis",
+        "role": "extracted",
+        "context": "Phone \nRelationship \nBrother \nPhone \nThis \nInformation \nis \nfor \nyour"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "340-775-8100",
+      "340-775-8108"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.625Z"
+}

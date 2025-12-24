@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030909",
+    "filename": "EFTA00030909.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030909.pdf",
+    "text": "\n\nFrom: \nSubject: FW: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:30:58 +0000 \nAttachments: OPR-_458587-v1-Epstein_Report_transmittal_to_SDNYiletter signed).PDF; OPR-\n458557-v1-Epstein_Report_of Investigation_and_Exhibits_pclIPDF \nFrom: \nSent: Thursday, November 12, 2020 11:00 AM \nTo: \nCc: \nSubject: FW: OPR Epstein Final Report \nFrom: \nSent: Thursday, November 12, 2020 10:07 AM \nTo: \nSubject: OPR Epstein Final Report \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00030909",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "t \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00030909"
+      },
+      {
+        "name": "Epstein Final",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: OPR Epstein Final Report \nDate: Fri, 29 Jan 202"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "ubject: FW: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:30:58 +0"
+      },
+      {
+        "name": "Report \nFrom",
+        "role": "extracted",
+        "context": "ubject: FW: OPR Epstein Final Report \nFrom: \nSent: Thursday, November 12"
+      },
+      {
+        "name": "Report \nAttached",
+        "role": "extracted",
+        "context": ": \nSubject: OPR Epstein Final Report \nAttached please find OPR's final Repor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-12",
+        "event": "November 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.990Z"
+}

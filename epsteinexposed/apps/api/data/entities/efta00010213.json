@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00010213",
+    "filename": "EFTA00010213.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010213.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Maxwell trial fact witness travel - \nDate: Fri, 12 Nov 2021 23:14:05 +0000 \nAttachments - Fact Witness Travel_Request_(trial).docx \nHis \nAttached please find a fact witness travel request for another witness in the Maxwell trial— I expect he'll \ntestify on 12/8, but he could possible bleed over into 12/9. I need to prep with him on 12/7, an e s not vaccinated, so \nwe'll need to get him a COVID test before he can testify. Given that plan, I'd like to have him fly in the evening of 12/6 and \nout on the evening of 12/9. \nIt is very important that _not run into or any of their family. is ex, and they do \nnot know that is coming up to NY to testi . So wou you please make sure tha stays at a hotel that is far \naway from anywhere you might put and their kids? \nThanks so much, \nEFTA00010213",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "23:14:05 +0000 \nAttachments - Fact Witness Travel_Request_(trial).docx"
+      },
+      {
+        "name": "His \nAttached",
+        "role": "extracted",
+        "context": "Travel_Request_(trial).docx \nHis \nAttached please find a fact witness tr"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.513Z"
+}

@@ -1,0 +1,91 @@
+{
+  "document": {
+    "id": "efta00027954",
+    "filename": "EFTA00027954.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027954.pdf",
+    "text": "\n\nFrom: Bruce Barket <bbarket®barketepstein.com> \nTo:\n„\nCc: \nSubject: Re: \n==disclosure letter \nDate: Tue, 15 May 2018 16:06:46 +0000 \nThanks \nBruce A. Barket \nBarket, Epstein & Kearon, LLP \n666 Old Country Road \nGarden City, NY 11530 \n(516) 745-1500 \nwww.BarketEpstcin.com \nOn May 15, 2018, at 11:48 AM, \nCounsel, \n< \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10003 \n212-637-2324 \n<2018.05.15 disclosure letter to==pdf,\n> wrote: \nEFTA00027954",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bruce Barket",
+        "role": "extracted",
+        "context": "From: Bruce Barket <bbarket®barketepstein.com>"
+      },
+      {
+        "name": "Thanks \nBruce",
+        "role": "extracted",
+        "context": ", 15 May 2018 16:06:46 +0000 \nThanks \nBruce A. Barket \nBarket, Epstein &"
+      },
+      {
+        "name": "Barket \nBarket",
+        "role": "extracted",
+        "context": "06:46 +0000 \nThanks \nBruce A. Barket \nBarket, Epstein & Kearon, LLP \n666 O"
+      },
+      {
+        "name": "Old Country",
+        "role": "extracted",
+        "context": "t, Epstein & Kearon, LLP \n666 Old Country Road \nGarden City, NY 11530"
+      },
+      {
+        "name": "Road \nGarden",
+        "role": "extracted",
+        "context": "Kearon, LLP \n666 Old Country Road \nGarden City, NY 11530 \n(516) 745-150"
+      },
+      {
+        "name": "On May",
+        "role": "extracted",
+        "context": "-1500 \nwww.BarketEpstcin.com \nOn May 15, 2018, at 11:48 AM, \nCouns"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "1:48 AM, \nCounsel, \n< \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": ", \n< \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10003 \n212-637-2324"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Garden City, NY",
+        "type": "city"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-05-15",
+        "event": "May 15, 2018"
+      },
+      {
+        "date": "2018-05-15",
+        "event": "15 May 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-637-2324",
+      "(516) 745-1500"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.334Z"
+}

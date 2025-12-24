@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00021771",
+    "filename": "EFTA00021771.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021771.pdf",
+    "text": "\n\nFrom: \" \nTo:' , ' \nCc \n> \nSubject: RE: Epstein Returns \nDate: Thu, 23 Apr 2020 17:41:30 +0000 \nThanks, MI. My last day at SONY is this Friday, so you can coordinate with (Cc'cl), who is taking over my \nrole on the case. Thanks! \nFrom: \nSent: Monday, April 20, 2020 7:53 AM \nTo: \nCc: \nSubject: Re: Epstein Returns \nI am not allowed to attached a hard drive to the computer system which holds the financial productions. \nLet me discuss with the special agent and get back to you. \nBest \nFrom: Hamilton, ) [Contractor] \nSent: Sunday, April 19, 2020 8:05 PM \nTo: \nSubject: Epstein Returns \nHim \nHope you're doing well! Would it be possible to get a hard drive of all of the returns you've received for the \nEpstein case? I know you've given me them on discs, but we were hoping to get them all on one drive to make \nsure we have a complete set in one place. \nNot sure if you're in the office, but I will be this week. No worries if you need some time to get it to us. We can \nalso get you a hard drive if necessary. \nThanks, \nParalegal Specialist \nEFTA00021771\n\nUnited \nStates Attorney's Office \nSouthern District \nof New York \nOffice: \nCell: \nEFTA00021772",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Returns",
+        "role": "extracted",
+        "context": "To:' , ' \nCc \n> \nSubject: RE: Epstein Returns \nDate: Thu, 23 Apr 2020 17:41"
+      },
+      {
+        "name": "Best \nFrom",
+        "role": "extracted",
+        "context": "l agent and get back to you. \nBest \nFrom: Hamilton, ) [Contractor] \nSe"
+      },
+      {
+        "name": "Him \nHope",
+        "role": "extracted",
+        "context": "o: \nSubject: Epstein Returns \nHim \nHope you're doing well! Would it b"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "drive if necessary. \nThanks, \nParalegal Specialist \nEFTA00021771\n\nUnited \nStates"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "gal Specialist \nEFTA00021771\n\nUnited \nStates Attorney's Office \nSouthern D"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "71\n\nUnited \nStates Attorney's Office \nSouthern District \nof New York \nOffice"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thanks, MI",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-04-20",
+        "event": "April 20, 2020"
+      },
+      {
+        "date": "2020-04-19",
+        "event": "April 19, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.372Z"
+}

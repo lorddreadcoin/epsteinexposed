@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00025376",
+    "filename": "EFTA00025376.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025376.pdf",
+    "text": "\n\nFrom: \")\" \n`'IMIIM> \nTo: \"Hudgens, Johanna Rae\" <=IMI> \nSubject: Accepted: SDNY Grand Jury Subpoena Dated July 5, 2019 \nissued to \nDate: Wed, 06 Nov 2019 18:13:35 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00025376",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Johanna Rae",
+        "role": "extracted",
+        "context": "\")\" \n`'IMIIM> \nTo: \"Hudgens, Johanna Rae\" <=IMI> \nSubject: Accepted: S"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "IMI> \nSubject: Accepted: SDNY Grand Jury Subpoena Dated July 5, 2019"
+      },
+      {
+        "name": "Subpoena Dated",
+        "role": "extracted",
+        "context": "ct: Accepted: SDNY Grand Jury Subpoena Dated July 5, 2019 \nissued to \nDate"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:13:35 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00025376"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-05",
+        "event": "July 5, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.036Z"
+}

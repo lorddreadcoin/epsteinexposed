@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030187",
+    "filename": "EFTA00030187.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030187.pdf",
+    "text": "\n\nFrom: \nTo: Raymond L Colon \nSubject: RE: Congratulations \nDate: Tue, 09 Jul 2019 16:55:19 +0000 \nImportance: Normal \nThank you -- I appreciate it. \n Original Message \nFrom: Raymond L Colon \nSent: Monda Jul 08, 201/11.M\nTo: \nSubject: Congratulations \nJob \nwell done. Congratulations on the Epstein case. \nSent from my iPhone \nEFTA00030187",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Colon \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: Raymond L Colon \nSubject: RE: Congratulations \nDate: T"
+      },
+      {
+        "name": "Congratulations \nDate",
+        "role": "extracted",
+        "context": "Raymond L Colon \nSubject: RE: Congratulations \nDate: Tue, 09 Jul 2019 16:55:19 +0"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "9 16:55:19 +0000 \nImportance: Normal \nThank you -- I appreciate it. \n Ori"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ank you -- I appreciate it. \n Original Message \nFrom: Raymond L Colon \nSent:"
+      },
+      {
+        "name": "Colon \nSent",
+        "role": "extracted",
+        "context": "inal Message \nFrom: Raymond L Colon \nSent: Monda Jul 08, 201/11.M\nTo:"
+      },
+      {
+        "name": "Monda Jul",
+        "role": "extracted",
+        "context": "From: Raymond L Colon \nSent: Monda Jul 08, 201/11.M\nTo: \nSubject: Co"
+      },
+      {
+        "name": "Congratulations \nJob",
+        "role": "extracted",
+        "context": "ul 08, 201/11.M\nTo: \nSubject: Congratulations \nJob \nwell done. Congratulations o"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.219Z"
+}

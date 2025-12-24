@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00021169",
+    "filename": "EFTA00021169.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021169.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: GhislaineDMarrestcoverage.pdf \nDate: Fri, 03 Jul 2020 12:57:07 +0000 \nAttachments: GhislaineDMarrestcoverage.pdf; ATT00001.txt \nOur NY-based Daily Mail reporter sent us this pdf of the print edition coverage of the Maxwell arrest and press \nconference. It's awfully big \"across the pond.\" \nEFTA00021169",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Daily Mail",
+        "role": "extracted",
+        "context": "f; ATT00001.txt \nOur NY-based Daily Mail reporter sent us this pdf of"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.125Z"
+}

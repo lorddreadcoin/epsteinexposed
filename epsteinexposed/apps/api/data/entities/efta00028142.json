@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00028142",
+    "filename": "EFTA00028142.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028142.pdf",
+    "text": "\n\nFrom: (USANYS)\"\nTo: \" (USANYS)\"\nSubject: Re: Epstein FOIA Atty Visit Logs and Count Slips \nDate: Sat, 09 Jan 2021 17:30:00 +0000 \nHa! Thanks for thinking of me. \nOn Jan \n9, 2021, at 12:21 PM, \nknew you wouldn't want to be left out.... \nFrom: \nI=M, \n(USANYS) \nSent: Saturday, January 09, 2021 9:13 AM \nTo: (USANYS) \nCc: (USANYS) \nSubject: Epstein FOIA Atty Visit Logs and Count Slips \n(USANYS) > wrote: \nHi \n• \nDefense counsel in Tartaglione has requested to see the attorney visit logs and count slips that have Tartaglione's name \non them. Those documents may be covered by the attached protective order, and so we have asked \nwho is firewall counsel in Tartaglione, to receive the documents from you for potential production to defense counsel \n(so that and I do not see them). is going to review the protective order first and determine whether \nshe needs Judge Karas to modify the order to allow her to receive the documents, so please don't send them to \nuntil she reaches out. Thanks for helping with this —  we know it is a pain. \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSouthern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601 \nTel: \nCell: \n<127124560313.pdf> \nEFTA00028142",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Atty Visit",
+        "role": "extracted",
+        "context": "S)\"\nSubject: Re: Epstein FOIA Atty Visit Logs and Count Slips \nDate: S"
+      },
+      {
+        "name": "Count Slips",
+        "role": "extracted",
+        "context": "tein FOIA Atty Visit Logs and Count Slips \nDate: Sat, 09 Jan 2021 17:30"
+      },
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "! Thanks for thinking of me. \nOn Jan \n9, 2021, at 12:21 PM, \nknew"
+      },
+      {
+        "name": "Judge Karas",
+        "role": "extracted",
+        "context": "determine whether \nshe needs Judge Karas to modify the order to allow"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "his —  we know it is a pain. \nDeputy Chief, White Plains Division \nUnite"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "it is a pain. \nDeputy Chief, White Plains Division \nUnited States Attor"
+      },
+      {
+        "name": "Division \nUnited",
+        "role": "extracted",
+        "context": ". \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "White Plains Division \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ion \nUnited States Attorney's Office \nSouthern District of New York \n300 Qua"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "ern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-09",
+        "event": "January 09, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.710Z"
+}

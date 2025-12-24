@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00024436",
+    "filename": "EFTA00024436.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024436.pdf",
+    "text": "\n\nFrom: \nI \nTo:J \nSubject: RE: Epstein estate \nDate: Wed, 08 Jul 2020 14:46:17 +0000 \nI'll be free then and can join. \nFrom: \nSent: Wednesday, July 8, 2020 10:46 AM \nTo: \nSubject: FW: Epstein estate \nThis works for me, and the more the merrier but also happy to handle if that's useful. \nFrom:\nSent: Wednesday, July 08, 2020 10:44 \nTo: \nCc: \nSubject: Epstein estate \nWould you have time for a relatively quick call today around 1:00? \nThanks, \nPartner \nChair, Yenta Collar Defense \nHughes Hubbard & Reed LLP \nNew York, NY 10004-1482 \nOffice Cel I  Fax \nThis message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not \ndisseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-\nmail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, \ndestroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this \nmessage, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. \nEFTA00024436",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Partner \nChair",
+        "role": "extracted",
+        "context": "today around 1:00? \nThanks, \nPartner \nChair, Yenta Collar Defense \nHughes"
+      },
+      {
+        "name": "Yenta Collar",
+        "role": "extracted",
+        "context": "00? \nThanks, \nPartner \nChair, Yenta Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "Partner \nChair, Yenta Collar Defense \nHughes Hubbard & Reed LLP \nNew York,"
+      },
+      {
+        "name": "Office Cel",
+        "role": "extracted",
+        "context": "LLP \nNew York, NY 10004-1482 \nOffice Cel I  Fax \nThis message contains"
+      },
+      {
+        "name": "Fax \nThis",
+        "role": "extracted",
+        "context": "NY 10004-1482 \nOffice Cel I  Fax \nThis message contains confidential"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-08",
+        "event": "July 8, 2020"
+      },
+      {
+        "date": "2020-07-08",
+        "event": "July 08, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.146Z"
+}

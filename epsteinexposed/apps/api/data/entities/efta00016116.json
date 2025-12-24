@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016116",
+    "filename": "EFTA00016116.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016116.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n, \" \nSubject: Jeffrey Epstein Estate Must Share Private Videos Recorded At His Properties \nDate: Fri, 18 Dec 2020 02:21:10 +0000 \nFWIW \nhftps://olcmagazine.com/exclusives/jeffrey-epstein-video-recordings-darren-indyke/ \nSent from my iPhone \nEFTA00016116",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \n, \" \nSubject: Jeffrey Epstein Estate Must Share Private Videos Recorded At His"
+      },
+      {
+        "name": "Estate Must",
+        "role": "extracted",
+        "context": ", \" \nSubject: Jeffrey Epstein Estate Must Share Private Videos Recorded"
+      },
+      {
+        "name": "Share Private",
+        "role": "extracted",
+        "context": ": Jeffrey Epstein Estate Must Share Private Videos Recorded At His Proper"
+      },
+      {
+        "name": "Videos Recorded",
+        "role": "extracted",
+        "context": "ein Estate Must Share Private Videos Recorded At His Properties \nDate: Fri,"
+      },
+      {
+        "name": "At His",
+        "role": "extracted",
+        "context": "Share Private Videos Recorded At His Properties \nDate: Fri, 18 Dec"
+      },
+      {
+        "name": "Properties \nDate",
+        "role": "extracted",
+        "context": "rivate Videos Recorded At His Properties \nDate: Fri, 18 Dec 2020 02:21:10 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.025Z"
+}

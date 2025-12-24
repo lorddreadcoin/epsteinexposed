@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00016495",
+    "filename": "EFTA00016495.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016495.pdf",
+    "text": "\n\nFrom:  )\" < \nTo:  )\" < \nSubject: RE: Q&A \nDate: Sat, 27 Nov 2021 17:38:41 +0000 \nAttachments Direct_Examination_v4.doex \nHere's the current draft. Still pretty rough unfortunately. Would really appreciate any line edits — in particular, any \nsuggestions about keeping this bounded in time would be really helpful. Thanks. \nFrom: \nSent: Friday, November 26, 2021 8:13 PM \nTo: \nsc> \nSubject: Re: Q&A \nYes \nSent from my iPhone \nOn Nov 26, 2021, at 16:47, ) <> wrote: \nIf I send you the Q&A late tonight/early tomorrow morning, do you think you could review and send me any comments \nyou might have before she arrives on Saturday night? \nThanks so much for all your help. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016495",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attachments Direct",
+        "role": "extracted",
+        "context": ", 27 Nov 2021 17:38:41 +0000 \nAttachments Direct_Examination_v4.doex \nHere's t"
+      },
+      {
+        "name": "Yes \nSent",
+        "role": "extracted",
+        "context": "To: \nsc> \nSubject: Re: Q&A \nYes \nSent from my iPhone \nOn Nov 26, 20"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": ": Re: Q&A \nYes \nSent from my iPhone \nOn Nov 26, 2021, at 16:47, ) <>"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "s so much for all your help. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "your help. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016495"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-26",
+        "event": "November 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.791Z"
+}

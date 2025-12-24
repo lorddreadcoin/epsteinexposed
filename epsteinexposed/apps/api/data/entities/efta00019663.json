@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00019663",
+    "filename": "EFTA00019663.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019663.pdf",
+    "text": "\n\nFrom: \"postmaster®usdoj.gov\" \n<postmaster@usdoj.gov> \nTo: cila> \nSubject: Notice of Message Failure; Encryption Required \nDate: Fri, 16 Aug 2019 17:13:46 +0000 \nIn accordance with the Department Memorandum \"Safeguarding Personally Identifiable Information\", dated \nApril 16, 2015, the preceding message has been identified as containing possible sensitive Personally \nIdentifiable Information (PII) and cannot be delivered unless properly encrypted. \nWhen electronically sending PII to external users outside of Department email systems, the communication \nshould be encrypted and transmitted to recipients only for a legally authorized purpose. In addition, PII should \nnot be sent to or from personal email addresses at any time (e.g., Gmail, Hotmail, Comcast, Yahoo). \nTo compose a secure message open Microsoft Outlook email application and compose the message as normal. \nWhen ready to send - select the \"Send Securely\" button. Alternately, if you are using another email client (OWA, \niOS, \nBlackberry etc.) enter the word [encrypt] into the Subject field of the message. Include the square brackets \nfollowed by any other pertinent Subject information, and send the message as you normally would. The \nProofpoint email encryption service will detect and encrypt the message prior to delivery. The external recipient \nwill be notified via email, how to retrieve the encrypted message. \nIf you did not intend to send NI within the message, please check the message contents and resend the message \nwithout the PII. \nMessage \nDetails: \nFrom: \nTo: \nDate : 2019-08-16 17:13:46 GMT \nSubject: RE: Subpoenas Re \nFor any questions, please contact your local IT Helpdesk. \nEFTA00019663",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Message Failure",
+        "role": "extracted",
+        "context": "To: cila> \nSubject: Notice of Message Failure; Encryption Required \nDate: F"
+      },
+      {
+        "name": "Encryption Required",
+        "role": "extracted",
+        "context": "t: Notice of Message Failure; Encryption Required \nDate: Fri, 16 Aug 2019 17:13"
+      },
+      {
+        "name": "Department Memorandum",
+        "role": "extracted",
+        "context": "+0000 \nIn accordance with the Department Memorandum \"Safeguarding Personally Iden"
+      },
+      {
+        "name": "Safeguarding Personally",
+        "role": "extracted",
+        "context": "th the Department Memorandum \"Safeguarding Personally Identifiable Information\", da"
+      },
+      {
+        "name": "Identifiable Information",
+        "role": "extracted",
+        "context": "ndum \"Safeguarding Personally Identifiable Information\", dated \nApril 16, 2015, the"
+      },
+      {
+        "name": "Personally \nIdentifiable",
+        "role": "extracted",
+        "context": "containing possible sensitive Personally \nIdentifiable Information (PII) and cannot"
+      },
+      {
+        "name": "Microsoft Outlook",
+        "role": "extracted",
+        "context": "compose a secure message open Microsoft Outlook email application and compose"
+      },
+      {
+        "name": "Send Securely",
+        "role": "extracted",
+        "context": "n ready to send - select the \"Send Securely\" button. Alternately, if you"
+      },
+      {
+        "name": "The \nProofpoint",
+        "role": "extracted",
+        "context": "essage as you normally would. The \nProofpoint email encryption service will"
+      },
+      {
+        "name": "Message \nDetails",
+        "role": "extracted",
+        "context": "he message \nwithout the PII. \nMessage \nDetails: \nFrom: \nTo: \nDate : 2019-08-"
+      },
+      {
+        "name": "Subpoenas Re",
+        "role": "extracted",
+        "context": "16 17:13:46 GMT \nSubject: RE: Subpoenas Re \nFor any questions, please co"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-16",
+        "event": "2019-08-16"
+      },
+      {
+        "date": "2015-04-16",
+        "event": "April 16, 2015"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.351Z"
+}

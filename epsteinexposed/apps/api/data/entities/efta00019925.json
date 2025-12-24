@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019925",
+    "filename": "EFTA00019925.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019925.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Efrain Reyes \nDate: Mon, 30 Nov 2020 15:25:10 +0000 \nSorry to hear that. You're correct that we didn't need his testimony. \nFrom: \nSent: Monday, November 30, 2020 9:51 AM \nTo \nSubject: Efrain Reyes \nust learned from Probation that Efrain Reyes died. It sounds like it was in his sleep. Given his history, I \nthink it may have been drug related, but perhaps not. Either way, my recollection is that you didn't expect to need him for \nanything Epstein/MCC-related, but just want to keep you in the loop in case my memory is wrong. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00019925",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Efrain Reyes",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Efrain Reyes \nDate: Mon, 30 Nov 2020 15:25"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "y, November 30, 2020 9:51 AM \nTo \nSubject: Efrain Reyes \nust learned fr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "in case my memory is wrong. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y is wrong. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00019925"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-30",
+        "event": "November 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.871Z"
+}

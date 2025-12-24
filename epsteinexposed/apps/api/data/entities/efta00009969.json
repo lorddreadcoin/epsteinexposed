@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00009969",
+    "filename": "EFTA00009969.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009969.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Epstein Related \nDate: Sun, 15 Sep 2019 13:15:25 +0000 \nLet's chat tomorrow! I'm generally around and will look for you. \nSent from my iPhone \nOn Sep 14, 2019, at 7:09 PM, wrote: \nHey I stopped by your office a  couple times Thursday and Friday but didn't catch you, sorry about that -- I'm happy to \nchat on Monday if you're around. My guess is that some combination of the press office and brass would make the call, \nbut I'm totally happy to touch base with you if that's useful in the first instance. \nFrom \nSent: nursaay, \nSeptember \nzu.t \nTo: \nSubject: Epstein Related \nDo you have a few minutes today or tomorrow to discuss something? Specifically, a good friend of mine is the executive \nproducer on a 4-part Netflix series that will come out in a few months on Epstein (they had been working on the story \nfor 18 months before we charged). He had spoken to at one point (not sure how that worked!) and wants \nto see if anyone from the office would give an interview, all backward looking. I imagine the answer is no but they are \ngoing with this regardless, so thought I would at least make you and potentially chiefs aware of it. Wanted to start with \nyou. I'm free between now and noon or after 6pm tonight, or tomorrow morning or after lunch. Thanks! \nEFTA00009969",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Related",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Re: Epstein Related \nDate: Sun, 15 Sep 2019 13:15"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "look for you. \nSent from my iPhone \nOn Sep 14, 2019, at 7:09 PM, wro"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "seful in the first instance. \nFrom \nSent: nursaay, \nSeptember \nzu.t \nT"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.023Z"
+}

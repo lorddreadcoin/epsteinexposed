@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027559",
+    "filename": "EFTA00027559.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027559.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: RE: article \nDate: Thu, 10 Dec 2020 16:59:25 +0000 \nAttachments: article.pdf \nYou can try right-clicking on the link, copying hyperlink, and opening it in google chrome as well. \nFrom: \nSent: Thursday, December 10, 2020 11:40 AM \nTo: \nSubject: FW: article \nPlease open and send me whole article; I am having hard time getting full article open \nFrom: (USANYS) \nSent: Thursday, December 10, 2020 10:48 AM \nTo: \nCc: Graff, Ilan (USANYS) < \nSubject: article \n> \nThis is the article I mentioned the other day describing comments by \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00027559",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "y \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-10",
+        "event": "December 10, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.533Z"
+}

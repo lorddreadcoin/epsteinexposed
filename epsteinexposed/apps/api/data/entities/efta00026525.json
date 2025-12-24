@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00026525",
+    "filename": "EFTA00026525.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026525.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' \nSubject: RE: zip is 03221 \nDate: Wed, 01 Jul 2020 21:40:35 +0000 \nOn 4/14/2016, three checks ($3,609,665.75, $9,031,636.31 and $1,561,387.91) totaling $14,202,689.97 were deposited \ninto the UBS account titled 116 East 65th Street LLC (Y123962). UBS documents reflect that Ghislaine Maxwell is the \nowner of that account. On 4/20/16, $14,194,596.46 was transferred from UBS 116 East 65th Street account to the UBS \naccount titled Ghislaine Maxwell (Y123575). \nIn November of 2016, the amount of $14,250,000 was transferred from Maxwell accounts to the Angara Trust account at \nUBS. \nFrom: \nSent: Wednesday, July 01, 2020 17:34 \nTo: \nCc: \nSubject: zip is 03221 \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00026525",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street LLC (Y123962). UBS documents reflect that Ghislaine Maxwell is the \nowner of that account. On 4/20/16, $14,19"
+      },
+      {
+        "name": "In November",
+        "role": "extracted",
+        "context": "Ghislaine Maxwell (Y123575). \nIn November of 2016, the amount of $14,25"
+      },
+      {
+        "name": "Angara Trust",
+        "role": "extracted",
+        "context": "from Maxwell accounts to the Angara Trust account at \nUBS. \nFrom: \nSent"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "zip is 03221 \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2016-04-14",
+        "event": "4/14/2016"
+      },
+      {
+        "date": "2020-07-01",
+        "event": "July 01, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.499Z"
+}

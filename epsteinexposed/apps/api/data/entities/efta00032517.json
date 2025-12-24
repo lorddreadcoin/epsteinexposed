@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00032517",
+    "filename": "EFTA00032517.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032517.pdf",
+    "text": "\n\nFroml  \nTo: -4 \nSubject: has invited new collaborators to 'Epstein Death' folder on Box... \nDate: \nFri, 10 Jan 2020 17:02:02 +0000 \nhas invited 1  collaborator(s) to 'Epstein Death' folder: \nEpstein Death \nCollaborators Invited: \na  2020 \nEpstein Death \nCollaborated Folder \nView \nFolder \nAbout Box • Privacy Policy •  Edit Notification Settings • 900 Jefferson Avenue, Redwood City. \nCA 9400:•. I  NA \nThis is an oflicial notification from the USAfx File Exchange system. \nEFTA00032517",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Froml  \nTo",
+        "role": "extracted",
+        "context": "Froml  \nTo: -4 \nSubject: has invited new"
+      },
+      {
+        "name": "Epstein Death",
+        "role": "extracted",
+        "context": "invited new collaborators to 'Epstein Death' folder on Box... \nDate: \nFri"
+      },
+      {
+        "name": "Collaborators Invited",
+        "role": "extracted",
+        "context": "eath' folder: \nEpstein Death \nCollaborators Invited: \na  2020 \nEpstein Death \nCol"
+      },
+      {
+        "name": "Collaborated Folder",
+        "role": "extracted",
+        "context": "ted: \na  2020 \nEpstein Death \nCollaborated Folder \nView \nFolder \nAbout Box • Pr"
+      },
+      {
+        "name": "View \nFolder",
+        "role": "extracted",
+        "context": "n Death \nCollaborated Folder \nView \nFolder \nAbout Box • Privacy Policy •"
+      },
+      {
+        "name": "About Box",
+        "role": "extracted",
+        "context": "borated Folder \nView \nFolder \nAbout Box • Privacy Policy •  Edit Noti"
+      },
+      {
+        "name": "Privacy Policy",
+        "role": "extracted",
+        "context": "er \nView \nFolder \nAbout Box • Privacy Policy •  Edit Notification Settings"
+      },
+      {
+        "name": "Edit Notification",
+        "role": "extracted",
+        "context": "About Box • Privacy Policy •  Edit Notification Settings • 900 Jefferson Aven"
+      },
+      {
+        "name": "Jefferson Avenue",
+        "role": "extracted",
+        "context": "t Notification Settings • 900 Jefferson Avenue, Redwood City. \nCA 9400:•. I"
+      },
+      {
+        "name": "Redwood City",
+        "role": "extracted",
+        "context": "tings • 900 Jefferson Avenue, Redwood City. \nCA 9400:•. I  NA \nThis is a"
+      },
+      {
+        "name": "Afx File",
+        "role": "extracted",
+        "context": "icial notification from the USAfx File Exchange system. \nEFTA0003251"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.834Z"
+}

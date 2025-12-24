@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019819",
+    "filename": "EFTA00019819.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019819.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \n)\" < \nC \n(USANYS) [Contractor]\"  \nSubject: FW: Interview notes (document management project) \nDate: \nAttachments: \nHey \nI'm not sure why we got sent these in this format, but could we ask you to please separate these dots out and save them \nin the relevant folders? They can go in folders here: \nPlease save each interview notes with the format: YYYY-MM-DD, [First name Last name], interview notes \nFor anyone we already have folders for, the notes can be added to the existing ones; for anybody who we don't yet have \nfolders, please create new subfolders in that overall one. \nAnd of course please let us know if any questions, issues, etc —  and thank you! \nFrom: \nSent: Thursday, August 15, 2019 17:27 \nTo: (NY) (FBI) <>; \n>; \nSubject: Re: Interview notes \nC \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom: \n(NY) (FBI) < \nSent: Thursday, August 15, 2019 4:25:26 PM \nTo: \nCc: \nSubject: Interview notes \nC \n>; \n>; \nEFTA00019819\n\nFBI New York \nVCACAIT \nC: \n0: \nEFTA00019820",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "es \nC \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-15",
+        "event": "August 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.641Z"
+}

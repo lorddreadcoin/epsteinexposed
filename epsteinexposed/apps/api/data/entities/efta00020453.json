@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020453",
+    "filename": "EFTA00020453.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020453.pdf",
+    "text": "\n\nBcc: \"USAHUB-USAJournal111\" \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Transmission of Notice of Appeal \nand Docket \nSheet to USCA \nDate: Tue, 12 Jan 2021 13:38:17 +0000 \nEmbedded: FWLActivity_in_Case_1:20-cr-00330-\nAIN_USA_v._Maxwell_Transmission_of Notice_of Appeal_and_Docket_Sheet_to_USCA.m \nsg \nSende \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Transmission of Notice of Appeal and \nDocket Sheet to USCA \nMessa e-Id: f80772c0cbd47f89762ec0002984d7d@CY1P110MB0198.NAMP110.PROD.OUTLOOK.COM> \nEFTA00020453",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Transmission",
+        "role": "extracted",
+        "context": "Case 1:20-cr-00330-AJN USA v. Maxwell Transmission of Notice of Appeal \nand Dock"
+      },
+      {
+        "name": "Docket \nSheet",
+        "role": "extracted",
+        "context": "sion of Notice of Appeal \nand Docket \nSheet to USCA \nDate: Tue, 12 Jan 20"
+      },
+      {
+        "name": "Sende \nSubject",
+        "role": "extracted",
+        "context": "d_Docket_Sheet_to_USCA.m \nsg \nSende \nSubject: FW: Activity in Case 1:20-cr"
+      },
+      {
+        "name": "Docket Sheet",
+        "role": "extracted",
+        "context": "sion of Notice of Appeal and \nDocket Sheet to USCA \nMessa e-Id: f80772c0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.887Z"
+}

@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00027968",
+    "filename": "EFTA00027968.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027968.pdf",
+    "text": "\n\n90A-NY-3151227 Serial 44 \nFD-1057 (Rcv. 5-8-I0) \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: (U) Items 1837, 1838 transfer to NY OCME Date: 08/19/2019 \nFrom: NEW YORK \nNY\n-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nSynopsis: (U) Items 1B37, 1B38 \ntransfer to NY OCME \nEnclosure(s): Enclosed are the \nfollowing items: \n1. (U) OCME \nEvidence Receipt \nDetails: \nOn \n08/12/2019, TFO NYPD Det. \nflopped off items 1B37 and \n1838 at the Office of the Chief Medical \nExaminer at approximately 11:56AM \nfor examination. An evidence \nreceipt is attached in a lA package. \n•• \nUNCLASSIFIED \nEFTA00027968",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ed By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nSynopsis: (U) Ite"
+      },
+      {
+        "name": "Electronic Communication",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: (U) Items 1837, 1838"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "NEW YORK \nNY\n-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227"
+      },
+      {
+        "name": "Evidence Receipt",
+        "role": "extracted",
+        "context": "ollowing items: \n1. (U) OCME \nEvidence Receipt \nDetails: \nOn \n08/12/2019, TF"
+      },
+      {
+        "name": "Chief Medical",
+        "role": "extracted",
+        "context": "nd \n1838 at the Office of the Chief Medical \nExaminer at approximately 11"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-19",
+        "event": "08/19/2019"
+      },
+      {
+        "date": "2019-08-12",
+        "event": "08/12/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.362Z"
+}

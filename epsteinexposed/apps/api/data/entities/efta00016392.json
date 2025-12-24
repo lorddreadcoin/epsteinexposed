@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016392",
+    "filename": "EFTA00016392.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016392.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Corrected Maxwell Arrest Warrant \nDate: Mon, 29 Jun 2020 18:06:09 +0000 \nAttachments: Maxwell Arrest_Warrant (corrected).pdf \nApologies—I just realized that the warrant I send you had the wrong year on the date. Attached please find a corrected \nversion with the correct date. Would it be possible for Judge Smith to please sign this version? I will delete all copies of \nthe version with the incorrect date. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nEFTA00016392",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Corrected Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Corrected Maxwell Arrest Warrant \nDate: Mon, 29"
+      },
+      {
+        "name": "Arrest Warrant",
+        "role": "extracted",
+        "context": ": \nSubject: Corrected Maxwell Arrest Warrant \nDate: Mon, 29 Jun 2020 18:06"
+      },
+      {
+        "name": "Maxwell Arrest",
+        "role": "extracted",
+        "context": "18:06:09 +0000 \nAttachments: Maxwell Arrest_Warrant (corrected).pdf \nApol"
+      },
+      {
+        "name": "Judge Smith",
+        "role": "extracted",
+        "context": "ate. Would it be possible for Judge Smith to please sign this version?"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "incorrect date. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.585Z"
+}

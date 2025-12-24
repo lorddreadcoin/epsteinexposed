@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00032025",
+    "filename": "EFTA00032025.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032025.pdf",
+    "text": "\n\nFrom: \nKathleen DuPont \nTo:\nCc: Tracy Uhrin < \nSubject: GHISLAINE MAXWELL Removal Hearing 20mj 132-01 \nDate: Thu, 02 Jul 2020 18:13:03 +0000 \nPlease note that in the District of New Hampshire, it is our practice to hide video and mute all \nparticipants in a video conference who will not be speaking. \nPlease do not start your video or unmute yourself unless you are called upon by the court to \nspeak. \nKathy DuPont, Deputy Clerk/Case Manager \nUS District Court for the District of NH \n55 Pleasant Street, Room 110 \nConcord, NH 03301 \nEFTA00032025",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Kathleen DuPont \nTo:\nCc: Tracy Uhrin < \nSubject: GHISLAINE MAXWELL Removal Hearing 20mj 132-01 \nDate: Thu, 02 Jul 20"
+      },
+      {
+        "name": "Kathleen Du",
+        "role": "extracted",
+        "context": "From: \nKathleen DuPont \nTo:\nCc: Tracy Uhrin < \nS"
+      },
+      {
+        "name": "Pont \nTo",
+        "role": "extracted",
+        "context": "From: \nKathleen DuPont \nTo:\nCc: Tracy Uhrin < \nSubject:"
+      },
+      {
+        "name": "Tracy Uhrin",
+        "role": "extracted",
+        "context": "om: \nKathleen DuPont \nTo:\nCc: Tracy Uhrin < \nSubject: GHISLAINE MAXWELL"
+      },
+      {
+        "name": "Removal Hearing",
+        "role": "extracted",
+        "context": "< \nSubject: GHISLAINE MAXWELL Removal Hearing 20mj 132-01 \nDate: Thu, 02 Ju"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "note that in the District of New Hampshire, it is our practice to hide v"
+      },
+      {
+        "name": "Kathy Du",
+        "role": "extracted",
+        "context": "upon by the court to \nspeak. \nKathy DuPont, Deputy Clerk/Case Manage"
+      },
+      {
+        "name": "Deputy Clerk",
+        "role": "extracted",
+        "context": "urt to \nspeak. \nKathy DuPont, Deputy Clerk/Case Manager \nUS District Cou"
+      },
+      {
+        "name": "Case Manager",
+        "role": "extracted",
+        "context": ". \nKathy DuPont, Deputy Clerk/Case Manager \nUS District Court for the Di"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "Deputy Clerk/Case Manager \nUS District Court for the District of NH \n55 Pl"
+      },
+      {
+        "name": "Pleasant Street",
+        "role": "extracted",
+        "context": "rt for the District of NH \n55 Pleasant Street, Room 110 \nConcord, NH 03301"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Concord, NH",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.455Z"
+}

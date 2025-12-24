@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00024221",
+    "filename": "EFTA00024221.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024221.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Moll() Building \nOctober 26, 2021 \nVIA CERTIFIED MAIL \nGhislaine Maxwell (Reg. No. 02879-509) \nMDC Brooklyn \nMetropolitan \nDetention Center \nRe: United States v. \nGhislaine \nMaxwell, 20 Cr. 330 \n(AJN) \nEnclosed are witness materials and discovery pertinent to the following inmate: \n• Ghislaine Maxwell: 02879-509 \nPlease allow her access to the materials enclosed. \nVery truly yours, \nDAMIAN WILLIAMS \nUnited States Attome \nAssistant United States Attorneys \nEnclosure \nEFTA00024221",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": ") Building \nOctober 26, 2021 \nVIA CERTIFIED MAIL \nGhislaine Maxwell (Reg. No. 02879-509) \nMDC Brooklyn \nMetropolitan"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mo"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio J. Moll() Building \nOctober 2"
+      },
+      {
+        "name": "Building \nOctober",
+        "role": "extracted",
+        "context": "ew York \nThe Silvio J. Moll() Building \nOctober 26, 2021 \nVIA CERTIFIED MAIL"
+      },
+      {
+        "name": "Brooklyn \nMetropolitan",
+        "role": "extracted",
+        "context": "ell (Reg. No. 02879-509) \nMDC Brooklyn \nMetropolitan \nDetention Center \nRe: United"
+      },
+      {
+        "name": "Detention Center",
+        "role": "extracted",
+        "context": "MDC Brooklyn \nMetropolitan \nDetention Center \nRe: United States v. \nGhisla"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "Center \nRe: United States v. \nGhislaine \nMaxwell, 20 Cr. 330 \n(AJN) \nEnclosed"
+      },
+      {
+        "name": "Attome \nAssistant",
+        "role": "extracted",
+        "context": "AMIAN WILLIAMS \nUnited States Attome \nAssistant United States Attorneys \nEncl"
+      },
+      {
+        "name": "Attorneys \nEnclosure",
+        "role": "extracted",
+        "context": "tome \nAssistant United States Attorneys \nEnclosure \nEFTA00024221"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-26",
+        "event": "October 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.678Z"
+}

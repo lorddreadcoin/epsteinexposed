@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013731",
+    "filename": "EFTA00013731.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013731.pdf",
+    "text": "\n\nFrom: \" . (USAFLS)” </O=USA/OU=FLS/CN=RECIPIENTS/CN= \nTo: \" (USAFLS)\" < >, ' (USAFLS)\" \n(USAFLS)\" \nc\nSubject: Epstein? \nDate: Fri, 16 May 2008 17:11:25 +0000 \nImportance: Normal \nHi I., MI, and . Have you heard anything? Thank you. \nEFTA00013731",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 17:11:25 +0000 \nImportance: Normal \nHi I., MI, and . Have you heard"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-05-16",
+        "event": "16 May 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.268Z"
+}

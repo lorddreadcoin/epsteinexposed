@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00002521",
+    "filename": "EFTA00002521.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002521.pdf",
+    "text": "\n\niL0 2  Default Network Sittings • \nServer Soria! Number: \nMX0824A1RJ \n1  III 1 11 1111 1  1 1111111\n' 111 \nUser \nName: Administrator \nDNS \nName: \nILOMX0824A1RJ \n1111 \n11\n111111111 111\n1 1 1 111\n111111111 \nPassword: 5U5CNHGG \n1111 \n1  1   11111 \nEFTA00002521",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Default Network",
+        "role": "extracted",
+        "context": "iL0 2  Default Network Sittings • \nServer Soria! Num"
+      },
+      {
+        "name": "Server Soria",
+        "role": "extracted",
+        "context": "Default Network Sittings • \nServer Soria! Number: \nMX0824A1RJ \n1  III"
+      },
+      {
+        "name": "User \nName",
+        "role": "extracted",
+        "context": "1 11 1111 1  1 1111111\n' 111 \nUser \nName: Administrator \nDNS \nName: \nI"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:27.632Z"
+}

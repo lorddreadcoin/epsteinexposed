@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00025273",
+    "filename": "EFTA00025273.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025273.pdf",
+    "text": "\n\n10/9/21. \n1112 PM \nSOFTWARE.dat.[AD).html \nRegistry SOFTWARE \nInformation \nInstall Date \nProduct Name \nRegistered Organization \nRegistered Owner \nCSDVersion \nDigital Product ID \n11/7/2003 16:31:36 +0000 \nMicrosoft Windows XP \nEpstein \nService Pack 2 \nA4 00 00 00 03 00 00 00 35 35 32 37 34 2D 4F 45 4D 2D 30 30 31 31 \n39 30 33 2D 30 30 31 30 32 00 2D 00 00 00 41 32 32 2D 30 30 30 30 \n31 00 00 00 00 00 00 00 4C 98 2F OE O5 0C 91 CC Al 4A Al El D2 EB \n03 00 00 00 00 00 85 74 AB 3F 3E 02 16 00 02 00 00 00 00 00 00 00 00 \n00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 34 35 34 32 35 00 00 00 \n00 00 00 00 91 03 00 00 10 FO CF DO FF 07 00 00 2C 18 00 00 00 00 00 \n00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 \n00 00 06 BO 01 76 \nfile://usa.doj.govicloud/NYS/StAndrews/Shared/USvEpstein-2018R01618/Discovery/GM/29 Twentieth Production (2021-09-13ySDNY_GM_02753699... 1/1 \nEFTA00025273",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Information \nInstall",
+        "role": "extracted",
+        "context": "[AD).html \nRegistry SOFTWARE \nInformation \nInstall Date \nProduct Name \nRegistere"
+      },
+      {
+        "name": "Date \nProduct",
+        "role": "extracted",
+        "context": "OFTWARE \nInformation \nInstall Date \nProduct Name \nRegistered Organization"
+      },
+      {
+        "name": "Name \nRegistered",
+        "role": "extracted",
+        "context": "mation \nInstall Date \nProduct Name \nRegistered Organization \nRegistered Owne"
+      },
+      {
+        "name": "Organization \nRegistered",
+        "role": "extracted",
+        "context": "ate \nProduct Name \nRegistered Organization \nRegistered Owner \nCSDVersion \nDigital Pr"
+      },
+      {
+        "name": "Version \nDigital",
+        "role": "extracted",
+        "context": "ization \nRegistered Owner \nCSDVersion \nDigital Product ID \n11/7/2003 16:31:3"
+      },
+      {
+        "name": "Microsoft Windows",
+        "role": "extracted",
+        "context": "ID \n11/7/2003 16:31:36 +0000 \nMicrosoft Windows XP \nEpstein \nService Pack 2"
+      },
+      {
+        "name": "Epstein \nService",
+        "role": "extracted",
+        "context": "+0000 \nMicrosoft Windows XP \nEpstein \nService Pack 2 \nA4 00 00 00 03 00 00"
+      },
+      {
+        "name": "Al El",
+        "role": "extracted",
+        "context": "4C 98 2F OE O5 0C 91 CC Al 4A Al El D2 EB \n03 00 00 00 00 00 85 7"
+      },
+      {
+        "name": "Twentieth Production",
+        "role": "extracted",
+        "context": "in-2018R01618/Discovery/GM/29 Twentieth Production (2021-09-13ySDNY_GM_02753699."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2003-11-07",
+        "event": "11/7/2003"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.846Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00026526",
+    "filename": "EFTA00026526.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026526.pdf",
+    "text": "\n\nSubject: United States v. Maxwell, 20 Cr. 330 (AJN) \nDate: Thu, 02 Jul 2020 16:08:23 +0000 \nAttachments: 2020-07-02,United_States_v._Maxwel1,20_Cr._330 JAJN),Jetention_memorandum.pdf \nDear Judge Nathan, \nThe Government respectfully submits the attached memorandum in support of detention in the above-captioned case. \nWe will file the motion on ECF as soon as the docket becomes active. I have copied defense counsel here, and will also \nsubmit a copy of this memorandum to the presiding Magistrate Judge in the District of New Hampshire in connection with \nthis afternoon's proceedings. \nSincerely, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00026526",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "JN),Jetention_memorandum.pdf \nDear Judge Nathan, \nThe Government respe"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "ndum.pdf \nDear Judge Nathan, \nThe Government respectfully submits the atta"
+      },
+      {
+        "name": "Magistrate Judge",
+        "role": "extracted",
+        "context": "s memorandum to the presiding Magistrate Judge in the District of New Hampsh"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "rate Judge in the District of New Hampshire in connection with \nthis afte"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "n's proceedings. \nSincerely, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Sincerely, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00026526"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "2020-07-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.502Z"
+}

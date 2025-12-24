@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028145",
+    "filename": "EFTA00028145.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028145.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Epstein \nDate: Fri, 18 Jan 2019 14:23:58 +0000 \nImportance: Normal \nI am free at 11. \nSent from my iPhone \nOn \nJan 18, 2019, at 9:10 AM, wrote: \nI was hoping we'd have time to catch up internally before meeting with chiefs but looks like that won't \nsuccessful. You both available for a quick mtg later this morning and then we can debrief them? I  think\nhas trial witness prep but maybe we can grab even ten mins. Ugh I'm so exhausted. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDat • • • \nTo: \nCc: \nu ject: e:Epstein \nI'm traveling back today, could we set a time for Monday? Once I get in later I'm slammed with stuff that \nhas come up the past few days in other cases. \nSent from my iPhone \nOn Jan 18, 2019, at 08:51, wrote: \nYou guys back? Can we circle up this morning? Definitely want to hear more about the trip.Mand I  have \nsomething at 11:30 but I at least am free before/after. \nSent from my iPhone \nEFTA00028145",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Re: Epstein \nDate: Fri, 18 Jan 2019 14:23:58 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "am free at 11. \nSent from my iPhone \nOn \nJan 18, 2019, at 9:10 AM, wr"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "so exhausted. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.716Z"
+}

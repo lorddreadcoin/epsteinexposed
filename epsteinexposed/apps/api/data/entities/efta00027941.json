@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027941",
+    "filename": "EFTA00027941.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027941.pdf",
+    "text": "\n\nFrom: \"I\nTo: \"I \nCc: \n(USANYS)\" \nSubject: Cooperator info re Epstein \nDate: Sat, 24 Aug 2019 01:12:50 +0000 \n(USANYS)\" < \n(USANYS)\"\nUSANYS \" \n(USANYS)\" \n(USANYS)\" \nSANII6 \nands,\nI just spoke with who got a call from an aspiring cooperator...lamed who's a \nreported that another as' \ngave him information relating to Epstein. For several months, \nhas been desperately trying to figure out how he can cooperate, often relying on second- and third-hand \ninformation that's not actionable unless another inmate also cooperates. We can also talk in person next week about the \nrelative quality of his information. \nI leave it to you guys to follow up with as you see fit. I'm sure someone on this email can make \nyou, if you want, once you get a sense of what he's about. I just don't want to unilaterally sit on this. \nHave a nice weekend I \nU \nAssistant United States Attorney \nSouthern District of New York \navailable to \nEFTA00027941",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Subject: Cooperator info re Epstein \nDate: Sat, 24 Aug 2019 01:12:50 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "s. \nHave a nice weekend I \nU \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "eekend I \nU \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \navailable to \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.306Z"
+}

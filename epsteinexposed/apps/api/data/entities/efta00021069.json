@@ -1,0 +1,72 @@
+{
+  "document": {
+    "id": "efta00021069",
+    "filename": "EFTA00021069.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021069.pdf",
+    "text": "\n\nFrom: UberConference <noreply@uberconference.com> \nTo: \nSubject: Conference Invite from The Bloom Firm: Call re Epstein on Thursday January 23, 2020 \n@ 12:00 pm (PST) \nDate: Wed, 22 Jan 2020 21:44:54 +0000 \nAttachments: invite.ics \nLAP..J \nThe Bloom Firm has \ninvited you to a conference call. \nYour UberConference Will Begin At: \nJanuary 23, 2020 at 12:00PM (PST \nUS/Pacific) \nCall re Epstein \ns :   6 Participants \nJOIN THE CALL \nOther ways to join \nURL - \nhttps://www.uberconference.com/thebloomfirm \nEFTA00021069\n\nConference Number - 818-405-0476 No PIN needed \nJoining from outside the US? - International access numbers \nAdd to my calendar: Google I Outlook I iCal I Yahoo \n6 Participants \nteri@thebloomfirm.com \nteri@thebloomfirm.com \ncolleen@thebloomfirm.com \ncolleen@thebloomfirm.com \nThe Bloom Firm \nmarcelino@thebloomfirm.com \n;:2,F ;:2,T ;:ajL \nara %mitt ink \nEFTA00021070\n\nUberConference by Dialpad \n100 California Street \nSan Francisco, CA 94111 \nhere \nEFTA00021071",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Conference Invite",
+        "role": "extracted",
+        "context": "onference.com> \nTo: \nSubject: Conference Invite from The Bloom Firm: Call re"
+      },
+      {
+        "name": "The Bloom",
+        "role": "extracted",
+        "context": "bject: Conference Invite from The Bloom Firm: Call re Epstein on Thur"
+      },
+      {
+        "name": "Thursday January",
+        "role": "extracted",
+        "context": "loom Firm: Call re Epstein on Thursday January 23, 2020 \n@ 12:00 pm (PST) \nD"
+      },
+      {
+        "name": "Your Uber",
+        "role": "extracted",
+        "context": "ed you to a conference call. \nYour UberConference Will Begin At: \nJan"
+      },
+      {
+        "name": "Conference Will",
+        "role": "extracted",
+        "context": "a conference call. \nYour UberConference Will Begin At: \nJanuary 23, 2020 a"
+      },
+      {
+        "name": "Begin At",
+        "role": "extracted",
+        "context": "ll. \nYour UberConference Will Begin At: \nJanuary 23, 2020 at 12:00PM"
+      },
+      {
+        "name": "Conference Number",
+        "role": "extracted",
+        "context": "m/thebloomfirm \nEFTA00021069\n\nConference Number - 818-405-0476 No PIN needed"
+      },
+      {
+        "name": "California Street",
+        "role": "extracted",
+        "context": "berConference by Dialpad \n100 California Street \nSan Francisco, CA 94111 \nher"
+      }
+    ],
+    "locations": [
+      {
+        "name": "San Francisco, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-01-23",
+        "event": "January 23, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "818-405-0476"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.959Z"
+}

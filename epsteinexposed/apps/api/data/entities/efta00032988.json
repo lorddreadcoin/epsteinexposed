@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032988",
+    "filename": "EFTA00032988.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032988.pdf",
+    "text": "\n\nFrom: \nSent: Monday. July 8.2019 7:40 AM \nTo: \nSubject: Scanned from a Xerox Multifunction Printer \nPlease open the attached document. It was scanned and sent to you using a Xerox Multifunction Printer. \nAttachment File Type: pdf, Multi-Page \nMultifunction Printer Location: 290 Broadway 9th FI, NY, NY 10038 \nDevice Name: P290BWAY-MSSTF-MFD \nFor more information on Xerox products and solutions, please visit http://www.xerox.com \nEFTA00032988",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Xerox Multifunction",
+        "role": "extracted",
+        "context": "To: \nSubject: Scanned from a Xerox Multifunction Printer \nPlease open the atta"
+      },
+      {
+        "name": "Printer \nPlease",
+        "role": "extracted",
+        "context": "ed from a Xerox Multifunction Printer \nPlease open the attached document. I"
+      },
+      {
+        "name": "Attachment File",
+        "role": "extracted",
+        "context": "Xerox Multifunction Printer. \nAttachment File Type: pdf, Multi-Page \nMultif"
+      },
+      {
+        "name": "Page \nMultifunction",
+        "role": "extracted",
+        "context": "achment File Type: pdf, Multi-Page \nMultifunction Printer Location: 290 Broadwa"
+      },
+      {
+        "name": "Printer Location",
+        "role": "extracted",
+        "context": "df, Multi-Page \nMultifunction Printer Location: 290 Broadway 9th FI, NY, NY"
+      },
+      {
+        "name": "Device Name",
+        "role": "extracted",
+        "context": "roadway 9th FI, NY, NY 10038 \nDevice Name: P290BWAY-MSSTF-MFD \nFor more"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.982Z"
+}

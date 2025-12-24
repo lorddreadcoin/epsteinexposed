@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00016752",
+    "filename": "EFTA00016752.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016752.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Scheduling \nDate: Mon, 06 Jan 2020 19:44:44 +0000 \nThat works for us. Thanks \n Ori inal Messa e \nFrom: \nSent: on a anus \nTo: \nCc \nSubject: RE: Scheduling \nHow's 1130-1230? \n Ori inal Messa e \nFrom: \nSent: on a anua • \nTo: \nCc \nSubject: Re: Scheduling \nAn hour \nSent from my iPhone \n> \nOn Jan 6, 2020, at 1:12 \nPM,aro\nte: \n> Sure we'll be able to make something work... how long do you anticipate it to go? \n> O inal M . sa e \n> From \n> Sent: Month January 6 \n2020 \n1 - 11 PM \n> \nTo: \n> \nCc: \n> Subject: Scheduling \n> Hey \n> Geoff would like us to schedule a meeting on Epstein =with all brass. Is there any time before 3 pm on \nThursday? \n> Sent from my iPhone \nEFTA00016752",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scheduling \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Scheduling \nDate: Mon, 06 Jan 2020 19:44:44 +0"
+      },
+      {
+        "name": "Thanks \n Ori",
+        "role": "extracted",
+        "context": ":44 +0000 \nThat works for us. Thanks \n Ori inal Messa e \nFrom: \nSent: on"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \nSent: on a anus \nTo: \nCc \nSubject: RE: Scheduling \nHow's 1130-1"
+      },
+      {
+        "name": "Scheduling \nHow",
+        "role": "extracted",
+        "context": "a anus \nTo: \nCc \nSubject: RE: Scheduling \nHow's 1130-1230? \n Ori inal Messa"
+      },
+      {
+        "name": "Scheduling \nAn",
+        "role": "extracted",
+        "context": "anua • \nTo: \nCc \nSubject: Re: Scheduling \nAn hour \nSent from my iPhone \n>"
+      },
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "hour \nSent from my iPhone \n> \nOn Jan 6, 2020, at 1:12 \nPM,aro\nte:"
+      },
+      {
+        "name": "Month January",
+        "role": "extracted",
+        "context": "nal M . sa e \n> From \n> Sent: Month January 6 \n2020 \n1 - 11 PM \n> \nTo: \n>"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-06",
+        "event": "January 6 \n2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.306Z"
+}

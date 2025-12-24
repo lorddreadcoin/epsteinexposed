@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027741",
+    "filename": "EFTA00027741.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027741.pdf",
+    "text": "\n\nEvent: Epstein Meeting \nStart Date: 2020-01-06 17:30:00 +0000 \nEnd Date: 2020-01-06 18:00:00 +0000 \nOrganizer: \nClass: X-PERSONAL \nDate Created: 2020-01-06 21:42:04 +0000 \nDate Modified: 2020-01-06 21:42:04 +0000 \nPriority: 5 \nDTSTAMP: 2020-01-06 16:09:17 +0000 \nAttendee: \nAlarm: Display the following message 15m before start \nReminder \nEFTA00027741",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Meeting",
+        "role": "extracted",
+        "context": "Event: Epstein Meeting \nStart Date: 2020-01-06 17:30"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Epstein Meeting \nStart Date: 2020-01-06 17:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-01-06 17:30:00 +0000 \nEnd Date: 2020-01-06 18:00:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "rganizer: \nClass: X-PERSONAL \nDate Created: 2020-01-06 21:42:04 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-01-06 21:42:04 +0000 \nDate Modified: 2020-01-06 21:42:04 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-06",
+        "event": "2020-01-06"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.886Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014888",
+    "filename": "EFTA00014888.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014888.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Anticipated order of witnesses \nDate: Sun, 28 Nov 2021 02:01:07 +0000 \nAttachments: 2021-11-27,_GM,_Govemment_anticipated_witness_order [final].pdf \nChambers, \nAttached please find a letter regarding the Government's anticipated order of witnesses. As explained in the letter, the \nGovernment requests that this letter be filed under seal. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00014888",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00014888"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-27",
+        "event": "2021-11-27"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.771Z"
+}

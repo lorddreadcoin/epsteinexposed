@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00027841",
+    "filename": "EFTA00027841.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027841.pdf",
+    "text": "\n\nFrom: \"etravelservices@cwtsatotravel.com\" <etravelservices@cwtsatotravel.com> \nTo: \nSubject: Travel Authorization 10982117 approved by \napproval \nDate: Tue, 28 Jan 2020 20:12:01 +0000 \nImportance: Normal \nnow awaiting further \nDear \nTravel authorization 10982117 has been approved by , now awaiting further approval. \nTrip ID: 10982117 \nTraveler name: \nPurpose: R20NYS 13342 - Epstein investigation (2018R01618) - Witness Interviews \nDestination: Stockholm, \nSweden \nDates: 2020-02-03 - 2020-02-08 \nCurrent status: Pending Authorization Approval \nE2 Single Sign On Lo in within DOJ Network Only): \nhttps://dojnet.doj.gov \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# T0007 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00027841",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Authorization",
+        "role": "extracted",
+        "context": "atotravel.com> \nTo: \nSubject: Travel Authorization 10982117 approved by \napprova"
+      },
+      {
+        "name": "Dear \nTravel",
+        "role": "extracted",
+        "context": "Normal \nnow awaiting further \nDear \nTravel authorization 10982117 has be"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "investigation (2018R01618) - Witness Interviews \nDestination: Stockholm, \nSwe"
+      },
+      {
+        "name": "Sweden \nDates",
+        "role": "extracted",
+        "context": "ews \nDestination: Stockholm, \nSweden \nDates: 2020-02-03 - 2020-02-08 \nCur"
+      },
+      {
+        "name": "Pending Authorization",
+        "role": "extracted",
+        "context": "- 2020-02-08 \nCurrent status: Pending Authorization Approval \nE2 Single Sign On L"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "ng Authorization Approval \nE2 Single Sign On Lo in within DOJ Network O"
+      },
+      {
+        "name": "On Lo",
+        "role": "extracted",
+        "context": "tion Approval \nE2 Single Sign On Lo in within DOJ Network Only):"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "ngle Sign On Lo in within DOJ Network Only): \nhttps://dojnet.doj.gov \nE2"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": ": \nhttps://dojnet.doj.gov \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-03",
+        "event": "2020-02-03"
+      },
+      {
+        "date": "2020-02-08",
+        "event": "2020-02-08"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.089Z"
+}

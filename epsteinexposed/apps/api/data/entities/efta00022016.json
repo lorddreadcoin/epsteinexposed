@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00022016",
+    "filename": "EFTA00022016.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022016.pdf",
+    "text": "\n\nFrom: \n\" aNIMIE> \nTo:'\nSubject: Automatic reply: CACI document scanning 15JA5421F00000068 US v. Maxwell Epstein Scanning \nDate: Thu, 24 Jun 2021 09:47:38 +0000 \nI will be traveling for work from June 22nd through June 24th. Althou h I will have access to email durin this time, my responses may be \ndelayed. For urgent VOC matters, please contact \nat or \nFor any matter regarding a specific \ncase, please contact the other AUSA(s) on the case. \nEFTA00022016",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Epstein",
+        "role": "extracted",
+        "context": "nning 15JA5421F00000068 US v. Maxwell Epstein Scanning \nDate: Thu, 24 Jun 2"
+      },
+      {
+        "name": "Scanning \nDate",
+        "role": "extracted",
+        "context": "0000068 US v. Maxwell Epstein Scanning \nDate: Thu, 24 Jun 2021 09:47:38 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.851Z"
+}

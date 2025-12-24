@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013172",
+    "filename": "EFTA00013172.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013172.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: protective order \nDate: Tue, 14 Sep 2021 16:20:25 +0000 \nAttachments: 20cr330 Sealed Opinion Order 6.25.21.pdf \nAttached is Judge Nathan's opinion on this issue. The relevant cases here are Martindell and Chemical Bank, which are \ndiscussed in the opinion. \nEFTA00013172",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sealed Opinion",
+        "role": "extracted",
+        "context": "5 +0000 \nAttachments: 20cr330 Sealed Opinion Order 6.25.21.pdf \nAttached i"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "rder 6.25.21.pdf \nAttached is Judge Nathan's opinion on this issue. The"
+      },
+      {
+        "name": "Chemical Bank",
+        "role": "extracted",
+        "context": "cases here are Martindell and Chemical Bank, which are \ndiscussed in the"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.006Z"
+}

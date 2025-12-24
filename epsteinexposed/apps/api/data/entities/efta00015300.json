@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00015300",
+    "filename": "EFTA00015300.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015300.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nUSMS Official Statement \nDate: Sat, 10 Aug 2019 19:16:26 +0000 \nUSMS OFFICIAL STATEMENT: \nThe U.S. Marshals Service confirms the death of a federal prisoner, Jeffrey Edward Epstein, 66, on August 10, \n2019. The USMS does not own or operate detention facilities but partners with state and local governments, the \nFederal Bureau of Prisons and private detention facilities to house its prisoner population. Epstein was a USMS \ninmate being held at BOP's Metropolitan Correctional Center (MCC) in New York. The FBI is handling the \ndeath investigation. \nSent from my iPhone \nEFTA00015300",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Official Statement",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: \nUSMS Official Statement \nDate: Sat, 10 Aug 2019 19:16"
+      },
+      {
+        "name": "Marshals Service",
+        "role": "extracted",
+        "context": "OFFICIAL STATEMENT: \nThe U.S. Marshals Service confirms the death of a feder"
+      },
+      {
+        "name": "Jeffrey Edward",
+        "role": "extracted",
+        "context": "death of a federal prisoner, Jeffrey Edward Epstein, 66, on August 10, \n2"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "e and local governments, the \nFederal Bureau of Prisons and private detent"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "S \ninmate being held at BOP's Metropolitan Correctional Center (MCC) in New York. The"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, \n2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.414Z"
+}

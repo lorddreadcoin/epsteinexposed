@@ -1,0 +1,68 @@
+{
+  "document": {
+    "id": "efta00014305",
+    "filename": "EFTA00014305.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014305.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \" \nSubject: RE: Epstein \nDate: Fri, 07 Dee 2018 16:03:09 +0000 \nImportance: Normal \nWe'll walk over to \nFrom: \nSent: Friday, December 7, 2018 11:00 AM \nTo: \nCc: \nSubject: RE: Epstein \nMeeting in my office? Or \nFrom: (USANYS) \nSent: Thursday, December 06, 2018 9:25 PM \nTo: \nCc: \n;=\n> \n> \nSubject: Re: Epstein \nI can call in at 11:00. \nSent from my iPhone \nOn Dec 6, 2018, at 9:22 PM, \nOk for me. \nSent from my iPhone \nOn Dec 6, 2018, at 7:12 PM, \nGood for me. \n> \nwrote: \n> \nwrote: \nFrom: \nSent: Thursday, December 6, 2018 7:08 PM \nTo: \nCc: (USANYS) \nSubject: Re: Epstein \nHow about 11:00? \nSent from my iPhone \n>; \nEFTA00014305\n\nOn Dec 6, 2018, at 7:04 PM, \n> \nwrote: \nIn case you haven't seen, various lawmakers are now calling on DOJ to explain the Epstein NPA. If you have a few \nminutes tomorrow, would be helpful to touch base. \nhttps://www.nbcnews.com/news/us-news/lawmakers-demand-probe-sex-offender-jeffrey-epstein-s-sweetheart-\ndeal-n944516 \nEFTA00014306",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "om: \nTo: \nCc: \" \nSubject: RE: Epstein \nDate: Fri, 07 Dee 2018 16:03:09 +0"
+      },
+      {
+        "name": "Normal \nWe",
+        "role": "extracted",
+        "context": "8 16:03:09 +0000 \nImportance: Normal \nWe'll walk over to \nFrom: \nSent:"
+      },
+      {
+        "name": "Epstein \nMeeting",
+        "role": "extracted",
+        "context": "00 AM \nTo: \nCc: \nSubject: RE: Epstein \nMeeting in my office? Or \nFrom: (USAN"
+      },
+      {
+        "name": "Or \nFrom",
+        "role": "extracted",
+        "context": "pstein \nMeeting in my office? Or \nFrom: (USANYS) \nSent: Thursday, De"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "l in at 11:00. \nSent from my iPhone \nOn Dec 6, 2018, at 9:22 PM, \nOk"
+      },
+      {
+        "name": "Epstein \nHow",
+        "role": "extracted",
+        "context": ": \nCc: (USANYS) \nSubject: Re: Epstein \nHow about 11:00? \nSent from my iP"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "my iPhone \n>; \nEFTA00014305\n\nOn Dec 6, 2018, at 7:04 PM, \n> \nwrot"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-07",
+        "event": "December 7, 2018"
+      },
+      {
+        "date": "2018-12-06",
+        "event": "December 06, 2018"
+      },
+      {
+        "date": "2018-12-06",
+        "event": "December 6, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.596Z"
+}

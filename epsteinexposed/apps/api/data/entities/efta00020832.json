@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00020832",
+    "filename": "EFTA00020832.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020832.pdf",
+    "text": "\n\nFrom \nTo: Christian Everdell <CEverdell®CohenGressencom>, \"Mark S. Cohen\" \n<mcohen@CohenGressencom>, Jeff Pagliuca <jpagliuca@hmflaw.cotn>, \"Laura \nMenninger\" <Imenninger®lunflaw.com>, \"Bobbi Stemheim (bcsternheim@mac.com)\" \n<bcstemheim(a \nmac.com> \nCc: \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - discovery production \nDate: Mon, 09 Nov 2020 23:12:44 +0000 \nAttachments: 2020.11.09_Maxwell Discovery_Letter.pdf \nSANYS)\" \nCounsel, \nA hard drive containing a new discovery production in the above referenced case is now available for pickup at One St. \nAndrew's Plaza. Attached please find the accompanying letter. Please note that page 5 of the letter contains a disclosure \nregarding a witness statement. \nAs indicated in the letter, we are also sending this production, together with copies of prior productions that we have \npreviously discussed, to the MDC for Ms. Maxwell's review. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York. NY 10007 \nEFTA00020832",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "sly discussed, to the MDC for Ms. Maxwell's review. \nBest, \nAssista"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: Christian Everdell <CEverdel"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From \nTo: Christian Everdell <CEverdell®CohenGressencom>,"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "n\" \n<mcohen@CohenGressencom>, Jeff Pagliuca <jpagliuca@hmflaw.cotn>, \"Lau"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "uca <jpagliuca@hmflaw.cotn>, \"Laura \nMenninger\" <Imenninger®lunflaw.com>, \"B"
+      },
+      {
+        "name": "Bobbi Stemheim",
+        "role": "extracted",
+        "context": "r\" <Imenninger®lunflaw.com>, \"Bobbi Stemheim (bcsternheim@mac.com)\" \n<bcst"
+      },
+      {
+        "name": "Maxwell Discovery",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2020.11.09_Maxwell Discovery_Letter.pdf \nSANYS)\" \nCounsel,"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "s now available for pickup at One St. \nAndrew's Plaza. Attached pl"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Ms. Maxwell's review. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "iew. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York. NY 10007 \nEFTA00020832"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.442Z"
+}

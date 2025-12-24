@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00020833",
+    "filename": "EFTA00020833.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020833.pdf",
+    "text": "\n\nFrom: \"Weinstein, Marc A.\" cj \nTo: \nCc: Andrew Tomback <=l \nSubject: Epstein - false warranty deed \nDate: Mon, 09 Nov 2020 21:42:29 +0000 \nAttachments: OR 31849 39 Wlipdf \nAttached is the warranty deed filed for the Palm Beach property which we believe to be fabricated. As mentioned, we \nunderstand there has been a similar deed filed for the New Mexico property. \nBest regards, \nMarc \nMarc A. Weinstein I Partner \nChair, White Collar Defense \nHughes Hubbard & Reed LLP \n.\nins message contains confidential information and is intended only for the individual named. If  you are not the named addressee you should not \ndisseminate. distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-\nmail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted. lost. \ndestroyed. arrive late or incomplete. or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this \nmessage. which arise as a result of e-mail transmission. If \nverification \nis required please request a hard-copy version. \nEFTA00020833",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "nstein, Marc A.\" cj \nTo: \nCc: Andrew Tomback <=l \nSubject: Epstein - false"
+      },
+      {
+        "name": "Wlipdf \nAttached",
+        "role": "extracted",
+        "context": "000 \nAttachments: OR 31849 39 Wlipdf \nAttached is the warranty deed filed fo"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "e warranty deed filed for the Palm Beach property which we believe to"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "a similar deed filed for the New Mexico property. \nBest regards, \nMar"
+      },
+      {
+        "name": "Marc \nMarc",
+        "role": "extracted",
+        "context": "ico property. \nBest regards, \nMarc \nMarc A. Weinstein I Partner \nChair"
+      },
+      {
+        "name": "Partner \nChair",
+        "role": "extracted",
+        "context": "s, \nMarc \nMarc A. Weinstein I Partner \nChair, White Collar Defense \nHughes"
+      },
+      {
+        "name": "White Collar",
+        "role": "extracted",
+        "context": ". Weinstein I Partner \nChair, White Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "Partner \nChair, White Collar Defense \nHughes Hubbard & Reed LLP \n.\nins mes"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.445Z"
+}

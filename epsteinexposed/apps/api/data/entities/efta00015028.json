@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00015028",
+    "filename": "EFTA00015028.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015028.pdf",
+    "text": "\n\n[ From: \nTo: \nCc: \n[ Subject: \nDate: \n[EXTERNAL] Re: GM - Witnesses \nWed, 06 Oct 2021 18:27:34 +0000 \nHey guys, \nCan you provide us with a little more information on the following witnesses. DOB's would be great or \napproximate age but if not maybe who they are, why they are testifying, city or state they are from? n \nattached to this email, and she is assisting us with doing all the checks for the witnesses. \nThanks! \nDetective \nNYPD /  FBI \nChild E loitation Husnan Trafficking \nTask Force \nOffice: \nFrom: (USANYS) \nSent: Monday, October 4, 2021 2:45 PM \nTo: \nCc: \nSubject: GM - Witnesses \n(NY) (FBI) \nCAUTION! EXTERNAL SENDER \nSTOP WHEN UNSURE. Never click on links or open attachments if sender is unknown, and never provide \nuser ID or password. Suspicious? Please report to this email address: reportphishing@nypd.org \nBelow is the list of potential testifying witnesses as discussed. Please run rap sheets as discussed. Do you think you could \nget them to us by Wednesday or Thursday? Call if you have any questions, thanksl \n1 \n2 \n3. \n4J \n5. \n6 \n7 \n8 \n9 \n10. \nEFTA00015028\n\n11l \n121 \n13 \n14. \n15 \n16. \n17. \n18 \n19. \n20J \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00015029",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Witnesses \nWed",
+        "role": "extracted",
+        "context": ": \nDate: \n[EXTERNAL] Re: GM - Witnesses \nWed, 06 Oct 2021 18:27:34 +0000"
+      },
+      {
+        "name": "Husnan Trafficking",
+        "role": "extracted",
+        "context": "YPD /  FBI \nChild E loitation Husnan Trafficking \nTask Force \nOffice: \nFrom: ("
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "loitation Husnan Trafficking \nTask Force \nOffice: \nFrom: (USANYS) \nSen"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "15 \n16. \n17. \n18 \n19. \n20J \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "8 \n19. \n20J \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-04",
+        "event": "October 4, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.991Z"
+}

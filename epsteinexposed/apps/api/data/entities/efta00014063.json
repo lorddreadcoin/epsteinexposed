@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014063",
+    "filename": "EFTA00014063.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014063.pdf",
+    "text": "\n\nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF FLORIDA \n08-8068-LRJ \nIN RE: \nSEARCH WARRANT APPLICATION \nMOTION TO FILE DOCUMENTS UNDER SEAL \nThe United States of America, by and through the undersigned Assistant United States Attorney, hereby \nmoves to seal its Application for Search Warrant for the following reasons: \nI. The attached documents contain information relating to an ongoing grand jury investigation; thus, \npursuant to Fed. R. Crim. P. 6(e)(6), all records and orders related to the grand-jury proceedings must be kept \nunder seal to the extent and as long as necessary to prevent the unauthorized disclosure of a  matter occurring \nbefore the grand jury. \n2. Public disclosure of this matter would jeopardize the criminal investigation, notify potential subjects \nand/or targets and undermine the public interest and the function of the grand jury. \nWHEREFORE, the United States respectfully requests that the aforementioned documents be sealed. \nRespectfully submitted, \nR. ALEXANDER ACOSTA \nUNITED STATES ATTORNEY \nBy:  \nAssistant United States Attome \nWest Palm \nBeach. \nFL \n3,401 \nTelephone: \nFacsimile: \nEFTA00014063",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The United",
+        "role": "extracted",
+        "context": "TO FILE DOCUMENTS UNDER SEAL \nThe United States of America, by and thr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "y and through the undersigned Assistant United States Attorney, hereby \nmove"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "undersigned Assistant United States Attorney, hereby \nmoves to seal its Ap"
+      },
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "s to seal its Application for Search Warrant for the following reasons: \nI"
+      },
+      {
+        "name": "States Attome",
+        "role": "extracted",
+        "context": "ORNEY \nBy:  \nAssistant United States Attome \nWest Palm \nBeach. \nFL \n3,401"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "sistant United States Attome \nWest Palm \nBeach. \nFL \n3,401 \nTelephone"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.037Z"
+}

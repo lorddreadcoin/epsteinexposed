@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00020777",
+    "filename": "EFTA00020777.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020777.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \naNIMINI> \nSubject: RE: nterview notes \nDate: Tue, 28 Jul 2020 13:37:18 +0000 \nThanks very much. \nFrom: \nSent: Tuesday, July 28, 2020 9:37 AM \nTo: \nCc: \nSubject: RE nterview notes \n< \nThe notes have been saved and added to the tracker. \nFrom: \nSent: Monday, July 27, 2020 7:46 PM \nTo: \nCc: \nSubject: FW: \nc:1> \n< \nnterview notes \nHi \n<I> \nWould you please save these on the Epstein share drive and note them in the tracker? \nThanks, \nFrom: \nSent: Monday, July 27, 2020 6:38 PM \nTo: \nCc: \nSubject: \n1.S \nnterview \nnotes \n) \nAttached are the \ninterview notes from \nSpecial Agent \nFBI New York Field Office \nChild Exploitation/Human \nTrafficking \nC: \n<->: \nEFTA00020777",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "re the \ninterview notes from \nSpecial Agent \nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nChild Exploitation/Human \nTr"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nChild Exploitation/Human \nTrafficking \nC: \n<->:"
+      },
+      {
+        "name": "Human \nTrafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human \nTrafficking \nC: \n<->: \nEFTA00020777"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-28",
+        "event": "July 28, 2020"
+      },
+      {
+        "date": "2020-07-27",
+        "event": "July 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.562Z"
+}

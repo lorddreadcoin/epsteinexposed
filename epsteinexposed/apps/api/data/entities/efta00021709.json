@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00021709",
+    "filename": "EFTA00021709.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021709.pdf",
+    "text": "\n\nFrom: MMIII>\nTo: \nCc: MMI>,\nSubject: Re: Request re Ghisliane Maxwell \nDate: Fri, 08 Jan 2021 15:40:25 +0000 \nNo, unfortunately not. It would have to come from your office. \nBest, \n>>> \nPM >» \nGood \nafternoon, \n\" \n1/7/2021 4:35 \nAt the request of defense counsel, our office is preparing a new drive \nwith a copy of discovery material that was previously produced to \nGhislaine Maxwell on a CD, but which she has been unable to view. The \ndrive will be ready tomorrow. Today, defense counsel asked that Maxwell \nbe able to review those materials over this coming weekend, but no one \nfrom our office is available to hand deliver the drive tomorrow, and we \nunderstand that Maxwell would not receive a FedEx package sent out \ntomorrow until next week. Defense counsel has offered to pick the drive \nup from our office and hand deliver it to the MDC themselves tomorrow. \nWould that be permissible? \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00021709",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "scovery material that was previously produced to \nGhislaine Maxwell on a CD, but which she has been unable to view. T"
+      },
+      {
+        "name": "Ghisliane Maxwell",
+        "role": "extracted",
+        "context": "MMI>,\nSubject: Re: Request re Ghisliane Maxwell \nDate: Fri, 08 Jan 2021 15:40"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "be permissible? \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-01-07",
+        "event": "1/7/2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.241Z"
+}

@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00027159",
+    "filename": "EFTA00027159.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027159.pdf",
+    "text": "\n\nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY FILED \nDOC \nN: \nDATE FILED: \n4121/21 \n20-CR-330 (MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court will schedule a trial date for the severed perjury counts after trial of the non-\nperjury counts is completed. Given that and in light of the representations in the Government's \nApril 21, 2021 letter, see Dkt. No. 227, the Court intends to defer resolution of the pending \nmotions to suppress (including resolution of the request for an evidentiary hearing) until after the \ntrial on the non-perjury counts. If either side objects, counsel shall state the basis for any \nobjection by letter on or before by 5pm on Thursday, April 22, 2021. \nSO ORDERED. \nDated: April 21, 2021 \nNew York, New York ALISON J. NATHAN \nUnited States District Judge \nEFTA00027159",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court will schedule a t"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-21",
+        "event": "April 21, 2021"
+      },
+      {
+        "date": "2021-04-22",
+        "event": "April 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.652Z"
+}

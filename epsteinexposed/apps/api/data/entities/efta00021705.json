@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021705",
+    "filename": "EFTA00021705.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021705.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Ghislaine Maxwell 02879-509 \nDate: Fri, 08 Jan 2021 02:50:53 +0000 \nFor the past two days, Ms. Maxwell has not been on time for the daily 12:30 VTCs. Yesterday, she arrived at \n12:59; toda she arrived at 12:47. Until yesterday, Ms. Maxwell appeared in advance of 12:30.  We appreciate \n's assistance in facilitating Ms. Maxwell's appearance, but no explanation has been provided for \nthese delays.. Each delay limits the time Ms. Maxwell can confer with counsel. We hope this will not be \nrepeated and is not retribution for complaints made by counsel. \nWe learned today that the complaint report issued to Ms. Maxwell earlier this week has now been revised. I \nrenew my request for the original report and request a copy \nof the updated report. \nThis morning at 6:40 am, the team leader ordered Ms. Maxwell to clean a toilet, providing a few paper towels, \nbut no gloves, sending a clear message that Ms. Maxwell should clean the toilet bare handed, despite having \ncleaned the toilet the night before. Gloves were provided only upon request by Ms. Maxwell. Per the A&O \nHandbook, sanitation duties commence at 7:30 am for pretrial inmates (See A&O, p.4). We request that Ms. \nMaxwell be permitted to perform sanitation duties in the evening when returned to her isolation cell. \nFurther, the team leader ordered Ms. Maxwell to clean crumbs from her bed. Lest she face another charge of \nbeing untidy, Ms. Maxwell attempted to comply but there were no crumbs - just stains on the blanket issued to \nher. This is another example of the petty officiousness displayed by the present team. \nThe ear searches continue. Routinely, in connection with open mouth searches, guards run fingers through Ms. \nMaxwell's hair and behind her ears, at times before she gets a chance to put on her face mask.These searches -\nconducted within 6 inches of Ms.Maxwell's face- continue to increase her risk of exposure to COVID. The \nnumber of daily searches of Ms. Maxwell, an isolated inmate under constant surveillance by multiple guards, \nseems \nexcessive and unnecessarily violative.. \nLaw \nOffices of \nNew York, NY 10011 \nMain: \nCell: \nFax: \nThis message and any attached documents contain information from the Law Offices of \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nEFTA00021705\n\nIf you have received this transmission in error; please notify the sender immediately by reply e-mail and then \ndelete this message. Thank you. \nEFTA00021706",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Ghislaine Maxwell 02879-509 \nDate: Fri, 08 Jan 2021 02:50:53 +0000"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "+0000 \nFor the past two days, Ms. Maxwell has not been on time for"
+      },
+      {
+        "name": "Law \nOffices",
+        "role": "extracted",
+        "context": "nd unnecessarily violative.. \nLaw \nOffices of \nNew York, NY 10011 \nMain:"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contain information from the Law Offices of \nthat may be confidential"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.230Z"
+}

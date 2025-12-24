@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00024012",
+    "filename": "EFTA00024012.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024012.pdf",
+    "text": "\n\nEvent: Tentative: Call with PAE re Epstein \nStart Date: 2021-03-25 20:30:00 +0000 \nEnd Date: 2021-03-25 21:00:00 +0000 \nLocation: Dial-in: 844-215-6902; Code: 707522 \nClass: X-PERSONAL \nComment: \nDate Created: 2021-03-25 21:06:55 +0000 \nDate Modified: 2021-03-25 21:06:55 +0000 \nPriority: 5 \nDTSTAMP: 2021-03-25 19:31:19 +0000 \nAttendee: \nEFTA00024012",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": ": Tentative: Call with PAE re Epstein \nStart Date: 2021-03-25 20:30:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-03-25 20:30:00 +0000 \nEnd Date: 2021-03-25 21:00:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-03-25 21:06:55 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-03-25 21:06:55 +0000 \nDate Modified: 2021-03-25 21:06:55 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-25",
+        "event": "2021-03-25"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "844-215-6902"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.089Z"
+}

@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00010223",
+    "filename": "EFTA00010223.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010223.pdf",
+    "text": "\n\nFrom: Nicole Simmons \nTo: Nathan NYSD Chambers < \nCc: Jeff Pagliuca , Laura Menninger \nSubject: [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Maxwell's Resp Ltrs. re. Co-\nConspirator Statements and Ex. 52] \nDate: Mon, 15 Nov 2021 22:55:29 +0000 \nAttachments: 2021.11.15 JSP_Ltr._re Rule 801(d)(2)(e).pdf; 2021.11.15 JSP_Ltr._re._EX._52.pdf \nInline-Images: image001.jpg \nDear Judge Nathan: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxwell's Letters in Response to (1) The Government's \nJustification for Admission of Co-Conspirator Statements and (2) The Government's Justification for Admission of Exhibit \n52. \nPursuant to our established protocol, we are submitting the Letters to the Court under temporary seal to allow the \ngovernment to propose any redactions it deems necessary. \nRegards, \nNicole \nNicole Simmons \nHaddon, Morgan and \nForeman, P.C. \n150 East 10th Avenue \nDenver, Colorado \n80203 \nFX \nwww.h\nEFTA00010223",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "Pagliuca, please see attached Ms. Maxwell's Letters in Response to"
+      },
+      {
+        "name": "Nicole Simmons",
+        "role": "extracted",
+        "context": "From: Nicole Simmons \nTo: Nathan NYSD Chambers <"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": ": Nathan NYSD Chambers < \nCc: Jeff Pagliuca , Laura Menninger \nSubject: ["
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "ambers < \nCc: Jeff Pagliuca , Laura Menninger \nSubject: [EXTERNAL] U.S. v."
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": ": [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Maxwell's"
+      },
+      {
+        "name": "Resp Ltrs",
+        "role": "extracted",
+        "context": ". 20 Cr. 330 (AJN) [Maxwell's Resp Ltrs. re. Co-\nConspirator Statemen"
+      },
+      {
+        "name": "Conspirator Statements",
+        "role": "extracted",
+        "context": "[Maxwell's Resp Ltrs. re. Co-\nConspirator Statements and Ex. 52] \nDate: Mon, 15 No"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "Inline-Images: image001.jpg \nDear Judge Nathan: \nAt the request of Je"
+      },
+      {
+        "name": "Jeffrey Pagliuca",
+        "role": "extracted",
+        "context": "ge Nathan: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxw"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "'s Letters in Response to (1) The Government's \nJustification for Admissio"
+      },
+      {
+        "name": "Nicole \nNicole",
+        "role": "extracted",
+        "context": "t deems necessary. \nRegards, \nNicole \nNicole Simmons \nHaddon, Morgan and"
+      },
+      {
+        "name": "Simmons \nHaddon",
+        "role": "extracted",
+        "context": "ry. \nRegards, \nNicole \nNicole Simmons \nHaddon, Morgan and \nForeman, P.C. \n1"
+      },
+      {
+        "name": "Avenue \nDenver",
+        "role": "extracted",
+        "context": "Foreman, P.C. \n150 East 10th Avenue \nDenver, Colorado \n80203 \nFX \nwww.h\nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.535Z"
+}

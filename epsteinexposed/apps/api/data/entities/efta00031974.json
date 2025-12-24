@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "efta00031974",
+    "filename": "EFTA00031974.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031974.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nSubject: Fwd: Epstein \nmemo \nDate: Fri, 10 May 2019 17:32:11 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE_status_memo_for ODAG.docx; ATT00001.htm; 2019-05-\n10 \nJE_status_memo_for_ODAG.pdf; ATT00002.htm \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \nDate: May 10, 2019 at 1:31:10 PM EDT \nTo: \"Strauss \nAudrey \nSANYS \" \nCc: ' \nSubject: Epstein \nmemo \nAudrey — Attached is a revised (and shortened) memo for \nODAG. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00031974",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 17:32:11 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE_status_memo_fo"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "; ATT00002.htm \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Strauss \nAudrey",
+        "role": "extracted",
+        "context": "2019 at 1:31:10 PM EDT \nTo: \"Strauss \nAudrey \nSANYS \" \nCc: ' \nSubject: Eps"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "d) memo for \nODAG. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000319"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-10",
+        "event": "2019-05-10"
+      },
+      {
+        "date": "2019-05-10",
+        "event": "May 10, 2019"
+      },
+      {
+        "date": "2019-05-10",
+        "event": "10 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.324Z"
+}

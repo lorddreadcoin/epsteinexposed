@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027934",
+    "filename": "EFTA00027934.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027934.pdf",
+    "text": "\n\nFrom: \nTo: \n(NY) \n(FBI)\" la \n(USANYS)\" \ncza> \nSubject: Fwd: Requested Documentation \nDate: Sun, 11 Aug 2019 15:02:41 +0000 \nAttachments: Epstein_Investigative_Reports.pdf; Additional_Psychology_Notes.pdf \n Forwarded message \nFrom: Tijuana Doctor \n<tdoctor@bop.gov> \nDate: Aug 10, 2019 10:57 PM \nSubject: Re \nuested Documentation \nTo: ' \n. \n(NY) \n(FBI)\" clIMM> \nCc: \nI \nPlease let me know if you need anything else. \nEFTA00027934",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Requested Documentation",
+        "role": "extracted",
+        "context": "USANYS)\" \ncza> \nSubject: Fwd: Requested Documentation \nDate: Sun, 11 Aug 2019 15:02"
+      },
+      {
+        "name": "Tijuana Doctor",
+        "role": "extracted",
+        "context": "df \n Forwarded message \nFrom: Tijuana Doctor \n<tdoctor@bop.gov> \nDate: Aug"
+      },
+      {
+        "name": "Documentation \nTo",
+        "role": "extracted",
+        "context": "10:57 PM \nSubject: Re \nuested Documentation \nTo: ' \n. \n(NY) \n(FBI)\" clIMM> \nC"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.291Z"
+}

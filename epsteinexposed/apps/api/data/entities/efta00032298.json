@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00032298",
+    "filename": "EFTA00032298.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032298.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nI> \nSubject: RE: 8/16 Friday Proffer - Efrain Reyes GEO \nDate: Tue, 13 Aug 2019 18:55:20 +0000 \nThis proffer is approved for Friday. \nThanks, \nSupervisory Deputy United States Marshal \nSouthern District of New York \nOffice: \nFrom: (USMS) \nSent: Tuesday, August 13, 2019 2:41 PM \nTo \nSubject: Fwd: 8/16 Friday Proffer - Efrain Reyes GEO \nBegin forwarded message: \nFrom: \nDate: August 13, 2019 at 2:23:10 PM EDT \nTo: \" (USMS)\" \nCc: \nSubject: 8/16 Friday Proffer - Efrain Reyes GEO \n< \n> \nHi \nWe are working on the Epstein death investigation and would like to proffer with Efrain Reyes, who was his cellmate up \nuntil the day he died. Reyes' lawyer is only available to do a proffer this Friday, and given the ongoing investigation, it \nwill be difficult to make agents available for a takeout order. Would the USM make an exception and produce Reyes for a \nproffer on Friday? Thanks. \nAssistant United States Attorney \nSouthern District of New York \nTe \nEFTA00032298",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Friday Proffer",
+        "role": "extracted",
+        "context": ": \nCc: \nI> \nSubject: RE: 8/16 Friday Proffer - Efrain Reyes GEO \nDate: Tue"
+      },
+      {
+        "name": "Efrain Reyes",
+        "role": "extracted",
+        "context": "ct: RE: 8/16 Friday Proffer - Efrain Reyes GEO \nDate: Tue, 13 Aug 2019 1"
+      },
+      {
+        "name": "Supervisory Deputy",
+        "role": "extracted",
+        "context": "pproved for Friday. \nThanks, \nSupervisory Deputy United States Marshal \nSouthe"
+      },
+      {
+        "name": "Marshal \nSouthern",
+        "role": "extracted",
+        "context": "ervisory Deputy United States Marshal \nSouthern District of New York \nOffice:"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "day, August 13, 2019 2:41 PM \nTo \nSubject: Fwd: 8/16 Friday Proffer - E"
+      },
+      {
+        "name": "Hi \nWe",
+        "role": "extracted",
+        "context": "fer - Efrain Reyes GEO \n< \n> \nHi \nWe are working on the Epstein de"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "proffer on Friday? Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ay? Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTe \nEFTA00032298"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-13",
+        "event": "August 13, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.011Z"
+}

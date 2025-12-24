@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013605",
+    "filename": "EFTA00013605.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013605.pdf",
+    "text": "\n\nFrom: \"Alan Dershowitz\" \nTo: \nSubject:From an ers rowrtz \nDate: Fri, 27 Mar 2009 15:59:26 +0000 \nImportance: Normal \nDear \nSony I didn't get back to you sooner but I've been incredibly busy since I left paradise in Miami Beach. Just \nargued an appeal in NY and debated the Mideast at Georgetown. I greatly appreciate your willingness to call the \nsheriff and advise him that your office would take no position on how he handled Epstein's sentence as long as \nhe didn't get special treatment, but let's put any call off for a while. . Thanks. \nAlan \nEFTA00013605",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Alan Dershowitz",
+        "role": "extracted",
+        "context": "From: \"Alan Dershowitz\" \nTo: \nSubject:From an ers rowrtz \nDate: Fri, 27"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "9 15:59:26 +0000 \nImportance: Normal \nDear \nSony I didn't get back to yo"
+      },
+      {
+        "name": "Miami Beach",
+        "role": "extracted",
+        "context": "busy since I left paradise in Miami Beach. Just \nargued an appeal in NY"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.962Z"
+}

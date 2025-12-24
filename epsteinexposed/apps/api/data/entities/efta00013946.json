@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013946",
+    "filename": "EFTA00013946.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013946.pdf",
+    "text": "\n\nFrom: \nTo: \nBce: \nSubject: Are these alright to send out to Jay and Roy? \nDate: Thu, 21 Aug 2008 13:29:05 +0000 \nImportance: Normal \nAttachments: Amended Final Victim_Notification_--\n080820aLtr_to_Lefkowitz_and_Black.wpd \n«Amended \nFinal Victim Notification — \nAssistant U.S. Attorney \nPhone \nFax \nfinal.wpd» «080820 Ltr to Lefkowitz and Black.wpd» \nEFTA00013946",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 13:29:05 +0000 \nImportance: Normal \nAttachments: Amended Final Victim_Notific"
+      },
+      {
+        "name": "Amended Final",
+        "role": "extracted",
+        "context": "ortance: Normal \nAttachments: Amended Final Victim_Notification_--\n080820"
+      },
+      {
+        "name": "Amended \nFinal",
+        "role": "extracted",
+        "context": "_to_Lefkowitz_and_Black.wpd \n«Amended \nFinal Victim Notification — \nAssist"
+      },
+      {
+        "name": "Victim Notification",
+        "role": "extracted",
+        "context": "nd_Black.wpd \n«Amended \nFinal Victim Notification — \nAssistant U.S. Attorney \nP"
+      },
+      {
+        "name": "Attorney \nPhone",
+        "role": "extracted",
+        "context": "otification — \nAssistant U.S. Attorney \nPhone \nFax \nfinal.wpd» «080820 Ltr"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.796Z"
+}

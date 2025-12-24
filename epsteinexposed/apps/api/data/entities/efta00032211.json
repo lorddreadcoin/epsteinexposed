@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00032211",
+    "filename": "EFTA00032211.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032211.pdf",
+    "text": "\n\nFront: '  \n„cl \nTo: , ' \nCc: \n(USANYS)\"  \nSubject: RE: Epstein Victims \nDate: Mon, 24 Aug 2020 21:52:27 +0000 \nThanks very much, I believe this is related to a meeting that OPR is planning to invite all known Epstein victims to \nin order to announce the results of OPR's investigation into SDFL's non-prosecution agreement with Epstein. \nFrom \nSent: Monday, August 24, 2020 4:36 PM \nTo: \nc=s \nSubject: FW: Epstein Victims \nJust wanted to let you know about this invite. \nFrom \nSent: Monday, August 24, 2020 4:12 PM \nTo: \nSubject: Epstein Victims \nI obtained your name and contact information fro He advised you \nare the V/W \nCoordinator working with the Epstein victims. Are you available for a telephone call tomorrow afternoon \nwith myself, ?  The call is scheduled from \n3:30-4:30 p.m. If you are \navailable, I will send a calendar invite. \nThanks, \nAssociate Deputy Attorney \nGeneral & \nNational Coordinator for Child Exploitation & Human Trafficking \nU.S. Department of Justice \nEFTA00032211",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Victims",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\"  \nSubject: RE: Epstein Victims \nDate: Mon, 24 Aug 2020 21:52"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "tion agreement with Epstein. \nFrom \nSent: Monday, August 24, 2020 4:36"
+      },
+      {
+        "name": "Associate Deputy",
+        "role": "extracted",
+        "context": "a calendar invite. \nThanks, \nAssociate Deputy Attorney \nGeneral & \nNational"
+      },
+      {
+        "name": "Attorney \nGeneral",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssociate Deputy Attorney \nGeneral & \nNational Coordinator for C"
+      },
+      {
+        "name": "National Coordinator",
+        "role": "extracted",
+        "context": "e Deputy Attorney \nGeneral & \nNational Coordinator for Child Exploitation & Huma"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "l & \nNational Coordinator for Child Exploitation & Human Trafficking \nU.S. Dep"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ator for Child Exploitation & Human Trafficking \nU.S. Department of Justice"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-24",
+        "event": "August 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.874Z"
+}

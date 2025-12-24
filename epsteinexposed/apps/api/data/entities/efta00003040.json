@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00003040",
+    "filename": "EFTA00003040.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003040.pdf",
+    "text": "\n\n011 \n:ut \n)o. \n.\n1) \ntclz \nAAP \n40\nLSJE, \nLLC \n6100 \nRed \nHook \nuarters, \nSuite \nB-3. \nSt. \nThomas. \nVI \n00802-1348 \nPhone: \nE-mail: \nthesaintjames.grop@gmail.com \nEmergency \nContact \nForm \nToday's \nDate:\nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nStart \nDate: \nDate \nof \nBirth:\nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nA- \nO \nA+ \nO \nAB- \nD \nAB+ \nE \nB- \n0 \nBr. \nC \n0- \nO \nO4- \nO \nUnknown \nCurrent \nMedications: \nI \nDoctor's \nName:\nDoctor's \nName: \nDoctors \nPhone: \nDoctors \nPhone: \nIn \ncase \nof \nemergency, \nplease \ncontact \nName:\nName: \nRelationship: \nRelationship: \nPhone: \nPhone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers. \nEFTA00003040",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "lz \nAAP \n40\nLSJE, \nLLC \n6100 \nRed \nHook \nuarters, \nSuite \nB-3. \nSt."
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "thesaintjames.grop@gmail.com \nEmergency \nContact \nForm \nToday's \nDate:\nEmploye"
+      },
+      {
+        "name": "Form \nToday",
+        "role": "extracted",
+        "context": "mail.com \nEmergency \nContact \nForm \nToday's \nDate:\nEmployee \nName: \nPhy"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "Contact \nForm \nToday's \nDate:\nEmployee \nName: \nPhysical \nAddress: \nMailing"
+      },
+      {
+        "name": "Physical \nAddress",
+        "role": "extracted",
+        "context": "day's \nDate:\nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPh"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "e \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitl"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "Address: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nS"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "e: \nE-mail: \nTitle/Position: \nStart \nDate: \nDate \nof \nBirth:\nPhone \n(ot"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "of \nBirth:\nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nAll"
+      },
+      {
+        "name": "License \nNo",
+        "role": "extracted",
+        "context": "Marital \nStatus: \nDriver's \nLicense \nNo: \nAllergies \nor \nHealth \nConc"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "License \nNo: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nA- \nO \nA+ \nO"
+      },
+      {
+        "name": "Unknown \nCurrent",
+        "role": "extracted",
+        "context": "B- \n0 \nBr. \nC \n0- \nO \nO4- \nO \nUnknown \nCurrent \nMedications: \nI \nDoctor's \nN"
+      },
+      {
+        "name": "Doctors \nPhone",
+        "role": "extracted",
+        "context": "tor's \nName:\nDoctor's \nName: \nDoctors \nPhone: \nDoctors \nPhone: \nIn \ncase"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.577Z"
+}

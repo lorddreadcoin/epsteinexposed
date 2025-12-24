@@ -1,0 +1,143 @@
+{
+  "document": {
+    "id": "efta00014014",
+    "filename": "EFTA00014014.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014014.pdf",
+    "text": "\n\nFrom: \nTo: '   (USAFLS)\" \nSubject: Re: FW: Request for Written Staff Opinion ATTN Elizabeth Clark Tarbert \nDate: Mon, 29 Sep 2008 17:32:47 +0000 \nImportance: Normal \nAttachments: Florida_Bar Ltr re_Ethics_Opinion.pdf; Final_Victim_Notification_--_Sample.pdf; \nFinal Victim_Notification_Represented Sample.pdf \nInline-Images: graycol.gif \nDear Ms. \nThank you for re-sending the inquiry. Most inquiries receive a reply within 3-5 weeks. \nSincerely, \nElizabeth Clark Tarbert \nEthics Counsel \n'-I \n(USAFLS)\" < on 09/29/2008 12:05:05 PM \nTo: \"Ethics Opinions\" S> \ncc: \nSubject: FW: Request for Written Staff Opinion ATTN Elizabeth Clark Tarbert \nStaff: \nDear Ms. Tarbert —  Here is my earlier e-mail. \nThank \nyou. \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: \nSent: Thursda \nTo: \nCc: \n(USAFLS) \nSeptember 18, 2008 7:21 PM \n(USAFLS); (USAFLS) \nSubject: Request for Written Staff Opinion \nEFTA00014014\n\nDear Sir or Madam: Please see the attached \ncorrespondence. Thank you for your assistance. \n<<Florida Bar Ltr re Ethics Opinion.pdf>> \n«Final Victim Notification -- Sample.pdf» \n«Final Victim Notification Represented Sample.pdf>> \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone \nFax (See attached file: Florida Bar Ltr re Ethics Opinion.pdj)(See attached file: Final Victim \nNotification -- Sample.pdj)(See attached file: Final Victim Notification Represented Sample.pdf) \nEFTA00014015",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thank",
+        "role": "extracted",
+        "context": "ine-Images: graycol.gif \nDear Ms. \nThank you for re-sending the i"
+      },
+      {
+        "name": "Tarbert",
+        "role": "extracted",
+        "context": "h Clark Tarbert \nStaff: \nDear Ms. Tarbert —  Here is my earlier e-m"
+      },
+      {
+        "name": "Written Staff",
+        "role": "extracted",
+        "context": "Subject: Re: FW: Request for Written Staff Opinion ATTN Elizabeth Clark"
+      },
+      {
+        "name": "Elizabeth Clark",
+        "role": "extracted",
+        "context": "or Written Staff Opinion ATTN Elizabeth Clark Tarbert \nDate: Mon, 29 Sep 20"
+      },
+      {
+        "name": "Tarbert \nDate",
+        "role": "extracted",
+        "context": "Opinion ATTN Elizabeth Clark Tarbert \nDate: Mon, 29 Sep 2008 17:32:47 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 17:32:47 +0000 \nImportance: Normal \nAttachments: Florida_Bar Ltr re_Ethics_Op"
+      },
+      {
+        "name": "Bar Ltr",
+        "role": "extracted",
+        "context": "Normal \nAttachments: Florida_Bar Ltr re_Ethics_Opinion.pdf; Final_"
+      },
+      {
+        "name": "Final Victim",
+        "role": "extracted",
+        "context": "_Notification_--_Sample.pdf; \nFinal Victim_Notification_Represented Samp"
+      },
+      {
+        "name": "Represented Sample",
+        "role": "extracted",
+        "context": "f; \nFinal Victim_Notification_Represented Sample.pdf \nInline-Images: graycol.g"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "Inline-Images: graycol.gif \nDear Ms. \nThank you for re-sending th"
+      },
+      {
+        "name": "Tarbert \nEthics",
+        "role": "extracted",
+        "context": "Sincerely, \nElizabeth Clark Tarbert \nEthics Counsel \n'-I \n(USAFLS)\" < on"
+      },
+      {
+        "name": "Ethics Opinions",
+        "role": "extracted",
+        "context": "09/29/2008 12:05:05 PM \nTo: \"Ethics Opinions\" S> \ncc: \nSubject: FW: Reques"
+      },
+      {
+        "name": "Tarbert \nStaff",
+        "role": "extracted",
+        "context": "Opinion ATTN Elizabeth Clark Tarbert \nStaff: \nDear Ms. Tarbert —  Here is"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "Thank \nyou. \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom:"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: \nSent: Thursda \nTo: \nC"
+      },
+      {
+        "name": "Thursda \nTo",
+        "role": "extracted",
+        "context": "401 \nPhone \nFax \nFrom: \nSent: Thursda \nTo: \nCc: \n(USAFLS) \nSeptember 18"
+      },
+      {
+        "name": "Dear Sir",
+        "role": "extracted",
+        "context": "Staff Opinion \nEFTA00014014\n\nDear Sir or Madam: Please see the atta"
+      },
+      {
+        "name": "Florida Bar",
+        "role": "extracted",
+        "context": "k you for your assistance. \n<<Florida Bar Ltr re Ethics Opinion.pdf>>"
+      },
+      {
+        "name": "Ethics Opinion",
+        "role": "extracted",
+        "context": "stance. \n<<Florida Bar Ltr re Ethics Opinion.pdf>> \n«Final Victim Notifica"
+      },
+      {
+        "name": "Notification Represented",
+        "role": "extracted",
+        "context": "-- Sample.pdf» \n«Final Victim Notification Represented Sample.pdf>> \nAssistant U.S."
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-09-29",
+        "event": "09/29/2008"
+      },
+      {
+        "date": "2008-09-18",
+        "event": "September 18, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.940Z"
+}

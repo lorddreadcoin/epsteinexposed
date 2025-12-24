@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00005705",
+    "filename": "EFTA00005705.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00005705.pdf",
+    "text": "\n\nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nCHS REPORTING DOCUMENT \nForm Classification: UNCLASSIFIED \nSource Id: \nDate: 2010-12-10 \nCase Agent Name: \nField Office: Jacksonville \nSquad: 10 \nDate of Contact: 2010-12-10 \nParticipants/Witnesses: \nType of Contact: In Person \nLocation \nCountry: UNITED STATES \nCity: Jacksonville \nState: Florida \nDate of Report 2010-12-10 \nSubstantive Case File Number: 31E-MM-108062 \nSource Reporting: \nSource provided current email address for as \nSource also has received 8 current photographs of that were \nforwarded by to ATP-Jacksonville recently.These will be forwarded to \nMM under separate cover. \nUNCLASSIFIED \nEFTA00005705\n\nEFTA00005706",
+    "pageCount": 2,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Form Classification",
+        "role": "extracted",
+        "context": "TION \nCHS REPORTING DOCUMENT \nForm Classification: UNCLASSIFIED \nSource Id: \nDa"
+      },
+      {
+        "name": "Source Id",
+        "role": "extracted",
+        "context": "Classification: UNCLASSIFIED \nSource Id: \nDate: 2010-12-10 \nCase Agen"
+      },
+      {
+        "name": "Case Agent",
+        "role": "extracted",
+        "context": "Source Id: \nDate: 2010-12-10 \nCase Agent Name: \nField Office: Jacksonv"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "2010-12-10 \nCase Agent Name: \nField Office: Jacksonville \nSquad: 10 \nDat"
+      },
+      {
+        "name": "Jacksonville \nSquad",
+        "role": "extracted",
+        "context": "se Agent Name: \nField Office: Jacksonville \nSquad: 10 \nDate of Contact: 2010-12"
+      },
+      {
+        "name": "In Person",
+        "role": "extracted",
+        "context": "/Witnesses: \nType of Contact: In Person \nLocation \nCountry: UNITED ST"
+      },
+      {
+        "name": "Location \nCountry",
+        "role": "extracted",
+        "context": "Type of Contact: In Person \nLocation \nCountry: UNITED STATES \nCity: Jackson"
+      },
+      {
+        "name": "Jacksonville \nState",
+        "role": "extracted",
+        "context": "Country: UNITED STATES \nCity: Jacksonville \nState: Florida \nDate of Report 2010"
+      },
+      {
+        "name": "Florida \nDate",
+        "role": "extracted",
+        "context": "S \nCity: Jacksonville \nState: Florida \nDate of Report 2010-12-10 \nSubstan"
+      },
+      {
+        "name": "Substantive Case",
+        "role": "extracted",
+        "context": "a \nDate of Report 2010-12-10 \nSubstantive Case File Number: 31E-MM-108062 \nS"
+      },
+      {
+        "name": "Source Reporting",
+        "role": "extracted",
+        "context": "e File Number: 31E-MM-108062 \nSource Reporting: \nSource provided current ema"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2010-12-10",
+        "event": "2010-12-10"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.112Z"
+}

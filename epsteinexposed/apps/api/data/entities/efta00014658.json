@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00014658",
+    "filename": "EFTA00014658.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014658.pdf",
+    "text": "\n\nEvent: Accepted: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nStart Date: 2021-11-21 19:00:00 +0000 \nEnd Date: 2021-11-21 19:30:00 +0000 \nLocation: \nClass: X-PERSONAL \nComment: \nDate Created: 2021-11-20 22:01:13 +0000 \nDate Modified: 2021-11-20 22:01:13 +0000 \nPriority: 5 \nDTSTAMP: 2021-11-20 21:54:30 +0000 \nAttendee: Stoddart, Allison \n<-\n> \nEFTA00014658",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Event: Accepted: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nStart Date: 2021-11-21 19:00:0"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "ne Maxwell, 20 Cr. 330 (AJN) \nStart Date: 2021-11-21 19:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-11-21 19:00:00 +0000 \nEnd Date: 2021-11-21 19:30:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-11-20 22:01:13 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-11-20 22:01:13 +0000 \nDate Modified: 2021-11-20 22:01:13 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-21",
+        "event": "2021-11-21"
+      },
+      {
+        "date": "2021-11-20",
+        "event": "2021-11-20"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.294Z"
+}

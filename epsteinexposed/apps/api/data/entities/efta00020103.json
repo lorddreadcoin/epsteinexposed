@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00020103",
+    "filename": "EFTA00020103.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020103.pdf",
+    "text": "\n\nU.S. \nDepartment of \n.Justice \nUnited States Attorney \nSouthern District of New York \nThe Si!io J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober 11, 2021 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29th Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (LIN) \nEnclosed are witness materials and discovery pertinent to the following inmate: \n• Ghislaine Maxwell: 02879-509 \nPlease allow her access to the materials enclosed. \nby: \nEnclosure \nVery truly yours, \nDAMIAN WILLIAMS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA00020103",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (LIN) \nEnclosed are witness materials"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of \n.Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "partment of \n.Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Si!io J. Mol"
+      },
+      {
+        "name": "The Si",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Si!io J. Mollo Building \nOne Sai"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "ict of New York \nThe Si!io J. Mollo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Si!io J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "21 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29th Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29th Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Enclosure \nVery",
+        "role": "extracted",
+        "context": "the materials enclosed. \nby: \nEnclosure \nVery truly yours, \nDAMIAN WILLIAMS"
+      },
+      {
+        "name": "Attorney \nAssistant",
+        "role": "extracted",
+        "context": "AMIAN WILLIAMS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-11",
+        "event": "October 11, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.194Z"
+}

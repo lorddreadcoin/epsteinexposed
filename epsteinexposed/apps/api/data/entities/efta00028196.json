@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00028196",
+    "filename": "EFTA00028196.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028196.pdf",
+    "text": "\n\nFrom: \"Berman, Geoffre (USANYS)\" \nTo: (NY) (FBI \" \nCc: \n(NY) (FBI)\" < \nSubject: Re: Jeffrey Epstein 19 cr 490 \nDate: Mon, 26 Aug 2019 20:54:10 +0000 \nlet me know if you have a report for today. ' Geoff \nOn \nAug 12, 2019, at 12:57 PM, \nFor info on attached. \nForwarded message \nFrom: \n(USMS)\" \nDate: Aug 12, 2019 12:55 \nSubject: FW: Jeffrey Epstein 19 cr 490 \nTo:  (NY) (FBI)\" \nCc: \n(NY) (FBI) < \nwrote: \nFYI \nUnited States Marshal \nSouthern District of New York \n500 Pearl Street, Suite 400 \nNew York NY 10007 \nOffic \nFax \nI  On Behalf Of \nSent: Monda Au ust 12, 2019 12:47 PM \nTo \nc: • \n(USMS) \n. Jeffrey Epstein 19 cr 490 \nImportance: High \nPlease see attached letter from Judge Richard M. Berman. \n(See attached file: Aug 12 letter.pdf) \n<Aug 12 letter.pdf> \nEFTA00028196",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "To: (NY) (FBI \" \nCc: \n(NY) (FBI)\" < \nSubject: Re: Jeffrey Epstein 19 cr 490 \nDate: Mon, 26 Aug 2019 20:54:10 +0000"
+      },
+      {
+        "name": "Geoff \nOn",
+        "role": "extracted",
+        "context": "ou have a report for today. ' Geoff \nOn \nAug 12, 2019, at 12:57 PM,"
+      },
+      {
+        "name": "Marshal \nSouthern",
+        "role": "extracted",
+        "context": "< \nwrote: \nFYI \nUnited States Marshal \nSouthern District of New York \n500 Pea"
+      },
+      {
+        "name": "Pearl Street",
+        "role": "extracted",
+        "context": "ern District of New York \n500 Pearl Street, Suite 400 \nNew York NY 10007"
+      },
+      {
+        "name": "Offic \nFax",
+        "role": "extracted",
+        "context": "Suite 400 \nNew York NY 10007 \nOffic \nFax \nI  On Behalf Of \nSent: Monda"
+      },
+      {
+        "name": "On Behalf",
+        "role": "extracted",
+        "context": "York NY 10007 \nOffic \nFax \nI  On Behalf Of \nSent: Monda Au ust 12, 20"
+      },
+      {
+        "name": "Of \nSent",
+        "role": "extracted",
+        "context": "007 \nOffic \nFax \nI  On Behalf Of \nSent: Monda Au ust 12, 2019 12:47"
+      },
+      {
+        "name": "Monda Au",
+        "role": "extracted",
+        "context": "Fax \nI  On Behalf Of \nSent: Monda Au ust 12, 2019 12:47 PM \nTo \nc:"
+      },
+      {
+        "name": "High \nPlease",
+        "role": "extracted",
+        "context": "pstein 19 cr 490 \nImportance: High \nPlease see attached letter from Judg"
+      },
+      {
+        "name": "Judge Richard",
+        "role": "extracted",
+        "context": "ease see attached letter from Judge Richard M. Berman. \n(See attached fil"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.808Z"
+}

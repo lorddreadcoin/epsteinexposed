@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029841",
+    "filename": "EFTA00029841.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029841.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: White Plains GI \nMotion \nDate: Wed, 03 Feb 2021 01:20:51 +0000 \nAttachments: !Memo of Law ISO Motion_ to_ Dismiss Indictment_As_Obtained_ In_ Violation_ of Sixth \n_Amendment.pdf \nHi \nGhislaine Maxwell recently filed the attached motion to dismiss the indictment in her case because it was returned by a \ngrand jury sitting in White Plains. Case is United States v. Maxwell, 20 Cr. 330 (MN), and our opposition brief is due \n2/26/2 \nThanks, \nEFTA00029841",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ned_ In_ Violation_ of Sixth \n_Amendment.pdf \nHi \nGhislaine Maxwell recently filed the attached motion to dismiss the"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: White Plains GI \nMotion \nDate: Wed, 03 Feb"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "c: \nSubject: White Plains GI \nMotion \nDate: Wed, 03 Feb 2021 01:20:51 +0"
+      },
+      {
+        "name": "Dismiss Indictment",
+        "role": "extracted",
+        "context": "!Memo of Law ISO Motion_ to_ Dismiss Indictment_As_Obtained_ In_ Violation_ o"
+      },
+      {
+        "name": "Hi \nGhislaine",
+        "role": "extracted",
+        "context": "on_ of Sixth \n_Amendment.pdf \nHi \nGhislaine Maxwell recently filed the at"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.350Z"
+}

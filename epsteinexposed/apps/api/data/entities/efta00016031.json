@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016031",
+    "filename": "EFTA00016031.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016031.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: US v. Maxwell, \n20 CR. 330 (MN) - replacement discovery materials \nDate: Fri, 18 Dec 2020 21:29:01 +0000 \nAttachments: 2020.12.18_Maxwell_Discovery_Letter (final).pdf; SDNY_GM_02742184.xlsx; \nSDNY GM 02742185-SDNY_GM 02742186.pde SDNY_GM_02742187- \nSDNY GM 02742188.pdf; SDNY -GM_02742189-SDNY_GM_02742190.pdf; \nSDNY GM 02742191-SDNY_GM 02742236.pdf; SDNY_GM_02742237- \nSDNY GM 02742268.pdf; SDNY —GM_02742269-SDNY_GM_02742302.pdf \nCounsel, \nToday, our team realized that a handful of documents from recent productions were inadvertently labeled with incorrect \nBates numbers. Attached please find copies of those documents with corrected Bates numbers, as well as an \naccompanying cover letter. We are also sending a copy of these materials on a disc to the MDC for your client. \nBest \nAssistant United States Attorney \nSouthern District of New York \nEFTA00016031",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: US v. Maxwell,"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: US v. Maxwell, \n20 CR. 330 ("
+      },
+      {
+        "name": "Best \nAssistant",
+        "role": "extracted",
+        "context": "to the MDC for your client. \nBest \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "Best \nAssistant United States Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.992Z"
+}

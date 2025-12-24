@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029435",
+    "filename": "EFTA00029435.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029435.pdf",
+    "text": "\n\nFrom: Jes Staley < \nTo: sjeeyacation@gma> \nSent: \n12/31/2010 12:53:26 AM \nSubject: \nHappy new year. It nice to have u free. \nMuch to come. \nPlease know that I am an friend forever. You are very special. \nKnowing u, I will toast to the two of us, tomorrow night. \nBest \nJes \nConfidential Treatment Requested by JPMorgan Chase JPM-SDNY-00001262 \nEFTA00029435",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jes Staley",
+        "role": "extracted",
+        "context": "From: Jes Staley < \nTo: sjeeyacation@gma> \nSen"
+      },
+      {
+        "name": "Best \nJes",
+        "role": "extracted",
+        "context": "e two of us, tomorrow night. \nBest \nJes \nConfidential Treatment Reque"
+      },
+      {
+        "name": "Confidential Treatment",
+        "role": "extracted",
+        "context": ", tomorrow night. \nBest \nJes \nConfidential Treatment Requested by JPMorgan Chase J"
+      },
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "tial Treatment Requested by JPMorgan Chase JPM-SDNY-00001262 \nEFTA000294"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2010-12-31",
+        "event": "12/31/2010"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.414Z"
+}

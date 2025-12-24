@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013427",
+    "filename": "EFTA00013427.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013427.pdf",
+    "text": "\n\nFrom: \nDate: \nrice \nFriday, October 9, 2020 5:03:27 PM \nWill do. Safe travels. \nNY CART Coordinator \nSenior Forensic Examiner \nOn Oct 9, 2020 4:50 PM, > wrote: \nHeys \nI know you mentioned you'd be at the evidence garage on Wednesday. While you are there, can \nyou check on some of the below items? \nCan you find out what the NY Cart numbers are for 18 53 and 1B 57? I have one number 024329. \nI'm not sure which one this is associated to and what the other one is. \nAlso, can you check on 1B 29, 1B 30, and 18 32 to see if they were processed or are they duplicates? \nIf they are duplicates, which 18 are each of them a duplicate of? \nCan you also pull 1B 35, 1B 36, 18 37, 1B 38, 1B 39, and 1B 40 and see what each of their Cart \nnumbers are? \nI will be out next week. I'll be six hours ahead of you timewise, so feel free to call me if there are \nquestions or you'd like to talk through. I cc'd Kelly here as someone who will be in the office if you \nhave questions. I filled her in as well so she should be able to help you if questions arise. \nSpecial Agen \nFBI New York Field Office \nEFTA00013427",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Coordinator \nSenior",
+        "role": "extracted",
+        "context": "ll do. Safe travels. \nNY CART Coordinator \nSenior Forensic Examiner \nOn Oct 9,"
+      },
+      {
+        "name": "Forensic Examiner",
+        "role": "extracted",
+        "context": "NY CART Coordinator \nSenior Forensic Examiner \nOn Oct 9, 2020 4:50 PM, > wr"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "or \nSenior Forensic Examiner \nOn Oct 9, 2020 4:50 PM, > wrote: \nHe"
+      },
+      {
+        "name": "Special Agen",
+        "role": "extracted",
+        "context": "help you if questions arise. \nSpecial Agen \nFBI New York Field Office \nE"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": ". \nSpecial Agen \nFBI New York Field Office \nEFTA00013427"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-09",
+        "event": "October 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.568Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00025380",
+    "filename": "EFTA00025380.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025380.pdf",
+    "text": "\n\nFrom: \nTo:' \nSubject: pros memo / flight stuff \nDate: Wed, 09 Oct 2019 20:30:33 +0000 \nAttachments: 2019-06-17, JE,_prosecution_inemo.doex \nHey, so unfortunately the open-source website that tracked private planes (even those that paid to be de-listed on public \ntrackers, such as your target jet) is currently down as of just a couple days ago: \nhttps://adsbexchange.com/flight-data-sql-archive/ \nIf it comes back up, may be of use, otherwise you may have to rely on international flight records. \nAnd pros memo attached, as promised — again, don't hesitate to be in touch if anything else would be useful, whether in \nthe near term or further along in your investigation. Good luck! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00025380",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "n. Good luck! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-17",
+        "event": "2019-06-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.045Z"
+}

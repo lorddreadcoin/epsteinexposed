@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00025005",
+    "filename": "EFTA00025005.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025005.pdf",
+    "text": "\n\nOFFICIAL RECORD \n[Ddoll“Rev \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nImport Form \nForm Type: C'HL. \nDate: \nTitle: ;)  Victim Services Division - Case Support Unit Assista:. \nApproved By: \nDrafted By: \nCase ID \n#: \n(U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nSynopsis: (U) To document. ViCti7. outreach support efforts for the \n• ‘  11, 2020 ODAG briefing of the OPR findings. \nEnclosure(s): Enclosed are the following items: \n1. (U) Updated Contact Information as of 11/18/2020 \n** \nUNCLASSIFIED \nEFTA00025005",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Import Form",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nImport Form \nForm Type: C'HL. \nDate: \nTit"
+      },
+      {
+        "name": "Form Type",
+        "role": "extracted",
+        "context": "F INVESTIGATION \nImport Form \nForm Type: C'HL. \nDate: \nTitle: ;)  Vic"
+      },
+      {
+        "name": "Victim Services",
+        "role": "extracted",
+        "context": "ype: C'HL. \nDate: \nTitle: ;)  Victim Services Division - Case Support Unit"
+      },
+      {
+        "name": "Case Support",
+        "role": "extracted",
+        "context": ")  Victim Services Division - Case Support Unit Assista:. \nApproved By:"
+      },
+      {
+        "name": "Unit Assista",
+        "role": "extracted",
+        "context": "vices Division - Case Support Unit Assista:. \nApproved By: \nDrafted By:"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "Case Support Unit Assista:. \nApproved By: \nDrafted By: \nCase ID \n#: \n("
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "Unit Assista:. \nApproved By: \nDrafted By: \nCase ID \n#: \n(U) EPSTEIN, J"
+      },
+      {
+        "name": "Updated Contact",
+        "role": "extracted",
+        "context": "the following items: \n1. (U) Updated Contact Information as of 11/18/2020"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-18",
+        "event": "11/18/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.288Z"
+}

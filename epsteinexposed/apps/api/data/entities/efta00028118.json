@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00028118",
+    "filename": "EFTA00028118.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028118.pdf",
+    "text": "\n\nFrom: \" \nTo: \"Weinstein, Marc A.\" <marc.weinstein@hugheshubbard.com> \nSubject: Accepted: Epstein Estate \nDate: Mon, 09 Nov 2020 16:01:01 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00028118",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "bard.com> \nSubject: Accepted: Epstein Estate \nDate: Mon, 09 Nov 2020 16:01"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 16:01:01 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00028118"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.660Z"
+}

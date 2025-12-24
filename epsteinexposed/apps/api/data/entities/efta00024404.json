@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00024404",
+    "filename": "EFTA00024404.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024404.pdf",
+    "text": "\n\nFrom: USANYS)\" \ncfl \nTo: ' (USANYS)\" \nSubject: Re: New Case Opening \nDate: Tue, 13 Aug 2019 12:30:01 +0000 \nThanks. \nOn Aug 13, 2019, at 8:07 AM, \nGood Morning \nThe case has been opened as follows: \n1. Case: In Re: Epstein Death Investigation \nUSAO Number: 2019R01059 \nThank you, \nLegal Assistant — Criminal Clerk \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, New York 10007 \nTelephone: \nCell Phone: \nFax: \n(USANYS) •cl    wrote: \nEFTA00024404",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Case",
+        "role": "extracted",
+        "context": "To: ' (USANYS)\" \nSubject: Re: New Case Opening \nDate: Tue, 13 Aug 20"
+      },
+      {
+        "name": "Opening \nDate",
+        "role": "extracted",
+        "context": "ANYS)\" \nSubject: Re: New Case Opening \nDate: Tue, 13 Aug 2019 12:30:01 +0"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "2019 12:30:01 +0000 \nThanks. \nOn Aug 13, 2019, at 8:07 AM, \nGood M"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "On Aug 13, 2019, at 8:07 AM, \nGood Morning \nThe case has been opened as"
+      },
+      {
+        "name": "In Re",
+        "role": "extracted",
+        "context": "opened as follows: \n1. Case: In Re: Epstein Death Investigation"
+      },
+      {
+        "name": "Epstein Death",
+        "role": "extracted",
+        "context": "as follows: \n1. Case: In Re: Epstein Death Investigation \nUSAO Number: 2"
+      },
+      {
+        "name": "Legal Assistant",
+        "role": "extracted",
+        "context": "mber: 2019R01059 \nThank you, \nLegal Assistant — Criminal Clerk \nUnited Stat"
+      },
+      {
+        "name": "Criminal Clerk",
+        "role": "extracted",
+        "context": "Thank you, \nLegal Assistant — Criminal Clerk \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "erk \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, New York 10007 \nTelepho"
+      },
+      {
+        "name": "Cell Phone",
+        "role": "extracted",
+        "context": ", New York 10007 \nTelephone: \nCell Phone: \nFax: \n(USANYS) •cl    wrote"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.078Z"
+}

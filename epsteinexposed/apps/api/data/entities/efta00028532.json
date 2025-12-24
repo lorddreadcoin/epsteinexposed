@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00028532",
+    "filename": "EFTA00028532.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028532.pdf",
+    "text": "\n\nFrom: \"IMIMIE\n>\nTo:'\nCc: \nSubject: Return of Property Epstein \nDate: Fri, 02 Aug 2019 13:19:23 +0000 \nGood \nMorning and Team, \nJust wanted to give everyone notice that Epstein's suitcases and property was returned this morning as of \n9:00am. The items were returned to a private investigator on behalf of Epstein's legal counsel that consulted with \nlast night on 08/01/2019 \nFrank Senerchia \nOrion Investi ations Inc. \nNew York, New York 10017 \nI  went through item by item on our receipt for property with Mr. Senerchia which he verified. I have a photo of \nhis ID as well as photos of him signing our receipt for property forms. \nand M, I'll knock out a 302 for you on Monday for today's task. \nHave a good weekend \nSA \nFBI-New \nYork \nC-20 Child \nExploitation/Human Trafficking Task Force \nDesk \nCell \nEFTA00028532",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Senerchia",
+        "role": "extracted",
+        "context": "our receipt for property with Mr. Senerchia which he verified. I have"
+      },
+      {
+        "name": "Property Epstein",
+        "role": "extracted",
+        "context": "To:'\nCc: \nSubject: Return of Property Epstein \nDate: Fri, 02 Aug 2019 13:19"
+      },
+      {
+        "name": "Good \nMorning",
+        "role": "extracted",
+        "context": ", 02 Aug 2019 13:19:23 +0000 \nGood \nMorning and Team, \nJust wanted to giv"
+      },
+      {
+        "name": "Frank Senerchia",
+        "role": "extracted",
+        "context": "th \nlast night on 08/01/2019 \nFrank Senerchia \nOrion Investi ations Inc. \nN"
+      },
+      {
+        "name": "Orion Investi",
+        "role": "extracted",
+        "context": "08/01/2019 \nFrank Senerchia \nOrion Investi ations Inc. \nNew York, New Yo"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "Have a good weekend \nSA \nFBI-New \nYork \nC-20 Child \nExploitation/Hum"
+      },
+      {
+        "name": "Child \nExploitation",
+        "role": "extracted",
+        "context": "kend \nSA \nFBI-New \nYork \nC-20 Child \nExploitation/Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ork \nC-20 Child \nExploitation/Human Trafficking Task Force \nDesk \nCell \nEFTA0"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation/Human Trafficking Task Force \nDesk \nCell \nEFTA00028532"
+      },
+      {
+        "name": "Desk \nCell",
+        "role": "extracted",
+        "context": "Human Trafficking Task Force \nDesk \nCell \nEFTA00028532"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-01",
+        "event": "08/01/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.415Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00022172",
+    "filename": "EFTA00022172.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022172.pdf",
+    "text": "\n\nFrom: \nS\" \nSIMW \nTo: \nIIMEIr\" \n<MISIM›, \nSubject: RE: Epstein \nDate: Mon, 09 Dec 2019 22:26:34 +0000 \n)11 \nLet's do 12:30. \n<MEMO.> \nOri inal Messa e \nFrom: \nSent: \nMonday. \nDecember \n9.2019 \n4:39 PM \nTo: \nSubject: RE: Epstein \nYes. Either one is fine. \n Ori inal Messa e \nFrom: \n() alMIE> \n<MINIMME> \nSent: Monda , December 9 2019 4:30 PM \nTo: i\nSubject: RE: Epstein \nSure. We just met with the team. \nWould 12:30 or 1  work? \n Ori inal Messa e \nFrom:\nSent: Monda , December 9 2019 4:13 PM \nTo: \n`Ma; \nSubject: Epstein \nCan we talk Epstein tomorrow? \nSent from my iPhone \nEFTA00022172",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "MEIr\" \n<MISIM›, \nSubject: RE: Epstein \nDate: Mon, 09 Dec 2019 22:26:34 +0"
+      },
+      {
+        "name": "Epstein \nYes",
+        "role": "extracted",
+        "context": "9 \n4:39 PM \nTo: \nSubject: RE: Epstein \nYes. Either one is fine. \n Ori in"
+      },
+      {
+        "name": "Epstein \nSure",
+        "role": "extracted",
+        "context": "9 4:30 PM \nTo: i\nSubject: RE: Epstein \nSure. We just met with the team."
+      },
+      {
+        "name": "Epstein \nCan",
+        "role": "extracted",
+        "context": "4:13 PM \nTo: \n`Ma; \nSubject: Epstein \nCan we talk Epstein tomorrow? \nSe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-09",
+        "event": "December 9 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.167Z"
+}

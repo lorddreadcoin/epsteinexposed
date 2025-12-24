@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00018557",
+    "filename": "EFTA00018557.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018557.pdf",
+    "text": "\n\nFrom: \n\"Ma' \nCc: \"Berman, Geoffrey \n(USANYS)\" alMINE> \nSubject: Epstein Indictment \nDate: Fri, 12 Jun 2020 14:48:05 +0000 \nAttachments: 2019-07-01, JEUIrst_indictment,_final.docx \nEFTA00018557",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Indictment",
+        "role": "extracted",
+        "context": "(USANYS)\" alMINE> \nSubject: Epstein Indictment \nDate: Fri, 12 Jun 2020 14:48"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-01",
+        "event": "2019-07-01"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.181Z"
+}

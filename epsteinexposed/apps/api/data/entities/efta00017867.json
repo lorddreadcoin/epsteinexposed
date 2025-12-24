@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00017867",
+    "filename": "EFTA00017867.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017867.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Notes from last week \nDate: Thu, 09 Sep 2021 23:54:26 +0000 \nAttachments: 1995-11-07 Oxford_Ittpdf; Epstein Blackbook OCR.pdf \nThanks very much. See attached. As to the second attachment (the blackbook), we only showed her page 19 of the \nattached PDF. When you send this 302, please be sure to include whatever attachments you include to the 302. Thanks \nagain! \nFrom: \nSent: Thursday, September 9, 2021 12:40 PM \nTo: \nCc: \nSubject: Re: Notes from last week \nNo problem. I'm not in the office today but will be back tomorrow and I can send all of my notes along. Can you please \nsend me the documents we discussed that we're shown during the interview that was just me and you present for? \nOnce I have those I can finalize the 302 and send that to you tomorrow as well once it gets approved. \nOn Sep 9, 2021, at 11:58, wrote: \nCAUTION! EXTERNAL SENDER \nSTOP WHEN UNSURE. Never click on links or open attachments if sender is unknown, and never provide \nuser ID or password. Suspicious? Please report to this email address: \nreportphishing(drivpd.org \nHi \nI know you guys are still working on the 302s from out meetings last week, but can you please send us the notes from \nthe meetings last week? \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00017867",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Blackbook",
+        "role": "extracted",
+        "context": "ts: 1995-11-07 Oxford_Ittpdf; Epstein Blackbook OCR.pdf \nThanks very much. Se"
+      },
+      {
+        "name": "On Sep",
+        "role": "extracted",
+        "context": "well once it gets approved. \nOn Sep 9, 2021, at 11:58, wrote: \nCA"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "meetings last week? \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "k? \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "1995-11-07",
+        "event": "1995-11-07"
+      },
+      {
+        "date": "2021-09-09",
+        "event": "September 9, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.760Z"
+}

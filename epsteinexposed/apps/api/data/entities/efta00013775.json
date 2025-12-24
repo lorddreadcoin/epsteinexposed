@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00013775",
+    "filename": "EFTA00013775.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013775.pdf",
+    "text": "\n\nFrom \nTo: USAFLS)\" <>, \nSubject: Epstein Lawsuit —  You may want to call Jay \nDate: Fri, 01 Feb 2008 01:01:39 +0000 \nImportance: Normal \nmother has filed a motion to intervene and to stay the civil proceedings against Epstein until 18th\nbirthday. mother says that has been \"estranged\" from her father since Thanksgiving and she did \nnot consent to the filing of the lawsuit. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013775",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: USAFLS)\" <>, \nSubject: Epste"
+      },
+      {
+        "name": "Epstein Lawsuit",
+        "role": "extracted",
+        "context": "m \nTo: USAFLS)\" <>, \nSubject: Epstein Lawsuit —  You may want to call Jay"
+      },
+      {
+        "name": "Jay \nDate",
+        "role": "extracted",
+        "context": "wsuit —  You may want to call Jay \nDate: Fri, 01 Feb 2008 01:01:39 +0"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013775"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.376Z"
+}

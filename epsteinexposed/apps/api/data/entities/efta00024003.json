@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00024003",
+    "filename": "EFTA00024003.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024003.pdf",
+    "text": "\n\nUNITED \nSTATES DISTRICT COURT \nSOUTHERN DISTRICT \nOF NEW \nYORK \nuHIIID StrCS OO4.111THOuSE \ncm\nAMBER9 \nOr \nRICHARD M. \nSERMAN \nUNITED \nSTATEs \nDISTRICT \nJUDGE \nAugust 12, 2019 \netro °titan Correctional Center \nDen Warden \nM, \nThank you for your letter of August \n10, 2019 \nregenfing the \ndeath of Jeffrey \nEpstein. Mr. \nEpstein's death is a tragedy to everyone involved in his case. \nOne open question. among others, is whether the investigations \nreferenced in \nyour letter \nwill \ninclude \nthe \nincident at MCC \ninvolving Mr. \nEpstein on or about July 23. \n2019. To my \nknowledge, it has never been \ndefinitively explained what the BOP concluded about that incident. \nkert.IL /11 \nRichard \nM. \nBerman \ncc; Chief \nJ e \nColleen McMahon \nDistrict \nExecutive \nSupervisory \nStaff Attorney MCC \nU.S. \nMarshal \nAssistant United States \nAttorney \nMartin \neinberg. \nCounsel for \nMr. Epstein \nEFTA00024003",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "e \ndeath of Jeffrey \nEpstein. Mr. \nEpstein's death is a tragedy to"
+      },
+      {
+        "name": "Correctional Center",
+        "role": "extracted",
+        "context": "August 12, 2019 \netro °titan Correctional Center \nDen Warden \nM, \nThank you fo"
+      },
+      {
+        "name": "Den Warden",
+        "role": "extracted",
+        "context": "o °titan Correctional Center \nDen Warden \nM, \nThank you for your lette"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "2019 \nregenfing the \ndeath of Jeffrey \nEpstein. Mr. \nEpstein's death is a tr"
+      },
+      {
+        "name": "Colleen Mc",
+        "role": "extracted",
+        "context": "M. \nBerman \ncc; Chief \nJ e \nColleen McMahon \nDistrict \nExecutive \nSu"
+      },
+      {
+        "name": "Mahon \nDistrict",
+        "role": "extracted",
+        "context": "an \ncc; Chief \nJ e \nColleen McMahon \nDistrict \nExecutive \nSupervisory \nStaf"
+      },
+      {
+        "name": "Executive \nSupervisory",
+        "role": "extracted",
+        "context": "e \nColleen McMahon \nDistrict \nExecutive \nSupervisory \nStaff Attorney MCC \nU.S. \nMa"
+      },
+      {
+        "name": "Staff Attorney",
+        "role": "extracted",
+        "context": "rict \nExecutive \nSupervisory \nStaff Attorney MCC \nU.S. \nMarshal \nAssistant"
+      },
+      {
+        "name": "Marshal \nAssistant",
+        "role": "extracted",
+        "context": "ry \nStaff Attorney MCC \nU.S. \nMarshal \nAssistant United States \nAttorney \nMart"
+      },
+      {
+        "name": "Attorney \nMartin",
+        "role": "extracted",
+        "context": "hal \nAssistant United States \nAttorney \nMartin \neinberg. \nCounsel for \nMr. E"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-12",
+        "event": "August 12, 2019"
+      },
+      {
+        "date": "2019-08-10",
+        "event": "August \n10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.072Z"
+}

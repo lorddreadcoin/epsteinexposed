@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00027743",
+    "filename": "EFTA00027743.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027743.pdf",
+    "text": "\n\nFrom: \nTo: (USANYS)\" \nSubject: RE: assume you know about this article (in press clippings today)? \nDate: Mon, 03 Jun 2019 21:34:17 +0000 \nImportance: Normal \nYeah we have all sorts of google alerts set up, thanks. \nFrom (USANYS) \nSent: Monday, June 03, 2019 17:34 \nTo: \nSubject: assume you know about this article (in press clippings today)? \ne> \n› \nFeds Are Asking Jeffrey Epstein's Victims About Sex-Trafficking Crimes \nDaily Beast \nBy Kate Briquelet \n6/3/19 \nDeputy Chief, Criminal Division \nU.S. Attorney's Office, Southern District of New York \nEFTA00027743",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "n press clippings today)? \ne> \n› \nFeds Are Asking Jeffrey Epstein's Victims About Sex-Trafficking Crimes \nDaily Bea"
+      },
+      {
+        "name": "Normal \nYeah",
+        "role": "extracted",
+        "context": "9 21:34:17 +0000 \nImportance: Normal \nYeah we have all sorts of google a"
+      },
+      {
+        "name": "Feds Are",
+        "role": "extracted",
+        "context": "ess clippings today)? \ne> \n› \nFeds Are Asking Jeffrey Epstein's Vict"
+      },
+      {
+        "name": "Asking Jeffrey",
+        "role": "extracted",
+        "context": "ings today)? \ne> \n› \nFeds Are Asking Jeffrey Epstein's Victims About Sex-T"
+      },
+      {
+        "name": "Victims About",
+        "role": "extracted",
+        "context": "Are Asking Jeffrey Epstein's Victims About Sex-Trafficking Crimes \nDaily"
+      },
+      {
+        "name": "Trafficking Crimes",
+        "role": "extracted",
+        "context": "y Epstein's Victims About Sex-Trafficking Crimes \nDaily Beast \nBy Kate Briquel"
+      },
+      {
+        "name": "Daily Beast",
+        "role": "extracted",
+        "context": "About Sex-Trafficking Crimes \nDaily Beast \nBy Kate Briquelet \n6/3/19 \nD"
+      },
+      {
+        "name": "By Kate",
+        "role": "extracted",
+        "context": "fficking Crimes \nDaily Beast \nBy Kate Briquelet \n6/3/19 \nDeputy Chi"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "t \nBy Kate Briquelet \n6/3/19 \nDeputy Chief, Criminal Division \nU.S. Atto"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "quelet \n6/3/19 \nDeputy Chief, Criminal Division \nU.S. Attorney's Office, Sout"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "sion \nU.S. Attorney's Office, Southern District of New York \nEFTA00027743"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-03",
+        "event": "June 03, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.890Z"
+}

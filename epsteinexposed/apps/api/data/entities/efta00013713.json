@@ -1,0 +1,109 @@
+{
+  "document": {
+    "id": "efta00013713",
+    "filename": "EFTA00013713.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013713.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Re: Epstein \nDate: Fri, 07 Dec 2007 18:29:02 +0000 \nImportance: Normal \nIt's better that I send it and not you. \nSent from my BlackBerry Wireless Handheld \n  \nOriginal \nMessa \nFrom: \nTo: \nSent: Fri Dec 07 13:23:59 2007 \nSubject: FW: Epstein \nJeff —  This is the e-mail chain with The only sources of the information are our Office and the FBI. is \nrequesting the information, and I am responding accordingly. \nPlease let me know how you want to proceed. I find this very demoralizing. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom: \nSent: Thursda , December 06, 2007 4:47 PM \nSubject: RE: Epstein \nYep, something short and sweet with no names. The date is Dec. 21. \nFrom: \nSent: Thursda December 06, 2007 3:36 PM \nTo \nSubject: RE: Epstein \nEFTA00013713\n\nHi Lanna — \nI can put something together. I assume something short and sweet? And has a date been set? \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom: \nSent: Thursda December 06, 2007 3:05 PM \nTo: \nSubject: Epstein \nCould you please outline what factual basis you think fits the procuring statute for the plea conference. I am trying to \nfinalize the paperwork. \nEFTA00013714",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Re: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Re: Epstein \nDate: Fri, 07 Dec 2007 18:29:02 +0"
+      },
+      {
+        "name": "Normal \nIt",
+        "role": "extracted",
+        "context": "7 18:29:02 +0000 \nImportance: Normal \nIt's better that I send it and n"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "d not you. \nSent from my BlackBerry Wireless Handheld \n  \nOriginal \nMessa"
+      },
+      {
+        "name": "Handheld \n  \nOriginal",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \n  \nOriginal \nMessa \nFrom: \nTo: \nSent: Fri"
+      },
+      {
+        "name": "Messa \nFrom",
+        "role": "extracted",
+        "context": "reless Handheld \n  \nOriginal \nMessa \nFrom: \nTo: \nSent: Fri Dec 07 13:23"
+      },
+      {
+        "name": "Fri Dec",
+        "role": "extracted",
+        "context": "nal \nMessa \nFrom: \nTo: \nSent: Fri Dec 07 13:23:59 2007 \nSubject: FW"
+      },
+      {
+        "name": "Epstein \nJeff",
+        "role": "extracted",
+        "context": "7 13:23:59 2007 \nSubject: FW: Epstein \nJeff —  This is the e-mail chain w"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom: \nSent:"
+      },
+      {
+        "name": "Epstein \nYep",
+        "role": "extracted",
+        "context": "6, 2007 4:47 PM \nSubject: RE: Epstein \nYep, something short and sweet wi"
+      },
+      {
+        "name": "Thursda December",
+        "role": "extracted",
+        "context": "ate is Dec. 21. \nFrom: \nSent: Thursda December 06, 2007 3:36 PM \nTo \nSubject"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "da December 06, 2007 3:36 PM \nTo \nSubject: RE: Epstein \nEFTA00013713\n\nH"
+      },
+      {
+        "name": "Hi Lanna",
+        "role": "extracted",
+        "context": "t: RE: Epstein \nEFTA00013713\n\nHi Lanna — \nI can put something togeth"
+      },
+      {
+        "name": "Epstein \nCould",
+        "role": "extracted",
+        "context": ", 2007 3:05 PM \nTo: \nSubject: Epstein \nCould you please outline what factu"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-12-06",
+        "event": "December 06, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.226Z"
+}

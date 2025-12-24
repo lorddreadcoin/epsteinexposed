@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027183",
+    "filename": "EFTA00027183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027183.pdf",
+    "text": "\n\nFrom: \"\n='' \nTo: \nSubject: Updated Subpoena \nLog \nDate: Sat, 17 Aug 2019 19:51:28 +0000 \nAttachments: Updated_Subpoena_Log.xlsx \nLet me know if anything looks wrong \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel \nEFTA00027183",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Updated Subpoena",
+        "role": "extracted",
+        "context": "From: \"\n='' \nTo: \nSubject: Updated Subpoena \nLog \nDate: Sat, 17 Aug 2019"
+      },
+      {
+        "name": "Log \nDate",
+        "role": "extracted",
+        "context": ": \nSubject: Updated Subpoena \nLog \nDate: Sat, 17 Aug 2019 19:51:28 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "know if anything looks wrong \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "looks wrong \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.702Z"
+}

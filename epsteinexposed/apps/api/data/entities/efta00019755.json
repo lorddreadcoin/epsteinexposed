@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019755",
+    "filename": "EFTA00019755.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019755.pdf",
+    "text": "\n\nBank of America N.A. \nLegal Order Processing \nChristiana IV \n800 Samoset Drive \nNewark, DE 19713 \nMail code DE5-024-02-08 \nAttention: Legal Order Processing \nDelivered via: FEDEX \nRider \nALL OPEN AND CLOSED ACCOUNTS \nPlease provide all images of documents in Adobe PDF files on CDs. Additionally, please provide Data \nTransaction Files in Excel of all account statements. \nPlease provide from inception to present any and all records pertaining to the following \naccounts(s)/organization(s)/individuals(s) whether held jointly or severally or as trustee or fiduciary as \nwell as custodian, executor or guardian: \nA. Please use the following identifiers: \nNAMES/ENTITIES \nAKA: \nDOB \nSSN \nPHONE \nEFTA00019755\n\nEMAIL \nACCOUNT NUMBER \nB. Records to be produced should include but are not limited to the items listed below: \n1. Documents (checks, debit memos, cash in tickets, wires in, wires out, etc.) reflecting additions \nand/or subtractions to the account and how the account balances are being satisfied on a monthly \nbasis; \n2. Signature cards; \n3. Proof of identification (including but not limited to copies of identification used to open the \naccount); \n4. Location of withdrawals \n5. Opening account(s) documents with attachments, including any and all applications, internal \ndocuments generated to open account(s), and identification information or other documentation \nprovided by Customer; \n6. \"Know your customer documentation; \n7. Wire transfer records (incoming and outgoing, and any and all applications and instructions); \n8. Safe deposit records, including applications, signature cards, and sign-in records; \n9. Trust accounts; \n10. Monthly statements; \n11. Credit card statements; \n12. Bank, travelers, or cashier checks drawn on account or purchased with an account check; \n13. Prepaid debit cards, certified checks, cashiers' checks, money orders, and travelers checks; \n14. Loan, lease, and/or mortgage application files (whether granted or denied) including credit reports, \napplications, and payments made on loans; \n15. Any and all corporate resolutions, certifications of incorporation, business certificates and/or \npartnership agreements; \n16. Online banking information- All information regarding the electronic use of banking systems to \ninclude the following: username, registration IP address, online account creation date, online \naccount status and IP logs/history, MAC addresses and online session times and duration; and \n17. Any and all correspondence, electronic or otherwise, including memoranda, emails and text \nmessages, that reference or concern items (1) through (16), above, and/or any financial interests \ninvolving the individuals and/or entities identified in Section A. \nIf you have any questions or comments, please contact Forensic Accountant, at \nEFTA00019756",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Legal Order",
+        "role": "extracted",
+        "context": "Bank of America N.A. \nLegal Order Processing \nChristiana IV \n80"
+      },
+      {
+        "name": "Processing \nChristiana IV",
+        "role": "extracted",
+        "context": "of America N.A. \nLegal Order Processing \nChristiana IV \n800 Samoset Drive \nNewark, D"
+      },
+      {
+        "name": "Samoset Drive",
+        "role": "extracted",
+        "context": "rocessing \nChristiana IV \n800 Samoset Drive \nNewark, DE 19713 \nMail code"
+      },
+      {
+        "name": "Processing \nDelivered",
+        "role": "extracted",
+        "context": "02-08 \nAttention: Legal Order Processing \nDelivered via: FEDEX \nRider \nALL OPEN A"
+      },
+      {
+        "name": "Data \nTransaction",
+        "role": "extracted",
+        "context": "Additionally, please provide Data \nTransaction Files in Excel of all account"
+      },
+      {
+        "name": "Forensic Accountant",
+        "role": "extracted",
+        "context": "s or comments, please contact Forensic Accountant, at \nEFTA00019756"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Drive \nNewark, DE",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.516Z"
+}

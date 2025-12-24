@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00031620",
+    "filename": "EFTA00031620.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031620.pdf",
+    "text": "\n\nFrom: \nSubject: Re: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 23:06:09 +0000 \nSorry I  was running late to relieve my in-laws. And sounds good - good luck with everything - I  should be \naround. \nSent from my iPhone \nOn Jan 29, 2021, at 6:01 PM, wrote: \nYou logged off with record speed! I have more medical stuff Monday morning so I can't do that time unfortunately, but \ngiven how much she loves you, I'd just be a third wheel anyways. \nFrom: \nSent: Friday, January 29, 2021 5:59 PM \nTo \nSubject: RE: OPR Epstein Final Report \nThanks, I think that should work. We will give you a call then. \nFrom: \nSent: Friday, January 29, 2021 5:55 PM \nTo: \nCc: \nSubject: RE: OPR Epstein Final Report \nOf course. Why don't you call me\njust let me know. \nFrom: \nSent: Friday, January 29, 2021 5:33 PM \nTo: \nat your convenience around 9:30 am? If another time works better, \nSubject: Re: OPR Epstein Final Report \nHi - I hope this finds you well. Do you have some time to connect early next week on this matter? If there's a good \ntime Monday morning, in particular, please let us know. Thanks, \nSent from my iPhone \nOn Nov 12, 2020, at 10:06 AK= (OPR) \nc)'  wrote: \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00031620\n\n<OPR-#458587-v1-Epstein_Reporttransmittal_to_SDNYjettersigned).PDF> \n<OPR-#458557-v1-Epstein_Report_ofinvestigation_and_Exhibits_pdf.PDF> \nEFTA00031621",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ": \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00031620"
+      },
+      {
+        "name": "Epstein Final",
+        "role": "extracted",
+        "context": "From: \nSubject: Re: OPR Epstein Final Report \nDate: Fri, 29 Jan 202"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "ubject: Re: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 23:06:09 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ld be \naround. \nSent from my iPhone \nOn Jan 29, 2021, at 6:01 PM, wro"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "ay, January 29, 2021 5:59 PM \nTo \nSubject: RE: OPR Epstein Final Report"
+      },
+      {
+        "name": "Report \nThanks",
+        "role": "extracted",
+        "context": "ubject: RE: OPR Epstein Final Report \nThanks, I think that should work. We"
+      },
+      {
+        "name": "Report \nOf",
+        "role": "extracted",
+        "context": "ubject: RE: OPR Epstein Final Report \nOf course. Why don't you call me"
+      },
+      {
+        "name": "Report \nHi",
+        "role": "extracted",
+        "context": "ubject: Re: OPR Epstein Final Report \nHi - I hope this finds you well."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-29",
+        "event": "January 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.540Z"
+}

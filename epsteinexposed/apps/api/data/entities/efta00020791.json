@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020791",
+    "filename": "EFTA00020791.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020791.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" \nSubject: Federal court moves to unseal Jeffrey Epstein documents I  Miami Herald \nDate: Tue, 12 Mar 2019 00:40:55 +0000 \nImportance: Normal \nLooks like the summary judgment motion and exhibits will be public soon. \nhttps://www.miamiherald.cotn/latest-news/article227411649.html \nSent from my iPhone \nEFTA00020791",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "(USANYS)\" \nSubject: Federal court moves to unseal Jeffrey Epstein documents I  Miami Herald \nDate: Tue, 12 Mar 2019"
+      },
+      {
+        "name": "Miami Herald",
+        "role": "extracted",
+        "context": "Jeffrey Epstein documents I  Miami Herald \nDate: Tue, 12 Mar 2019 00:40"
+      },
+      {
+        "name": "Normal \nLooks",
+        "role": "extracted",
+        "context": "9 00:40:55 +0000 \nImportance: Normal \nLooks like the summary judgment mot"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.601Z"
+}

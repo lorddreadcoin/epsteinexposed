@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028757",
+    "filename": "EFTA00028757.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028757.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \naMMIE> \nTo:I=pjailliknractorr\nCc: MINI6>\nalMIN>,\nBce: \nSubject: RE: Help with Epstein Privilege Review \nDate: Wed, 28 Oct 2020 13:30:11 +0000 \nEmbedded: RE:_Help_with_Epstein_Privilege_Review.msg \n(USANYS)\" \nSender: \nSubject: RE: Help with Epstein Privilege Review \nMessage-Id: \n<DM3PH0MB057099A657359F206BFEFBA98F170@DM3P110M B0570.NAMP110. PROD.OUTLOOK.CO \nM> \nTo: \nTo: \nCc: \nCc: \nEFTA00028757",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Privilege",
+        "role": "extracted",
+        "context": "Bce: \nSubject: RE: Help with Epstein Privilege Review \nDate: Wed, 28 Oct 202"
+      },
+      {
+        "name": "Review \nDate",
+        "role": "extracted",
+        "context": ": Help with Epstein Privilege Review \nDate: Wed, 28 Oct 2020 13:30:11 +0"
+      },
+      {
+        "name": "Review \nMessage",
+        "role": "extracted",
+        "context": ": Help with Epstein Privilege Review \nMessage-Id: \n<DM3PH0MB057099A657359F2"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.894Z"
+}

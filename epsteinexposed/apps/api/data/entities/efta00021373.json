@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00021373",
+    "filename": "EFTA00021373.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021373.pdf",
+    "text": "\n\nFrom: ' (USANYS) [Contractor)\" < \nTo:'\nSubject: RE: Question re Epstein Relativity Database \nDate: Wed, 17 Feb 2021 14:19:24 -0000 \nI nline-Images: image00 l.png \nHello \nPlease make sure to use the file path field which will contain the NYC number. Please see screenshot below: \nI-,  \ny  \n1 - 200 \n/ 1.828.275 1200 v per page \n0B \nThank you. \nChris. \nFrom: \nSent: Tuesday, February 16, 2021 6:06 PM \nTo: (USANYS) (Contractor] \nSubject: Question re Epstein Relativity Database \nH=, \nIn the \"US v. Epstein (SW Returns)\" I'm trying to see the NYC serial number reflecting which device a particular document came from. In the past, \nyou helped me add a column in Relativity to show the NYC serial number for each document. Would you be able to help me with that again, please? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00021373",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Relativity",
+        "role": "extracted",
+        "context": "To:'\nSubject: RE: Question re Epstein Relativity Database \nDate: Wed, 17 Feb 2"
+      },
+      {
+        "name": "Database \nDate",
+        "role": "extracted",
+        "context": "uestion re Epstein Relativity Database \nDate: Wed, 17 Feb 2021 14:19:24 -0"
+      },
+      {
+        "name": "Hello \nPlease",
+        "role": "extracted",
+        "context": "nline-Images: image00 l.png \nHello \nPlease make sure to use the file pat"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "that again, please? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00021373"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-02-16",
+        "event": "February 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "828.275 1200"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.537Z"
+}

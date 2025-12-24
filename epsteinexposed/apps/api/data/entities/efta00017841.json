@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00017841",
+    "filename": "EFTA00017841.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017841.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" czIMIE> \nTo: (USANYS)\"\nSubject: Maxwell Letter \nDate: Thu, 20 Aug 2020 19:13:53 +0000 \nAttachments: 2020-08-20_GM _letter toiudge_Nathan_re_unsealing_materials.rd.docx \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nCell \nEFTA00017841",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Letter",
+        "role": "extracted",
+        "context": "IMIE> \nTo: (USANYS)\"\nSubject: Maxwell Letter \nDate: Thu, 20 Aug 2020 19:13"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ials.rd.docx \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nC"
+      },
+      {
+        "name": "Desk \nCell",
+        "role": "extracted",
+        "context": "outhern District of New York \nDesk \nCell \nEFTA00017841"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.717Z"
+}

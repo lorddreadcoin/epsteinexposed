@@ -1,0 +1,68 @@
+{
+  "document": {
+    "id": "efta00010128",
+    "filename": "EFTA00010128.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010128.pdf",
+    "text": "\n\nEvent: Accepted: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nStart Date: 2021-11-22 23:00:00 +0000 \nEnd Date: 2021-11-23 00:00:00 +0000 \nLocation: Zoom Meeting - Meeting ID Below \nClass: X-PERSONAL \nComment: \nDate Created: 2021-11-19 19:38:19 +0000 \nDate Modified: 2021-11-19 19:38:19 +0000 \nPriority: 5 \nDTSTAMP: 2021-11-19 18:40:15 +0000 \nAttendee: Stoddart, Allison <i> \nEFTA00010128",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Event: Accepted: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nStart Date: 2021-11-22 23:00:0"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "ne Maxwell, 20 Cr. 330 (AJN) \nStart Date: 2021-11-22 23:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-11-22 23:00:00 +0000 \nEnd Date: 2021-11-23 00:00:00 +0000 \nL"
+      },
+      {
+        "name": "Zoom Meeting",
+        "role": "extracted",
+        "context": "-23 00:00:00 +0000 \nLocation: Zoom Meeting - Meeting ID Below \nClass: X-"
+      },
+      {
+        "name": "Below \nClass",
+        "role": "extracted",
+        "context": "on: Zoom Meeting - Meeting ID Below \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-11-19 19:38:19 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-11-19 19:38:19 +0000 \nDate Modified: 2021-11-19 19:38:19 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-22",
+        "event": "2021-11-22"
+      },
+      {
+        "date": "2021-11-23",
+        "event": "2021-11-23"
+      },
+      {
+        "date": "2021-11-19",
+        "event": "2021-11-19"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.333Z"
+}

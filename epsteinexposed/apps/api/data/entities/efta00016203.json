@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016203",
+    "filename": "EFTA00016203.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016203.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell Laura Menninger \n, Jeff Pagliuca \nSubject: [EXTERNAL] U.S. v. Maxwell S2 20 Cr. \n330 (AJN) \nDate: Wed, 03 Nov 2021 16:48:37 +0000 \nAttachments: Disclosure_of Juror Names_to_Counsel_Only_upon_completion_of Questionnaire.pdf \nCourtesy copy of today's ECF filing. \nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00016203",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": ": BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell Laura Menninger \n, Jeff Pagli"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "To: \nCc: Christian Everdell Laura Menninger \n, Jeff Pagliuca \nSubject: [E"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "n Everdell Laura Menninger \n, Jeff Pagliuca \nSubject: [EXTERNAL] U.S. v."
+      },
+      {
+        "name": "Juror Names",
+        "role": "extracted",
+        "context": "0 \nAttachments: Disclosure_of Juror Names_to_Counsel_Only_upon_completi"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "s: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis m"
+      },
+      {
+        "name": "Sternheim \nThis",
+        "role": "extracted",
+        "context": "ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis message and any attached docu"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.221Z"
+}

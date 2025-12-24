@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019763",
+    "filename": "EFTA00019763.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019763.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: notes/302s \nDate: Wed, 14 Aug 2019 16:16:13 -r0000 \nand Mi \nCould you please send us scans of all the interview notes since Epstein's arrest? If there are any 302s ready, that would be \ngreat, but in the first instance notes would be helpful. \nWe are working on memos briefing our supervisors on a series of issues, and it would be helpful to reference notes. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00019763",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mi \nCould",
+        "role": "extracted",
+        "context": "Aug 2019 16:16:13 -r0000 \nand Mi \nCould you please send us scans of a"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to reference notes. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.532Z"
+}

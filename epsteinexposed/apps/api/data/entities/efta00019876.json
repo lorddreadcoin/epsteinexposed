@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019876",
+    "filename": "EFTA00019876.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019876.pdf",
+    "text": "\n\nFrom: \" \nc \nTo: \"ElarairBI)\"  \nCc: \" \" < \nSubject: FW: French Judicial Police \nDate: Thu, 19 Dec 2019 12:45:37 +0000 \nAttachments: 20191211 - - Incoming.pdf \nPO \nPer our policy of passing along any civilian information related to Epstein, please see the attached correspondence. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nFrom \nCRM) \nSent: Thursday, December 19, 2019 2:01 AM \nTo: \nCc: \nSubject: RE: French Judicial Police \nGood morning. I've reached out to the investigator. \nI also spoke again with the Paris prosecutor's office. Looks like they are going to send us an MLAT request. I will let you \nknow when that comes in. \nUnrelatedly, OIA received the attached citizen correspondence, which I am forwarding to your attention in case there is \nanything here for your office or FBI. \nBest, \nDOJ Attach6/Magistrat de liaison anthicain \nU.S. Embassy, \nParis \nEFTA00019876\n\nEFTA00019877",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "French Judicial",
+        "role": "extracted",
+        "context": "I)\"  \nCc: \" \" < \nSubject: FW: French Judicial Police \nDate: Thu, 19 Dec 201"
+      },
+      {
+        "name": "Police \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: French Judicial Police \nDate: Thu, 19 Dec 2019 12:45:37 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hed correspondence. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nFrom \nCRM) \nS"
+      },
+      {
+        "name": "Police \nGood",
+        "role": "extracted",
+        "context": "Subject: RE: French Judicial Police \nGood morning. I've reached out to"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-19",
+        "event": "December 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.762Z"
+}

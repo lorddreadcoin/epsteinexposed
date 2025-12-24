@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00021729",
+    "filename": "EFTA00021729.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021729.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo: \nCc: \nSubject: URGENT-Ghislaine Maxwell 02879-509 COURT ORDER \nDate: Fri, 15 Jan 2021 20:05:18 +0000 \nAttachments: 127128346956.pdf; ATT00001.htm \nBy Order of the Court (attached) \nYou are directed to give Ms.Maxwell access to her laptop on weekends and holidays. Please comply \nimmediately. \nThank you-\nBobbi C. Stemheim, Esq. \nDocket Text: \nMEMO ENDORSEMENT as to Ghislaine Maxwell on [115] LETTER by Ghislaine Maxwell \naddressed to Judge Alison J. Nathan from Christian R. Everdell dated January 14, 2021 re: \nLaptop Access. ENDORSEMENT: The unobjected-to request is GRANTED. The Bureau of \nPrisons is ORDERED to give the Defendant access to the laptop computer on weekends and \nholidays during the hours that she is permitted to review discovery. SO ORDERED. (Signed by \nJudge Alison J. Nathan on 1/15/2021) (In!) \nhttps://eclnysd.uscourts.gov/doc1/127128346956?caseid=539612&de_seq_num-3718zinagic_num=56905676 \nEFTA00021729",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "rom: BOBBI C STERNHEIM \nTo: \nCc: \nSubject: URGENT-Ghislaine Maxwell 02879-509 COURT ORDER \nDate: Fri, 15 Jan 2021 20:"
+      },
+      {
+        "name": "By Order",
+        "role": "extracted",
+        "context": "7128346956.pdf; ATT00001.htm \nBy Order of the Court (attached) \nYou"
+      },
+      {
+        "name": "Docket Text",
+        "role": "extracted",
+        "context": "you-\nBobbi C. Stemheim, Esq. \nDocket Text: \nMEMO ENDORSEMENT as to Ghis"
+      },
+      {
+        "name": "Judge Alison",
+        "role": "extracted",
+        "context": "islaine Maxwell \naddressed to Judge Alison J. Nathan from Christian R. E"
+      },
+      {
+        "name": "Laptop Access",
+        "role": "extracted",
+        "context": "l dated January 14, 2021 re: \nLaptop Access. ENDORSEMENT: The unobjected-"
+      },
+      {
+        "name": "The Bureau",
+        "role": "extracted",
+        "context": "jected-to request is GRANTED. The Bureau of \nPrisons is ORDERED to giv"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-15",
+        "event": "1/15/2021"
+      },
+      {
+        "date": "2021-01-14",
+        "event": "January 14, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.282Z"
+}

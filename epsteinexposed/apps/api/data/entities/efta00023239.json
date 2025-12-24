@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00023239",
+    "filename": "EFTA00023239.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023239.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: FW: Epstein financials \nDate: Tue, 08 Oct 2019 15:31:19 +0000 \nFYI \nFrom: Goldstein, Matthew <matthew.goldstein@nytimes.com> \nSent: Tuesday, October 08, 2019 10:15 \nTo: \nSubject: Epstein \nfinancials \nICYM missed our story from last week I am sending it to you as we will continue report out the mystery of \nEpstein's financial operation on the Virgin Islands which benefited from a incredibly lucrative tax break afforded \nby US and Virgin Islands law. \nThe biggest question remains the $200 million that Epstein's Southern Trust took in as revenue and made in \nprofits -- in the years after his Florida conviction. We remain committed to getting to the bottom of this puzzling \ninflux of cash. Is there any guidance the office can provide that there is interest in the financial issues raised by \nthe Epstein affair, even after his death. \nFinally we have been told that the offices of Southern Trust were searched on Aug. 12-- the same day authorities \nsearch Epstein's island residence. Can you confirm? \nWe also have been told by an eyewitness that two weeks before Epstein's arrest, there were several large garbage \nbags with shredded documents seen outside the office door to Southern Trust. Do you know anything about this? \nIf nothing else, I  hope we can engage some discussion on these issues. As much as we are committed to solving \nthe many mysteries of Epstein's financial business, we want to separate fact from fiction and fact from Internet \nconspiracies \nbest \nmatt \nhttps://www.nytimes.corn/2019/10/03/business/jeffrey-epstein-southern-trust.html \nMatthew Goldstein \nThe New York Times \n(w) 212-556-1665 \n(c) 347-843-9938 \n®mattgoldstein26 \nEFTA00023239",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "'s financial operation on the Virgin Islands which benefited from a incred"
+      },
+      {
+        "name": "Southern Trust",
+        "role": "extracted",
+        "context": "e $200 million that Epstein's Southern Trust took in as revenue and made i"
+      },
+      {
+        "name": "Matthew Goldstein",
+        "role": "extracted",
+        "context": "-epstein-southern-trust.html \nMatthew Goldstein \nThe New York Times \n(w) 212-"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "rust.html \nMatthew Goldstein \nThe New York Times \n(w) 212-556-1665"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "l \nMatthew Goldstein \nThe New York Times \n(w) 212-556-1665 \n(c) 347-84"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-08",
+        "event": "October 08, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-556-1665",
+      "347-843-9938"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.530Z"
+}

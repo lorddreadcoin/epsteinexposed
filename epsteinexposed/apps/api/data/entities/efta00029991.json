@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029991",
+    "filename": "EFTA00029991.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029991.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: My Contact Information \nDate: Mon, 07 Oct 2019 19:53:34 +0000 \nAttachments: SDNY_AG_Briefing_Overview_(to_JF_10.7.19).pdf \nThanks again-As discussed, I've attached the overviews of the three case briefings (and pictures of the anticipated \nbriefers). Let me know if there's anything else we can do, and I look forward to seeing you Thursday. \nFrom: \nSent: Mon ay, cto er 1: M \nTo: \nSubject: Re: My Contact Information \nThanks M, appreciate all the assistance and look forward to the visit. \nSent from my iPhone \nOn Oct 7, 2019, at 1:01 PM, wrote: \nPleasure meeting you and the agents from the AG's detail. Apologies again for the lack of card, but my contact \ninformation is below. Please don't hesitate to reach out if there's anything we can get you that would be helpful. \nounsel to the U.S. Attorney \nU. . Attorney's Office for the Southern District of New York \nOne St. Andrew's Plaza, New York. New York 10007 \nDes \nCell \nEFTA00029991",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "My Contact",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: My Contact Information \nDate: Mon, 07 Oc"
+      },
+      {
+        "name": "Information \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: RE: My Contact Information \nDate: Mon, 07 Oct 2019 19:53:34 +0"
+      },
+      {
+        "name": "Information \nThanks",
+        "role": "extracted",
+        "context": "To: \nSubject: Re: My Contact Information \nThanks M, appreciate all the assista"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "to the visit. \nSent from my iPhone \nOn Oct 7, 2019, at 1:01 PM, wrot"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": ". . Attorney's Office for the Southern District of New York \nOne St. Andrew's"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza, New York. Ne"
+      },
+      {
+        "name": "Des \nCell",
+        "role": "extracted",
+        "context": "za, New York. New York 10007 \nDes \nCell \nEFTA00029991"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.730Z"
+}

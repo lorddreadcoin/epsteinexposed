@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013862",
+    "filename": "EFTA00013862.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013862.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Epstein \nDate: Thu, 15 May 2008 19:26:52 +0000 \nImportance: Normal \nAs she is leaving DOJ shortly, has there been any decision from DC yet? Thanks,. \nEFTA00013862",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: Epstein \nDate: Thu, 15 May 2008 19:26:52 +0"
+      },
+      {
+        "name": "Normal \nAs",
+        "role": "extracted",
+        "context": "8 19:26:52 +0000 \nImportance: Normal \nAs she is leaving DOJ shortly, h"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-05-15",
+        "event": "15 May 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.600Z"
+}

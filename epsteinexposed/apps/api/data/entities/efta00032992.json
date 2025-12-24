@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00032992",
+    "filename": "EFTA00032992.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032992.pdf",
+    "text": "\n\nFrom: \n(NY) (FBI) \nSubject: Availability to assist in Interviews \nTo: NY\n-C19; (NY) (FBI) \nCc: \nSent: \nAugust 12, 2019 7:31 AM (IJTC-04:00) \nAll - \n, and I have been requested to conduct a number of interviews today of BOP employees regarding the \nEpstein matter. Please respond if you are available to help us out today. We will figure out the logistics this morning \nand then let whoever can help out know what's needed... \nThanks! \nEFTA00032992",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Interviews \nTo",
+        "role": "extracted",
+        "context": "ct: Availability to assist in Interviews \nTo: NY\n-C19; (NY) (FBI) \nCc: \nSe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-12",
+        "event": "August 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.987Z"
+}

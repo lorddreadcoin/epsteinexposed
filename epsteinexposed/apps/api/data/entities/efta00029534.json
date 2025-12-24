@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029534",
+    "filename": "EFTA00029534.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029534.pdf",
+    "text": "\n\nEvent: Accepted: Pre-Meeting US v Noel/Epstein FOIA \nStart Date: 2021-06-28 19:45:00 +0000 \nEnd Date: 2021-06-28 20:00:00 +0000 \nLocation=ffice \nClass: X-PERSONAL \nComment: \nDate Created: 2021-06-28 11:00:21 +0000 \nDate Modified: 2021-06-28 11:00:21 +0000 \nPriority: 5 \nDTSTAM P: 2021-06-28 10:52:27 +0000 \nAttendee \nEFTA00029534",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "eting US v Noel/Epstein FOIA \nStart Date: 2021-06-28 19:45:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-06-28 19:45:00 +0000 \nEnd Date: 2021-06-28 20:00:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-06-28 11:00:21 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-06-28 11:00:21 +0000 \nDate Modified: 2021-06-28 11:00:21 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-06-28",
+        "event": "2021-06-28"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.622Z"
+}

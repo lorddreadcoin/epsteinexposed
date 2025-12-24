@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031508",
+    "filename": "EFTA00031508.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031508.pdf",
+    "text": "\n\nFrom: '  \nTo: \n(USANYS)\" \nSubject: pros memo examples \nDate: Wed, 17 Jun 2020 21:11:44 +0000 \nAttachments: 2020-04-10_GM_prosecution_memo..pdf; 2019-06-17,_JE,_prosecution_memo.docx \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York NY 10007 \nEFTA00031508",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "7,_JE,_prosecution_memo.docx \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "n_memo.docx \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York NY 10007 \nEFTA00031508"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-17",
+        "event": "2019-06-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.266Z"
+}

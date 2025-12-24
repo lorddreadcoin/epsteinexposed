@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00013523",
+    "filename": "EFTA00013523.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013523.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: E-mai to State Attorney s 0 ice \nDate: Thu, 01 Nov 2007 21:22:35 +0000 \nImportance: Normal \nHi Here is my suggestion: \nDear The FBI has informed us that a case disposition conference has been set in the Epstein case on \nJanuary , 008. Our agreement with Mr. Epstein contemplated a simultaneous plea and sentencing for October \n(or, as we later agreed, November), followed by Mr. Epstein self-surrendering to begin serving his sentence not \nlater than January 4, 2008. From your last e-mail, it appeared that the judge was under the impression that Mr. \nEpstein could not be sentenced before January 2008. We are hoping that Judge McSorley would consider \nconducting the simultaneous plea and sentencing some time before January 4, 2008, so that Mr. Epstein can \ncomply with the terms of our agreement and begin serving his sentence on January 4, 2008. \nI also would appreciate it if you could send me a copy of the plea agreement, the Information that you plan to file \n(if it hasn't been filed already), and any factual proffer or other documents related to the plea. Please also let me \nknow the date and time of the plea and sentencing so that someone from our office can attend and insure Mr. \nEpstein's compliance with the terms of his federal non-prosecution agreement. \nIf you need any information regarding the federal investigation, or if you have any questions about s of iliiiir \nthe federal non-prosecution agreement, please do not hesitate to contact me at the number below o 'n the \nWest Palm Beach \noffice. \nThank you. \nEFTA00013523",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ary , 008. Our agreement with Mr. Epstein contemplated a simultaneo"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: E-mai to State Attorney s 0 ice \nDate: Thu, 01 Nov 20"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "7 21:22:35 +0000 \nImportance: Normal \nHi Here is my suggestion: \nDear"
+      },
+      {
+        "name": "Dear The",
+        "role": "extracted",
+        "context": "l \nHi Here is my suggestion: \nDear The FBI has informed us that a ca"
+      },
+      {
+        "name": "Judge Mc",
+        "role": "extracted",
+        "context": "uary 2008. We are hoping that Judge McSorley would consider \nconduct"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "at the number below o 'n the \nWest Palm Beach \noffice. \nThank you. \nE"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-01-04",
+        "event": "January 4, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.776Z"
+}

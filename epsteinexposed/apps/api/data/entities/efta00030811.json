@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030811",
+    "filename": "EFTA00030811.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030811.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n(USANYS)\" \n(USANYS)\" \nSubject: Re: Maxwell Press Remarks \nDate: Mon, 29 Jun 2020 17:21:11 +0000 \nThese are great. Keeping in mind that we may have sensitivities about this exact wording, here's a humbly \nsuggested pull quote: \n\"Ghislaine Maxwell wasn't a bystander. And she wasn't just an enabler. She was a participant.\" \nI think with the right inflection this could be powerful. Just a thought... \nSent from my iPhone \nOn \nJun 29, 2020, at 12:17 PM, \n(USANYS) aMINI> \nwrote: \n-Attached is a slightly revised/current \nversion of planned remarks \nfor any comments or suggestions \nyou may have. \nThanks, \n<Ghislaine Maxwell Press Remarks v6.docx> \nEFTA00030811",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "wording, here's a humbly \nsuggested pull quote: \n\"Ghislaine Maxwell wasn't a bystander. And she wasn't just an enable"
+      },
+      {
+        "name": "Maxwell Press",
+        "role": "extracted",
+        "context": "YS)\" \n(USANYS)\" \nSubject: Re: Maxwell Press Remarks \nDate: Mon, 29 Jun 20"
+      },
+      {
+        "name": "Remarks \nDate",
+        "role": "extracted",
+        "context": "\" \nSubject: Re: Maxwell Press Remarks \nDate: Mon, 29 Jun 2020 17:21:11 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "t a thought... \nSent from my iPhone \nOn \nJun 29, 2020, at 12:17 PM,"
+      },
+      {
+        "name": "Press Remarks",
+        "role": "extracted",
+        "context": "Thanks, \n<Ghislaine Maxwell Press Remarks v6.docx> \nEFTA00030811"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.721Z"
+}

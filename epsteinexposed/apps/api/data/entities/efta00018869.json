@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018869",
+    "filename": "EFTA00018869.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018869.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \n(USANYS)\" \nalMIN> \nSubject: Re: Yo \nDate: Tue, 27 Aug 2019 18:30:27 +0000 \nGreat. The Epstein circus just wrapped up. It's been a day. \nSent from my iPhone \n> On \nAug 27, 2019, at 2:29 PM, (USANYS) \ndid a gorgeous redirect FYI \nwrote: \nEFTA00018869",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Yo \nDate",
+        "role": "extracted",
+        "context": "SANYS)\" \nalMIN> \nSubject: Re: Yo \nDate: Tue, 27 Aug 2019 18:30:27 +0"
+      },
+      {
+        "name": "The Epstein",
+        "role": "extracted",
+        "context": "g 2019 18:30:27 +0000 \nGreat. The Epstein circus just wrapped up. It's"
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": "day. \nSent from my iPhone \n> On \nAug 27, 2019, at 2:29 PM, (USANYS"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.850Z"
+}

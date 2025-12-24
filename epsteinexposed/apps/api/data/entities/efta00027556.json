@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027556",
+    "filename": "EFTA00027556.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027556.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: \nDate: Mon, 10 Feb 2020 21:07:57 +0000 \n■(USANYS)\" \n(USANYS) [Contractor]\" < \n(USANYS)\"  \n [=. \nPrince Andrew \nOn Feb 10, 2020, at 4:07 PM, (USANYS) [Contractor] < \nwrote: \nNot sure we know what you're asking? If you get a question about the status of the Epstein investigation (into possible \ncharges against co-conspirators)? Another Prince Andrew question? \nFrom: \n(USANYS) \nSent: Monday, February 10, 2020 4:00 PM \nTo: \nSubject: Re: \n(USANYS) [Contractor] \nWhat should I say in response to an Epstein statement? \nOn Feb 10, 2020, at 3:59 PM, \nBegin \nforwarded message: \nFrom: \" (USANYS)\" \nDate: February 10, 2020 at 9:04:00 AM EST \nTo: ' (USANYS) [Contractor)\" \n<Ray Statement.ebd.docx> \n(USANYS) \n(USANYS) \n<\nM> wrote: \nEFTA00027556",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "YS)\" \n(USANYS) [Contractor]\" < \n(USANYS)\"  \n [=. \nPrince Andrew \nOn Feb 10, 2020, at 4:07 PM, (USANYS) [Contracto"
+      },
+      {
+        "name": "On Feb",
+        "role": "extracted",
+        "context": "ANYS)\"  \n [=. \nPrince Andrew \nOn Feb 10, 2020, at 4:07 PM, (USANYS"
+      },
+      {
+        "name": "Another Prince",
+        "role": "extracted",
+        "context": "ges against co-conspirators)? Another Prince Andrew question? \nFrom: \n(USA"
+      },
+      {
+        "name": "Ray Statement",
+        "role": "extracted",
+        "context": "o: ' (USANYS) [Contractor)\" \n<Ray Statement.ebd.docx> \n(USANYS) \n(USANYS)"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-10",
+        "event": "February 10, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.527Z"
+}

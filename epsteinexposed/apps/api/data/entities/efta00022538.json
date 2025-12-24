@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00022538",
+    "filename": "EFTA00022538.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022538.pdf",
+    "text": "\n\nFrom: \"I \nTo: \"Zaveri, Mihir\"  \nCc: \nSubject: Re: NYT inquiry: Jeffrey Epstein injured in jail? \nDate: Thu, 25 Jul 2019 06:00:50 +0000 \nMihir, we can't confirm and have no comment. \nOn Jul 24, 2019, at 11:03 PM, Zaveri, Mihir < \n> \nwrote: \nHello, this is Mihir Zaveri, reporter at The New York Times. \nWe are seeing reports that Jeffrey Epstein was found injured in his jail cell after a possible suicide attempt or \nsome sort of assault: https://www.nbcnewyork.cominewillocal/Jeffrey-Epstein-Found-Injured-in-NYC-Jail-\nCell-After-Possible-Suicide-Attempt-or-Assault-Sources-513174311.html \nHoping tonight to confirm this or get any insight into what might have actually happened and where he is right \nnow. \nI can be reached at \nMihir \nEFTA00022538",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "\"Zaveri, Mihir\"  \nCc: \nSubject: Re: NYT inquiry: Jeffrey Epstein injured in jail? \nDate: Thu, 25 Jul 2019 06:00:50"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "confirm and have no comment. \nOn Jul 24, 2019, at 11:03 PM, Zaveri"
+      },
+      {
+        "name": "Mihir Zaveri",
+        "role": "extracted",
+        "context": "< \n> \nwrote: \nHello, this is Mihir Zaveri, reporter at The New York Tim"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "is Mihir Zaveri, reporter at The New York Times. \nWe are seeing re"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "r Zaveri, reporter at The New York Times. \nWe are seeing reports that"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.104Z"
+}

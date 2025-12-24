@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023821",
+    "filename": "EFTA00023821.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023821.pdf",
+    "text": "\n\nFrom: AAG Legal Request For Information <LegaIRFl@alaskaair.com> \nSen 13, 2020 9:04 PM \nTo: NY) (FBI) \nSubject: F GJ SBP 2020-01-23- Maxwell \nSA \nPlease e a  vise t  at Alaska Airlines has no responsive records for the above mentioned subpoena, \nfor the specific time frame requested. \nBest regards, \nAS Legal RFI Team \nEFTA00023821",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Legal Request",
+        "role": "extracted",
+        "context": "From: AAG Legal Request For Information <LegaIRFl@ala"
+      },
+      {
+        "name": "For Information",
+        "role": "extracted",
+        "context": "From: AAG Legal Request For Information <LegaIRFl@alaskaair.com> \nSen"
+      },
+      {
+        "name": "Alaska Airlines",
+        "role": "extracted",
+        "context": "l \nSA \nPlease e a  vise t  at Alaska Airlines has no responsive records for"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-23",
+        "event": "2020-01-23"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.709Z"
+}

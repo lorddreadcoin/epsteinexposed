@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "efta00023179",
+    "filename": "EFTA00023179.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023179.pdf",
+    "text": "\n\nFrom: ' \nTo: ' ,  \" \nSubject: FW: RE: \nDate: Fri, 30 Nov 2018 18:40:32 +0000 \nImportance: Normal \nI unfortunately am in another meeting at 3:30 today, but feel free to go ahead without me. \nNot sure if you had talked to I= about this, but after the news reports, and I were trying to do some \nadditional digging to see if there was a way that we could reopen this investigation given that some of the conduct seems \nto have touched on New York. \nThanks, \nFrom: \nSent: Friday, November 30, 2018 1:39 PM \nTo: \nCc: \nSubject: Re: RE: \nEither of those times work for me. and I have a meeting at 2 so 3:30 would be better if possible. \nSent from my iPhone \nOn Nov 30, 2018, at 1:35 PM, \n> \nwrote: \nAll, \nWe've been able to gather some information on the Jeff Epstein matter and I'd suggest we have a call to determine the \nway forward. Does 3:00 or 3:30 today work? \nFrom: \nSent: Thursday, November 29, 2018 4:40 PM \nTo: \nSubject: FW: \nFrom: \nJ \n[mailto: \nSent: Thursday, November 29, 2018 1:36 PM \nTo: \nCc: Kim, MI (USANYS) 4 < \nSubject: \nEFTA00023179\n\nHave you seen this article? \nhttps://www.miamiherald.cominews/localiarticle220097825.html \nHave any insight? From the article is sounds like he cooperated in a financial fraud case and was non-prosd. \nand I can chat whenever. \nThanks, \nAssistant United States Attorney \nHuman Trafficking Co-Coordinator \nViolent & Organized Crime \nSouthern District of New York \n5 \nEFTA00023180",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "r if possible. \nSent from my iPhone \nOn Nov 30, 2018, at 1:35 PM, \n>"
+      },
+      {
+        "name": "Jeff Epstein",
+        "role": "extracted",
+        "context": "ather some information on the Jeff Epstein matter and I'd suggest we hav"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "can chat whenever. \nThanks, \nAssistant United States Attorney \nHuman Traffi"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks, \nAssistant United States Attorney \nHuman Trafficking Co-Coordin"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "stant United States Attorney \nHuman Trafficking Co-Coordinator \nViolent & Org"
+      },
+      {
+        "name": "Coordinator \nViolent",
+        "role": "extracted",
+        "context": "ttorney \nHuman Trafficking Co-Coordinator \nViolent & Organized Crime \nSouthern D"
+      },
+      {
+        "name": "Organized Crime",
+        "role": "extracted",
+        "context": "ing Co-Coordinator \nViolent & Organized Crime \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "r \nViolent & Organized Crime \nSouthern District of New York \n5 \nEFTA00023180"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Kim, MI",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-11-30",
+        "event": "November 30, 2018"
+      },
+      {
+        "date": "2018-11-29",
+        "event": "November 29, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.412Z"
+}

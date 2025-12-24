@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032439",
+    "filename": "EFTA00032439.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032439.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: (USANYS)\"  \nCc: (USANYS)\"  \nSubject: RE: request \nDate: Mon, 16 Sep 2019 21:02:29 +0000 \nWe came by a  bit ago —  let us know if you are back around or we can connect with you in \nthe morning. \nFrom: (USANYS) \nSent: Monday, September 16, 2019 4:03 PM \nTo: (USANYS) (USANYS) < \n) 1 \n(USANYS) 3 < \nSubject: RE: request \nSorry for that; thanks \nFrom: \n(USANYS) < \nSent: Monday, September 16, 2019 4:02 PM \nTo: (USANYS) < (USANYS) \n) 1 ca \n(USANYS) 3 \nSubject: RE: request \nSwitching out We will come talk to you in a  bit. \nFrom: (USANYS) \nSent: Monday, September 16, 2019 3:50 PM \nTo: (USANYS)<> (USANYS) \n) 1  ca \n(USANYS) 3 \nSubject:MI request \nrequests Urgent report on the DB part of Epstein case (or the Epstein part of DB. This could be separate UMR or \ntagged onto the DB/Kushner UMR, depending on how we see it —is it part of pre-existing DB SAR investigation or \nseparate? \nPlease let me know how you plan to proceed. \nThanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00032439",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thanks \nDeputy",
+        "role": "extracted",
+        "context": "now how you plan to proceed. \nThanks \nDeputy United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Thanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-16",
+        "event": "September 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.639Z"
+}

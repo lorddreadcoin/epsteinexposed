@@ -1,0 +1,119 @@
+{
+  "document": {
+    "id": "efta00019825",
+    "filename": "EFTA00019825.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019825.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n< \nSubject: FW: Your Thursday morning trip with Uber \nDate: Fri, 15 Nov 2019 23:46:59 +0000 \nInline-Images: map_bb88f481-b723-437f-96ff-061c4538cb83_wide.png; map_bb88f481-b723-437f-96ff-\n061c4538cb83.png; image001jpg; image002.png; \nimage003.jpg; \nimage004.jpg; \nimage005.jpg; image006.jpg; image007.jpg; image008.jpg; image009.jpg; image010.jpg; \nimage011.jpg; image012.jpg; image013.jpg \nHi \nBelow is \nmy receipt for my Uber from the LA airport to my meeting with the Epstein team for my most recent work trip. \nThanks! \nFrom: \nSent: Thursday, November 14, 2019 9:07 PM \nTo: \nSubject: Fwd: Your Thursday \nmorning trip with Uber \nBegin forwarded message: \nFrom: Uber Receipts \n<uber.us@uber.com> \nDate: November 14, 2019 at 12:10:44 PM PST \nTo: \nSubject: Your Thursday morning trip with Uber \nTotal: $24.93 \nThu. Nov 14, \n2019 \nEFTA00019825\n\nThanks for riding, \nWe hope you enjoyed your ride \nthis momiig_ \nTotal $24.93 \nTrip \nfare $24.93 \nSubtotal $24.93 \nI \nI•••• 8688 \nSwitch \n$24.93 \nA temporary hold of $24.93 was placed on your payment method on 8688 at the start of the trip. \nThis is not a charge and has or will be removed. It should disappear from your bank statement \nshortly. Learn More \nYou rode with Sung \nEFTA00019826\n\nHow was your ride? \nGoogle \nLJ \nHas passed a \nmulti-step safety \nscreen \n4.910 Rating \nSung is known \nfor: \nExcellent \nService \nRate Or Tin \nRate Or Tip \nWhen you ride with Uber, your trips are insured in case of a covered \naccident. \nLearn more. \n11.68 mi 127 min \nU \nberX \n11:42am \n6365 Sky Way, Los Angeles, \nCA \n12:10pm \nMap data 2C:).19 \nEFTA00019827\n\n1717 4th St, Santa Monica, \nCA \nO \nGoogle \n°Map data O2019 \nInvite your friends and family. \nGet $5 off your next ride when you refer a friend to \ntry Uber. Share code: cfhp6 \nREPORT LOST ITEM > I CONTACT SUPPORT > \nI \nMY TRIPS > \nFAQ \nForgot password \nUber Technologies \n1455 Market St \nSan Francisco. CA 94103 \nEFTA00019828\n\nPrivacy \nRead about our zero \ntolerance policy. \nReport a zero \ntolerance complaint \nby visiting \nhelp.uber.com \nTerms \nEFTA00019829",
+    "pageCount": 5,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Your Thursday",
+        "role": "extracted",
+        "context": "rom: ' \nTo:' \n< \nSubject: FW: Your Thursday morning trip with Uber \nDate:"
+      },
+      {
+        "name": "Uber \nDate",
+        "role": "extracted",
+        "context": "ur Thursday morning trip with Uber \nDate: Fri, 15 Nov 2019 23:46:59 +0"
+      },
+      {
+        "name": "Hi \nBelow",
+        "role": "extracted",
+        "context": "; image012.jpg; image013.jpg \nHi \nBelow is \nmy receipt for my Uber fr"
+      },
+      {
+        "name": "Uber \nBegin",
+        "role": "extracted",
+        "context": "r Thursday \nmorning trip with Uber \nBegin forwarded message: \nFrom: Ube"
+      },
+      {
+        "name": "Uber Receipts",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Uber Receipts \n<uber.us@uber.com> \nDate: No"
+      },
+      {
+        "name": "Uber \nTotal",
+        "role": "extracted",
+        "context": "ur Thursday morning trip with Uber \nTotal: $24.93 \nThu. Nov 14, \n2019"
+      },
+      {
+        "name": "Learn More",
+        "role": "extracted",
+        "context": "your bank statement \nshortly. Learn More \nYou rode with Sung \nEFTA0001"
+      },
+      {
+        "name": "Rating \nSung",
+        "role": "extracted",
+        "context": "ti-step safety \nscreen \n4.910 Rating \nSung is known \nfor: \nExcellent \nSe"
+      },
+      {
+        "name": "Excellent \nService",
+        "role": "extracted",
+        "context": "Rating \nSung is known \nfor: \nExcellent \nService \nRate Or Tin \nRate Or Tip \nWh"
+      },
+      {
+        "name": "Rate Or",
+        "role": "extracted",
+        "context": "wn \nfor: \nExcellent \nService \nRate Or Tin \nRate Or Tip \nWhen you ri"
+      },
+      {
+        "name": "Tin \nRate",
+        "role": "extracted",
+        "context": "Excellent \nService \nRate Or Tin \nRate Or Tip \nWhen you ride with Ub"
+      },
+      {
+        "name": "Or Tip",
+        "role": "extracted",
+        "context": "t \nService \nRate Or Tin \nRate Or Tip \nWhen you ride with Uber, you"
+      },
+      {
+        "name": "Sky Way",
+        "role": "extracted",
+        "context": "7 min \nU \nberX \n11:42am \n6365 Sky Way, Los Angeles, \nCA \n12:10pm \nM"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "9 \nEFTA00019827\n\n1717 4th St, Santa Monica, \nCA \nO \nGoogle \n°Map data O2"
+      },
+      {
+        "name": "Uber Technologies",
+        "role": "extracted",
+        "context": "RIPS > \nFAQ \nForgot password \nUber Technologies \n1455 Market St \nSan Francisc"
+      },
+      {
+        "name": "Market St",
+        "role": "extracted",
+        "context": "word \nUber Technologies \n1455 Market St \nSan Francisco. CA 94103 \nEFT"
+      },
+      {
+        "name": "Privacy \nRead",
+        "role": "extracted",
+        "context": "isco. CA 94103 \nEFTA00019828\n\nPrivacy \nRead about our zero \ntolerance pol"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      },
+      {
+        "name": "Santa Monica, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-14",
+        "event": "November 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.654Z"
+}

@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "efta00032336",
+    "filename": "EFTA00032336.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032336.pdf",
+    "text": "\n\nEvent: SDNY Grand Jury Subpoena Dated July 5, 2019 issued to \nStart Date: 2019-11-07 18:00:00 +0000 \nEnd Date: 2019-11-07 18:30:00 +0000 \nOrganizer: Hudgens, Johanna Rae <JHudgens@winston.com> \nLocation: \nClass: X-PERSONAL \nDate Created: 2019-11-06 18:09:02 +0000 \nDate Modified: 2019-11-06 18:09:02 +0000 \nPriority: 5 \nDTSTAMP: 2019-11-06 17:54:42 +0000 \nAttendee: \n< \n>; Bloom, Suzanne Jaffe \n>; \nCalvar, Cristina I. < \nAlarm: Display the following message 15m before start \nReminder \nTelephone: \nThe contents of this message may be privileged and confidential. If this message has been \nreceived in error, please delete it without reading it. Your receipt of this message is not intended \nto waive any applicable privilege. Please do not disseminate this message without the \npermission of the author. Any tax advice contained in this email was not intended to be used, \nand cannot be used, by you (or any other taxpayer) to avoid penalties under applicable tax laws \nand regulations. \nEFTA00032336",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "Event: SDNY Grand Jury Subpoena Dated July 5, 2019 i"
+      },
+      {
+        "name": "Subpoena Dated",
+        "role": "extracted",
+        "context": "Event: SDNY Grand Jury Subpoena Dated July 5, 2019 issued to \nStart"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Dated July 5, 2019 issued to \nStart Date: 2019-11-07 18:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-11-07 18:00:00 +0000 \nEnd Date: 2019-11-07 18:30:00 +0000 \nO"
+      },
+      {
+        "name": "Johanna Rae",
+        "role": "extracted",
+        "context": "00 +0000 \nOrganizer: Hudgens, Johanna Rae <JHudgens@winston.com> \nLocat"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Location: \nClass: X-PERSONAL \nDate Created: 2019-11-06 18:09:02 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-11-06 18:09:02 +0000 \nDate Modified: 2019-11-06 18:09:02 +0000 \nP"
+      },
+      {
+        "name": "Suzanne Jaffe",
+        "role": "extracted",
+        "context": "0000 \nAttendee: \n< \n>; Bloom, Suzanne Jaffe \n>; \nCalvar, Cristina I. < \nA"
+      },
+      {
+        "name": "Reminder \nTelephone",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \nTelephone: \nThe contents of this messag"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-07",
+        "event": "2019-11-07"
+      },
+      {
+        "date": "2019-11-06",
+        "event": "2019-11-06"
+      },
+      {
+        "date": "2019-07-05",
+        "event": "July 5, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.077Z"
+}

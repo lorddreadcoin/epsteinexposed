@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011384",
+    "filename": "EFTA00011384.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011384.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: JE \nDate: Mon, 17 Dec 2018 21:14:40 +0000 \nImportance: Normal \nand I have our quarterly meeting to speak with about Human Trafficking issues. She may ask about Epstein. \nBesides the generalities, is there anything particular you would like us to convey? \nThanks, \nAssistant United States Attorney \nHuman Trafficking Co-Coordinator \nViolent & Organized Crime \nSouthern District of New York \nEFTA00011384",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "y meeting to speak with about Human Trafficking issues. She may ask about Eps"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "like us to convey? \nThanks, \nAssistant United States Attorney \nHuman Traffi"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y? \nThanks, \nAssistant United States Attorney \nHuman Trafficking Co-Coordin"
+      },
+      {
+        "name": "Coordinator \nViolent",
+        "role": "extracted",
+        "context": "ttorney \nHuman Trafficking Co-Coordinator \nViolent & Organized Crime \nSouthern D"
+      },
+      {
+        "name": "Organized Crime",
+        "role": "extracted",
+        "context": "ing Co-Coordinator \nViolent & Organized Crime \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "r \nViolent & Organized Crime \nSouthern District of New York \nEFTA00011384"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.514Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030587",
+    "filename": "EFTA00030587.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030587.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Wilton Manors Police Dept-\nDate: Fri, 22 Aug 2014 18:09:36 +0000 \nHi \nI  have finally got through to the sergeant at Wilton Manors and he does not have any records on me ever or Ron Eppinger or the guy \nthat I was picked up with supposedly named Charlie. It could be that they have destroyed the records being a minor or some other \nlegality that I am not aware of but I am in dire need of that information and have hit a road block. I know this is a long shot but is there \nany way that you would know this information? \nI can not express how sincerely apologetic I am to keep bothering you!! I am just hoping to finish what I  have started and if I do... Trust \nme it will be well worth it in the end for so many other victims and future victims. \nThank you so much for everything you have thus far helped me!! \nKindest Regards, \nSent from my iPhone \nEFTA00030587",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Wilton Manors",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Wilton Manors Police Dept-\nDate: Fri, 22 Au"
+      },
+      {
+        "name": "Police Dept",
+        "role": "extracted",
+        "context": "To: \nSubject: Wilton Manors Police Dept-\nDate: Fri, 22 Aug 2014 18:09"
+      },
+      {
+        "name": "Ron Eppinger",
+        "role": "extracted",
+        "context": "ave any records on me ever or Ron Eppinger or the guy \nthat I was picked"
+      },
+      {
+        "name": "Kindest Regards",
+        "role": "extracted",
+        "context": "ou have thus far helped me!! \nKindest Regards, \nSent from my iPhone \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.214Z"
+}

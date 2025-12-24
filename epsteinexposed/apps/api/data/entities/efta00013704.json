@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00013704",
+    "filename": "EFTA00013704.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013704.pdf",
+    "text": "\n\nFrom: \" . (USAFLS)\" < \nTo: \"-(USAFLS)\" \nSubject: RE: \nDate: Mon, 19 Nov 2007 16:40:02 +0000 \nImportance: Normal \n(USAFLS)\" \nNo, I think he is pleading on December 16th, and we should definitely try to keep that date on track. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \n Ori \ninal Message \nFrom: (USAFLS) \nSent: Monda . November 19, 2007 11:38 AM \nTo: (USAFLS); \nSubject: FW: \n(USAFLS) \n,'\nEpstein believes that January 4th not December 16th is when he'll plead guilty and be sentenced. Judging from \nemail, it seems that January 4th is the date. Hopefully, Ill hear from Judge Davis today or tomorrow. Thanks, \n----Original Message \nFrom: Jay Lefkowitz [mailto: \nSent: Frida , November 16, 2007 2:00 PM \nTo: (USAFLS)\nSubject: \n- Beyond my letter the other day, and your email \nto me from a few weeks ago, is there anything else you \nneed from me regarding the plea and sentencing dates. \nAs we discussed, and as we have confirmed, the Court \nhas told us she will handle both at the same time (plea \nbefore sentencing, obviously), and to the agreed-upon \ncounts, on Jan 4. I trust I have cleared up any \nconfusion regarding Jan 7. \nThx. Jay \nThe information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nKirkland & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nEFTA00013704\n\nreturn e-mail or by e-mail to postrnaster©kirldand.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. \n**************** %With II* *IN tap *  • \nEFTA00013705",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \n Ori \ninal Mess"
+      },
+      {
+        "name": "Message \nFrom",
+        "role": "extracted",
+        "context": "Fax 561 820-8777 \n Ori \ninal Message \nFrom: (USAFLS) \nSent: Monda . Nove"
+      },
+      {
+        "name": "Judge Davis",
+        "role": "extracted",
+        "context": "ate. Hopefully, Ill hear from Judge Davis today or tomorrow. Thanks, \n-"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "day or tomorrow. Thanks, \n----Original Message \nFrom: Jay Lefkowitz [mailto:"
+      },
+      {
+        "name": "Jay Lefkowitz",
+        "role": "extracted",
+        "context": "----Original Message \nFrom: Jay Lefkowitz [mailto: \nSent: Frida , Novem"
+      },
+      {
+        "name": "Jay \nThe",
+        "role": "extracted",
+        "context": "fusion regarding Jan 7. \nThx. Jay \nThe information contained in this"
+      },
+      {
+        "name": "Ellis International",
+        "role": "extracted",
+        "context": "and & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, discl"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-11-19",
+        "event": "November 19, 2007"
+      },
+      {
+        "date": "2007-11-16",
+        "event": "November 16, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.205Z"
+}

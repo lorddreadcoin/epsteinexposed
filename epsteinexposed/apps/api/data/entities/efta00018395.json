@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018395",
+    "filename": "EFTA00018395.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018395.pdf",
+    "text": "\n\nFrom: \nto: \nSubject: RE: NYU Law Interns -- Fall Semester \nDate: Mon, 29 Jul 2019 15:18:19 +0000 \nHi \n=and \nI'd be interested in working with an intern this fall. Full disclosure, I think my workload in the fall will be mostly Epstein-\nrelated, and I don't have any trials or hearings scheduled, so I'm not sure it would be a very diverse experience. \nFrom: \nSent: Monday, July 29, 2019 10:31 AM \nTo: USANYS-Attorneys-Crimin \nCc: \nSubject: NYU Law Interns -- Fall Semester \nal \nPlease let us know if you would be interested in working with an NYU Law School intern in the Fall semester (September \n3-December 3). Please also let us know if you (1) have any trials or hearings scheduled during that time, or (2) asked for, \nbut didn't get, an intern last Spring. \nThanks, \n=8, \nEFTA00018395",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Law Interns",
+        "role": "extracted",
+        "context": "From: \nto: \nSubject: RE: NYU Law Interns -- Fall Semester \nDate: Mon,"
+      },
+      {
+        "name": "Fall Semester",
+        "role": "extracted",
+        "context": "bject: RE: NYU Law Interns -- Fall Semester \nDate: Mon, 29 Jul 2019 15:18"
+      },
+      {
+        "name": "Crimin \nCc",
+        "role": "extracted",
+        "context": "0:31 AM \nTo: USANYS-Attorneys-Crimin \nCc: \nSubject: NYU Law Interns --"
+      },
+      {
+        "name": "Law School",
+        "role": "extracted",
+        "context": "rested in working with an NYU Law School intern in the Fall semester ("
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-29",
+        "event": "July 29, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.826Z"
+}

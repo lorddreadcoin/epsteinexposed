@@ -1,0 +1,63 @@
+{
+  "document": {
+    "id": "efta00020922",
+    "filename": "EFTA00020922.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020922.pdf",
+    "text": "\n\nFrom: ' \n)\" \nTo: ' (USANYS)\"  \nSubject: RE: Amazon contact?? \nDate: Tue, 16 Jul 2019 16:20:35 +0000 \nAttachments: 2019-06-24,_subpoena_to_Amazon.pdf \nSure -  attached. Thank you! \nFrom: (USANYS) \nSent: Tuesday, July 16, 2019 08:32 \nTo: \nCc: (USANYS) 1 \nSubject: Re: Amazon contact?? \nI have one. Can you send me the subpoena? Thanks. \nCybercrime Coordinator \nAssistant United States Attorney \nSouthern District of New York \nOn Jul 15, 2019, at 7:19 PM, < wrote: \nAh well, thank you anyway' \nFrom: (USANYS) 1 \nSent: Monday, July 15, 2019 19:18 \nTo: \nSubject: RE: Amazon contact?? \nI unfortunately do not have any special contact at Amazon. \nFrom: \nSent: Monday, July 15, 2019 7:18 PM \nTo: (USANYS) (USANYS) 1 \nSubject: Amazon contact?? \nDo either of you happen to have a contact at Amazon? We're trying to follow up on an overdue subpoena for Epstein \nand I can't find any good / current contact info there. Thank you!! \n(USANYS) \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00020922",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cybercrime Coordinator",
+        "role": "extracted",
+        "context": "end me the subpoena? Thanks. \nCybercrime Coordinator \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nks. \nCybercrime Coordinator \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Coordinator \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOn Jul 15, 2019,"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "outhern District of New York \nOn Jul 15, 2019, at 7:19 PM, < wrote"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "u!! \n(USANYS) \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-24",
+        "event": "2019-06-24"
+      },
+      {
+        "date": "2019-07-16",
+        "event": "July 16, 2019"
+      },
+      {
+        "date": "2019-07-15",
+        "event": "July 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.627Z"
+}

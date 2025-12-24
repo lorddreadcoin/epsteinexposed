@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00018286",
+    "filename": "EFTA00018286.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018286.pdf",
+    "text": "\n\nFrom \nTo \nSubject: \nDate: The, \n27 Oct 2020 18:54:59 +0000 \nAttachments: 2020-10-27 Discovery_Letter Draft_v4.docx \n• Iscovery .ra.y etter \nI went through the comments/edits. Updated draft is attached. Can we discuss the few remaining comments briefly \n(perhaps after our call with Richards)? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA00018286",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: \nDate: The, \n27 Oct"
+      },
+      {
+        "name": "Letter Draft",
+        "role": "extracted",
+        "context": "chments: 2020-10-27 Discovery_Letter Draft_v4.docx \n• Iscovery .ra.y ett"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ter our call with Richards)? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Richards)? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York. Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-27",
+        "event": "2020-10-27"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.567Z"
+}

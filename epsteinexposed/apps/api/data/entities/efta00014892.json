@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014892",
+    "filename": "EFTA00014892.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014892.pdf",
+    "text": "\n\nFrom: Laura \nN.Icnnimzer - \nTo: \nLundberg \n,Nicole \nSubject: [EXTERNAL] Supplemental letter regarding \nDate: Sun, 28 Nov 2021 02:42:17 +0000 \nAttachments: \ntestimony \nCounsel — \nPlease see attached letter regarding Mr. anticipated testimony. \nThank you, \nLaura \nLaura A. Menninger I  Partner \nHaddon, Morgan & Foreman, P.C. \nEFTA00014892",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nicole \nSubject",
+        "role": "extracted",
+        "context": ".Icnnimzer - \nTo: \nLundberg \n,Nicole \nSubject: [EXTERNAL] Supplemental lett"
+      },
+      {
+        "name": "Laura \nLaura",
+        "role": "extracted",
+        "context": "pated testimony. \nThank you, \nLaura \nLaura A. Menninger I  Partner \nHadd"
+      },
+      {
+        "name": "Partner \nHaddon",
+        "role": "extracted",
+        "context": "Laura \nLaura A. Menninger I  Partner \nHaddon, Morgan & Foreman, P.C. \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.778Z"
+}

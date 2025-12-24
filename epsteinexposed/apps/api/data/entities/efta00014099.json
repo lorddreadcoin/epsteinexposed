@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00014099",
+    "filename": "EFTA00014099.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014099.pdf",
+    "text": "\n\nFrom: (USAFLS)\" \nc4 \nTo: \n(USAFLS)\" \n-\nBee: ' \n(USAFLS)\" \nc4 \nSubject: RE: Don't know if you saw \nDate: Tue, 01 Jul 2008 21:04:05 +0000 \nImportance: Normal \nThank you, \nI hope \nyou are feeling better. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: (USAFLS) \nSent: Tuesday, July 01, 2008 4:15 PM \nTo: . (USAFLS) \nSubject: RE: Don't know if you saw \nAlex told me this morning that Epstein had pled. That is wonderful. I never thought we'd see the day. You \ndeserve all the credit for this. If it had not been for you, he would have gotten away with it. \nFrom: (USAFLS) \nSent: Tuesda July 01, 2008 11:31 AM \nTo: (USAFLS) \nSubject: Don't know if you saw \nBut my nemesis Mr. Epstein finally pled. The first article is my favorite. Thank you, as always, for your help \nand support. I am still in a state of shock. \n<.< File: News Briefings 07 01 08.pdf >> \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014099",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ow if you saw \nBut my nemesis Mr. Epstein finally pled. The first a"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 21:04:05 +0000 \nImportance: Normal \nThank you, \nI hope \nyou are feeling"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "eling better. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom:"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: (USAFLS) \nSent: Tuesda"
+      },
+      {
+        "name": "Tuesda July",
+        "role": "extracted",
+        "context": "th it. \nFrom: (USAFLS) \nSent: Tuesda July 01, 2008 11:31 AM \nTo: (USAFL"
+      },
+      {
+        "name": "News Briefings",
+        "role": "extracted",
+        "context": "a state of shock. \n<.< File: News Briefings 07 01 08.pdf >> \nAssistant U."
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-01",
+        "event": "July 01, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.117Z"
+}

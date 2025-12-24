@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00021051",
+    "filename": "EFTA00021051.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021051.pdf",
+    "text": "\n\nSubject: Press Conference at Epstein's \nDate: Mon, 27 Jan 2020 20:27:49 +0000 \nAll, \nI have been getting some questions about the press conference that occurred today at Epstein's mansion, do any \nof you know that was about? Our media affairs department has been getting questions. In addition, our Victim \nSpecialists have been fielding calls from irate victims who weren't notified. \nhttps://twittercorn/Aarotaatersky/status/1221833096686903299/photo/1 \nthanks, \nSSA-\nSquad C-20 \nCrimes Against Children/Human Trafficking \nFBI New York \noffice \nmobile \nEFTA00021051",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Press Conference",
+        "role": "extracted",
+        "context": "Subject: Press Conference at Epstein's \nDate: Mon, 27 J"
+      },
+      {
+        "name": "Victim \nSpecialists",
+        "role": "extracted",
+        "context": "g questions. In addition, our Victim \nSpecialists have been fielding calls from"
+      },
+      {
+        "name": "Crimes Against",
+        "role": "extracted",
+        "context": "/1 \nthanks, \nSSA-\nSquad C-20 \nCrimes Against Children/Human Trafficking \nF"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "C-20 \nCrimes Against Children/Human Trafficking \nFBI New York \noffice \nmobile"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.917Z"
+}

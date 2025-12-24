@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00024924",
+    "filename": "EFTA00024924.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024924.pdf",
+    "text": "\n\nFrom: (USANYS)\" <1.> \nTo: 1=): \n)\" \nIera=a)\" \nSubject: Opening \nDate: Fri, 19 Nov 2021 00:44:13 +0000 \nAttachments: Maxwell_Opening_v5.docx \nHi team, \nAttaching an updated draft of the opening reflecting comments from =and =. I played around with the structure of \nthe pyramid scheme; let me know what you think. I left in a few comments I am hoping we could quickly discuss \ntomorrow. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00024924",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Opening \nDate",
+        "role": "extracted",
+        "context": "1=): \n)\" \nIera=a)\" \nSubject: Opening \nDate: Fri, 19 Nov 2021 00:44:13 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "discuss \ntomorrow. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.114Z"
+}

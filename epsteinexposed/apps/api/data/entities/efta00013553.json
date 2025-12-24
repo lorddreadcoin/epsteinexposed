@@ -1,0 +1,87 @@
+{
+  "document": {
+    "id": "efta00013553",
+    "filename": "EFTA00013553.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013553.pdf",
+    "text": "\n\nFrom: \"-(USAFLS)\" </O=USA/OU=FLS/CN=RECIPIENTS/CN= > \nTo:'\nBcc: \" (USAFLS)\" < (USAFLS)\" \n<>1 \n(USAFLS)\" \nSubject: Jeffrey Epstein \nDate: Wed, 28 May 2008 20:51:45 +0000 \nImportance: Normal \n> \nUSAFLS)\" \nII \nMr. Lefkowitz, \nThe United States Attorney's Office for the Southern District of Florida was recently \nnotified that the Office of the Deputy Attorney General, at your request, intends to review \ncertain aspects of the investigation involving Mr. Epstein's sexual conduct involving minor \nvictims. Naturally, until the DAG's Office has completed its review, this Office has postponed the \ncurrent June 2, 2008 deadline requiring compliance by your client with the terms and \nconditions of the September 24, 2007 global resolution of state and federal liabilities, as \nmodified by the United States Attorney's December 19, 2007 letter to Lilly Ann Sanchez, Esq. \nSincerely, \nFirst Assistant US Attorney \nSouthern District of Florida \nEFTA00013553",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "\" (USAFLS)\" < (USAFLS)\" \n<>1 \n(USAFLS)\" \nSubject: Jeffrey Epstein \nDate: Wed, 28 May 2008 20:51:45 +0000 \nImportanc"
+      },
+      {
+        "name": "Lefkowitz",
+        "role": "extracted",
+        "context": "nce: Normal \n> \nUSAFLS)\" \nII \nMr. Lefkowitz, \nThe United States Attor"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "f the investigation involving Mr. Epstein's sexual conduct involvin"
+      },
+      {
+        "name": "The United",
+        "role": "extracted",
+        "context": "USAFLS)\" \nII \nMr. Lefkowitz, \nThe United States Attorney's Office for"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "I \nMr. Lefkowitz, \nThe United States Attorney's Office for the Southern Dis"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tes Attorney's Office for the Southern District of Florida was recently \nnoti"
+      },
+      {
+        "name": "Deputy Attorney",
+        "role": "extracted",
+        "context": "tified that the Office of the Deputy Attorney General, at your request, int"
+      },
+      {
+        "name": "Lilly Ann",
+        "role": "extracted",
+        "context": "s December 19, 2007 letter to Lilly Ann Sanchez, Esq. \nSincerely, \nFi"
+      },
+      {
+        "name": "First Assistant",
+        "role": "extracted",
+        "context": "nn Sanchez, Esq. \nSincerely, \nFirst Assistant US Attorney \nSouthern Distric"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "incerely, \nFirst Assistant US Attorney \nSouthern District of Florida \nEFTA0001"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-06-02",
+        "event": "June 2, 2008"
+      },
+      {
+        "date": "2007-09-24",
+        "event": "September 24, 2007"
+      },
+      {
+        "date": "2007-12-19",
+        "event": "December 19, 2007"
+      },
+      {
+        "date": "2008-05-28",
+        "event": "28 May 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.854Z"
+}

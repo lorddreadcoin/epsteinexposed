@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013752",
+    "filename": "EFTA00013752.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013752.pdf",
+    "text": "\n\nFrom• \nTo: \"Jay Lefkowitz\" \nSubject: Epstein \nDate: Wed, 31 Oct 2007 20:33:23 +0000 \nImportance: Normal \nJay, \nYour understanding from Jack Goldberger conforms to my understanding that Mr. Epstein's plea and sentence \nwill take place on the same day. I understand that the plea and sentence will occur on or before the January 4th \ndate. \n• \nEFTA00013752",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "orms to my understanding that Mr. Epstein's plea and sentence \nwill"
+      },
+      {
+        "name": "Jay Lefkowitz",
+        "role": "extracted",
+        "context": "From• \nTo: \"Jay Lefkowitz\" \nSubject: Epstein \nDate: Wed"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To: \"Jay Lefkowitz\" \nSubject: Epstein \nDate: Wed, 31 Oct 2007 20:33:23 +0"
+      },
+      {
+        "name": "Normal \nJay",
+        "role": "extracted",
+        "context": "7 20:33:23 +0000 \nImportance: Normal \nJay, \nYour understanding from Jac"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "Jay, \nYour understanding from Jack Goldberger conforms to my understanding"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.316Z"
+}

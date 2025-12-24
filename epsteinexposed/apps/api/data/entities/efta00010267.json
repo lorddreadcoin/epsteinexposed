@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00010267",
+    "filename": "EFTA00010267.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010267.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Priorities \nDate: Thu, 31 Oct 2019 15:09:26 +0000 \nAttachments: SDNY PRIORITIES DRAFT \niRevised_10.31.19_nvb].docx \nWith revisions/additions/fixed formatting issues and updated hyperlinks. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office \nI \nSouthern District of New York \nEFTA00010267",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Priorities \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Priorities \nDate: Thu, 31 Oct 2019 15:09:26 +0"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "sues and updated hyperlinks. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "e \nU.S. Attorney's Office \nI \nSouthern District of New York \nEFTA00010267"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.627Z"
+}

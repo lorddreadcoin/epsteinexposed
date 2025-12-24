@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014152",
+    "filename": "EFTA00014152.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014152.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBcc: \nSubject: \nDate: \nImportance: \nAttachments: \nRoy \nBLACK <RBLACK ro black.com> \nJeffrey Epstein \nMon, 24 Nov 2008 17:28:31 +0000 \nNormal \n081124a lir  to Black.pdf \nDear Roy: \nPlease review the attached letter. \nThank you. \n«081124 Villafana Itr to Black.pdf» \nAssistant U.S. Attorney \nPhone \nFax \nEFTA00014152",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Attachments: \nRoy \nBLACK <RBLACK ro black.com> \nJeffrey Epstein \nMon, 24 Nov 2008 17:28:31 +0000 \nNormal \n081124a"
+      },
+      {
+        "name": "Dear Roy",
+        "role": "extracted",
+        "context": "l \n081124a lir  to Black.pdf \nDear Roy: \nPlease review the attached"
+      },
+      {
+        "name": "Villafana Itr",
+        "role": "extracted",
+        "context": "letter. \nThank you. \n«081124 Villafana Itr to Black.pdf» \nAssistant U.S."
+      },
+      {
+        "name": "Attorney \nPhone",
+        "role": "extracted",
+        "context": "to Black.pdf» \nAssistant U.S. Attorney \nPhone \nFax \nEFTA00014152"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.273Z"
+}

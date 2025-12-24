@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00032130",
+    "filename": "EFTA00032130.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032130.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n)\" < \nSubject: RE: question re: flight records \nDate: Tue, 31 Mar 2020 17:46:39 +0000 \n)II \nGot it —  thanks. \nFrom: \nSent: Monday, March 30, 2020 12:52 \nTo: \nSubject: RE: question re: flight records \n< \nYep, the August flights are what I was referring to. =I recalled the NM trip was sometime after returned from \nthe Africa trip with Epstein and President Clinton. I don't have the records in front of me, but I believe those August \nflights are after the Pres. Clinton flights. \nFrom: \nSent: Sunday, March 29, 2020 1:44 PM \nTo: \nSubject: question re: flight records \nHey, just a quick question about this in the CC update memo — \"flight records do reflect at least one trip that \ntook with Epstein to New Mexico during the general time period in 2002 when recalls the assault \noccurring\" \nLooking at the records from July 2002 through the end of the year, and looking for either ABQ (Albuquerque) or SAF \n(Santa Fe), I only see the following: \n- July 17, SAF to TEB (include= \n- August 5, TEB to SAF (includes. and August 17, SAF to TEB (includesM \nsays she met Epstein in 2002, so is one (or both) of those trips what we're referring to? I don't see any other records \nof flights to New Mexico in the second half of 2002 at all, and doesn't show up by name on the jet until December . . \n. and then I don't see her again until April 2003 (which is consistent with her being in Spain for the beginning of 2003). \nJust wanted to check —  extremely possible I'm not seeing something! Or just that the July / Aug. flights are what we're \nreferencing. Thanks! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00032130",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "President Clinton",
+        "role": "extracted",
+        "context": "Africa trip with Epstein and President Clinton. I don't have the records in"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "ip that \ntook with Epstein to New Mexico during the general time perio"
+      },
+      {
+        "name": "Santa Fe",
+        "role": "extracted",
+        "context": "er ABQ (Albuquerque) or SAF \n(Santa Fe), I only see the following:"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "cing. Thanks! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Santa Fe",
+        "type": "location"
+      },
+      {
+        "name": "TEB",
+        "type": "airport"
+      },
+      {
+        "name": "SAF",
+        "type": "airport"
+      },
+      {
+        "name": "ABQ",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-03-30",
+        "event": "March 30, 2020"
+      },
+      {
+        "date": "2020-03-29",
+        "event": "March 29, 2020"
+      }
+    ],
+    "flights": [
+      {
+        "from": "SAF",
+        "to": "TEB",
+        "date": "unknown",
+        "passengers": []
+      },
+      {
+        "from": "TEB",
+        "to": "SAF",
+        "date": "unknown",
+        "passengers": []
+      },
+      {
+        "from": "SAF",
+        "to": "TEB",
+        "date": "unknown",
+        "passengers": []
+      }
+    ],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.703Z"
+}

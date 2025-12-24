@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020623",
+    "filename": "EFTA00020623.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020623.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nala> \nIl \nTo: leMilitiliS:\n2\"O=n; \nnri\nSubject: M/Epstein Meet \nDate: Wed, 24 Jul 2019 21:11:53 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00020623",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Il \nTo",
+        "role": "extracted",
+        "context": "From: \n(USANYS)\" \nala> \nIl \nTo: leMilitiliS:\n2\"O=n; \nnri\nSub"
+      },
+      {
+        "name": "Epstein Meet",
+        "role": "extracted",
+        "context": "tiliS:\n2\"O=n; \nnri\nSubject: M/Epstein Meet \nDate: Wed, 24 Jul 2019 21:11"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 21:11:53 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00020623"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.244Z"
+}

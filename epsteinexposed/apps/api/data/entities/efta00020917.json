@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00020917",
+    "filename": "EFTA00020917.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020917.pdf",
+    "text": "\n\nFrom: \" \nTo:' \nCc: \nSubject: RE: Jeffrey Epstein Victim; Ms \nDate: Fri, 22 Nov 2019 18:38:04 +0000 \n, 17 years old \nGot it, thanks. \nFrom: \nSent: Friday, November 22, 2019 13:37 \nTo: \nCc: \nSubject: RE: Jeffrey Epstein Victim; Ms 17 years old \ncalled on our 800 line from New Mexico \nsex trafficking that the AG in New Mexico gave her our 800 line. \nI don't know if this is Epstein. \nFrom: \nSent: Friday, November 22, 2019 1:24 PM \nTo: \nCc: \nSubject: RE: Jeffrey Epstein Victim; Ms \nWill do, thank you! \nFrom: \nSent: Friday, November 22, 2019 13:17 \nTo: \nshe believes that her daughter \n17 years old \n>; \nis a victim of \nSubject: FW: Jeffrey Epstein Victim; Ms 17 years old \nCan you send to \nFBI. \nFrom: \nSent: Thursday, November 21, 2019 8:12 PM \nTo: \nSubject: Jeffrey Epstein Victim; Ms \n  >; \n17 years old \nI am a very close friend of Ms. \nof Calderitas, Mexico. Ms. \nJeffrey Epstein on numerous occasions at \nYork and his caribbean island home in the \nand her guardian, Ms \nwas abused by \nhis townhome in New \nVirgin Islands. They \n• \nEFTA00020917\n\nboth have expressed their interest in asking me to register her claim \nas a victim in any case involving Mr. Epstein's estate, which she \nbelieves she may have a claim. \nShe does not have legal representation yet, but is in negotiations to \nretain and attorney soon. \nRegards, \nEFTA00020918",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \" \nTo:' \nCc: \nSubject: RE: Jeffrey Epstein Victim; Ms \nDate: Fri, 22 Nov 2019 18:38:04 +0000"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "victim in any case involving Mr. Epstein's estate, which she \nbeli"
+      },
+      {
+        "name": "Ms \nDate",
+        "role": "extracted",
+        "context": ": RE: Jeffrey Epstein Victim; Ms \nDate: Fri, 22 Nov 2019 18:38:04 +0"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "called on our 800 line from New Mexico \nsex trafficking that the AG"
+      },
+      {
+        "name": "Ms \nWill",
+        "role": "extracted",
+        "context": ": RE: Jeffrey Epstein Victim; Ms \nWill do, thank you! \nFrom: \nSent:"
+      },
+      {
+        "name": "New \nVirgin",
+        "role": "extracted",
+        "context": "as abused by \nhis townhome in New \nVirgin Islands. They \n• \nEFTA0002091"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-22",
+        "event": "November 22, 2019"
+      },
+      {
+        "date": "2019-11-21",
+        "event": "November 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.618Z"
+}

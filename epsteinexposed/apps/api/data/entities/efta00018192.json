@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018192",
+    "filename": "EFTA00018192.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018192.pdf",
+    "text": "\n\nFrom: \nTo: Jack Scarola \nCc: \nSubject: Rule 17(c) subpoena \nDate: Tue, 16 Nov 2021 02:28:42 +0000 \nAttachments: 2021.11.14_Mtn_for Order_Auth_a_Sub_Pursnt_to_F.R.Crim.P_17(c) \n(3)_re._Feldman_Redacted_for Scarola.pdf; 2021.11.14_Ex._l_Redacted_for_Scarola.pdf \nJack, \nAttached is a motion that Maxwell's has counsel filed seeking to subpoena information from the Epstein Victim \nCompensation Fund, including information about' We intend to file a motion to quash the subpoena later this \nweek. Happy to have a call if you would like to discuss or have any questions. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York NY 10007 \nEFTA00018192",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jack Scarola",
+        "role": "extracted",
+        "context": "From: \nTo: Jack Scarola \nCc: \nSubject: Rule 17(c) sub"
+      },
+      {
+        "name": "Epstein Victim",
+        "role": "extracted",
+        "context": "subpoena information from the Epstein Victim \nCompensation Fund, including"
+      },
+      {
+        "name": "Compensation Fund",
+        "role": "extracted",
+        "context": "tion from the Epstein Victim \nCompensation Fund, including information about'"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "have any questions. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York NY 10007 \nEFTA00018192"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.381Z"
+}

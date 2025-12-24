@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027057",
+    "filename": "EFTA00027057.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027057.pdf",
+    "text": "\n\nleevacation* \nsjeeitunes* \n*jeevacation* \n*littlestjeff* \nsjeffreyepsteinorg* \n*jeeproject* \nsjeffieyepstein* \n*gmax* \n*pipex* \n*aace* \n*abx \n17* \n*passenger* \n*manifest* \n*flight* \n*massages \n*masseuse* \n*vibrator* \nMaxwell \nGhislaine \nnvisi \ne \nAndrew \nPrince \nExpedia \nEFTA00027057\n\nJet \nGulfstream \nBoeing \nHyperion \nLo \nEFTA00027058\n\nEFTA00027059\n\nEFTA00027060\n\nEFTA00027061\n\nEFTA00027062",
+    "pageCount": 6,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nGhislaine",
+        "role": "extracted",
+        "context": "ages \n*masseuse* \n*vibrator* \nMaxwell \nGhislaine \nnvisi \ne \nAndrew \nPrince \nEx"
+      },
+      {
+        "name": "Andrew \nPrince",
+        "role": "extracted",
+        "context": "Maxwell \nGhislaine \nnvisi \ne \nAndrew \nPrince \nExpedia \nEFTA00027057\n\nJet"
+      },
+      {
+        "name": "Jet \nGulfstream",
+        "role": "extracted",
+        "context": "rince \nExpedia \nEFTA00027057\n\nJet \nGulfstream \nBoeing \nHyperion \nLo \nEFTA00"
+      },
+      {
+        "name": "Boeing \nHyperion",
+        "role": "extracted",
+        "context": "FTA00027057\n\nJet \nGulfstream \nBoeing \nHyperion \nLo \nEFTA00027058\n\nEFTA000270"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.467Z"
+}

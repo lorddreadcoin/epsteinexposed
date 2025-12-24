@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019445",
+    "filename": "EFTA00019445.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019445.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: Maxwell trial fact witness travel \nDate: Fri, 19 Nov 2021 21:47:19 +0000 \nAttachments: Fact_ \nWitness_ \nTravel_RequestiMafor_trial.docx \nHi \nAttached please find a fact witness travel request for another witness in the Maxwell trial—fle currently \nexpect she'll testify on We would like to have her fly in on=and out on the evening of= You already \nbooked travel forso I defer to you, but think it would make sense to have her at the same \nhotel. Also, just flagging that there is a chance that we will need to change her travel dates and will know more once trial \nis underway. Please let us know if you have any questions. \nThanks so much for all of your help) \nM \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel \nEFTA00019445",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Maxwell trial f"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Maxwell trial fact witness t"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "vel_RequestiMafor_trial.docx \nHi \nAttached please find a fact witness tr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "uch for all of your help) \nM \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ur help) \nM \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.906Z"
+}

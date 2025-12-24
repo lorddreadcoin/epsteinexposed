@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00032381",
+    "filename": "EFTA00032381.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032381.pdf",
+    "text": "\n\nFrom: Mail Delivery Subsystem <MAILER-DAEMON@DBMDCJC01-PPOINT09.jcots.jutnet.net> \nTo: \nSubject: Returned mail: see transcript for details \nDate: Wed, 14 Aug 2019 15:02:39 +0000 \nEmbedded: unnamed \nThe original message was received at Wed. 14 Aug 2019 15:02:39 GMT \nfrom (10.187.9.621 \n The following addresses had permanent fatal errors \n(reason: 550 Host unknown) \n Transcript of session follows ----\n550 5  1.2 Host unknown (Name server: : host not found) \nEFTA00032381",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mail Delivery",
+        "role": "extracted",
+        "context": "From: Mail Delivery Subsystem <MAILER-DAEMON@DBMD"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.496Z"
+}

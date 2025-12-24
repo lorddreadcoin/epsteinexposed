@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00023779",
+    "filename": "EFTA00023779.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023779.pdf",
+    "text": "\n\nFrom: 1:3' \nTo: \nSubject: Automatic reply: Epstein FOIAs \nDate: Wed, 11 Mar 2020 13:48:46 +0000 \nI am currently on trial before the Honorable Paul A. Engelmayer. Althou h I will be checkin emails, m res onses ma be dela ed. For urgent \nmatters, please contact the other AUSA(s) on the case, or AUS \nEFTA00023779",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "As \nDate",
+        "role": "extracted",
+        "context": ": Automatic reply: Epstein FOIAs \nDate: Wed, 11 Mar 2020 13:48:46 +0"
+      },
+      {
+        "name": "Honorable Paul",
+        "role": "extracted",
+        "context": "currently on trial before the Honorable Paul A. Engelmayer. Althou h I wil"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.607Z"
+}

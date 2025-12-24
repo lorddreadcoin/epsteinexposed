@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00025272",
+    "filename": "EFTA00025272.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025272.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nci \nTo: (USANYS)\"  \nSubject: FW: Monthly Updates \nDate: Fri, 02 Oct 2020 12:53:38 +0000 \nAttachments: PC Unit — Short Fonn Update.10.2.20.docx \nLeft two open for you to fill in. Thanks! \nFrom: \nSent: Wednesday, September 30, 2020 8:48 AM \nTo \nCc: \nSubject: Monthly Updates \n> \nIt occurs to me that Friday is the First Friday of October. I've learned from experience that the monthly updates are more \nlikely to be completed if I remind you. So consider yourselves reminded. \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \nEFTA00025272",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monthly Updates",
+        "role": "extracted",
+        "context": "To: (USANYS)\"  \nSubject: FW: Monthly Updates \nDate: Fri, 02 Oct 2020 12:53"
+      },
+      {
+        "name": "Short Fonn",
+        "role": "extracted",
+        "context": "+0000 \nAttachments: PC Unit — Short Fonn Update.10.2.20.docx \nLeft two"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": ", September 30, 2020 8:48 AM \nTo \nCc: \nSubject: Monthly Updates \n>"
+      },
+      {
+        "name": "First Friday",
+        "role": "extracted",
+        "context": "curs to me that Friday is the First Friday of October. I've learned from"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "yourselves reminded. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-30",
+        "event": "September 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.843Z"
+}

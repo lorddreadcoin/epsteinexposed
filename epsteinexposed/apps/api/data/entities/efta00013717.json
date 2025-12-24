@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013717",
+    "filename": "EFTA00013717.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013717.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Epstein \nDate: Wed, 12 Dec 2007 14:44:10 +0000 \nImportance: Normal \nNo thx, I have it. \n-------- ---------- ---\nSent from my BlackBerry Wireless Handheld \nFro • \nTo: \nSe .07 \nSubject: Epstein \nDo you want me to send you the indictment package on Epstein? \nEFTA00013717",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Re: Epstein \nDate: Wed, 12 Dec 2007 14:44:10 +0"
+      },
+      {
+        "name": "Normal \nNo",
+        "role": "extracted",
+        "context": "7 14:44:10 +0000 \nImportance: Normal \nNo thx, I have it. \n-------- ---"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "------- ---\nSent from my BlackBerry Wireless Handheld \nFro • \nTo: \nSe .07"
+      },
+      {
+        "name": "Handheld \nFro",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \nFro • \nTo: \nSe .07 \nSubject: Epst"
+      },
+      {
+        "name": "Epstein \nDo",
+        "role": "extracted",
+        "context": "Fro • \nTo: \nSe .07 \nSubject: Epstein \nDo you want me to send you the i"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.232Z"
+}

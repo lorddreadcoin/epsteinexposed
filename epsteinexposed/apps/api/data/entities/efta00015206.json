@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015206",
+    "filename": "EFTA00015206.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015206.pdf",
+    "text": "\n\nFrom \nTo: \nCc: ' \" \" \nSubject: [EXTERNAL EMAIL] - Epstein image & video files \nDate: Fri, 16 Oct 2020 02:17:45 +0000 \nI'll check in the morning and let you know. \nOn Oct 15, 2020 9:48 PM, \nHi \n)\" <\n1.> wrote: \nThank you so much for dropping off the image and video files from the Epstein devices earlier today. I've looked through \nall the drives, and it appears that the folders for device number NYCO24342 are empty. Is it right that there were no \nimages or videos extracted from that device? \nAnd I believe we are still waiting on images and videos from the below devices (but please let me know if I'm wrong): \nNYCO24328 \nNYCO24329 \nNYCO24329 \nNYCO24353 \nNYCO24365 \nNYCO24366 \nNYCO24371 \nNYCO24383 \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nl  St. Andrew's Plaza \nEFTA00015206",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nCc: ' \" \" \nSubject: [EXTERN"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "he morning and let you know. \nOn Oct 15, 2020 9:48 PM, \nHi \n)\" <\n1"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "NYCO24383 \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nl  St. Andrew's"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.200Z"
+}

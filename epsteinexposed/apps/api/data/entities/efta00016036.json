@@ -1,0 +1,135 @@
+{
+  "document": {
+    "id": "efta00016036",
+    "filename": "EFTA00016036.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016036.pdf",
+    "text": "\n\nFrom: \nSent: \nTo: \nSubject: \nTuesday, August 11, 2020 5:52 PM \nFVV: MAXWELL: \nTransfer Recap \nFrom: \nSent: 1W\" rimy  \n27, \n2014 3:35 PM \nTo: \nCc: \nSubject: MAXWELL: Transfer Recap \nHere is a recap of the transfer: \nBANKING ACCOUNTS \nAccount Title\nUN A/C \nJPM Mkt \nValue \na/o \n12/31/13 \nValue \nat U8S \nNotes \nGhislaine Maxwell 16,872.07 27,047.74 Completed \nGhislaine Maxwell 3,122,468.82 In process \nMax \nFoundation \n3,517.72 \n3,517.75 Completed \nMax Foundation 17,213.42 In process \n116 East 65th Street LLC \n10,731.50 30,265.73 \nCompleted \nPot and Kettle LLC 5,838.70 5,838.70 Completed \nEllmax LLC 87,974.09 87,974.09 Completed \nTerraMar Project, Inc. \n50,989.28 35,749.95 Completed \nTerraMar Project, \nInc. 0.00 0.00 \nMax Hotel \nServices Corp. 2,399.64 2,360.13 \nCompleted \nTotal Banking Assets 3,318,005.24 192,754.09 \nINVESTMENT \nACCOUNTS \nAccount TitleUBS A/C JPM Mkt \nValue \na/o 12/31/13 \nValue \nat UBS \nNotes \nGhislaine \nMaxwell \n$5,259,275.95 Waiting to submit once international \npositions are transferred out of \nJPM \nA/C \nGhislaine Maxwell \n430.00 \n0.00 Zero Balance @ JPM \nGhislaine \nMaxwell - OAP IHD $1,967,979.33 1,793,384.45 ACAT \nCompleted - Equity Positions \nGhislaine Maxwell- TAP DYS $1,036,516.92 1,031,614.80 ACAT Completed- Mutual Funds \n1 \nSDNY_GM_02742189 \nEFTA00016036\n\nGhislaine Maxwell - TAP ARFI \n$1,003,477.16 991,783.20 ACAT \nCompleted - Mutual Funds \nGhislaine Maxwell - HY $ 3.00 0.00 Zero Balance @ 1PM \nGhislaine Maxwell - OAP FDG $2,045,944.92 1,966,430.85 ACAT Completed • Equity Positions \nGhislaine Maxwell - IRA \n$ 56,821.46 56,278.66 ACAT Completed • Mutual Fund \nTotal Investment Assets 11,370,448.74 5,839,491.96 \nTOTAL ASSETS \n14,688,453.98 6,032,246.05 \n2 \nSDNY_GM_02742190 \nEFTA00016037",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Mkt \nValue \na/o \n12/31/13 \nValue \nat U8S \nNotes \nGhislaine Maxwell 16,872.07 27,047.74 Completed \nGhislaine Maxwell"
+      },
+      {
+        "name": "Transfer Recap",
+        "role": "extracted",
+        "context": "2020 5:52 PM \nFVV: MAXWELL: \nTransfer Recap \nFrom: \nSent: 1W\" rimy  \n27,"
+      },
+      {
+        "name": "Account Title",
+        "role": "extracted",
+        "context": "transfer: \nBANKING ACCOUNTS \nAccount Title\nUN A/C \nJPM Mkt \nValue \na/o"
+      },
+      {
+        "name": "Mkt \nValue",
+        "role": "extracted",
+        "context": "TS \nAccount Title\nUN A/C \nJPM Mkt \nValue \na/o \n12/31/13 \nValue \nat U8S"
+      },
+      {
+        "name": "Notes \nGhislaine",
+        "role": "extracted",
+        "context": "a/o \n12/31/13 \nValue \nat U8S \nNotes \nGhislaine Maxwell 16,872.07 27,047.74 C"
+      },
+      {
+        "name": "Completed \nGhislaine",
+        "role": "extracted",
+        "context": "e Maxwell 16,872.07 27,047.74 Completed \nGhislaine Maxwell 3,122,468.82 In proce"
+      },
+      {
+        "name": "Max \nFoundation",
+        "role": "extracted",
+        "context": "well 3,122,468.82 In process \nMax \nFoundation \n3,517.72 \n3,517.75 Completed"
+      },
+      {
+        "name": "Completed \nMax",
+        "role": "extracted",
+        "context": "oundation \n3,517.72 \n3,517.75 Completed \nMax Foundation 17,213.42 In proce"
+      },
+      {
+        "name": "Completed \nPot",
+        "role": "extracted",
+        "context": "eet LLC \n10,731.50 30,265.73 \nCompleted \nPot and Kettle LLC 5,838.70 5,838"
+      },
+      {
+        "name": "Completed \nEllmax",
+        "role": "extracted",
+        "context": "Kettle LLC 5,838.70 5,838.70 Completed \nEllmax LLC 87,974.09 87,974.09 Compl"
+      },
+      {
+        "name": "Completed \nTerra",
+        "role": "extracted",
+        "context": "llmax LLC 87,974.09 87,974.09 Completed \nTerraMar Project, Inc. \n50,989.28 3"
+      },
+      {
+        "name": "Mar Project",
+        "role": "extracted",
+        "context": ".09 87,974.09 Completed \nTerraMar Project, Inc. \n50,989.28 35,749.95 Co"
+      },
+      {
+        "name": "Max Hotel",
+        "role": "extracted",
+        "context": "Mar Project, \nInc. 0.00 0.00 \nMax Hotel \nServices Corp. 2,399.64 2,36"
+      },
+      {
+        "name": "Services Corp",
+        "role": "extracted",
+        "context": ", \nInc. 0.00 0.00 \nMax Hotel \nServices Corp. 2,399.64 2,360.13 \nCompleted"
+      },
+      {
+        "name": "Completed \nTotal",
+        "role": "extracted",
+        "context": "ices Corp. 2,399.64 2,360.13 \nCompleted \nTotal Banking Assets 3,318,005.24 1"
+      },
+      {
+        "name": "Banking Assets",
+        "role": "extracted",
+        "context": "64 2,360.13 \nCompleted \nTotal Banking Assets 3,318,005.24 192,754.09 \nINVE"
+      },
+      {
+        "name": "Zero Balance",
+        "role": "extracted",
+        "context": "islaine Maxwell \n430.00 \n0.00 Zero Balance @ JPM \nGhislaine \nMaxwell - O"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": ".00 \n0.00 Zero Balance @ JPM \nGhislaine \nMaxwell - OAP IHD $1,967,979.33 1,793"
+      },
+      {
+        "name": "Equity Positions",
+        "role": "extracted",
+        "context": ",793,384.45 ACAT \nCompleted - Equity Positions \nGhislaine Maxwell- TAP DYS $"
+      },
+      {
+        "name": "Mutual Funds",
+        "role": "extracted",
+        "context": "1,031,614.80 ACAT Completed- Mutual Funds \n1 \nSDNY_GM_02742189 \nEFTA000"
+      },
+      {
+        "name": "Mutual Fund",
+        "role": "extracted",
+        "context": "46 56,278.66 ACAT Completed • Mutual Fund \nTotal Investment Assets 11,3"
+      },
+      {
+        "name": "Total Investment",
+        "role": "extracted",
+        "context": "ACAT Completed • Mutual Fund \nTotal Investment Assets 11,370,448.74 5,839,49"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-11",
+        "event": "August 11, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.003Z"
+}

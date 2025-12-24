@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030270",
+    "filename": "EFTA00030270.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030270.pdf",
+    "text": "\n\nFrom: ' )\" < \nTo: ' (USANYS)\" < \nSubject: Re: Epstein - Forfeiture \nDate: Mon, 08 Apr 2019 17:39:32 +0000 \nImportance: Normal \nGo for it! Thanks. \nSent from my iPhone \nOn Apr 8, 2019, at 1:34 PM, (USANYS) > wrote: \nI can do this. \nFrom: (USANYS) \n< \nSent: Monday, April 08, 2019 1:32 PM \nTo: >; (USANYS) \nSubject: Epstein - Forfeiture \nFollowing up on our Brass meeting just now, It's that time of year when we need to do forfeiture funding requests. \nThese are basically short write-ups of cases that may involve forfeiture and are also likely to incur significant \ninvestigative costs (e.g., traveling to Florida a dozen times, hiring a vendor retaining an expert). Could you guys do a \nsuper quick Epstein write up this afternoon and send it back to me (unfortunately need to get these done today —  sorry \nfor the short notice)? I've attached a blank form and a go-by (you'll see just how short these can be). \nAlso, notwithstanding what the form says, please do NOT email it down to DC —  please send it back to me. \nThanks, \nEFTA00030270",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Forfeiture \nDate",
+        "role": "extracted",
+        "context": "S)\" < \nSubject: Re: Epstein - Forfeiture \nDate: Mon, 08 Apr 2019 17:39:32 +0"
+      },
+      {
+        "name": "Normal \nGo",
+        "role": "extracted",
+        "context": "9 17:39:32 +0000 \nImportance: Normal \nGo for it! Thanks. \nSent from my"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "or it! Thanks. \nSent from my iPhone \nOn Apr 8, 2019, at 1:34 PM, (USA"
+      },
+      {
+        "name": "Forfeiture \nFollowing",
+        "role": "extracted",
+        "context": "(USANYS) \nSubject: Epstein - Forfeiture \nFollowing up on our Brass meeting just"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-08",
+        "event": "April 08, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.438Z"
+}

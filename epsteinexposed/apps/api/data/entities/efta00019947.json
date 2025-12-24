@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019947",
+    "filename": "EFTA00019947.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019947.pdf",
+    "text": "\n\nFrom: Jane Lytvynenko \n.-\nTo: \nundisclosed-recipients:: \nBee: '\nSubject: \nDate: Sat, 10 Aug 2019 13:25:37 +0000 \nHello, \nI'm a reporter with BuzzFeed News. We're seeing reports that Jeffrey Epstein has died. Could you please \nconfirm? \nThank \nyou, \nJane \nJane Lytvynenko I I Reporter I BuzzFeed News \nPGP \nI \nSignal, WhatsApp, Telegram, Cell \nSend anonymous tip: \nEFTA00019947",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ter with BuzzFeed News. We're seeing reports that Jeffrey Epstein has died. Could you please \nconfirm? \nThank \nyou,"
+      },
+      {
+        "name": "Jane Lytvynenko",
+        "role": "extracted",
+        "context": "From: Jane Lytvynenko \n.-\nTo: \nundisclosed-recipien"
+      },
+      {
+        "name": "Feed News",
+        "role": "extracted",
+        "context": "llo, \nI'm a reporter with BuzzFeed News. We're seeing reports that Je"
+      },
+      {
+        "name": "Jane \nJane",
+        "role": "extracted",
+        "context": "lease \nconfirm? \nThank \nyou, \nJane \nJane Lytvynenko I I Reporter I Buz"
+      },
+      {
+        "name": "Cell \nSend",
+        "role": "extracted",
+        "context": "Signal, WhatsApp, Telegram, Cell \nSend anonymous tip: \nEFTA00019947"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.915Z"
+}

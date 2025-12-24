@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00025188",
+    "filename": "EFTA00025188.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025188.pdf",
+    "text": "\n\nFrom: 'Illi\nTo: \"john@raymitevlawcom\" lohn@raymitevlaw.com> \nCc: alMIN- \"S\" \nSubject: RE: Epstein investigation \nDate: Fri, 27 Mar 2020 20:38:22 +0000 \nJohn, \nWanted to get back to you regarding your letter of March 9, 2020, which we received via the Eastern District U.S. \nAttorney's Office, and your follow-up call this week, both of which we appreciate. We did receive the letter, and in the \nfirst instance it would be helpful to know the name and contact info of the person who's the source of this information \n(assuming it is someone other than you) — we ordinarily pass this kind of information to the FBI for initial response, but it's \nnot clear from the letter whom they would be in touch with to follow up. It would also be helpful to know, if you're \naware, whether there is any allegation that the relevant interns were underage. \nthanks very much, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00025188",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Illi\nTo",
+        "role": "extracted",
+        "context": "From: 'Illi\nTo: \"john@raymitevlawcom\" lohn@r"
+      },
+      {
+        "name": "Eastern District",
+        "role": "extracted",
+        "context": "20, which we received via the Eastern District U.S. \nAttorney's Office, and"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "very much, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-09",
+        "event": "March 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.652Z"
+}

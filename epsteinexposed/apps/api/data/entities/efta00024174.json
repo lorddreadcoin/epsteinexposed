@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00024174",
+    "filename": "EFTA00024174.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024174.pdf",
+    "text": "\n\nFrom: \nTo: Nathan NYSD Chambers <M\nE> \nCc: \nJeff \n'BOBBI C STERNHEIM' \nSubject: US v. Maxwell, 20 CR 330 (AJN) - Government Opposition to Defense Motions in Limine \nDate: The, 26 Oct 2021 03:58:21 +0000 \nAttachments: Govt_Exhibit_B.pdf; Govt_Exhibit_A.pdf; \nGovt Omnibus_OppiFroposed_Redactions].pdf; Govt_Omnibus_Opp JUnredacted].pdf \nGood evening, \nAttached please find the Government's opposition to the defense's motions in limine in the above-captioned case. \nPursuant to the Court's order, the Government will file a redacted version on the public docket on Friday, October 29. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00024174",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Government Opposition",
+        "role": "extracted",
+        "context": "v. Maxwell, 20 CR 330 (AJN) - Government Opposition to Defense Motions in Limine"
+      },
+      {
+        "name": "Defense Motions",
+        "role": "extracted",
+        "context": "N) - Government Opposition to Defense Motions in Limine \nDate: The, 26 Oct"
+      },
+      {
+        "name": "Limine \nDate",
+        "role": "extracted",
+        "context": "osition to Defense Motions in Limine \nDate: The, 26 Oct 2021 03:58:21 +0"
+      },
+      {
+        "name": "Govt Omnibus",
+        "role": "extracted",
+        "context": "t_B.pdf; Govt_Exhibit_A.pdf; \nGovt Omnibus_OppiFroposed_Redactions].pdf;"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "29. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.468Z"
+}

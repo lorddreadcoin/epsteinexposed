@@ -1,0 +1,108 @@
+{
+  "document": {
+    "id": "efta00015134",
+    "filename": "EFTA00015134.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015134.pdf",
+    "text": "\n\nFrom: \n1 \n(USANYS)\" \nTo: 11 (USANYS)\" \nSubject: RE: E-TICKET RECEIPT - \nDate: Mon, 26 Aug 2019 11:07:29 +0000 \n-  Travel Date: 26AUG19 - Ref: XIIKCBU \nHi _—\nI only have airfare for 8 people and I am missing the ticketed one for \nAlso, please send me the hotel reservations. \nThanks. \nPlease send me the ones lam missing from this list. \n08/26/2019 0827/2019 West Palm FL to NYC - Epstein Case SAOIQH \n$ \n642.24 \n08/262019 08/2812019 Los Angela. CA to NYC - Epstein Case EZMJDU \nS \n664.23 \n08/26/2019 08/27/2019 Fon Lauderdale, FL to NYC - Epstein Case MKMIISL \nS \n568.23 \n08/26/2019 08/27/2019 Dayton, OH to NYC - Epstein Case EYILTM \nS \n346.22 \n08/26/2019 08/27/2019 Los Angeles, CA to NYC - Epstein Case HVDEOP \nS \n489.23 \n08/25/2019 08/28/2019 Washington, DC/Seanle - Epstein Case GVTGXZ \nS \n496.43 \n08/26/2019 08/27/2019 Las Vegas to NYC - Epstein Case XHICCBU \nS \n524.23 \n08/26/2019 08/28/2019 Barcelona. Spain to NYC - Epstein Case QWLVNR \nS \n1.429.02 \nFrom: USANYS-Fact Witness Travel \nSent: Sunda . August 25, 2019 4:59 PM \nTo: (USANYS) ; USANYS : (USANYS) ; (USANYS) \nSubject: Fwd: E-TICKET RECEIPT - - Travel Date: 26AUG19 - Ref: XHKCBU \nThis is number 13 \nTotal cost airfare approximately S8,000 \nIn airfare. \nSent from my iPhone \nBegin forwarded message: \nFrom: <1 \nDate: Au ust 25, 2019 at 3:56:16 PM EDT \nTo: ' \nSubject: E-TICKET RECEIPT - \n\" ' \n- Travel Date: 26AUG19 - Ref: XIIKCBU \n>, \n\"DO NOT DELETE** For voucher processing, please retain the attached Eticket Receipt I Invoice (zero dollar invoices are no longer available). \nThis is an automated email notification. Please do not respond to this email address. This mailbox is not monitored and emails sent to this box will not \nbe received or worked. \n\"Did you know we can also book your hotels and rental cars?\" \nThis e-mail and any attachments may contain confidential and/or proprietary infonttation. If you received this e-mail in error, please notify the sender \nimmediately by reply e-mail and delete the e-mail and any attachments; any further use of such e-mail or attachments is strictly prohibited. \nEFTA00015134",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Date",
+        "role": "extracted",
+        "context": "6 Aug 2019 11:07:29 +0000 \n-  Travel Date: 26AUG19 - Ref: XIIKCBU \nHi _"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "s list. \n08/26/2019 0827/2019 West Palm FL to NYC - Epstein Case SAOI"
+      },
+      {
+        "name": "Epstein Case",
+        "role": "extracted",
+        "context": "27/2019 West Palm FL to NYC - Epstein Case SAOIQH \n$ \n642.24 \n08/262019"
+      },
+      {
+        "name": "Los Angela",
+        "role": "extracted",
+        "context": "642.24 \n08/262019 08/2812019 Los Angela. CA to NYC - Epstein Case EZM"
+      },
+      {
+        "name": "Fon Lauderdale",
+        "role": "extracted",
+        "context": "664.23 \n08/26/2019 08/27/2019 Fon Lauderdale, FL to NYC - Epstein Case MKM"
+      },
+      {
+        "name": "Las Vegas",
+        "role": "extracted",
+        "context": "496.43 \n08/26/2019 08/27/2019 Las Vegas to NYC - Epstein Case XHICCBU"
+      },
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "NR \nS \n1.429.02 \nFrom: USANYS-Fact Witness Travel \nSent: Sunda . August"
+      },
+      {
+        "name": "Travel \nSent",
+        "role": "extracted",
+        "context": "02 \nFrom: USANYS-Fact Witness Travel \nSent: Sunda . August 25, 2019 4:59"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "0 \nIn airfare. \nSent from my iPhone \nBegin forwarded message: \nFrom: <1"
+      },
+      {
+        "name": "Eticket Receipt",
+        "role": "extracted",
+        "context": "g, please retain the attached Eticket Receipt I Invoice (zero dollar invoic"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Fon Lauderdale, FL",
+        "type": "city"
+      },
+      {
+        "name": "Dayton, OH",
+        "type": "city"
+      },
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      },
+      {
+        "name": "Washington, DC",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-26",
+        "event": "08/26/2019"
+      },
+      {
+        "date": "2019-08-27",
+        "event": "08/27/2019"
+      },
+      {
+        "date": "2019-08-25",
+        "event": "08/25/2019"
+      },
+      {
+        "date": "2019-08-28",
+        "event": "08/28/2019"
+      },
+      {
+        "date": "2019-08-25",
+        "event": "August 25, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.094Z"
+}

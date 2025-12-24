@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "efta00030335",
+    "filename": "EFTA00030335.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030335.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Request for Information Relating to Jeffrey Epstein \nDate: Thu, 30 Apr 2020 19:51:10 +0000 \nImportance: Normal \nAttachments: unnamed \n-- Do not delete or change any of the following text. --\nJoin Webex Meeting \nMeeting number (access code): 470 899 616 Meeting password: RxPNmCtV685 \nJoin from a video system or application \nDial 470899616@khlwebex.com \nYou can also dial 173.243.2.68 and enter your meeting number. \nJoin by phone \nTap to call in from a mobile device (attendees only) \n+1-415-655-0001  US Toll \nGlobal call-in numbers \nCan't \njoin the meeting? \nIf you are a host, go here to view host information. IMPORTANT NOTICE: Please note that this Vicbex service allows audio and other information \nsent during the session to be recorded, which may be discoverable in a legal matter. By joining this session, you automatically consent to such recordings. If you do not consent to \nbeing recorded. discuss your concerns with the host or do not join the session. \nThis email and its attachments may contain information that is confidential and/or protected fr om disclosure by the attorney-client, work product or other \napplicable legal privilege. If you are not the intended recipient of \nthe \nemail, \nplease be aware that any unauthorized review. use, disclosure. dissemination. \ndistribution. or copying of this communication, or any of its contents, \nis strictly prohibited. If you have received this communication in error, please notify \nthe sender immediately and destroy all copies of the message from your computer system. Thank you. \nEFTA00030335",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "To: \nSubject: Request for Information Relating to Jeffrey Epstein \nDate: Thu, 30 Apr 2020 19:51:10 +0000 \nImportanc"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Request for Inform"
+      },
+      {
+        "name": "Information Relating",
+        "role": "extracted",
+        "context": "om \nTo: \nSubject: Request for Information Relating to Jeffrey Epstein \nDate: Thu"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 19:51:10 +0000 \nImportance: Normal \nAttachments: unnamed \n-- Do not delete or"
+      },
+      {
+        "name": "Join Webex",
+        "role": "extracted",
+        "context": "any of the following text. --\nJoin Webex Meeting \nMeeting number (acce"
+      },
+      {
+        "name": "Meeting \nMeeting",
+        "role": "extracted",
+        "context": "following text. --\nJoin Webex Meeting \nMeeting number (access code): 470 899"
+      },
+      {
+        "name": "Toll \nGlobal",
+        "role": "extracted",
+        "context": "es only) \n+1-415-655-0001  US Toll \nGlobal call-in numbers \nCan't \njoin"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "415-655-0001",
+      "+1-415-655-0001"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.606Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032017",
+    "filename": "EFTA00032017.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032017.pdf",
+    "text": "\n\nFrom: \n(USANYS)\n. alMIW \nTo: 'lliiir>,<MI(USANYS)\" \n(USANYS)\" \nSubject: Epstein FOR \nLetters \nDate: Wed, 28 Apr 2021 22:46:20 +0000 \nAttachments: 0428215imes_v_BOP_20cv833_Govt_Letter \nto_be_Filed_Ex_Parte_and_Under_Seal.doc \nx; 042821_Times_v_BOP_20cv833_Govt_Extension_Request_to_be_Publicly_Filed.docx; \n042821_Times_v_BOP_20cv833_Govt_Sealing_Request_to_be_Publicly_Filed.docx \nHi all, \nPlease find attached extension letters (one ex parte and under seal, two public) in the Epstein FOIA. Please let me know if \nyou have any edits or concerns. It would be best to get these on file tonight if possible. \nThanks, \nAssistant United States Attorney \nWhite Plains, NY 10601 \nTelephone \nEFTA00032017",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letters \nDate",
+        "role": "extracted",
+        "context": "ANYS)\" \nSubject: Epstein FOR \nLetters \nDate: Wed, 28 Apr 2021 22:46:20 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "onight if possible. \nThanks, \nAssistant United States Attorney \nWhite Plains"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nWhite Plains, NY 10601 \nTele"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "stant United States Attorney \nWhite Plains, NY 10601 \nTelephone \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.433Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00023479",
+    "filename": "EFTA00023479.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023479.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' (USANYS) \n[Contractor]\n„\n < \nSubject: RE: Discovery - Witness Checks (from \nDate: Tue, 05 Oct 2021 15:49:41 +0000 \nThanks, M! These have all been added to their respective folders. \nFrom: \nSent: Tuesday, October 5, 2021 10:59 AM \nTo: \nSubject: RE: Discovery - Witness Checks (from \nThe Accurint checks for \nand Epstein you can put in the next production. Thanks! \nFrom: \nSent: Tuesday, October 5, 2021 10:55 AM \nTo: \nshould be added to their witness and 3500 folders. Maxwell \nSubject: Discovery - Witness Checks (from \nHi team — I just picked up a disc from containing Accurint witness checks on \nGhislaine Maxwell, Jeffrey Epstein, and Would you like this added to the next \npending production folder? Thanks! \nParalegal Specialist \nU.S. Attorney's Office \nSDNY \n1 St. Plaza \nNew York, NY 10007 \nEFTA00023479",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ng Accurint witness checks on \nGhislaine Maxwell, Jeffrey Epstein, and Would you like this added to the next \npendi"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "disc from containing Accurint witness checks on \nGhislaine Maxwell, Jeffrey Epstein, and Would you like this added t"
+      },
+      {
+        "name": "Witness Checks",
+        "role": "extracted",
+        "context": "< \nSubject: RE: Discovery - Witness Checks (from \nDate: Tue, 05 Oct 2021"
+      },
+      {
+        "name": "The Accurint",
+        "role": "extracted",
+        "context": "overy - Witness Checks (from \nThe Accurint checks for \nand Epstein you c"
+      },
+      {
+        "name": "Maxwell \nSubject",
+        "role": "extracted",
+        "context": "eir witness and 3500 folders. Maxwell \nSubject: Discovery - Witness Checks ("
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "g production folder? Thanks! \nParalegal Specialist \nU.S. Attorney's Office \nSDNY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ttorney's Office \nSDNY \n1 St. Plaza \nNew York, NY 10007 \nEFTA00023479"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-05",
+        "event": "October 5, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.027Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020621",
+    "filename": "EFTA00020621.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020621.pdf",
+    "text": "\n\nFrom: \nTo:' \nIt \n\" \nCc  l=ara=le \nSubject: Subpoena \nDate: Thu, 30 Sep 2021 20:55:59 +0000 \nImportance: Normal \nAttachments: 2021.09.30_Court_Subpoenas.pdf \ngave me your contact information — he and I spoke on the phone today about a subpoena to He \ntold me to serve the subpoena by email to you, so a copy of the subpoena is attached. \n=told me that you would likely send us records on an encrypted flash drive. If so, you can send it to me at the below \naddress. \nPlease feel free to give me a call if you have any questions, and thanks a lot for your assistance with this matter. \nAndrew \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00020621",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena \nDate",
+        "role": "extracted",
+        "context": "It \n\" \nCc  l=ara=le \nSubject: Subpoena \nDate: Thu, 30 Sep 2021 20:55:59 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 20:55:59 +0000 \nImportance: Normal \nAttachments: 2021.09.30_Court_Subpoenas.p"
+      },
+      {
+        "name": "Andrew \nAssistant",
+        "role": "extracted",
+        "context": "assistance with this matter. \nAndrew \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "drew \nAssistant United States Attorney \nSouthern District of New York \n1 Saint"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.240Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030747",
+    "filename": "EFTA00030747.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030747.pdf",
+    "text": "\n\nFronlin> \nTo\nl \nSubject: to fill in \nDate: Tue, 12 Nov 2019 22:23:46 +0000 \nAssistant United States Attorney \nSouthern District of New York \nTe \nEFTA00030747",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": ", 12 Nov 2019 22:23:46 +0000 \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "23:46 +0000 \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTe \nEFTA00030747"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.568Z"
+}

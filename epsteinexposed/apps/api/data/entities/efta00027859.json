@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027859",
+    "filename": "EFTA00027859.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027859.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\"  \n(USANYS)\"  \n[=. \nSubject: Fwd: Reuters: Prison Guards Skipped Mandatory Checks Before Epstein Death \nDate: Sun, 11 Aug 2019 02:32:09 +0000 \nBegin forwarded message: \nFrom: ' \nDate: Au ust 10, 2019 at 10:30:56 PM EDT \nTo: \" \n(USANYS)\" \n(USANYS)\" \nSubject: Reuters: Prison Guards Skipped Mandatory Checks Before Epstein Death \n(USANYS)\"  \n(USANYS)\" \nMalaiaNY,S)\" \nhttps://www.breitbart.com/politics/2019/08/10/report-pt-guards-skipped-mandatory-checks-before-jeffrey-\nepsteins-death/ \nEFTA00027859",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prison Guards",
+        "role": "extracted",
+        "context": "[=. \nSubject: Fwd: Reuters: Prison Guards Skipped Mandatory Checks Befo"
+      },
+      {
+        "name": "Skipped Mandatory",
+        "role": "extracted",
+        "context": ": Fwd: Reuters: Prison Guards Skipped Mandatory Checks Before Epstein Death"
+      },
+      {
+        "name": "Checks Before",
+        "role": "extracted",
+        "context": "ison Guards Skipped Mandatory Checks Before Epstein Death \nDate: Sun, 11"
+      },
+      {
+        "name": "Epstein Death",
+        "role": "extracted",
+        "context": "ipped Mandatory Checks Before Epstein Death \nDate: Sun, 11 Aug 2019 02:32"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.145Z"
+}

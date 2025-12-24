@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00017839",
+    "filename": "EFTA00017839.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017839.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Accepted: SDNY-ODAG Call (Epstein/Maxwell) \nDate: Tue, 18 Aug 2020 16:59:09 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00017839",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Accepted: SDNY-ODA"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 16:59:09 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00017839"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.713Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00023538",
+    "filename": "EFTA00023538.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023538.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' NY \"  \"a>\nSubject: Epstein - Subpoena Tracker \nDate: The, 02 Jun 2020 12:12:54 +0000 \nAttachments: Epstein_Subpoena_Tracker V6.1.20.xlsx \nAs a follow up to our conversation, I have attached a copy of my subpoena tracker. The tracker only includes \nsubpoenas that were served by the FBI. M an example, the Epstein Deutsche Bank production is not included \nin this list. \nIf you are missing any productions, please have contact me and I will provide it to him. \nYou mentioned that is it is possible to set up a Dal virtual drive that we can share. That sounds great. \nBest \nForensic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA00023538",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena Tracker",
+        "role": "extracted",
+        "context": "NY \"  \"a>\nSubject: Epstein - Subpoena Tracker \nDate: The, 02 Jun 2020 12:12"
+      },
+      {
+        "name": "Epstein Deutsche",
+        "role": "extracted",
+        "context": "by the FBI. M an example, the Epstein Deutsche Bank production is not includ"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "an share. That sounds great. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "FBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.129Z"
+}

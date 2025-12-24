@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019602",
+    "filename": "EFTA00019602.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019602.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: Review \nDate: Tue, 30 Mar 2021 15:11:33 +0000 \nAttachments: USVP00222482 native.pdf \nSaw the attached email, which I'm adding to this chain. Thanks. \nFrom: \nSent: Friday, March 26, 2021 12:29 PM \nTo: \nSubject: Review \n> \nHi —  I came across this email and attachment while doing the review. I tagged it for further review, but wanted to \ncirculate. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00019602",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Review \nDate: T"
+      },
+      {
+        "name": "Review \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Review \nDate: Tue, 30 Mar 2021 15:11:33 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nted to \ncirculate. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-26",
+        "event": "March 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.247Z"
+}

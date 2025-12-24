@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00022346",
+    "filename": "EFTA00022346.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022346.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nCc:\" \nSubject: FW: Birth Certificate \nDate: Tue, 03 Aug 2021 21:47:22 +0000 \nAttachments: ertificate_l.pdf; \nBirth_Certificate_Identified_and_obtained.pdf \nThis \nis what had asked • to save and put in the next production. \nFrom: \nSent: Wednesday, July 28, 2021 6:06 PM \nTo: \nCc: lan \nSubject: FW:IMI Birth Certificate \nHi \nCould you please save these in the subpoena returns folder and also in a folder for the next discovery production? Thanks. \nFrom: \nSent: Wednesday, July 28, 2021 6:02 PM \nTo:\nCc: \nSubject: IM Birth Certificate \nSee attached. \nSpecial \nAgent \nFBI New \nYork Field Office \nChild Exploitation/Human Trafficking \nDesk: \nEFTA00022346",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Birth Certificate",
+        "role": "extracted",
+        "context": ": ' \nTo:\" \nCc:\" \nSubject: FW: Birth Certificate \nDate: Tue, 03 Aug 2021 21:47"
+      },
+      {
+        "name": "Hi \nCould",
+        "role": "extracted",
+        "context": "ct: FW:IMI Birth Certificate \nHi \nCould you please save these in the"
+      },
+      {
+        "name": "Special \nAgent",
+        "role": "extracted",
+        "context": "h Certificate \nSee attached. \nSpecial \nAgent \nFBI New \nYork Field Office"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ttached. \nSpecial \nAgent \nFBI New \nYork Field Office \nChild Exploitat"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special \nAgent \nFBI New \nYork Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "FBI New \nYork Field Office \nChild Exploitation/Human Trafficking \nDesk: \nEFT"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk: \nEFTA00022346"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-28",
+        "event": "July 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.664Z"
+}

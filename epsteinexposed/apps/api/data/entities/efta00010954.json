@@ -1,0 +1,46 @@
+{
+  "document": {
+    "id": "efta00010954",
+    "filename": "EFTA00010954.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010954.pdf",
+    "text": "\n\nFrom• \nTo• \nSubject: RE: Conference call line \nDate: Tue, 22 Oct 2019 19:38:16 +0000 \n10-4 \nFrom: \nSent: Tuesda October 22, 2019 3:37 PM \nTo: \nCc \nSubject: Re: Conference call line \nApologies for the late notice, but this call just got cancelled, so we will no longer need this line. \nThanks, \nOn Oct 22, 2019, at 11:16 AM, \nThanks very much. \nOn Oct 22, 2019, at 10:38 AM, \n877-973-4755 \nYou use passcode \nEveryone else uses \nFrom: \nSent: Tuesda October 22 2019 10:29 AM \nTo: \nCc: \nSubject: Con erence ca ine \nHi, \n(wrote: \nrote: \nWould it be possible to get a conference call line set up for this afternoon around 4pm, please? We will be speaking \nwith an Epstein victim and her attorneys, who are all in different places. \nThanks, \nEFTA00010954",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tuesda October",
+        "role": "extracted",
+        "context": ":16 +0000 \n10-4 \nFrom: \nSent: Tuesda October 22, 2019 3:37 PM \nTo: \nCc \nSu"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "ctober 22, 2019 3:37 PM \nTo: \nCc \nSubject: Re: Conference call line \nAp"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "ger need this line. \nThanks, \nOn Oct 22, 2019, at 11:16 AM, \nThank"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-22",
+        "event": "October 22, 2019"
+      },
+      {
+        "date": "2019-10-22",
+        "event": "October 22 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "877-973-4755"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:42.844Z"
+}

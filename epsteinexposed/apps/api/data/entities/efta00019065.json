@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019065",
+    "filename": "EFTA00019065.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019065.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: I II II II \nCc: \n(USANYS)\"  \nSubject: JPMorgan Kept Jeffrey Epstein as a Client Despite Internal Warnings \nDate: Thu, 08 Aug 2019 14:53:15 +0000 \nHave we gotten anything yet from JPMC? Any indication of why they ended their relationship with him in 2013? \nAs I'm sure you've seen, NYT has a piece up on the relationship which suggests executives at JPMC overruled compliance \nefforts to kick him out back in 2008-09 but the article doesn't suggest any financial misconduct or even red flags in his \nJPMC accounts, just the fact of his prior conviction. \nhttps://www.nytimes.com/2019/08/08/businessneffrey-epstein-jpmorgan.html? \naction=click&module.Top%20Stories&pgtype.Homepage \nEFTA00019065",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "II II II \nCc: \n(USANYS)\"  \nSubject: JPMorgan Kept Jeffrey Epstein as a Client Despite Internal Warnings \nDate: Thu,"
+      },
+      {
+        "name": "Morgan Kept",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\"  \nSubject: JPMorgan Kept Jeffrey Epstein as a Client D"
+      },
+      {
+        "name": "Client Despite",
+        "role": "extracted",
+        "context": "gan Kept Jeffrey Epstein as a Client Despite Internal Warnings \nDate: Thu,"
+      },
+      {
+        "name": "Internal Warnings",
+        "role": "extracted",
+        "context": "y Epstein as a Client Despite Internal Warnings \nDate: Thu, 08 Aug 2019 14:53"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.219Z"
+}

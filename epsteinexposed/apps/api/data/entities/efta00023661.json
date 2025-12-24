@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00023661",
+    "filename": "EFTA00023661.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023661.pdf",
+    "text": "\n\nFrom: Nicole \nSimmons \nTo: \nrr \nCc: Laura Mennin \nAnn Lundberg \n<CEverdell@CohenGresser.com>, \nJeff Pa liuca \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Thu, 03 Sep 2020 21:56:32 +0000 \nAttachments: 2020.09.03_Notice_of Appeal-Denial_of Motion_to_Modify_PO.pdf \nInline-Images: image00 1 jpg \nDear Counsel: \nAt the request of Laura A. Menninger, please see attached Ms. Maxwell's Notice of Appeal that has been sent via \nOvernight Delivery to the SDNY-Clerk for filing. \nThank you, \nNicole \nNicole Simmons \nHaddon, Morgan \nand \nEFTA00023661",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "r.com>, \nJeff Pa liuca \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Thu, 03 Sep 2020 21:56:3"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "enninger, please see attached Ms. Maxwell's Notice of Appeal that h"
+      },
+      {
+        "name": "Nicole \nSimmons",
+        "role": "extracted",
+        "context": "From: Nicole \nSimmons \nTo: \nrr \nCc: Laura Mennin \nA"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "Nicole \nSimmons \nTo: \nrr \nCc: Laura Mennin \nAnn Lundberg \n<CEverdell@Coh"
+      },
+      {
+        "name": "Ann Lundberg",
+        "role": "extracted",
+        "context": "s \nTo: \nrr \nCc: Laura Mennin \nAnn Lundberg \n<CEverdell@CohenGresser.com>"
+      },
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": "CEverdell@CohenGresser.com>, \nJeff Pa liuca \nSubject: United States"
+      },
+      {
+        "name": "Dear Counsel",
+        "role": "extracted",
+        "context": "Inline-Images: image00 1 jpg \nDear Counsel: \nAt the request of Laura A."
+      },
+      {
+        "name": "Overnight Delivery",
+        "role": "extracted",
+        "context": "ppeal that has been sent via \nOvernight Delivery to the SDNY-Clerk for filing."
+      },
+      {
+        "name": "Nicole \nNicole",
+        "role": "extracted",
+        "context": "lerk for filing. \nThank you, \nNicole \nNicole Simmons \nHaddon, Morgan \nand"
+      },
+      {
+        "name": "Simmons \nHaddon",
+        "role": "extracted",
+        "context": ". \nThank you, \nNicole \nNicole Simmons \nHaddon, Morgan \nand \nEFTA00023661"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.356Z"
+}

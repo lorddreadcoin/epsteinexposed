@@ -1,0 +1,87 @@
+{
+  "document": {
+    "id": "efta00013531",
+    "filename": "EFTA00013531.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013531.pdf",
+    "text": "\n\nFrom: \"Williams, Joyce\" <I \nTo: (USAFLS)\"  \nSubject: Epstein \nDate: Thu, 29 Nov 2007 18:12:06 +0000 \nImportance: High \nPriority: Urgent \nPlease call Judge Davis as soon as you can - . Thank you. \nJoyce L. Williams \nLegal Administrative Assistant to \nHon. Edward B. Davis, Mia R. Martin, Esq. \n& Stacy J. Harrison, Esq. \nAkerman Senterfitt \nOne Southeast Third Avenue, 25th Floor \nMiami, Florida  33131-1714 \nmain: \ndirect dial: \nfacsimile: (305) 374-5095 \nwx.w.aketman.com \nCONFIDENTIALITY NOTE: The information contained in tit trammusion may be privileged and confidential information. and ix intended only for the use of the individual or emily named above. If \nthe reader of dui meuage is not the intended recipient. you ax hereby notified that any dusemination. distribution or copying of this communication is strictly prohibited. If you have \nreceived \nthis \ntrammission in error. please inunediately reply to the sender that you have received this communication in error and then delete it. Thank you. \nCIRCULAR 230 NOTICE: To comply with U.S. Treautry Department and IRS regulation.. we are required to advise you that. mien expressly mated othenvue. any U.S. federal tax advice contained \nin this transmittal. is not intended or written to be used, and cannot be med. by any person for the purpose of (0 awiding penalties under the U.S. Internal Revenue Code. or (ii) promoting, marketing or \nrecommending to another parly any transaction or matter addressed in this email or attachment. \nEFTA00013531",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "<I \nTo: (USAFLS)\"  \nSubject: Epstein \nDate: Thu, 29 Nov 2007 18:12:06 +0"
+      },
+      {
+        "name": "High \nPriority",
+        "role": "extracted",
+        "context": "7 18:12:06 +0000 \nImportance: High \nPriority: Urgent \nPlease call Judge Da"
+      },
+      {
+        "name": "Urgent \nPlease",
+        "role": "extracted",
+        "context": "Importance: High \nPriority: Urgent \nPlease call Judge Davis as soon as y"
+      },
+      {
+        "name": "Judge Davis",
+        "role": "extracted",
+        "context": "Priority: Urgent \nPlease call Judge Davis as soon as you can - . Thank"
+      },
+      {
+        "name": "Williams \nLegal",
+        "role": "extracted",
+        "context": "can - . Thank you. \nJoyce L. Williams \nLegal Administrative Assistant to"
+      },
+      {
+        "name": "Administrative Assistant",
+        "role": "extracted",
+        "context": "ou. \nJoyce L. Williams \nLegal Administrative Assistant to \nHon. Edward B. Davis, Mia"
+      },
+      {
+        "name": "Akerman Senterfitt",
+        "role": "extracted",
+        "context": ". \n& Stacy J. Harrison, Esq. \nAkerman Senterfitt \nOne Southeast Third Avenue,"
+      },
+      {
+        "name": "One Southeast",
+        "role": "extracted",
+        "context": "on, Esq. \nAkerman Senterfitt \nOne Southeast Third Avenue, 25th Floor \nMia"
+      },
+      {
+        "name": "Third Avenue",
+        "role": "extracted",
+        "context": "man Senterfitt \nOne Southeast Third Avenue, 25th Floor \nMiami, Florida"
+      },
+      {
+        "name": "Floor \nMiami",
+        "role": "extracted",
+        "context": "Southeast Third Avenue, 25th Floor \nMiami, Florida  33131-1714 \nmain:"
+      },
+      {
+        "name": "Treautry Department",
+        "role": "extracted",
+        "context": "0 NOTICE: To comply with U.S. Treautry Department and IRS regulation.. we are r"
+      },
+      {
+        "name": "Internal Revenue",
+        "role": "extracted",
+        "context": "ding penalties under the U.S. Internal Revenue Code. or (ii) promoting, mark"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "(305) 374-5095"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.793Z"
+}

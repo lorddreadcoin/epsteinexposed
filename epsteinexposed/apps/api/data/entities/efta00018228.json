@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00018228",
+    "filename": "EFTA00018228.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018228.pdf",
+    "text": "\n\nFrom: ' \nTo: \nSubject: To read on train 2 \nDate: Fri, 17 Sep 2021 15:19:08 +0000 \nAttachments: 201 •-12-17 interview_302.pdf; 2020-02-\n27 Interview_302.pdf; 2020-04-\n03 interview notes _(no (no 302).pdf; 2019-09- _ _ \n19 Interview_302.pdf; 2019-11-14 interview_302.pdf \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA00018228",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "2019-11-14 interview_302.pdf \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "iew_302.pdf \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York. New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-14",
+        "event": "2019-11-14"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.454Z"
+}

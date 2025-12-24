@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00020524",
+    "filename": "EFTA00020524.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020524.pdf",
+    "text": "\n\nOFFICIAL \nRECORD \n[make IRev. S 23-Ill \nUNCLASSIFIED \nTI \nFEDERAL BUREAU OF INVESTIGATION \nIntake \nDate: 12/06/2020 \nCase ID #: SOD-NY-302757i (U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 12/06/2020 09:55 AM EST \nDetails: \nOn 12/06/2020, at 9:32 a.m. Eastern. Time, date of \nbirth , Cellular telephone number called the FBI \nNational Threat Operations Center (NTOC) to report an active Facebook \npage for Jeffrey Epstein with inappropriate commants and possible \npictures. \nprovided the following information: \nwas calling to report she was on. Facebook after reading an \narticle on. Epstein. looked up his name on. Facebook, and found an \nactive page. There are other people responding to post that he posted. \nShe does not know if there are recent posts. It is pictures of him with \ngirls that people are following and commenting on. It looks to be young \ngirls. She believes pedophiles probably all go there and like his posts \nso they know who other pedophiles are. did not have a URL when \nTIE asked. On Facebook she just searched Epstein. His profile is just a \npicture of him, might be a picture of him with a  young girl. She isn't \nsure. \nNOTE: TIE was unable to find specific Facebook account. There are \nUNCLASSIFIED \nEFTA00020524\n\nUNCLASSIFIED \nRe: 50D-NY-3027571, 12/06/2020 \nmultiple accounts under the name Jeffrey Epstein with a \npicture of him as \nthe \nprofile picture. \n♦♦ \nUNCLASSIFIED \n2 \nEFTA00020525",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ter (NTOC) to report an active Facebook \npage for Jeffrey Epstein with inappropriate commants and possible \npicture"
+      },
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nIntake \nDate: 12/06/2020 \nCase ID #: SOD-N"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "FREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 12/06/2"
+      },
+      {
+        "name": "Time Received",
+        "role": "extracted",
+        "context": "RAFFICKING \nDrafted By: \nDate/Time Received: 12/06/2020 09:55 AM EST \nDet"
+      },
+      {
+        "name": "National Threat",
+        "role": "extracted",
+        "context": "ephone number called the FBI \nNational Threat Operations Center (NTOC) to r"
+      },
+      {
+        "name": "Operations Center",
+        "role": "extracted",
+        "context": "lled the FBI \nNational Threat Operations Center (NTOC) to report an active Fa"
+      },
+      {
+        "name": "On Facebook",
+        "role": "extracted",
+        "context": "t have a URL when \nTIE asked. On Facebook she just searched Epstein. Hi"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-06",
+        "event": "12/06/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.006Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00026624",
+    "filename": "EFTA00026624.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026624.pdf",
+    "text": "\n\nFrom: \nTo: \nI \nCc: '1 \nSubject: RE \n< \n) - Epstein \nDate: Sun, 07 Jul 2019 20:04:30 +0000 \nImportance: Normal \n• \nThank you for reaching out, and we would be happy to schedule a time to speak with you. I expect our schedules may be \nsomewhat unpredictable tomorrow; would it work to set a time to talk on Tuesday? We can schedule it for before you \nmeet with Ms.=, if that's helpful. Or if you'd like to talk sooner, we could schedule a time later today, or check in \ntomorrow about a possible afternoon discussion. Please let us know what you prefer, and we look forward to being in \ntouch. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nFrom \nSent: Saturday, July 06, 2019 22:55 \nTo: \nSubject: - Epstein \nBegin forwarded message: \nFrom: \nDate: Jul 6  2019 at 10:51:09 PM EDT \nTo: \nCc: \nSubject: - Epstein \nMr. \nMy fner, re resented (now known as n, to his passing in 2018. \nAgent served Ms. with a grand jury subpoena earlier today, and aeformer partner and \nFL Bar appointed inventory attorney, she has contacted me. Unfortunately, I  am unable to meet with her until \nTuesday, but I  would appreciate a few minutes of your time at your convenience as I  am getting up to speed. \nPlease let me know what day/time is best for you. \nLook forward to speaking with you. \nBest, \nEFTA00026624\n\nROSS AMSEL RABEN NASCIMENTO, PLLC \nLawyer's Plaza I  4th Floor \nMiami \nFlorida 33129 \nt. \nf. \ne. \nwww.crimlawfirm.com \nEFTA00026625",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "My",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: - Epstein \nMr. \nMy fner, re resented (now k"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: '1 \nSubject: RE \n< \n) - Epstein \nDate: Sun, 07 Jul 2019 20:04:30 +0"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nFrom \nS"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "outhern District of New York \nFrom \nSent: Saturday, July 06, 2019 22:5"
+      },
+      {
+        "name": "Epstein \nBegin",
+        "role": "extracted",
+        "context": ", 2019 22:55 \nTo: \nSubject: - Epstein \nBegin forwarded message: \nFrom: \nDa"
+      },
+      {
+        "name": "Epstein \nMr",
+        "role": "extracted",
+        "context": "PM EDT \nTo: \nCc: \nSubject: - Epstein \nMr. \nMy fner, re resented (now k"
+      },
+      {
+        "name": "Floor \nMiami",
+        "role": "extracted",
+        "context": ", PLLC \nLawyer's Plaza I  4th Floor \nMiami \nFlorida 33129 \nt. \nf. \ne. \nw"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "July 06, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.696Z"
+}

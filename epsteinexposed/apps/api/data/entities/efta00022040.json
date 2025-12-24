@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00022040",
+    "filename": "EFTA00022040.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022040.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: litigation re: victim names \nDate: Wed, 14 Oct 2020 02:27:49 +0000 \nAttachments: 2020-08-\n13,_GM,Jetterto_ Judge_ Nathan re victim_names_ and_prison_privileges,_docketed.pdf; \n2020.08.25 AJN Order_denying_defense_motion for victim identities.pdf \nYes, attached is our briefing and Judge Nathan's order ruling in our favor. \nFrom \nSent: Tuesday, October 13, 2020 11:57 AM \nTo: \nCc \nSubject: litigation re: victim names \nHa. \nThe VOC chiefs mentioned that you litigated before Judge Nathan whether you had to disclose the names of the \nvictims/witnesses identified in your indictment by number. Can you send us your briefing on that and any written order \nby Nathan/transcript of her ruling? \nThanks so much! \nAssistant United States Attorney \nSouthern District of New York \nTel \nEFTA00022040",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "attached is our briefing and Judge Nathan's order ruling in our favor."
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "s order ruling in our favor. \nFrom \nSent: Tuesday, October 13, 2020 11"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "tober 13, 2020 11:57 AM \nTo: \nCc \nSubject: litigation re: victim names"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "her ruling? \nThanks so much! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ks so much! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel \nEFTA0002204"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-13",
+        "event": "October 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.901Z"
+}

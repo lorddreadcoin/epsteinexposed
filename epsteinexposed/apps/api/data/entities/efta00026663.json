@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00026663",
+    "filename": "EFTA00026663.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026663.pdf",
+    "text": "\n\nSubject: Re: 9 E 71st Street New York NY DEED \nDate: Thu, 27 Jun 2019 17:58:53 +0000 \nThanks for this info. I've cc'd my partner, along with the AUSAs that we are working with so they have it as \nwell. \nThanks again, \nOn \nInn\nh,fl191:44 P \nHi \nThis is from ACRIS. It's the Last Deed of Record, dated 12/23/2011. \nNotice that the Grantor and Grantee lines are both signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located in St Thomas, VI. \nNo \nmortgages from Maple Inc are indicated in the online records. \nSquao- \nSenior \nFinancial Investi ator (SFI) \nEFTA00026663",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "the Grantor and Grantee lines are both signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located in St"
+      },
+      {
+        "name": "Street New",
+        "role": "extracted",
+        "context": "Subject: Re: 9 E 71st Street New York NY DEED \nDate: Thu, 27 J"
+      },
+      {
+        "name": "On \nInn",
+        "role": "extracted",
+        "context": "it as \nwell. \nThanks again, \nOn \nInn\nh,fl191:44 P \nHi \nThis is fro"
+      },
+      {
+        "name": "Hi \nThis",
+        "role": "extracted",
+        "context": "again, \nOn \nInn\nh,fl191:44 P \nHi \nThis is from ACRIS. It's the Last"
+      },
+      {
+        "name": "Last Deed",
+        "role": "extracted",
+        "context": "This is from ACRIS. It's the Last Deed of Record, dated 12/23/2011."
+      },
+      {
+        "name": "The Grantee",
+        "role": "extracted",
+        "context": "h signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located"
+      },
+      {
+        "name": "Maple Inc",
+        "role": "extracted",
+        "context": "frey Epstein. \nThe Grantee is Maple Inc which is located in St Thomas"
+      },
+      {
+        "name": "St Thomas",
+        "role": "extracted",
+        "context": "Maple Inc which is located in St Thomas, VI. \nNo \nmortgages from Mapl"
+      },
+      {
+        "name": "Senior \nFinancial",
+        "role": "extracted",
+        "context": "the online records. \nSquao- \nSenior \nFinancial Investi ator (SFI) \nEFTA00026"
+      }
+    ],
+    "locations": [
+      {
+        "name": "St Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2011-12-23",
+        "event": "12/23/2011"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.772Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00018708",
+    "filename": "EFTA00018708.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018708.pdf",
+    "text": "\n\nFrom: ' \n< \nTo: \nIMSYS)\" \nCc:' \" < \nSubject: FW: U.S. v. Maxwell 20 Cr. \n330 (AJN) \nDate: Tue, 23 Feb 2021 19:54:24 +0000 \nAttachments: MAXWELL_BAIL_APPLICATION_with_EXHIBIT_2-23-17.pdf \n> \n(USANYS)\" \n(USANYS)\" \nFYI \nFrom: BOBBI C STERNHEIM \nSent: Tuesday, February 23, 2021 2:44 PM \nTo: \n) 4:\n›\n) \n<fl>; \n(USANYS) ‹> \nCc: Christian Everdell ; Laura \nMenninger < >; Jeff \nPagliuca \n4 \nSubject: U.S. v. Maxwell 20 Cr. 330 (MN) \nGood \nafternoon-\nAttached is a courtesy copy of today's ECF filing. \nBobbi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then \ndelete this message. Thank you. \nEFTA00018708",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "›\n) \n<fl>; \n(USANYS) ‹> \nCc: Christian Everdell ; Laura \nMenninger < >; Jeff"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "‹> \nCc: Christian Everdell ; Laura \nMenninger < >; Jeff \nPagliuca \n4 \nSubje"
+      },
+      {
+        "name": "Jeff \nPagliuca",
+        "role": "extracted",
+        "context": "rdell ; Laura \nMenninger < >; Jeff \nPagliuca \n4 \nSubject: U.S. v. Maxwell"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "bi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis m"
+      },
+      {
+        "name": "Sternheim \nThis",
+        "role": "extracted",
+        "context": "ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis message and any attached docu"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-02-23",
+        "event": "February 23, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.524Z"
+}

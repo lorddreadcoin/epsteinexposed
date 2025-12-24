@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00030872",
+    "filename": "EFTA00030872.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030872.pdf",
+    "text": "\n\nFrom: \nTo: \n0 \n<a \nCc: \n'r, ' \nSubject: RE: Request re Ghisliane Maxwell \nDate: Fri, 08 Jan 2021 17:00:20 +0000 \n(USANYS)\" \nThanks very much and sorry I  missed your response. \n Oriainal Messaae \nFrom: \nSent: \nFridav \nTo: \nCc: \nSubject: RE: Request re Ghisliane Maxwell \n(USANYS) `t\nIMIN> \nI responded earlier today. No, unfortunately not. It would have to come from your office. \n>» \nAM >» \nGood \nmorning, \n\" \n1/8/2021 11:58 \nFollowing up on this email, would it be acceptable for someone from the defense to deliver this new drive from \nour office to the MDC today, please? \n\"kou, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nmailto:\nFrom: \nSent: Thursda , Janua 7, 2021 4:35 PM \nTo: \nCc: alMIE>; (USANYS) `tIMIN> \nSubject: Request re Ghisliane Maxwell \nGood \nafternoon, \nEFTA00030872\n\nAt the request of \ndefense counsel, our office is preparing a new drive with a copy of discovery material that was \npreviously produced to Ghislaine Maxwell on a CD, but which she has been unable to view. The drive will be \nready tomorrow. Today, defense counsel asked that Maxwell be able to review those materials over this coming \nweekend, but no one from our office is available to hand deliver the drive tomorrow, and we understand that \nMaxwell would not receive a FedEx package sent out tomorrow until next week. Defense counsel has offered to \npick the drive up from our office and hand deliver it to the MDC themselves tomorrow. \nWould that be permissible? \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00030873",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "scovery material that was \npreviously produced to Ghislaine Maxwell on a CD, but which she has been unable to view. T"
+      },
+      {
+        "name": "Ghisliane Maxwell",
+        "role": "extracted",
+        "context": "r, ' \nSubject: RE: Request re Ghisliane Maxwell \nDate: Fri, 08 Jan 2021 17:00"
+      },
+      {
+        "name": "Oriainal Messaae",
+        "role": "extracted",
+        "context": "ry I  missed your response. \n Oriainal Messaae \nFrom: \nSent: \nFridav \nTo: \nC"
+      },
+      {
+        "name": "Fridav \nTo",
+        "role": "extracted",
+        "context": "iainal Messaae \nFrom: \nSent: \nFridav \nTo: \nCc: \nSubject: RE: Request r"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "he MDC today, please? \n\"kou, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ase? \n\"kou, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-01-08",
+        "event": "1/8/2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.910Z"
+}

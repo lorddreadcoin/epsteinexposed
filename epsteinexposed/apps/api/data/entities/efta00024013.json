@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024013",
+    "filename": "EFTA00024013.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024013.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nEpstein FOIA \nMoot \nDate: \nFri, 26 Mar 2021 \n19:15:20 +0000 \nImportance: \nNormal \nAttachments: \nunnamed \nEFTA00024013",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Moot \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: \nEpstein FOIA \nMoot \nDate: \nFri, 26 Mar 2021 \n19:15:20"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "19:15:20 +0000 \nImportance: \nNormal \nAttachments: \nunnamed \nEFTA00024013"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.091Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00014177",
+    "filename": "EFTA00014177.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014177.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Jeffrey Epstein -- Letter from Roy Black \nDate: Wed, 09 Dec 2009 22:13:08 +0000 \nImportance: \nNormal \nAttachments: Rothstein.pdf \nHi all —  I have attached a letter I just received from Roy Black. The odd thing about this is that it is addressed \ndirectly to me. Roy (and Epstein's team) always sends everything to Jeff or someone far more important than me. \nI haven't seen the Complaint against the Rothstein firm yet, but I did have a voicemail from Brad Edwards this \nmorning, which I  haven't responded to. \nCan someone fill me in on any developments? When I  receive the criminal complaint I will send the copies out \ntomorrow. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm \nReach \n3401 \nFrom: Roy BLACK \nSent: Wednesday, December 09, 2009 5:01 PM \nTo: \n(USAFLS) \nSubject: Jeffrey Epstein \nPlease see attached letter regarding Jeffrey \nEpstein. The original, with the \nattachment, should arrive via Federal Express \ntomorrow. \nEFTA00014177",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Jeffrey Epstein -- Letter from Roy Black \nDate: Wed, 09 Dec 2009"
+      },
+      {
+        "name": "Roy Black",
+        "role": "extracted",
+        "context": "effrey Epstein -- Letter from Roy Black \nDate: Wed, 09 Dec 2009 22:13"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "22:13:08 +0000 \nImportance: \nNormal \nAttachments: Rothstein.pdf \nHi all —  I h"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "t I did have a voicemail from Brad Edwards this \nmorning, which I  haven"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm \nReach"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm \nReach \n3401 \nFrom: Roy BLACK"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "see attached letter regarding Jeffrey \nEpstein. The original, with the \natta"
+      },
+      {
+        "name": "Federal Express",
+        "role": "extracted",
+        "context": "attachment, should arrive via Federal Express \ntomorrow. \nEFTA00014177"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2009-12-09",
+        "event": "December 09, 2009"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.326Z"
+}

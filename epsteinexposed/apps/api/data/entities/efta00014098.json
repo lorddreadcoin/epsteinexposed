@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00014098",
+    "filename": "EFTA00014098.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014098.pdf",
+    "text": "\n\nFrom: Ted Leopold -4 \nTo: '  \n(USAFLS)\" \nCc: \nSpencer Kuvin czi \nSubject: RE: Epstein Investigation \nDate: Wed, 02 Jul 2008 21:21:27 +0000 \nImportance: Normal \nI will get you the names \ntomorrow. Thanks \nSpencer. please see me. \n Original Message-----\nFrom:   (USAFLS) [mailto: \nSent: Monday, June 30, 2008 5:00 PM \nTo: Ted Leopold \nSubject: Epstein Investigation \nDear Ted: Here is my e-mail address and contact information. \nThank you for your assistance. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014098",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ted Leopold",
+        "role": "extracted",
+        "context": "From: Ted Leopold -4 \nTo: '  \n(USAFLS)\" \nCc: \nS"
+      },
+      {
+        "name": "Spencer Kuvin",
+        "role": "extracted",
+        "context": "d -4 \nTo: '  \n(USAFLS)\" \nCc: \nSpencer Kuvin czi \nSubject: RE: Epstein Inv"
+      },
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "encer Kuvin czi \nSubject: RE: Epstein Investigation \nDate: Wed, 02 Jul 2008 21:21"
+      },
+      {
+        "name": "Thanks \nSpencer",
+        "role": "extracted",
+        "context": "get you the names \ntomorrow. Thanks \nSpencer. please see me. \n Original Me"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ks \nSpencer. please see me. \n Original Message-----\nFrom:   (USAFLS) [mailto"
+      },
+      {
+        "name": "Dear Ted",
+        "role": "extracted",
+        "context": "bject: Epstein Investigation \nDear Ted: Here is my e-mail address an"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "r assistance. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014098"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.114Z"
+}

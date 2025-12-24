@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018018",
+    "filename": "EFTA00018018.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018018.pdf",
+    "text": "\n\nFrom: le \nTo: USANYS \" SANYS) \n(USANYS)\" \nBee: \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Motion to \nSuppress \nDate: Fri, 05 Feb 2021 00:13:06 +0000 \nEmbedded: FW:_Activity_in_Case_1:20-cr-00330-AJN_USA_v._Maxwell_Motion_to_Suppress.msg \nSender: \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Motion to Suppress \nMessage-Id: <18ed51f7d16d473194a79f26e7a9b517@SN1P110MB0222.NAMP110.PROD.OUTLOOK.COM> \nTo: \nTo: \nTo: \nEFTA00018018",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Motion",
+        "role": "extracted",
+        "context": "Case 1:20-cr-00330-AJN USA v. Maxwell Motion to \nSuppress \nDate: Fri, 05 F"
+      },
+      {
+        "name": "Suppress \nDate",
+        "role": "extracted",
+        "context": "AJN USA v. Maxwell Motion to \nSuppress \nDate: Fri, 05 Feb 2021 00:13:06 +0"
+      },
+      {
+        "name": "Suppress \nMessage",
+        "role": "extracted",
+        "context": "-AJN USA v. Maxwell Motion to Suppress \nMessage-Id: <18ed51f7d16d473194a79f26"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.035Z"
+}

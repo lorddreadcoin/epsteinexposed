@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00025554",
+    "filename": "EFTA00025554.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025554.pdf",
+    "text": "\n\nFrom: \"-(USANYS)\" \nc \nTo: ' (USANYS)\" \nSubject: RE: \nDate: Mon, 01 Jun 2020 14:02:24 +0000 \nAh sorry—will hop on in a minute but start without me. \nFrom: (USANYS)\nSent: Monday, June 1, 2020 10:01 AM \nTo: (USANYS) < \nSubject: \nYou gonna join the Epstein call with Civ Dlv? No pressure, just let me know if we should wait \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00025554",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Civ Dlv",
+        "role": "extracted",
+        "context": "na join the Epstein call with Civ Dlv? No pressure, just let me kno"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "if we should wait \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000255"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-01",
+        "event": "June 1, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.420Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020667",
+    "filename": "EFTA00020667.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020667.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \n)\"   \nSubject: RE: FOIA Request for Ghislaine Maxwell's Mugshot \nDate: Wed, 22 Jul 2020 20:55:12 -4)000 \nGot it, I'll forward, thanks. \nFrom: \nc=> \nSent: Wednesday, July 22, 2020 16:55 \nTo: \nCc: \nSubject: Re: FOIA Request for Ghislaine Maxwell's Mugshot \n> \n> \nIt's correct that SONY doesn't have it. I don't know who the FOIA request is directed to —  whether it's just to our office or \nto FBI or DOJ as a whole. I think the office's practice on this case is to forward all FOIA inquiries to who is \nhandling them as the main point of contact. \nSent from my iPhone \nOn Jul 22, 2020, at 4:46 PM, wrote: \nIsn't the answer just that we don't even have it? \nRelated, I just put in an intake form request (apologies if someone already did), for discovery production . . . \nFrom: (USAEO) \nSent: Wednesday, July 22, 2020 16:08 \nTo: \nCc: (USANYS) < \nSubject: FOIA Request for Ghislaine Maxwell's \nMugshot \nand \n>; \n; \nGood afternoon. I'm with the FOIA/PA Staff here in D.C., and I just received a FOIA request from someone for Ghislaine \nMaxwell's \"mugshot.\" Though I tasked this FOIA request to I'm checking with you directly to see if the \nphoto exists and if it is releasable. I sense it's not being circulated on the Internet for a reason and wanted to get the \nbackstory in order to respond to the request. Please feel free to let me know if this is something that should be \ndiscussed over the phone. Thanks. \nEFTA00020667",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "To:' \nCc: ' \n)\"   \nSubject: RE: FOIA Request for Ghislaine Maxwell's Mugshot \nDate: Wed, 22 Jul 2020 20:55:12 -4)000"
+      },
+      {
+        "name": "Mugshot \nDate",
+        "role": "extracted",
+        "context": "quest for Ghislaine Maxwell's Mugshot \nDate: Wed, 22 Jul 2020 20:55:12 -4"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "nt of contact. \nSent from my iPhone \nOn Jul 22, 2020, at 4:46 PM, wro"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "FOIA request from someone for Ghislaine \nMaxwell's \"mugshot.\" Though I tasked"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-22",
+        "event": "July 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.311Z"
+}

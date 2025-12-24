@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019871",
+    "filename": "EFTA00019871.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019871.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nr \nSubject: SDNY Trial Subpoena \nDate: Tue, 13 Jul 2021 20:04:19 +0000 \nAttachments: \n2021.07.13_Court_Subpoena_-I \nSANYS \nIt \nalY) (FBI)\" \nSergeant \nThank you so much for meeting with us by video-conference today. As discussed, attached please find a trial subpoena \nfor the case in SONY. We will reach back out in early November 2021 to prep via video. At that point, we will be able to \ngive you a better estimate of when you will likely be called to testify, and we can make arrangements for your travel and \nhotel for trial. \nIn the meantime, please feel free to reach out if you have any questions or if any issues come up. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00019871",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Trial Subpoena",
+        "role": "extracted",
+        "context": ": \nTo: \nCc: \nr \nSubject: SDNY Trial Subpoena \nDate: Tue, 13 Jul 2021 20:04"
+      },
+      {
+        "name": "Sergeant \nThank",
+        "role": "extracted",
+        "context": "a_-I \nSANYS \nIt \nalY) (FBI)\" \nSergeant \nThank you so much for meeting with"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "f any issues come up. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "up. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.750Z"
+}

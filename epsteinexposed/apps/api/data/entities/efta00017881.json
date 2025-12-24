@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00017881",
+    "filename": "EFTA00017881.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017881.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' NY) (FBI)\"  \nSubject: RE: [EXTERNAL] Re: Call \nDate: Thu, 16 Sep 2021 20:36:17 +0000 \nAttachments: 2021.09.15_Court_Subpoenas  _ pdf \nHello-\nThank you again for the helpful call today. Please do send the business records certification for the \nrecords you previously provided us. \nAs I mentioned, attached is a trial subpoena. If we end up needing you to testify, I'll be in touch in late-October to talk \nabout logistics and to do some prep. \nThanks, \nFrom \nSent: Thursday, September 16, 2021 4:13 PM \nTo: \n) \nCc: (NY) (FBI) \nSubject: Re: [EXTERNAL] Re: Call \nI'm available now. \nSpecialist \nStudent Records & Subpoenas \nInformation Technology Enterprise Applications/Records Management \nOn Thu, Sep 16, 2021 at 3:48 PM wrote: \nHi \nIt's a  follow-up conversation to the ones you had with and some of my colleagues about \nsubpoenas for student records a few months ago. Happy to explain more on the phone. When is a good time to talk? \nThanks, \nFrom \nSent: Thursday, September 16, 2021 3:41 PM \nEFTA00017881\n\nTo: \nSubject: Re: [EXTERNAL] Re: Call \nWhat is it about? \nSpecialist \nStudent Records & Subpoenas \nInformation Technology Enterprise Applications/Records Management \nFAX\n-\nOn Thu, Sep 16, 2021 at 3:04 PM wrote: \nThank you, Is there a time that works best for you? \nThanks, \nFro \nSent: Thursday, September 16, 2021 1:14 PM \nTo: \nSubject: [EXTERNAL] Re: Call \nOkay \nSpecialist \nStudent Records & Subpoenas \nInformation Technology Enterprise Applications/Records Management \nFAX \nPX \n> \nOn Thu, Sep 16, 2021 at 10:46 AM wrote: \nHello \nI hope you're doing well. I think a few months back you spoke with my colleague, \nDo you have a few minutes sometime for a short follow up call? We are generally available today if that works for \nyou. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00017882\n\n1 Saint Andrews Plaza \nNew York, New York 10007 \nDisclaimer: Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released \nin response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone \nor in writing. \nDisclaimer: Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in \nresponse to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in \nwriting. \nDisclaimer: Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in \nresponse to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in \nwriting. \nEFTA00017883",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Call \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: [EXTERNAL] Re: Call \nDate: Thu, 16 Sep 2021 20:36:17 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "nd to do some prep. \nThanks, \nFrom \nSent: Thursday, September 16, 2021"
+      },
+      {
+        "name": "Specialist \nStudent",
+        "role": "extracted",
+        "context": "Re: Call \nI'm available now. \nSpecialist \nStudent Records & Subpoenas \nInformat"
+      },
+      {
+        "name": "Subpoenas \nInformation",
+        "role": "extracted",
+        "context": "Specialist \nStudent Records & Subpoenas \nInformation Technology Enterprise Applica"
+      },
+      {
+        "name": "Technology Enterprise",
+        "role": "extracted",
+        "context": "ords & Subpoenas \nInformation Technology Enterprise Applications/Records Manageme"
+      },
+      {
+        "name": "Records Management",
+        "role": "extracted",
+        "context": "ology Enterprise Applications/Records Management \nOn Thu, Sep 16, 2021 at 3:48"
+      },
+      {
+        "name": "On Thu",
+        "role": "extracted",
+        "context": "lications/Records Management \nOn Thu, Sep 16, 2021 at 3:48 PM wrot"
+      },
+      {
+        "name": "Hi \nIt",
+        "role": "extracted",
+        "context": "p 16, 2021 at 3:48 PM wrote: \nHi \nIt's a  follow-up conversation t"
+      },
+      {
+        "name": "Call \nWhat",
+        "role": "extracted",
+        "context": "Subject: Re: [EXTERNAL] Re: Call \nWhat is it about? \nSpecialist \nStu"
+      },
+      {
+        "name": "Fro \nSent",
+        "role": "extracted",
+        "context": "works best for you? \nThanks, \nFro \nSent: Thursday, September 16, 2021"
+      },
+      {
+        "name": "Call \nOkay",
+        "role": "extracted",
+        "context": "To: \nSubject: [EXTERNAL] Re: Call \nOkay \nSpecialist \nStudent Records"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "works for \nyou. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00017882\n\n1"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "of New York \nEFTA00017882\n\n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "EFTA00017882\n\n1 Saint Andrews Plaza \nNew York, New York 10007 \nDisclai"
+      },
+      {
+        "name": "Under Florida",
+        "role": "extracted",
+        "context": ", New York 10007 \nDisclaimer: Under Florida law, e-mail addresses are pub"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-16",
+        "event": "September 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.792Z"
+}

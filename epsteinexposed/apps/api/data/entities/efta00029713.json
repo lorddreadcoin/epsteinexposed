@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029713",
+    "filename": "EFTA00029713.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029713.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: p one ea came in on our ' \n11 \nme \nDate: Thu, 15 Aug 2019 15:38:52 +0000 \nShe wants to talk to an agent about a coconspirator. She dated him and he was friends with Epstein. \nA concernedMthat would like to see the evidence in Epstein case be made public. He asked a lot of questions wants \nto know who is getting indicted next and said if they are high profile people like the news is reporting are you going to do \nanything about it. Really pushy wants to know what evidence we have against people and when we are going to indict \nsome of these people. Wants to know what was in the safe. (Really) \nanted to tell us that Epstein gave money tc.children's home in and that place is a \ntraining children in child pornography and trafficking children. \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nEFTA00029713",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: p one ea came i"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: p one ea came in on our ' \n1"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "hy and trafficking children. \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "ing children. \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "n District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.033Z"
+}

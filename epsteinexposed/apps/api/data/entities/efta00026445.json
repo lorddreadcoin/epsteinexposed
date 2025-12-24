@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026445",
+    "filename": "EFTA00026445.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026445.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo:' \"  \" \n(USANYS)\" \nSubject: Epstein - \nForfeiture \nDate: Mon, 08 Apr 2019 17:32:16 +0000 \nImportance: Normal \nAttachments: FY2O_Requestformt   Large_Case_Related_Expenses.docx; FY19_Request_Form_-\nLarge_Case_Related_Expenses_-_650_Fifth_Fraud.docx \nFollowing up on our Brass meeting just now, It's that time of year when we need to do forfeiture funding requests. These \nare basically short write-ups of cases that may involve forfeiture and are also likely to incur significant investigative costs \n(e.g., traveling to Florida a dozen times, hiring a vendor retaining an expert). Could you guys do a super quick Epstein \nwrite up this afternoon and send it back to me (unfortunately need to get these done today— sorry for the short notice)? \nI've attached a blank form and a go-by (you'll see just how short these can be). \nAlso, notwithstanding what the form says, \nplease do NOT email it down to DC —  please send it back to me. \nThanks, \nEFTA00026445",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Forfeiture \nDate",
+        "role": "extracted",
+        "context": "USANYS)\" \nSubject: Epstein - \nForfeiture \nDate: Mon, 08 Apr 2019 17:32:16 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 17:32:16 +0000 \nImportance: Normal \nAttachments: FY2O_Requestformt   Large_Ca"
+      },
+      {
+        "name": "Requestformt   Large",
+        "role": "extracted",
+        "context": "ce: Normal \nAttachments: FY2O_Requestformt   Large_Case_Related_Expenses.docx; F"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.342Z"
+}

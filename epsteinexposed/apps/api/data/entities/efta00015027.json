@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00015027",
+    "filename": "EFTA00015027.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015027.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Civilian Crime Report from A. Lombardino suggesting a  prisoner has info about Epstein \nDate: Mon, 24 Aug 2020 16:23:09 +0000 \nReceived, thanks. \nFrom \nSent: Monday, August 24, 2020 11:55 AM \nTo: \nCc: \nSubject: RE: Civilian Crime Report from suggesting a prisoner has info about Epstein \nSorry, this goes with that last one. \nFrom: \nSent: Monday, August 24, 2020 11:49 AM \nTo: \nCc: \nSubject: Civilian Crime Report from A. Lombardino suggesting a prisoner has info about Epstein \nAttached is a Civilian Crime Report for you to review. We sent our usual letter with the \nform to be completed, but this particular submission does not really fit that so we might \nnot get anything more, but let us know if we do that you want to see it. , please \nmake a note in the log. Thank you. \nEFTA00015027",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Civilian Crime",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Civilian Crime Report from A. Lombardino sug"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ng a  prisoner has info about Epstein \nDate: Mon, 24 Aug 2020 16:23:09 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": ":09 +0000 \nReceived, thanks. \nFrom \nSent: Monday, August 24, 2020 11:5"
+      },
+      {
+        "name": "Epstein \nSorry",
+        "role": "extracted",
+        "context": "ing a prisoner has info about Epstein \nSorry, this goes with that last one"
+      },
+      {
+        "name": "Epstein \nAttached",
+        "role": "extracted",
+        "context": "ing a prisoner has info about Epstein \nAttached is a Civilian Crime Report fo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-24",
+        "event": "August 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.988Z"
+}

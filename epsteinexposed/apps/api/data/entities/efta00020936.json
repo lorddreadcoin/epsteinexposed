@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00020936",
+    "filename": "EFTA00020936.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020936.pdf",
+    "text": "\n\nPage I \nof I \nFrom: Mike \nO'Neil \nSent: Friday. September \n30, 2005 10.27 AM \nTo: \nSubject: Trilateral \nMeeting \nDear Mr. Epstein: \nI \nhope you \nhave seen \nthe program and other \nmatenals \nfor the 2005 \nNorth American regional rr leting \ncoming up on November 4-6 in Montreal. We have not heard \nfrom ycu about attending and want to be sure you \nare aware of the meeting and \nhave had a  chance to consider attending. To that end, I  attach the progr \n3m \nand a \nreservation form. \nPlease let us know if you can attend or \nnot. \nJust reply to Ibis email or send In a completed rest Nation \nform \nThanks. \nMichael \nO'Neil \n9/30/2005 \n02111+2015 Page 2626 Public Records Request No.: 15-268 \nEFTA00020936",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ct: Trilateral \nMeeting \nDear Mr. Epstein: \nI \nhope you \nhave seen"
+      },
+      {
+        "name": "Neil \nSent",
+        "role": "extracted",
+        "context": "Page I \nof I \nFrom: Mike \nO'Neil \nSent: Friday. September \n30, 2005"
+      },
+      {
+        "name": "Trilateral \nMeeting",
+        "role": "extracted",
+        "context": "2005 10.27 AM \nTo: \nSubject: Trilateral \nMeeting \nDear Mr. Epstein: \nI \nhope y"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": "Subject: Trilateral \nMeeting \nDear Mr. Epstein: \nI \nhope you \nhave"
+      },
+      {
+        "name": "North American",
+        "role": "extracted",
+        "context": "ther \nmatenals \nfor the 2005 \nNorth American regional rr leting \ncoming up"
+      },
+      {
+        "name": "Public Records",
+        "role": "extracted",
+        "context": "30/2005 \n02111+2015 Page 2626 Public Records Request No.: 15-268 \nEFTA0002"
+      },
+      {
+        "name": "Request No",
+        "role": "extracted",
+        "context": "2015 Page 2626 Public Records Request No.: 15-268 \nEFTA00020936"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2005-09-30",
+        "event": "9/30/2005"
+      },
+      {
+        "date": "2005-09-30",
+        "event": "September \n30, 2005"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.655Z"
+}

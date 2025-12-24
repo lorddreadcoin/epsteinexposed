@@ -1,0 +1,150 @@
+{
+  "document": {
+    "id": "efta00015081",
+    "filename": "EFTA00015081.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015081.pdf",
+    "text": "\n\n10/6/21, 4:59 PM \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210. Te1:1-800-262-DOS \nMichael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services \nIdentification   Summary   Criminal History   Job/License   Wanted   Missing \n•  Attention - Important Information * \n* See Additional Information at the bottom of this response for more banners pertaining to the criminal history \n• Identification Information * \nIII Status: Status in other states unknown \n•   NYS Criminal History Information\nThere is no Criminal History/Releasable Criminal History information associated with this NYSID. \n•  Other History \nRelated Information * \nThere is no Other History Related Information associated with this history. \n•  Job/License Information * \n172 \nEFTA00015081\n\n10/6/21, 4:59 PM \nCivil Information \n• Wanted Information \nThere is no NYS Wanted Information associated with this history. \n• \nMissing Person Information\nThere is no NYS Missing Information associated with this history. \n• Additional Information * \nCaution: Identification not based on fingerprint comparison. This record was produced as the result of an \ninquiry. \nAccording to our files, this individual does not appear to have History in III. However this does not \npreclude the possibility that the FBI does have a  record. If you desire this information, please submit a \nrequest \ndirectly to the FBI. \nWARNING: Release of any of the information presented in this computerized Case History to unauthorized \nindividuals or agencies is prohibited by federal law TITLE 42 USC \n3789g(b). \nThis report \nis to \nbe used \nfor this one \nspecific purpose as \ndescribed in \nthe Use and \nDissemination \nAgreement \nyour agency has on \nfile with DCJS. Destroy after use and request an updated rap sheet for subsequent needs. \nAll information presented herein is as complete as the data furnished to DCJS. \n212 \nEFTA00015082",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "State Division",
+        "role": "extracted",
+        "context": "10/6/21, 4:59 PM \nNew York State Division of Criminal Justice Services"
+      },
+      {
+        "name": "Criminal Justice",
+        "role": "extracted",
+        "context": "M \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Bui"
+      },
+      {
+        "name": "Services \nAlfred",
+        "role": "extracted",
+        "context": "Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South S"
+      },
+      {
+        "name": "Smith Building",
+        "role": "extracted",
+        "context": "l Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, N"
+      },
+      {
+        "name": "South Swan",
+        "role": "extracted",
+        "context": "Alfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210."
+      },
+      {
+        "name": "Executive Deputy",
+        "role": "extracted",
+        "context": "800-262-DOS \nMichael C.Green, Executive Deputy Commissioner of the NYS Divis"
+      },
+      {
+        "name": "Services \nIdentification",
+        "role": "extracted",
+        "context": "Division of Criminal Justice Services \nIdentification   Summary   Criminal History"
+      },
+      {
+        "name": "Summary   Criminal",
+        "role": "extracted",
+        "context": "ce Services \nIdentification   Summary   Criminal History   Job/License   Wante"
+      },
+      {
+        "name": "History   Job",
+        "role": "extracted",
+        "context": "fication   Summary   Criminal History   Job/License   Wanted   Missing \n•"
+      },
+      {
+        "name": "License   Wanted",
+        "role": "extracted",
+        "context": "mary   Criminal History   Job/License   Wanted   Missing \n•  Attention - Imp"
+      },
+      {
+        "name": "Important Information",
+        "role": "extracted",
+        "context": "ted   Missing \n•  Attention - Important Information * \n* See Additional Informati"
+      },
+      {
+        "name": "See Additional",
+        "role": "extracted",
+        "context": "- Important Information * \n* See Additional Information at the bottom of"
+      },
+      {
+        "name": "Identification Information",
+        "role": "extracted",
+        "context": "ng to the criminal history \n• Identification Information * \nIII Status: Status in othe"
+      },
+      {
+        "name": "Criminal History",
+        "role": "extracted",
+        "context": "other states unknown \n•   NYS Criminal History Information\nThere is no Crimi"
+      },
+      {
+        "name": "Information\nThere",
+        "role": "extracted",
+        "context": "own \n•   NYS Criminal History Information\nThere is no Criminal History/Releas"
+      },
+      {
+        "name": "Releasable Criminal",
+        "role": "extracted",
+        "context": "There is no Criminal History/Releasable Criminal History information associate"
+      },
+      {
+        "name": "Other History",
+        "role": "extracted",
+        "context": "sociated with this NYSID. \n•  Other History \nRelated Information * \nThere"
+      },
+      {
+        "name": "Related Information",
+        "role": "extracted",
+        "context": "his NYSID. \n•  Other History \nRelated Information * \nThere is no Other History"
+      },
+      {
+        "name": "License Information",
+        "role": "extracted",
+        "context": "ed with this history. \n•  Job/License Information * \n172 \nEFTA00015081\n\n10/6/21"
+      },
+      {
+        "name": "Civil Information",
+        "role": "extracted",
+        "context": "TA00015081\n\n10/6/21, 4:59 PM \nCivil Information \n• Wanted Information \nThere"
+      },
+      {
+        "name": "Wanted Information",
+        "role": "extracted",
+        "context": "4:59 PM \nCivil Information \n• Wanted Information \nThere is no NYS Wanted Infor"
+      },
+      {
+        "name": "Missing Person",
+        "role": "extracted",
+        "context": "ciated with this history. \n• \nMissing Person Information\nThere is no NYS M"
+      },
+      {
+        "name": "Missing Information",
+        "role": "extracted",
+        "context": "n Information\nThere is no NYS Missing Information associated with this history."
+      },
+      {
+        "name": "Additional Information",
+        "role": "extracted",
+        "context": "ociated with this history. \n• Additional Information * \nCaution: Identification no"
+      },
+      {
+        "name": "Case History",
+        "role": "extracted",
+        "context": "resented in this computerized Case History to unauthorized \nindividuals"
+      },
+      {
+        "name": "Dissemination \nAgreement",
+        "role": "extracted",
+        "context": "s \ndescribed in \nthe Use and \nDissemination \nAgreement \nyour agency has on \nfile wit"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.035Z"
+}

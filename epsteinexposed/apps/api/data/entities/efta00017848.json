@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00017848",
+    "filename": "EFTA00017848.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017848.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 329 Filed 08/25/21 Page 1 of 1 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SONY \nDOCUMENT \nELECTRONICALLY PILED \nDOC 0: \nDATE I:11.ED: 8/25/21 \n20-CR-330 (AJN) \nORDER \nALISON J. NATHAN, District Judge: \nDefendant submitted a letter on August 18 informing the Court about disruptions of \nattorney-client video teleconferences. Dkt. No. 319. After conferring with MDC Legal, the \nGovernment responded on August 23. Dkt. No. 326. According to the Government and MDC \nLegal, the Defendant's difficulties in communicating with her counsel via video \nteleconference \nhave been resolved, and the Government's letter sufficiently addresses her other requests. The \nCourt finds MDC Legal's assurance that Defendant's communications have not been interfered \nwith, recorded, or listened to sufficient. No further application for relief was made in \nDefendant's August 24 reply. Dkt. No. 327. The Court remains confident that Ms. Maxwell is \nfully able to communicate with her defense counsel and to prepare for trial. If Defendant \nexperiences further issues in communicating with her counsel, she should promptly notify the \nCourt after conferring in good faith with the Government and MDC Legal. \nSO \nORDERED. \nDated: August 25, 2021 \nNew York, New York \nALISON J. NATHAN \nUnited States District Judge \nEFTA00017848",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SONY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "Court remains confident that Ms. Maxwell is \nfully able to communi"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "JN) \nORDER \nALISON J. NATHAN, District Judge: \nDefendant submitted a lette"
+      },
+      {
+        "name": "The \nCourt",
+        "role": "extracted",
+        "context": "addresses her other requests. The \nCourt finds MDC Legal's assurance t"
+      },
+      {
+        "name": "If Defendant",
+        "role": "extracted",
+        "context": "sel and to prepare for trial. If Defendant \nexperiences further issues i"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-08-25",
+        "event": "August 25, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.734Z"
+}

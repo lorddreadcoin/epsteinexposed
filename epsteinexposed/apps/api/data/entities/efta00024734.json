@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00024734",
+    "filename": "EFTA00024734.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024734.pdf",
+    "text": "\n\nEvent: Accepted: Epstein Image/Video File Review Protocol \nStart Date: 2020-10-20 17:00:00 +0000 \nEnd Date: 2020-10-20 17:30:00 +0000 \nClass: X-PERSONAL \nComment: \nDate Created: 2020-10-19 22:19:58 +0000 \nDate Modified: 2020-10-19 22:19:58 +0000 \nPriority: 5 \nDTSTAMP: 2020-10-19 22:07:21 +0000 \nAttendee: \nEFTA00024734",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Image",
+        "role": "extracted",
+        "context": "Event: Accepted: Epstein Image/Video File Review Protocol \nS"
+      },
+      {
+        "name": "Video File",
+        "role": "extracted",
+        "context": "vent: Accepted: Epstein Image/Video File Review Protocol \nStart Date:"
+      },
+      {
+        "name": "Review Protocol",
+        "role": "extracted",
+        "context": "ted: Epstein Image/Video File Review Protocol \nStart Date: 2020-10-20 17:00"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "e/Video File Review Protocol \nStart Date: 2020-10-20 17:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-10-20 17:00:00 +0000 \nEnd Date: 2020-10-20 17:30:00 +0000 \nC"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-10-19 22:19:58 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-10-19 22:19:58 +0000 \nDate Modified: 2020-10-19 22:19:58 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-20",
+        "event": "2020-10-20"
+      },
+      {
+        "date": "2020-10-19",
+        "event": "2020-10-19"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.727Z"
+}

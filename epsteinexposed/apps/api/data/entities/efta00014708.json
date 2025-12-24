@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014708",
+    "filename": "EFTA00014708.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014708.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: \nDate: \nAttachments: \nUS v. \nMaxwell, 20 Cr. 330 (AJN) - Proposed Redactions \nMon, 22 Nov 2021 18:53:19 +0000 \n2021-11-20_GM_reply_re_GX-52_finaldproposed_redactions].pdf; \n2021.11.15 _JSP_Ltr._re._EX._52 jproposed_redactions].pdf; \n2021.11.18_Mot_to_admit_birth_certificatesjproposed_redactions].pdf; \n2021.11.20_Letter_to_Judge_Nathan_re_Birth_Certificatesdproposed_redactions].PDF \nChambers, \nAttached are the proposed redactions referenced in the letter at Dkt. No. 486. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00014708",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proposed Redactions",
+        "role": "extracted",
+        "context": "Maxwell, 20 Cr. 330 (AJN) - Proposed Redactions \nMon, 22 Nov 2021 18:53:19 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "86. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00014708"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.396Z"
+}

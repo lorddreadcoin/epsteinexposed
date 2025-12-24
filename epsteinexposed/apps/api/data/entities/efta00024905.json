@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00024905",
+    "filename": "EFTA00024905.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024905.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Limiting instructions letter \nDate: Sat, 20 Nov 2021 17:44:29 +0000 \nAttachments: 2021-11-20,_GM,_ediLs_to_limiting_instructions_v2.docx \nHi team, \nAfter some editing, here's a draft response as a starting point. \nThanks, \nFrom: \nSent: Saturday, November 20, 2021 12:04 PM \nTo: \nc.   >; \n<1.>; \nSubject: Limiting instructions letter \nHey team, \nPer the attached order on MV-3, we owe Judge Nathan our views on the proposed limiting instructions. Can we add this \nto the list for our call? I've written two responsive letters because I'm not sure exactly what she's going for with the \nsecond instruction. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00024905",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "ttached order on MV-3, we owe Judge Nathan our views on the proposed lim"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "second instruction. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "n. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-20",
+        "event": "2021-11-20"
+      },
+      {
+        "date": "2021-11-20",
+        "event": "November 20, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.079Z"
+}

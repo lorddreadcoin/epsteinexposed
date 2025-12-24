@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030975",
+    "filename": "EFTA00030975.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030975.pdf",
+    "text": "\n\nFrom: \n\" \naNIMIIM> \nTo: \"]\" ala> \nSubject: My edits to Section IV \nDate: Sat, 27 Feb 2021 00:13:14 +0000 \nAttachments: 2021.02.26_GM_Omnibus_Opposition_to_Defense_Motions.rd_(MC).docx \nAttached, thanks) \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030975",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "(MC).docx \nAttached, thanks) \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ed, thanks) \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030975"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.153Z"
+}

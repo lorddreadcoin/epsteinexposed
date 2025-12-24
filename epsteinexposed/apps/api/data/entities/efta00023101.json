@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023101",
+    "filename": "EFTA00023101.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023101.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject \nDate: Thu, 23 A pr 2020 00:13:00 +0000 \nAttachments: .pdf \nand \nAttached is the \nPlease treat this as confidential settlement material provided on the same terms as our submission (i.e. FOIA Confidential \ntreatment requested, Confidential Settlement Material Protected Under Fed. R. Evid 408 and 410, Fed. R. Crim. P. 11 and \nstate law analogues). \nLet us know if there is anything you would like to discuss. \nBest, \nEFTA00023101",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subject \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject \nDate: Thu, 23 A pr 2020 00:13:00 +"
+      },
+      {
+        "name": "Confidential Settlement",
+        "role": "extracted",
+        "context": "dential \ntreatment requested, Confidential Settlement Material Protected Under Fed."
+      },
+      {
+        "name": "Material Protected",
+        "role": "extracted",
+        "context": "sted, Confidential Settlement Material Protected Under Fed. R. Evid 408 and 41"
+      },
+      {
+        "name": "Under Fed",
+        "role": "extracted",
+        "context": "Settlement Material Protected Under Fed. R. Evid 408 and 410, Fed. R."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.260Z"
+}

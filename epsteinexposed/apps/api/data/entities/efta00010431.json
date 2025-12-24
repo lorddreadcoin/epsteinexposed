@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00010431",
+    "filename": "EFTA00010431.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010431.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: RE: Maxwell \nDate: Thu, 02 Jul 2020 14:47:03 +0000 \nthank you!! \nFrom: \nSent: Thursday, July 02, 2020 10:45 \nTo: \nSubject: \nFW: Maxwell \nCongrats guys! Great work on such an important case. \nFrom: \nSent: Thursday, July 2, 2020 10:43 AM \nTo: \nSubject: Maxwell \nPCU — Please join me in congratulating on the arrest this morning of Ghislaine Maxwell. \nspoke a bit about the case on our call on Tuesday and the truly remarkable job the team has done in bringing it. I won't \nrepeat all of that, buy you should know, as you read press coverage today that already is making it seem like these charges \nwere inevitable, that they were anything but, and that they are instead the result of an extraordinary amount of work and \nperseverance and creativity by in building a case based on conduct that I'm pretty sure is older \nthan all of our paralegals. \nwill be holding a press conference at 12, and while it is sadly not possible for all of us to be there to join her given \ncurrent conditions, I hope we can all take a moment to remotely congratulate the team on a terrific accomplishment in \nbringing an extremely important case against a woman very worthy of criminal prosecution. \n• \nEFTA00010431",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "e in congratulating on the arrest this morning of Ghislaine Maxwell. \nspoke a bit about the case on our call on Tuesd"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: RE: Maxwell \nDate: Thu, 02 Jul 2020 14:47:03 +0"
+      },
+      {
+        "name": "Maxwell \nCongrats",
+        "role": "extracted",
+        "context": "020 10:45 \nTo: \nSubject: \nFW: Maxwell \nCongrats guys! Great work on such an i"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "July 02, 2020"
+      },
+      {
+        "date": "2020-07-02",
+        "event": "July 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.936Z"
+}

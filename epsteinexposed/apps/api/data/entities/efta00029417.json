@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00029417",
+    "filename": "EFTA00029417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029417.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvan A Mono Building \neW PK \nAugust 12, 12, 2021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the drive containing discovery materials pertinent to Ghislaine Maxwell \n(02879-509) is_ \nVery \ntruly yours, \nAUDREY \nSTRAUSS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA00029417",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the drive con"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvan A Mon"
+      },
+      {
+        "name": "The Silvan",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvan A Mono Building \neW PK \nAugus"
+      },
+      {
+        "name": "Mono Building",
+        "role": "extracted",
+        "context": "ict of New York \nThe Silvan A Mono Building \neW PK \nAugust 12, 12, 2021"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Attorney \nAssistant",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.369Z"
+}

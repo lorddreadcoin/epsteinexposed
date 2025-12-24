@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027940",
+    "filename": "EFTA00027940.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027940.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" < \nTo: \"Ell= \n(OIG)\"\nCc: \"=, (USANYS)\"\nSubject: FW: Subpoena \nDate: Tue, 20 Aug 2019 15:28:45 +0000 \nAttachments: 2019.08.20._MCC_Subpoena.pdf \nFYI. \nFrom: (USANYS) \nSent: Tuesday, August 20, 2019 11:28 AM \nTo:' \nCc: IN, (USANYS)\nSubject: Subpoena \na nd \nPlease see attached. \nThanks, \nAssistant United States Attorney \nSouthern District of New \nYork \nTel: \nEFTA00027940",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena \nDate",
+        "role": "extracted",
+        "context": "c: \"=, (USANYS)\"\nSubject: FW: Subpoena \nDate: Tue, 20 Aug 2019 15:28:45 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "lease see attached. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d. \nThanks, \nAssistant United States Attorney \nSouthern District of New \nYo"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New \nYork \nTel: \nEFTA00027"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ttorney \nSouthern District of New \nYork \nTel: \nEFTA00027940"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-20",
+        "event": "August 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.303Z"
+}

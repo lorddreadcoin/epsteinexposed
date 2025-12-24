@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013445",
+    "filename": "EFTA00013445.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013445.pdf",
+    "text": "\n\nSubject: Fast track \nDate: Mon, 21 Jan 2019 18:51:16 +0000 \nImportance: Normal \nAttachments: Fast_Track_Meeting_1Q_-_Pipeline_Update.docx \nThoughts? MG, in particular, might benefit from your far better knowledge of the \nunderlying facts. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of N \nEFTA00013445",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:51:16 +0000 \nImportance: Normal \nAttachments: Fast_Track_Meeting_1Q_-_Pipe"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "ge of the \nunderlying facts. \nDeputy Chief, Public Corruption Unit \nU.S."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "erlying facts. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of N \nEFTA00013445"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.607Z"
+}

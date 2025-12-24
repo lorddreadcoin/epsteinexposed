@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031427",
+    "filename": "EFTA00031427.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031427.pdf",
+    "text": "\n\nEvent: Call in Epstein FOIA \nStart Date: 2021-04-13 17:30:00 +0000 \nEnd Date: 2021-04-13 18:00:00 +0000 \nOrganizer: \nLocation \nClass: X-PERSONAL \nDate Created: 2021-04-13 14:58:36 +0000 \nDate Modified: 2021-04-13 14:58:36 +0000 \nPriority: 5 \nDTSTAMP: 2021-04-13 14:42:54 +0000 \nAttendee: \nAlarm: Display the following message 15m before start \nReminder \nplease let us know if we need to move the time. Thanks! \nEFTA00031427",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Call in Epstein FOIA \nStart Date: 2021-04-13 17:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-04-13 17:30:00 +0000 \nEnd Date: 2021-04-13 18:00:00 +0000 \nO"
+      },
+      {
+        "name": "Location \nClass",
+        "role": "extracted",
+        "context": "3 18:00:00 +0000 \nOrganizer: \nLocation \nClass: X-PERSONAL \nDate Created: 20"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Location \nClass: X-PERSONAL \nDate Created: 2021-04-13 14:58:36 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-04-13 14:58:36 +0000 \nDate Modified: 2021-04-13 14:58:36 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-13",
+        "event": "2021-04-13"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.061Z"
+}

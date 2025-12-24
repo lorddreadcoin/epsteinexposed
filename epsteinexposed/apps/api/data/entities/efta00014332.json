@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014332",
+    "filename": "EFTA00014332.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014332.pdf",
+    "text": "\n\nFrom: ' \nTo: \"=, \nCc:\n(USANYS)\"  \nSubject: RE: Contact info for victim \nDate: Sat, 13 Jul 2019 19:37:36 +0000 \nImportance: Normal \n)\"   \n(Epstein vic) \nYes can add, thanks, and yes can contact attorneys to ask who wants notification. (They may say all of them, but feel free \nto check.) This is a victim we met with for the first time yesterday afternoon. \nFrom: =, (USANYS) <Ma \nSent: Friday, July 12, 2019 17:09 \nTo: \n(USANYS) \nSubject: FW: Contact info for victim \n>; \n(Epstein vic) \n<I>: \nCan I add this person. I would like to email them and ask who would like to get notification in the case the system will \nonly allow me to put one law firm. \nFrom• \nSent: Friday, July 12, 2019 4:45 PM \nTo: M, (USANYS) \nSubject: Contact info for victim \nThrough her 3 attorneys. \nI )Daniel Kaiser \nKaiser Saurbom & Mair P.C. \n2) William Kaiser \nKaiser Saurbom & Mair P.C. \n3) Kimberly Lerner \n(Epstein vic) \nEFTA00014332\n\nEFTA00014333",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ma \nSent",
+        "role": "extracted",
+        "context": "fternoon. \nFrom: =, (USANYS) <Ma \nSent: Friday, July 12, 2019 17:09"
+      },
+      {
+        "name": "Daniel Kaiser",
+        "role": "extracted",
+        "context": "Through her 3 attorneys. \nI )Daniel Kaiser \nKaiser Saurbom & Mair P.C."
+      },
+      {
+        "name": "Kaiser Saurbom",
+        "role": "extracted",
+        "context": "attorneys. \nI )Daniel Kaiser \nKaiser Saurbom & Mair P.C. \n2) William Kaise"
+      },
+      {
+        "name": "William Kaiser",
+        "role": "extracted",
+        "context": "aiser Saurbom & Mair P.C. \n2) William Kaiser \nKaiser Saurbom & Mair P.C."
+      },
+      {
+        "name": "Kimberly Lerner",
+        "role": "extracted",
+        "context": "aiser Saurbom & Mair P.C. \n3) Kimberly Lerner \n(Epstein vic) \nEFTA00014332"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.642Z"
+}

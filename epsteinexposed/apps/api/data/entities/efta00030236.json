@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00030236",
+    "filename": "EFTA00030236.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030236.pdf",
+    "text": "\n\nNEW YORK DEPARTMENT OF STATE \nDivision of Corporations \nAttn: Subpoena Compliance \nSUBPOENA RIDER \nPlease provide any and all copies of Articles of Incorporation and any other information \nfiled with the STATE OF NEW YORK in regard to the incorporation of the following \ncompanies: \nNINE EAST 71ST STREET CORPORATION \n575 Lexington Avenue, 4'h Floor, New York, \nNY 10022 \n301 East 66'h Street, 10F, New York, NY \n10065 \nMAPLE, INC \n9100 Havensight, Port of Sales, Suite 15116, \nSt Thomas 00802 Virgin Islands, U.S. \nRecords should be forwarded to: \nFederal Bureau of Investi ation \nAttn: \nNew York, NY 10278 \nPhone: \nEmail: \n(Serve via email to: ALBANY DIVISION, Attn: Carmelo Burgos) \nEFTA00030236",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Corporations \nAttn",
+        "role": "extracted",
+        "context": "ARTMENT OF STATE \nDivision of Corporations \nAttn: Subpoena Compliance \nSUBPOEN"
+      },
+      {
+        "name": "Subpoena Compliance",
+        "role": "extracted",
+        "context": "vision of Corporations \nAttn: Subpoena Compliance \nSUBPOENA RIDER \nPlease provi"
+      },
+      {
+        "name": "Lexington Avenue",
+        "role": "extracted",
+        "context": "71ST STREET CORPORATION \n575 Lexington Avenue, 4'h Floor, New York, \nNY 100"
+      },
+      {
+        "name": "St Thomas",
+        "role": "extracted",
+        "context": "Port of Sales, Suite 15116, \nSt Thomas 00802 Virgin Islands, U.S. \nR"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "Suite 15116, \nSt Thomas 00802 Virgin Islands, U.S. \nRecords should be forw"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "ords should be forwarded to: \nFederal Bureau of Investi ation \nAttn: \nNew"
+      },
+      {
+        "name": "Carmelo Burgos",
+        "role": "extracted",
+        "context": "il to: ALBANY DIVISION, Attn: Carmelo Burgos) \nEFTA00030236"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.346Z"
+}

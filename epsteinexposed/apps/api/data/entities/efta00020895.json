@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00020895",
+    "filename": "EFTA00020895.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020895.pdf",
+    "text": "\n\nFrom: \nTo:' \" \nSubject: RE: EMail 1 of 2: EPSTEIN \nDate: Thu, 29 Oct 2020 17:47:45 +0000 \nInline-Images: image002.jpg; image003.jpg \nsigned application/affidavit \nI've included them. \nHave a great night. \nFrom: \nSent: Thursday, October 29, 2020 1:31 PM \nTo \nSubject: RE: EMail 1 of 2: EPSTEIN - \nArraignment Unit Clerk \nUnited States District Court \nof New York \n07 \nCAUTION - \nEXTERNAL: \nReceived, thank you very much, \nsigned \napplication/affidavit \nI noticed that the affidavit does not have the exhibits attached. To make sure they are maintained in the court's file, \nattached are the four exhibits that we submitted with the affidavit. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nNew York \nNY \n10007 \nFrom: \nSent: Thursday, October 29, 2020 11:51 AM \nTo: \nEFTA00020895\n\nCc \nSubject: FW: EMail 1 of 2: EPSTEIN - \nGood Morning =, \nYour signed Warrants are attached. \nArraignment Unit Clerk \nUnited States District Court \nSouthern District of New York \nFrom \nSent: e  nes ay, cto er\nTo \nsigned application/affidavit \nCc: \nSubject: FW: EMail 1 of 2: EPSTEIN igned application/affidavit \nFrom: \nSent: Tuesda , October 27, 2020 7:18 PM \nTo: \nSubje : ai o : signed application/affidavit \nUSDC-SDNY \nSent from my mobile device \nCAUTION - EXTERNAL EMAIL: This email originated outside the Judiciary. Exercise caution when opening \nattachments or clicking on links. \nEFTA00020896",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "ay, October 29, 2020 1:31 PM \nTo \nSubject: RE: EMail 1 of 2: EPSTEIN -"
+      },
+      {
+        "name": "Arraignment Unit",
+        "role": "extracted",
+        "context": "RE: EMail 1 of 2: EPSTEIN - \nArraignment Unit Clerk \nUnited States District"
+      },
+      {
+        "name": "Clerk \nUnited",
+        "role": "extracted",
+        "context": ": EPSTEIN - \nArraignment Unit Clerk \nUnited States District Court \nof New"
+      },
+      {
+        "name": "States District",
+        "role": "extracted",
+        "context": "rraignment Unit Clerk \nUnited States District Court \nof New York \n07 \nCAUTI"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "h the affidavit. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York \nNY \n10"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "11:51 AM \nTo: \nEFTA00020895\n\nCc \nSubject: FW: EMail 1 of 2: EPSTEIN -"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "FW: EMail 1 of 2: EPSTEIN - \nGood Morning =, \nYour signed Warrants are"
+      },
+      {
+        "name": "Court \nSouthern",
+        "role": "extracted",
+        "context": "Clerk \nUnited States District Court \nSouthern District of New York \nFrom \nS"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "outhern District of New York \nFrom \nSent: e  nes ay, cto er\nTo \nsigned"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-29",
+        "event": "October 29, 2020"
+      },
+      {
+        "date": "2020-10-27",
+        "event": "October 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.572Z"
+}

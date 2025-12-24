@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00027463",
+    "filename": "EFTA00027463.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027463.pdf",
+    "text": "\n\nFrom: USANYS \" \nTo: USANYS \" \nSubject: \nDate: Tue, 14 Jul 2020 19:22:48 +0000 \nSANYS)\" \nAnything that might be outside of sentry, like pen data? \n Original \nMessa \nFrom: (USANYS) \nSent: Tuesda , July 14, 2020 3:17 PM \nTo USANYS\nu \nject: : \n(USANYS) \nI've never seen it. We did ask about 302s, but this is a good reason to re-ask and request the full sentry file \n(which we didn't do previously unless I'm forgetting). \n Ori inal Messa e \nFrom: \n(USANYS) \nSent: Tuesda Jul 14 2020 3:16 P \nTo: \n(USANYS) c\nUSANYS) \nSubject: RE: \nI agree on both points. Did we initially ask FBI for their entire SENTRY file? I think we may want to do that to \nbe \nsafe. \n Ori inal Messa e \nFrom: \n(USANYS) \nSent: Tuesday, July 14, 2020 3:12 PM \nTo: (USANYS (USANYS) \nSubject: FW: \nSee attached - I think we need to ask =what Lt. reviewed to get this information. \nAlso, I don't think I've seen this 302 before. I  thought we had asked FBI for all 302s, but I could be mis-\nremembering. Either way, I think we should do so again. \nFrom: (NY) (FBI) \nSent: Tuesday, July 14, 2020 2:51 PM \nTo: \nSANYS) \nSubject: \nHey= ---\nWhen looking through my case file, this is where= documented the phone number and last call made by \nEpstein. Let me know if you need anything else... \nEFTA00027463\n\nSpecial \nAgent \nFBI New York \nField Office \nViolent Crimes Task \nForce \nEFTA00027464",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Original \nMessa",
+        "role": "extracted",
+        "context": "e of sentry, like pen data? \n Original \nMessa \nFrom: (USANYS) \nSent: Tuesda"
+      },
+      {
+        "name": "Tuesda Jul",
+        "role": "extracted",
+        "context": "ssa e \nFrom: \n(USANYS) \nSent: Tuesda Jul 14 2020 3:16 P \nTo: \n(USANYS)"
+      },
+      {
+        "name": "Special \nAgent",
+        "role": "extracted",
+        "context": "ything else... \nEFTA00027463\n\nSpecial \nAgent \nFBI New York \nField Office"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special \nAgent \nFBI New York \nField Office \nViolent Crimes Task \nForce"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "FBI New York \nField Office \nViolent Crimes Task \nForce \nEFTA00027464"
+      },
+      {
+        "name": "Task \nForce",
+        "role": "extracted",
+        "context": "Field Office \nViolent Crimes Task \nForce \nEFTA00027464"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-14",
+        "event": "July 14, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.339Z"
+}

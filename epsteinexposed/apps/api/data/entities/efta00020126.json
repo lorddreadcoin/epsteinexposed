@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020126",
+    "filename": "EFTA00020126.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020126.pdf",
+    "text": "\n\nFrom \nTo: \n)\" --1111•111• \nSubject: Transcript Request-19CR00490 \nDate: Tue, 27 Aug 2019 18:30:31 +0000 \nAttachments: J8RpEPSEpdf \nHello: \nAttached you will find a  copy of Case No. 19-CR-490 as requested. Please confirm delivery. \nThank You, \nEFTA00020126",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \n)\" --1111•111• \nSubject: Tr"
+      },
+      {
+        "name": "Transcript Request",
+        "role": "extracted",
+        "context": "To: \n)\" --1111•111• \nSubject: Transcript Request-19CR00490 \nDate: Tue, 27 Aug"
+      },
+      {
+        "name": "Epdf \nHello",
+        "role": "extracted",
+        "context": "31 +0000 \nAttachments: J8RpEPSEpdf \nHello: \nAttached you will find a  c"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "ched you will find a  copy of Case No. 19-CR-490 as requested. Plea"
+      },
+      {
+        "name": "Thank You",
+        "role": "extracted",
+        "context": "ed. Please confirm delivery. \nThank You, \nEFTA00020126"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.243Z"
+}

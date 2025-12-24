@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00031087",
+    "filename": "EFTA00031087.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031087.pdf",
+    "text": "\n\nFrom: (USANYS)\" \naNIMIN> \nTo: 'Sli\nSubject: Automatic reply: RE: plaintiff counsel request for documents, Epstein case \nDate: Mon, 30 Dec 2019 20:48:41 +0000 \nOut of the Office. Back Tuesday. Checking emails occasionally. \nEFTA00031087",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sli\nSubject",
+        "role": "extracted",
+        "context": "rom: (USANYS)\" \naNIMIN> \nTo: 'Sli\nSubject: Automatic reply: RE: plainti"
+      },
+      {
+        "name": "Back Tuesday",
+        "role": "extracted",
+        "context": ":41 +0000 \nOut of the Office. Back Tuesday. Checking emails occasionally"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.367Z"
+}

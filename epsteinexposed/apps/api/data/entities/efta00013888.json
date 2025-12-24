@@ -1,0 +1,111 @@
+{
+  "document": {
+    "id": "efta00013888",
+    "filename": "EFTA00013888.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013888.pdf",
+    "text": "\n\nU.S. \nDepartment of Justice \nUnited States Attorney \nSouthern District of Florida \n500 South Australian Ave., Suite 400 \nWest Palm Beach, FL 33401 \n(561) 820-8711 \nFacsimile: (561) 820-8777 \nJune \n30, 2008 \nNOTIFICATION OF IDENTIFIED VICTIMS \nOn June 30, 2008, Jeffrey Epstein \n(hereinafter referred to as \"Epstein) entered a plea \nof guilty to violations of Florida Statutes Sections 796.07 (felony solicitation of prostitution) \nand 796.03 (procurement of minors to engage in prostitution), in the 15th Judicial Circuit in \nand for Palm Beach County (Case Nos. 2006-cf-009454AXXXMB and 2008-cf-\n00938 1 AXXXMB) and was sentenced to a  term of twelve months' imprisonment to be \nfollowed by an additional six months' imprisonment, followed by twelve months of \nCommunity Control 1, with conditions of community \nconfinement imposed by the Court. \nIn light of the entry of the guilty plea and sentence, \nthe United States has agreed to \ndefer federal prosecution in favor of this state plea and sentence, subject to \ncertain \nconditions. \nOne such \ncondition to which Epstein has agreed is the following: \n\"Any person, who while a  minor, was a victim of a violation of an offense \nenumerated in Title 18, United States Code, Section 2255, will have the same \nrights to proceed \nunder Section 2255 as she would have had, if Mr. Epstein \nhad been tried federally and convicted of an \nenumerated offense. For purposes \nof implementing this paragraph, the United States shall provide Mr. Epstein's \nattorneys with a  list of individuals whom it  was prepared to name in an \nIndictment as victims of an enumerated offense by Mr. Epstein. Any judicial \nauthority interpreting this provision, including any authority determining \nwhich evidentiary burdens if any a plaintiff must meet, shall consider that it is \nthe intent of the parties to place these identified victims in the same position \nas they would have been had Mr. Epstein been convicted at trial. No more; no \nless.\" \nInitials of Jeffrey Epstein Initials of Jack Goldberger \nEFTA00013888",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "FICATION OF IDENTIFIED VICTIMS \nOn June 30, 2008, Jeffrey Epstein \n(hereinafter referred to as \"Epstein) entered a"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "255 as she would have had, if Mr. Epstein \nhad been tried federally"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of Florida"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of Florida \n500 South Austral"
+      },
+      {
+        "name": "South Australian",
+        "role": "extracted",
+        "context": "hern District of Florida \n500 South Australian Ave., Suite 400 \nWest Palm Be"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "h Australian Ave., Suite 400 \nWest Palm Beach, FL 33401 \n(561) 820-87"
+      },
+      {
+        "name": "On June",
+        "role": "extracted",
+        "context": "CATION OF IDENTIFIED VICTIMS \nOn June 30, 2008, Jeffrey Epstein \n(h"
+      },
+      {
+        "name": "Florida Statutes",
+        "role": "extracted",
+        "context": "a \nof guilty to violations of Florida Statutes Sections 796.07 (felony solic"
+      },
+      {
+        "name": "Judicial Circuit",
+        "role": "extracted",
+        "context": "in prostitution), in the 15th Judicial Circuit in \nand for Palm Beach County"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Judicial Circuit in \nand for Palm Beach County (Case Nos. 2006-cf-009"
+      },
+      {
+        "name": "Case Nos",
+        "role": "extracted",
+        "context": "n \nand for Palm Beach County (Case Nos. 2006-cf-009454AXXXMB and 200"
+      },
+      {
+        "name": "Community Control",
+        "role": "extracted",
+        "context": "followed by twelve months of \nCommunity Control 1, with conditions of communi"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "f Jeffrey Epstein Initials of Jack Goldberger \nEFTA00013888"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-30",
+        "event": "June \n30, 2008"
+      },
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(561) 820-8711",
+      "(561) 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.655Z"
+}

@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00025539",
+    "filename": "EFTA00025539.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025539.pdf",
+    "text": "\n\nFrom: \nSubject: Re: Austrian passport thing \nDate: Tue, 16 Jul 2019 02:32:02 +0000 \nAttachments: marius_fortelni.xps; IMG_1058.jpg; IMG_1059.jpg \nI will give him a call tomorrow. Additionally see attached photos of the Austrian passport. \nNYPD FBI \nChild Exploitation Human Trafficking Task Force \nSent: Monday, July 15, 2019 7:14:39 PM \nTo: \nCc: \nSubject: RE: Austrian passport thing \nSo there does appear to be a Marius Fortelni, originally from Austria, currently living in Southampton, NY —  see: \nhttp://forteproperties.us/about us.htm \nhttp://www.mariusfortelni.com/ \nNotably—given the \"residence\" entry on the passport—according to Mr. Fortelni's website he resided for a time in Saudi \nArabia. If it's possible, could we determine Marius Fortelni's birthday, and see if it matches up with the date \non the passport? And then try to contact him and ask if he has any reason to know why a passport from his native \ncountry with his name on it would have Jeffrey Epstein's photograph on it and be in a safe in Epstein's mansion?? Given \nthe time pressure I think it's totally fine to call him if you want, but completely defer to y'all. \nThank you!! \nAssistant U.S. Attorney \nSouthern District of \n■ \nEFTA00025539",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "is native \ncountry with his name on it would have Jeffrey Epstein's photograph on it and be in a safe in Epstein's"
+      },
+      {
+        "name": "Fortelni",
+        "role": "extracted",
+        "context": "on the passport—according to Mr. Fortelni's website he resided for"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "Austrian passport. \nNYPD FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "NYPD FBI \nChild Exploitation Human Trafficking Task Force \nSent: Monday, Jul"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nSent: Monday, July 15, 2019"
+      },
+      {
+        "name": "Marius Fortelni",
+        "role": "extracted",
+        "context": "So there does appear to be a Marius Fortelni, originally from Austria, cur"
+      },
+      {
+        "name": "Saudi \nArabia",
+        "role": "extracted",
+        "context": "site he resided for a time in Saudi \nArabia. If it's possible, could we d"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "Thank you!! \nAssistant U.S. Attorney \nSouthern District of \n■ \nEFTA00025539"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Southampton, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-15",
+        "event": "July 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.382Z"
+}

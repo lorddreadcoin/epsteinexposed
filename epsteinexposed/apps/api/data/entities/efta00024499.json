@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024499",
+    "filename": "EFTA00024499.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024499.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nSubject: Epstein \nDate: Sat, 10 Aug 2019 21:14:54 +0000 \nIt was nice speaking with all of you and I appreciate the offer of assistance on this. \nPlease see the AUSA team copied here and reach out to them for any assistance you may need from SDNY. \nThanks, \nSupervisory Special Agent \nFBI/NYPD \nViolent Crimes \nTask Force \nOn Aug 10, 2019 4:50 PM, \"\n)\" wrote: \nI  am cc'ing our team for you to connect them with the relevant agents on your side. \nThanks very much, \nEFTA00024499",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:'\nCc: \nSubject: Epstein \nDate: Sat, 10 Aug 2019 21:14:54 +0"
+      },
+      {
+        "name": "Supervisory Special",
+        "role": "extracted",
+        "context": "may need from SDNY. \nThanks, \nSupervisory Special Agent \nFBI/NYPD \nViolent Crim"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "sory Special Agent \nFBI/NYPD \nViolent Crimes \nTask Force \nOn Aug 10, 2019"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "nt \nFBI/NYPD \nViolent Crimes \nTask Force \nOn Aug 10, 2019 4:50 PM, \"\n)"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "Violent Crimes \nTask Force \nOn Aug 10, 2019 4:50 PM, \"\n)\" wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.275Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00018381",
+    "filename": "EFTA00018381.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018381.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: exhibit 11 \nDate: Fri, 19 Mar 2021 16:59:01 +0000 \nAttachments: ExhibiLl liProposed_Redactionsfer Order).pdf \nHe — yes, sent it last night) \nFrom: \nSent: Fnda , March 19, 2021 12:52 PM \nTo: \nSubject: exhibit 11 \nHi -  no rush, just let me know when you think you can send me the newly redacted exhibit 11. Thanksl \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00018381",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Redactionsfer Order",
+        "role": "extracted",
+        "context": "achments: ExhibiLl liProposed_Redactionsfer Order).pdf \nHe — yes, sent it last"
+      },
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "he newly redacted exhibit 11. Thanksl \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "nksl \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-19",
+        "event": "March 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.796Z"
+}

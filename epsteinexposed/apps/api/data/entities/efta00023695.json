@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00023695",
+    "filename": "EFTA00023695.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023695.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio!. Mdlo Building \nOctober 2, 2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nent \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinent to the following inmate: \n• \nGhislaine Maxwell: 02879-509 \nPlease allow her access to the materials enclosed. \nby: \nEnclosure \nVery truly \nyours, \nAUDREY \nSTRAUSS \nActing United States \nAttorney \nAssistant United States Attorneys \nEFTA00023695",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "litan Detention Center \nent \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinen"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio!. Mdl"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio!. Mdlo Building \nOctober 2, 2"
+      },
+      {
+        "name": "Mdlo Building",
+        "role": "extracted",
+        "context": "ict of New York \nThe Silvio!. Mdlo Building \nOctober 2, 2020 \nBY FEDERAL"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nent \nRe: United State"
+      },
+      {
+        "name": "Enclosure \nVery",
+        "role": "extracted",
+        "context": "the materials enclosed. \nby: \nEnclosure \nVery truly \nyours, \nAUDREY \nSTRAUS"
+      },
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "uly \nyours, \nAUDREY \nSTRAUSS \nActing United States \nAttorney \nAssistant U"
+      },
+      {
+        "name": "States \nAttorney",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nActing United States \nAttorney \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ting United States \nAttorney \nAssistant United States Attorneys \nEFTA0002369"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "s \nAttorney \nAssistant United States Attorneys \nEFTA00023695"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-02",
+        "event": "October 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.417Z"
+}

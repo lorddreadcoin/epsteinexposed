@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00013913",
+    "filename": "EFTA00013913.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013913.pdf",
+    "text": "\n\nFrom: \nTo: Jack Goldber• er \nCc \nBcc \nSubject: Jeffrey Epstein \nDate: Mon, 07 Jul 2008 14:52:50 +0000 \nImportance: High \nPriority: Urgent \nDear Jack: \nSpecial Agent coded me that I  failed to include one of our identified victims. She is still a \nminor, and her initials ar \nPlease let me know when you are available, and I will provide you with the revised list. I would like to receive \nthe signed notification by tomorrow so that I can begin distributing them to the victims. \nThank you. \nAssistant U.S. Attorney \nPhone \nFax \nEFTA00013913",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: Jack Goldber• er \nCc \nBcc \nSubject: Jeffrey Epstein \nDate: Mon, 07 Jul 2008 14:52:50 +0000 \nImportanc"
+      },
+      {
+        "name": "Jack Goldber",
+        "role": "extracted",
+        "context": "From: \nTo: Jack Goldber• er \nCc \nBcc \nSubject: Jeffre"
+      },
+      {
+        "name": "Cc \nBcc",
+        "role": "extracted",
+        "context": "From: \nTo: Jack Goldber• er \nCc \nBcc \nSubject: Jeffrey Epstein \nDa"
+      },
+      {
+        "name": "High \nPriority",
+        "role": "extracted",
+        "context": "8 14:52:50 +0000 \nImportance: High \nPriority: Urgent \nDear Jack: \nSpecial"
+      },
+      {
+        "name": "Urgent \nDear",
+        "role": "extracted",
+        "context": "Importance: High \nPriority: Urgent \nDear Jack: \nSpecial Agent coded me"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "Priority: Urgent \nDear Jack: \nSpecial Agent coded me that I  failed to in"
+      },
+      {
+        "name": "Attorney \nPhone",
+        "role": "extracted",
+        "context": ". \nThank you. \nAssistant U.S. Attorney \nPhone \nFax \nEFTA00013913"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.723Z"
+}

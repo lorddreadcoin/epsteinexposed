@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00018757",
+    "filename": "EFTA00018757.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018757.pdf",
+    "text": "\n\nFrom: \n\" aNIMIE> \nTo:' \" ' \nCc: \n\" aNIMIE> \n(USANYS)\" \nSubject: Memo to File re Efforts to Identify Interviews during Florida Investigation \nDate: Wed, 29 Sep 2021 22:24:08 +0000 \nTeam, \nAs discussed, below is a summary of the efforts we have taken to learn how many times was \ninterviewed during the Florida investigation and to gather any record of such interview(s): \n•  AUSAs reviewed scans of full Florida FBI file on Relativity. From that review, we identified handwritten notes and \n302 reflecting a single interview occurring on or about August 7, 2007 with Florida FBI agents. \n•  AUSAs and paralegals reviewed scans of full SDFL file on Relativity. From that review, we identified no record of any \nadditional interviews with la. \n•  AUSAs conducted a keyword search of AUSA email inbox, which included the search terms \"Jane Doe,\" \na,\" and a\". From that review, we identified no record of any additional interviews with \n•  AUSAs asked how many times she recalled being interviewed by the FBI in Florida. indicated \nthat she could not recall whether she met with the Florida agents once or twice. AUSatook notes \nmemorializing that statement. \n•  AUSAs asked SA how many times she recalled interviewing could not \nrecall specifically whether was interviewed any additional times after the August 7, 2007 interview. \nindicated that follow-up interviews may not have been documented unless a witness made a new or \ndifferent statement during the interview(s). AUSAC took notes memorializing that statement. \n•  AUSA emailed her contact who had facilitated SDNY's review of the SDFL Epstein file to ask whether SDFL is \naware of any additional interviews conducted with AUSA has not yet heard back. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00018757",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Identify Interviews",
+        "role": "extracted",
+        "context": "t: Memo to File re Efforts to Identify Interviews during Florida Investigation"
+      },
+      {
+        "name": "Florida Investigation",
+        "role": "extracted",
+        "context": "to Identify Interviews during Florida Investigation \nDate: Wed, 29 Sep 2021 22:24"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "ch included the search terms \"Jane Doe,\" \na,\" and a\". From that revi"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "AUSA has not yet heard back. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "heard back. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-08-07",
+        "event": "August 7, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.626Z"
+}

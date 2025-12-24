@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00023467",
+    "filename": "EFTA00023467.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023467.pdf",
+    "text": "\n\nFrom: \"a' \nTo: \nCc: \nSubject: ESI exhibits \nDate: Tue, 28 Sep 2021 16:05:24 +0000 \nImportance: Normal \nAttachments: Select ESI GX.zip \nNot sure if we'll have time to get to this during out meeting later, but the team wanted to talk to you about some of the \nESI exhibits we've marked as potential trial exhibits. They're attached. These items were found on a forensic image of a \ncomputer registered to \"gmax,\" and the evidence would show that this is a clone of a computer in the Palm Beach house \nin 2005, which was taken by private investigators working for Epstein. The FBI found the cloned drives in Epstein's NYC \ntownhouse in 2019. \nWe are considering whether any of these exhibits should be offered at trial under Rule 404(b). If we don't get to this \nduring our meeting today, we can find another time to talk. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00023467",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 16:05:24 +0000 \nImportance: Normal \nAttachments: Select ESI GX.zip \nNot sure"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "a clone of a computer in the Palm Beach house \nin 2005, which was tak"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "other time to talk. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "k. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00023467"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.019Z"
+}

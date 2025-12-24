@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013196",
+    "filename": "EFTA00013196.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013196.pdf",
+    "text": "\n\nFrom: '  \n„cl \nTo: \"a \n(USANYS)\", \" \n(USANYS)\" \nCc: a  (USANYS)\" \nSubject: RE: Call tomorrow re Maxwell \nDate: Sun, 25 Oct 2020 18:27:16 +0000 \nAttachments: 2020.10.23,_ GM_defense_response_ to_ Government_ letter_ re_ other agency_files.pdf \nThanks very much, I'll send a calendar invite for 2pm shortly. \nAttached is their Friday evening letter. \nFrom: (USANYS) \nSent: Sunday, October 25, 2020 2:05 PM \nTo: (USANYS) \nCc: \n(USANYS)\nSubject: Re: Call tomorrow re Maxwell \n>; \n2 is good for me. apologies if I missed it, but would you mind circulating the letter? Thanks. \nOn Oct 25, 2020, at 2:03 PM, (USANYS) c> wrote: \nYes. Subject to availability would 11 or 2 work? \nSent from my iPhone \nOn Oct 25, 2020, at 1:39 PM, \nChiefs, \n< \n> \nwrote: \n>; \nWould you be available tomorrow for a call with the Maxwell team? We'd like to update you on discovery and discuss \ndefense's Friday evening letter. \nThanks, \nEFTA00013196",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Call tomorrow re Maxwell \nDate: Sun, 25 Oct 2020 18:27:16 +0"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "culating the letter? Thanks. \nOn Oct 25, 2020, at 2:03 PM, (USANYS"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "11 or 2 work? \nSent from my iPhone \nOn Oct 25, 2020, at 1:39 PM, \nCh"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-25",
+        "event": "October 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.057Z"
+}

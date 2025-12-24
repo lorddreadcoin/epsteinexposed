@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00010043",
+    "filename": "EFTA00010043.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010043.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Outside juror research \nDate: Wed, 17 Nov 2021 04:33:58 +0000 \nAttachments: 2021.11.16_US_v_Maxwell Jurors_Proceeding_to_VD-outsidejesearch_&_VD_notes.xlsx \nHi all, \nAttached please find the completed research on the next 40 jurors and typed-up VD notes from -nd me. \nGreen highlight indicates starting juror #117 and the 40th juror is highlighted in yellow. \nSaved here on the Shared as well. \nBest, \nFrom: \nSent: Tuesday, November 16, 2021 7:19 PM \nSubject: RE: Outside juror research \nf you could please get through the next 40 jurors tonight so the team has whatever research you can \nfind for voir dire tomorrow, that would be great. Thank you so much! \nSubject: Outside juror research \nHi team, \nave been looking into the jurors proceeding to voir dire (excluding those that were struck today) online, \nwith many thanks to them. A sample of their notes is attached (which hasn't yet been corroborated by the notes I took \ntoday, which I've sent them—for example, if there's two people with the same name, my notes from today should narrow \nit down). \nCan you please let know what would be most helpful to you in advance of tomorrow (e.g., how many \njurors you want them to get through, by what time, etc.)? \nThanks, \nEFTA00010043\n\nParalegal Specialist \nU.S. Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nEFTA00010044",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Jurors",
+        "role": "extracted",
+        "context": "Attachments: 2021.11.16_US_v_Maxwell Jurors_Proceeding_to_VD-outsidejesea"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "tc.)? \nThanks, \nEFTA00010043\n\nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": ". Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nEFTA00010044"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-16",
+        "event": "November 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.163Z"
+}

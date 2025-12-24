@@ -1,0 +1,88 @@
+{
+  "document": {
+    "id": "efta00019162",
+    "filename": "EFTA00019162.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019162.pdf",
+    "text": "\n\nFrom: <O-FBI/DU-EXCHANGE ADMINISTRATIVE GROUP \n(FYDIBOHF23SPDLT)/CN-RECIPIENTS/CN=AGCJPRYO> \nTo: mathonn@jeffersoncompanies.comm <athonngjeffersoncompanies.com> \nSubject: Conference Information \nDate: Thu, 14 Apr 2011 20:00:35 +0000 \nImportance: Normal \nGood afternoon, \nAfter calling 1-800-648-8411 for general conference information, the young lady there suggested that I  email you as the \nconference coordinator. \nI  am a special agent with the Miami Division/West Palm Beach Office of the FBI. The phone number below, 561-833-7517, \nis the main office number in West Palm Beach, and Miami's office number is 305-944-9101. (The switchboard operators at \neither number can verify my identity.) \nI  am trying to locate the financial and /or investment conference that two individuals attended in New Orleans between \napproximately 1998-2000 and what hotels your conference would have used during those time periods. I  believe your \nconference may be the one I  am looking for. \nI  am trying to determine if the following two individuals attended the New Orleans Investment Conference between 1998-\n2000; \n1. Jeffrey Epstein \n2. \nAny information or assistance you could provide would be greatly appreciated. \nThank you, \nSA J. \nFRI Miami Division \n505 Hagler Dr. Ste. 500 \nWest Palm Beach, FL 33401 \n(561) \n833.7517 \n(561) 650-6951 fax \nEFTA00019162",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ans Investment Conference between 1998-\n2000; \n1. Jeffrey Epstein \n2. \nAny information or assistance you could prov"
+      },
+      {
+        "name": "Ste",
+        "role": "extracted",
+        "context": "RI Miami Division \n505 Hagler Dr. Ste. 500 \nWest Palm Beach, FL"
+      },
+      {
+        "name": "Conference Information",
+        "role": "extracted",
+        "context": "ersoncompanies.com> \nSubject: Conference Information \nDate: Thu, 14 Apr 2011 20:00"
+      },
+      {
+        "name": "Normal \nGood",
+        "role": "extracted",
+        "context": "1 20:00:35 +0000 \nImportance: Normal \nGood afternoon, \nAfter calling 1-8"
+      },
+      {
+        "name": "Miami Division",
+        "role": "extracted",
+        "context": "am a special agent with the Miami Division/West Palm Beach Office of the"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "agent with the Miami Division/West Palm Beach Office of the FBI. The"
+      },
+      {
+        "name": "Beach Office",
+        "role": "extracted",
+        "context": "the Miami Division/West Palm Beach Office of the FBI. The phone number"
+      },
+      {
+        "name": "New Orleans",
+        "role": "extracted",
+        "context": "t two individuals attended in New Orleans between \napproximately 1998-2"
+      },
+      {
+        "name": "Investment Conference",
+        "role": "extracted",
+        "context": "uals attended the New Orleans Investment Conference between 1998-\n2000; \n1. Jeffr"
+      },
+      {
+        "name": "Hagler Dr",
+        "role": "extracted",
+        "context": "A J. \nFRI Miami Division \n505 Hagler Dr. Ste. 500 \nWest Palm Beach, F"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "800-648-8411",
+      "561-833-7517",
+      "305-944-9101",
+      "(561) 650-6951"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.407Z"
+}

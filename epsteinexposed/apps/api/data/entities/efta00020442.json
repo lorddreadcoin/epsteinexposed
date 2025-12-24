@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020442",
+    "filename": "EFTA00020442.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020442.pdf",
+    "text": "\n\nSANYS)\"\n: USANYS)'n, \nFrom: USANYS)\" \nSubject: Fwd: Jeffrey Epstein, Blackmail and a Lucrative `Hot List' - The New York Times \nDate: Sun, 01 Dec 2019 23:33:57 +0000 \nWith apologies, I suppose I'm the millionth person to have sent this to you. \n> https://www.nytimes.cotn/2019/11/30/business/david-boies-pottinger-jeffrey-epstein-videos.html \nEFTA00020442",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "NYS)\"\n: USANYS)'n, \nFrom: USANYS)\" \nSubject: Fwd: Jeffrey Epstein, Blackmail and a Lucrative `Hot List' - The New Y"
+      },
+      {
+        "name": "Hot List",
+        "role": "extracted",
+        "context": "n, Blackmail and a Lucrative `Hot List' - The New York Times \nDate:"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "and a Lucrative `Hot List' - The New York Times \nDate: Sun, 01 Dec"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "ucrative `Hot List' - The New York Times \nDate: Sun, 01 Dec 2019 23:33"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.867Z"
+}

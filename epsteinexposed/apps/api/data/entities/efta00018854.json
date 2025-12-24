@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018854",
+    "filename": "EFTA00018854.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018854.pdf",
+    "text": "\n\nFrom: (USANYS)\" cz\nIMIE> \nTo:' \n\" \nSubject: draft cover letter \nDate: Thu, 07 Oct 2021 00:51:37 +0000 \nAttachments: 2021.10.X.X_Maxwell Cover Letter v1.5docx.docx \nHere is a draft cover letter. Please feel free to edit. I left a few things highlighted that I wasn't sure about. \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00018854",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Cover",
+        "role": "extracted",
+        "context": "000 \nAttachments: 2021.10.X.X_Maxwell Cover Letter v1.5docx.docx \nHere is"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ed that I wasn't sure about. \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sure about. \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.811Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032444",
+    "filename": "EFTA00032444.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032444.pdf",
+    "text": "\n\nFrom \nTo \nSubject: Epstein \nDate: Tue, 17 Sep 2019 17:38:05 +0000 \n2:30 works great. Thanks \nFBI New York \nOn Sep 17, 2019 1:04 PM wrote: \nJust tried you back —  sorry we keep missing each other. What does your afternoon look like? Would a call at 2 or 2:30 \nwork for you? Also free after 4:30 if that's better. Thanks \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nNew York \nEFTA00032444",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Epstein \nDate: Tue,"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Epstein \nDate: Tue, 17 Sep 2019 17:38:05 +0"
+      },
+      {
+        "name": "On Sep",
+        "role": "extracted",
+        "context": "great. Thanks \nFBI New York \nOn Sep 17, 2019 1:04 PM wrote: \nJust"
+      },
+      {
+        "name": "Thanks \nCo",
+        "role": "extracted",
+        "context": "after 4:30 if that's better. Thanks \nCo-Chief, Public Corruption Unit"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "t's better. Thanks \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.649Z"
+}

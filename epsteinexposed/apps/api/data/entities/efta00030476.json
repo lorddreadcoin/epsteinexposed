@@ -1,0 +1,99 @@
+{
+  "document": {
+    "id": "efta00030476",
+    "filename": "EFTA00030476.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030476.pdf",
+    "text": "\n\nU.S. Department of Justice \nFederal Bureau of Prisons \nCentral Office \n320 First St., NW \nWashington, DC 20534 \nJune 22, 2020 \nDanielle Ivory \nThe New York Times \n620 Eighth Avenue \nNew York, NY 10018 \nRe: NY Times. Inc. v. U.S. Department of Justice. et al. \nCivil No. 20-cv-833 \nFOIA Request No. 2019-05665 \nDear Ms. Ivory: \nAttached, please find the Bureau of Prisons' (BOP) release of the first set of records \nresponsive to the above captioned case and corresponding FOIA Request No. 2019-\n05665. After careful review of the first set of records, we have determined 10 pages are \navailable for release in full; 9 pages are available for release in part; 1 page is \nduplicative and 434 pages must be withheld in their entirety. Copies of the releasable \nrecords are attached hereto. \nPursuant to the Freedom of Information Act, 5 U.S.C. § 552, the records are redacted \nand/or withheld under the following exemptions: \n(b)(5) - concerns certain inter- and intra-agency communications protected by the \ndeliberative process privilege, the attorney work-product privilege, and/or the \nattorney-client privilege; \n(b)(6) - concerns material the release of which would constitute a clearly \nunwarranted invasion of the personal privacy of third parties; \n(b)(7)(A) - concerns records or information compiled for law enforcement \npurposes the release of which could reasonably be expected to interfere with \nenforcement proceedings; \n(b)(7)(B) - concerns records or information compiled for law enforcement purposes the \nrelease of which would deprive a person of a right to a fair trial or an impartial \nadjudication \n(b)(7)(C) - concerns records or information compiled for law enforcement \npurposes the release of which could reasonably be expected to constitute an \nunwarranted invasion of the personal privacy of third parties; \n(b)(7)(E) - concerns records or information compiled for law enforcement \npurposes the release of which would disclose techniques and procedures for law \nenforcement investigations or prosecutions; \n(b)(7)(F) - concerns records or information compiled for law enforcement \npurposes the release of which could reasonably be expected to endanger the life \nor personal safety of an individual. \nEFTA00030476\n\nSincerely, \n4\nceeiro-1/4_, \nEugene E. Baime \nSupervisory Attorney \nEFTA00030477",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ivory",
+        "role": "extracted",
+        "context": "Request No. 2019-05665 \nDear Ms. Ivory: \nAttached, please find t"
+      },
+      {
+        "name": "Justice \nFederal",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nFederal Bureau of Prisons \nCentral Of"
+      },
+      {
+        "name": "Prisons \nCentral",
+        "role": "extracted",
+        "context": "of Justice \nFederal Bureau of Prisons \nCentral Office \n320 First St., NW \nWa"
+      },
+      {
+        "name": "First St",
+        "role": "extracted",
+        "context": "Prisons \nCentral Office \n320 First St., NW \nWashington, DC 20534 \nJ"
+      },
+      {
+        "name": "Danielle Ivory",
+        "role": "extracted",
+        "context": "ton, DC 20534 \nJune 22, 2020 \nDanielle Ivory \nThe New York Times \n620 Eigh"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "une 22, 2020 \nDanielle Ivory \nThe New York Times \n620 Eighth Avenue"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "2020 \nDanielle Ivory \nThe New York Times \n620 Eighth Avenue \nNew York,"
+      },
+      {
+        "name": "Eighth Avenue",
+        "role": "extracted",
+        "context": "vory \nThe New York Times \n620 Eighth Avenue \nNew York, NY 10018 \nRe: NY T"
+      },
+      {
+        "name": "Civil No",
+        "role": "extracted",
+        "context": "epartment of Justice. et al. \nCivil No. 20-cv-833 \nFOIA Request No."
+      },
+      {
+        "name": "Request No",
+        "role": "extracted",
+        "context": "l. \nCivil No. 20-cv-833 \nFOIA Request No. 2019-05665 \nDear Ms. Ivory:"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "FOIA Request No. 2019-05665 \nDear Ms. Ivory: \nAttached, please fin"
+      },
+      {
+        "name": "Information Act",
+        "role": "extracted",
+        "context": ". \nPursuant to the Freedom of Information Act, 5 U.S.C. § 552, the records"
+      },
+      {
+        "name": "Baime \nSupervisory",
+        "role": "extracted",
+        "context": "y, \n4\nceeiro-1/4_, \nEugene E. Baime \nSupervisory Attorney \nEFTA00030477"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Washington, DC",
+        "type": "city"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-22",
+        "event": "June 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.947Z"
+}

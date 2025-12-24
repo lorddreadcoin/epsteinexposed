@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024989",
+    "filename": "EFTA00024989.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024989.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nSubject: RE: \nDate: Wed, 13 Jan 2021 23:45:32 +0000 \nThe Thursday and Friday times work for me. \nFrom: \nSent: Wednesday, January 13, 2021 6:21 PM \nTo: \nCc: \nSubject: RE: \nSure! They are available tomorrow at 1 and Friday at 3. Monday is MLK Day and I am not sure how that will affect their \nschedules right now. They could definitely do next Tuesday at 3:30 also. \nFrom: \nSent: Wednesday, January 13, 2021 5:54 PM \nTo: \nCc: \nSubject: \nHey —  Would you be able to help us find a time to chat with and the Brass about ?  Just chiefs \nand Brass, no team. I think we have pretty decent availability tomorrow and Friday if either works for But not \nurgent, so next week is fine, too, if that's better. \nThanks, \nChief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00024989",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Thursday",
+        "role": "extracted",
+        "context": ", 13 Jan 2021 23:45:32 +0000 \nThe Thursday and Friday times work for me."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "at's better. \nThanks, \nChief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000249"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-13",
+        "event": "January 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.245Z"
+}

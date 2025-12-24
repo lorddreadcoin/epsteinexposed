@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018615",
+    "filename": "EFTA00018615.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018615.pdf",
+    "text": "\n\nSubject: RE: Application for Search Warrant \nDate: Tue. 27 Oct \n2020 19:36:43 +0000 \nAttachments: \nApologies, attached please find the flattened pdfs. I also realized that the versions I submitted this morning included \nJudge Nathan's name instead of Judge Wang's name. I have corrected the documents to reflect that this application is \nbeing submitted to Judge Wang. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nSent: Tuesday, October 27, 2020 1:52 PM \nSubject: RE: Application for Search Warrant \nPlease flatten your PDFs and resend for the Judge to review. \nThank you \nSent: Tuesday, October 27, 2020 9:18 AM \nSubject: Application for Search Warrant \nCAUTION - EXTERNAL: \nGood morning, \nAttached for Judge Wang's consideration please find an application for the issuance of a search warrant, the four exhibits \nreferenced in that application, and a proposed search warrant. \nEFTA00018615\n\nThe agent is available this afternoon and tomorrow morning to swear out the warrant. I can be reached by email or on \nmy cellphone at \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nSt. Andrew's Plaza \nNew York, NY 10007 \nCAUTION - EXTERNAL EMAIL: This email originated outside the Judiciary. Exercise caution when opening \nattachments or clicking on links. \nEFTA00018616",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "Subject: RE: Application for Search Warrant \nDate: Tue. 27 Oct \n2020 19:3"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "mitted this morning included \nJudge Nathan's name instead of Judge Wang'"
+      },
+      {
+        "name": "Judge Wang",
+        "role": "extracted",
+        "context": "udge Nathan's name instead of Judge Wang's name. I have corrected the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "d to Judge Wang. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nSent: Tuesday"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-27",
+        "event": "October 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.293Z"
+}

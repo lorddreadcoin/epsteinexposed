@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00020910",
+    "filename": "EFTA00020910.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020910.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: two communications from individuals who may have JE information \nDate: Thu, 10 Oct 2019 22:31:49 +0000 \nAttachments: 9178914696_20191010_153452.wav \nConsistent with passing along all tips that somehow come to us, attached please find a voicemail I received earlier today. \nSeparately, yesterday I got a call from an attorney named Blair Fellows, who said that she has a client named Joan Werth who has \ninformation about Epstein--I didn't get into the substance (because no witness) and said I  would pass along her contact information, \nwhich is \nthanks, \n Original Message \nFrom: postmaster®voip.usa.doj.gov <postrnaster@voip.usa.doj.gov> \nSent: Thursday, October 10, 2019 15:35 \nTo: \nCc: \nSubject: Voice Message Attached from 9178914696 - \nTime: Oct 10, 2019 3:34:52 PM \nClick attachment to listen to Voice Message \nEFTA00020910",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Blair Fellows",
+        "role": "extracted",
+        "context": "a call from an attorney named Blair Fellows, who said that she has a clie"
+      },
+      {
+        "name": "Joan Werth",
+        "role": "extracted",
+        "context": "d that she has a client named Joan Werth who has \ninformation about Ep"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "rmation, \nwhich is \nthanks, \n Original Message \nFrom: postmaster®voip.usa.do"
+      },
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "019 15:35 \nTo: \nCc: \nSubject: Voice Message Attached from 9178914696 - \nT"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-10",
+        "event": "October 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "9178914696"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.601Z"
+}

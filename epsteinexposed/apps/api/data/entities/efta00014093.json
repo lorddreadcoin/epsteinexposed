@@ -1,0 +1,92 @@
+{
+  "document": {
+    "id": "efta00014093",
+    "filename": "EFTA00014093.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014093.pdf",
+    "text": "\n\nFrom: \"=)\" <IME>\nTo: (USAFLS)\"\nSubject: Re: Epstein Investigation \nDate: Mon, 07 Jul 2008 15:46:24 +0000 \nImportance: Normal \nNo luck yet getting in touch with M. mother. \n---- Original Message \nFrom: (USAFLS) <S> \nTo: \nSent: Fri Jul 04 11:29:08 2008 \nSubject: RE: Epstein Investigation \nStrange, huh? Did you get to go away? Have a great weekend. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message--\nFrom: \nSent: Friday, July 04, 2008 11:26 AM \nTo: (USAFLS) \nSubject: Re: Epstein Investigation \nNo \n---- Original Message \nFrom: (USAFLS) \nTo: \nSent: Fri Jul 04 11:24:41 2008 \nSubject: FW: Epstein Investigation \nHi guys —  Have we ever heard of.. (below)? \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nEFTA00014093\n\nPhone \nFax \nFrom: Ted Leopold [mailto: \nSent: Thursday, July 03, 2008 4:25 PM \nTo: (USAFLS) \nCc: Spencer Kuvin \nSubject: RE: Epstein Investigation \nOur two client names are: \n2. \nif you need any other information please let me know. \nTed \n--Original Message--\nFrom: (USAFLS) [math° \nSent: Monday, June 30, 2008 5:00 PM \nTo: Ted Leopold \nSubject: Epstein Investigation \nDear Ted: Here is my e-mail address and contact information. \nThank you for your assistance. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nEFTA00014094\n\nFax \nEFTA00014095",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "E>\nTo: (USAFLS)\"\nSubject: Re: Epstein Investigation \nDate: Mon, 07 Jul 2008 15:46"
+      },
+      {
+        "name": "Normal \nNo",
+        "role": "extracted",
+        "context": "8 15:46:24 +0000 \nImportance: Normal \nNo luck yet getting in touch wit"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "n touch with M. mother. \n---- Original Message \nFrom: (USAFLS) <S> \nTo: \nSen"
+      },
+      {
+        "name": "Fri Jul",
+        "role": "extracted",
+        "context": "rom: (USAFLS) <S> \nTo: \nSent: Fri Jul 04 11:29:08 2008 \nSubject: RE"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "reat weekend. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Or"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message--\nFrom:"
+      },
+      {
+        "name": "Ted Leopold",
+        "role": "extracted",
+        "context": "TA00014093\n\nPhone \nFax \nFrom: Ted Leopold [mailto: \nSent: Thursday, Jul"
+      },
+      {
+        "name": "Spencer Kuvin",
+        "role": "extracted",
+        "context": "08 4:25 PM \nTo: (USAFLS) \nCc: Spencer Kuvin \nSubject: RE: Epstein Investi"
+      },
+      {
+        "name": "Dear Ted",
+        "role": "extracted",
+        "context": "bject: Epstein Investigation \nDear Ted: Here is my e-mail address an"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-04",
+        "event": "July 04, 2008"
+      },
+      {
+        "date": "2008-07-03",
+        "event": "July 03, 2008"
+      },
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.107Z"
+}

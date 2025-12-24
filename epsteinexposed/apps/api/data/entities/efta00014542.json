@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014542",
+    "filename": "EFTA00014542.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014542.pdf",
+    "text": "\n\nthank you, \nFrom: \nTo: \nCc \n)11\n)11\nSubject: RE: Epstein - Scheduling Call \nDate: Mon, 29 Jul 2019 23:11:26 +0000 \nThank you, MI. \nSent: on a  ,  u , 5:41 PM \nTo: \nCc: \nSubject: RE: Epstein - Scheduling Call \nthat works for us, thanks. Also, sepa the return of property, you should feel free to contact Special \ndirectly, her number i or alternatively I expect be in court on Wednesday so you \ndirectly then. \nFrom: \nSent: Monday, July 29, 2019 16:59 \nTo: \nCc \nSubject: Epstein - Scheduling Call \nDear all — \nCan we plan on a call regarding Epstein scheduling issues for Wed morning at 9 am using the following dial in: \nEFTA00014542\n\nEFTA00014543",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scheduling Call",
+        "role": "extracted",
+        "context": "11\n)11\nSubject: RE: Epstein - Scheduling Call \nDate: Mon, 29 Jul 2019 23:11"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "ay, July 29, 2019 16:59 \nTo: \nCc \nSubject: Epstein - Scheduling Call \nD"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-29",
+        "event": "July 29, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.060Z"
+}

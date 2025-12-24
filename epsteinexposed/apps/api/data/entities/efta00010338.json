@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00010338",
+    "filename": "EFTA00010338.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010338.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Subpoena Ghislaine Maxwell \nDate: Wed, 10 Jun 2020 21:38:34 +0000 \nAttachments: Nothing_Found_Letter.pdf \nPlease see response regarding subpoena for Ghislaine Maxwell. Please let me know if you have any questions. Thank \nyou. \nLegal Process \nSpecialist I \nJudicial \nCompliance \nUMB Bank 1010 Grand Ave I  Kansas City, MO 64106 \n.u) \n9 \nOffice \ndint on \nIN \nNOTICE: This electronic mail message and any attached files are confidential. The information is exclusively \nfor the use of the individual or entity intended as the recipient. If you are not the intended recipient, any use, \ncopying, printing, reviewing, retention, disclosure, distribution or forwarding of the message or any attached file \nis not authorized and is strictly prohibited. If you have received this electronic mail message in error, please \nadvise the sender by reply electronic mail immediately and permanently delete the original transmission, any \nattachments and any copies of this message from your computer system. Thank you. \nEFTA00010338",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Subpoena Ghislaine Maxwell \nDate: Wed, 10 Jun 2020 21:38:34 +0000 \nAttachmen"
+      },
+      {
+        "name": "Subpoena Ghislaine",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Subpoena Ghislaine Maxwell \nDate: Wed, 10 Jun 20"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Subject: Subpoena Ghislaine Maxwell \nDate: Wed, 10 Jun 2020 21:38:34 +0"
+      },
+      {
+        "name": "Legal Process",
+        "role": "extracted",
+        "context": "e any questions. Thank \nyou. \nLegal Process \nSpecialist I \nJudicial \nComp"
+      },
+      {
+        "name": "Judicial \nCompliance",
+        "role": "extracted",
+        "context": "Legal Process \nSpecialist I \nJudicial \nCompliance \nUMB Bank 1010 Grand Ave I  K"
+      },
+      {
+        "name": "Grand Ave",
+        "role": "extracted",
+        "context": "al \nCompliance \nUMB Bank 1010 Grand Ave I  Kansas City, MO 64106 \n.u)"
+      },
+      {
+        "name": "Kansas City",
+        "role": "extracted",
+        "context": "e \nUMB Bank 1010 Grand Ave I  Kansas City, MO 64106 \n.u) \n9 \nOffice \ndi"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Kansas City, MO",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.762Z"
+}

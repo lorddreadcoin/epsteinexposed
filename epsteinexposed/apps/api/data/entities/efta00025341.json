@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00025341",
+    "filename": "EFTA00025341.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025341.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \n)\"  \nSubject: RE: New York search warrant materials \nDate: Mon, 30 Sep 2019 19:26:43 +0000 \n(NY) (FBI)\" C \nIf you could give me a call, that would be great. At my desk till 4. Thanks! \nSenior Forensic Examiner \ncell \ndesk \nOn Sep 30, \n2019 3:16 PM, ' wrote: \nPerfect, thank you! =, if we could please get a list of what CART received, and what's been processed and sent \nback, I think that will get us started — and happy to talk via phone if that's easier. Thanks again. \nFrom: . (NY) (FBI) <> \nSent: Monday, September 30, 2019 15:13 \nTo: \n<MMe \nCc:\nI. (NY) (FBI) <> \nSubject: New York search warrant materials \nHey M., \nI've copied here who has handled all of the Epstein evidence that was sent to CART. He should be able to \nanswer your questions regarding what he's processed. \nOn Sep 30, \n2019 1:57 PM, '1 \nM \nwrote: \nThe taint team here apparently received materials from the search of the New York house but it's way fewer \ndocuments than we would have expected. Can you please let us know exactly how many electronic devices (phones, \ncomputers, hard drives, thumb drives, and/or discs) were sent to CART for processing, and how many were in fact \nprocessed and sent back to us? Or if it's easier to just put us in touch with the CART people directly, that's fine too. \nMy understanding was that they were processing the materials in the attached, which appears to list approximately \n38 computers and/or electronic storage devices seized along with an additional approximately 55 CDs. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00025341",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Senior Forensic",
+        "role": "extracted",
+        "context": ". At my desk till 4. Thanks! \nSenior Forensic Examiner \ncell \ndesk \nOn Sep"
+      },
+      {
+        "name": "On Sep",
+        "role": "extracted",
+        "context": "orensic Examiner \ncell \ndesk \nOn Sep 30, \n2019 3:16 PM, ' wrote:"
+      },
+      {
+        "name": "Me \nCc",
+        "role": "extracted",
+        "context": "tember 30, 2019 15:13 \nTo: \n<MMe \nCc:\nI. (NY) (FBI) <> \nSubject: N"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "CDs. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-30",
+        "event": "September 30, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.976Z"
+}

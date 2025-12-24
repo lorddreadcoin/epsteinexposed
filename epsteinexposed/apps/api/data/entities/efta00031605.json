@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031605",
+    "filename": "EFTA00031605.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031605.pdf",
+    "text": "\n\nFrom: \" \nTo: , \nCc:  I II I \nSubject: Judge Nathan Order re Maxwell \nDate: Thu, 29 Apr 2021 15:18:45 +0000 \nAttachments: 2021.04.29_AJN_Order_re_MDC.pdf \nHi all, \nAttached please find an order that Judge Nathan just issued on the docket in Maxwell's case, which directs the MDC to \ntake certain steps by April 30, 2021. \nAs always, we are happy to have a  call to discuss if that would be useful. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00031605",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "To: , \nCc:  I II I \nSubject: Judge Nathan Order re Maxwell \nDate: Thu,"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "ubject: Judge Nathan Order re Maxwell \nDate: Thu, 29 Apr 2021 15:18:45 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "that would be useful. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ful. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00031605"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-30",
+        "event": "April 30, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.506Z"
+}

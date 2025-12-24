@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00014028",
+    "filename": "EFTA00014028.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014028.pdf",
+    "text": "\n\nFrom: ' . (FBI)\"  \nTo: '   (USAFLS)\"  \nSubject: Re: \nJeffrey Epstein \nDate: Mon, 29 Dec 2008 22:20:59 +0000 \nImportance: Normal \nc \nis available as well for our meeting on fri. As it stands now we r coming to u. Nothing re Epstein. \nFrom: \n(USAFLS) \nTo: ROBERT C. JOSEFSBERG \n; \nKATHERINE W. EZELL •  Brad Edwards • \nCc: \n(USAFLS) \nSent: \nMon Dec 29 17:16:03 2008 \nSubject: _Jeffrey Epstein \nDear Messrs. Josefsberg, Edwards, Scarola, Herman, Kuvin, Dutko, and Willits and Ms. Ezell: \nMs. Ezell contacted me to inquire whether Mr. Epstein will be told of the names or addresses of any victims who \nask to be added to Mr. Epstein's \"exclusionary zones\" on his GPS system. Captain Sleeth from the Palm Beach \nSheriff's Office informs me that the information will remain confidential and will not be provided to Mr. Epstein. \nCaptain Sleeth has asked that all such requests go through me rather than directly to him. If any of your clients \nwould like to have their work, school, or home addresses added to the list of exclusionary zones, please let me \nknow. \nThank you. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014028",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "m: ' . (FBI)\"  \nTo: '   (USAFLS)\"  \nSubject: Re: \nJeffrey Epstein \nDate: Mon, 29 Dec 2008 22:20:59 +0000 \nImportanc"
+      },
+      {
+        "name": "Ezell",
+        "role": "extracted",
+        "context": "Kuvin, Dutko, and Willits and Ms. Ezell: \nMs. Ezell contacted me"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ntacted me to inquire whether Mr. Epstein will be told of the names"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "ERG \n; \nKATHERINE W. EZELL •  Brad Edwards • \nCc: \n(USAFLS) \nSent: \nMon"
+      },
+      {
+        "name": "Mon Dec",
+        "role": "extracted",
+        "context": "ards • \nCc: \n(USAFLS) \nSent: \nMon Dec 29 17:16:03 2008 \nSubject: _J"
+      },
+      {
+        "name": "Dear Messrs",
+        "role": "extracted",
+        "context": "8 \nSubject: _Jeffrey Epstein \nDear Messrs. Josefsberg, Edwards, Scarola"
+      },
+      {
+        "name": "Captain Sleeth",
+        "role": "extracted",
+        "context": "ary zones\" on his GPS system. Captain Sleeth from the Palm Beach \nSheriff'"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "stem. Captain Sleeth from the Palm Beach \nSheriff's Office informs me"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": ". \nThank you. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014028"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.969Z"
+}

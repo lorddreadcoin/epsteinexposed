@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00023415",
+    "filename": "EFTA00023415.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023415.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Second Dau rt Town \nDate: Mon, 15 Nov 2021 04:41:26 +0000 \nAttachments: Motion_to_preclude_Hall_et_al_v3.docx \nHi \nChiefs, \nI hope you had a nice weekend! Attached is our second Doubert motion for your review. It is due tomorrow. \n-in\nhanks \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00023415",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Second Dau",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Second Dau rt Town \nDate: Mon, 15 Nov 20"
+      },
+      {
+        "name": "Town \nDate",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Second Dau rt Town \nDate: Mon, 15 Nov 2021 04:41:26 +0"
+      },
+      {
+        "name": "Hi \nChiefs",
+        "role": "extracted",
+        "context": "_preclude_Hall_et_al_v3.docx \nHi \nChiefs, \nI hope you had a nice weeke"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "is due tomorrow. \n-in\nhanks \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "-in\nhanks \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.917Z"
+}

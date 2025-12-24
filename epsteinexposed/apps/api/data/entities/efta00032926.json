@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00032926",
+    "filename": "EFTA00032926.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032926.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Update \nDate: The, 27 Aug 2019 18:49:44 +0000 \nAttachments: \nJeffreyEpstein_update_8.26.19.docx \nFYI \nFrom• \nSent: \nTo: St \nSubject: FW: Update \nFrom: \nSent: Tuesday, August 27, 2019 10:24 AM \nTo: \nSubject: Update \nThis went up this morning \nBest Regards, \nMike \nSpecial Agent in Charge \nCriminal Division \nFBI New \nYork Office \n(C \nEFTA00032926",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Update \nDate: The, 27 Aug 2019 18:49:44 +0"
+      },
+      {
+        "name": "St \nSubject",
+        "role": "extracted",
+        "context": ".docx \nFYI \nFrom• \nSent: \nTo: St \nSubject: FW: Update \nFrom: \nSent: Tue"
+      },
+      {
+        "name": "Update \nFrom",
+        "role": "extracted",
+        "context": "Sent: \nTo: St \nSubject: FW: Update \nFrom: \nSent: Tuesday, August 27, 2"
+      },
+      {
+        "name": "Update \nThis",
+        "role": "extracted",
+        "context": "2019 10:24 AM \nTo: \nSubject: Update \nThis went up this morning \nBest Re"
+      },
+      {
+        "name": "Best Regards",
+        "role": "extracted",
+        "context": "e \nThis went up this morning \nBest Regards, \nMike \nSpecial Agent in Char"
+      },
+      {
+        "name": "Mike \nSpecial",
+        "role": "extracted",
+        "context": "this morning \nBest Regards, \nMike \nSpecial Agent in Charge \nCriminal Div"
+      },
+      {
+        "name": "Charge \nCriminal",
+        "role": "extracted",
+        "context": "ards, \nMike \nSpecial Agent in Charge \nCriminal Division \nFBI New \nYork Offic"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "harge \nCriminal Division \nFBI New \nYork Office \n(C \nEFTA00032926"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-27",
+        "event": "August 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.806Z"
+}

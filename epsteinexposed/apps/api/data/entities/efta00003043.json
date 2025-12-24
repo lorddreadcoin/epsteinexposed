@@ -1,0 +1,115 @@
+{
+  "document": {
+    "id": "efta00003043",
+    "filename": "EFTA00003043.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003043.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nI \nhomes, \nVI \n00802 \nTell \nFax: \n.\" \nDate: \n03/22/18 \nEmployee \nName: \nfi\nv\nrilare \nLot;da! \n• \nEmergency \nContact \nForm \nStart \nDate: \n03/22/18 \nDate \nof \nBirth: \nE\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \nergency \nInformation: \nNone \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype \nunspecified \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDodglas \nDoctor's \nName: \nDodglas \nPhone: \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact \n: \nRelationship \nWife \n..Memo \nRelationship \nIn \nLaw \nPhone \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003043",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nI"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nI \nhomes, \nVI \n008"
+      },
+      {
+        "name": "Tell \nFax",
+        "role": "extracted",
+        "context": "3 \nSt. \nI \nhomes, \nVI \n00802 \nTell \nFax: \n.\" \nDate: \n03/22/18 \nEmploy"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "l \nFax: \n.\" \nDate: \n03/22/18 \nEmployee \nName: \nfi\nv\nrilare \nLot;da! \n• \nEm"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "me: \nfi\nv\nrilare \nLot;da! \n• \nEmergency \nContact \nForm \nStart \nDate: \n03/22/18"
+      },
+      {
+        "name": "Form \nStart",
+        "role": "extracted",
+        "context": "t;da! \n• \nEmergency \nContact \nForm \nStart \nDate: \n03/22/18 \nDate \nof \nB"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "Date \nof \nBirth: \nE\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \nergency"
+      },
+      {
+        "name": "Married \nLicense",
+        "role": "extracted",
+        "context": "E\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \nergency \nInformation: \nNone"
+      },
+      {
+        "name": "None \nAllergies",
+        "role": "extracted",
+        "context": "ense: \nergency \nInformation: \nNone \nAllergies \nor \nHealth \nConcerns: \nBlood"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "mation: \nNone \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype \nunspecified \nB"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "s: \nBlood \ntype \nunspecified \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "e \nunspecified \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDodglas \nD"
+      },
+      {
+        "name": "Dodglas \nDoctor",
+        "role": "extracted",
+        "context": "Medication: \nDoctor's \nName: \nDodglas \nDoctor's \nName: \nDodglas \nPhone: \nPh"
+      },
+      {
+        "name": "Dodglas \nPhone",
+        "role": "extracted",
+        "context": "e: \nDodglas \nDoctor's \nName: \nDodglas \nPhone: \nPhone: \nIn \ncase \nof \nan \nE"
+      },
+      {
+        "name": "Relationship \nWife",
+        "role": "extracted",
+        "context": "ergency, \nPlease \ncontact \n: \nRelationship \nWife \n..Memo \nRelationship \nIn \nLa"
+      },
+      {
+        "name": "Memo \nRelationship",
+        "role": "extracted",
+        "context": "act \n: \nRelationship \nWife \n..Memo \nRelationship \nIn \nLaw \nPhone \nPhone \nThis"
+      },
+      {
+        "name": "In \nLaw",
+        "role": "extracted",
+        "context": "Wife \n..Memo \nRelationship \nIn \nLaw \nPhone \nPhone \nThis \nInformat"
+      },
+      {
+        "name": "Phone \nPhone",
+        "role": "extracted",
+        "context": ".Memo \nRelationship \nIn \nLaw \nPhone \nPhone \nThis \nInformation \nis \nfor"
+      },
+      {
+        "name": "This \nInformation",
+        "role": "extracted",
+        "context": "nship \nIn \nLaw \nPhone \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.585Z"
+}

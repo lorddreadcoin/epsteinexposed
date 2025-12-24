@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00031950",
+    "filename": "EFTA00031950.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031950.pdf",
+    "text": "\n\nU.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern District of \nNew York \nThe Silvio .1 Motto Building \nOne Saint Andrew's Maw \nNew York, New York 10007 \nDecember 3, 2020 \nBY FEDERAL \nEXPRESS \nMDC—Metropolitan \nDetention Center \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States \nv. Ghislaine Maxwell, 20 \nCr. 330 (AJN) \nEnclosed is discovery \npertinent to the following \ninmate: \n• Ghislaine \nMaxwell: 02879-509 \nPlease allow her access to \nthe materials enclosed. \nVery truly yours, \nAUDREY STRAUSS \nActing United \nStates Attorney \nby: \nAssistant United States \nAttorneys \nEnclosure \nEFTA00031950",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States \nv. Ghislaine Maxwell, 20 \nCr. 330 (AJN) \nEnclosed is discovery \npertin"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "epartment of \nJustice \nUnited States Attorney \nSouthern District of \nNew Yo"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of \nNew York \nThe Silvio .1 M"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "uthern District of \nNew York \nThe Silvio .1 Motto Building \nOne Saint"
+      },
+      {
+        "name": "Motto Building",
+        "role": "extracted",
+        "context": "t of \nNew York \nThe Silvio .1 Motto Building \nOne Saint Andrew's Maw \nNew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Silvio .1 Motto Building \nOne Saint Andrew's Maw \nNew York, New Y"
+      },
+      {
+        "name": "Maw \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Maw \nNew York, New York 10007 \nDecembe"
+      },
+      {
+        "name": "Metropolitan \nDetention",
+        "role": "extracted",
+        "context": "020 \nBY FEDERAL \nEXPRESS \nMDC—Metropolitan \nDetention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "MDC—Metropolitan \nDetention Center \nLegal Department \n80 29'h Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "to the following \ninmate: \n• Ghislaine \nMaxwell: 02879-509 \nPlease allow her"
+      },
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "truly yours, \nAUDREY STRAUSS \nActing United \nStates Attorney \nby: \nAssist"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "United \nStates Attorney \nby: \nAssistant United States \nAttorneys \nEnclosure"
+      },
+      {
+        "name": "States \nAttorneys",
+        "role": "extracted",
+        "context": "torney \nby: \nAssistant United States \nAttorneys \nEnclosure \nEFTA00031950"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-03",
+        "event": "December 3, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.282Z"
+}

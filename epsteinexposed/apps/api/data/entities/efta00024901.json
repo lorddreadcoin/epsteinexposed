@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024901",
+    "filename": "EFTA00024901.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024901.pdf",
+    "text": "\n\nFrom: \n<Ma \nTo: \n(USANYS)\" alla> \nCc:' \n\" \n, ' \nSANYS \" \nH \nSubject: \nFact Witness Travel \nRequest for Trial \nDate: Fri, 19 Nov \n2021 18:16:33 +0000 \nAttachments: \n_Fact_Witness_Travel_Request_(for_trial).docx \nHi S \nAttached is the fact witness \nrequest \nform for \nThanks, \nand IME. I'll give you a \ncall shortly to discuss. \nEFTA00024901",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ma \nTo",
+        "role": "extracted",
+        "context": "From: \n<Ma \nTo: \n(USANYS)\" alla> \nCc:' \n\" \n,"
+      },
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "\" \n, ' \nSANYS \" \nH \nSubject: \nFact Witness Travel \nRequest for Trial \nDa"
+      },
+      {
+        "name": "Travel \nRequest",
+        "role": "extracted",
+        "context": "\" \nH \nSubject: \nFact Witness Travel \nRequest for Trial \nDate: Fri, 19 Nov"
+      },
+      {
+        "name": "Trial \nDate",
+        "role": "extracted",
+        "context": "t Witness Travel \nRequest for Trial \nDate: Fri, 19 Nov \n2021 18:16:33 +"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.070Z"
+}

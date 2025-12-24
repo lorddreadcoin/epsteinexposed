@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00009808",
+    "filename": "EFTA00009808.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009808.pdf",
+    "text": "\n\nFrom: \nCc: \nSubject: RE: Epstein FOIAs \nDate: Wed, 11 Mar 2020 13:38:05 +0000 \nAttachments: 2019.07.02_Indictment_Jeffrey_Epstein.pdf \nHIM, \nNot a  problem. I've attached the indictment. The other filings are on docket 19 Cr. 490 (RMB)— please let me know if \nyou'd like me to download anything else. Here are the materials on our website: \nhttps://www.justice.goviusao-sdny/prheffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors \nhttps://www.justice.goviusao-sdnyiprograms/victim-witness-services/united-states-v-jeffrey-epstein-19-cr-490-rmb \nhttps://www.justice.goviusao-sdny/pristatement-manhattan-us-attorney-death-defendant-jeffrey-epstein \nAs for other items in our possession that are public, we have both a selection of filings from civil cases that we pulled from \npublic dockets (though I would not necessarily want to reveal which civil suits we tracked), as well as a copy of the FOIA \nproduction that FBI Palm Beach produced regarding the initial investigation. \nThanks, \nFrom \nSent: Tuesday, March 10, 2020 6:23 PM \nTo: \nSubject: Epstein FOlAs \nfurther to the little meeting we had a couple weeks ago, could you kindly pull together the Epstein press \nreleases and charges and anything else we made public? (I don't think you need to download everything from the \ndocket, tho.) \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00009808",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "As \nDate",
+        "role": "extracted",
+        "context": "Cc: \nSubject: RE: Epstein FOIAs \nDate: Wed, 11 Mar 2020 13:38:05 +0"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "the FOIA \nproduction that FBI Palm Beach produced regarding the initia"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "tial investigation. \nThanks, \nFrom \nSent: Tuesday, March 10, 2020 6:23"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "docket, tho.) \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00009808"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-03-10",
+        "event": "March 10, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.715Z"
+}

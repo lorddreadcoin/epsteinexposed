@@ -1,0 +1,61 @@
+{
+  "document": {
+    "id": "efta00013831",
+    "filename": "EFTA00013831.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013831.pdf",
+    "text": "\n\nFrom: \" \n.  (USAFLS)\" </O=USA/OU=FLS/CN=RECIPIENTS/CN> \nTo: \" \n\" <M>, \"Roy BLACK\" c> \nCc: \" (USAFLS)\" < \nSubject: Hearing with Judge Marra \nDate: Thu, 14 Aug 2008 20:21:00 +0000 \nImportance: Normal \nDear Jay and Roy: \nWe just finished our hearing with Judge Marra. He has ordered us to make the Agreement available to the \nplaintiffs in this case pursuant to a protective order limiting the disclosure to the victims and their counsel only. \nHe further has ordered that we have to make the agreement available to any other identified victim and her \nattorney, so long as they also agree to be bound by the protective order. Judge Marra stated that the plaintiffs can \nlitigate the issue of further disclosure directly with Mr. Epstein in the context of their civil suits. \nWhen I  receive the Court's order and a signed protective order, I will provide them to you. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00013831",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ther disclosure directly with Mr. Epstein in the context of their c"
+      },
+      {
+        "name": "Judge Marra",
+        "role": "extracted",
+        "context": "LS)\" < \nSubject: Hearing with Judge Marra \nDate: Thu, 14 Aug 2008 20:21"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "8 20:21:00 +0000 \nImportance: Normal \nDear Jay and Roy: \nWe just finishe"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00013831"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.537Z"
+}

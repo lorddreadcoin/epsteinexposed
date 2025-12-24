@@ -1,0 +1,103 @@
+{
+  "document": {
+    "id": "efta00019865",
+    "filename": "EFTA00019865.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019865.pdf",
+    "text": "\n\nOFFICIAL RECORD \nFD-1057 (Rcv. 5-8-10) \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: \n(U) \nEC for \nsubmission of Administrative \nSubpoena returns to case file. \nFrom: MIAMI \nMM-PB3 \nContact: \nApproved By: A/SSA \nDrafted By: \nCase ID \n#: \nDate: \n07/12/2013 \n(U) EPSTEIN, JEFFREY \nSynopsis: (U) To submit \nAdministrative Subpoena returns to case file. \nFull Investigation Initiated: 07/25/2006 \nEnclosure(s): Enclosed are the \nfollowing items: \n1. \n(U) \nPalm Beach \nCounty \nHealth Department - \nCertificate of Birth for \n2. (U) \nMetro PCS - Subscriber \nInformation \n3. (U) Bell South - Subscriber and \nToll Information \n4. \n(U) At&t - Subscriber and \nToll Information \n5. (U) T-Mobile \nUSA, Inc. \n-  Subscriber \nInformation \nDetails: \nThe following is a list of \nthe Administrative Subpoenas and the \nassociated returns which are being submitted to the case file: \n• \nPalm Beach \nCounty \nHealth Department - \nCertificate of Birth for \n• \nMetro PCS - Subscriber \nInformation \n• \nBell \nSouth - Subscriber and \nToll Information \n• \nAt&t - Subscriber and \nToll Information \n• \nT-Mobile USA, \nInc. \nSubscriber \nInformation \nUNCLASSIFIED \n461 \nEFTA00019865",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Electronic Communication",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: \n(U) \nEC for \nsubmiss"
+      },
+      {
+        "name": "Administrative \nSubpoena",
+        "role": "extracted",
+        "context": ": \n(U) \nEC for \nsubmission of Administrative \nSubpoena returns to case file. \nFrom:"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "rom: MIAMI \nMM-PB3 \nContact: \nApproved By: A/SSA \nDrafted By: \nCase ID"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "Contact: \nApproved By: A/SSA \nDrafted By: \nCase ID \n#: \nDate: \n07/12/2"
+      },
+      {
+        "name": "Administrative Subpoena",
+        "role": "extracted",
+        "context": "REY \nSynopsis: (U) To submit \nAdministrative Subpoena returns to case file. \nFull I"
+      },
+      {
+        "name": "Full Investigation",
+        "role": "extracted",
+        "context": "bpoena returns to case file. \nFull Investigation Initiated: 07/25/2006 \nEnclos"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "e \nfollowing items: \n1. \n(U) \nPalm Beach \nCounty \nHealth Department -"
+      },
+      {
+        "name": "County \nHealth",
+        "role": "extracted",
+        "context": "items: \n1. \n(U) \nPalm Beach \nCounty \nHealth Department - \nCertificate of"
+      },
+      {
+        "name": "Subscriber \nInformation",
+        "role": "extracted",
+        "context": "irth for \n2. (U) \nMetro PCS - Subscriber \nInformation \n3. (U) Bell South - Subscrib"
+      },
+      {
+        "name": "Bell South",
+        "role": "extracted",
+        "context": "bscriber \nInformation \n3. (U) Bell South - Subscriber and \nToll Inform"
+      },
+      {
+        "name": "Toll Information",
+        "role": "extracted",
+        "context": "Bell South - Subscriber and \nToll Information \n4. \n(U) At&t - Subscriber an"
+      },
+      {
+        "name": "Administrative Subpoenas",
+        "role": "extracted",
+        "context": "e following is a list of \nthe Administrative Subpoenas and the \nassociated returns w"
+      },
+      {
+        "name": "Bell \nSouth",
+        "role": "extracted",
+        "context": "- Subscriber \nInformation \n• \nBell \nSouth - Subscriber and \nToll Inform"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2013-07-12",
+        "event": "07/12/2013"
+      },
+      {
+        "date": "2006-07-25",
+        "event": "07/25/2006"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.733Z"
+}

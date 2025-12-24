@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00029154",
+    "filename": "EFTA00029154.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029154.pdf",
+    "text": "\n\nFron \nSubject: Maxwell Discovery Production from Relativity \nDate: Mon, 26 Oct 2020 22:33:27 +0000 \nThe Maxwell team has completed another round of review on Relativity. Would you please work with the vendor to get \nthe following materials from the \"Florida investigation FOIA files\" folder in the \"US v Epstein\" database prepped for \nproduction as follows: \n• The 298 documents tagged \"Produce As Is\" within the \"Florida investigation FOIA files\" folder need a bates \nnumber \n• The 1,668 documents tagged \"Produce As Confidential\" within the \"Florida investigation FOIA files\" folder need \na bates number and to be stamped CONFIDENTIAL \n• The 2 documents tagged \"Produce As Highly Confidential\" within the \"Florida investigation FOIA files\" folder \nneed a  bates number and to be stamped HIGHLY CONFIDENTIAL \nPlease let me know if you have any questions, and thanks very much for your help. \nEFTA00029154",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fron \nSubject",
+        "role": "extracted",
+        "context": "Fron \nSubject: Maxwell Discovery Production"
+      },
+      {
+        "name": "Maxwell Discovery",
+        "role": "extracted",
+        "context": "Fron \nSubject: Maxwell Discovery Production from Relativity \nD"
+      },
+      {
+        "name": "Relativity \nDate",
+        "role": "extracted",
+        "context": "ell Discovery Production from Relativity \nDate: Mon, 26 Oct 2020 22:33:27 +0"
+      },
+      {
+        "name": "The Maxwell",
+        "role": "extracted",
+        "context": ", 26 Oct 2020 22:33:27 +0000 \nThe Maxwell team has completed another ro"
+      },
+      {
+        "name": "Produce As",
+        "role": "extracted",
+        "context": "• The 298 documents tagged \"Produce As Is\" within the \"Florida inves"
+      },
+      {
+        "name": "Highly Confidential",
+        "role": "extracted",
+        "context": "documents tagged \"Produce As Highly Confidential\" within the \"Florida investig"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.873Z"
+}

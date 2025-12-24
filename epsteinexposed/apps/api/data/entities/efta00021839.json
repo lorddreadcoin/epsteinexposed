@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00021839",
+    "filename": "EFTA00021839.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021839.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: SDNY Triggerfish Court Bundle \ncopy \nDate: Thu, 02 Jul 2020 20:15:02 +0000 \nAttachments: SDNY_Triggerfish_Court_Bundle_copy.pdf; ATT00001.txt \nHere's one \n Original Message \nFrom: Brier Temple MIMMIN> \nSent: Wednesday, July 1, 2020 1:36 PM \nTo: Kathleen DuPont \nSubject: FW: SDNY Triggerfish Court Bundle copy \nCase \nNumber is 20-mj-127-01-AJ \n Original Message \nFrom: Andrea Johnstone \nSent: Wednesday, July 1, 2020 1:32 PM \nTo: Kathleen DuPont ; Brier \nTemple \n=IMIa, \nSubject: SDNY Triggerfish Court Bundle \ncopy \nSigned documents attached. Andrea \nEFTA00021839",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Triggerfish Court",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: SDNY Triggerfish Court Bundle \ncopy \nDate: Thu, 02 J"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "f; ATT00001.txt \nHere's one \n Original Message \nFrom: Brier Temple MIMMIN>"
+      },
+      {
+        "name": "Brier Temple",
+        "role": "extracted",
+        "context": "one \n Original Message \nFrom: Brier Temple MIMMIN> \nSent: Wednesday, Jul"
+      },
+      {
+        "name": "Kathleen Du",
+        "role": "extracted",
+        "context": "ay, July 1, 2020 1:36 PM \nTo: Kathleen DuPont \nSubject: FW: SDNY Trigge"
+      },
+      {
+        "name": "Pont \nSubject",
+        "role": "extracted",
+        "context": "2020 1:36 PM \nTo: Kathleen DuPont \nSubject: FW: SDNY Triggerfish Court B"
+      },
+      {
+        "name": "Case \nNumber",
+        "role": "extracted",
+        "context": "riggerfish Court Bundle copy \nCase \nNumber is 20-mj-127-01-AJ \n Original"
+      },
+      {
+        "name": "Andrea Johnstone",
+        "role": "extracted",
+        "context": "-AJ \n Original Message \nFrom: Andrea Johnstone \nSent: Wednesday, July 1, 202"
+      },
+      {
+        "name": "Brier \nTemple",
+        "role": "extracted",
+        "context": ":32 PM \nTo: Kathleen DuPont ; Brier \nTemple \n=IMIa, \nSubject: SDNY Trigge"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-01",
+        "event": "July 1, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.531Z"
+}

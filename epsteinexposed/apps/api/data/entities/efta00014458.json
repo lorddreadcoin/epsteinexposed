@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00014458",
+    "filename": "EFTA00014458.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014458.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" \nCc: (USANYS)\" \nSubject: WaPo; US: Once-secret Jeffrey Epstein sex offender deal must stand \nDate: Tue, 25 Jun 2019 14:31:01 +0000 \nImportance: Normal \nprOll ,en \nthis, but anyway: \nUS: Once-secret Jeffrey \nEpstein \nsex offender deal must stand \nBy Curt Anderson I  AP \nJune 25 at 10:23 AM \nMIAMI — \nFederal prosecutors say a once-secret plea deal reached over a decade \nago with wealthy convicted sex offender Jeffrey Epstein must stand, despite \nobjections from \nmany of his victims. \nProsecutors said in a new court filing that a violation of the Crime \nVictims' Rights \nAct does not allow for the agreement to be voided. \nSome of the \nvictims claim it should be thrown out at least partially, because they \nwere not consulted as required. \nNow it's up to a federal judge to decide what to do. \nThe 2008 deal ended a federal investigation. It \nallowed Epstein to plead guilty to \nlesser state charges that resulted in a 13-month jail \nsentence. It also required \nfinancial settlements to dozens of his once-teenage victims and that he register as \na sex \noffender. \nCopyright 2019 The Associated Press. All rights \nreserved. This material may not \nbe published, broadcast, rewritten or redistributed. \nEFTA00014458\n\nPublic \nAffairs \nUnited \nStates Department of \nJustice \nU.S. \nAttorney's Office I Southern \nDistrict of New York \nEFTA00014459",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ")\" \nCc: (USANYS)\" \nSubject: WaPo; US: Once-secret Jeffrey Epstein sex offender deal must stand \nDate: Tue, 25 Jun 2"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "but anyway: \nUS: Once-secret Jeffrey \nEpstein \nsex offender deal must stand"
+      },
+      {
+        "name": "By Curt",
+        "role": "extracted",
+        "context": "sex offender deal must stand \nBy Curt Anderson I  AP \nJune 25 at 10"
+      },
+      {
+        "name": "Crime \nVictims",
+        "role": "extracted",
+        "context": "iling that a violation of the Crime \nVictims' Rights \nAct does not allow f"
+      },
+      {
+        "name": "Rights \nAct",
+        "role": "extracted",
+        "context": "lation of the Crime \nVictims' Rights \nAct does not allow for the agreem"
+      },
+      {
+        "name": "The Associated",
+        "role": "extracted",
+        "context": "ex \noffender. \nCopyright 2019 The Associated Press. All rights \nreserved."
+      },
+      {
+        "name": "Public \nAffairs",
+        "role": "extracted",
+        "context": "redistributed. \nEFTA00014458\n\nPublic \nAffairs \nUnited \nStates Department of"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "FTA00014458\n\nPublic \nAffairs \nUnited \nStates Department of \nJustice \nU.S."
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": "ce \nU.S. \nAttorney's Office I Southern \nDistrict of New York \nEFTA00014459"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.892Z"
+}

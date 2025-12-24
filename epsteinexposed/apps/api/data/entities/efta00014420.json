@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014420",
+    "filename": "EFTA00014420.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014420.pdf",
+    "text": "\n\nFrom \nTo \nSubject: Epstein Sex Offender \nReport \nDate: Thu, 27 Jun 2019 23:00:00 +0000 \nAttachments: Epstein_Sex_Offender_6.27.19.xps \nGood \nevening, \nAs requested I've attached Epstein's most recent Sex Offender Report. \nThanks, \nEFTA00014420",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Epstein Sex Offende"
+      },
+      {
+        "name": "Epstein Sex",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Epstein Sex Offender \nReport \nDate: Thu,"
+      },
+      {
+        "name": "Offender \nReport",
+        "role": "extracted",
+        "context": "rom \nTo \nSubject: Epstein Sex Offender \nReport \nDate: Thu, 27 Jun 2019 23:00"
+      },
+      {
+        "name": "Sex Offender",
+        "role": "extracted",
+        "context": "ttached Epstein's most recent Sex Offender Report. \nThanks, \nEFTA0001442"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.813Z"
+}

@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00031846",
+    "filename": "EFTA00031846.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031846.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n)\" \n<1 \nSubject: FW: Application for Search Warrant \nDate: Fri, 26 Jun 2020 01:49:32 +0000 \nAttachments: 1)_Application_&_Affidavit_for_SW_for_all_JE_electronic_devices.pdf \nFYI, I corrected a typo the judge caught. \nFrom: \nSent: Thursday, June 25, 2020 9:48 PM \nTo: Gorenstein NYSD \nChambers < \nCc: \nSubject: RE: Application for Search Warrant \nThank you very much. Attached please find a  revised affidavit correcting the error that Judge Gorenstein identified. \nI will call the number provided at 9:10am tomorrow with the agent on the line. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \nSt. Andrew's Plaza \nNew York, NY 10007 \n212-637-2324 \nFrom: Gorenstein NYSD Chambers \n<•\nSent: Thursday, June 25, 2020 7:43 PM \nTo: \nCc: \nSubject: Re: Application for Search Warrant \n< \nJudge Gorenstein has reviewed the warrant materials. Please call him at (917) 882-3627 with your agent on the \nline at 9:10 a.m. If there is no answer, please leave a callback number by voicemail or text and the Judge will \nrespond to you shortly thereafter. If you need a different call-in time, please let us know. Additionally, Judge \nGorenstein notes the following: \"While it does not affect probable cause, the warrant application in paragraph \n4 and Attachment A refers to Epstein being arrested on July 6, \"2020.\" The AUSA may wish to send a new \napplication that provides a correct date.\" \nEFTA00031846\n\nFrom: \nSent: Thursday, June 25, 2020 4:58 PM \nTo: Gorenstein NYSD Chambers  \nCc: \nSubject: Application for Search Warrant \nGood afternoon, \n> \nAttached for Judge Gorenstein's review please find an application for a search warrant, as well as a proposed warrant. \nThe agent is available to swear out this warrant tomorrow morning whenever would be convenient for the Court. I can be \nreached on my cellphone at 347-344-8771. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nl  St. Andrew's Plaza \nNew York, NY 10007 \n212-637-2324 \nEFTA00031847",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "Subject: FW: Application for Search Warrant \nDate: Fri, 26 Jun 2020 01:49"
+      },
+      {
+        "name": "Judge Gorenstein",
+        "role": "extracted",
+        "context": "vit correcting the error that Judge Gorenstein identified. \nI will call the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "on the line. \nRespectfully, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nSt. Andrew's Pla"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ict of New York \nSt. Andrew's Plaza \nNew York, NY 10007 \n212-637-2324"
+      },
+      {
+        "name": "Judge \nGorenstein",
+        "role": "extracted",
+        "context": "se let us know. Additionally, Judge \nGorenstein notes the following: \"While i"
+      },
+      {
+        "name": "Chambers  \nCc",
+        "role": "extracted",
+        "context": "4:58 PM \nTo: Gorenstein NYSD Chambers  \nCc: \nSubject: Application for Se"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-25",
+        "event": "June 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-637-2324",
+      "347-344-8771",
+      "(917) 882-3627"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.029Z"
+}

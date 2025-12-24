@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00017817",
+    "filename": "EFTA00017817.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017817.pdf",
+    "text": "\n\nFrom \nTo: BOBBI C STERNHEI \nSubject: RE: Ghislaine Maxwell- URGENT \nDate: Fri, 20 Nov 2020 18:45:37 +0000 \nBobbi, \nI  just tried you but got your voicemail. I  am available on my cell a \nagain after 3:30pm. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew Ynrlc NY 10007 \nFrom: \nBOBBI \nC STERNHEIM \nSent: Friday, November 20, 2020 1:40 PM \nTo \nSubject: Ghislaine \nMaxwell- URGENT \nPlease call me \nMuch appreciated-\nBobbi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n33 West 19th Street - 4th Floor \nNew York, NY 10011 \nMair \nCell: \nFax: \nI'll be available until 2pm \nand then \n••Covid-19 Notice: The West 19th Street office is currently closed but we continue to work remotely. \nPlease use email or fax, instead of regular mail, for all correspondence during this time. \nWe continue to work regular business hours throughout this situation. \nThank you for your consideration. Our best wishes for your good health and well being. \nEFTA00017817\n\nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00017818",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From \nTo: BOBBI C STERNHEI \nSubject: RE: Ghislaine Maxwell- URGENT \nDate: Fri, 20 Nov 2020 18:45:37 +0000 \nB"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: BOBBI C STERNHEI \nSubject: R"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "again after 3:30pm. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew Ynrlc NY 10007 \nFrom: \nBOBBI"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "y, November 20, 2020 1:40 PM \nTo \nSubject: Ghislaine \nMaxwell- URGENT"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "0, 2020 1:40 PM \nTo \nSubject: Ghislaine \nMaxwell- URGENT \nPlease call me \nMuch"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "bi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n33 Wes"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "im \n33 West 19th Street - 4th Floor \nNew York, NY 10011 \nMair \nCell:"
+      },
+      {
+        "name": "Mair \nCell",
+        "role": "extracted",
+        "context": "th Floor \nNew York, NY 10011 \nMair \nCell: \nFax: \nI'll be available unt"
+      },
+      {
+        "name": "The West",
+        "role": "extracted",
+        "context": "and then \n••Covid-19 Notice: The West 19th Street office is current"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-11-20",
+        "event": "November 20, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.656Z"
+}

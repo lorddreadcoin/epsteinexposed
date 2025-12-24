@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00021991",
+    "filename": "EFTA00021991.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021991.pdf",
+    "text": "\n\nFrom: \nTo:'\n)\" < \n)\" \nC \nSubject: RE: Image/Video file review for Maxwell case \nDate: Fri, 16 Oct 2020 17:59:44 +0000 \nGot it, thanks very much for the reminder—I'd forgotten. \nFrom: \nSent: Friday, October 16, 2020 1:58 PM \nTo: \nSubject: Fwd: Image/Video file review for Maxwell case \n<S> \nFYI is the main analyst on this case and has been working on it from the beginning. Glad she's helping out. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \nDate: October 16, 2020 at 6:45:05 PM GMT+1 \nTo: \"IM I. (NY) (FBI)\" \nCc: \" . (NY) (FBI)\" ‹)., \" \n}.. < \n\" (USANYS)\" \nSubject: Image/Video file review for Maxwell case \nHi \nPc> \n(NYPD)\" \n< \nMy supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and videos \nfrom Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell case. Thank you so much for being willing to help \nout with this while and are traveling. \nI've spoken with about some of the logistics, and it would be great if you and I could have a call to talk \nabout next steps. Is there a time this afternoon when you would be free for a call? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00021991",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "coordinate the review of images and videos \nfrom Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "om Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell case. Thank you so much for being willing to help"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "s helping out. \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Hi \nPc",
+        "role": "extracted",
+        "context": "file review for Maxwell case \nHi \nPc> \n(NYPD)\" \n< \nMy supervisors"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "be free for a call? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-16",
+        "event": "October 16, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.811Z"
+}

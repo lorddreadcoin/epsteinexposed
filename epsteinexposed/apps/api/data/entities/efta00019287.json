@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019287",
+    "filename": "EFTA00019287.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019287.pdf",
+    "text": "\n\nFrom: \n\" \n<MMIE> \nTo: \naIMIE> \nCc: \n(USANY$)\" \nBcc: \"USAHUB-USAJournal111\" \nSubject: Re: Jeffrey Epstein Estate Must Share Private Videos Recorded At His Properties \nDate: Fri, 18 Dec 2020 04:43:14 +0000 \nEmbedded: Re: Jeffrey_Epstein_Estate_Must_Share_Private_Videos_Recorded_At_His_Properties.msg \nSender: \nSubject: Re: Jeffrey Epstein Estate Must Share Private Videos Recorded At His Properties \nMessa <0176897D-20EA-4A7A-B894-331474261A3F@usa.doj.gov> \nTo: \nCc: \nEFTA00019287",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ANY$)\" \nBcc: \"USAHUB-USAJournal111\" \nSubject: Re: Jeffrey Epstein Estate Must Share Private Videos Recorded At His"
+      },
+      {
+        "name": "Estate Must",
+        "role": "extracted",
+        "context": "Subject: Re: Jeffrey Epstein Estate Must Share Private Videos Recorded"
+      },
+      {
+        "name": "Share Private",
+        "role": "extracted",
+        "context": ": Jeffrey Epstein Estate Must Share Private Videos Recorded At His Proper"
+      },
+      {
+        "name": "Videos Recorded",
+        "role": "extracted",
+        "context": "ein Estate Must Share Private Videos Recorded At His Properties \nDate: Fri,"
+      },
+      {
+        "name": "At His",
+        "role": "extracted",
+        "context": "Share Private Videos Recorded At His Properties \nDate: Fri, 18 Dec"
+      },
+      {
+        "name": "Properties \nDate",
+        "role": "extracted",
+        "context": "rivate Videos Recorded At His Properties \nDate: Fri, 18 Dec 2020 04:43:14 +0"
+      },
+      {
+        "name": "Properties \nMessa",
+        "role": "extracted",
+        "context": "rivate Videos Recorded At His Properties \nMessa <0176897D-20EA-4A7A-B894-3314"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.608Z"
+}

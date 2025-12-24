@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021688",
+    "filename": "EFTA00021688.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021688.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: US v. Maxwell, 20 CR. 330 (AIN) - discovery \nproduction \nDate: Sat, 27 Feb 2021 02:54:59 +0000 \nAttachments: 2021.02.26_Maxwell_Discovery_Letter.pdf; 2021.02.26_Tenth_Production.zip \nCounsel, \nAttached please a discovery production in the above-referenced case and an accompanying cover \nletter. \nThe password for \ntoday's production is: \nBest, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00021688",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "oday's production is: \nBest, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "is: \nBest, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.190Z"
+}

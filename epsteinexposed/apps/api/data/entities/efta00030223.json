@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00030223",
+    "filename": "EFTA00030223.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030223.pdf",
+    "text": "\n\nFrom: \n\"\nTo: \"moses_nysdchambers@nysd.uscourts.gov\" <moses_nysdchambers@nysd.uscourts.gov> \nSubject: Search Warrant Application \nDate: Fri, 05 Jul 2019 16:41:05 +0000 \nImportance: Normal \nAttachments: \n2019.07.05_New_York_Residence_SW.pdf \nDear Judge Moses: \nWith apologies for the inconvenience during the Court holiday, attached is a search warrant application. My cell phone \nnumber is if there are any questions. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00030223",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "@nysd.uscourts.gov> \nSubject: Search Warrant Application \nDate: Fri, 05 Ju"
+      },
+      {
+        "name": "Application \nDate",
+        "role": "extracted",
+        "context": "gov> \nSubject: Search Warrant Application \nDate: Fri, 05 Jul 2019 16:41:05 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 16:41:05 +0000 \nImportance: Normal \nAttachments: \n2019.07.05_New_York_Residen"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "05_New_York_Residence_SW.pdf \nDear Judge Moses: \nWith apologies for th"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ny questions. \nRespectfully, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00030223"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.312Z"
+}

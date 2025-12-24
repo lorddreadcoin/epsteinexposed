@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00017940",
+    "filename": "EFTA00017940.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017940.pdf",
+    "text": "\n\nFrom: \nallin \nTo:\nSubject: NYTimes: Prince Andrew Says He `Let the Side Down' When He Stayed With Jeffrey Epstein \nDate: Sat, 16 Nov 2019 14:34:10 +0000 \nPrince Andrew Says He `Let the Side Down' When He Stayed With Jeffrey Epstein \nhttps://www.nytimes.com/2019/11/15/worldieurope/prince-andrew-interview-epstein.html?smid—nytcore-ios-\nshare \nEFTA00017940",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "w Says He `Let the Side Down' When He Stayed With Jeffrey Epstein \nDate: Sat, 16 Nov 2019 14:34:10 +0000 \nPrince An"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From: \nallin \nTo:\nSubject: NYTimes: Prince Andrew Says He `Let the Side Down' When He Stayed With J"
+      },
+      {
+        "name": "Says He",
+        "role": "extracted",
+        "context": "bject: NYTimes: Prince Andrew Says He `Let the Side Down' When He S"
+      },
+      {
+        "name": "Side Down",
+        "role": "extracted",
+        "context": "rince Andrew Says He `Let the Side Down' When He Stayed With Jeffrey"
+      },
+      {
+        "name": "When He",
+        "role": "extracted",
+        "context": "w Says He `Let the Side Down' When He Stayed With Jeffrey Epstein"
+      },
+      {
+        "name": "Stayed With",
+        "role": "extracted",
+        "context": "e `Let the Side Down' When He Stayed With Jeffrey Epstein \nDate: Sat, 1"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.902Z"
+}

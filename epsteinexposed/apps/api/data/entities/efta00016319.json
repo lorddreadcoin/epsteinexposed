@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016319",
+    "filename": "EFTA00016319.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016319.pdf",
+    "text": "\n\nFrom: ' \nTo: \nCc: \n' \nSubject: US v. Maxwell, 20 Cr. 330 (MN) - ex parte sealed letter \nDate: Tue, 15 Sep 2020 00:00:16 +0000 \nAttachments: 2020-09-14_Government_ex_parte_discovery_letter,20_Cr._330JAJN).pdf \nGood evening, \nAttached for Judge Nathan's consideration please find a letter pursuant to Federal Rule of Criminal Procedure 16(d)(1), \nwhich the Government respectfully requests be filed ex parte and under seal. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00016319",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "Good evening, \nAttached for Judge Nathan's consideration please find a"
+      },
+      {
+        "name": "Federal Rule",
+        "role": "extracted",
+        "context": "ase find a letter pursuant to Federal Rule of Criminal Procedure 16(d)(1"
+      },
+      {
+        "name": "Criminal Procedure",
+        "role": "extracted",
+        "context": "r pursuant to Federal Rule of Criminal Procedure 16(d)(1), \nwhich the Governme"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00016319"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.468Z"
+}

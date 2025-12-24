@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00015568",
+    "filename": "EFTA00015568.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015568.pdf",
+    "text": "\n\nFrom: \nTo: \"ROBERT C. JOSEFSBERG\" \nSubject: RE: call \nDate: Sun, 07 Jul 2019 01:21:41 +0000 \nImportance: Normal \nUnfortunately information about the arrest of Jeffrey Epstein has leaked to the media while we were still in the process of \ntrying to reach out to victims and their counsel, but I nevertheless wanted to reach out to you directly — could you please \ngive me a call at your earliest convenience and I can let you know the current status, so you can pass it along to your \nclient(s)? I'm reachable anytime day or night at \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00015568",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "al \nUnfortunately information about the arrest of Jeffrey Epstein has leaked to the media while we were still in th"
+      },
+      {
+        "name": "Normal \nUnfortunately",
+        "role": "extracted",
+        "context": "9 01:21:41 +0000 \nImportance: Normal \nUnfortunately information about the arrest"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "t \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.993Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030998",
+    "filename": "EFTA00030998.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030998.pdf",
+    "text": "\n\nFrom: nis><IIMIE> \nTo: \nCc: a ,\" ai  ntm..>SANYS \" \n, H H \nSubject: Draft Letter re Maxwell for Review - DUE MONDAY 6/7 \nDate: Sun, 06 Jun 2021 23:53:00 +0000 \nAttachments: 2021-06-07_GM _letter update_re_MDC_conditions_vl.docx \nHi \nAttached please find the draft of our update letter to the court regarding Maxwell. Would you please review and confirm \nthat this is accurate? \nThanks very much, \nMaurene \nAssistant United States Attorney \nYork \nEFTA00030998",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Draft Letter",
+        "role": "extracted",
+        "context": "tm..>SANYS \" \n, H H \nSubject: Draft Letter re Maxwell for Review - DUE M"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "te_re_MDC_conditions_vl.docx \nHi \nAttached please find the draft of our"
+      },
+      {
+        "name": "Maurene \nAssistant",
+        "role": "extracted",
+        "context": "accurate? \nThanks very much, \nMaurene \nAssistant United States Attorney \nYork"
+      },
+      {
+        "name": "Attorney \nYork",
+        "role": "extracted",
+        "context": "rene \nAssistant United States Attorney \nYork \nEFTA00030998"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.204Z"
+}

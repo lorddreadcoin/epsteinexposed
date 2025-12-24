@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032720",
+    "filename": "EFTA00032720.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032720.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Press Question (Ghislaine Maxwell Trial) \nDate: Fri, 22 Oct 2021 15:34:47 +0000 \nInline-Images: image001.jpg: image002.jpg \nI'll respond, thanks. \nSent from my iPhone \nOn Oct 22, 2021, at 11:26 AM, \nPassing this on. \nFrom: Thrapp, Jacklyn \nSent: Friday, October 22, 2021 11:18 AM \nTo: \nI<E\n> \n; \n> \nwrote: \n(USANYS) \nSubject: [EXTERNAL] Press Question (Ghislaine Maxwell Trial) \nHello, \nI'm a reporter for the National Enquirer covering the trial of Ghislaine Maxwell. I heard won't be called \nto the stand during the trial. \nIs this true? And if so, can you elaborate on why, if possible. \nThanks \nJACKI THRAPP \nREPORTER \nTHE NATIONAL ENQUIRER \n<image001.jpg≥ \n<image002.jpg> \nEFTA00032720",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Re: Press Question (Ghislaine Maxwell Trial) \nDate: Fri, 22 Oct 2021 15:34:47 +0000 \nIn"
+      },
+      {
+        "name": "Press Question",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Re: Press Question (Ghislaine Maxwell Trial) \nDa"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "spond, thanks. \nSent from my iPhone \nOn Oct 22, 2021, at 11:26 AM, \nP"
+      },
+      {
+        "name": "Jacklyn \nSent",
+        "role": "extracted",
+        "context": "ssing this on. \nFrom: Thrapp, Jacklyn \nSent: Friday, October 22, 2021 11:"
+      },
+      {
+        "name": "National Enquirer",
+        "role": "extracted",
+        "context": "ello, \nI'm a reporter for the National Enquirer covering the trial of Ghislai"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-22",
+        "event": "October 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.322Z"
+}

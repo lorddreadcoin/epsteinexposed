@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014029",
+    "filename": "EFTA00014029.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014029.pdf",
+    "text": "\n\nFrom: \n(USAFLS)\" \nalMIE> \nTo: (USAFLS)\" alMIN> \nSubject: Out of Office AutoReply: Emailing: \nDate: Fri, 19 Dec 2008 21:10:45 +0000 \nImportance: Normal \nSupplemental Declaration.wpd re Epstein \nI  will be on annual leave from December 19-30, 2008. If you need to reach me, please call me at Thanks. \nEFTA00014029",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Office Auto",
+        "role": "extracted",
+        "context": "FLS)\" alMIN> \nSubject: Out of Office AutoReply: Emailing: \nDate: Fri, 1"
+      },
+      {
+        "name": "Normal \nSupplemental",
+        "role": "extracted",
+        "context": "8 21:10:45 +0000 \nImportance: Normal \nSupplemental Declaration.wpd re Epstein \nI"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.972Z"
+}

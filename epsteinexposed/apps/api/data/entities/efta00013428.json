@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00013428",
+    "filename": "EFTA00013428.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013428.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: \nAttachments: \n[EXTERNAL] Re: PBPD Trash Pull & Records \nMon, 11 Oct 2021 14:44:48 +0000 \nMaterials_from_Sgt \nAttached is a draft 302 for case files that I picked up on Friday. \nDetective \nNYPD /  FBI \nChild E loitation Human \nTrafficking Task Force \nOffice: \nFrom: Amanda \nSent: Friday, October 8, 2021 10:30 PM \nTo: \nCc: \nSubject: PBPD Trash Pull & Records \nCAUTION! EXTERNAL SENDER \nSTOP WHEN UNSURE. Never click on links or open attachments if sender is unknown, and never provide \nuser ID or password. Suspicious? Please report to this email address: reportphishing@nypd.org \nHey guys, \nAttached is the PBPD Trash Pull along with the records received today. \nEFTA00013428",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Trash Pull",
+        "role": "extracted",
+        "context": "chments: \n[EXTERNAL] Re: PBPD Trash Pull & Records \nMon, 11 Oct 2021 1"
+      },
+      {
+        "name": "Records \nMon",
+        "role": "extracted",
+        "context": "TERNAL] Re: PBPD Trash Pull & Records \nMon, 11 Oct 2021 14:44:48 +0000"
+      },
+      {
+        "name": "Sgt \nAttached",
+        "role": "extracted",
+        "context": "4:44:48 +0000 \nMaterials_from_Sgt \nAttached is a draft 302 for case files"
+      },
+      {
+        "name": "Human \nTrafficking",
+        "role": "extracted",
+        "context": "YPD /  FBI \nChild E loitation Human \nTrafficking Task Force \nOffice: \nFrom: Am"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "loitation Human \nTrafficking Task Force \nOffice: \nFrom: Amanda \nSent:"
+      },
+      {
+        "name": "Amanda \nSent",
+        "role": "extracted",
+        "context": "ng Task Force \nOffice: \nFrom: Amanda \nSent: Friday, October 8, 2021 10:3"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-08",
+        "event": "October 8, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.570Z"
+}

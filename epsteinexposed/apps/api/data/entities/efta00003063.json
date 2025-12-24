@@ -1,0 +1,108 @@
+{
+  "document": {
+    "id": "efta00003063",
+    "filename": "EFTA00003063.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003063.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTel: \n340-775-8100 \nFax: \n340-775-8108 \nDate: \n03/19/18 \nEmployee \nName: \nOriole \nJoseph \nAddress: \nPhon \nTitle/ \nPosition: \nMaintenance \nli\nmergency \nInformation: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's \nName: \nEmergency \nContact \nForm \nBlood \ntype \nunspecified \nStart \nDate: \n10/01/16 \nDate \nof \nBirth \nE\n-Mail: \nMarital \nStatus: \nSingle \nLicense: \nPhone: \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact \n: \nRelationship \nPhone \nRelationship \nCo\nu\ns\ni\nn \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003063",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "40-775-8108 \nDate: \n03/19/18 \nEmployee \nName: \nOriole \nJoseph \nAddress: \nP"
+      },
+      {
+        "name": "Oriole \nJoseph",
+        "role": "extracted",
+        "context": ": \n03/19/18 \nEmployee \nName: \nOriole \nJoseph \nAddress: \nPhon \nTitle/ \nPosi"
+      },
+      {
+        "name": "Phon \nTitle",
+        "role": "extracted",
+        "context": "e: \nOriole \nJoseph \nAddress: \nPhon \nTitle/ \nPosition: \nMaintenance \nli"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Information: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedi"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "or's \nName: \nDoctor's \nName: \nEmergency \nContact \nForm \nBlood \ntype \nunspecifi"
+      },
+      {
+        "name": "Form \nBlood",
+        "role": "extracted",
+        "context": "s \nName: \nEmergency \nContact \nForm \nBlood \ntype \nunspecified \nStart \nDa"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "rm \nBlood \ntype \nunspecified \nStart \nDate: \n10/01/16 \nDate \nof \nBirth"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "6 \nDate \nof \nBirth \nE\n-Mail: \nMarital \nStatus: \nSingle \nLicense: \nPhone: \nP"
+      },
+      {
+        "name": "Single \nLicense",
+        "role": "extracted",
+        "context": "E\n-Mail: \nMarital \nStatus: \nSingle \nLicense: \nPhone: \nPhone: \nIn \ncase \no"
+      },
+      {
+        "name": "Relationship \nPhone",
+        "role": "extracted",
+        "context": "ergency, \nPlease \ncontact \n: \nRelationship \nPhone \nRelationship \nCo\nu\ns\ni\nn \nPh"
+      },
+      {
+        "name": "Relationship \nCo",
+        "role": "extracted",
+        "context": "tact \n: \nRelationship \nPhone \nRelationship \nCo\nu\ns\ni\nn \nPhone \nThis \nInforma"
+      },
+      {
+        "name": "Phone \nThis",
+        "role": "extracted",
+        "context": "ne \nRelationship \nCo\nu\ns\ni\nn \nPhone \nThis \nInformation \nis \nfor \nyour"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "340-775-8100",
+      "340-775-8108"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.647Z"
+}

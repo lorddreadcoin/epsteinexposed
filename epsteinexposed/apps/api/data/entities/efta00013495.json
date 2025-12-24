@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00013495",
+    "filename": "EFTA00013495.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013495.pdf",
+    "text": "\n\nFrom: \" \nTo:'\nCc:\n. \\(USAFLS\\)\" \n\\(USAFLS\\)\" \n\\(USAFLS\\)\" \nSubject: Draft Agreements \nDate: \nFri, 07 Sep 2007 00:07:13 +0000 \nImportance: Normal \nAttachments: \nOLY_Plea_Agreement.wpd; OLY_Non-Prosecution_Agreement.wpd \nIII I.— I lore are the two agreements. I  will be in early tomorrow morning if you need me to make any changes. Also, \nyou can see the video clip about Epstein's arrival in Palm Beach County at the following link: \nhttp://www.wptv.com/default.aspx  (Click on \"Is Jeffrey Epstein making a deal?\") \nPerhaps he is attending the meeting tomorrow? Or there is a secret meeting with the State Attorney's office that we do not \nknow about? \nAssistant U.S. Attorney \nEFTA00013495",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "http://www.wptv.com/default.aspx  (Click on \"Is Jeffrey Epstein making a deal?\") \nPerhaps he is attending the mee"
+      },
+      {
+        "name": "Draft Agreements",
+        "role": "extracted",
+        "context": "FLS\\)\" \n\\(USAFLS\\)\" \nSubject: Draft Agreements \nDate: \nFri, 07 Sep 2007 00:0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 00:07:13 +0000 \nImportance: Normal \nAttachments: \nOLY_Plea_Agreement.wpd; OLY"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ip about Epstein's arrival in Palm Beach County at the following link:"
+      },
+      {
+        "name": "Is Jeffrey",
+        "role": "extracted",
+        "context": ".com/default.aspx  (Click on \"Is Jeffrey Epstein making a deal?\") \nPer"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "is a secret meeting with the State Attorney's office that we do not \nknow"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.709Z"
+}

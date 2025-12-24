@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00020998",
+    "filename": "EFTA00020998.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020998.pdf",
+    "text": "\n\nFrom: '=1\n3' \nTo:'\nCc: \nSubject: FW: Subpoena \nrequests \nDate: Fri, 06 Dec 2019 20:35:47 +0000 \nAny ubunts associated with Ghislaine Maxwell, DOS Or associated with phone \nnumbei and email address \nCould we also see if there are accounts associated with the below addresses? \nBoston, MA 02114 \nBoston, MA 02108 \nll, Manchester by the Sea, Massachusetts 01944 \n Original Messa e \nFrom:\nSent: \nThursday. \nDecember \n05.2019 \n7:06 PM \nTo: \nCc: \nSubject: Subpoena requests \nHey all, \nCould we get some subpoenas for the below agencies for Ghislaine Maxwell, DOB \nUber \nUber Technolo ies, Inc. \nSan Francisco, CA 94103 \nL ft\nSan \nFrancisco, CA 94107 \nThanks! \nEFTA00020998",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "c 2019 20:35:47 +0000 \nAny ubunts associated with Ghislaine Maxwell, DOS Or associated with phone \nnumbei and email a"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "he Sea, Massachusetts 01944 \n Original Messa e \nFrom:\nSent: \nThursday. \nDe"
+      },
+      {
+        "name": "Uber \nUber",
+        "role": "extracted",
+        "context": "s for Ghislaine Maxwell, DOB \nUber \nUber Technolo ies, Inc. \nSan Franc"
+      },
+      {
+        "name": "San \nFrancisco",
+        "role": "extracted",
+        "context": "San Francisco, CA 94103 \nL ft\nSan \nFrancisco, CA 94107 \nThanks! \nEFTA00020"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Boston, MA",
+        "type": "city"
+      },
+      {
+        "name": "San Francisco, CA",
+        "type": "city"
+      },
+      {
+        "name": "San \nFrancisco, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.793Z"
+}

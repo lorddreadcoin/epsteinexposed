@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00004231",
+    "filename": "EFTA00004231.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 3\\VOL00003\\IMAGES\\0001\\EFTA00004231.pdf",
+    "text": "\n\n1MS3 \nFD\n-340 (Rev. \n4-11-03) \nFile \nNumber \nField Office \nAcquiring Evidence  \nNIP \nSerial # of \nOriginating Document  \n11 0 5 \n• \nDate Received \nFrom \n-7/r712o \ngrad Edward \ns \n(Name of Contributoriinterviewee) \n(Address) \nState) \nBy \nTo Be \nReturned q \nYes \nq \nNo \nReceipt Given q Yes q No \nGrand Jury \nMaterial - Disseminate Only Pursuant to Rule 6 (e) \nFederal Rules of Criminal Procedure \nq \nYes q No \nFederal \nTaxpayer Information (FT[) \nq \nYes q \nNo \nTitle: \nReference: \n(Conntsnicatios \nEncbsing Wisteria') \n'Description: q Original notes re interview of \n14 SR \nOf \npho-l-\novraphs pr \nlot? \nArad Edwards Pirom \nEFTA00004231\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nEFTA00004232\n\nEFTA00004233",
+    "pageCount": 3,
+    "dataset": "Dataset 3"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "File \nNumber",
+        "role": "extracted",
+        "context": "MS3 \nFD\n-340 (Rev. \n4-11-03) \nFile \nNumber \nField Office \nAcquiring Evid"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Rev. \n4-11-03) \nFile \nNumber \nField Office \nAcquiring Evidence  \nNIP \nSe"
+      },
+      {
+        "name": "Acquiring Evidence",
+        "role": "extracted",
+        "context": "File \nNumber \nField Office \nAcquiring Evidence  \nNIP \nSerial # of \nOriginati"
+      },
+      {
+        "name": "Originating Document",
+        "role": "extracted",
+        "context": "Evidence  \nNIP \nSerial # of \nOriginating Document  \n11 0 5 \n• \nDate Received \nF"
+      },
+      {
+        "name": "Date Received",
+        "role": "extracted",
+        "context": "inating Document  \n11 0 5 \n• \nDate Received \nFrom \n-7/r712o \ngrad Edward"
+      },
+      {
+        "name": "By \nTo",
+        "role": "extracted",
+        "context": "erviewee) \n(Address) \nState) \nBy \nTo Be \nReturned q \nYes \nq \nNo \nR"
+      },
+      {
+        "name": "Be \nReturned",
+        "role": "extracted",
+        "context": "e) \n(Address) \nState) \nBy \nTo Be \nReturned q \nYes \nq \nNo \nReceipt Given"
+      },
+      {
+        "name": "No \nReceipt",
+        "role": "extracted",
+        "context": "y \nTo Be \nReturned q \nYes \nq \nNo \nReceipt Given q Yes q No \nGrand Jury"
+      },
+      {
+        "name": "No \nGrand",
+        "role": "extracted",
+        "context": "q \nNo \nReceipt Given q Yes q No \nGrand Jury \nMaterial - Disseminate"
+      },
+      {
+        "name": "Jury \nMaterial",
+        "role": "extracted",
+        "context": "ceipt Given q Yes q No \nGrand Jury \nMaterial - Disseminate Only Pursuant t"
+      },
+      {
+        "name": "Disseminate Only",
+        "role": "extracted",
+        "context": "q No \nGrand Jury \nMaterial - Disseminate Only Pursuant to Rule 6 (e) \nFeder"
+      },
+      {
+        "name": "Federal Rules",
+        "role": "extracted",
+        "context": "Only Pursuant to Rule 6 (e) \nFederal Rules of Criminal Procedure \nq \nYes"
+      },
+      {
+        "name": "Criminal Procedure",
+        "role": "extracted",
+        "context": "Rule 6 (e) \nFederal Rules of Criminal Procedure \nq \nYes q No \nFederal \nTaxpay"
+      },
+      {
+        "name": "No \nFederal",
+        "role": "extracted",
+        "context": "Criminal Procedure \nq \nYes q No \nFederal \nTaxpayer Information (FT[)"
+      },
+      {
+        "name": "Taxpayer Information",
+        "role": "extracted",
+        "context": "cedure \nq \nYes q No \nFederal \nTaxpayer Information (FT[) \nq \nYes q \nNo \nTitle:"
+      },
+      {
+        "name": "No \nTitle",
+        "role": "extracted",
+        "context": "Information (FT[) \nq \nYes q \nNo \nTitle: \nReference: \n(Conntsnicatios"
+      },
+      {
+        "name": "Conntsnicatios \nEncbsing",
+        "role": "extracted",
+        "context": "s q \nNo \nTitle: \nReference: \n(Conntsnicatios \nEncbsing Wisteria') \n'Description: q O"
+      },
+      {
+        "name": "Arad Edwards",
+        "role": "extracted",
+        "context": "Of \npho-l-\novraphs pr \nlot? \nArad Edwards Pirom \nEFTA00004231\n\nITEM \nWA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:32.039Z"
+}

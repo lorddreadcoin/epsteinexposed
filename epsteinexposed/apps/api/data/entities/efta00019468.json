@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019468",
+    "filename": "EFTA00019468.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019468.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Maxwell \nDate: Mon, 13 Jul 2020 20:28:45 +0000 \nAttachments: 6653181._Maxwell,_Ghislaine.pdf \nGood Afternoon-\nThere was a minor typo with some of the dates. Final report with the changes attached. Please disregard the report \nattached in the prior email. \nU.S. Pretrial Services Officer Specialist - Intake Coordinator \nSouthern District of New York \nOffice: \nFax: \nEFTA00019468",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Maxwell \nDate: Mon, 13 Jul 2020 20:28:45 +0"
+      },
+      {
+        "name": "Good Afternoon",
+        "role": "extracted",
+        "context": "3181._Maxwell,_Ghislaine.pdf \nGood Afternoon-\nThere was a minor typo with"
+      },
+      {
+        "name": "Pretrial Services",
+        "role": "extracted",
+        "context": "hed in the prior email. \nU.S. Pretrial Services Officer Specialist - Intake C"
+      },
+      {
+        "name": "Officer Specialist",
+        "role": "extracted",
+        "context": "mail. \nU.S. Pretrial Services Officer Specialist - Intake Coordinator \nSouther"
+      },
+      {
+        "name": "Intake Coordinator",
+        "role": "extracted",
+        "context": "Services Officer Specialist - Intake Coordinator \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "cialist - Intake Coordinator \nSouthern District of New York \nOffice: \nFax: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.961Z"
+}

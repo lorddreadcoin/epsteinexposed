@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030985",
+    "filename": "EFTA00030985.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030985.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: PCU Monthly Updates \nDate: Fri, 07 May 2021 15:05:20 +0000 \nAttachments: PC_Unitr_Short_Form_Update.5.7.21.docx \nSee attached. \nChief, Public Corruption Unit \nU.S. Attorney's Offfice for the \nYork \nEFTA00030985",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monthly Updates",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: PCU Monthly Updates \nDate: Fri, 07 May 2021 15:05"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "1.docx \nSee attached. \nChief, Public Corruption Unit \nU.S. Attorney's Offfice"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-07",
+        "event": "07 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.174Z"
+}

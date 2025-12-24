@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00015685",
+    "filename": "EFTA00015685.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015685.pdf",
+    "text": "\n\nFrom: \n(USANYS) 6\" a@usa.doj.gov> \n(USANYS)\" \nSubject: RE: Epstein \nDate: Thu, 11 Jul 2019 17:28:45 +0000 \nImportance: Normal \nThanks! \nFrom \n(USANYS) \nSent: Thursday, July 11, 2019 1:28 PM \nTo (USANYS) 6 lausa.doj.gov> \nSubject: \nEpstein \nForgot to send this! \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office [ Southern District of New York \ne.@_JohgcAt [Mobile: Press Offic \nEFTA00015685",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "gov> \n(USANYS)\" \nSubject: RE: Epstein \nDate: Thu, 11 Jul 2019 17:28:45 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 17:28:45 +0000 \nImportance: Normal \nThanks! \nFrom \n(USANYS) \nSent: Thurs"
+      },
+      {
+        "name": "Epstein \nForgot",
+        "role": "extracted",
+        "context": ") 6 lausa.doj.gov> \nSubject: \nEpstein \nForgot to send this! \nPublic Affairs"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "pstein \nForgot to send this! \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office [ Southern District of New York \ne.@_JohgcAt [Mob"
+      },
+      {
+        "name": "Press Offic",
+        "role": "extracted",
+        "context": "ew York \ne.@_JohgcAt [Mobile: Press Offic \nEFTA00015685"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-11",
+        "event": "July 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.225Z"
+}

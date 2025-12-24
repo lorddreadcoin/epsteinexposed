@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022360",
+    "filename": "EFTA00022360.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022360.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Epstein - Subpoena Tracker \nDate: Wed, 10 Jun 2020 13:59:30 +0000 \nHi \nI've been working to get all of the subpoena returns organized for this case. In going through the tracker of bank \nsubpoenas and returns that you sent over on June 2nd, I was unable to find any corresponding returns on our shared \ndrive. I understand that in the past you have been sending them over on discs but given the circumstances would you be \nable to also have them uploaded to USAfx? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell: \nEFTA00022360",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena Tracker",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Re: Epstein - Subpoena Tracker \nDate: Wed, 10 Jun 2020 13:59"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "uploaded to USAfx? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.690Z"
+}

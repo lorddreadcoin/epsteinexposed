@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00025032",
+    "filename": "EFTA00025032.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025032.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Last MILs \nDate: Mon, 25 Oct 2021 04:13:48 +0000 \nAttachments: Suppress_ID_v3.docx; Suppress_ID_v3.pdf; Exhibits_v4.pdf; Forbidden_Words_v2.docx; \nForbidden_Words_v2.pdf; Irrelevant_mots_v2.docx; Irrelevant_mots_v2.pdf; \nExhibits_v4.docx \nHi \nAttached are the last set of MILs for your review. There are four documents (in word and PDF). \nWe also expect to hear from the expert tomorrow by noon, after which we should have a clean and full document to \nshare, if you want to give it one last read. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00025032",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ls \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Last MILs \nDate: Mon, 25 Oct 2021 04:13:48 +0"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "ts_v2.pdf; \nExhibits_v4.docx \nHi \nAttached are the last set of MILs for"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e it one last read. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.333Z"
+}

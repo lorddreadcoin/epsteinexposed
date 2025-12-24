@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030550",
+    "filename": "EFTA00030550.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030550.pdf",
+    "text": "\n\nFrom: \nTo: \nD\"\n< \nCc: (USANYS) Contractor \n(USANYS) [Contractor)\" \n(USANYS)\" \nSubject: Maxwell - new discovery production \nDate: Tue, 20 Oct 2020 13:51:14 +0000 \nAttachments: 2020.10.20_MDC_-_Maxwell_MAIN.pdf; 2020.10.20_MDC_-_Maxwell_PASSWORD.pdf \nHi M, \nToday we are sending a new drive containing additional discovery materials for Ghislaine Maxwell to the MDC via FedEx. \nAttached please find the accompanying cover letters to the MDC. \nWould you please keep an eye out for the drive and let us know when it has been given to Maxwell? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030550",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ive containing additional discovery materials for Ghislaine Maxwell to the MDC via FedEx. \nAttached please find the a"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Maxwell? \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030550"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.111Z"
+}

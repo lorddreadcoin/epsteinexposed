@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "efta00013959",
+    "filename": "EFTA00013959.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013959.pdf",
+    "text": "\n\nFrom: Roy BLACK\nTo: ' (USAFLS)\" \nSubject: Re: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 18:45:25 +0000 \nImportance: Normal \nI  am in the mountains and the cell doesn't work well. I  will get to a landline at 4 and call you. \n----Original Message--\nFrom: \n(USAFLS)\"\nTo: Roy BLACK ‹> \nCc: \nSent: 7/30/2008 2:43:11 PM \nSubject: RE: Jeffrey Epstein \nCaeld I call you on your cell at 4:00 Florida time? I just need your number. Or you can call us at \nThank you. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message---\nFrom: Roy BLACK [mailto: \nSent: Wednesday, July 30, 2008 2:38 PM \nTo: (USAFLS) \nSubject: Re: Jeffrey Epstein \nOk. I am on the road in california and can call in about an how or so. \n----Original Message--\nFrom: (USAFLS)\"\nTo: Roy BLACK •rz> \nSent: 7/30/2008 2:31:56 PM \nSubject: RE: Jeffrey Epstein \nHi Roy -- It relates to the performance of the criminal Non-Prosecution Agreement. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message---\nFrom: Roy BLACK [mailto: \nSent: Wednesday, July 30, 2008 1:18 PM \nTo: (USAFLS) \nSubject: Re: Jeffrey Epstein \ndesk --\nEFTA00013959\n\nI am out of town. What is it about? \n>» \n(USAF'S)\" \n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this afternoon to discuss the Epstein \nmatter? Please let me know what time works best for you. \nThank you. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013960",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: Roy BLACK\nTo: ' (USAFLS)\" \nSubject: Re: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 18:45:25 +0000 \nImportanc"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "dline at 4 and call you. \n----Original Message--\nFrom: \n(USAFLS)\"\nTo: Roy BL"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message---\nFrom"
+      },
+      {
+        "name": "Hi Roy",
+        "role": "extracted",
+        "context": "Subject: RE: Jeffrey Epstein \nHi Roy -- It relates to the performa"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "rformance of the criminal Non-Prosecution Agreement. \nAssistant U.S. Attorney \n50"
+      },
+      {
+        "name": "Dear Roy",
+        "role": "extracted",
+        "context": "F'S)\" \n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this after"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-30",
+        "event": "7/30/2008"
+      },
+      {
+        "date": "2008-07-30",
+        "event": "July 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.827Z"
+}

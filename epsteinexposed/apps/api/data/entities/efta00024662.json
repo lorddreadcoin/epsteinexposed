@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "efta00024662",
+    "filename": "EFTA00024662.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024662.pdf",
+    "text": "\n\nFrom:' (USANYS)\" \nTo: \"r\" \n( \nSubject: FW: GM supplemental pretrial motions \nDate: Mon, 10 May 2021 13:19:19 +0000 \nAttachments: 2021-5-10 Gov't Letter re Proposed Trial Date v2 -  TAM.docx \nHere are my edits (which are all just questions, since there may be obvious answers to these things that I just don't know). \nFrom: (USANYS) \nSent: Sunday, May 9, 2021 10:07 PM \nTo: \nI \nCc: (USANYS) \n>; \nSubject: RE: GM supplemental pretrial motions \n(USANYS) 4O; \nChiefs, \nAttached for your review is a draft of the letter regarding the trial date, as well as the relevant orders. \nThanks, \nFrom: \nSent: Saturday, May 8, 2021 2:42 PM \nTo: \nCc: (USANYS) \nSubject: Re: GM supplemental pretrial motions \nThanks \n>; \n(USANYS) \n(USANYS) \n>; \n>; \nFor planning purposes, we anticipate would like to see our letter regarding the trial date on Monday before it's due, \nso if you could get us a draft tomorrow evening or Monday morning that would be helpful. Thanks very much. \nOn May 8, 2021, at 1:44 PM, wrote: \nThe defendant's supplemental pretrial motions (regarding the superseder) were filed yesterday, and I'm attaching the \nbrief here. The team is reviewing this weekend and will reach out early next week about our game plan for responding. \nOur opposition is due on May 21st\nThanks, \nEFTA00024662\n\nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \n<!Memo ISO Supplemental Pretrial Motions.pdf> \nEFTA00024663",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proposed Trial",
+        "role": "extracted",
+        "context": "ts: 2021-5-10 Gov't Letter re Proposed Trial Date v2 -  TAM.docx \nHere are"
+      },
+      {
+        "name": "On May",
+        "role": "extracted",
+        "context": "e helpful. Thanks very much. \nOn May 8, 2021, at 1:44 PM, wrote:"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "y 21st\nThanks, \nEFTA00024662\n\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "FTA00024662\n\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \n<!Memo ISO Su"
+      },
+      {
+        "name": "Supplemental Pretrial",
+        "role": "extracted",
+        "context": "ew York, NY 10007 \n<!Memo ISO Supplemental Pretrial Motions.pdf> \nEFTA00024663"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-09",
+        "event": "May 9, 2021"
+      },
+      {
+        "date": "2021-05-08",
+        "event": "May 8, 2021"
+      },
+      {
+        "date": "2021-05-10",
+        "event": "10 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.596Z"
+}

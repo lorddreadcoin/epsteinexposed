@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023353",
+    "filename": "EFTA00023353.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023353.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: \nGX-52G \nDate: Fri, 12 Nov 2021 18:39:53 +0000 \nAttachments: GX-52-G.pdf; 7._Motion_to_Exclude_Govemment_Exhibit_52.pdf; \n!2021.10.27_Maxwell_Reply_ISO_Motns_In_Limine.pdf; \n72_obstruction_case_302s_Partl.pdf \nAttached. Also attaching the defense motions in case that's helpful. Also attaching some of the 302s from the 2009 \nobstruction case (which we produced to the defense a long time ago), in case that's helpful. \nFrom: \nSent: Friday, November 12, 2021 1:29 PM \nTo: \nSubject: GX-52G \nWill you \nsend a  copy? \nDeputy Chief, Public Corruption Unit \nSouthern District of New York \nOffice: \nCell: \nEmail: \nEFTA00023353",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "52G \nWill you \nsend a  copy? \nDeputy Chief, Public Corruption Unit \nSout"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "send a  copy? \nDeputy Chief, Public Corruption Unit \nSouthern District of Ne"
+      },
+      {
+        "name": "Unit \nSouthern",
+        "role": "extracted",
+        "context": "puty Chief, Public Corruption Unit \nSouthern District of New York \nOffice:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-12",
+        "event": "November 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.783Z"
+}

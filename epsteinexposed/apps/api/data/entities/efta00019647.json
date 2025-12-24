@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019647",
+    "filename": "EFTA00019647.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019647.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein Related Civilian Crime Report Submission\nDate: Tue, 22 Sep 2020 14:46:29 +0000 \nThanks very much, =. \nFrom: \nSent: Tuesda , Se tember 22, 2020 10:35 AM \nTo: \nCc: \nSubject: Epstein Related Civilian Crime Report Submission \nAttached is a submission from a civilian. It purports to relate to Epstein. Because it is \nfrom someone in a foreign country, we do not respond. In any event, there is nothing \nmore for you to do if this is not of any use. If we get anything else, we will forward it \nalong. II, please make a note in the log. Thanks. \nEFTA00019647",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Related",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein Related Civilian Crime Report Submiss"
+      },
+      {
+        "name": "Civilian Crime",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Related Civilian Crime Report Submission\nDate: Tue,"
+      },
+      {
+        "name": "Report Submission",
+        "role": "extracted",
+        "context": "pstein Related Civilian Crime Report Submission\nDate: Tue, 22 Sep 2020 14:46:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.311Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017900",
+    "filename": "EFTA00017900.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017900.pdf",
+    "text": "\n\nEvent: Tentative: Epstein/Maxwell FOIA \nStart Date: 2021-03-10 22:00:00 +0000 \nEnd Date: 2021-03-10 22:30:00 +0000 \nClass: X-PERSONAL \nComment: \nDate Created: 2021-03-10 22:57:26 +0000 \nDate Modified: 2021-03-10 22:57:26 +0000 \nPriority: 5 \nDTSTAMP: 2021-03-10 20:20:34 +0000 \nAttendee• (USANYS) < \n> \nEFTA00017900",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "tative: Epstein/Maxwell FOIA \nStart Date: 2021-03-10 22:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-03-10 22:00:00 +0000 \nEnd Date: 2021-03-10 22:30:00 +0000 \nC"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-03-10 22:57:26 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-03-10 22:57:26 +0000 \nDate Modified: 2021-03-10 22:57:26 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-10",
+        "event": "2021-03-10"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.823Z"
+}

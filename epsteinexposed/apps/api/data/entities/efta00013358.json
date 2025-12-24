@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013358",
+    "filename": "EFTA00013358.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013358.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: 'lkNYSa \n(USANYS)\" \nSubject: OPR Epstein \nDate: Fri, 13 Nov 2020 02:29:53 +0000 \nAttachments: epstein._executive_summary.pdf \nAmong other things, this explains how OPR evaluates things. \nSouthern District of New York \nBegin forwarded message: \nFrom: \nDate: ovem er , at\nTo: \nSubject: OPR Epstein \nhttps://www.justice.gov/opa/press-release/file/1336416/download \nEFTA00013358",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "NYSa \n(USANYS)\" \nSubject: OPR Epstein \nDate: Fri, 13 Nov 2020 02:29:53 +0"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ns how OPR evaluates things. \nSouthern District of New York \nBegin forwarded"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.402Z"
+}

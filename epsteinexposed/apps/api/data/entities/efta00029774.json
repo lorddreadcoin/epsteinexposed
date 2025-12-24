@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00029774",
+    "filename": "EFTA00029774.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029774.pdf",
+    "text": "\n\nFrom:  \nTo:'\nSubject: RE: Google \nDate: Fri, 21 Feb 2020 15:07:01 +0000 \nThanks, agree that shouldn't be a problem. \nFrom: \nSent: Friday, February 21, 2020 10:00 AM \nTo: \nSubject: Google \nFYI, our NDO for the subpoenas we cut at the beginning of the case for Epstein's email accounts has expired, so they're \ngoing to notify (unclear to me who they'll notify, of course). I have no problem with that, but let me know if you think \nthere are any issues there. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029774",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Google \nDate",
+        "role": "extracted",
+        "context": "From:  \nTo:'\nSubject: RE: Google \nDate: Fri, 21 Feb 2020 15:07:01 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "there are any issues there. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sues there. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029774"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-21",
+        "event": "February 21, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.192Z"
+}

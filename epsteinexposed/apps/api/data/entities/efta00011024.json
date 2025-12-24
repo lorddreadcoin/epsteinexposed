@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011024",
+    "filename": "EFTA00011024.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011024.pdf",
+    "text": "\n\nFrom: \"Strauss, Audrey (USANYS)\" <1 \nTo: (USANYS)\" < \n> \nSubject: Bruce Green/Judge Berman exchanged letters \nDate: Wed, 04 Sep 2019 20:53:15 +0000 \nImportance: Normal \nAttachments: Professor_Green_letter,_19_Cr._490.pdf; Judge_Berman_Ietter,_19_Cr._490.pdf \nTed reports that both letters have been docketed. \nFrom (USANYS) \nSent: Wednesday, September 4, 2019 4:48 PM \nTo: Strauss, Audrey (USANYS) \nSubject: \nII> \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00011024",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bruce Green",
+        "role": "extracted",
+        "context": "To: (USANYS)\" < \n> \nSubject: Bruce Green/Judge Berman exchanged letter"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": ")\" < \n> \nSubject: Bruce Green/Judge Berman exchanged letters \nDate: Wed,"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 20:53:15 +0000 \nImportance: Normal \nAttachments: Professor_Green_letter,_19_C"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "YS) \nSubject: \nII> \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000110"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-04",
+        "event": "September 4, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:42.950Z"
+}

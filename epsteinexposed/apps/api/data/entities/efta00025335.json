@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00025335",
+    "filename": "EFTA00025335.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025335.pdf",
+    "text": "\n\nFrom: \"etravelservices cwtsatotravel.com\" .eetravelservices®cwtsatotravel.com> \nTo: < \n, \nSubject: Travel Authorization 10643456-2 has received final approval \nDate: Mon, 30 Sep 2019 15:09:10 +0000 \nImportance: Normal \nDear \nTravel authorization 10643456-2 has received final approval. \nTrip ID: 10643456-2 \nTraveler name: \nMinor \nCustomer name: OBD-USA-USANYS-NEW YORK SOUTHERN \n(UNYS) \n(JO2104) \nPurpose: R19NYS 13842 - U.S. v. Epstein - Witness Interviews \nDestination: Santa Monica, CA, United States \nDates: 2019-09-17 - 2019-09-20 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# T0006 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00025335",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Authorization",
+        "role": "extracted",
+        "context": "avel.com> \nTo: < \n, \nSubject: Travel Authorization 10643456-2 has received final"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "9 15:09:10 +0000 \nImportance: Normal \nDear \nTravel authorization 1064345"
+      },
+      {
+        "name": "Minor \nCustomer",
+        "role": "extracted",
+        "context": ": 10643456-2 \nTraveler name: \nMinor \nCustomer name: OBD-USA-USANYS-NEW YORK"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "NYS 13842 - U.S. v. Epstein - Witness Interviews \nDestination: Santa Monica, C"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "ness Interviews \nDestination: Santa Monica, CA, United States \nDates: 20"
+      },
+      {
+        "name": "Authorization Approved",
+        "role": "extracted",
+        "context": "- 2019-09-20 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (wit"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "s: Authorization Approved \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "tion Approved \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Santa Monica, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-17",
+        "event": "2019-09-17"
+      },
+      {
+        "date": "2019-09-20",
+        "event": "2019-09-20"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.958Z"
+}

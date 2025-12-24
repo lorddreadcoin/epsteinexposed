@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00021935",
+    "filename": "EFTA00021935.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021935.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: New BOP Docs \nDate: Fri, 24 Jul 2020 02:15:38 +0000 \nOk got it. Will get you the draft tomorrow. \no- te, arcotics nit \nO: \nC: \nOn Jul 23, 2020, at 22:14, \nGreat. Thanks for the quick turnaround on this. \nvrote: \nAlso, I think I flagged this on the call but just to be clear, ould like to take a look at the current versions of the \ndeclarations tomorrow. He knows about the new docs an t  at t  ere may be changes based on them, but I think just \nwants a sense of what the declarations will be. So if you can send me wherever the draft is tomorrow so I can pass along \nto him that'd be great—but no need to incorporate changes based on the new docs if that's not possible by tomorrow. \nThanks. \nFrom: \nSent: Thursday, July 23, 2020 10:11 PM \nTo: \nCc: \nSubject: New BOP Docs \nM— In the new materials from BOP, documents that should be withheld because they may impact Tartaglione are: \nFrom the \n\"All Docs\" \n272 —  286, 517-539, 543-562, 637-641, 657-661, 666-688, 772-778, 827-849, 861-871, 902-918 (reports related to July \n23 incident/Epstein mental health) \n898 (Tartaglione disciplinary history, with reference to July 23 incident as well) \nFrom \nthe \"Assoc Warden\" \n62-64, 66-68, 166-168, 171-172, 174-176, 278-279, 303, 306, 347, 405 (reports related to July 23 incident/Epstein \nmental health) \n401-402 (Tartaglione disciplinary history, with reference to July 23 incident as well) \nLet me know if you have any questions. \nCo-Chief, Narcotics Unit \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00021935\n\nNew \nYork, New York 10007 \nEFTA00021936",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Docs \nDate",
+        "role": "extracted",
+        "context": "o: \nCc: \nSubject: Re: New BOP Docs \nDate: Fri, 24 Jul 2020 02:15:38 +0"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "o- te, arcotics nit \nO: \nC: \nOn Jul 23, 2020, at 22:14, \nGreat. T"
+      },
+      {
+        "name": "All Docs",
+        "role": "extracted",
+        "context": "Tartaglione are: \nFrom the \n\"All Docs\" \n272 —  286, 517-539, 543-56"
+      },
+      {
+        "name": "Assoc Warden",
+        "role": "extracted",
+        "context": "incident as well) \nFrom \nthe \"Assoc Warden\" \n62-64, 66-68, 166-168, 171-"
+      },
+      {
+        "name": "Narcotics Unit",
+        "role": "extracted",
+        "context": "ave any questions. \nCo-Chief, Narcotics Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "nit \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ct of New York \nEFTA00021935\n\nNew \nYork, New York 10007 \nEFTA00021936"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-23",
+        "event": "July 23, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.697Z"
+}

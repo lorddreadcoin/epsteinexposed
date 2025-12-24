@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00024921",
+    "filename": "EFTA00024921.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024921.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS) [Contractor]\"  \nSubject: RE: Courtroom connect \nDate: Thu, 18 Nov 2021 01:34:14 +0000 \nAttachments: 2021-11-17 Courtroom Connect Letter.docx \nFollowing up on this actually, I just spoke with who is requesting courtroom connect for (and he did for NCAA \nalso). He said that getting courtroom connect is not going to happen without a signed order from the judge. He \nrecommended getting it submitted sooner rather than later to leave time for logistics to be worked out. Would it be \npossible to submit a proposed order and request to Judge Nathan soon, tonight or tomorrow? I've drafted one (attached) \nusing the language •  used in his, which I forwarded below. Let me know what you think or if you need anything from me, \nthanks. \nFrom: (USANYS) [Contractor] \nSent: Wednesday, November 17, 2021 6:23 PM \nTo: \n<.>; \n(USANYS) \nI < \nSubject: FW: Courtroom connect \n>; \nFYI, I am going to check in with tomorrow about the procedure for courtroom connect internet (I flagged it for \nher yesterday but forgot to check in this afternoon), but it looks like we will need to send a letter and proposed order to \nthe judge to approve it before coordinating with the tech folks who install and make it happen. If this is in fact what we \nneed to do, which I'll again check with about tomorrow, I think we should try and send such a letter/proposed \norder tomorrow (to ideally get it approved as soon as possible and a tech check scheduled for before Thanksgiving). \nFrom: Mark,. (USANYS) <> \nSent: Wednesday, November 17, 2021 5:59 PM \nTo: (USANYS) [Contractor] \nSubject: RE: Courtroom connect \nFrom: (USANYS) [Contractor] \nSent: Wednesday, November 17, 2021 5:58 PM \nTo: Mark,. (USANYS) <> \nSubject: Courtroom connect \nHey \nWhen you get a chance could you please send me the application you sent to Judge Kaplan to get courtroom connect \napproved? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \nEFTA00024921\n\nNew York, NY 10007 \nOffice: \nCell: \nEFTA00024922",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Courtroom Connect",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2021-11-17 Courtroom Connect Letter.docx \nFollowing up on"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "proposed order and request to Judge Nathan soon, tonight or tomorrow? I'"
+      },
+      {
+        "name": "Hey \nWhen",
+        "role": "extracted",
+        "context": "Subject: Courtroom connect \nHey \nWhen you get a chance could you pl"
+      },
+      {
+        "name": "Judge Kaplan",
+        "role": "extracted",
+        "context": "e the application you sent to Judge Kaplan to get courtroom connect \napp"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "connect \napproved? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-17",
+        "event": "2021-11-17"
+      },
+      {
+        "date": "2021-11-17",
+        "event": "November 17, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.109Z"
+}

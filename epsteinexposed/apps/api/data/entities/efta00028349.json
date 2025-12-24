@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028349",
+    "filename": "EFTA00028349.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028349.pdf",
+    "text": "\n\nFrom: \" (USANYS)\" c> \nTo: \" (USAVI)\" c> \nSubject: Accepted: Jeffrey Epstein Estate/Southern Country International Bank/USVI \nDate: Thu, 02 Apr 2020 12:06:08 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00028349",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "SANYS)\" c> \nTo: \" (USAVI)\" c> \nSubject: Accepted: Jeffrey Epstein Estate/Southern Country International Bank/USVI"
+      },
+      {
+        "name": "Southern Country",
+        "role": "extracted",
+        "context": "epted: Jeffrey Epstein Estate/Southern Country International Bank/USVI \nDate"
+      },
+      {
+        "name": "International Bank",
+        "role": "extracted",
+        "context": "stein Estate/Southern Country International Bank/USVI \nDate: Thu, 02 Apr 2020"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 12:06:08 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00028349"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.069Z"
+}

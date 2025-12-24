@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020850",
+    "filename": "EFTA00020850.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020850.pdf",
+    "text": "\n\nFrom: \"'' \nTo: \nCc: \nSubject: Epstein tips \nDate: Tue, 10 Mar 2020 17:14:47 +0000 \nEmbedded: FW: HIGHLY URGENT: To Geoffre S. Berman. The United_States_Attorney_for_the_S \nouth;m_Distriet_of New York_ Victim_Witness_Coordinator_m_T \nhe_United_States_Attorney's_Office.msg; \nFW:_EXTREMELY_URGENT:_NEW_SUBMISSIONS_&_FORMAL_COMPLAINTS;_TO_ \nDr Nikola_Stepanov_(PhDLQueenslandintegrity_Commissioner_&_The_Hon_Ronald_Sack \nvikAO_QC,The_Royal_Commission_into_Violence,_Abuse,_Neglect_and_Exploitation_of \n_People_with Disability._-....msg \nFYI, attached, per our usual practice. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00020850",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To Geoffre",
+        "role": "extracted",
+        "context": "Embedded: FW: HIGHLY URGENT: To Geoffre S. Berman. The United_States_"
+      },
+      {
+        "name": "The United",
+        "role": "extracted",
+        "context": "URGENT: To Geoffre S. Berman. The United_States_Attorney_for_the_S \nou"
+      },
+      {
+        "name": "Dr Nikola",
+        "role": "extracted",
+        "context": "ONS_&_FORMAL_COMPLAINTS;_TO_ \nDr Nikola_Stepanov_(PhDLQueenslandinteg"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ual practice. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.481Z"
+}

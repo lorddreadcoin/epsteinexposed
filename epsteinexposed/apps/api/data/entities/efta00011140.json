@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011140",
+    "filename": "EFTA00011140.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011140.pdf",
+    "text": "\n\nFrom: \nSubject: Rule \n412 Letter \nDate: Fri, 15 Oct 2021 18:42:23 +0000 \nAttachments: 2021-10-15_Govtletter_re_FRE_412_Final.docx \nHere is the current final version. Let me know if you have any edits, thanksl \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00011140",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "From: \nSubject: Rule \n412 Letter \nDate: Fri, 15 Oct 2021 18:42:23 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "you have any edits, thanksl \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ts, thanksl \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.166Z"
+}

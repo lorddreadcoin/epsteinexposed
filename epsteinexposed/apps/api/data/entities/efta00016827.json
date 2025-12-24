@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016827",
+    "filename": "EFTA00016827.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016827.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: ' (USANYS)\"  \nSubject: RE: Foy \nDate: Thu, 06 Feb 2020 \n16:59:53 +0000 \nWait, he hadn't booked anything yet?? Ok, that is WAY less sympathetic. I assumed that everything was booked I \nFrom: (USANYS) \nSent: Thursday, February 6, 2020 11:56 AM \nTo: (USANYS) \nSubject: Foy \nhttps://nypost.com/2020/01/30/lawyer-for-epstein-guard-has-shouting-match-with-judge-over-vacation-plans/ \nhttps://www.nydailynews.com/new-york/ny-epstein-guards-attorney-vacation-judge-20200130-\nkzttwysh4ffw3ea4puhcnjh7qy-story.html\nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00016827",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Foy \nDate",
+        "role": "extracted",
+        "context": "o: ' (USANYS)\"  \nSubject: RE: Foy \nDate: Thu, 06 Feb 2020 \n16:59:53 +"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "4ffw3ea4puhcnjh7qy-story.html\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y-story.html\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000168"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-06",
+        "event": "February 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.452Z"
+}

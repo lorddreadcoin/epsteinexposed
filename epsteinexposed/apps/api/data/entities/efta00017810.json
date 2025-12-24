@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017810",
+    "filename": "EFTA00017810.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017810.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Attorney who slammed Prince Andrew will 'ruthlessly pursue all leads' in Epstein probe \nDate: Sun, 02 Feb 2020 01:04:44 +0000 \n■ \nSomeone still needs to carry the podium, so we're not out of business... yet. \nSent from my iPhone \nOn Feb 1, 2020, at 7:52 PM, \nYeah. Pretty wild. \nwrote: \nOn Feb 1, 2020, at 7:29 PM, wrote: \nI  feel like you're doing our job for us. We should have seen this and flagged it for you! It's actually a really_ \ngood piece. And you didn't contribute to it, which makes it even better. Chuck Rhoades never had a prince \nducking him! \nOn Feb 1, 2020, at 7:09 PM, wrote: \nhttps://www.dailymail.co.ukinews/article-7956539/Attomey-slammed-Prince-Andrew-ruthlessly-pursue-\nleads-Epstein-probe.html \nEFTA00017810",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: Re: Attorney who slammed Prince Andrew will 'ruthlessly pursue all leads' in Epstein pro"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "siness... yet. \nSent from my iPhone \nOn Feb 1, 2020, at 7:52 PM, \nYea"
+      },
+      {
+        "name": "On Feb",
+        "role": "extracted",
+        "context": "Yeah. Pretty wild. \nwrote: \nOn Feb 1, 2020, at 7:29 PM, wrote:"
+      },
+      {
+        "name": "Chuck Rhoades",
+        "role": "extracted",
+        "context": ", which makes it even better. Chuck Rhoades never had a prince \nducking h"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.639Z"
+}

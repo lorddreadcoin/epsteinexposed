@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00029720",
+    "filename": "EFTA00029720.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029720.pdf",
+    "text": "\n\nFrom: \" \nTo: ,\"Miller Michael\" ' \nrr \nCc: ' ' , \"Weingarten, Reid\" \n\"Lucas, Morgan\" , \"Scavelli, Michael\"\nSubject: RE: Epstein \nDate: Wed, 21 Aug 2019 00:30:35 +0000 \nReceived, thank you. \nFrom: Miller, Michael \nSent: Tuesday, August 20, 2019 16:38 \nTo: \nCc: \nMichael \nSubject: Epstein \n) \n•  Weingarten, Reid cz \nDear \nPlease see the attached that we filed a few minutes ago. \nMike \nMichael C. Miller \nPartner \nwww.steptoe.com/mmiller \nSteptoe \n'direct Steptoe & Johnson LLP \nfax 1114 Avenue of the Americas \ncell New York, NY 10036 \nwww.steptoe.com \n>; \nP.; Lucas, \nMorgan < >; \nScavelli, \nThis message and any attached documents contain information from the law firm Steptoe & Johnson LLP that may be confidential and/or privileged. If you \nare not the intended recipient, please do not read. copy, distribute, or use this information. If you have received this transmission in error, please notify the \nsender immediately by reply e-mail and then delete this message. \nEFTA00029720",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Miller Michael",
+        "role": "extracted",
+        "context": "From: \" \nTo: ,\"Miller Michael\" ' \nrr \nCc: ' ' , \"Weingarten"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "avelli, Michael\"\nSubject: RE: Epstein \nDate: Wed, 21 Aug 2019 00:30:35 +0"
+      },
+      {
+        "name": "Michael \nSent",
+        "role": "extracted",
+        "context": "ed, thank you. \nFrom: Miller, Michael \nSent: Tuesday, August 20, 2019 16:"
+      },
+      {
+        "name": "Michael \nSubject",
+        "role": "extracted",
+        "context": "ust 20, 2019 16:38 \nTo: \nCc: \nMichael \nSubject: Epstein \n) \n•  Weingarten, R"
+      },
+      {
+        "name": "Dear \nPlease",
+        "role": "extracted",
+        "context": "n \n) \n•  Weingarten, Reid cz \nDear \nPlease see the attached that we file"
+      },
+      {
+        "name": "Mike \nMichael",
+        "role": "extracted",
+        "context": "we filed a few minutes ago. \nMike \nMichael C. Miller \nPartner \nwww.stept"
+      },
+      {
+        "name": "Miller \nPartner",
+        "role": "extracted",
+        "context": "inutes ago. \nMike \nMichael C. Miller \nPartner \nwww.steptoe.com/mmiller \nSte"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-20",
+        "event": "August 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.052Z"
+}

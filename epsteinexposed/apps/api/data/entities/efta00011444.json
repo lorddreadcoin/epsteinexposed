@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00011444",
+    "filename": "EFTA00011444.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011444.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: Maxwell motions 1 \nof 3 \nDate: Thu, 28 Jan 2021 23:08:35 +0000 \nAttachments: 1.25.2021_ Filing_ 1.zip; 2021.1.25_Cover Letter to_Judge_Nathan_re_Pretrial_Motions.pdf \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00011444",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cover Letter",
+        "role": "extracted",
+        "context": "021_ Filing_ 1.zip; 2021.1.25_Cover Letter to_Judge_Nathan_re_Pretrial_M"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "than_re_Pretrial_Motions.pdf \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Motions.pdf \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.636Z"
+}

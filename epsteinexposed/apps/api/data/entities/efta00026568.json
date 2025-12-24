@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00026568",
+    "filename": "EFTA00026568.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026568.pdf",
+    "text": "\n\nFrom:  ]\"\n <I \nTo:  \n1' <1 \nSubject: RE: bank records \nDate: Mon, 01 Jun 2020 18:08:04 +0000 \nAre we planning to leave just these FirstBank Puerto Rico records or are there other bank records that we want to leave? \nFrom: \n'*\n=> \nSent: Monday, June 1, 202011:12 AM \nTo: \nSubject: bank records \nHi M, \nFor the Epstein case, are you able to assist with getting a copy of some recent bank subpoena returns to our case agent, \n? We were hoping to leave a copy for her downstairs at 1 Saint Andrews sometime this week. I'm not sure \nwho might be in the office to handle this, but if you could possibly coordinate that, it would be extremely helpful. \nThanks! \nThe returns are saved here: \nWisa.doj.gov\\ cloud \\ NYS \\ StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationVi 2018 SDNY investigation \\Subpoena \nReturns\\FirstBank Puerto Rico \nMuch appreciated—\nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00026568",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bank Puerto",
+        "role": "extracted",
+        "context": "ning to leave just these FirstBank Puerto Rico records or are there oth"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "copy for her downstairs at 1 Saint Andrews sometime this week. I'm not s"
+      },
+      {
+        "name": "Subpoena \nReturns",
+        "role": "extracted",
+        "context": "onVi 2018 SDNY investigation \\Subpoena \nReturns\\FirstBank Puerto Rico \nMuch a"
+      },
+      {
+        "name": "Rico \nMuch",
+        "role": "extracted",
+        "context": "ena \nReturns\\FirstBank Puerto Rico \nMuch appreciated—\nAssistant United"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "uerto Rico \nMuch appreciated—\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "appreciated—\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00026568"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.578Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032477",
+    "filename": "EFTA00032477.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032477.pdf",
+    "text": "\n\nFrom: ' \nSubject: FW: Voicemail from Congresswoman Frankel \nDate: Wed, 28 Jul 2021 00:11:19 +0000 \nAttachments: voicemail-837.m4a \nHE— FYI, Congressman Lois Frankel from FL left a VM saying that Congress wants to look into the Epstein \ncase but one of the victim's lawyers said she should reach out to first. (Unclear how this would fit under her \ncurrent committee assignments on the Appropriations Committee and Veterans Affairs Committee...) My thought is that \nthis should be routed to OLA and they should handle the request/response in a more formal way; do you have a different \nview? If you agree, who's the best person to reach out to? Thanks very much. \nFrom: \nSent: Tuesday, July 27, 2021 7:51 PM \nTo: \nSubject: Voicemail from Congresswoman Frankel \nThis afternoon, I received the attached voicemail on my cellphone. Jack Scarola, who represents had \ntold me that someone from Congress had reached out to him about the Epstein case, and Jack said he'd provided them \nwith my cellphone number. \nWhen would be a good time to discuss? \nThanks, \nEFTA00032477",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Congresswoman Frankel",
+        "role": "extracted",
+        "context": "Subject: FW: Voicemail from Congresswoman Frankel \nDate: Wed, 28 Jul 2021 00:11"
+      },
+      {
+        "name": "Congressman Lois",
+        "role": "extracted",
+        "context": ": voicemail-837.m4a \nHE— FYI, Congressman Lois Frankel from FL left a VM say"
+      },
+      {
+        "name": "Appropriations Committee",
+        "role": "extracted",
+        "context": "committee assignments on the Appropriations Committee and Veterans Affairs Committe"
+      },
+      {
+        "name": "Veterans Affairs",
+        "role": "extracted",
+        "context": "Appropriations Committee and Veterans Affairs Committee...) My thought is t"
+      },
+      {
+        "name": "Jack Scarola",
+        "role": "extracted",
+        "context": "ed voicemail on my cellphone. Jack Scarola, who represents had \ntold me"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-27",
+        "event": "July 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.738Z"
+}

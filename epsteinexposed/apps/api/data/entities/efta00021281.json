@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00021281",
+    "filename": "EFTA00021281.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021281.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Daily Beast has it \nDate: Sun, 07 Jul 2019 01:40:11 +0000 \nImportance: Normal \nYeah think you should too \nSent from my iPhone \nOn \nJul 6, 2019, at 9:38 PM, wrote: \nThe FBI already called Kaplan Hecker without our knowledge, earlier (along with two other victims and their attorneys). \nI'll call her as well, though. \nFrom: \nSent: Saturday, July 06, 2019 21:37 \nTo: \nSubject: Re: Daily Beast has it \nI think \nyou should reach out to tonight \nSent from my iPhone \nOn Jul 6, 2019, at 9:10 PM, \nYeah they're literally just leaking the press release — \nrote: \nThe case is being handled by the Public \nCorruption Unit of the Southern District of \nNew York, with assistance from the district's human-trafficking officials and the \nFBI. \nand the sealed indictment — \naccording to details of the arrest and indictment shared by \ntwo officials. \nFrom:\nSent: Saturday, July 06, 2019 21:08 \nTo: \nCc: \nSubject: Re: Daily Beast has it \nAnd now is reporting that it's our unit \nSent from my iPhone \nOn Jul 6, 2019, at 8:06 PM, -wrote: \nEFTA00021281\n\nhttps://www.thedailybeast.comneffrey-epstein-arrested-for-sex-trafficking-of-minors-source \nFBI is leaking the content of the indictment. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021282",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Daily Beast",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Re: Daily Beast has it \nDate: Sun, 07 Jul 201"
+      },
+      {
+        "name": "Normal \nYeah",
+        "role": "extracted",
+        "context": "9 01:40:11 +0000 \nImportance: Normal \nYeah think you should too \nSent fr"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "you should too \nSent from my iPhone \nOn \nJul 6, 2019, at 9:38 PM, wro"
+      },
+      {
+        "name": "Kaplan Hecker",
+        "role": "extracted",
+        "context": "rote: \nThe FBI already called Kaplan Hecker without our knowledge, earlie"
+      },
+      {
+        "name": "Public \nCorruption",
+        "role": "extracted",
+        "context": "case is being handled by the Public \nCorruption Unit of the Southern District"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ublic \nCorruption Unit of the Southern District of \nNew York, with assistance"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "e indictment. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "July 06, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.340Z"
+}

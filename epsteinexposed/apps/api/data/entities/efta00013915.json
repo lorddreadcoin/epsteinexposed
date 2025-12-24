@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00013915",
+    "filename": "EFTA00013915.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013915.pdf",
+    "text": "\n\nFrom: \nTo: \nBce: \nSubject: RE: SDFL - Epstein \nDate: Tue, 03 Jun 2008 18:54:38 +0000 \nImportance: Normal \nYes, please. Thank you! \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom \nSent: Tuesday, June 03, 2008 2.54 PM \nTo: \nSubject: FW: SDFL - Epstein \nI was also going to send you a hard copy, with fancy tabs. Do you still want? \nFrom \nSent: Tuesday, June 03, 2008 12:53 PM \nTo: \nCc: \nSubject: SDFL - Epstein \n« File: Epstein ltr Oft of DAG 06 03 08.pdf » Sent on behalf of First Assistant U.S. Attorney \nSDFL. Original signed letter with attachments to follow via Fed Ex. \nStaff Assistant \nU.S. Attorney's \nOffice \nS.D. of \nFlorida \nEFTA00013915",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "o: \nBce: \nSubject: RE: SDFL - Epstein \nDate: Tue, 03 Jun 2008 18:54:38 +0"
+      },
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "8 18:54:38 +0000 \nImportance: Normal \nYes, please. Thank you! \nAssistan"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "e. Thank you! \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom \nSent: Tuesday, June 03"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "Beach, FL 33401 \nPhone \nFax \nFrom \nSent: Tuesday, June 03, 2008 2.54"
+      },
+      {
+        "name": "First Assistant",
+        "role": "extracted",
+        "context": "03 08.pdf » Sent on behalf of First Assistant U.S. Attorney \nSDFL. Original"
+      },
+      {
+        "name": "Fed Ex",
+        "role": "extracted",
+        "context": "ith attachments to follow via Fed Ex. \nStaff Assistant \nU.S. Attor"
+      },
+      {
+        "name": "Staff Assistant",
+        "role": "extracted",
+        "context": "hments to follow via Fed Ex. \nStaff Assistant \nU.S. Attorney's \nOffice \nS.D"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-03",
+        "event": "June 03, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.728Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019062",
+    "filename": "EFTA00019062.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019062.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: travel \nDate: Tue, 18 Feb 2020 15:24:06 +0000 \nJust as a reminder, I'll be out of the office tomorrow and Wednesday—MI and I are traveling to Pensacola to interview \nEpstein's houseman from the 1990s through 2002. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00019062",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "1990s through 2002. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "2. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York. NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00019062"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.211Z"
+}

@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00018989",
+    "filename": "EFTA00018989.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018989.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \n)\" < \nSubject: RE: FOIA, Jeffrey Epstein \nDate: Tue, 16 Mar 2021 16:44:00 +0000 \nSure thing! \nFrom: \nSent: Tuesday, March 16, 2021 12:30 PM \nTo: \nCc: \nSubject: RE: FOIA, Jeffrey Epstein \nHi=, \nThanks very much, I'll check with \ntogether. \nBest, \n==\n> \n(USANYS):,\nto make sure I have the complete data set, and thanks for your help putting this \nFrom: \nSent: Tuesday, March 16, 2021 10:08 AM \nTo: \nCc: \nSubject: RE: FOIA, Jeffrey Epstein \nHi \n>; \n>; \n1<> \n(USANYS) \nI've attached a list that I put together. We have also forwarded a list to which may be more comprehensive. \nWe've tried our best to chase all of these requests down. Please let me know if you have any questions. \nThanks, \nFrom: \nSent: Monday, March 15, 2021 5:33 PM \nTo: \nCc: \n> \nSubject: RE: FOIA, Jeffrey Epstein \n(USANYS) \nI am adding an \nattorney \non here. He may have a list of such requests to pass along. \nBest, \nEFTA00018989\n\nFrom: \nSent: Monday, March 15, 2021 5:10 PM \nTo: \nCc: \nSubject: FOIA, Jeffrey Epstein \nHi \n(USANYS) \nIn connection with a criminal discovery matter, my colleagues and I were hoping to track down a list of all Jeffrey Epstein-\nrelated FOIA requests, which we understand are tracked through EOUSAIrecommended that we reach out \nto you, in the hopes that you might be able to help us pull together a list (or help us connect with someone who can \ngather that information). We'd very much appreciate any information or guidance you might have. \nThanks so much, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018990",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: ' \nTo: ' \n)\" < \nSubject: RE: FOIA, Jeffrey Epstein \nDate: Tue, 16 Mar 2021 16:44:00 +0000 \nSure thin"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "might have. \nThanks so much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ks so much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018990"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-03-16",
+        "event": "March 16, 2021"
+      },
+      {
+        "date": "2021-03-15",
+        "event": "March 15, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.074Z"
+}

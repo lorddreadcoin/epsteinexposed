@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016620",
+    "filename": "EFTA00016620.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016620.pdf",
+    "text": "\n\nFrom: ' \nTo: Christian Everdell \n,  \"Laura \nMenninger\" \nCc: ' \" \n\"'ll(IJSANI,6> \nSubject: Dietz/Loftus redactions \nDate: Tue, 23 Nov 2021 20:08:07 +0000 \nAttachments: Ex._1_[proposed_redactions].pdf \nCounsel, \nThe Court ordered us to docket and propose redactions to the Dietz/Loftus briefing and the Court's Order. We are only \nproposing redactions to Exhibit 2 to your response, as attached. \nAssuming you have no other redactions, we'll plan to file a cover letter and send our proposed redactions to the Court. \nYou can then docket the redacted version of your response at your convenience today. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00016620",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: ' \nTo: Christian Everdell \n,  \"Laura \nMenninger\" \nCc: '"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "To: Christian Everdell \n,  \"Laura \nMenninger\" \nCc: ' \" \n\"'ll(IJSANI,6> \nSu"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "convenience today. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.100Z"
+}

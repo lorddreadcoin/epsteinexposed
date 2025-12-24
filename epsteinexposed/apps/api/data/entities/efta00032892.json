@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032892",
+    "filename": "EFTA00032892.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032892.pdf",
+    "text": "\n\nFrom: ' \nTo: ' (USANYS)\"  \nCc: ' \" \n, ' \" \n(USANYS)\" \nSubject: RE: Epstein Victim Travel \nDate: Thu, 22 Aug 2019 16:23:42 +0000 \nThank you very much. \nFrom: (USANYS) \nSent: Thursday, August 22, 2019 12:23 PM \nTo: \nCc: \n(USANYS) c> \nSubject: RE: Epstein Victim Travel \nlce \nYes. \nFrom: \nSent: Thursday, August 22, 2019 11:56 AM \nTo: (USANYS) la> \nCc: \n(LISANYS)<> \nSubject: Epstein Victim \nTravel \n>; \n>; \nJudge Berman has scheduled a  final conference in the Epstein case at which he will allow victims to be heard before \ndismissing the case. A number of victims would like to attend, but they are unable to afford travel costs. May we have \napproval for to pay for flights and hotels for victims who wish to attend the conference but otherwise cannot \nafford the cost? \nEFTA00032892",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Victim",
+        "role": "extracted",
+        "context": "' \" \n(USANYS)\" \nSubject: RE: Epstein Victim Travel \nDate: Thu, 22 Aug 201"
+      },
+      {
+        "name": "Travel \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Victim Travel \nDate: Thu, 22 Aug 2019 16:23:42 +0"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "stein Victim \nTravel \n>; \n>; \nJudge Berman has scheduled a  final confer"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-22",
+        "event": "August 22, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.717Z"
+}

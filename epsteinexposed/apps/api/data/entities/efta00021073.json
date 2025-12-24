@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00021073",
+    "filename": "EFTA00021073.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021073.pdf",
+    "text": "\n\nFrom:  )\" \nTo:  \n)\"  \nSubject: email \nDate: Thu, 23 Jan 2020 17:21:18 +0000 \nEmbedded: RE:_Maxwell's_cell_number.msg \nSaw the article about the email breach. Based on this other article, sounds like it might be \nhttpsfinypost.com/2019/12/02/email-from-prince-andrew-seems-to-show-he-does-remember-virginia-giuffren \nga=2.135775665.1862402442.1579799706-587335357.1553894821 \nBased on your earlier email (attached), looks like we already have subscriber info for it, and the subpoena had a letter \nrequesting preservation attached. Let me know if you had something else in mind, but sounds like this is already sorted \nout. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021073",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "this is already sorted \nout. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "orted \nout. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021073"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "1862402442",
+      "1579799706",
+      "1553894821"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.964Z"
+}

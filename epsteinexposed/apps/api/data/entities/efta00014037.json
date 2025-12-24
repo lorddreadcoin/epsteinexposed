@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00014037",
+    "filename": "EFTA00014037.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014037.pdf",
+    "text": "\n\n12/01/2008 12:34 PM \nFrom: Jay Lefkowitz \nTo: (USAFLS)\" \nCc: \nSubject: Re: Jeffrey Epstein \nDate: Wed, 03 Dec 2008 21:47:34 +0000 \nImportance: Normal \n- Sorry for not responding earlier. I am not planning on coming down for the meeting. \nJay \nTo < \ncc \nSubject Jeffrey \nEpstein \nHi Jay — Are you going to be at the meeting on Thursday with Roy? \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n*WWW**WWW**WWW**WWW**WWW**WWW**WWW**WWW**WWW**WWW**WWW***** \nThe information contained in \nthis communication is \nconfidential, may be attorney-client \nprivileged, may \nconstitute inside information, and is \nintended only for \nthe use of the addressee. It is the property of \nKirkland & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be \nunlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn \ne-mail or by e-mail to \n,  and \ndestroy this communication and all copies thereof, \nincluding \nall attachments. \n*******************************WWW**WWW**WWW**WWW**WWW**WWW \nEFTA00014037",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ": Jay Lefkowitz \nTo: (USAFLS)\" \nCc: \nSubject: Re: Jeffrey Epstein \nDate: Wed, 03 Dec 2008 21:47:34 +0000 \nImportanc"
+      },
+      {
+        "name": "Jay Lefkowitz",
+        "role": "extracted",
+        "context": "12/01/2008 12:34 PM \nFrom: Jay Lefkowitz \nTo: (USAFLS)\" \nCc: \nSubject:"
+      },
+      {
+        "name": "Jay \nTo",
+        "role": "extracted",
+        "context": "coming down for the meeting. \nJay \nTo < \ncc \nSubject Jeffrey \nEpste"
+      },
+      {
+        "name": "Subject Jeffrey",
+        "role": "extracted",
+        "context": "the meeting. \nJay \nTo < \ncc \nSubject Jeffrey \nEpstein \nHi Jay — Are you go"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "y \nTo < \ncc \nSubject Jeffrey \nEpstein \nHi Jay — Are you going to be at"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "day with Roy? \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n*WWW**"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \n*WWW**WWW**WWW**WWW**WWW**WW"
+      },
+      {
+        "name": "Ellis International",
+        "role": "extracted",
+        "context": "and & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, discl"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-12-01",
+        "event": "12/01/2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.990Z"
+}

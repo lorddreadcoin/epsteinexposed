@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028379",
+    "filename": "EFTA00028379.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028379.pdf",
+    "text": "\n\nFrom: \" \nTo: Douglas Bloom <j \nSubject: RE: Epstein \nDate: Tue, 09 Jul 2019 15:35:06 +0000 \nImportance: Normal \nThanks very \nmuch, Doug. Hope all is well with you. \nFrom: Douglas Bloom <> \nSent: Monday, July 8, 2019 4:45 PM \nTo: \nSubject: Epstein \nSaw you picked up the Epstein case. Congrats! Looks like a great, impactful one. \nI hope all is well. \nDoug \nEFTA00028379",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Douglas Bloom",
+        "role": "extracted",
+        "context": "From: \" \nTo: Douglas Bloom <j \nSubject: RE: Epstein \nDat"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ouglas Bloom <j \nSubject: RE: Epstein \nDate: Tue, 09 Jul 2019 15:35:06 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 15:35:06 +0000 \nImportance: Normal \nThanks very \nmuch, Doug. Hope all is"
+      },
+      {
+        "name": "Epstein \nSaw",
+        "role": "extracted",
+        "context": ", 2019 4:45 PM \nTo: \nSubject: Epstein \nSaw you picked up the Epstein cas"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "July 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.133Z"
+}

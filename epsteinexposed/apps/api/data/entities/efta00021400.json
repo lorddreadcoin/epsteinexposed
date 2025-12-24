@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021400",
+    "filename": "EFTA00021400.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021400.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Weingarten, Reid\"  \nCc: \nSubject: RE: bail topics \nDate: Mon, 15 Jul 2019 23:18:43 +0000 \nImportance: Normal \nReid, \nNo problem, and we can chat later this week at the hearing and then meet when that makes sense. In the interim we'll \nstart work on some general discovery and also on a draft protective order. \nthanks, \nFrom: Weingarten, Reid \nSent: Monday, July 15, 2019 16:47 \nTo: \nCc: \nSubject: Re: bail topics \n> \nSo in a  word I am eager to sit down with you guys to figure out if there is any way forward at all to find common \nground in this nightmare...a combination of demanding judges in other cases and an unexpected potential \nconflict has tied me in knots today...sorry...and I am on the west coast the rest of the week...obviously this is \nnot going anywhere soon so hopefully we can find time when I get back...again sorry for the false starts....reid \nSent from my BlackBerry 10 smartphone. \nFrom: \nSent: Monday, July 15, 2019 2:38 PM \nTo: Martin G. Weinberg; Weingarten, Reid \nCc: \nSubject: RE: bail topics \nMarty, Reid, \nBriefly following up on this morning, if you could please let us know what if any information you're able to provide about \nthe passport we discussed, with the copies we provided to you, we can address any new info as appropriate for a possible \nsubmission tomorrow. \nRelated, something I'm not sure we've specifically asked, and I'm not sure whether pretrial asked—can you please advise \nwhether Mr. Epstein currently is, or has been in the past, a citizen or legal permanent resident of a country other than the \nUnited States? \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021400\n\nEFTA00021401",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "an you please advise \nwhether Mr. Epstein currently is, or has been"
+      },
+      {
+        "name": "Normal \nReid",
+        "role": "extracted",
+        "context": "9 23:18:43 +0000 \nImportance: Normal \nReid, \nNo problem, and we can chat"
+      },
+      {
+        "name": "Reid \nSent",
+        "role": "extracted",
+        "context": ". \nthanks, \nFrom: Weingarten, Reid \nSent: Monday, July 15, 2019 16:47"
+      },
+      {
+        "name": "Reid \nCc",
+        "role": "extracted",
+        "context": "rtin G. Weinberg; Weingarten, Reid \nCc: \nSubject: RE: bail topics \nM"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "tes? \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-15",
+        "event": "July 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.595Z"
+}

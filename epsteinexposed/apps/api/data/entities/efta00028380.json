@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00028380",
+    "filename": "EFTA00028380.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028380.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Epstein Travel \nDate: Thu, 27 Jun 2019 18:47:49 +0000 \nImportance: Normal \nThanks very much for double-checking — we'll see what happens over the next couple days! \nFrom: \nSent: Thursday, June 27, 2019 14:16 \nTo: \n; \n(NY) (FBI) <>; —.(NY) \n(FBI) c> \nSubject: Fwd: Epstein Travel \n>; >; \nBegin forwarded message: \nFrom: ' \n(NY) (FBI)\" < \nDate: June 27, 2019 at 13:52:15 EDT \nTo: \" \n•  (NY) (FBI)\" \nc \nSubject: Epstein Travel \nHey! \n>, \nI searched Epstein's travel records from 6/1/2019 to 6/27/2019 at noon and attached the record. His last record \nshows an OUTBOUND flight on 6/14/2019 to Paris. \nSearch capabilities only show international travel and are limited if he travels to the islands because it is US \nTerritory. It is unclear why some OUTBOUND/INFBOUND records show Epstein going to/from the islands \nand others don't but it is likely up to how CBP inputs their information. \nHope this helps! \nEFTA00028380",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Travel",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Epstein Travel \nDate: Thu, 27 Jun 2019 18:47"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 18:47:49 +0000 \nImportance: Normal \nThanks very much for double-checking"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-01",
+        "event": "6/1/2019"
+      },
+      {
+        "date": "2019-06-27",
+        "event": "6/27/2019"
+      },
+      {
+        "date": "2019-06-14",
+        "event": "6/14/2019"
+      },
+      {
+        "date": "2019-06-27",
+        "event": "June 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.136Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00018165",
+    "filename": "EFTA00018165.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018165.pdf",
+    "text": "\n\nFrom: ' \nTo: 1=laiSis1YS)\" < (USANYS)\" \nCc: '\nSubject: Fwd: House Oversight issue \nDate: Tue, 09 Jul 2019 14:21:02 +0000 \nImportance: Normal \nSee below. \nI  have not yet responded. \nAlso late yesterday, call from \nI did not yet connect with him. \nLet's discuss. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \nDate: July 9, 2019 at 8:52:45 AM EDT \nTo: \" \n)\"\nSubject: House Oversight issue \n—good morning. Hope that you are well. I received a call from the House Oversight Committee yesterday \nrelated to the Jeffrey Epstein indictment. Would you be the right point of contact to discuss their request? If not, could \nyou put me in touch with the team handling this matter? \nThanks, \nDeputy Assistant Attorney General \nOffice of Legislative Affairs \nU.S. Department of Justice \nEFTA00018165",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "use Oversight Committee yesterday \nrelated to the Jeffrey Epstein indictment. Would you be the right point of conta"
+      },
+      {
+        "name": "House Oversight",
+        "role": "extracted",
+        "context": "USANYS)\" \nCc: '\nSubject: Fwd: House Oversight issue \nDate: Tue, 09 Jul 2019"
+      },
+      {
+        "name": "Normal \nSee",
+        "role": "extracted",
+        "context": "9 14:21:02 +0000 \nImportance: Normal \nSee below. \nI  have not yet respo"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "Let's discuss. \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Deputy Assistant",
+        "role": "extracted",
+        "context": "ndling this matter? \nThanks, \nDeputy Assistant Attorney General \nOffice of L"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "r? \nThanks, \nDeputy Assistant Attorney General \nOffice of Legislative Affair"
+      },
+      {
+        "name": "Legislative Affairs",
+        "role": "extracted",
+        "context": "t Attorney General \nOffice of Legislative Affairs \nU.S. Department of Justice"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.315Z"
+}

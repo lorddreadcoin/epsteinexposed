@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00004055",
+    "filename": "EFTA00004055.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 3\\VOL00003\\IMAGES\\0001\\EFTA00004055.pdf",
+    "text": "\n\nITEM \nWAS NOT \nSCANNED \nDESCRIPTION \nVp'(01(e,o \nWm) \\mrdle,\nOfficial Dectab Instruction(s)- Revised July 27, 20M \nEFTA00004055\n\n- \nEFTA00004056",
+    "pageCount": 2,
+    "dataset": "Dataset 3"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Official Dectab",
+        "role": "extracted",
+        "context": "TION \nVp'(01(e,o \nWm) \\mrdle,\nOfficial Dectab Instruction(s)- Revised July"
+      },
+      {
+        "name": "Revised July",
+        "role": "extracted",
+        "context": "ficial Dectab Instruction(s)- Revised July 27, 20M \nEFTA00004055\n\n- \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:31.925Z"
+}

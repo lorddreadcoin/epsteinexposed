@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00015630",
+    "filename": "EFTA00015630.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015630.pdf",
+    "text": "\n\nFrom: \nTo: Ra mond L I   n \nCc \nSubject: : ongratu awns \nDate: Tue, 09 Jul 2019 16:00:22 +0000 \nImportance: Normal \nHi Ray, \nThere are no changes to the plea agreement I sent on Wednesday, 7/3 -- attached again here. And the Magistrate \nCourt sent an email yesterday scheduling the plea for tomorrow (Wednesday, July 10) at 11:30 a.m. (their email \nwas sent at 10:18 a.m. yesterday). So we're on for tomorrow, 11:30 a.m. at the Magistrate's Court in 5A, and \nshould be all set. \nthanks, \n Original Message \nFrom: Raymond L Colon \n<rIcolonesq@,aol.com> \nSent: Tuesda Jul 09 2019 10:17 \nTo: \n)\"\nIMIE:' \nSubject: Re: Congratulations \nPlease send me the plea agreement today. \nSent from my iPhone \n> On Jul 9, 2019, at 10:16 AM, Raymond L Colon < \nwrote: \n> Are we still on for tomorrow? Any confirmation on the time? \n> \nSent from my iPhone \n>> On Jul 8, 2019, at 9:25 PM, Raymond L Colon wrote: \n>> Job well done. Congratulations on the Epstein case. \n>> \nSent from my iPhone \nEFTA00015630",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: Ra mond L I   n \nCc \nSubject: : ongratu awns \nDate: Tue, 0"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "9 16:00:22 +0000 \nImportance: Normal \nHi Ray, \nThere are no changes to"
+      },
+      {
+        "name": "Magistrate \nCourt",
+        "role": "extracted",
+        "context": "attached again here. And the Magistrate \nCourt sent an email yesterday sched"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "should be all set. \nthanks, \n Original Message \nFrom: Raymond L Colon \n<rIco"
+      },
+      {
+        "name": "Tuesda Jul",
+        "role": "extracted",
+        "context": "<rIcolonesq@,aol.com> \nSent: Tuesda Jul 09 2019 10:17 \nTo: \n)\"\nIMIE:'"
+      },
+      {
+        "name": "Congratulations \nPlease",
+        "role": "extracted",
+        "context": "To: \n)\"\nIMIE:' \nSubject: Re: Congratulations \nPlease send me the plea agreement to"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "oday. \nSent from my iPhone \n> On Jul 9, 2019, at 10:16 AM, Raymond"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.110Z"
+}

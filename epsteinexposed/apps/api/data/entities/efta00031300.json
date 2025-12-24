@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031300",
+    "filename": "EFTA00031300.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031300.pdf",
+    "text": "\n\nFrom: \"Westlaw a westlaw.com\" <Westlaw@westlaw.com> \nTo: \nSubject: [EXTERNAL] TITLE 18 INSIDER TRADING \nDate: Tue, 30 Nov 2021 05:10:59 +0000 \nAttachments: TITLE 18 INSIDER_TRADING.pdf \nsent you \ncontent from Westlaw Edge. \nPlease see the attached file. \nItem: TITLE 18 INSIDER TRADING \nCitation: 130 Yale \nL.J. \n1828 \nSent \nOn• r 29, 2021 \nSent By: \nClient ID: DOJ \nNote: \nWestlaw CO 2021 Thomson Reuters. No claim to original U.S. Government Works. \nEFTA00031300",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Westlaw Edge",
+        "role": "extracted",
+        "context": "G.pdf \nsent you \ncontent from Westlaw Edge. \nPlease see the attached fil"
+      },
+      {
+        "name": "Sent \nOn",
+        "role": "extracted",
+        "context": "tation: 130 Yale \nL.J. \n1828 \nSent \nOn• r 29, 2021 \nSent By: \nClient"
+      },
+      {
+        "name": "Sent By",
+        "role": "extracted",
+        "context": "1828 \nSent \nOn• r 29, 2021 \nSent By: \nClient ID: DOJ \nNote: \nWest"
+      },
+      {
+        "name": "Thomson Reuters",
+        "role": "extracted",
+        "context": ": DOJ \nNote: \nWestlaw CO 2021 Thomson Reuters. No claim to original U.S. Go"
+      },
+      {
+        "name": "Government Works",
+        "role": "extracted",
+        "context": "rs. No claim to original U.S. Government Works. \nEFTA00031300"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.769Z"
+}

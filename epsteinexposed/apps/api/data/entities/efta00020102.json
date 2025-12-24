@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020102",
+    "filename": "EFTA00020102.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020102.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\" <1 \nTo: InANYS)\" <I \n›, II \nSubject: letters to MDC \nDate: Mon, 11 Oct 2021 21:44:48 +0000 \nAttachments: 2021.10.11_MDC_-_Maxwell_MAIN.docx; 2021.10.11_MDC_-\nMaxwell \nPASSWORD.docx \n)\" \nDraft letters to MDC are attached for your review — thanks! One drive to gollIll \nSaved here: \\\\I \nMaxwell \nParalegal Specialist \nU.S. Attorney's Office I SONY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell: \nCover Letters \\To \nEFTA00020102",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ill \nSaved",
+        "role": "extracted",
+        "context": "ew — thanks! One drive to gollIll \nSaved here: \\\\I \nMaxwell \nParalegal"
+      },
+      {
+        "name": "Maxwell \nParalegal",
+        "role": "extracted",
+        "context": "to gollIll \nSaved here: \\\\I \nMaxwell \nParalegal Specialist \nU.S. Attorney's O"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Office I SONY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell"
+      },
+      {
+        "name": "Cover Letters",
+        "role": "extracted",
+        "context": "rk, NY 10007 \nOffice: \nCell: \nCover Letters \\To \nEFTA00020102"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.192Z"
+}

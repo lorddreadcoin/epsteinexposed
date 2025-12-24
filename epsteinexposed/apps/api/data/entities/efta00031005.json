@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031005",
+    "filename": "EFTA00031005.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031005.pdf",
+    "text": "\n\nFrom: \nTo: ' \nSubject: RE: Found her! \nDate: Fri, 16 Aug 2019 04:20:54 +0000 \nI mean ... it's a good burgerl \nFrom: \nSent: Thursday, August 15, 2019 16:40 \nTo: \nSubject: Found her! \nAll you had to do was go to the local In-N-Out burger...just sayin' \nhttps://nypost.com/2019/08/15/jeffrey-epsteins-gal-pal-ghislaine-maxwell-spotted-at-in-n-out-burger-in-first-photos-\nsince-his-death/ \nPublic Affairs \nU.S. Attorney's Office for the \nSouthern District of New York \nWebsite: www.justice.goviusao-sdny\nFacebook: https://wwwfacebook.com/usaosdnv\nFollow us on Twitter: @SDNYnews \nEFTA00031005",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "rst-photos-\nsince-his-death/ \nPublic Affairs \nU.S. Attorney's Office for t"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nWebsite: www.jus"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-15",
+        "event": "August 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.221Z"
+}

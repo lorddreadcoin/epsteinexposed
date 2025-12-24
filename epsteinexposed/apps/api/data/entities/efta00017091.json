@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00017091",
+    "filename": "EFTA00017091.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017091.pdf",
+    "text": "\n\nFrom:I \nTo:' \nSubject: RE: Call \nDate: Mon, 20 Sep 2021 18:59:52 +0000 \nInline-Images: image001.jpg: image002.jpg: image005.jpg \nWhat happened? Call just dropped for me. \nFrom: \nSent: Monday, September 20, 2021 1:11 PM \nTo: \nSubject: RE: Call \nCan we do 1:30 pm today? \nSpecial Agent \nU.S. Department of Justice • Office of the Inspector General • New York Field Office \nNew York, NY 10004 \nFrom: \nSent: Monday, September 20, 2021 12:38 PM \nTo:I= a> \nSubject: RE: Call \nHi —  Want to talk today? When are you free? \nFrom: M, \nSent: Thursday, September 16, 2021 9:15 AM \nTo: \nSubject: Call \nGood Morning = \nPlease let me know if you have a few minutes to speak with myself and SSA \nThank you. \nregarding the Epstein case. \nSpecial Agent \nU.S. Department of Justice • Office of the Inspector General • New York Field Office \nNew York, NY 10004 \nEFTA00017091",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Call \nDate",
+        "role": "extracted",
+        "context": "From:I \nTo:' \nSubject: RE: Call \nDate: Mon, 20 Sep 2021 18:59:52 +0"
+      },
+      {
+        "name": "Call \nCan",
+        "role": "extracted",
+        "context": "21 1:11 PM \nTo: \nSubject: RE: Call \nCan we do 1:30 pm today? \nSpecial"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "ll \nCan we do 1:30 pm today? \nSpecial Agent \nU.S. Department of Justice •"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "nt of Justice • Office of the Inspector General • New York Field Office \nNew"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Inspector General • New York Field Office \nNew York, NY 10004 \nFrom: \nS"
+      },
+      {
+        "name": "Call \nHi",
+        "role": "extracted",
+        "context": "38 PM \nTo:I= a> \nSubject: RE: Call \nHi —  Want to talk today? When a"
+      },
+      {
+        "name": "Call \nGood",
+        "role": "extracted",
+        "context": ", 2021 9:15 AM \nTo: \nSubject: Call \nGood Morning = \nPlease let me know"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-20",
+        "event": "September 20, 2021"
+      },
+      {
+        "date": "2021-09-16",
+        "event": "September 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.990Z"
+}

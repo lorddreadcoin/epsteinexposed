@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030999",
+    "filename": "EFTA00030999.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030999.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: GM photo on Bannon phone \nDate: Fri, 11 Jun 2021 16:30:59 +0000 \nAttachments: GM_Screenshot_2021-06-11 122815.jpg \nH \nI hope you're well! I'm helping out with the responsiveness review for WBTW and I've been looking through Steve \nBannon's iPhone 7 on Cellebrite. As I was going through the images from that phone, I found an image of Trump and \nGhislaine Maxwell on Bannon's phone (see screenshot from Cellebrite, attached). I discussed with Sunny and we wanted \nto flag this for you, in case it was of any importance to you, since you are on both cases. \nPlease let me know if you'd like anything further done with this. Thanks so much! \nEFTA00030999",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "s from that phone, I found an image of Trump and \nGhislaine Maxwell on Bannon's phone (see screenshot from Cellebrite"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: GM photo on Ban"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: GM photo on Bannon phone \nDa"
+      },
+      {
+        "name": "Steve \nBannon",
+        "role": "extracted",
+        "context": "and I've been looking through Steve \nBannon's iPhone 7 on Cellebrite. As"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.207Z"
+}

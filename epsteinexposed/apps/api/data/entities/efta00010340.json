@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00010340",
+    "filename": "EFTA00010340.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010340.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nalMIE> \nTo: \n(USANYS)\" \n`t\nIMIE> \nSubject: RE: Epstein \nDate: Fri, 26 Apr 2019 15:39:58 +0000 \nImportance: Normal \nAre you at the airport? I wouldn't mind chatting for just a minute to make sure we're on the same page on bullet \npoints before I draft. \n Original Messa e \nFrom: \n(USANYS)\nSent: Frida , April 26, 2019 11:37 AM \nTo:(USANYS \nCc: (USANYS)\nSubject: Re: Epstein \nI'm traveling today, back on Sunday so could do it then or otherwise have to defer toM— sorry. \nSent from my iPhone \n> On Apr 26, 2019, at 10:35, (USANYS) <IMIIM> wrote: \n>lcMis going to meet with Brad Weinshiemer on Monday - can you guys put together an update memo this \na ernoon on where we are, what we've done since the last update memo, and next steps? This just for \nfor now, not for sending down to DC. \n> \nSent from my iPhone \n(USANYS) \n`MMMIE> \nEFTA00010340",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "NYS)\" \n`t\nIMIE> \nSubject: RE: Epstein \nDate: Fri, 26 Apr 2019 15:39:58 +0"
+      },
+      {
+        "name": "Normal \nAre",
+        "role": "extracted",
+        "context": "9 15:39:58 +0000 \nImportance: Normal \nAre you at the airport? I wouldn'"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "let \npoints before I draft. \n Original Messa e \nFrom: \n(USANYS)\nSent: Frid"
+      },
+      {
+        "name": "On Apr",
+        "role": "extracted",
+        "context": "orry. \nSent from my iPhone \n> On Apr 26, 2019, at 10:35, (USANYS)"
+      },
+      {
+        "name": "Brad Weinshiemer",
+        "role": "extracted",
+        "context": "e: \n>lcMis going to meet with Brad Weinshiemer on Monday - can you guys put"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-26",
+        "event": "April 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.767Z"
+}

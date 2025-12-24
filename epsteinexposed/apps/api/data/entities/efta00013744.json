@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013744",
+    "filename": "EFTA00013744.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013744.pdf",
+    "text": "\n\nFrom: \nTo: \"Lill Ann Sanchez\" \nCc: \nSubject: e rey pstem \nDate: Tue, 09 Oct 2007 21:09:00 +0000 \nImportance: Normal \nAttachments: 071009 Sanchez_Ltr.pdf \nDear Lilly: Enclosed please find a response to your letter to .fou can reach me at \nThank you. \nEFTA00013744",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Lill Ann",
+        "role": "extracted",
+        "context": "From: \nTo: \"Lill Ann Sanchez\" \nCc: \nSubject: e rey"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 21:09:00 +0000 \nImportance: Normal \nAttachments: 071009 Sanchez_Ltr.pdf \nDear"
+      },
+      {
+        "name": "Dear Lilly",
+        "role": "extracted",
+        "context": "ents: 071009 Sanchez_Ltr.pdf \nDear Lilly: Enclosed please find a respo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.297Z"
+}

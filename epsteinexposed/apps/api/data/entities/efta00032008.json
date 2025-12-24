@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032008",
+    "filename": "EFTA00032008.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032008.pdf",
+    "text": "\n\nFrom: \nTo:'\nBcc: \n\"USAHUB-USAJouma1111\" \nSubject: RE: Ghislaine Maxwell Pardon \nDate: Mon, 30 Nov 2020 20:07:17 +0000 \nEmbedded: RE:_Ghislaine_Maxwell_Pardon.msg \nSender: \nSubject: RE: Ghislaine Maxwell Pardon \nMessage-Id: \n<SN5P110MB044584701D2DIBC3FE7F91E182F50@SN5P110MB0445.NAMP110.PROD.OUTLOOK.COM \nTo: \nEFTA00032008",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": ": \nTo:'\nBcc: \n\"USAHUB-USAJouma1111\" \nSubject: RE: Ghislaine Maxwell Pardon \nDate: Mon, 30 Nov 2020 20:07:17 +0000 \nEm"
+      },
+      {
+        "name": "Pardon \nDate",
+        "role": "extracted",
+        "context": "ubject: RE: Ghislaine Maxwell Pardon \nDate: Mon, 30 Nov 2020 20:07:17 +0"
+      },
+      {
+        "name": "Pardon \nMessage",
+        "role": "extracted",
+        "context": "ubject: RE: Ghislaine Maxwell Pardon \nMessage-Id: \n<SN5P110MB044584701D2DIB"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.415Z"
+}

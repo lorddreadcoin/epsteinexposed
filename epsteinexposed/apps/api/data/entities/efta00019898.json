@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019898",
+    "filename": "EFTA00019898.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019898.pdf",
+    "text": "\n\nFrom: ' \n)\" ,tl \nTo: ' [Contractor]\"  \nCc: 'l.11><I \n(USANYS)\"\n[Contractor]\".. \nSubject: Copy of production from PAE \nDate: Tue, 17 Nov 2020 18:41:38 +0000 \nHi=, \nFollowing up on our phone call just now, I'm writing to confirm that PAE will make a new copy of the 1.2 million document \nproduction that they already copied onto the 2 defense drives last week. I understand that you will coordinate to get PAE \na drive on which to load this copy. Would you please ask PAE to send the drive to -gain? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00019898",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to -gain? \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00019898"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.809Z"
+}

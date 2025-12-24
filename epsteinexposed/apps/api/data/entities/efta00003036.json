@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00003036",
+    "filename": "EFTA00003036.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003036.pdf",
+    "text": "\n\nr \niDecl \ntleC' \nAll \nCul \nDo \nDo \nIn \nC \nNan \nToday's \nDate: \nGDYVNe \nle\n-I-R \nLSJE, \nLLC \n6100 \nook \nuarters, \nSuite \nB-3, \nSt \nThomas. \nVI \n00802-1348 \nPhone \nE-mail: \nthesaintjames.grouregmail.com \nEmergency \nContact \nForm \n041D \nIn \nEmployee \nName: \nDal\ne\n \nMirk \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nStart \nOate: \nDate \nof \nBirth: \n{ \n \nj \nPhone \n(other): \nMarital \nStatus: \nDrivers \nLicense \nNo: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nA- \nO \nA+ \nO \nAB- \nq \nAB+ \nB- \n0 \n8+ \nD \n0- \nO \no+ \nO \nUnknown \nCurrent \nMedications: \n! \nDoctor's \nName: \nDoctor's \nName: \nDoctor's \nPhone: \nDoctor's \nPhone: \n[. \nin \ncase \nof \nemergency, \nplease \ncontact: \nName: \nI \nRelationship: \nName: \nI \nRelationship: \nfl\nPhone: Phone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers. \nEFTA00003036",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "All \nCul",
+        "role": "extracted",
+        "context": "r \niDecl \ntleC' \nAll \nCul \nDo \nDo \nIn \nC \nNan \nToday's"
+      },
+      {
+        "name": "Do \nDo",
+        "role": "extracted",
+        "context": "r \niDecl \ntleC' \nAll \nCul \nDo \nDo \nIn \nC \nNan \nToday's \nDate:"
+      },
+      {
+        "name": "Nan \nToday",
+        "role": "extracted",
+        "context": "eC' \nAll \nCul \nDo \nDo \nIn \nC \nNan \nToday's \nDate: \nGDYVNe \nle\n-I-R \nLS"
+      },
+      {
+        "name": "St \nThomas",
+        "role": "extracted",
+        "context": "ook \nuarters, \nSuite \nB-3, \nSt \nThomas. \nVI \n00802-1348 \nPhone \nE-ma"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "hesaintjames.grouregmail.com \nEmergency \nContact \nForm \n041D \nIn \nEmployee \nNa"
+      },
+      {
+        "name": "In \nEmployee",
+        "role": "extracted",
+        "context": "ergency \nContact \nForm \n041D \nIn \nEmployee \nName: \nDal\ne\n \nMirk \nPhysica"
+      },
+      {
+        "name": "Mirk \nPhysical",
+        "role": "extracted",
+        "context": "In \nEmployee \nName: \nDal\ne\n \nMirk \nPhysical \nAddress: \nMailing \nAddress:"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "e\n \nMirk \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitl"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "Address: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nS"
+      },
+      {
+        "name": "Start \nOate",
+        "role": "extracted",
+        "context": "e: \nE-mail: \nTitle/Position: \nStart \nOate: \nDate \nof \nBirth: \n{ \n \nj \nP"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "th: \n{ \n \nj \nPhone \n(other): \nMarital \nStatus: \nDrivers \nLicense \nNo: \nAlle"
+      },
+      {
+        "name": "Drivers \nLicense",
+        "role": "extracted",
+        "context": "(other): \nMarital \nStatus: \nDrivers \nLicense \nNo: \nAllergies \nor \nHealth"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "License \nNo: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nA- \nO \nA+ \nO"
+      },
+      {
+        "name": "Unknown \nCurrent",
+        "role": "extracted",
+        "context": "B- \n0 \n8+ \nD \n0- \nO \no+ \nO \nUnknown \nCurrent \nMedications: \n! \nDoctor's \nN"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.565Z"
+}

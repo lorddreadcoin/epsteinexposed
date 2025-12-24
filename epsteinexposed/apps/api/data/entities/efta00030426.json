@@ -1,0 +1,92 @@
+{
+  "document": {
+    "id": "efta00030426",
+    "filename": "EFTA00030426.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030426.pdf",
+    "text": "\n\nFrom: \"a \nTo \nCc \nSubject: RE: travel invoices / comp time (California trip, Nov. 13-15) \nDate: Mon, 18 Nov 2019 21:07:32 +0000 \nAttachments: 2019-11-13,_Califomia_comp_time.pdf \nFollowing up on my trip to California last week, I've just dropped off receipts for expenses, including the hotel invoice and \nthree taxi receipts for airport trips. Please note that because I unfortunately forgot my work card ALL the charges are to \nmy personal credit card. It's five receipts total, which are: \n1) 11/13, taxi to JFK Airport, $ 59.33 (Uber, personal credit card) \n2) 11/13, taxi from airport to hotel, $ 56.46 (taxi, personal credit card) \n3) 11/15, hotel invoice, $ 573.12 (personal credit card) \n4) 11/15, taxi from hotel to airport, $ 19.34 (Uber, personal credit card) \n5) 11/15, taxi from JFK Airport to home, $ 61.56 (taxi, personal credit card) \nSeparately, my comp time form is also attached. \nPlease let me know if any questions or issues at all, and thanks very much! \nAssistant U.S. Attorney \nof New York \nFrom \nSent: Monday, November 18, 2019 09:37 \nTo: \nSubject: Please Send Me Your Hotel Invoice & Any Taxi Receipts for Trip to Los Angeles, CA from 11/13 - 11/15/19 \nImportance: High \nGood mornin \nPlease send me your hotel invoice and any taxi receipts you may have for your trip to Los Angeles, CA from 11/13 \n-11 15 19. I'll need them to fill out your Travel Claim Form for reimbursement. Thanks as always! \nU.S. Attorney's Office (SONY) \nLegal Assistant, Public Corruption \nEFTA00030426",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: \"a \nTo \nCc \nSubject: RE: travel invoices"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "t U.S. Attorney \nof New York \nFrom \nSent: Monday, November 18, 2019 09"
+      },
+      {
+        "name": "Please Send",
+        "role": "extracted",
+        "context": "18, 2019 09:37 \nTo: \nSubject: Please Send Me Your Hotel Invoice & Any T"
+      },
+      {
+        "name": "Me Your",
+        "role": "extracted",
+        "context": "37 \nTo: \nSubject: Please Send Me Your Hotel Invoice & Any Taxi Rece"
+      },
+      {
+        "name": "Hotel Invoice",
+        "role": "extracted",
+        "context": "Subject: Please Send Me Your Hotel Invoice & Any Taxi Receipts for Trip"
+      },
+      {
+        "name": "Any Taxi",
+        "role": "extracted",
+        "context": "Send Me Your Hotel Invoice & Any Taxi Receipts for Trip to Los Ange"
+      },
+      {
+        "name": "High \nGood",
+        "role": "extracted",
+        "context": "11/13 - 11/15/19 \nImportance: High \nGood mornin \nPlease send me your h"
+      },
+      {
+        "name": "Travel Claim",
+        "role": "extracted",
+        "context": "ll need them to fill out your Travel Claim Form for reimbursement. Thank"
+      },
+      {
+        "name": "Legal Assistant",
+        "role": "extracted",
+        "context": ".S. Attorney's Office (SONY) \nLegal Assistant, Public Corruption \nEFTA00030"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "fice (SONY) \nLegal Assistant, Public Corruption \nEFTA00030426"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      },
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-13",
+        "event": "2019-11-13"
+      },
+      {
+        "date": "2019-11-18",
+        "event": "November 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.846Z"
+}

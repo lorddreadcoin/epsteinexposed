@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00023116",
+    "filename": "EFTA00023116.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023116.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: air \n)\"   \nSubject: RE: Question re T-Visa \nDate: Fri, 22 May 2020 14:32:01 +0000 \nI. \nThanks! Will call you in a  few minutes. \nFrom \nSent: Friday, May 22, 2020 10:31 AM \nTo: \nSubject: RE: Question re T-Visa \nGive me a call and I can walk you through it. \nFrom: \nSent: Friday, May 22, 2020 10:31 AM \nTo: \nCc: \nSubject: Question re T-Visa \nH \n< \nattorneys have reached out to us to inquire about our office assisting her in obtaining a T-Visa. She is \ncurrently legally in the U.S. on a work visa, but that expires when her passport expires in August of 2020. We've never \ndealt with T-Visas before, so would appreciate any guidance you might be able to provide. Would qualify for a T-\nVisa? If so, what would the process be for sponsoring her? \nAlso happy to have a call if that's easier, or if there's someone else we should reach out to, please let me know. \nThanks, \nEFTA00023116",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Visa \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Question re T-Visa \nDate: Fri, 22 May 2020 14:32:01 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "call you in a  few minutes. \nFrom \nSent: Friday, May 22, 2020 10:31 A"
+      },
+      {
+        "name": "Visa \nGive",
+        "role": "extracted",
+        "context": ": \nSubject: RE: Question re T-Visa \nGive me a call and I can walk you"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-22",
+        "event": "May 22, 2020"
+      },
+      {
+        "date": "2020-05-22",
+        "event": "22 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.290Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030378",
+    "filename": "EFTA00030378.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030378.pdf",
+    "text": "\n\nFrom:\n(USANYS)\" \n-: \nTo: ' \n(USANYS)\".. \nCc: \"M \n(USANYS)\" ctl \nSubject: Re: Important question re USA V Ghislaine Maxwell \nDate: \nSun, 05 Jul 2020 00:36:40 +0000 \nI'll respond and also let them know not to contact you anymore. \nSent from my iPhone \nOn Jul 4, 2020, at 7:15 PM, \nFYI \nSent from my iPhone \nBegin forwarded message: \nFrom: kathryn milofsky <1 \nDate: Jul 4, 2020 at 19:08:45 EDT \nTo:\" \nit\n(USANYS) <I \n> \nwrote: \nSubject: Important question re USA V Ghislaine Maxwell \nReply-To: kathryn milofsky\nDear Mr \n-, \nI am Kathryn Milofsky a  producer for ITV News in the UK, based in NY. We are the largest commercial \nbroadcaster in the UK, similar in style stature to NBC. \nWe are trying to establish when the bail hearing is in your case USA V  Maxwell. \nCould you be so kind as to let me know. \nHave a  wonderful safe July 4th. \nBest \nKathryn Milofsky \nProducer \nITV News \nEFTA00030378",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "S)\" ctl \nSubject: Re: Important question re USA V Ghislaine Maxwell \nDate: \nSun, 05 Jul 2020 00:36:40 +0000 \nI'll res"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "t you anymore. \nSent from my iPhone \nOn Jul 4, 2020, at 7:15 PM, \nFYI"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "7:15 PM, \nFYI \nSent from my iPhone \nBegin forwarded message: \nFrom: kat"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": "l \nReply-To: kathryn milofsky\nDear Mr \n-, \nI am Kathryn Milofsky a"
+      },
+      {
+        "name": "Kathryn Milofsky",
+        "role": "extracted",
+        "context": "yn milofsky\nDear Mr \n-, \nI am Kathryn Milofsky a  producer for ITV News in t"
+      },
+      {
+        "name": "Best \nKathryn",
+        "role": "extracted",
+        "context": "a  wonderful safe July 4th. \nBest \nKathryn Milofsky \nProducer \nITV News"
+      },
+      {
+        "name": "Milofsky \nProducer",
+        "role": "extracted",
+        "context": "safe July 4th. \nBest \nKathryn Milofsky \nProducer \nITV News \nEFTA00030378"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.731Z"
+}

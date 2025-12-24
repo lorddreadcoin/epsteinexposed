@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032929",
+    "filename": "EFTA00032929.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032929.pdf",
+    "text": "\n\nFrom:' \n\"„cl \nTo: (USANYS)\" ctl \nSubject: : trave request \nDate: Tue, 06 Apr 2021 18:45:25 +0000 \nThanks, Ed! \nFrom:.  \n(USANYS) <\nSent: ues ay, pn , 2021 2:45 PM \nTo: \nI \n*ca \nCc: (USANYS) cza; (USANYS)\n• USANYS) (USANYS) \nSubject: RE: travel request \nApproved \nFrom: \nSent: \nTuesday, \nApril 6, 2021 2:44 PM \nTo: (USANYS) \nCc: (USANYS) c).; (USANYS) \n(USANYS) < \nSubject: travel request \nHi Ed, \nFor the Ghislaine Maxwell case, I'd like to request approval to travel with our case agents to Durango, Colorado next week \nto interview a victim (and potential witness for trial this summer). Because it's a fairly long flight with a layover, the plan \nwould be to fly out on Monday (4/12), conduct two days of interviews to debrief the victim and discuss testifying at trial, \nand return on Thursday (4/15). Other than flights and a hotel, I don't anticipate any other travel expenses for the trip. \nThanks very much, and hope you're doing well--\nAlison \nEFTA00032929",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ANYS) < \nSubject: travel request \nHi Ed, \nFor the Ghislaine Maxwell case, I'd like to request approval to travel with"
+      },
+      {
+        "name": "Approved \nFrom",
+        "role": "extracted",
+        "context": "Subject: RE: travel request \nApproved \nFrom: \nSent: \nTuesday, \nApril 6, 2"
+      },
+      {
+        "name": "Hi Ed",
+        "role": "extracted",
+        "context": ") < \nSubject: travel request \nHi Ed, \nFor the Ghislaine Maxwell c"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-06",
+        "event": "April 6, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.813Z"
+}

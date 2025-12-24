@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00018988",
+    "filename": "EFTA00018988.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018988.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\" \nTo:  )\"  \nSubject: RE: US v. Maxwell, 20 Cr. 330 (AJN) - discovery production \nDate: Fri, 12 Mar 2021 17:22:19 +0000 \nAttachments: 2021.03.12_Maxwell_Discovery_Letter_v2.pdf \nHey \nI'm so sorry to do this but I just caught something on the cover letter. The initial bates range in the index reads \nSDNY_GM_02742936 when it should instead be SDNY_GM_02742963. I'm terribly sorry. Would you like me to \nemail the updated cover to defense? \nThanks, \nFrom: \nSent: Friday, March 12, 2021 12:14 PM \nTo: Christian R Everdell - Cohen & Gresser LLP \nCohen < \n>: \nBobbi Sternheim ; 'BOBBI C STERNHEIM' \n;  Laura \nMenninger < \n; Jeff Pagliuca \nCc: >; \n(USANYS) [Contractor] \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - discovery production \nCounsel, \n(USANYS) \n< \nMark S. \nPursuant to the Court's Order dated November 18, 2020, today we are producing materials regarding victims who are not \nreferenced in Indictment number 5120 Cr. 330 (AJN). Attached please find the accompanying cover letter. The \nproduction is small enough to produce via an FTP site. Would you please send us a link to use for this production? \nWe. send a CD containing a copy of this production to the MDC for your client to review as well. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00018988",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bobbi Sternheim",
+        "role": "extracted",
+        "context": "n & Gresser LLP \nCohen < \n>: \nBobbi Sternheim ; 'BOBBI C STERNHEIM' \n;  Lau"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "eim ; 'BOBBI C STERNHEIM' \n;  Laura \nMenninger < \n; Jeff Pagliuca \nCc: >; \n("
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "IM' \n;  Laura \nMenninger < \n; Jeff Pagliuca \nCc: >; \n(USANYS) [Contractor"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nt to review as well. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ell. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00018988"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-12",
+        "event": "March 12, 2021"
+      },
+      {
+        "date": "2020-11-18",
+        "event": "November 18, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.070Z"
+}

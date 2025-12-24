@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00009975",
+    "filename": "EFTA00009975.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009975.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Jeffrey Epstein: About the sex trafficking case & accusations I  Miami Herald \nDate: Fri, 30 Nov 2018 23:56:42 +0000 \nI \nmportance: Normal \nAre we open on this? Can we be? \nhttps://www.miamiherald.com/news/locallarticle220097825.html \nEFTA00009975",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Jeffrey Epstein: About the sex trafficking case & accusations I"
+      },
+      {
+        "name": "Miami Herald",
+        "role": "extracted",
+        "context": "ficking case & accusations I  Miami Herald \nDate: Fri, 30 Nov 2018 23:56"
+      },
+      {
+        "name": "Normal \nAre",
+        "role": "extracted",
+        "context": "23:56:42 +0000 \nI \nmportance: Normal \nAre we open on this? Can we be?"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.038Z"
+}

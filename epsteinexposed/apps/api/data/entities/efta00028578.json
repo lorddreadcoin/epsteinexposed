@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00028578",
+    "filename": "EFTA00028578.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028578.pdf",
+    "text": "\n\nU.S. \nDepartment of .1 u %tic c \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mollo Building \nNew York, New York 10007 \nMay 21, 2021 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLe al Department \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinent to the following inmate: \n• Ghislaine Maxwell: 02879-509 \nPlease allow her access to the materials enclosed. \nVery truly yours, \nAUDREY \nSTRAUSS \nUnited States Attorney \nEnclosure \nAssistant United States Attorneys \nEFTA00028578",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "rtment \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinen"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "of .1 u %tic c \nUnited States Attorney \nSouthern District of New York \nThe Sil"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio J. Mollo Building \nNew York,"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "ct of New York \nThe Silvio J. Mollo Building \nNew York, New York 10007 \nMa"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "21 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLe al Department \nBro"
+      },
+      {
+        "name": "Center \nLe",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLe al Department \nBrooklyn, NY 1"
+      },
+      {
+        "name": "Department \nBrooklyn",
+        "role": "extracted",
+        "context": "litan Detention Center \nLe al Department \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Attorney \nEnclosure",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nUnited States Attorney \nEnclosure \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "d States Attorney \nEnclosure \nAssistant United States Attorneys \nEFTA0002857"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "Enclosure \nAssistant United States Attorneys \nEFTA00028578"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Department \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-21",
+        "event": "May 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.514Z"
+}

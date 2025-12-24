@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00022517",
+    "filename": "EFTA00022517.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022517.pdf",
+    "text": "\n\nFrom: \nTo: Jack Scarola <=I=> \nCc: \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (MN) \nDate: Mon, 03 May 2021 22:45:47 +0000 \nAttachments: 2021-05-03 Order Re Trial Date.pdf \nJack, \nPlease see the attached order regarding the trial date in this case. We'll update you when we have more information. \nThanks, \nSouthern District of New York \nEFTA00022517",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ack Scarola <=I=> \nCc: \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (MN) \nDate: Mon, 03 May 2021 22:45:47"
+      },
+      {
+        "name": "Jack Scarola",
+        "role": "extracted",
+        "context": "From: \nTo: Jack Scarola <=I=> \nCc: \nSubject: United S"
+      },
+      {
+        "name": "Order Re",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2021-05-03 Order Re Trial Date.pdf \nJack, \nPlease"
+      },
+      {
+        "name": "Trial Date",
+        "role": "extracted",
+        "context": "achments: 2021-05-03 Order Re Trial Date.pdf \nJack, \nPlease see the at"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "e more information. \nThanks, \nSouthern District of New York \nEFTA00022517"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-03",
+        "event": "2021-05-03"
+      },
+      {
+        "date": "2021-05-03",
+        "event": "03 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.064Z"
+}

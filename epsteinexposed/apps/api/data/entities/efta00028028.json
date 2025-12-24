@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00028028",
+    "filename": "EFTA00028028.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028028.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Brief \nDate: Tue, 26 Oct 2021 03:08:08 +0000 \nAttachments: Govt_Omnibus_Opp_v4.docx \nHi \nBrief attached. Before you make the TOC, will you do a quick scroll through to confirm that (1) there's no weird spacing \nissues, and (2) the only highlighting is green? I just did that but could use someone double-checking. \nThanks! \nFrom \nSent: Monde , October 25, 2021 9:53 PM \nTo: \nCc: \nSu \nSounds good! \nFrom: \nSent: Monde , October 25, 2021 9:51 PM \nTo: \nCc \nSubject: RE: Brief \nOK! Just TOC this time. Thanks! \nFrom: \nSent: on a cto er : \nTo: \nCc \nSubject: RE: Brief \nYou can send it to me, thanks. Are you going to need a TOA and TOC or just one or the other? \nFrom: \nSent: on ay, o  er , : \nEFTA00028028\n\nCc: \nSubject: Brief \nHi all, \nJust checking in to see who I should send the brief to tonight when it's ready to be finalized. Thanks! \nAndrew \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA00028029",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brief \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Brief \nDate: Tue, 26 Oct 2021 03:08:08 +0"
+      },
+      {
+        "name": "Hi \nBrief",
+        "role": "extracted",
+        "context": "ts: Govt_Omnibus_Opp_v4.docx \nHi \nBrief attached. Before you make the"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ne double-checking. \nThanks! \nFrom \nSent: Monde , October 25, 2021 9:5"
+      },
+      {
+        "name": "Su \nSounds",
+        "role": "extracted",
+        "context": "r 25, 2021 9:53 PM \nTo: \nCc: \nSu \nSounds good! \nFrom: \nSent: Monde , O"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "ctober 25, 2021 9:51 PM \nTo: \nCc \nSubject: RE: Brief \nOK! Just TOC this"
+      },
+      {
+        "name": "Brief \nYou",
+        "role": "extracted",
+        "context": "o er : \nTo: \nCc \nSubject: RE: Brief \nYou can send it to me, thanks. Ar"
+      },
+      {
+        "name": "Brief \nHi",
+        "role": "extracted",
+        "context": "EFTA00028028\n\nCc: \nSubject: Brief \nHi all, \nJust checking in to see"
+      },
+      {
+        "name": "Andrew \nAssistant",
+        "role": "extracted",
+        "context": "ady to be finalized. Thanks! \nAndrew \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "drew \nAssistant United States Attorney \nSouthern District of New York \n1 Saint"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York. New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-25",
+        "event": "October 25, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.488Z"
+}

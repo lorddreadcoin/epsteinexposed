@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031509",
+    "filename": "EFTA00031509.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031509.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: (USANYS)\" ..  \n- - -\nSubject: RE: Pros \nmemo \nDate: Mon, 02 Dec 2019 18:16:41 +0000 \nAttachments: MCC Pros Memo v10 doc _ _ _ . \nFrom: USANYS) I \nSent: Monday, December 2, 2019 9:46 AM \nTo: \n(USANYS) \nSubject: Pros memo \nCan you send me your pros memo/DP memo for the MCC case? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nFax: \nEFTA00031509",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Pros Memo",
+        "role": "extracted",
+        "context": "16:41 +0000 \nAttachments: MCC Pros Memo v10 doc _ _ _ . \nFrom: USANYS"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "mo/DP memo for the MCC case? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e MCC case? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nF"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-02",
+        "event": "December 2, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.268Z"
+}

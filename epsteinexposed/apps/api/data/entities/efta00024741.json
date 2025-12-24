@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024741",
+    "filename": "EFTA00024741.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024741.pdf",
+    "text": "\n\nFrom: \"a \nTo:'\nCc: \nBcc: \"USAHUB-USAJournal111\" \nSubject: Re: United States v. Maxwell \nDate: Tue, 27 Oct 2020 01:40:57 +0000 \nEmbedded: Re:_United_States_v._Maxwell.msg \nSender: \nSubject: Re: United States v. Maxwell \nMessa e-Id: \n<ID4D5972-F131-497C-85D7-507D045D0B35®usa.doj.gov> \nTo: \nCc: \nEFTA00024741",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Subject: Re: United States v. Maxwell \nDate: Tue, 27 Oct 2020 01:40:57 +0"
+      },
+      {
+        "name": "Maxwell \nMessa",
+        "role": "extracted",
+        "context": "Subject: Re: United States v. Maxwell \nMessa e-Id: \n<ID4D5972-F131-497C-85"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.741Z"
+}

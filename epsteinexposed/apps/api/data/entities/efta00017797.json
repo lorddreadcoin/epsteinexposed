@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00017797",
+    "filename": "EFTA00017797.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017797.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nTo: ' (OPR)\" \nSubject: RE: OPR Matter \nDate: Thu, 06 Aug 2020 19:31:08 +0000 \nMany thanks. \nFrom: \n(OPR) \nSent: Thursday, August 6, 2020 2:49 PM \nTo: \n(USANYS)< \nCc: (USANYS) \nSubject: 0PR Matter \nActing United States Attorney \nfor the Southern District of New York \nNew York, New York \nDear \nPlease find attached a letter from OPR Director regarding OPR's draft report regarding the handling of the \nJeffrey Epstein matter by the U.S. Attorney's Office for the Southern District of Florida in 2006-2008. A copy of the draft \nreport, for your review, is also attached. \nWith regards, \nCounsel \nOffice of Professional Responsibility \nU.S \nDepartment of Justice \n950 Pennsylvania Avenue, \nN.W. \n—  Room 3266 \nWashin ton, \nD.C. 20530 \ncc: AUSA \nEFTA00017797",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "OPR's draft report regarding the handling of the \nJeffrey Epstein matter by the U.S. Attorney's Office for the Sout"
+      },
+      {
+        "name": "Matter \nDate",
+        "role": "extracted",
+        "context": "o: ' (OPR)\" \nSubject: RE: OPR Matter \nDate: Thu, 06 Aug 2020 19:31:08 +0"
+      },
+      {
+        "name": "Matter \nActing",
+        "role": "extracted",
+        "context": "< \nCc: (USANYS) \nSubject: 0PR Matter \nActing United States Attorney \nfor t"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ited States Attorney \nfor the Southern District of New York \nNew York, New Yo"
+      },
+      {
+        "name": "Dear \nPlease",
+        "role": "extracted",
+        "context": "New York \nNew York, New York \nDear \nPlease find attached a letter from O"
+      },
+      {
+        "name": "Counsel \nOffice",
+        "role": "extracted",
+        "context": "lso attached. \nWith regards, \nCounsel \nOffice of Professional Responsibilit"
+      },
+      {
+        "name": "Professional Responsibility",
+        "role": "extracted",
+        "context": "regards, \nCounsel \nOffice of Professional Responsibility \nU.S \nDepartment of Justice"
+      },
+      {
+        "name": "Pennsylvania Avenue",
+        "role": "extracted",
+        "context": "S \nDepartment of Justice \n950 Pennsylvania Avenue, \nN.W. \n—  Room 3266 \nWashin"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-06",
+        "event": "August 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.606Z"
+}

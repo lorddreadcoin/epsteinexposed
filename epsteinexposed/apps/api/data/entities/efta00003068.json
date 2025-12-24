@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00003068",
+    "filename": "EFTA00003068.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003068.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTel \nFax: \nDate: \n04/09/18 \nEmergency \nContact \nForm \nStart \nDate: \nEmployee \nName: \nDate \nof \nBirth: \nAddress: \nPhone: \nE\n-Mail: \nTitle \n/ \nPosition: \nMarital \nStatus: \nLicense: \nlmergency \nInformation: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nPhone: \nDoctor's \nName: \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact: \nRelationship \nPhone \nRelationship \nPastor \nphone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003068",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Tel \nFax",
+        "role": "extracted",
+        "context": "B-3 \nSt. \nThomas, \nVI \n00802 \nTel \nFax: \nDate: \n04/09/18 \nEmergency"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "Tel \nFax: \nDate: \n04/09/18 \nEmergency \nContact \nForm \nStart \nDate: \nEmployee"
+      },
+      {
+        "name": "Form \nStart",
+        "role": "extracted",
+        "context": "04/09/18 \nEmergency \nContact \nForm \nStart \nDate: \nEmployee \nName: \nDate"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "Contact \nForm \nStart \nDate: \nEmployee \nName: \nDate \nof \nBirth: \nAddress:"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "-Mail: \nTitle \n/ \nPosition: \nMarital \nStatus: \nLicense: \nlmergency \nInform"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Information: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedi"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nPhone: \nDo"
+      },
+      {
+        "name": "Relationship \nPhone",
+        "role": "extracted",
+        "context": "Emergency, \nPlease \ncontact: \nRelationship \nPhone \nRelationship \nPastor \nphone"
+      },
+      {
+        "name": "Relationship \nPastor",
+        "role": "extracted",
+        "context": "ontact: \nRelationship \nPhone \nRelationship \nPastor \nphone \nThis \nInformation \nis"
+      },
+      {
+        "name": "This \nInformation",
+        "role": "extracted",
+        "context": "Relationship \nPastor \nphone \nThis \nInformation \nis \nfor \nyour \nsafety \nand"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.660Z"
+}

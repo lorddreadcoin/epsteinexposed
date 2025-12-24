@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00018178",
+    "filename": "EFTA00018178.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018178.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein Passport \nDate: Fri, 12 Jul 2019 02:44:38 +0000 \nImportance: Normal \nI can certainly send you the court order on the bail determination once it's issued. If you haven't gotten it from me by \nlater next week, could you please just remind me? I don't want it to get lost in the avalanche of current stuff. \nAlso just to note, we obviously have no position (or request, directive, hint, nod, or wink) whatsoever regarding his \npassport—we don't know what that process is so we completely defer on the substance. But of course happy to get you \nthe order, and let us know if anything else would be helpful. \nthank you, \nFrom: \nSent: Thursday, July 11, 2019 10:43 \nTo: \nCc: \nSubject: Re: Epstein Passport \nThe State Department has gotten several inquires regarding Epstein's passport. He currently has one valid \npassport and Consular Affairs (CA) would like to revoke it. \nI understand he will have a bail hearing on Monday. Would you be able to send me the court order (even if he is \nremanded) so CA can revoke to the book? I assume if he is released on bail there will be a travel restriction \nimposed/surrender of his passport. \nThanks. \nASAC \nEFTA00018178\n\nU.S. Department of State \nDiplomatic Security Service \nNew York Field Office \nFrom: \nSent: Wednesday, July 10, 2019 10:14 PM \nTo: \nCc: \nSubject: RE: Epstein Passport \n■ \nHappy to be in touch — let us know what info we can provide or how we can be of help. \nthanks, \nFrom \nSent: e  nes ay, u y\nTo: \nCc: \nSubject: Epstein Passport \nCc'ed to this email is the prosecution team for the Epstein case. \nTeam, \nPlease \nmeet \nan ASAC at the DSS NY Field Office (and my former boss). \nState Department's Consular Affairs Bureau is looking for some information regarding Epstein's passport, as they \nconsidering revoking it. Can you guys please coordinate witaregarding this issue. \nThanks! \nSpecial Agent \nU.S. Attorney's Office \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018179",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Passport",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein Passport \nDate: Fri, 12 Jul 2019 02:44"
+      },
+      {
+        "name": "The State",
+        "role": "extracted",
+        "context": "ubject: Re: Epstein Passport \nThe State Department has gotten several"
+      },
+      {
+        "name": "Consular Affairs",
+        "role": "extracted",
+        "context": "y has one valid \npassport and Consular Affairs (CA) would like to revoke it."
+      },
+      {
+        "name": "State \nDiplomatic",
+        "role": "extracted",
+        "context": "A00018178\n\nU.S. Department of State \nDiplomatic Security Service \nNew York Fi"
+      },
+      {
+        "name": "Security Service",
+        "role": "extracted",
+        "context": "partment of State \nDiplomatic Security Service \nNew York Field Office \nFrom:"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "ic Security Service \nNew York Field Office \nFrom: \nSent: Wednesday, July"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "we can be of help. \nthanks, \nFrom \nSent: e  nes ay, u y\nTo: \nCc: \nSub"
+      },
+      {
+        "name": "State Department",
+        "role": "extracted",
+        "context": "Office (and my former boss). \nState Department's Consular Affairs Bureau is"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "garding this issue. \nThanks! \nSpecial Agent \nU.S. Attorney's Office \nSout"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "pecial Agent \nU.S. Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018179"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-11",
+        "event": "July 11, 2019"
+      },
+      {
+        "date": "2019-07-10",
+        "event": "July 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.356Z"
+}

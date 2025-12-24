@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00010357",
+    "filename": "EFTA00010357.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010357.pdf",
+    "text": "\n\nFrom: \"etravelservices cwtsatotravel.com\"<etravelservices cwtsatotravel.com> \nTo: \nSubject: Travel Authorization 10892303 approved by now awaiting further \napproval \nDate: Fri, 13 Dec 2019 20:53:09 +0000 \nImportance: Normal \nDear \nTravel authorization 10892303 has been approved by now awaiting further approval. \nTrip ID: 1089 \nTraveler name \nPurpose: R20 - .  . v. pstem - itnessInterview (California) \nDestination: Santa Monica, CA, United States \nDates: 2019-12-15 - 2019-12-17 \nCurrent status: Pending Authorization Approval \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# T0007 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00010357",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Authorization",
+        "role": "extracted",
+        "context": "atotravel.com> \nTo: \nSubject: Travel Authorization 10892303 approved by now awai"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "9 20:53:09 +0000 \nImportance: Normal \nDear \nTravel authorization 1089230"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "ew (California) \nDestination: Santa Monica, CA, United States \nDates: 20"
+      },
+      {
+        "name": "Pending Authorization",
+        "role": "extracted",
+        "context": "- 2019-12-17 \nCurrent status: Pending Authorization Approval \nE2 Single Sign On L"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "ng Authorization Approval \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "tion Approval \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Santa Monica, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-15",
+        "event": "2019-12-15"
+      },
+      {
+        "date": "2019-12-17",
+        "event": "2019-12-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.805Z"
+}

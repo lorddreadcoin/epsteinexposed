@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030506",
+    "filename": "EFTA00030506.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030506.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: ODAG Update Memos \nDate: Wed, 19 Jun 2019 18:27:06 +0000 \nImportance: Normal \nYep, makes sense. Will have the team send to you both shortly. \nFrom \nSent: Wednesday, June 19, 2019 2:25 PM \nTo: \nSu ject. Ht. uthm., update memos \nI think it is helpful for me to see them so that I am in the loop. But I don't want to slow you down in any way. (You could \ncc me if that's easier). \nFrom: \nSent: Wednesday, June 19, 2019 2:23 PM \nTo \nSubject: ODAG Update Memos \nDo you want to review those? Or should they go straight to Audrey? I confess, most of the ones we have done historically \nhave been MC related, so they went straight to Audrey, but this one is on Epstein, so if you'd like to see first, let me know. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00030506",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update Memos",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: ODAG Update Memos \nDate: Wed, 19 Jun 2019 18:27"
+      },
+      {
+        "name": "Normal \nYep",
+        "role": "extracted",
+        "context": "9 18:27:06 +0000 \nImportance: Normal \nYep, makes sense. Will have the t"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "am send to you both shortly. \nFrom \nSent: Wednesday, June 19, 2019 2:2"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "esday, June 19, 2019 2:23 PM \nTo \nSubject: ODAG Update Memos \nDo you wa"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "irst, let me know. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00030506"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-19",
+        "event": "June 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.017Z"
+}

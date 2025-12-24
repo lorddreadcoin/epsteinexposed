@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "efta00029695",
+    "filename": "EFTA00029695.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029695.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Vir i  . n. wont \nDate: Mon, 17 May 2021 17:14:21 +0000 \nAttachments: 2021.05.14,_GM,order regarding_sleeping_conditions.pdf \nOne of Maxwell's attorneys sent the below email. I've attached the Friday ruling that he is referring to which is not a bail \norder and instead relates to the conditions of confinement. As you know, he already appealed Judge Nathan's prior bail \norders. (After he filed the bail appeal in the Circuit, Judge Nathan subsequently denied the defense's request for a \nrenewed bail hearing). Does he need to file a new appeal? It's not clear to us what he is doing here. Happy to give you a \ncall to discuss. \nThanks! \nBegin forwarded message: \nFrom: David Oscar Markus <dmarkus@markuslaw.com> \nDate: Ma 17 2021 at 10:47:46 AM EDT \nTo: \nSubject: 2nd \nCircuit \nHi M. \nI hope this note finds you well. \nBased on the court's ruling on Friday, I will be Sling a renewed motion for bond in the Second Circuit. I \nwill note the government's opposition unless you inform me that I am mistaken. \nThanks, \nDavid \n--David Oscar Markus \nMarkus/Moss \nmarkuslasucom \n305-379-6667 \nEFTA00029695",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "you know, he already appealed Judge Nathan's prior bail \norders. (After"
+      },
+      {
+        "name": "David Oscar",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: David Oscar Markus <dmarkus@markuslaw.com"
+      },
+      {
+        "name": "Circuit \nHi",
+        "role": "extracted",
+        "context": "46 AM EDT \nTo: \nSubject: 2nd \nCircuit \nHi M. \nI hope this note finds yo"
+      },
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "enewed motion for bond in the Second Circuit. I \nwill note the government'"
+      },
+      {
+        "name": "Markus \nMarkus",
+        "role": "extracted",
+        "context": "Thanks, \nDavid \n--David Oscar Markus \nMarkus/Moss \nmarkuslasucom \n305-379-"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-17",
+        "event": "17 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "305-379-6667"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.989Z"
+}

@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00023480",
+    "filename": "EFTA00023480.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023480.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Testifying Witness Questions \nDate: The, 05 Oct 2021 18:27:03 +0000 \nAttachments31E-MM-108062-GJ-1A4.pdf \nJust FYI, the notes and documents forte were in 31E-MM-108062 —  al 1A4. They are attached here as well. \nSpecial Agent—\nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk \nFrom: \nSent: Monday, October 4, 20217:58 PM \nTo: \nCc: \nSubject: [EXTERNAL EMAIL] - Testifying Witness Questions \nI'm attaching the 302 for from an interview on August 22, 2006. The last paragraph refers to her providing a \ncopy of the hours she worked at Epstein's residence as well as some notes she made at her time of employment. Can you \nplease send the notes and the documents she provided? I don't believe we have them. \nAlso can you please send the notes of the 8/15/06 interview of?  The 302 is attached. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00023480",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Testifying Witness",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Testifying Witness Questions \nDate: The, 05 Oct"
+      },
+      {
+        "name": "Questions \nDate",
+        "role": "extracted",
+        "context": "bject: RE: Testifying Witness Questions \nDate: The, 05 Oct 2021 18:27:03 +0"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "y are attached here as well. \nSpecial Agent—\nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent—\nFBI New York Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t—\nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk \nFrom"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk \nFrom: \nSent: Monday, O"
+      },
+      {
+        "name": "Desk \nFrom",
+        "role": "extracted",
+        "context": "ploitation/Human Trafficking \nDesk \nFrom: \nSent: Monday, October 4, 20"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "he 302 is attached. \nThanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2006-08-22",
+        "event": "August 22, 2006"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.030Z"
+}

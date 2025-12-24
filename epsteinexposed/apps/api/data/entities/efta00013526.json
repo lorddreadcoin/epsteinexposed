@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00013526",
+    "filename": "EFTA00013526.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013526.pdf",
+    "text": "\n\nFrom: \nTo:l \nSubject: RE: Epstein \nDate: Mon, 05 Nov 2007 20:52:16 +0000 \nImportance: Normal \nThanks. I haven't heard from Jay yet. \nFrom \nSent: Monday, November 05, 2007 3:52 PM \nTo: \nSubject: Epstein \nHi Jeff —Another girl just called FBI after being approached by private investigators for Epstein. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013526",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:l \nSubject: RE: Epstein \nDate: Mon, 05 Nov 2007 20:52:16 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "7 20:52:16 +0000 \nImportance: Normal \nThanks. I haven't heard from Jay yet"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "haven't heard from Jay yet. \nFrom \nSent: Monday, November 05, 2007 3:"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": ", 2007 3:52 PM \nTo: \nSubject: Epstein \nHi Jeff —Another girl just calle"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013526"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-11-05",
+        "event": "November 05, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.782Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00017123",
+    "filename": "EFTA00017123.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017123.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: SHU Photos/Number of Steps \nDate: Wed, 18 Sep 2019 20:05:54 +0000 \nIt's downstairs in an envelope with your name on it. Thank you! \nFrom \nSent: Wednesday, September 18, 2019 11:30 AM \nTo: \nSubject: RE: SHU Photos/Number of Steps \nCan you guys provide us with at least a 100GB hard drive so that FBI CART to download the material? Let me know when \nand where I can pick up. \nFrom: \nSent: Wednesday, September 18, 2019 10:15 AM \nTo: \n> \nSubject: SHU Photos/Number of Steps \nHe \nI know FBI was taking photos of the SHU generally and measuring the number of steps from Epstein's cell to the guard \ndesk. Do you have those photos and can you provide them to us? Thank you. \nAlso, let us know if you need a hard drive from us for Thomas' phone. \nThanks. \nAssistant United States Attorney \nSouthern District of New York \n( \nEFTA00017123",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Steps \nDate",
+        "role": "extracted",
+        "context": "ect: RE: SHU Photos/Number of Steps \nDate: Wed, 18 Sep 2019 20:05:54 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "your name on it. Thank you! \nFrom \nSent: Wednesday, September 18, 201"
+      },
+      {
+        "name": "Steps \nCan",
+        "role": "extracted",
+        "context": "ect: RE: SHU Photos/Number of Steps \nCan you guys provide us with at l"
+      },
+      {
+        "name": "Steps \nHe",
+        "role": "extracted",
+        "context": "Subject: SHU Photos/Number of Steps \nHe \nI know FBI was taking photos"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "for Thomas' phone. \nThanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n( \nEFTA00017123"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-18",
+        "event": "September 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:54.054Z"
+}

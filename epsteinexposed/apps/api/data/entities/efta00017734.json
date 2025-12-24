@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017734",
+    "filename": "EFTA00017734.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017734.pdf",
+    "text": "\n\nFrom: MIEMEIMMINIIIM \nTo: \nSubject: Arrest Today \nDate: Thu, 02 Jul 2020 12:50:53 +0000 \nJust a heads up that we are unsealing an indictment this morning against Ghislane Maxwell, an associate of Jeffrey \nEpstein, charging her with facilitating his abuse of minors. She was arrested in New Hampshire this morning, so the \npresentment will not be in SONY.  She will not appear in SDNY today. Let me know if you have any issues. \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \nEFTA00017734",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Arrest Today",
+        "role": "extracted",
+        "context": "MIEMEIMMINIIIM \nTo: \nSubject: Arrest Today \nDate: Thu, 02 Jul 2020 12:50"
+      },
+      {
+        "name": "Ghislane Maxwell",
+        "role": "extracted",
+        "context": "dictment this morning against Ghislane Maxwell, an associate of Jeffrey \nEps"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "lane Maxwell, an associate of Jeffrey \nEpstein, charging her with facilitati"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "f minors. She was arrested in New Hampshire this morning, so the \npresent"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "you have any issues. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.482Z"
+}

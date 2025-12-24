@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00021791",
+    "filename": "EFTA00021791.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021791.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Interview of Security on Premises \nDate: Tue, 07 Jul 2020 18:25:49 +0000 \nAttachments: U FOUO Interview \nof \npdf \nWill, could you please create a folder \nfoi \nin the witnesses folder, save the attached with our \nnaming convention, and update the interview tracker? Thx. \n Ori \nFrom: \nSent: Thursda \nTo: \n_final Message--\nJul 02.2020 18:02 \nCc: \nSubject: \nInterview of Security on Premises \nHi all, \nI wanted to get this out to you so you had it. It's the interview of the individual who provided Maxwell security \non the premises. \nHave a good night! \nEFTA00021791",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Premises \nDate",
+        "role": "extracted",
+        "context": "FW: Interview of Security on Premises \nDate: Tue, 07 Jul 2020 18:25:49 +0"
+      },
+      {
+        "name": "Ori \nFrom",
+        "role": "extracted",
+        "context": "the interview tracker? Thx. \n Ori \nFrom: \nSent: Thursda \nTo: \n_final"
+      },
+      {
+        "name": "Thursda \nTo",
+        "role": "extracted",
+        "context": "ker? Thx. \n Ori \nFrom: \nSent: Thursda \nTo: \n_final Message--\nJul 02.202"
+      },
+      {
+        "name": "Premises \nHi",
+        "role": "extracted",
+        "context": "ct: \nInterview of Security on Premises \nHi all, \nI wanted to get this ou"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.419Z"
+}

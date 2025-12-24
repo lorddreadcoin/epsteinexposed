@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00013832",
+    "filename": "EFTA00013832.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013832.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Bob Josefsberg \nDate: Mon, 25 Aug 2008 20:40:45 +0000 \nImportance: Normal \n—  He has not heard back from Epstein's folks either. I will draft a letter to El regarding the victim list \nand will raise the issue again. \nThanks. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013832",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Bob Josefsberg \nDa"
+      },
+      {
+        "name": "Bob Josefsberg",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Bob Josefsberg \nDate: Mon, 25 Aug 2008 20:40"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013832"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.539Z"
+}

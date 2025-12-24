@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00013348",
+    "filename": "EFTA00013348.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013348.pdf",
+    "text": "\n\nFrom: \nCc: \nSubject: FW: Transition Team Request for Significant, Publicly Filed Cases \nDate: Mon, 04 Jan 2021 16:21:16 +0000 \nAttachments: Publicly_Filed_SDNY_Cases_for_Transition.docx \nInline-Images: image004.png \nI've \nattached a document with all three case write ups we discussed. As you can see below, it's supposed to be sent to \nEOUSA paraleg by tomorrow. I'm happy to send it to her once you've \nsigned off. \nBegin forwarded message: \nFrom: \nDate: December 22, 2020 at 12:42:33 PM EST \nTo: \nCc: \nSubject: Transition Team Request for Significant, Publicly Filed Cases \nReply-To: \nAll FAUSAs, Criminal Chiefs, and Civil Chiefs: \nEOUSA just received a request from the incoming administration's transition team for a  list of \npending, significant cases on public dockets. Accordingly, we ask that you send information \nabout your top TWO criminal cases and ONE civil case by Tuesday, January 5, 2021. You \nshould select cases that your leadership deems the most significant and impactful for your \ndistrict. For each case, please provide the following information: \nCase name \nDocket number \nBrief description of the charges/claims \nCurrent case status \nLink to most recent press release (if applicable) \nPlease send your information to Paralega at Thank \nyou for your prompt attention to this important matter. \n(.nlet I Legalrograms \nExecutive Office for United States Attorneys \nUnited States De artment of Justice \nEFTA00013348\n\nC \nEFTA00013349",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Transition Team",
+        "role": "extracted",
+        "context": "From: \nCc: \nSubject: FW: Transition Team Request for Significant, Publ"
+      },
+      {
+        "name": "Publicly Filed",
+        "role": "extracted",
+        "context": "Team Request for Significant, Publicly Filed Cases \nDate: Mon, 04 Jan 2021"
+      },
+      {
+        "name": "Cases \nDate",
+        "role": "extracted",
+        "context": "r Significant, Publicly Filed Cases \nDate: Mon, 04 Jan 2021 16:21:16 +0"
+      },
+      {
+        "name": "Cases \nReply",
+        "role": "extracted",
+        "context": "r Significant, Publicly Filed Cases \nReply-To: \nAll FAUSAs, Criminal Chi"
+      },
+      {
+        "name": "Criminal Chiefs",
+        "role": "extracted",
+        "context": "Cases \nReply-To: \nAll FAUSAs, Criminal Chiefs, and Civil Chiefs: \nEOUSA jus"
+      },
+      {
+        "name": "Civil Chiefs",
+        "role": "extracted",
+        "context": "FAUSAs, Criminal Chiefs, and Civil Chiefs: \nEOUSA just received a reque"
+      },
+      {
+        "name": "Legalrograms \nExecutive",
+        "role": "extracted",
+        "context": "s important matter. \n(.nlet I Legalrograms \nExecutive Office for United States Atto"
+      },
+      {
+        "name": "Attorneys \nUnited",
+        "role": "extracted",
+        "context": "tive Office for United States Attorneys \nUnited States De artment of Justice"
+      },
+      {
+        "name": "States De",
+        "role": "extracted",
+        "context": "ited States Attorneys \nUnited States De artment of Justice \nEFTA00013"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-22",
+        "event": "December 22, 2020"
+      },
+      {
+        "date": "2021-01-05",
+        "event": "January 5, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.385Z"
+}

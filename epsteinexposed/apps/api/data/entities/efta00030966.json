@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030966",
+    "filename": "EFTA00030966.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030966.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" \nca> \n(USANYS)\" <\nIMIE> \nSubject: Automatic reply: Epstein Estate Touhy Requests \nDate: Tue, 20 Aug 2019 18:20:34 +0000 \nHello, \nI am in \nDallas for depositions, through Friday, August 23, 2019. \nThanks, \nis covering. \nEFTA00030966",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "E> \nSubject: Automatic reply: Epstein Estate Touhy Requests \nDate: Tue, 20"
+      },
+      {
+        "name": "Touhy Requests",
+        "role": "extracted",
+        "context": "tomatic reply: Epstein Estate Touhy Requests \nDate: Tue, 20 Aug 2019 18:20"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-23",
+        "event": "August 23, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.135Z"
+}

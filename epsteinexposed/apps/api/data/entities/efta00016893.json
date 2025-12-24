@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00016893",
+    "filename": "EFTA00016893.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016893.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: RE: Arlan Ettinger \nDate: Fri, 17 Jan 2020 18:59:27 +0000 \nI  never handled anything like this before. Perhapsnmight know. Should I  forward to him? \nFrom \nSent: Friday, January 17, 2020 1:55 PM \nTo: \nSubject: FW: Arlan Ettinger \nDo you have a record of how we handled this? \nFrom \nSent: Wednesday, January 15, 2020 4:42 \nPM \nTo: \nSubject: FW: Arlan \nEttinger \n> \nGood afternoon \nI wanted to follow-up on the below correspondence. As part of the close-out process Exec Sec are requesting comments \nfrom USAO-SDNY. Could you please provide me with your district's response? \nThank you very much in advance for your consideration of this matter, \nFrom: \nSent: Wednesday, October 9, 2019 1:57 PM \nTo: \nSubject: Arlan \nEttinger \nGood afternoon! \nI have been advised to forward you the attached correspondence from Arlan Ettinger, President of Guernsey's Auctioneers \n& Brokers. The letter is regarding the property of the late Jeffrey Epstein. As advised by Nathaniel Gamble II from ODAG \n(see email attached), this has been assigned to USAO-SDNY for handling. Please let me know if you have any questions or \nconcerns. \nThank you very much in advance. \nBest, \nU.S. Department of Justice \nEFTA00016893\n\nExecutive Office for U.S. Attorneys \n0 \nPronouns: she/ her/ hers \nEFTA00016894",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "The letter is regarding the property of the late Jeffrey Epstein. As advised by Nathaniel Gamble II from ODAG \n(se"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: RE: Arlan Ettinger"
+      },
+      {
+        "name": "Arlan Ettinger",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: RE: Arlan Ettinger \nDate: Fri, 17 Jan 2020 18:59"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "w. Should I  forward to him? \nFrom \nSent: Friday, January 17, 2020 1:5"
+      },
+      {
+        "name": "Arlan \nEttinger",
+        "role": "extracted",
+        "context": "0 4:42 \nPM \nTo: \nSubject: FW: Arlan \nEttinger \n> \nGood afternoon \nI wanted"
+      },
+      {
+        "name": "Exec Sec",
+        "role": "extracted",
+        "context": "part of the close-out process Exec Sec are requesting comments \nfrom"
+      },
+      {
+        "name": "Nathaniel Gamble II",
+        "role": "extracted",
+        "context": "effrey Epstein. As advised by Nathaniel Gamble II from ODAG \n(see email attache"
+      },
+      {
+        "name": "Executive Office",
+        "role": "extracted",
+        "context": "ent of Justice \nEFTA00016893\n\nExecutive Office for U.S. Attorneys \n0 \nPronou"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-17",
+        "event": "January 17, 2020"
+      },
+      {
+        "date": "2020-01-15",
+        "event": "January 15, 2020"
+      },
+      {
+        "date": "2019-10-09",
+        "event": "October 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.627Z"
+}

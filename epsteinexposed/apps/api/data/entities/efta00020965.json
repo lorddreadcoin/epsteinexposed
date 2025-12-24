@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020965",
+    "filename": "EFTA00020965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020965.pdf",
+    "text": "\n\nFrom \nTo \nSubject: Re: any of you have vouchers for Epstein victims. \nDate: Fri, 15 Nov 2019 03:48:55 +0000 \nHi =- I don't have any. \nSent from my iPhone \nOn \nNov 14, 2019, at 9:50 AM, rote: \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nTel. \nEFTA00020965",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Re: any of you have"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "on't have any. \nSent from my iPhone \nOn \nNov 14, 2019, at 9:50 AM, ro"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "14, 2019, at 9:50 AM, rote: \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": ":50 AM, rote: \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "n District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nTe"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.720Z"
+}

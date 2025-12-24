@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028282",
+    "filename": "EFTA00028282.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028282.pdf",
+    "text": "\n\nFrom: \"\n> \nTo: \"Berman, Geoffrey (USANYS)\" \nSubject: Re: \nDate: Mon, 08 Jul 2019 22:24:36 +0000 \nImportance: Normal \nAwesome, thanks. \nSent from my iPhone \nOn Jul 8, 2019, at 6:19 PM, Berman, Geoffrey \n(USANYS) vrote: \n<Epstein Proposed Press Remarks v3 (large).docx> \nEFTA00028282",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAwesome",
+        "role": "extracted",
+        "context": "9 22:24:36 +0000 \nImportance: Normal \nAwesome, thanks. \nSent from my iPhone"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "esome, thanks. \nSent from my iPhone \nOn Jul 8, 2019, at 6:19 PM, Berm"
+      },
+      {
+        "name": "Epstein Proposed",
+        "role": "extracted",
+        "context": ", Geoffrey \n(USANYS) vrote: \n<Epstein Proposed Press Remarks v3 (large).docx"
+      },
+      {
+        "name": "Press Remarks",
+        "role": "extracted",
+        "context": "YS) vrote: \n<Epstein Proposed Press Remarks v3 (large).docx> \nEFTA0002828"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.910Z"
+}

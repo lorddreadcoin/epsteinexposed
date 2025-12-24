@@ -1,0 +1,218 @@
+{
+  "document": {
+    "id": "efta00028801",
+    "filename": "EFTA00028801.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028801.pdf",
+    "text": "\n\nFact Witness Travel Request (Domestic Witness Travel) \n(see instructions below) \nTo: SDNY Victim/Witness \nUnit \nFrom: \nAUSA \nDate: November 7, 2019 \nRe: United States v. \nCourt Docket No: N/A (grand jury) \nUSAO \nNo: \nWitness Name: \nWitness \nDOB: \n(Name/DOB as printed here will be forwarded to travel agency and then to TSA and must exactly \nmatch the witness's driver's license or other travel ID or TSA will not permit the witness lofty.) \nWitness Address: \nWitness TelNos (mobile): \nWitness e-mail: \nWitness Needed to Appear in SDNY on Date: November 21, 2019 \nTime: 9 am \nWitness Needed to Appear for: \nTrial ( ) Date: \nGrand Jury ( ) \nDate: \nTrial/GJ Prep (  X ) Date: November 21, 2019 \nEstimated Dates Witness will Arrive: November 20, 2019 (Flying from Los Vegas to NY) \nDepart: November 21, 2019 (Flying from NY to Los \nVegas) \nIs the person a Fact Witness and not an Expert Witness? \n(Yes/No): Yes \nCurrent Federal Civilian or Military Employee? (Yes/No): No \nIs the Witness Facing Criminal Charges? \n(Yes/No): \nNo \nDoes the Witness Reside Outside the Continental United States? (Yes/No): No \nIs this Witness a Victim-Witness? \n(Yes/No): Yes \nHotel Required? \n(Yes/No): Yes \nHas \nthe Witness advised you of any unusual travel expenses? \n(Yes/No): \nNo \nUnusual expenses of fact witnesses can include \n• special travel arrangements \n• care for dependent child or incapacitated family member left at home \n• kennel fees for pets \n• necessary travel companion \nrev. 2019.09.18 \nEFTA00028801\n\n• extra baggage (more than one bag) \nPlease describe the unusual expense: \nFor Victim/Witness Coordinator: \n1. (For UEFW other than travel, which must be itemized and approved in advance:) This UEFW is \napparently within VWC approval authority and tentatively approved pending receipt(s) for \nUEFW expenses (Yes/No): \n2. Other VWC comments: \nVWC \nInitials and Date: \nInstructions to AUSA: \nUse this form for all fact witnesses within the U.S. except government employees and military \npersonnel, for whom a  Request for Armed Forces or Government-Employee Witness should be \nused. For foreign witnesses, use the International Witness Travel Request. Complete an Early or \nExtended stay memo if the witness is being brought in more than 3 business days prior to court/GJ \ntestimony. Note that witnesses may only be brought in under the FEWS appropriation for grand \njury testimony, court testimony, or preparation for same. NB: as to grand jury, this applies only in \nthe relatively infrequent occasions where time in the grand jury has been scheduled and the witness \nis intended to testify. Any other witness travel for investigative interviews must be covered by the \ninvestigating component from litigative funds (it is generally more common for investigators to \ntravel to the witness). See 28 C.F.R. Part 21, Witness Fees; USAP 3-19.000, Fact Witnesses and \nFees and Expenses of Witnesses (FEW) Appropriation; Guiding Principles for Obtaining Witness \nServices Under the Fees and Expenses of Witnesses Appropriation, \nhttp://dojnet.doj.gov/usao/eousaJole/usabook/witn/index.htm. \nrev. 2019.09.18 \nEFTA00028802",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "Fact Witness Travel Request (Domestic Witn"
+      },
+      {
+        "name": "Travel Request",
+        "role": "extracted",
+        "context": "Fact Witness Travel Request (Domestic Witness Travel) \n(s"
+      },
+      {
+        "name": "Domestic Witness",
+        "role": "extracted",
+        "context": "Fact Witness Travel Request (Domestic Witness Travel) \n(see instructions be"
+      },
+      {
+        "name": "Witness \nUnit",
+        "role": "extracted",
+        "context": "tions below) \nTo: SDNY Victim/Witness \nUnit \nFrom: \nAUSA \nDate: November"
+      },
+      {
+        "name": "Court Docket",
+        "role": "extracted",
+        "context": ", 2019 \nRe: United States v. \nCourt Docket No: N/A (grand jury) \nUSAO \nN"
+      },
+      {
+        "name": "Witness Name",
+        "role": "extracted",
+        "context": "N/A (grand jury) \nUSAO \nNo: \nWitness Name: \nWitness \nDOB: \n(Name/DOB as"
+      },
+      {
+        "name": "Witness Address",
+        "role": "extracted",
+        "context": "t permit the witness lofty.) \nWitness Address: \nWitness TelNos (mobile): \nW"
+      },
+      {
+        "name": "Witness Tel",
+        "role": "extracted",
+        "context": "ss lofty.) \nWitness Address: \nWitness TelNos (mobile): \nWitness e-mail:"
+      },
+      {
+        "name": "Witness Needed",
+        "role": "extracted",
+        "context": "s (mobile): \nWitness e-mail: \nWitness Needed to Appear in SDNY on Date: No"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "Appear for: \nTrial ( ) Date: \nGrand Jury ( ) \nDate: \nTrial/GJ Prep ("
+      },
+      {
+        "name": "Estimated Dates",
+        "role": "extracted",
+        "context": "X ) Date: November 21, 2019 \nEstimated Dates Witness will Arrive: November"
+      },
+      {
+        "name": "Los Vegas",
+        "role": "extracted",
+        "context": "ovember 20, 2019 (Flying from Los Vegas to NY) \nDepart: November 21,"
+      },
+      {
+        "name": "Los \nVegas",
+        "role": "extracted",
+        "context": "r 21, 2019 (Flying from NY to Los \nVegas) \nIs the person a Fact Witnes"
+      },
+      {
+        "name": "Expert Witness",
+        "role": "extracted",
+        "context": "son a Fact Witness and not an Expert Witness? \n(Yes/No): Yes \nCurrent Fede"
+      },
+      {
+        "name": "Yes \nCurrent",
+        "role": "extracted",
+        "context": "an Expert Witness? \n(Yes/No): Yes \nCurrent Federal Civilian or Military"
+      },
+      {
+        "name": "Federal Civilian",
+        "role": "extracted",
+        "context": "ness? \n(Yes/No): Yes \nCurrent Federal Civilian or Military Employee? (Yes/No"
+      },
+      {
+        "name": "Military Employee",
+        "role": "extracted",
+        "context": "Current Federal Civilian or Military Employee? (Yes/No): No \nIs the Witness"
+      },
+      {
+        "name": "No \nIs",
+        "role": "extracted",
+        "context": "Military Employee? (Yes/No): No \nIs the Witness Facing Criminal C"
+      },
+      {
+        "name": "Witness Facing",
+        "role": "extracted",
+        "context": "mployee? (Yes/No): No \nIs the Witness Facing Criminal Charges? \n(Yes/No):"
+      },
+      {
+        "name": "Criminal Charges",
+        "role": "extracted",
+        "context": "o): No \nIs the Witness Facing Criminal Charges? \n(Yes/No): \nNo \nDoes the Wit"
+      },
+      {
+        "name": "No \nDoes",
+        "role": "extracted",
+        "context": "Criminal Charges? \n(Yes/No): \nNo \nDoes the Witness Reside Outside th"
+      },
+      {
+        "name": "Witness Reside",
+        "role": "extracted",
+        "context": "ges? \n(Yes/No): \nNo \nDoes the Witness Reside Outside the Continental Unite"
+      },
+      {
+        "name": "Continental United",
+        "role": "extracted",
+        "context": "he Witness Reside Outside the Continental United States? (Yes/No): No \nIs this"
+      },
+      {
+        "name": "Yes \nHotel",
+        "role": "extracted",
+        "context": "a Victim-Witness? \n(Yes/No): Yes \nHotel Required? \n(Yes/No): Yes \nHas"
+      },
+      {
+        "name": "Yes \nHas",
+        "role": "extracted",
+        "context": "s \nHotel Required? \n(Yes/No): Yes \nHas \nthe Witness advised you of a"
+      },
+      {
+        "name": "No \nUnusual",
+        "role": "extracted",
+        "context": "travel expenses? \n(Yes/No): \nNo \nUnusual expenses of fact witnesses ca"
+      },
+      {
+        "name": "For Victim",
+        "role": "extracted",
+        "context": "escribe the unusual expense: \nFor Victim/Witness Coordinator: \n1. (For"
+      },
+      {
+        "name": "Witness Coordinator",
+        "role": "extracted",
+        "context": "unusual expense: \nFor Victim/Witness Coordinator: \n1. (For UEFW other than tra"
+      },
+      {
+        "name": "Armed Forces",
+        "role": "extracted",
+        "context": "nnel, for whom a  Request for Armed Forces or Government-Employee Witnes"
+      },
+      {
+        "name": "Employee Witness",
+        "role": "extracted",
+        "context": "or Armed Forces or Government-Employee Witness should be \nused. For foreign"
+      },
+      {
+        "name": "International Witness",
+        "role": "extracted",
+        "context": "or foreign witnesses, use the International Witness Travel Request. Complete an E"
+      },
+      {
+        "name": "Witness Fees",
+        "role": "extracted",
+        "context": "ness). See 28 C.F.R. Part 21, Witness Fees; USAP 3-19.000, Fact Witnesse"
+      },
+      {
+        "name": "Fact Witnesses",
+        "role": "extracted",
+        "context": "Witness Fees; USAP 3-19.000, Fact Witnesses and \nFees and Expenses of Wit"
+      },
+      {
+        "name": "Guiding Principles",
+        "role": "extracted",
+        "context": "itnesses (FEW) Appropriation; Guiding Principles for Obtaining Witness \nServic"
+      },
+      {
+        "name": "Obtaining Witness",
+        "role": "extracted",
+        "context": "ation; Guiding Principles for Obtaining Witness \nServices Under the Fees and"
+      },
+      {
+        "name": "Services Under",
+        "role": "extracted",
+        "context": "ciples for Obtaining Witness \nServices Under the Fees and Expenses of Witn"
+      },
+      {
+        "name": "Witnesses Appropriation",
+        "role": "extracted",
+        "context": "nder the Fees and Expenses of Witnesses Appropriation, \nhttp://dojnet.doj.gov/usao/"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-07",
+        "event": "November 7, 2019"
+      },
+      {
+        "date": "2019-11-21",
+        "event": "November 21, 2019"
+      },
+      {
+        "date": "2019-11-20",
+        "event": "November 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:21.011Z"
+}

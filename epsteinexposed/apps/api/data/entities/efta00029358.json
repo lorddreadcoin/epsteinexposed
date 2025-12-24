@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029358",
+    "filename": "EFTA00029358.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029358.pdf",
+    "text": "\n\nFrom: (USANYS)\" \n<MIMIMIN> \nTo: (USANYS)\" \nalMIE> \nSubject: \nDate: Sat, 14 Dec 2019 02:51:42 +0000 \nDon't know if you caught this but one of the non/minor Epstein victims alleges that Jes Staley (reads in memo as \n\"Jess Daily\") raped her during a massage. P. 31 \nSent from my iPhone \nEFTA00029358",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jes Staley",
+        "role": "extracted",
+        "context": "Epstein victims alleges that Jes Staley (reads in memo as \n\"Jess Dail"
+      },
+      {
+        "name": "Jess Daily",
+        "role": "extracted",
+        "context": "es Staley (reads in memo as \n\"Jess Daily\") raped her during a massage."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.287Z"
+}

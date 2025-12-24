@@ -1,0 +1,37 @@
+{
+  "document": {
+    "id": "efta00013527",
+    "filename": "EFTA00013527.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013527.pdf",
+    "text": "\n\nFrom: \" \n(USAFLS)\" < \nTo: \" (USAFLS)\" \n<\nCc: \" \n(USAFLS)\" \n<\n)' \nSubject: Revised Epstein Letter \nDate: Tue, 13 Nov 2007 18:32:28 +0000 \nImportance: Normal \nAttachments: 071113_Sloman_Ltr_to_Lefkowitz_v2.wpd \n> \nHi M— I have incorporated the change regarding the naming of counsel. Let me know what you hear back. \nThanks. \nAssistant U.S. Attorney \n561 \nFax 561 820-8777 \nEFTA00013527",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Revised Epstein",
+        "role": "extracted",
+        "context": "\" \n(USAFLS)\" \n<\n)' \nSubject: Revised Epstein Letter \nDate: Tue, 13 Nov 200"
+      },
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": ")' \nSubject: Revised Epstein Letter \nDate: Tue, 13 Nov 2007 18:32:28 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 18:32:28 +0000 \nImportance: Normal \nAttachments: 071113_Sloman_Ltr_to_Lefkowi"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.784Z"
+}

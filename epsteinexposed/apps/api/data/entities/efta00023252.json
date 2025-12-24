@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023252",
+    "filename": "EFTA00023252.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023252.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" \nCc: \" \n)\" \nSubject: Part I  Matter - Friday, October 16, 2020 \nDate: Fri, 16 Oct 2020 12:56:09 +0000 \nAttachments: 2020.10.15_Epstein_application_for_unsealing_order.pdf \nGood Morning Judge Vyskocil, \nAttached hereto please find a Unsealing Order. Once the Order is signed can you please email us a copy back. \nThis will be going into a red sealing envelope. \nIf you need anything else please let us know. \nThank you, \nCriminal Clerk \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00023252",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "tion_for_unsealing_order.pdf \nGood Morning Judge Vyskocil, \nAttached her"
+      },
+      {
+        "name": "Judge Vyskocil",
+        "role": "extracted",
+        "context": "aling_order.pdf \nGood Morning Judge Vyskocil, \nAttached hereto please find"
+      },
+      {
+        "name": "Unsealing Order",
+        "role": "extracted",
+        "context": "Attached hereto please find a Unsealing Order. Once the Order is signed can"
+      },
+      {
+        "name": "Criminal Clerk",
+        "role": "extracted",
+        "context": "ase let us know. \nThank you, \nCriminal Clerk \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "erk \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-16",
+        "event": "October 16, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.556Z"
+}

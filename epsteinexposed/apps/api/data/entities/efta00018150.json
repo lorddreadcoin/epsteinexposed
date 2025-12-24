@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018150",
+    "filename": "EFTA00018150.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018150.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: Re: Epstein \nDate: Mon, 08 Jul 2019 11:06:30 +0000 \nImportance: Normal \nLooping in assigned AUSA, \nOn Jul 8, 2019, at 06:55, > wrote: \nHey • \nDo you have any info about the presentment etc for this case that we can forward to the Marshal. \nThank you \nSupervisory Deputy U.S. Marshal \nSouthern District of New York \nEFTA00018150",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "' \nTo:' \nCc: ' \nSubject: Re: Epstein \nDate: Mon, 08 Jul 2019 11:06:30 +0"
+      },
+      {
+        "name": "Normal \nLooping",
+        "role": "extracted",
+        "context": "9 11:06:30 +0000 \nImportance: Normal \nLooping in assigned AUSA, \nOn Jul 8,"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "l \nLooping in assigned AUSA, \nOn Jul 8, 2019, at 06:55, > wrote:"
+      },
+      {
+        "name": "Supervisory Deputy",
+        "role": "extracted",
+        "context": "d to the Marshal. \nThank you \nSupervisory Deputy U.S. Marshal \nSouthern Distri"
+      },
+      {
+        "name": "Marshal \nSouthern",
+        "role": "extracted",
+        "context": "you \nSupervisory Deputy U.S. Marshal \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.282Z"
+}

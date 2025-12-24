@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00027071",
+    "filename": "EFTA00027071.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027071.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: 5th Production cover letters \nDate: Mon, 19 Oct 2020 23:02:53 +0000 \nAttachments: 2020.10.20_Maxwell_Discovery_Lettendocx \nThanks very much The MDC cover letters look good to me. Please just change the date to 10/20 because these \nwill go out tomorrow. \nI've revised the counsel cover letter to \nincorporate \nsome language that and I previously discussed. The \nrevised version is attached here 3ny edits to this before it goes out tomorrow? \nThanks again, \nFrom \nSent: Monday, October 19, 2020 4:06 PM \nTo: \nCc:\nSubject: 5th Production cover letters \nHi, all! \nI'm preparing the 5th Production to go out today, and I've attached the cover letter for defense counsel and two cover \nletters for Maxwell (one main cover letter to be included with the drive sent to MDC, and one letter containing the \npassword to be sent in a separate envelope to MDC). Please review at your convenience; once you approve, I'll have both \ndrives sent out. \nThank you very much! \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00027071",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: 5th Product"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: 5th Production cover let"
+      },
+      {
+        "name": "Lettendocx \nThanks",
+        "role": "extracted",
+        "context": "2020.10.20_Maxwell_Discovery_Lettendocx \nThanks very much The MDC cover lette"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "out tomorrow? \nThanks again, \nFrom \nSent: Monday, October 19, 2020 4:0"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "t out. \nThank you very much! \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00027071"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-19",
+        "event": "October 19, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.485Z"
+}

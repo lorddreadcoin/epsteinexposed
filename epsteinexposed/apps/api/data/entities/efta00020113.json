@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020113",
+    "filename": "EFTA00020113.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020113.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Victim contact list \nDate: Thu, 22 Aug 2019 15:24:36 +0000 \nAttachments: 2019.08.20 JE_Victim_List.xlsx \nFrom: \nSent: Tuesday, August 20, 2019 2:32 PM \nTo: \nCc: \nSubject: Victim contact list \nHi \nFollowing up on our meeting yesterday, attached is the updated spreadsheet of all identified victims and noting which \nones have been contacted. Would you please review this with the FBI victim specialists to note any additional contact \nwith victims since Epstein's death? And if there are still any victims in this spreadsheet who have not been contacted \nsince Epstein's death, would you please attempt to contact them and make a note of those attempts in the spreadsheet? \nGive me a call if you have any questions, and thanks so much for your help with this. \nAssistant United States Attorney \new York \nNew York. NY 10007 \nEFTA00020113",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nFollowing",
+        "role": "extracted",
+        "context": "Subject: Victim contact list \nHi \nFollowing up on our meeting yesterday,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "uch for your help with this. \nAssistant United States Attorney \new York \nNew"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "with this. \nAssistant United States Attorney \new York \nNew York. NY 10007"
+      },
+      {
+        "name": "York \nNew",
+        "role": "extracted",
+        "context": "nt United States Attorney \new York \nNew York. NY 10007 \nEFTA00020113"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-20",
+        "event": "August 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.218Z"
+}

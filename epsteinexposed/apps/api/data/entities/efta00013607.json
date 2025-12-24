@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013607",
+    "filename": "EFTA00013607.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013607.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: epstein - did u hear anything? \nDate: Thu, 02 Aug 2007 13:20:38 +0000 \nImportance: Normal \nLilly called yesterday and said they will send their letter today. \n----------\nSent from my BlackBerry Wireless Handheld \n \nOr' ' \nFro • \nTo: \n• •Sen : uAug . . \nSubject: epstein - did u hear \nanything? \nEFTA00013607",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nLilly",
+        "role": "extracted",
+        "context": "7 13:20:38 +0000 \nImportance: Normal \nLilly called yesterday and said the"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "----------\nSent from my BlackBerry Wireless Handheld \n \nOr' ' \nFro • \nTo:"
+      },
+      {
+        "name": "Handheld \n \nOr",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \n \nOr' ' \nFro • \nTo: \n• •Sen : uAug"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.966Z"
+}

@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00014025",
+    "filename": "EFTA00014025.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014025.pdf",
+    "text": "\n\nFrom: (USAFLS)\"  \nTo: '   (USAFLS)\"  \nSubject: RE: status inquiry \nDate: Fri, 15 Aug 2008 18:17:37 +0000 \nImportance: Normal \nThanks. I really appreciate it. \nFrom: (USAFLS) \nSent: Frida Au ust 15, 2008 2:13 PM \nTo: (USAFLS) \nSubject: RE: status inquiry \nLeap Year is still open, in case he breaches, but should be considered \"on hold.\" \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: \n(USAFLS) \nSent: Friday, August 15, 2008 1:SO PM \nTo: \n. \n(USAFLS) \nSubject: status inquiry \n, I \nam doing my caseload \ncertification. \nCould you please tell me what the status is on: \nOperation Leap Year \nThanks. \nEFTA00014025",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "8 18:17:37 +0000 \nImportance: Normal \nThanks. I really appreciate it. \nFro"
+      },
+      {
+        "name": "Frida Au",
+        "role": "extracted",
+        "context": "te it. \nFrom: (USAFLS) \nSent: Frida Au ust 15, 2008 2:13 PM \nTo: (US"
+      },
+      {
+        "name": "Leap Year",
+        "role": "extracted",
+        "context": "Subject: RE: status inquiry \nLeap Year is still open, in case he bre"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "ed \"on hold.\" \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom:"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: \n(USAFLS) \nSent: Frida"
+      },
+      {
+        "name": "Operation Leap",
+        "role": "extracted",
+        "context": "ll me what the status is on: \nOperation Leap Year \nThanks. \nEFTA00014025"
+      },
+      {
+        "name": "Year \nThanks",
+        "role": "extracted",
+        "context": "status is on: \nOperation Leap Year \nThanks. \nEFTA00014025"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-08-15",
+        "event": "August 15, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.962Z"
+}

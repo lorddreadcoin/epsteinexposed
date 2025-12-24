@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016803",
+    "filename": "EFTA00016803.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016803.pdf",
+    "text": "\n\nFrom: \"I\nTo: \"I \n(USANYS)\" <1 \n)\"\nCc:' \"< \nSubject: RE: Press Conference at Epstein's \nDate: Mon, 27 Jan 2020 21:12:07 +0000 \n(USANYS)\" \nk \nIt \nalready called me. You can tell that and I connected. \nFrom: \nSent: Monday, January 27, 2020 4:11 PM \nTo: \nCc: \nSubject: Fwd: Press Conference at Epstein's \n(USANYS) (USANYS) \nPlease see the below email from \n. \nCould somebody above the line level connect with to \ndiscuss? We \nalso do not know what the office would like us to convey to the victims. Thanks. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \nDate: Janua \nTo: \" \n(NY) (FBI)\" < \n27 2020 at 3:27:49 PM EST \nCc: ' \n(FBI)\" \nSubject: Press Conference at Epstein's \nAll, \nI have been getting some questions about the press conference that occurred today at Epstein's mansion, do any \nof you know that was about? Our media affairs department has been getting questions. In addition, our Victim \nSpecialists have been fielding calls from irate victims who weren't notified. \nhttps://twitter. com/AaronKatersky/status/1221833096686903299/photo/1 \nthanks, \nSSA-\nSquad C-20 \nCrimes Against Children/Human Trafficking \nFBI New York \noffice \nmobile \nEFTA00016803",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Press Conference",
+        "role": "extracted",
+        "context": "<1 \n)\"\nCc:' \"< \nSubject: RE: Press Conference at Epstein's \nDate: Mon, 27 J"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "ctims. Thanks. \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Janua \nTo",
+        "role": "extracted",
+        "context": "rded message: \nFrom: ' \nDate: Janua \nTo: \" \n(NY) (FBI)\" < \n27 2020 at"
+      },
+      {
+        "name": "Victim \nSpecialists",
+        "role": "extracted",
+        "context": "g questions. In addition, our Victim \nSpecialists have been fielding calls from"
+      },
+      {
+        "name": "Crimes Against",
+        "role": "extracted",
+        "context": "/1 \nthanks, \nSSA-\nSquad C-20 \nCrimes Against Children/Human Trafficking \nF"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "C-20 \nCrimes Against Children/Human Trafficking \nFBI New York \noffice \nmobile"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-27",
+        "event": "January 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.407Z"
+}

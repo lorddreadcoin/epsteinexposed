@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00013459",
+    "filename": "EFTA00013459.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013459.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n(USANYS)\" \nSubject: Re: Epstein Call Tomorrow \nDate: Thu, 21 May 2020 13:32:40 +0000 \n(USANYS) \nEither works for me. Thanks. \nSent from my iPhone \nOn May 21, 2020, at 9:27 AM, \nMe too. \nFrom: \n) \n< \nSent: Thursday, May 21, 2020 9:27 AM \nTo: (USANYS) [Contractor] \nCc: (USANYS) < \n(USANYS) < \nSubject: Re: Epstein Call Tomorrow \nEither works for me, thanks. \n>; \n(USANYS)  \n> \nwrote: \n>; \nOn May 21, 2020, at 09:17, (USANYS) < \n1 would be better for me but I can make 11 work if it's better for others. \nSent from my iPhone \nOn May 21, 2020, at 9:11 AM, \nBoth work for me, thanks. \nFrom: (USANYS) [Contractor] < \nSent: Thursday, May 21, 2020 9:10 AM \nTo: (USANYS) \nSubject: Epstein Call Tomorrow \nAll, \nwrote: \n> \nwrote: \n(USANYS) < \n> \nI've been asked to set up a call with all of you and the brass for tomorrow. 11am or 1pm would work best for them. \nDo either work for all of you? \nThanks, \nEFTA00013459",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Call",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\" \nSubject: Re: Epstein Call Tomorrow \nDate: Thu, 21 May 2"
+      },
+      {
+        "name": "Tomorrow \nDate",
+        "role": "extracted",
+        "context": ")\" \nSubject: Re: Epstein Call Tomorrow \nDate: Thu, 21 May 2020 13:32:40 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "or me. Thanks. \nSent from my iPhone \nOn May 21, 2020, at 9:27 AM, \nMe"
+      },
+      {
+        "name": "Tomorrow \nEither",
+        "role": "extracted",
+        "context": "< \nSubject: Re: Epstein Call Tomorrow \nEither works for me, thanks. \n>; \n(U"
+      },
+      {
+        "name": "On May",
+        "role": "extracted",
+        "context": ">; \n(USANYS)  \n> \nwrote: \n>; \nOn May 21, 2020, at 09:17, (USANYS)"
+      },
+      {
+        "name": "Tomorrow \nAll",
+        "role": "extracted",
+        "context": "SANYS) \nSubject: Epstein Call Tomorrow \nAll, \nwrote: \n> \nwrote: \n(USANYS)"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-21",
+        "event": "May 21, 2020"
+      },
+      {
+        "date": "2020-05-21",
+        "event": "21 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.638Z"
+}

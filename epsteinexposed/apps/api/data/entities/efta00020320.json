@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020320",
+    "filename": "EFTA00020320.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020320.pdf",
+    "text": "\n\nFrom: \nTo: \"Weinstein, Marc A.\" , Andrew Tomback \nCc: \nrr<MIMIN>, \nSil \nSubject: RE: SDNY investigation \nDate: Sun, 26 Jul 2020 18:51:10 +0000 \nAttachments: 2020-07-26,_JE,_letter to_trustees_counsel.pdf \nAndy, Marc, \nFollowing up on our recent discussions, please see the attached letter from our Office. \nRegards, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00020320",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": ": \nTo: \"Weinstein, Marc A.\" , Andrew Tomback \nCc: \nrr<MIMIN>, \nSil \nSubjec"
+      },
+      {
+        "name": "Sil \nSubject",
+        "role": "extracted",
+        "context": "rew Tomback \nCc: \nrr<MIMIN>, \nSil \nSubject: RE: SDNY investigation \nDate"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ce. \nRegards, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-26",
+        "event": "2020-07-26"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.621Z"
+}

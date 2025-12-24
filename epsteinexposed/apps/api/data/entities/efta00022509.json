@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00022509",
+    "filename": "EFTA00022509.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022509.pdf",
+    "text": "\n\nPage 1728 \nEpstein #76318-054 \nFrom \nTo \nDate \nSubject: \nAttachments: \nLieutenants, \nPlease see attached. \nVe res ectfull \n2019/07/24 10:41 \nEpstein #76318-054 \nTEXT.htm, 2019   07 24 10 40  50.pdf \nForensic \nPsychologist \nLT, U.S. Public Health \nService \nU.S. Department of Justice \nFederal Bureau of Prisons \nMetropolitan Correctional Center \n150 Park Row \nNew York New York 10007 \nOffic \nFax: \nE-ma \n\"This message is intended for official use and may contain SENSITIVE information. If this message contains \nSENSITIVE information, it should be properly delivered, labeled, stored, and disposed of according to \npolicy\" \nPage 8910 \nEFTA00022509\n\nPage 1729 \nUnited States Government \nMEMORANDUM \nMCC NEW YORK \nDATE: \nTO: \nFROM: \nRE: \nJuly 24, 2019 \nLieutenant's Office \nKt.WIli V IL IWIVI a  U IL-11/L: WA I t-1-1  AIN LJ r LALIL \nPSYCHOLOGICAL OBSERVATION \nPlease remove inmate Epstein #76318-054 from Suicide Watch and place him on \nPsychological \nObservation. \nEFTA00022510",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "age 1728 \nEpstein #76318-054 \nFrom \nTo \nDate \nSubject: \nAttachments:"
+      },
+      {
+        "name": "Date \nSubject",
+        "role": "extracted",
+        "context": "Epstein #76318-054 \nFrom \nTo \nDate \nSubject: \nAttachments: \nLieutenants,"
+      },
+      {
+        "name": "Forensic \nPsychologist",
+        "role": "extracted",
+        "context": ", 2019   07 24 10 40  50.pdf \nForensic \nPsychologist \nLT, U.S. Public Health \nServ"
+      },
+      {
+        "name": "Public Health",
+        "role": "extracted",
+        "context": "ensic \nPsychologist \nLT, U.S. Public Health \nService \nU.S. Department of"
+      },
+      {
+        "name": "Justice \nFederal",
+        "role": "extracted",
+        "context": "Service \nU.S. Department of Justice \nFederal Bureau of Prisons \nMetropolit"
+      },
+      {
+        "name": "Prisons \nMetropolitan",
+        "role": "extracted",
+        "context": "of Justice \nFederal Bureau of Prisons \nMetropolitan Correctional Center \n150 Park"
+      },
+      {
+        "name": "Correctional Center",
+        "role": "extracted",
+        "context": "reau of Prisons \nMetropolitan Correctional Center \n150 Park Row \nNew York New Y"
+      },
+      {
+        "name": "Park Row",
+        "role": "extracted",
+        "context": "itan Correctional Center \n150 Park Row \nNew York New York 10007 \nOff"
+      },
+      {
+        "name": "Offic \nFax",
+        "role": "extracted",
+        "context": "Row \nNew York New York 10007 \nOffic \nFax: \nE-ma \n\"This message is inte"
+      },
+      {
+        "name": "Office \nKt",
+        "role": "extracted",
+        "context": "July 24, 2019 \nLieutenant's Office \nKt.WIli V IL IWIVI a  U IL-11/L:"
+      },
+      {
+        "name": "Suicide Watch",
+        "role": "extracted",
+        "context": "nmate Epstein #76318-054 from Suicide Watch and place him on \nPsychologic"
+      },
+      {
+        "name": "Psychological \nObservation",
+        "role": "extracted",
+        "context": "icide Watch and place him on \nPsychological \nObservation. \nEFTA00022510"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-24",
+        "event": "July 24, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.048Z"
+}

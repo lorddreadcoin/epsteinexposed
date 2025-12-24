@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00023535",
+    "filename": "EFTA00023535.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023535.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: Wed, 04 Mar 2020 14:31:46 ,  0000 \nAttachments: CYBER ROFE 2019-010614_Aug_22_Phones.zip \nb \nevices \nThe Dal OIG Cyber team completed the analysis of the BOP devise. Attached is the report, they found one discussion of \nEpstein in a text exchange. \nU.S. Department of Justice \nOffice of the Inspector General \nNew York Field Office \nOne Battery Park Plaza, 29th Floor \nNew York, NY 10004 \nEFTA00023535",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Dal",
+        "role": "extracted",
+        "context": "Aug_22_Phones.zip \nb \nevices \nThe Dal OIG Cyber team completed the"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "exchange. \nU.S. Department of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice \nOffice of the Inspector General \nNew York Field Office \nOne B"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nOne Battery Park Plaza, 29th"
+      },
+      {
+        "name": "One Battery",
+        "role": "extracted",
+        "context": "neral \nNew York Field Office \nOne Battery Park Plaza, 29th Floor \nNew Y"
+      },
+      {
+        "name": "Park Plaza",
+        "role": "extracted",
+        "context": "ork Field Office \nOne Battery Park Plaza, 29th Floor \nNew York, NY 100"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "One Battery Park Plaza, 29th Floor \nNew York, NY 10004 \nEFTA00023535"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.122Z"
+}

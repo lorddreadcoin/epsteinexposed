@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030280",
+    "filename": "EFTA00030280.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030280.pdf",
+    "text": "\n\nFrom: \nTo: Aimee Hector \nSubject: RE: Hello and potentially helpful info \nDate: Sat, 13 Jul 2019 21:10:34 +0000 \nImportance: Normal \nAimee —great to hear from you, and I  didn't know about that case so I appreciate the heads up. It's an avalanche of info \nthese days so we're just triaging at all times. Will add this to our list for Monday — thanks again. And yes, would be great \nto catch up sometime soon! \nFrom: Aimee Hector \nSent: Friday, July 12, 2019 11:55 \nTo: \nSubject: Hello and potentially helpful info \n1lope all is well at the Office. Would love to get together for lunch or something sometime soon. Just reaching \nout because I  believe you are handling the Epstein case and that Berman is assigned. I assume you all know this, \nbut Judge Berman had the Cameron Douglas case, which I handed with Jeff Brown at the time, and Cameron \nDouglas was granted bail with various requirements that he reside in his NY apartment with 24 hr surveillance \npaid for by him etc. He ultimately violated those conditions by smuggling drugs via an electric toothbrush. \nBerman is obviously well aware of the situation and it could be a helpful data point for you all if you don't \nalready know about it (not sure anyone is left with the institutional knowledge of that case). \nBest, \nAimee \nEFTA00030280",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Aimee Hector",
+        "role": "extracted",
+        "context": "From: \nTo: Aimee Hector \nSubject: RE: Hello and poten"
+      },
+      {
+        "name": "Normal \nAimee",
+        "role": "extracted",
+        "context": "9 21:10:34 +0000 \nImportance: Normal \nAimee —great to hear from you, and"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "ssume you all know this, \nbut Judge Berman had the Cameron Douglas case,"
+      },
+      {
+        "name": "Cameron Douglas",
+        "role": "extracted",
+        "context": "is, \nbut Judge Berman had the Cameron Douglas case, which I handed with Jef"
+      },
+      {
+        "name": "Jeff Brown",
+        "role": "extracted",
+        "context": "las case, which I handed with Jeff Brown at the time, and Cameron \nDou"
+      },
+      {
+        "name": "Cameron \nDouglas",
+        "role": "extracted",
+        "context": "h Jeff Brown at the time, and Cameron \nDouglas was granted bail with various"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.465Z"
+}

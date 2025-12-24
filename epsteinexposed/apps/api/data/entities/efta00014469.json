@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014469",
+    "filename": "EFTA00014469.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014469.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Can you \nDate: Mon, 15 Jul 2019 23:16:40 +0000 \nImportance: Normal \nYeah we're one step ahead -- the Marius Fortelni who lives in Southampton says on his website that he lived for a \ntime in Saudi Arabia, so given his nationality, the fact that the \"residence\" on the passport is Saudi Arabia, and \nthe fact that the age roughly appears to match up, we asked the agents to try to confirm the DOB but also to just \nreach out to Mr. Fortelni and see if he has any knowledge of why a passport from his country, with his name and \nformer residence country, might be in Jeffrey Epstein's safe and with Jeffrey Epstein's face on it. \n• • \nFrom: \nSent: on a u \nTo: \nSubject: Can you \nHave an agent run the real Marius's DOB and compare to passport? \nSent from my \niPhone \nEFTA00014469",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "s name and \nformer residence country, might be in Jeffrey Epstein's safe and with Jeffrey Epstein's face on it. \n•"
+      },
+      {
+        "name": "Fortelni",
+        "role": "extracted",
+        "context": "ut also to just \nreach out to Mr. Fortelni and see if he has any kno"
+      },
+      {
+        "name": "Normal \nYeah",
+        "role": "extracted",
+        "context": "9 23:16:40 +0000 \nImportance: Normal \nYeah we're one step ahead -- the M"
+      },
+      {
+        "name": "Marius Fortelni",
+        "role": "extracted",
+        "context": "h we're one step ahead -- the Marius Fortelni who lives in Southampton says"
+      },
+      {
+        "name": "Saudi Arabia",
+        "role": "extracted",
+        "context": "that he lived for a \ntime in Saudi Arabia, so given his nationality, th"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.911Z"
+}

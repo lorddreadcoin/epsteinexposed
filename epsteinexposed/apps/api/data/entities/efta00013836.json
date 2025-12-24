@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013836",
+    "filename": "EFTA00013836.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013836.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: epstein \nDate: Tue, 10 Nov 2009 16:04:49 +0000 \nImportance: Normal \nNext time you are here check the room to see if there is enough space. \nFrom: \nSent: Tuesda November 1 2  09 10:50 AM \nTo: \nSub . \n. \nIt is a variety of stuff but I was hoping to store all of it in the locked gj room on 4 (that is where I had it locked up before it \nwent to 9). \nFrom: \nTo: \nSent: Tue Nov 10 10:39:23 2009 \nSubject: epstein \nThe boxes on the 9th are they grand jury or just case files and info? When you asked about moving them, did \nyou mean to the room the grand jury transcripts are kept here on the 4th floor? \nEFTA00013836",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nNext",
+        "role": "extracted",
+        "context": "9 16:04:49 +0000 \nImportance: Normal \nNext time you are here check the r"
+      },
+      {
+        "name": "Tuesda November",
+        "role": "extracted",
+        "context": "s enough space. \nFrom: \nSent: Tuesda November 1 2  09 10:50 AM \nTo: \nSub ."
+      },
+      {
+        "name": "Tue Nov",
+        "role": "extracted",
+        "context": "ent to 9). \nFrom: \nTo: \nSent: Tue Nov 10 10:39:23 2009 \nSubject: ep"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.550Z"
+}

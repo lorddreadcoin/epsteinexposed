@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013436",
+    "filename": "EFTA00013436.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013436.pdf",
+    "text": "\n\nFrom: ' \nSubject: RE: Significant events next week? \nDate: Fri, I  I  Jan 2019 17:58:40 +0000 \nImportance: Normal \nHi \nNext week, the team on our Jeffrey Epstein investigation (we can fill you in more at 3 pm) is traveling to Florida to meet \nwith the case agents on the original Epstein investigation and begin the process of collecting the hard copy files from that \ninvestigation. \nNot a  prospective update, but today, Victor Casado, a former supervisory guard at the MCC, was sentenced to 36 months \nfor his role in smuggling contraband into the MCC for   in \nexchange for tens of thousands of dollars in bribes. \nSubject: RE: Significant events next week? \nSame request. Hopefully soon I'll be in the loop enough that I  won't have to ask this, but for the time being, please bear \nwith me. Thanks! \nSubject: Significant events next week? \nJust so I  have a sense, can you shoot me an email about any significant events (pleas, sentencings, hearings, significant \nmeetings, etc.) that will be happening next week? I  don't need detail —  just a brief description of the event so it is on my \nEFTA00013436\n\nradar screen. Thanks. \nEFTA00013437",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "mportance: Normal \nHi \nNext week, the team on our Jeffrey Epstein investigation (we can fill you in more at 3 pm) i"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "9 17:58:40 +0000 \nImportance: Normal \nHi \nNext week, the team on our J"
+      },
+      {
+        "name": "Victor Casado",
+        "role": "extracted",
+        "context": "rospective update, but today, Victor Casado, a former supervisory guard a"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.592Z"
+}

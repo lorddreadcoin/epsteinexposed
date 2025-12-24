@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00028804",
+    "filename": "EFTA00028804.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028804.pdf",
+    "text": "\n\nFrom: Gloria Allred  \nTo:' \nCc: ' \nSubject: Urgent. I  have a new alleged victim of E I have a new client who was a victim of Epstein. \nShe is willing to fly to New York for the victim meeting on Oct. 23. May I call you at 5:45 \nP.M. to \ndiscuss ? \nDate: Fri, 18 Oct 2019 21:02:17 +0000 \nInline-Images: image001.jpg; image002.png \nGloria Allred \nAllred, Maroko & Goldberg \n6300 Wilshire Blvd., Suite 1500 \nLos Angeles, CA \n90048 \n323-653-6530 \nwww.amglaw.com \nwww. gloriaallred. corn \nV..0.0 Cc:n1)61110 Zest \nBest Lawyers \nNthenclak-Hubec \ns\nPREEMINENT \nem \nThis message is CONFIDENTIAL and may contain legally privileged information intended only for the addressee. If you are not the \naddressee you may not use, forward, copy or disclose to anyone any information contained in this message. IF YOU RECEIVED THIS \nCOMMUNICATION IN ERROR, PLEASE NOTIFY ALLRED, MAROKO & GOLDBERG IMMEDIATELY BY TELEPHONING THE SENDER NAMED \nABOVE AT 323-653-6530. Thank you. \nEFTA00028804",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "From: Gloria Allred  \nTo:' \nCc: ' \nSubject: Urgen"
+      },
+      {
+        "name": "Wilshire Blvd",
+        "role": "extracted",
+        "context": "lred, Maroko & Goldberg \n6300 Wilshire Blvd., Suite 1500 \nLos Angeles, CA"
+      },
+      {
+        "name": "Zest \nBest",
+        "role": "extracted",
+        "context": "red. corn \nV..0.0 Cc:n1)61110 Zest \nBest Lawyers \nNthenclak-Hubec \ns\nP"
+      },
+      {
+        "name": "Lawyers \nNthenclak",
+        "role": "extracted",
+        "context": "V..0.0 Cc:n1)61110 Zest \nBest Lawyers \nNthenclak-Hubec \ns\nPREEMINENT \nem \nThis"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "323-653-6530"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:21.016Z"
+}

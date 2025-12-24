@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016759",
+    "filename": "EFTA00016759.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016759.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" < \n> \nTo:' \nCc: \" \nSubject: RE: Epstein/Austria \nDate: Mon, 22 Jul 2019 16:35:37 +0000 \n— do you have a few minutes to chat about it? I am free until 2 and again from 330-430, or most of tomorrow. \nThanks, \nFrom: \nSent: Monday, July 22, 2019 12:28 PM \nTo: (USANYS)  \nCc: \nSubject: Epstein/ Austria \n—  The Austrian Embassy has just contacted me to ask whether they can be provided \ninformation regarding the alleged Austrian passport that Epstein had in his possession. Is there \nanything we can share in this regard? Thanks, \nEFTA00016759",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Austria \nDate",
+        "role": "extracted",
+        "context": "Cc: \" \nSubject: RE: Epstein/Austria \nDate: Mon, 22 Jul 2019 16:35:37 +0"
+      },
+      {
+        "name": "The Austrian",
+        "role": "extracted",
+        "context": "Subject: Epstein/ Austria \n—  The Austrian Embassy has just contacted me"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-22",
+        "event": "July 22, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.319Z"
+}

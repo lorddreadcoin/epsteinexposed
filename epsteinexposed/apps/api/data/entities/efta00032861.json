@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00032861",
+    "filename": "EFTA00032861.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032861.pdf",
+    "text": "\n\nFrom: \"Westlaw a westlaw.com\" <Westlaw@westlaw.com> \nTo: \nSubject: U.S. v. Neill \nDate: Wed, 11 Apr 2018 12:16:12 +0000 \nAttachments: US_v_Neill.rtf \nsent \nyou content from Westlaw. \nPlease see the attached file. \nItem: \nU.S. v. Neill \nCitation: 952 F.Supp. 834 \nSent \nOn: Wednesda Aril 11, 2018 \nSent By: \nClient I : \nNote: \nWestlaw \nm \n2018 Thomson Reuters. No claim to original U.S. Government Works. \nEFTA00032861",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Neill \nDate",
+        "role": "extracted",
+        "context": "w.com> \nTo: \nSubject: U.S. v. Neill \nDate: Wed, 11 Apr 2018 12:16:12 +0"
+      },
+      {
+        "name": "Neill \nCitation",
+        "role": "extracted",
+        "context": "ttached file. \nItem: \nU.S. v. Neill \nCitation: 952 F.Supp. 834 \nSent \nOn: W"
+      },
+      {
+        "name": "Sent \nOn",
+        "role": "extracted",
+        "context": "l \nCitation: 952 F.Supp. 834 \nSent \nOn: Wednesda Aril 11, 2018 \nSent"
+      },
+      {
+        "name": "Wednesda Aril",
+        "role": "extracted",
+        "context": "n: 952 F.Supp. 834 \nSent \nOn: Wednesda Aril 11, 2018 \nSent By: \nClient I"
+      },
+      {
+        "name": "Sent By",
+        "role": "extracted",
+        "context": "On: Wednesda Aril 11, 2018 \nSent By: \nClient I : \nNote: \nWestlaw"
+      },
+      {
+        "name": "Thomson Reuters",
+        "role": "extracted",
+        "context": "I : \nNote: \nWestlaw \nm \n2018 Thomson Reuters. No claim to original U.S. Go"
+      },
+      {
+        "name": "Government Works",
+        "role": "extracted",
+        "context": "rs. No claim to original U.S. Government Works. \nEFTA00032861"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.624Z"
+}

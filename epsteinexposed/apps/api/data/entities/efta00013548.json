@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013548",
+    "filename": "EFTA00013548.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013548.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Epstein \nDate: Fri, 18 Jan 2008 20:01:57 +0000 \nImportance: Normal \nHi I think spoke to the lawyer before he called you. I have notes and can fill you in. I am sitting in the office \nnext toon 6. Thanks. \nEFTA00013548",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Epstein \nDate: Fri"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Epstein \nDate: Fri, 18 Jan 2008 20:01:57 +0"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 20:01:57 +0000 \nImportance: Normal \nHi I think spoke to the lawyer b"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.842Z"
+}

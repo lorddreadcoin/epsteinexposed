@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013837",
+    "filename": "EFTA00013837.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013837.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Black \nDate: Tue, 17 Jun 2008 20:08:15 +0000 \nImportance: Normal \nDo you want us to call him re Epstein? \nEFTA00013837",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Black \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Black \nDate: Tue, 17 Jun 2008 20:08:15 +0"
+      },
+      {
+        "name": "Normal \nDo",
+        "role": "extracted",
+        "context": "8 20:08:15 +0000 \nImportance: Normal \nDo you want us to call him re Ep"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.551Z"
+}

@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00030222",
+    "filename": "EFTA00030222.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030222.pdf",
+    "text": "\n\nFrom: \nTo: \ntEl  \nSubject: RE: 9 E 71st Street New York NY DEED \nDate: Thu, 27 Jun 2019 18:05:58 +0000 \nImportance: Normal \nHey thanks for this, only thing is that whatever he attached didn't come through — could you forward the attachment(s)? \nThanks! \nFrom: \nSent: urs ay, une\nTo: \nCc: \n< \nSubject: Re: 9 E 71st Street New York NY DEED \n>; \n1 \n<la; \nThanks for this info. I've cc'd my partner, along with the AUSAs that we are working with so they have it as \nwell. \nThanks again, \nMandy \nOn Jun 27, 2019 1:44 PM, ' wrote: \nHi Mandy \nThis is from ACRIS. It's the Last Deed of Record, dated 12/23/2011. \nNotice that the Grantor and Grantee lines are both signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located in St Thomas, VI. \nNo mortgages from Maple Inc are indicated in the online records. \nEFTA00030222",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "the Grantor and Grantee lines are both signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located in St"
+      },
+      {
+        "name": "El  \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: \ntEl  \nSubject: RE: 9 E 71st Street New York"
+      },
+      {
+        "name": "Street New",
+        "role": "extracted",
+        "context": "tEl  \nSubject: RE: 9 E 71st Street New York NY DEED \nDate: Thu, 27 J"
+      },
+      {
+        "name": "Normal \nHey",
+        "role": "extracted",
+        "context": "9 18:05:58 +0000 \nImportance: Normal \nHey thanks for this, only thing i"
+      },
+      {
+        "name": "Mandy \nOn",
+        "role": "extracted",
+        "context": "it as \nwell. \nThanks again, \nMandy \nOn Jun 27, 2019 1:44 PM, ' wrote"
+      },
+      {
+        "name": "Hi Mandy",
+        "role": "extracted",
+        "context": "n 27, 2019 1:44 PM, ' wrote: \nHi Mandy \nThis is from ACRIS. It's the"
+      },
+      {
+        "name": "Last Deed",
+        "role": "extracted",
+        "context": "This is from ACRIS. It's the Last Deed of Record, dated 12/23/2011."
+      },
+      {
+        "name": "The Grantee",
+        "role": "extracted",
+        "context": "h signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located"
+      },
+      {
+        "name": "Maple Inc",
+        "role": "extracted",
+        "context": "frey Epstein. \nThe Grantee is Maple Inc which is located in St Thomas"
+      },
+      {
+        "name": "St Thomas",
+        "role": "extracted",
+        "context": "Maple Inc which is located in St Thomas, VI. \nNo mortgages from Maple"
+      }
+    ],
+    "locations": [
+      {
+        "name": "St Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2011-12-23",
+        "event": "12/23/2011"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.309Z"
+}

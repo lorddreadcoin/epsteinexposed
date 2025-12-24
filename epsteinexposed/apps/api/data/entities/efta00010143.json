@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00010143",
+    "filename": "EFTA00010143.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010143.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubjec \nDate: Tue, 16 Nov 2021 22:03:24 +0000 \nEmbedded: [EXTERNAL_EMAILL-ye:_Federal_Trial_Subpoena.msg \nFYI \nSpecial Agent \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk \nEFTA00010143",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubjec \nDate: Tue, 16 No"
+      },
+      {
+        "name": "Cc \nSubjec",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubjec \nDate: Tue, 16 Nov 2021 22:03"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "eral_Trial_Subpoena.msg \nFYI \nSpecial Agent \nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk \nEFTA"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk \nEFTA00010143"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.371Z"
+}

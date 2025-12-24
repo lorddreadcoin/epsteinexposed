@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014328",
+    "filename": "EFTA00014328.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014328.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein case, SDNY \nDate: Sun, 14 Jul 2019 04:08:59 +0000 \nImportance: Normal \nTeam — following up on our meeting yesterday, I wanted to make sure you all have the contact info for our full team. My \ncolleagues and are also working on the case, and they're copied here and we're all reachable \nat these email addresses or by phone anytime at: \nWe greatly appreciated being willing to talk with us, and I expect we'll be in touch again in the coming weeks. \nAnd of course if anything comes up that you want to reach out to us about, please don't hesitate at all. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00014328",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nTeam",
+        "role": "extracted",
+        "context": "9 04:08:59 +0000 \nImportance: Normal \nTeam — following up on our meeting"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.632Z"
+}

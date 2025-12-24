@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030613",
+    "filename": "EFTA00030613.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030613.pdf",
+    "text": "\n\nSubject: RE: Epstein Passport Photos \nDate: Wed, 17 Jul 2019 20:36:03 +0000 \nGot it, thanks. \nSubject: RE: Epstein Passport Photos \nYes nine total. \nOn Jul 17, \n2019 3:23 PM, rote: \nthanks very much for these. To confirm, we've received three emails, with nine photos total -- let us know if that's \neverything or if we should have received (or should be expecting) more? And thanks again. \nSent: Wednesday, July 17, 2019 14:48 \nSubject: Epstein Passport Photos \nPlease let me know if there are issues opening and I can resent]. Due to size, had to send multiple emails. \nThanks, \nFBI New York - C20 \nVCAC/Human Trafficking \nEFTA00030613",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Passport",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Passport Photos \nDate: Wed, 17 Jul 201"
+      },
+      {
+        "name": "Photos \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Passport Photos \nDate: Wed, 17 Jul 2019 20:36:03 +0"
+      },
+      {
+        "name": "Photos \nYes",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Passport Photos \nYes nine total. \nOn Jul 17, \n2019"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "port Photos \nYes nine total. \nOn Jul 17, \n2019 3:23 PM, rote: \ntha"
+      },
+      {
+        "name": "Photos \nPlease",
+        "role": "extracted",
+        "context": "48 \nSubject: Epstein Passport Photos \nPlease let me know if there are issu"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ks, \nFBI New York - C20 \nVCAC/Human Trafficking \nEFTA00030613"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-17",
+        "event": "July 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.281Z"
+}

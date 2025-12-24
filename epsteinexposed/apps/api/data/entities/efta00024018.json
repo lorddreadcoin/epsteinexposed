@@ -1,0 +1,245 @@
+{
+  "document": {
+    "id": "efta00024018",
+    "filename": "EFTA00024018.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024018.pdf",
+    "text": "\n\nPROTECTED MATERIALS ATTORNEY'S EYES ONLY \nG' \nAnonymous Identifier _ Attorney InCooperator \nEmployee 1 Sam Gregory \nEmployee 2 \nEmployee 3 Howard Schwartz \nEmployee 4 Matthew Meyers \nEmployee 5 \nEmployee 6 \nEmployee 7 \nEmployee 9 \nEmployee 10 \nEmployee 11 Don DuBoulay \nEmployee 12 \nEmployee 13 \nEmployee 14 \nEmployee 15 \nEmployee 16 Bernard Udell \nEmployee 17 \nEmployee 18 \nEmployee 19 \nEmployee 20 \nEmployee 21 \nEmployee 22 Edward \nHayes \nEmployee 23 \nEmployee 24 \nEmployee 25 \nEmployee 26 \nEmployee 27 Natali Todd \nEmployee 28 \nEmployee \n29 \nTimothy Parlatore \nEmployee \n30 \nEmployee 31 \nEmployee 32 \nArroyo, Angel Inmate 1 Rob \nGeorges \nYes \nContreras Johnn Inmate 2 And Patel \nFernandez, \nLeonardo Inmate 3 \nTelesforo Del Valle \nJimenez, Edward Inmate 4 Barry \nGoldberg \nJones \nRa shaun Inmate 5 Xavier Donaldson Yes \nLatimer, \nCorey \nInmate 6 Matthew Kluger \nMojica, Jason Inmate 7 Chris Flood \nPerez, Christian Inmate 8 Christine Delince Yes \nRancier-Medrano, Federico Inmate 9 Ernest Hammer Yes \nReyes, Efrain Inmate 10 Marlon Kirton Yes \nSantos-Felix, Christopher Inmate 11 Javier Solano \nDeLeon, Omar Inmate 12 James Neuman \nSanchez-Galan, Carlos Inmate 13 Margaret Shalley \nCaraballo, Freddy Inmate 14 \nSDNY_00018025 \nEFTA00024018",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Anonymous Identifier",
+        "role": "extracted",
+        "context": "ALS ATTORNEY'S EYES ONLY \nG' \nAnonymous Identifier _ Attorney InCooperator \nEmpl"
+      },
+      {
+        "name": "Attorney In",
+        "role": "extracted",
+        "context": "Y \nG' \nAnonymous Identifier _ Attorney InCooperator \nEmployee 1 Sam Gre"
+      },
+      {
+        "name": "Cooperator \nEmployee",
+        "role": "extracted",
+        "context": "ymous Identifier _ Attorney InCooperator \nEmployee 1 Sam Gregory \nEmployee 2 \nEm"
+      },
+      {
+        "name": "Sam Gregory",
+        "role": "extracted",
+        "context": "rney InCooperator \nEmployee 1 Sam Gregory \nEmployee 2 \nEmployee 3 Howar"
+      },
+      {
+        "name": "Howard Schwartz",
+        "role": "extracted",
+        "context": "egory \nEmployee 2 \nEmployee 3 Howard Schwartz \nEmployee 4 Matthew Meyers \nE"
+      },
+      {
+        "name": "Matthew Meyers",
+        "role": "extracted",
+        "context": "3 Howard Schwartz \nEmployee 4 Matthew Meyers \nEmployee 5 \nEmployee 6 \nEmpl"
+      },
+      {
+        "name": "Don Du",
+        "role": "extracted",
+        "context": "e 9 \nEmployee 10 \nEmployee 11 Don DuBoulay \nEmployee 12 \nEmployee"
+      },
+      {
+        "name": "Boulay \nEmployee",
+        "role": "extracted",
+        "context": "mployee 10 \nEmployee 11 Don DuBoulay \nEmployee 12 \nEmployee 13 \nEmployee 14"
+      },
+      {
+        "name": "Bernard Udell",
+        "role": "extracted",
+        "context": "14 \nEmployee 15 \nEmployee 16 Bernard Udell \nEmployee 17 \nEmployee 18 \nEm"
+      },
+      {
+        "name": "Edward \nHayes",
+        "role": "extracted",
+        "context": "20 \nEmployee 21 \nEmployee 22 Edward \nHayes \nEmployee 23 \nEmployee 24 \nEm"
+      },
+      {
+        "name": "Natali Todd",
+        "role": "extracted",
+        "context": "25 \nEmployee 26 \nEmployee 27 Natali Todd \nEmployee 28 \nEmployee \n29 \nT"
+      },
+      {
+        "name": "Timothy Parlatore",
+        "role": "extracted",
+        "context": "d \nEmployee 28 \nEmployee \n29 \nTimothy Parlatore \nEmployee \n30 \nEmployee 31 \nE"
+      },
+      {
+        "name": "Angel Inmate",
+        "role": "extracted",
+        "context": "oyee 31 \nEmployee 32 \nArroyo, Angel Inmate 1 Rob \nGeorges \nYes \nContrera"
+      },
+      {
+        "name": "Rob \nGeorges",
+        "role": "extracted",
+        "context": "ee 32 \nArroyo, Angel Inmate 1 Rob \nGeorges \nYes \nContreras Johnn Inmate"
+      },
+      {
+        "name": "Yes \nContreras",
+        "role": "extracted",
+        "context": "Angel Inmate 1 Rob \nGeorges \nYes \nContreras Johnn Inmate 2 And Patel \nFer"
+      },
+      {
+        "name": "Johnn Inmate",
+        "role": "extracted",
+        "context": "Rob \nGeorges \nYes \nContreras Johnn Inmate 2 And Patel \nFernandez, \nLeon"
+      },
+      {
+        "name": "And Patel",
+        "role": "extracted",
+        "context": "Yes \nContreras Johnn Inmate 2 And Patel \nFernandez, \nLeonardo Inmate"
+      },
+      {
+        "name": "Leonardo Inmate",
+        "role": "extracted",
+        "context": "mate 2 And Patel \nFernandez, \nLeonardo Inmate 3 \nTelesforo Del Valle \nJimen"
+      },
+      {
+        "name": "Telesforo Del",
+        "role": "extracted",
+        "context": "ernandez, \nLeonardo Inmate 3 \nTelesforo Del Valle \nJimenez, Edward Inmate"
+      },
+      {
+        "name": "Valle \nJimenez",
+        "role": "extracted",
+        "context": "nardo Inmate 3 \nTelesforo Del Valle \nJimenez, Edward Inmate 4 Barry \nGoldb"
+      },
+      {
+        "name": "Edward Inmate",
+        "role": "extracted",
+        "context": "Telesforo Del Valle \nJimenez, Edward Inmate 4 Barry \nGoldberg \nJones \nRa"
+      },
+      {
+        "name": "Barry \nGoldberg",
+        "role": "extracted",
+        "context": "lle \nJimenez, Edward Inmate 4 Barry \nGoldberg \nJones \nRa shaun Inmate 5 Xav"
+      },
+      {
+        "name": "Jones \nRa",
+        "role": "extracted",
+        "context": "ard Inmate 4 Barry \nGoldberg \nJones \nRa shaun Inmate 5 Xavier Donalds"
+      },
+      {
+        "name": "Xavier Donaldson",
+        "role": "extracted",
+        "context": "erg \nJones \nRa shaun Inmate 5 Xavier Donaldson Yes \nLatimer, \nCorey \nInmate"
+      },
+      {
+        "name": "Yes \nLatimer",
+        "role": "extracted",
+        "context": "aun Inmate 5 Xavier Donaldson Yes \nLatimer, \nCorey \nInmate 6 Matthew Klu"
+      },
+      {
+        "name": "Corey \nInmate",
+        "role": "extracted",
+        "context": "vier Donaldson Yes \nLatimer, \nCorey \nInmate 6 Matthew Kluger \nMojica, Jas"
+      },
+      {
+        "name": "Matthew Kluger",
+        "role": "extracted",
+        "context": "es \nLatimer, \nCorey \nInmate 6 Matthew Kluger \nMojica, Jason Inmate 7 Chris"
+      },
+      {
+        "name": "Jason Inmate",
+        "role": "extracted",
+        "context": "ate 6 Matthew Kluger \nMojica, Jason Inmate 7 Chris Flood \nPerez, Christi"
+      },
+      {
+        "name": "Chris Flood",
+        "role": "extracted",
+        "context": "luger \nMojica, Jason Inmate 7 Chris Flood \nPerez, Christian Inmate 8 Ch"
+      },
+      {
+        "name": "Christian Inmate",
+        "role": "extracted",
+        "context": "Inmate 7 Chris Flood \nPerez, Christian Inmate 8 Christine Delince Yes \nRanc"
+      },
+      {
+        "name": "Christine Delince",
+        "role": "extracted",
+        "context": "od \nPerez, Christian Inmate 8 Christine Delince Yes \nRancier-Medrano, Federic"
+      },
+      {
+        "name": "Yes \nRancier",
+        "role": "extracted",
+        "context": "an Inmate 8 Christine Delince Yes \nRancier-Medrano, Federico Inmate 9 Er"
+      },
+      {
+        "name": "Federico Inmate",
+        "role": "extracted",
+        "context": "Delince Yes \nRancier-Medrano, Federico Inmate 9 Ernest Hammer Yes \nReyes, E"
+      },
+      {
+        "name": "Ernest Hammer",
+        "role": "extracted",
+        "context": "er-Medrano, Federico Inmate 9 Ernest Hammer Yes \nReyes, Efrain Inmate 10"
+      },
+      {
+        "name": "Yes \nReyes",
+        "role": "extracted",
+        "context": "derico Inmate 9 Ernest Hammer Yes \nReyes, Efrain Inmate 10 Marlon Kirt"
+      },
+      {
+        "name": "Efrain Inmate",
+        "role": "extracted",
+        "context": "e 9 Ernest Hammer Yes \nReyes, Efrain Inmate 10 Marlon Kirton Yes \nSantos-"
+      },
+      {
+        "name": "Marlon Kirton",
+        "role": "extracted",
+        "context": "Yes \nReyes, Efrain Inmate 10 Marlon Kirton Yes \nSantos-Felix, Christophe"
+      },
+      {
+        "name": "Yes \nSantos",
+        "role": "extracted",
+        "context": "frain Inmate 10 Marlon Kirton Yes \nSantos-Felix, Christopher Inmate 11"
+      },
+      {
+        "name": "Christopher Inmate",
+        "role": "extracted",
+        "context": "lon Kirton Yes \nSantos-Felix, Christopher Inmate 11 Javier Solano \nDeLeon, Oma"
+      },
+      {
+        "name": "Javier Solano",
+        "role": "extracted",
+        "context": "-Felix, Christopher Inmate 11 Javier Solano \nDeLeon, Omar Inmate 12 James"
+      },
+      {
+        "name": "Omar Inmate",
+        "role": "extracted",
+        "context": "ate 11 Javier Solano \nDeLeon, Omar Inmate 12 James Neuman \nSanchez-Gala"
+      },
+      {
+        "name": "James Neuman",
+        "role": "extracted",
+        "context": "olano \nDeLeon, Omar Inmate 12 James Neuman \nSanchez-Galan, Carlos Inmate"
+      },
+      {
+        "name": "Carlos Inmate",
+        "role": "extracted",
+        "context": "James Neuman \nSanchez-Galan, Carlos Inmate 13 Margaret Shalley \nCaraball"
+      },
+      {
+        "name": "Margaret Shalley",
+        "role": "extracted",
+        "context": "nchez-Galan, Carlos Inmate 13 Margaret Shalley \nCaraballo, Freddy Inmate 14"
+      },
+      {
+        "name": "Freddy Inmate",
+        "role": "extracted",
+        "context": "Margaret Shalley \nCaraballo, Freddy Inmate 14 \nSDNY_00018025 \nEFTA000240"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.102Z"
+}

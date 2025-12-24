@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014003",
+    "filename": "EFTA00014003.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014003.pdf",
+    "text": "\n\nFrom: (USAFLS)\" <1 \nTo: \nBcc: '   (USAFLS)\"  \nSubject: RE: Government's Motion to Seal \nDate: Wed, 09 Jul 2008 19:52:06 +0000 \nImportance: Normal \n(USAFLS)\"  \nEverything is out. Copies will be sent to you via inter-office. Thank you, M, as usual, you came to the \nrescue! \nCan I ask one more favor? Will you e-file a notice of appearance? That way notices of hearings will come to \nboth of us. I have to run to an appointment, but you can get me on the cell phone. \nThanks. \nAssistant U.S. Attorney \nFrom: (USAFLS) \nSent: Wednesday, July 09, 2008 2:13 PM \nTo:  . (USAFLS) \nSubject: RE: Government's Motion to Seal \nYes, both the response, your declaration, and the attachments to your declaration, are to be sealed. \nFrom: (USAFLS) \nSent: Wednesday, July 09, 2008 2:06 PM \nTo: (USAFLS) \nSubject: RE: Government's Motion to Seal \nHi You want to seal my declaration as well, right? Please let me know and I will change accordingly. \nThanks. \nAssistant U.S. \nAttorney \nFrom: \n(USAFLS) \nSent: Wednesday, July 09, 2008 1:47 PM \nTo:   \n(USAFLS) \nSubject: \nGovernment's Motion to Seal \nEFTA00014003\n\nIn preparation for this afternoon's filing, I have prepared a motion to seal, which is attached. I did not include \nEpstein's name and made general assertions regarding the confidentiality of the negotiations. Please have \nsomeone sign both the motion to seal, and the government's response, for me. We then need to prepare a \nsealed document tracking sheet, to accompany the motion. \nAn original and one copy of the sealed document should be placed in two separate envelopes, with the case \nnumber written on the outside. An original and one copy of the motion to seal should be filed with the Clerk. \nThanks. \n« \nFile: \nvictim_Mot_seal.wpd \n» \nEFTA00014004",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Seal \nDate",
+        "role": "extracted",
+        "context": "t: RE: Government's Motion to Seal \nDate: Wed, 09 Jul 2008 19:52:06 +0"
+      },
+      {
+        "name": "Attorney \nFrom",
+        "role": "extracted",
+        "context": "one. \nThanks. \nAssistant U.S. Attorney \nFrom: (USAFLS) \nSent: Wednesday, J"
+      },
+      {
+        "name": "Seal \nYes",
+        "role": "extracted",
+        "context": "t: RE: Government's Motion to Seal \nYes, both the response, your decl"
+      },
+      {
+        "name": "Seal \nHi",
+        "role": "extracted",
+        "context": "t: RE: Government's Motion to Seal \nHi You want to seal my declarati"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-07-09",
+        "event": "July 09, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.916Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026597",
+    "filename": "EFTA00026597.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026597.pdf",
+    "text": "\n\nFrom: \"=I> \nTo: \nCc: \nBcc: \n\"USAHUB-USAJounia1111\" \nSubject: RE: Maxwell Follow Up \nDate: Mon, 22 Feb 2021 22:36:21 +0000 \nEmbedded: RE:_Maxwell_Follow_Up.msg \nSender: \nSubject: RE: Maxwell Follow Up \nMessage-Id: \n<BN3P110MB0S00D7B8675C0ABCDF8CA4B490819@BN3P110MB0500.NAMP110.PROD.OUTLOOK.CO \nM> \nRecipient: \nEFTA00026597",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Follow",
+        "role": "extracted",
+        "context": "-USAJounia1111\" \nSubject: RE: Maxwell Follow Up \nDate: Mon, 22 Feb 2021 22"
+      },
+      {
+        "name": "Up \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Maxwell Follow Up \nDate: Mon, 22 Feb 2021 22:36:21 +0"
+      },
+      {
+        "name": "Up \nMessage",
+        "role": "extracted",
+        "context": "Subject: RE: Maxwell Follow Up \nMessage-Id: \n<BN3P110MB0S00D7B8675C0A"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.637Z"
+}

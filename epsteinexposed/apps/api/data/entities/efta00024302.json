@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00024302",
+    "filename": "EFTA00024302.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024302.pdf",
+    "text": "\n\nEvent: Accepted: Mark Epstein Meeting \nStart Date: 2019-11-25 15:00:00 +0000 \nEnd Date: 2019-11-25 16:00:00 +0000 \nLocation: 1 St. Andrews \nClass: X-PERSONAL \nComment: \nDate Created: 2019-11-04 15:13:27 +0000 \nDate Modified: 2019-11-04 15:13:27 +0000 \nPriority: 5 \nDTSTAMP: 2019-11-04 14:18:50 +0000 \nAttendee \nEFTA00024302",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "Event: Accepted: Mark Epstein Meeting \nStart Date: 2019-11-"
+      },
+      {
+        "name": "Meeting \nStart",
+        "role": "extracted",
+        "context": "Event: Accepted: Mark Epstein Meeting \nStart Date: 2019-11-25 15:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-11-25 15:00:00 +0000 \nEnd Date: 2019-11-25 16:00:00 +0000 \nL"
+      },
+      {
+        "name": "Andrews \nClass",
+        "role": "extracted",
+        "context": ":00:00 +0000 \nLocation: 1 St. Andrews \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-11-04 15:13:27 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-11-04 15:13:27 +0000 \nDate Modified: 2019-11-04 15:13:27 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-25",
+        "event": "2019-11-25"
+      },
+      {
+        "date": "2019-11-04",
+        "event": "2019-11-04"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.845Z"
+}

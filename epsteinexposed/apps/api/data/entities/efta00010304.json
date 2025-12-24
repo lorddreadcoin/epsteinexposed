@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00010304",
+    "filename": "EFTA00010304.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010304.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \"Blase, Nicholas (USANYS)\" <Nicholas.Biase@usdoj.gov>, \"Margolin, James (USANYS) \n[Contractor]\" <James.Margolin@usdoj.gov>, \" \nSubject: Re: JE case \nDate: Fri, 15 Nov 2019 19:42:15 +0000 \nThanks! \nSent from my iPhone \nOn Nov 15, 2019, at 2:33 PM, \nHi \nwrote: \nSure, I'm copying Nick Biase and Jim Margolin from our press office on this email. Thanks. \nFrom: \nSent: Friday, November 15, 2019 2:28 PM \nTo: \nSubject: JE case \nGood afternoon, \nCould you please provide me with the name and contact information for your press official in charge of handling matters \nrelated to Epstein. I would like to connect them with our Director of Public Affairs, Aja Worthy-Davis, who is responding \nto press inquiries for us. \nThanks for your help. \nSincerely, \nCity of New York \nOffice of Chief Medical Examiner \n520 First Avenue \nNew York, NY 10016 \nWeb: \nwww.nyc.goviocme \nEFTA00010304",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "+0000 \nThanks! \nSent from my iPhone \nOn Nov 15, 2019, at 2:33 PM, \nHi"
+      },
+      {
+        "name": "Nick Biase",
+        "role": "extracted",
+        "context": "Hi \nwrote: \nSure, I'm copying Nick Biase and Jim Margolin from our pre"
+      },
+      {
+        "name": "Jim Margolin",
+        "role": "extracted",
+        "context": "e, I'm copying Nick Biase and Jim Margolin from our press office on this"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ect them with our Director of Public Affairs, Aja Worthy-Davis, who is res"
+      },
+      {
+        "name": "Aja Worthy",
+        "role": "extracted",
+        "context": "r Director of Public Affairs, Aja Worthy-Davis, who is responding \nto"
+      },
+      {
+        "name": "Chief Medical",
+        "role": "extracted",
+        "context": "City of New York \nOffice of Chief Medical Examiner \n520 First Avenue \nN"
+      },
+      {
+        "name": "First Avenue",
+        "role": "extracted",
+        "context": "f Chief Medical Examiner \n520 First Avenue \nNew York, NY 10016 \nWeb: \nww"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-15",
+        "event": "November 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.702Z"
+}

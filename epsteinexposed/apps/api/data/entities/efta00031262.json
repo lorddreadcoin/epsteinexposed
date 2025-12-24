@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00031262",
+    "filename": "EFTA00031262.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031262.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: ISO BOP not part of prosecution team \nDate: Mon, 29 Nov 2021 16:35:03 +0000 \nAttachments: 2020.04.24_Opposition_to_Thomas_Motion_to_Compel_-_final.docx \nHere's the opposition and if you tell me your specific issue I have some additional cites from some guidance the Disclosure \nCommittee is working on. \nFrom: \nSent: Monda , November 29, 2021 11:18 AM \nT \nSu ject: Re: I B P not part o prosecution team \nI'm pretty sure Nick has briefed this for the MCC guard case. \nOn Nov 29, 2021, at 11:07 AM, \nIf you have briefed this, or have law on this, we'd appreciate seeing your work product. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \n07 \note: \nEFTA00031262",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: ISO BOP not par"
+      },
+      {
+        "name": "Disclosure \nCommittee",
+        "role": "extracted",
+        "context": "cites from some guidance the Disclosure \nCommittee is working on. \nFrom: \nSent:"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "this for the MCC guard case. \nOn Nov 29, 2021, at 11:07 AM, \nIf yo"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "your work product. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \n07 \note: \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.687Z"
+}

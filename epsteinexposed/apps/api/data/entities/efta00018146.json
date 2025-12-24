@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018146",
+    "filename": "EFTA00018146.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018146.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc: MI\nIMISANYS)\" \n(USANYS)\" \nSubject: Re: well this is interesting \nDate: Sun, 07 Jul 2019 21:52:00 +0000 \nImportance: Normal \nVery interesting \nSent from my iPhone \nOn Jul 7, 2019, at 5:41 PM. \nReid Weingarten will be appearing (with Marty \nWeinberg) on behalf of Epstein tomorrow. \nWe'll get the download from the Buffalo team! \nAssistant U.S. Attorney \nSouthern District of New York \n> wrote: \nEFTA00018146",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nVery",
+        "role": "extracted",
+        "context": "9 21:52:00 +0000 \nImportance: Normal \nVery interesting \nSent from my iPh"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ry interesting \nSent from my iPhone \nOn Jul 7, 2019, at 5:41 PM. \nRei"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "On Jul 7, 2019, at 5:41 PM. \nReid Weingarten will be appearing (with Marty"
+      },
+      {
+        "name": "Marty \nWeinberg",
+        "role": "extracted",
+        "context": "arten will be appearing (with Marty \nWeinberg) on behalf of Epstein tomorro"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "Buffalo team! \nAssistant U.S. Attorney \nSouthern District of New York \n> wrote"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.276Z"
+}

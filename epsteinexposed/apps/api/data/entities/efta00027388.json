@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00027388",
+    "filename": "EFTA00027388.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027388.pdf",
+    "text": "\n\nFrom• \nyi \nTo: 'll(NY) (FBI)\" <I >, \nCc: '\niaNja, '\n)\" \nSubject: RE: birth certificates \nDate: Fri, 27 Aug 2021 18:51:53 +0000 \nAttachments: 2021.08.27_Court_SubpoenanSacramento_County_Clerk.pdf \nAttached. Thanks! \nFrom: \nSent: Friday, August 27, 2021 2:11 PM \nTo: \nCc: (USANYS) \nSubject: RE: birth certificates \nAttached is birth certificate. Still waiting on the others. Can you issue a subpoena for-, DOB \nSacramento County Clerk/Recorder \nFair Oaks, CA 95628 \nSpecial Agent \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nFrom: \nSent: Friday, August 27, 2021 10:56 AM \nTo: (NY) \n(FBI) < \nCc: (USANYS) \nSubject: [EXTERNAL EMAIL] - RE: birth certificates \n>; \n> \nJust checking in on this. \nThanks! \nFrom: \nSent: Friday, August 20, 2021 4:20 PM \nTo: (NY) \n(FBI) < \nCc: (USANYS) \nSubject: birth certificates \n>; \n(NYPD) < \n) < \nand \nEFTA00027388\n\nI'm checking in on the birth certificate project. Have you received any additional certificates? I think mentioned \nyou might need a subpoena—please let me know. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00027389",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sacramento County",
+        "role": "extracted",
+        "context": "u issue a subpoena for-, DOB \nSacramento County Clerk/Recorder \nFair Oaks, CA"
+      },
+      {
+        "name": "Recorder \nFair",
+        "role": "extracted",
+        "context": "DOB \nSacramento County Clerk/Recorder \nFair Oaks, CA 95628 \nSpecial Agent"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "ecorder \nFair Oaks, CA 95628 \nSpecial Agent \nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nFro"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk: \nFrom: \nSent: Friday,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "please let me know. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Fair Oaks, CA",
+        "type": "city"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-08-27",
+        "event": "August 27, 2021"
+      },
+      {
+        "date": "2021-08-20",
+        "event": "August 20, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.160Z"
+}

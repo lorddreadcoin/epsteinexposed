@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00031617",
+    "filename": "EFTA00031617.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031617.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: Re: \nDate: Tue, 14 Jan 2020 19:38:54 +0000 \nOk, sorry. It was something not in her calendar. I can speak to her in person, but my understanding is that if we \ndo the 23rd it can't be longer than an hour \nOn Jan 14, 2020, at 2:37 PM, • wrote: \nI think they already confirmed with defense \ncounsel. \nSent from my iPhone \nOn Jan 14, 2020, at 2:25 PM, \nprefers the 24th if that's possible. But can make 23rd work if it's an hour. \nOn Jan 14, 2020, at 12:24 PM, \nWe'll take 4 pm on Thursday the 23ffi. \nFrom: \nSent: Tuesday, January 14, 2020 9:22 AM \nTo: \nSubject: RE: \nwrote: \nwrote: \nWe'd be looking at 4-530 then. Sorry,_I has meetings with all of the Judges lined up, which take up big chunks of \ntime. \nFrom: \nSent: Tuesday, January 14, 2020 9:20 AM \nTo: \nSubject: RE: \n> \nI think so —  one more range to check, how about from 2 pm forward on the 23rd? \nFrom: \nSent: Tuesday, January 14, 2020 9:18 AM \nTo: \nSubject: RE: \nLooks like 330-5 is the only time that day that works for everyone. Does that work? \nFrom: \nSent: Monday, January 13, 2020 4:20 PM \nEFTA00031617\n\nTo: \nSubject: \n—  what is full brass availability on Friday January 24 for a presentation by defense counsel foe I \nwould block off 90 minutes but could be done in 60. \nEFTA00031618",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "can't be longer than an hour \nOn Jan 14, 2020, at 2:37 PM, • wrote"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ense \ncounsel. \nSent from my iPhone \nOn Jan 14, 2020, at 2:25 PM, \npr"
+      },
+      {
+        "name": "Friday January",
+        "role": "extracted",
+        "context": "is full brass availability on Friday January 24 for a presentation by defe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-14",
+        "event": "January 14, 2020"
+      },
+      {
+        "date": "2020-01-13",
+        "event": "January 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.535Z"
+}

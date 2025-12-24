@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020170",
+    "filename": "EFTA00020170.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020170.pdf",
+    "text": "\n\nMoneyGram International, Inc. \nAttn: Global Subpoena Processing \n1550 Utica Avenue South \nMS: MBC-5508 \nMinneapolis, MN 55416 \nDelivered via: Email —subpoena@moneygram.com \nThe following are the items that are required to be provided by the attached Subpoena: \nFor the period of inception thru today, any and all available information regarding money transfers, the \npurchase of money orders, including but not limited to, sender's name and address, location of purchase \nincluding name and address of selling agent, form of payment used to purchase money orders, amount \nof money orders purchased, date and time of purchase, the payee's name and address, the amount and \ncurrency distributed. \nPlease utilize the following identifiers: \nNAMES/ENTITIES \nDOB \nSSN \nADDRESS \nPHONE \nEMAIL \nIf you have any questions or comments, please contact Forensic Accountant, \nEFTA00020170",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Gram International",
+        "role": "extracted",
+        "context": "MoneyGram International, Inc. \nAttn: Global Subpoena"
+      },
+      {
+        "name": "Global Subpoena",
+        "role": "extracted",
+        "context": "am International, Inc. \nAttn: Global Subpoena Processing \n1550 Utica Avenue"
+      },
+      {
+        "name": "Utica Avenue",
+        "role": "extracted",
+        "context": "bal Subpoena Processing \n1550 Utica Avenue South \nMS: MBC-5508 \nMinneapo"
+      },
+      {
+        "name": "Forensic Accountant",
+        "role": "extracted",
+        "context": "s or comments, please contact Forensic Accountant, \nEFTA00020170"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Minneapolis, MN",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.326Z"
+}

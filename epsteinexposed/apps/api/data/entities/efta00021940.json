@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00021940",
+    "filename": "EFTA00021940.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021940.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Updated CC letter \nDate: Thu, 04 Nov 2021 23:31:08 +0000 \nAttachments: 2021.11.04 GM Letter to Def re CC categories v3.docx _ _ _ _ _ _ _ _ \nHey \nHere's an updated CC letter for your review. You'll see something in Yellow for you, and also I have something to chat with \nyou about on the phone. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York \nNew York 10007 \nEFTA00021940",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nHere",
+        "role": "extracted",
+        "context": "ries v3.docx _ _ _ _ _ _ _ _ \nHey \nHere's an updated CC letter for yo"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "about on the phone. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York \nNew York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York \nNew York 10007 \nEFTA000"
+      },
+      {
+        "name": "York \nNew",
+        "role": "extracted",
+        "context": "k \n1 Saint Andrews Plaza \nNew York \nNew York 10007 \nEFTA00021940"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.708Z"
+}

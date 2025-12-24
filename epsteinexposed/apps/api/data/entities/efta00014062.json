@@ -1,0 +1,119 @@
+{
+  "document": {
+    "id": "efta00014062",
+    "filename": "EFTA00014062.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014062.pdf",
+    "text": "\n\n(Rev. 06/2005)Sealcd Document Tracking Form \nUNITED STATES DISTRICT COURT \nSouthern District of Florida \nNumber: \nFGJ \n07-103 (WPB) \nIn Re \nGrand Jury Subpoenas Duces Tecum \nNumbers OLY-63 and OLY-64 \nUNITED STATES' MOTION TO FILE DOCUMENTS UNDER SEAL \nSEALED DOCUMENT TRACKING FORM \nParty Filing Matter Under Seal \nOn behalf of (select one): \nName:  \nU.S. Attorneys Office \nAddress:  \nWest Palm Beach, FL 33401 \nTelephone: \nq Plaintiff q Defendant \nDate sealed document filed: \n8/31/2007 \nIf sealed pursuant to \nstatute, cite \nstatute: \nFed. R. trim. P. 6(e) \nIf sealed pursuant to previously entered protective order, date of order and docket entry number:  \nThe matter should remain sealed until: \nq Conclusion of Trial q Arrest of First Defendant \nCase Closing q Conclusion of Direct Appeal \nO Other:  \nq Permanently. Specify the authorizing law, mle, court order: \n[21 \nThe moving party requests that when the sealing period expires, the filed matter should be (select one): \nq Unsealed and placed in the public portion of the court file q Destroyed \nq3 Returned to the party or counsel for the party, as identified above \nAttorney for: United States of America \nEFTA00014062",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sealcd Document",
+        "role": "extracted",
+        "context": "(Rev. 06/2005)Sealcd Document Tracking Form \nUNITED STATES"
+      },
+      {
+        "name": "Tracking Form",
+        "role": "extracted",
+        "context": "(Rev. 06/2005)Sealcd Document Tracking Form \nUNITED STATES DISTRICT COURT"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "UNITED STATES DISTRICT COURT \nSouthern District of Florida \nNumber: \nFGJ \n07-"
+      },
+      {
+        "name": "Florida \nNumber",
+        "role": "extracted",
+        "context": "T COURT \nSouthern District of Florida \nNumber: \nFGJ \n07-103 (WPB) \nIn Re \nG"
+      },
+      {
+        "name": "In Re",
+        "role": "extracted",
+        "context": "Number: \nFGJ \n07-103 (WPB) \nIn Re \nGrand Jury Subpoenas Duces T"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "r: \nFGJ \n07-103 (WPB) \nIn Re \nGrand Jury Subpoenas Duces Tecum \nNumber"
+      },
+      {
+        "name": "Subpoenas Duces",
+        "role": "extracted",
+        "context": "-103 (WPB) \nIn Re \nGrand Jury Subpoenas Duces Tecum \nNumbers OLY-63 and OLY"
+      },
+      {
+        "name": "Tecum \nNumbers",
+        "role": "extracted",
+        "context": "e \nGrand Jury Subpoenas Duces Tecum \nNumbers OLY-63 and OLY-64 \nUNITED STA"
+      },
+      {
+        "name": "Party Filing",
+        "role": "extracted",
+        "context": "EALED DOCUMENT TRACKING FORM \nParty Filing Matter Under Seal \nOn behalf"
+      },
+      {
+        "name": "Matter Under",
+        "role": "extracted",
+        "context": "T TRACKING FORM \nParty Filing Matter Under Seal \nOn behalf of (select on"
+      },
+      {
+        "name": "Seal \nOn",
+        "role": "extracted",
+        "context": "RM \nParty Filing Matter Under Seal \nOn behalf of (select one): \nName"
+      },
+      {
+        "name": "Attorneys Office",
+        "role": "extracted",
+        "context": "f (select one): \nName:  \nU.S. Attorneys Office \nAddress:  \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "Attorneys Office \nAddress:  \nWest Palm Beach, FL 33401 \nTelephone:"
+      },
+      {
+        "name": "Defendant \nDate",
+        "role": "extracted",
+        "context": "01 \nTelephone: \nq Plaintiff q Defendant \nDate sealed document filed: \n8/31/"
+      },
+      {
+        "name": "First Defendant",
+        "role": "extracted",
+        "context": "nclusion of Trial q Arrest of First Defendant \nCase Closing q Conclusion of"
+      },
+      {
+        "name": "Case Closing",
+        "role": "extracted",
+        "context": "q Arrest of First Defendant \nCase Closing q Conclusion of Direct Appeal"
+      },
+      {
+        "name": "Direct Appeal",
+        "role": "extracted",
+        "context": "Case Closing q Conclusion of Direct Appeal \nO Other:  \nq Permanently. Sp"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-08-31",
+        "event": "8/31/2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.034Z"
+}

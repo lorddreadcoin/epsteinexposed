@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00029616",
+    "filename": "EFTA00029616.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029616.pdf",
+    "text": "\n\nFrom: (USANYS)\"\nTo: a(USANYS)\" < >, ' \n(USANYS)\" \nCc: ' (USANYS) [Contractor]\" \nSubject: FW: Mail on Sunday enquiry \nDate: Fri, 13 Mar 2020 16:57:47 +0000 \nWe'll decline, but just FYI. \nFrom: Mark Hookham \nSent: Friday, March 13, 2020 12:56 PM \nTo: (USANYS) \n<\nSubject: Mail on Sunday enquiry \nDear \nWe spoke earlier this week in relation to the Jeffrey Epstein case and you asked me to email if I had a specific enquiry. \nI understand that a woman has recently made a report to the Metropolitan Police in London regarding a sexually \nassaulted by Jeffrey Epstein. \nCould you please tell me whether the Metropolitan Police has informed the office of the US Attorney of the Southern \nDistrict of New York and/or the FBI of this criminal complaint? When did the alleged assault take place and where? Is the \nFBI investigating this new complaint? \nYours sincerely, \nMark \nMark Hookham \nSenior News Reporter \nThe Mail on Sunday \nDisclaimer \nThis e-mail and any attached files are intended for the named addressee only. It contains information, which may be confidential and \nlegally privileged and also protected by copyright. Unless you are the named addressee (or authorised to receive for the addressee) \nyou may not copy or use it, or disclose it to anyone else. If you received it in error please notify the sender immediately and then \ndelete it from your system. Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry St, Kensington, London, W8 STT. \nRegistered No 84121 England. \nEFTA00029616",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ar \nWe spoke earlier this week in relation to the Jeffrey Epstein case and you asked me to email if I had a specifi"
+      },
+      {
+        "name": "Mark Hookham",
+        "role": "extracted",
+        "context": "decline, but just FYI. \nFrom: Mark Hookham \nSent: Friday, March 13, 2020"
+      },
+      {
+        "name": "Dear \nWe",
+        "role": "extracted",
+        "context": "ject: Mail on Sunday enquiry \nDear \nWe spoke earlier this week in re"
+      },
+      {
+        "name": "Metropolitan Police",
+        "role": "extracted",
+        "context": "recently made a report to the Metropolitan Police in London regarding a sexuall"
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": "ice of the US Attorney of the Southern \nDistrict of New York and/or the FBI of"
+      },
+      {
+        "name": "Mark \nMark",
+        "role": "extracted",
+        "context": "complaint? \nYours sincerely, \nMark \nMark Hookham \nSenior News Reporter"
+      },
+      {
+        "name": "Hookham \nSenior",
+        "role": "extracted",
+        "context": "Yours sincerely, \nMark \nMark Hookham \nSenior News Reporter \nThe Mail on Su"
+      },
+      {
+        "name": "News Reporter",
+        "role": "extracted",
+        "context": ", \nMark \nMark Hookham \nSenior News Reporter \nThe Mail on Sunday \nDisclaim"
+      },
+      {
+        "name": "The Mail",
+        "role": "extracted",
+        "context": "ookham \nSenior News Reporter \nThe Mail on Sunday \nDisclaimer \nThis e"
+      },
+      {
+        "name": "Sunday \nDisclaimer",
+        "role": "extracted",
+        "context": "or News Reporter \nThe Mail on Sunday \nDisclaimer \nThis e-mail and any attached"
+      },
+      {
+        "name": "Associated Newspapers",
+        "role": "extracted",
+        "context": "delete it from your system. Associated Newspapers Ltd. Registered Office: North"
+      },
+      {
+        "name": "Registered Office",
+        "role": "extracted",
+        "context": "m. Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S"
+      },
+      {
+        "name": "Northcliffe House",
+        "role": "extracted",
+        "context": "apers Ltd. Registered Office: Northcliffe House, 2 Derry St, Kensington, Lond"
+      },
+      {
+        "name": "Derry St",
+        "role": "extracted",
+        "context": "Office: Northcliffe House, 2 Derry St, Kensington, London, W8 STT."
+      },
+      {
+        "name": "Registered No",
+        "role": "extracted",
+        "context": "Kensington, London, W8 STT. \nRegistered No 84121 England. \nEFTA00029616"
+      }
+    ],
+    "locations": [
+      {
+        "name": "STT",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-03-13",
+        "event": "March 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.812Z"
+}

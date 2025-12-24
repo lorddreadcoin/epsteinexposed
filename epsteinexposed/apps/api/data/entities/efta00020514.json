@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00020514",
+    "filename": "EFTA00020514.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020514.pdf",
+    "text": "\n\n[make IRev. 5-23-171 \nOFFICIAL RECORD \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nIntake \nDate: 10/19/2020 \nCase ID #: 50D-NY-3027571 (U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 10/19/2020 02:00 PM EDT \nDetails: \nOn 10/19/2020, at 2:00 p.m. Eastern. Time, date of \nbirth-, \ncellular telephone \nnumber-, \nand zip code \n33914, called the FBI National Threat Operations Center (NTOC) to report \nbeing a victim. of Jeffrey Epstein. \nprovided the following information: \nwas a victim of Jeffrey Epstein, as well as Stanley \nHo. was a who got emails from her agents \nsaying that \"people\" wanted to meet her. decided to meet the \n\"people\" and was introduced to Jeffrey Epstein. \nclaims before she knew it she was naked and raped by \nEpstein. then stated \"she was trafficked for 10 years. \n.• \nUNCLASSIFIED \nEFTA00020514",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "tions Center (NTOC) to report \nbeing a victim. of Jeffrey Epstein. \nprovided the following information: \nwas a vict"
+      },
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nIntake \nDate: 10/19/2020 \nCase ID #: 50D-N"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "FREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 10/19/2"
+      },
+      {
+        "name": "Time Received",
+        "role": "extracted",
+        "context": "RAFFICKING \nDrafted By: \nDate/Time Received: 10/19/2020 02:00 PM EDT \nDet"
+      },
+      {
+        "name": "National Threat",
+        "role": "extracted",
+        "context": "p code \n33914, called the FBI National Threat Operations Center (NTOC) to r"
+      },
+      {
+        "name": "Operations Center",
+        "role": "extracted",
+        "context": "alled the FBI National Threat Operations Center (NTOC) to report \nbeing a vic"
+      },
+      {
+        "name": "Stanley \nHo",
+        "role": "extracted",
+        "context": "f Jeffrey Epstein, as well as Stanley \nHo. was a who got emails from he"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-19",
+        "event": "10/19/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.984Z"
+}

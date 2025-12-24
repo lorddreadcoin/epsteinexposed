@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00007086",
+    "filename": "EFTA00007086.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007086.pdf",
+    "text": "\n\nPursuant \nto \na \nfederal \ninvesti•ation \nregarding \nthe \nsexual \nexploitation \nof \nm'\n.• \na \nvictim, \nwas \ninterviewed \nby \nthe \nFBI. \ni•en \nz \nyang \ninformation \n;is \nxecorded \nbelow: \nName: \nRace: \nSex: \nDOB: \nHusband: \nHome \nAddress: \nCellular \nTelephone: \nCellular \nTelephone: \nWork: \nFemale \nLoxahatchee, \nFlorida \n33470 \naMi\nhusband) \nEFTA00007086",
+    "pageCount": 1,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Home \nAddress",
+        "role": "extracted",
+        "context": "Race: \nSex: \nDOB: \nHusband: \nHome \nAddress: \nCellular \nTelephone: \nCellu"
+      },
+      {
+        "name": "Cellular \nTelephone",
+        "role": "extracted",
+        "context": "B: \nHusband: \nHome \nAddress: \nCellular \nTelephone: \nCellular \nTelephone: \nWork:"
+      },
+      {
+        "name": "Female \nLoxahatchee",
+        "role": "extracted",
+        "context": "Cellular \nTelephone: \nWork: \nFemale \nLoxahatchee, \nFlorida \n33470 \naMi\nhusband"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:36.023Z"
+}

@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00031401",
+    "filename": "EFTA00031401.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031401.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Subpoena Log and Subpoena Records \nDate: Thu. 31 Oct 2019 15:54:07 +0000 \nYou have co-owner status now. Congratulations! \nFrom\nSent: \nTo: \nSubject: RE: Subpoena Log and Subpoena Records \nCan you either change my folder settings from editor to co-owner so that I can add her? Or just add her directly? \nWhatever is easiest. I will go ahead and re-upload all the subpoenas and returns since there appear to be no files in the \nfolder for either. \nFrom: \nSent: Thursday, October 31, 2019 1:47 AM \nTo: \nSubject: RE: Subpoena Log and Subpoena Records \nYes, I think she needs two things: \n1. Access to USAFX. I just added you to the folder. \n2. All the subpoena returns re-loaded since they've expired since I last uploaded them. \nFrom: \nSent: Tuesday, October 29, 2019 5:23 PM \nTo: \nSubject: FW: Subpoena Log and Subpoena Records \nIs there a  folder/is what she is talking about on there? \nFrom: \nSent: Tuesday, October 29, 2019 3:04 PM \nTo: \nSubject: FW: Subpoena Log and Subpoena Records \nHi \nI was just going through all of my emails for the Epstein investigation to make sure everything was in the case file —\nrealized that I never asked to get access to USAFX in order to see all the subpoenas and returns.... Can you give me access \nand is everything still posted on that site? \nThanks \nso much — \nSpecial Agent \nFill New York Field Office \nEFTA00031401\n\nViolent Crimes Task Force \nFrom: \nSent: Saturday, August 17, 2019 4:27 PM \nTo: \nCc: \nSubject: Subpoena Log and Subpoena Records \nHi, \nAttached is a log of all the subpoenas we've served and what has come back. I've posted the actual subpoenas and \nreturns on the USAO's FTP site, called USAFX. Carpenter and Gildea already have access to USAFX. For everyone else, \nyou'll need an account which is very easy. Will can help you get an account — I think he'll just need your cellphone \nnumber. \nLet us know if you have any questions. \n• \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA00031402",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena Log",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Subpoena Log and Subpoena Records \nDate: T"
+      },
+      {
+        "name": "Subpoena Records",
+        "role": "extracted",
+        "context": "Subject: RE: Subpoena Log and Subpoena Records \nDate: Thu. 31 Oct 2019 15:54"
+      },
+      {
+        "name": "From\nSent",
+        "role": "extracted",
+        "context": "status now. Congratulations! \nFrom\nSent: \nTo: \nSubject: RE: Subpoena"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "hat site? \nThanks \nso much — \nSpecial Agent \nFill New York Field Office"
+      },
+      {
+        "name": "Fill New",
+        "role": "extracted",
+        "context": "ks \nso much — \nSpecial Agent \nFill New York Field Office \nEFTA000314"
+      },
+      {
+        "name": "York Field",
+        "role": "extracted",
+        "context": "ch — \nSpecial Agent \nFill New York Field Office \nEFTA00031401\n\nViolent"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "k Field Office \nEFTA00031401\n\nViolent Crimes Task Force \nFrom: \nSent: Satu"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "EFTA00031401\n\nViolent Crimes Task Force \nFrom: \nSent: Saturday, Augus"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "f you have any questions. \n• \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "estions. \n• \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York. Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-31",
+        "event": "October 31, 2019"
+      },
+      {
+        "date": "2019-10-29",
+        "event": "October 29, 2019"
+      },
+      {
+        "date": "2019-08-17",
+        "event": "August 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.005Z"
+}

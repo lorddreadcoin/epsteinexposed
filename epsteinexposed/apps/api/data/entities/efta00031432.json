@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00031432",
+    "filename": "EFTA00031432.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031432.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: Wed, 14 Apr 2021 03:00:55 +0000 \n■ \nSee below from Maxwell's attorney. I have no problem with Maxwell being able to read her legal paperwork while she's \nsitting in the cell block if the Marshals are ok with it. \nThanks, \nFrom: BOBBI C STERNHEIM \nSent: Tuesday, April 13, 2021 7:38 PM \nTo: \nCc: ris ian verdee \nSubject: Ghislaine Maxwell \nGood evening-\nMight you have any sway in persuading the Marshal permit Ms. Maxwell \nto have her legal materials while in the cell block? \nShe arrived today at —  5:15 am and remained idle in the cell block \nuntil —  8:30 am when she was brought to the fifth floor. \nOtherwise, any opposition to me contacting the Court for an order \n(per the Marshal)? \nEnjoy the evening. See you tomorrow. \nBest-\nBobbi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nNew \nYork, NY 10011 \n••Covid-19 Notice: The West 19th Street office is currently closed but we continue to work remotely. \nPlease use email or fax, instead of regular mail, for all correspondence during this time. \nWe continue to work regular business hours throughout this situation. \nThank you for your consideration. Our best wishes for your good health and well being. \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nEFTA00031432\n\nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this \nmessage. Thank you. \nEFTA00031433",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": ", 2021 7:38 PM \nTo: \nCc: ris ian verdee \nSubject: Ghislaine Maxwell \nGood evening-\nMight you have any sway in persuad"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "persuading the Marshal permit Ms. Maxwell \nto have her legal materi"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "bi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nNew \nY"
+      },
+      {
+        "name": "Sternheim \nNew",
+        "role": "extracted",
+        "context": "ESQ. \nLaw Offices of Bobbi C. Sternheim \nNew \nYork, NY 10011 \n••Covid-19 N"
+      },
+      {
+        "name": "The West",
+        "role": "extracted",
+        "context": "NY 10011 \n••Covid-19 Notice: The West 19th Street office is current"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New \nYork, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-04-13",
+        "event": "April 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.075Z"
+}

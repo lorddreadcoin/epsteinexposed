@@ -1,0 +1,108 @@
+{
+  "document": {
+    "id": "efta00018624",
+    "filename": "EFTA00018624.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018624.pdf",
+    "text": "\n\nFrom: \nTo \nCc: \nSubject: RE: Expert Witness \nDate: Wed, 28 Oct 2020 18:24:19 +0000 \nImportance: Normal \nGood afternoon \nThis case is scheduled for trial on July 12, 2021? If so, would you be able to give me a brief summary \nfor Dr.Cooper to review? Once she has a chance to review it, I will be happy to schedule a conference \ncall between you. \nThanks for your kind consideration. \nWarm regards, \nLegal & Conference Coordinator \nDevelopmental & Forensic Pediatrics, P.A. \ncell: \n Original Message \nFrom:  \nSent: Wednesday, October 28, 2020 1:24pm \nTo: \nCc: \nSubject: Expert Witness \nGood afternoon, \nMy colleagues, and and I are the prosecutors in the case of United \nStates v.  Ghislaine Maxwell, which is scheduled to go to trial on July 12, 2020 in the Southern District \nof New York. We are reaching out because we would be interested in speaking with Dr. Cooper about \npotentially testifying at trial. Would it be possible to schedule a call with Dr. Cooper to discuss? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY \n10007 \nEFTA00018624",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "the prosecutors in the case of United \nStates v.  Ghislaine Maxwell, which is scheduled to go to trial on July 12, 20"
+      },
+      {
+        "name": "Cooper",
+        "role": "extracted",
+        "context": "e interested in speaking with Dr. Cooper about \npotentially testif"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: \nSubject: RE: Expert Witness"
+      },
+      {
+        "name": "Expert Witness",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: \nSubject: RE: Expert Witness \nDate: Wed, 28 Oct 2020 18:24"
+      },
+      {
+        "name": "Normal \nGood",
+        "role": "extracted",
+        "context": "0 18:24:19 +0000 \nImportance: Normal \nGood afternoon \nThis case is sched"
+      },
+      {
+        "name": "Conference Coordinator",
+        "role": "extracted",
+        "context": "tion. \nWarm regards, \nLegal & Conference Coordinator \nDevelopmental & Forensic Ped"
+      },
+      {
+        "name": "Forensic Pediatrics",
+        "role": "extracted",
+        "context": "Coordinator \nDevelopmental & Forensic Pediatrics, P.A. \ncell: \n Original Messa"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "sic Pediatrics, P.A. \ncell: \n Original Message \nFrom:  \nSent: Wednesday, Oct"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "he prosecutors in the case of United \nStates v.  Ghislaine Maxwell, which"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "trial on July 12, 2020 in the Southern District \nof New York. We are reaching"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "discuss? \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY \n10007 \nEFTA00018624"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      },
+      {
+        "date": "2020-10-28",
+        "event": "October 28, 2020"
+      },
+      {
+        "date": "2020-07-12",
+        "event": "July 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.324Z"
+}

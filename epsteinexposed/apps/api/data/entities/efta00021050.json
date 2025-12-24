@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021050",
+    "filename": "EFTA00021050.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021050.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: WSJ; Deutsche Bank/Epstein \nDate: Tue, 23 Jul 2019 14:46:36 +0000 \nThe Journal plans to run an article basically connecting Deutsche to most of Epstein's business. It doesn't seem like \nthey're going to suggest that DB was complicit in anything nefarious, as far as I can tell. \n• Epstein used DB to wire the $350k payment to a victim after several Miami Herald articles. \n• Epstein moved millions through various DB accounts, some of it going through at least one Russian bank. \n• DB managers raised concerns after seeing the Miami Herald articles and actually shut down several of Epstein's \naccounts. \n• He had dozens of accounts with many beneficiaries who had authority to make disbursements, one of whom was \nGhislaine Maxwell. Her account was named \"Butterfly,\" or something like that. \n• He conducted hundreds of millions of dollars of business on the foreign exchange markets using DB in the last year. \nThanks. \nEFTA00021050",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "authority to make disbursements, one of whom was \nGhislaine Maxwell. Her account was named \"Butterfly,\" or something"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: WSJ; Deutsche Bank/Epstein \nDate: Tue, 23 Jul 20"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Subject: WSJ; Deutsche Bank/Epstein \nDate: Tue, 23 Jul 2019 14:46:36 +0"
+      },
+      {
+        "name": "The Journal",
+        "role": "extracted",
+        "context": ", 23 Jul 2019 14:46:36 +0000 \nThe Journal plans to run an article basic"
+      },
+      {
+        "name": "Miami Herald",
+        "role": "extracted",
+        "context": "ent to a victim after several Miami Herald articles. \n• Epstein moved mi"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.915Z"
+}

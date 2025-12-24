@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00009918",
+    "filename": "EFTA00009918.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009918.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBcc: \"USAHUB-USAJouma1111\" \nSubject: RE: FW: Ghislaine Maxwell \n02879-509 \nDate: Mon, 16 Nov 2020 17:35:53 +0000 \nEmbedded: \nRE:_FW:_Ghislaine_Maxwell_02879-509.msg \nSender \nSubject: RE: FW: Ghislaine Maxwell 02879-509 \nMessage\n-Id: \n<SN5P110MB05421963E68BCE6BAEAACCEF92E30@SN5P110MB0542.NAMP110.PROD.OUTLOOK.CO \nM> \nTo: \nCc: \nCc: \nEFTA00009918",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Cc: \nBcc: \"USAHUB-USAJouma1111\" \nSubject: RE: FW: Ghislaine Maxwell \n02879-509 \nDate: Mon, 16 Nov 2020 17:35:53 +0000"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "slaine_Maxwell_02879-509.msg \nSender \nSubject: RE: FW: Ghislaine Maxwell 02"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.908Z"
+}

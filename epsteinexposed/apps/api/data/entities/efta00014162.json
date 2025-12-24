@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014162",
+    "filename": "EFTA00014162.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014162.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBcc: \nSubject: P.S. \nDate: Mon, 02 Jun 2008 23:01:57 +0000 \nImportance: Normal \nHiApparently —  some fairly reputable news sources are reporting that Epstein has moved significant assets \noff s  oreand intends to flee. We are going to try to find out if they have any legitimacy. \nAssistant U.S. Attorney \nPhone\n-\nFa \nEFTA00014162",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 23:01:57 +0000 \nImportance: Normal \nHiApparently —  some fairly repu"
+      },
+      {
+        "name": "Attorney \nPhone",
+        "role": "extracted",
+        "context": "y legitimacy. \nAssistant U.S. Attorney \nPhone\n-\nFa \nEFTA00014162"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.293Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00021411",
+    "filename": "EFTA00021411.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021411.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: FW: Last—Ohio state donation and report showing a foundation called Enhanced EducAtion \nDate: Tue, 16 Jul 2019 18:50:32 +0000 \nImportance: Normal \nPerhaps this is the last of it, but FYI, just received \nFrom: Susan Harriman \nSent: Tuesday, July 16, 2019 14:47 \nTo: \n>;> \nSubject: Last—Ohio state donation and report showing a foundation called Enhanced EducAtion \nYou can send this stuff to whoever the FBI agent is since it's a waste of time to call the intake or tipline \nthere. I've done my civic duty. And wish y'all the best of luck and hope you get him prosecuted to the fullest \nextent of the law. \nHere's my last tidbit: \nOhio state news out today—My my, see who is largest donation is to in the 2009 report for her another of his \nfoundations since 2008 is not online/-it's an entity called \"  Enhanced Education\" which is registered to his same \nVI address \nat \n(listed in the form 990 for Jeff. \nEnhanced Education, what an appropriately disgusting name \nhttps://radio.wosu.org/post/ohio-state-received-millions-donations-jeffrey-epstein#stream/0 \nhttp://990finderfoundationcenter.org/990results.aspx?990_type=&fn=Couq&st=8z2p=&ei=&fy=&action=Search \nRest of COUQs reports but nothing for 2007 and 2008, maybe u can find them \nhttp://990finder.foundationcenter.org/990results.aspx?990_type=&fn=Couq&st=&zp=&ei=&fy=&action=Search \nSent from my iPhone \nEFTA00021411",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Enhanced Educ",
+        "role": "extracted",
+        "context": "t showing a foundation called Enhanced EducAtion \nDate: Tue, 16 Jul 2019"
+      },
+      {
+        "name": "Ation \nDate",
+        "role": "extracted",
+        "context": "oundation called Enhanced EducAtion \nDate: Tue, 16 Jul 2019 18:50:32 +0"
+      },
+      {
+        "name": "Normal \nPerhaps",
+        "role": "extracted",
+        "context": "9 18:50:32 +0000 \nImportance: Normal \nPerhaps this is the last of it, but F"
+      },
+      {
+        "name": "Susan Harriman",
+        "role": "extracted",
+        "context": "but FYI, just received \nFrom: Susan Harriman \nSent: Tuesday, July 16, 2019"
+      },
+      {
+        "name": "Ation \nYou",
+        "role": "extracted",
+        "context": "oundation called Enhanced EducAtion \nYou can send this stuff to whoeve"
+      },
+      {
+        "name": "Enhanced Education",
+        "role": "extracted",
+        "context": "ine/-it's an entity called \"  Enhanced Education\" which is registered to his s"
+      },
+      {
+        "name": "Search \nRest",
+        "role": "extracted",
+        "context": "=Couq&st=8z2p=&ei=&fy=&action=Search \nRest of COUQs reports but nothing"
+      },
+      {
+        "name": "Search \nSent",
+        "role": "extracted",
+        "context": "n=Couq&st=&zp=&ei=&fy=&action=Search \nSent from my iPhone \nEFTA00021411"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-16",
+        "event": "July 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.615Z"
+}

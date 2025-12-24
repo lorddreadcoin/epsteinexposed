@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020851",
+    "filename": "EFTA00020851.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020851.pdf",
+    "text": "\n\n® Google ® Google \nGoogle ® Google \nGoogle \n® Google ElOur T ® ROM/.\nRepc \nX \nrd Hi - a( \nid \n[Serve \n12 \n6O \nO \nX \nC' 12t \n@ A https://www.cybergoy.au/reporting/#/?form=pshop \nAustralian Government \nAustralian Signals Directorate \n/-\\C \nS C \nAustralian \nCyber \nSecurity \nCentre \nIiI\\ CD ge  \n* \nEl E \nIf there is an immediate threat to life or risk of harm please call 000 \nThank you for your report \nBased on the information you have provided; someone may have committed fraud against you. \nThe reference number for this report is: CIRS-20190723-30 \nYour matter has been referred to QLD Police. \nAdvice to help you reduce the consequences of the issue you are experiencing now: \n• Contact your bank immediately if you have sent money or if you think you have provided confidential banking information to someone online. \n• Report the issue to the financial institution who owns the fraudulent bank details you were sent. \n• Chanae \nyour \nemail address, passwords and account usernames. \nhttps://www.cyber.gov.au/reporting/# \nA \nV \nii \n0 \nType here to search \n0 \nL.) \nw \n9:22 \nAM \ncl))) \nce- \nENG \n23/07/2019 \nEFTA00020851",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Google \nGoogle",
+        "role": "extracted",
+        "context": "® Google ® Google \nGoogle ® Google \nGoogle \n® Google El"
+      },
+      {
+        "name": "Google El",
+        "role": "extracted",
+        "context": "e \nGoogle ® Google \nGoogle \n® Google ElOur T ® ROM/.\nRepc \nX \nrd Hi -"
+      },
+      {
+        "name": "Australian Government",
+        "role": "extracted",
+        "context": "y.au/reporting/#/?form=pshop \nAustralian Government \nAustralian Signals Directora"
+      },
+      {
+        "name": "Australian Signals",
+        "role": "extracted",
+        "context": "pshop \nAustralian Government \nAustralian Signals Directorate \n/-\\C \nS C \nAustr"
+      },
+      {
+        "name": "Australian \nCyber",
+        "role": "extracted",
+        "context": "gnals Directorate \n/-\\C \nS C \nAustralian \nCyber \nSecurity \nCentre \nIiI\\ CD ge"
+      },
+      {
+        "name": "Security \nCentre",
+        "role": "extracted",
+        "context": "/-\\C \nS C \nAustralian \nCyber \nSecurity \nCentre \nIiI\\ CD ge  \n* \nEl E \nIf the"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-23-07",
+        "event": "23/07/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.484Z"
+}

@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00014972",
+    "filename": "EFTA00014972.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014972.pdf",
+    "text": "\n\n11/26/21, 7:18 PM Mail - (NY) (FBI) - \nOutlook \nRE: photo project \nThu \n9/30/2021 \n4:31 PM \nTo: \nCc: \n1 attachments (31 KB) \nPhotos for Trial Prep with Location Info.xlsx; \nHi M-\nThe photo sourcing project is completed and attached. \nI added 3 columns: Evidence Item U, Name of CD and Location of Item. \nThanks, \nFrom: \nSent: Monday, September 27, 2021 6:26 PM \nTo: \nCc: \nSubject: [EXTERNAL EMAIL) - photo project \nJust checking in on the photo sourcing project. Do you think you'll be able to send us that spreadsheet in the next \nfew days? \nThanks so much for helping with this. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nhtlps:lioutlook.office365.usimailideeplink7popoutv2=1&version=20211025002.13 \n1/1 \nEFTA00014972",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Trial Prep",
+        "role": "extracted",
+        "context": "tachments (31 KB) \nPhotos for Trial Prep with Location Info.xlsx; \nHi"
+      },
+      {
+        "name": "Location Info",
+        "role": "extracted",
+        "context": ") \nPhotos for Trial Prep with Location Info.xlsx; \nHi M-\nThe photo sourci"
+      },
+      {
+        "name": "Evidence Item",
+        "role": "extracted",
+        "context": "attached. \nI added 3 columns: Evidence Item U, Name of CD and Location of"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "much for helping with this. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "with this. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-30",
+        "event": "9/30/2021"
+      },
+      {
+        "date": "2021-09-27",
+        "event": "September 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.886Z"
+}

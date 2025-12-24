@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00013678",
+    "filename": "EFTA00013678.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013678.pdf",
+    "text": "\n\nFrom: \"Acosta, Alex (USAFLS)\" \nTo: \nSubject: FW: Epstein pleads guilty in state court \nDate: Mon, 30 Jun 2008 20:01:47 +0000 \nImportance: Normal \nPls put in Epstein binder. \nFrom: \nSen \n• '55 PM \nTo: \nCc: \n; Acosta, Alex (USAFLS \nSubject: RE: Epstein pleads guilty in state court \nThank you, Your support was (and is) greatly appreciated. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nMona\nFax \nFrom \nSent: Monda June 30 2008 2:19 PM \nTo \nCc \nSubject: \nFW: \nEpstein pleads guilty in state court \nCongratulations, -  at long last! Your work on this matter was truly exceptional, and you obtained a vary significant \nresult that will serve the victims well. Please pass on my congratulations to the rest of your team. \nEFTA00013678",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nPls",
+        "role": "extracted",
+        "context": "8 20:01:47 +0000 \nImportance: Normal \nPls put in Epstein binder. \nFrom:"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "appreciated. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nMona\nFa"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nMona\nFax \nFrom \nSe"
+      },
+      {
+        "name": "Mona\nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nMona\nFax \nFrom \nSent: Monda June 30 20"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "lm Beach, FL 33401 \nMona\nFax \nFrom \nSent: Monda June 30 2008 2:19 PM"
+      },
+      {
+        "name": "Monda June",
+        "role": "extracted",
+        "context": "33401 \nMona\nFax \nFrom \nSent: Monda June 30 2008 2:19 PM \nTo \nCc \nSubj"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": ": Monda June 30 2008 2:19 PM \nTo \nCc \nSubject: \nFW: \nEpstein plead"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-30",
+        "event": "June 30 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.148Z"
+}

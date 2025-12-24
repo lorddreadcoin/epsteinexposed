@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00017820",
+    "filename": "EFTA00017820.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017820.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Call tomorrow re Maxwell \nDate: Tue, 24 Nov 2020 23:46:29 +0000 \nAttachments: 2020.11.24_AJN_order re_meet_&_confer re_MDC_conditions.pdf \nHi \nIn response to the letter we filed yesterday, today Maxwell's counsel filed her own letter demanding that Judge Nathan \norder the Warden of the MDC to appear for a court proceeding to address the defense's complaints about Maxwell's \nconditions of confinement. Judge Nathan endorsed that letter with an order that the parties confer and provide another \nupdate letter by Tuesday 12/1. Attached is the defense letter with Judge Nathan's endorsement. \nWould you be available tomorrow (11/25) afternoon to discuss, please? Apologies for the late request, but we are hoping \nto address this before the Thanksgiving holiday. \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nNew Y rk NY 10007 \nEFTA00017820",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "c: \nSubject: Call tomorrow re Maxwell \nDate: Tue, 24 Nov 2020 23:46:29 +0"
+      },
+      {
+        "name": "Hi \nIn",
+        "role": "extracted",
+        "context": "confer re_MDC_conditions.pdf \nHi \nIn response to the letter we fil"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "her own letter demanding that Judge Nathan \norder the Warden of the MDC"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "holiday. \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew Y rk NY 1000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.661Z"
+}

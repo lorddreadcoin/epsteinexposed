@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00032960",
+    "filename": "EFTA00032960.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032960.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: (USANYS)\"  \nCc: \nSANYS)\" \nUSANYS \" \n, \"\nUSANYS)\" \n(USANYS)\" \nSubject: Re: Epstein 6(e) Order \nDate: Fri, 20 Dec 2019 17:42:04 +0000 \nGreat, thank you. \nSent from my iPhone \nOn \nDec 20, 2019, at 12:32 PM, (USANYS) < wrote: \nThanks. \nLarry, \nm,\n I will send you the trust agreements momentarily. \nFrom: (USANYS) \nSent: Friday, December 20, 2019 12:29 PM \nTo: (USANYS) O; \n(USANYS) \n>; \n(USANYS) ; \n(USANYS) \nCc: (USANYS) (USANYS) \n•=> \nSubject: Epstein 6(e) Order \nJudge Cote signed the 6(e) order, \nattached. \nNote: an thin we send to John Langbein has to comply with EOUSA \nsecure shipping protocols (speak to \nor EOUSA electronic encryption protocols (speak to IT services). We would look very bad if \nany of this ended up someplace it shouldn't. Also give Langbein the necessary cautions. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00032960",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Order \nDate",
+        "role": "extracted",
+        "context": ")\" \nSubject: Re: Epstein 6(e) Order \nDate: Fri, 20 Dec 2019 17:42:04 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "at, thank you. \nSent from my iPhone \nOn \nDec 20, 2019, at 12:32 PM, ("
+      },
+      {
+        "name": "Order \nJudge",
+        "role": "extracted",
+        "context": ") \n•=> \nSubject: Epstein 6(e) Order \nJudge Cote signed the 6(e) order,"
+      },
+      {
+        "name": "John Langbein",
+        "role": "extracted",
+        "context": "ed. \nNote: an thin we send to John Langbein has to comply with EOUSA \nsec"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "ary cautions. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00032960"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-20",
+        "event": "December 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.911Z"
+}

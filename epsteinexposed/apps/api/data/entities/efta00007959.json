@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00007959",
+    "filename": "EFTA00007959.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007959.pdf",
+    "text": "\n\nPOLIO \nI \nEVIDENCE \nCASE \nto \n5-\n3 \nG1 \n \n?Ronny \n•\n \n06- \n.ar \n! \nI7.2 \nEy \nCONTENTS \nTown \nof \nPalm \nBeach \ne \nvae10 \nPolice \nDepartment \nt;It\nitz\nd\ny \n---t\na \ntt\neet \nItem \nQuantity \nDescription \nf \nit \n6vo \nfIPOQ \nViy\nq\n \nt \ni \nA \nEFTA00007959\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nEFTA00007960\n\nY \nEFTA00007961",
+    "pageCount": 3,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "I7.2 \nEy \nCONTENTS \nTown \nof \nPalm \nBeach \ne \nvae10 \nPolice \nDepartment"
+      },
+      {
+        "name": "Police \nDepartment",
+        "role": "extracted",
+        "context": "n \nof \nPalm \nBeach \ne \nvae10 \nPolice \nDepartment \nt;It\nitz\nd\ny \n---t\na \ntt\neet"
+      },
+      {
+        "name": "Item \nQuantity",
+        "role": "extracted",
+        "context": "t;It\nitz\nd\ny \n---t\na \ntt\neet \nItem \nQuantity \nDescription \nf \nit \n6vo \nfIP"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.570Z"
+}

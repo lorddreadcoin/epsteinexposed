@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032750",
+    "filename": "EFTA00032750.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032750.pdf",
+    "text": "\n\nFrom: BOBBI C \nSTERNHEI \\ 1 \nTo: \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject: [EXTERNAL] U.S. v. Maxwell S2 20 Cr. \n330 (AJN) \nDate: Mon, 18 Oct 2021 21:50:38 +0000 \nAttachments: Response_to_Govt_voir dire_opposition.pdf; ATT00001.htm \nGood \nafternoon-\nAttached is a courtesy copy of today's ECF filing. \nBobbi \nEFTA00032750",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "BBI C \nSTERNHEI \\ 1 \nTo: \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pag"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "To: \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject:"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject: [EXTERNAL] U.S. v."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.403Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029307",
+    "filename": "EFTA00029307.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029307.pdf",
+    "text": "\n\nFrom: ' \nTo: 1\" =11.11YSyAMMy,s\"), (USANYS)\"\nSubject: RE: Scan of Epstein Note \nDate: Tue, 10 Sep 2019 19:49:07 +0000 \nis one of the guards. I think it says Noel gave him food that had been burned. Epstein kept a running list of \ngrievances, mostly about the conditions. That's what this appears to be. \nFrom: (USANYS) < \nSent: Tuesday, September 10, 2019 3:43 PM \nTo: (USANYS) < (USANYS) \nCc: \nSubject: RE: Scan of Epstein Note \nWho is What does that say about Noel? \nFrom: (USANYS) \nSent: Tuesday, September 10, 2019 3:41 PM \nTo: ( USANYS) (USANYS) \nCc: \nSubject: Scan of Epstein Note \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00029307",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Note",
+        "role": "extracted",
+        "context": "USANYS)\"\nSubject: RE: Scan of Epstein Note \nDate: Tue, 10 Sep 2019 19:49"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ubject: Scan of Epstein Note \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "pstein Note \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000293"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-10",
+        "event": "September 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.202Z"
+}

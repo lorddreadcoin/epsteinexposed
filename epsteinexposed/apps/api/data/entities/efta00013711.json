@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013711",
+    "filename": "EFTA00013711.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013711.pdf",
+    "text": "\n\nFrom: \" \n(USAFLS)\" \nTo: \n\"Acosta, Alex \n(USAFLS)\" \nCc: \n\"-(USAFLS)\" \nSubject: Epstein \nDate: Tue, 04 Dec 2007 18:43:06 +0000 \nImportance: Normal \n(USAFLS)\" \nHi Alex and M— I  forgot to tell Alex earlier that Mr. Goldberger's first name is Jack. Also, FYI, Epstein's plane is here in \nWest Palm Beach for the next few hours (it just arrived and is supposed to depart in the late afternoon). \nWhen the final letters go out, can you have fax or e-mail them to me? \nThanks. \nAssistant U.S. Attorney \nEFTA00013711",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Goldberger",
+        "role": "extracted",
+        "context": "got to tell Alex earlier that Mr. Goldberger's first name is Jack. Als"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\" \nCc: \n\"-(USAFLS)\" \nSubject: Epstein \nDate: Tue, 04 Dec 2007 18:43:06 +0"
+      },
+      {
+        "name": "Hi Alex",
+        "role": "extracted",
+        "context": "mportance: Normal \n(USAFLS)\" \nHi Alex and M— I  forgot to tell Alex"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": ", Epstein's plane is here in \nWest Palm Beach for the next few hours"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.220Z"
+}

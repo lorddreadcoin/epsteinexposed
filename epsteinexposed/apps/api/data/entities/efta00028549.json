@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00028549",
+    "filename": "EFTA00028549.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028549.pdf",
+    "text": "\n\nCase 1:19-cr-00490-RMB Document 48 Filed 08/21/19 Page 1  of 1 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW \nYORK \nUNITED STATES OF AMERICA, \n-against-\nJEFFREY \nEPSTEIN, \nGovernment. \nX \nDefendant. \n----X \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY FILED \nDOC #: \nDATE FILED:  IP) J  I \nOPER . \n19 \nCr 490 \nThe \nCourt will conduct a brief \nhearing \non \nTuesday, August 27, \n2019 at 10:30 \nam. in \nconnection with the nolle prosegui order proposed to the Court on August 19, 2019 by the United \nStates Attorney. \nThe Court believes that where, as here, a defendant has died before any judgment has \nbeen entered against him, the public may still have an informational interest in  the process by \nwhich the prosecutor seeks dismissal \nof an indictment. \nAt the hearing, \nCounsel for \nthe \nGovernment \nand for \nthe deceased \nDefendant, Jeffrey \nEpstein, will be \nheard. Counsel for \nthe victims \nand the victims will also \nbe heard, if they wish to \nbe. \nThe hearing will be held in Courtroom \n17B. \nDated: New \nYork, New York \nAugust \n21, \n2019 \n?Kr-3 \nRICHARD M. \nBERMAN, USDA. \nEFTA00028549",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The \nCourt",
+        "role": "extracted",
+        "context": "IP) J  I \nOPER . \n19 \nCr 490 \nThe \nCourt will conduct a brief \nhearing"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "urt on August 19, 2019 by the United \nStates Attorney. \nThe Court believes"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "for \nthe deceased \nDefendant, Jeffrey \nEpstein, will be \nheard. Counsel for"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ld in Courtroom \n17B. \nDated: New \nYork, New York \nAugust \n21, \n2019"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-27",
+        "event": "August 27, \n2019"
+      },
+      {
+        "date": "2019-08-19",
+        "event": "August 19, 2019"
+      },
+      {
+        "date": "2019-08-21",
+        "event": "August \n21, \n2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.452Z"
+}

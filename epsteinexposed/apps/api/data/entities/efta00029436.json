@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029436",
+    "filename": "EFTA00029436.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029436.pdf",
+    "text": "\n\nFrom: \nTo: \nSent: \nSubject: \nJeffrey \nE tein \n2/7/2011 7:13:12 PM \nKenny, Steve Culter at JPM , says he has left a number of messages for you.. I \nwould really appreciate it if \nyou could call him . As I had mentioned to ou - He is the lead counsel for Morgan ,  and needs to be reassured \nthat I am a good egg - Steve's cell: .  thanks in \nadvance , and can't wait to see you face to face. \n*********************************************************** \nThe information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and \nis intended only for \nthe use of the addressee. It is the property of \nJeffrey \nEpstein \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please \nnotify \nus immediate] by \nreturn e-mail or by e-mail to , and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved \nConfidential \nTreatment Requested by JPMorgan Chase \nJPM-SDNY-00001413 \nEFTA00029436",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Steve Culter",
+        "role": "extracted",
+        "context": "2/7/2011 7:13:12 PM \nKenny, Steve Culter at JPM , says he has left a n"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "essee. It is the property of \nJeffrey \nEpstein \nUnauthorized use, disclosure"
+      },
+      {
+        "name": "Confidential \nTreatment",
+        "role": "extracted",
+        "context": "pyright -all rights reserved \nConfidential \nTreatment Requested by JPMorgan Chase"
+      },
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "ial \nTreatment Requested by JPMorgan Chase \nJPM-SDNY-00001413 \nEFTA00029"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2011-02-07",
+        "event": "2/7/2011"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.417Z"
+}

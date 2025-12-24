@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00014067",
+    "filename": "EFTA00014067.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014067.pdf",
+    "text": "\n\nFrom: Brad Edwards  \nTo: (USAFLS)\" \nc\nCc: \n'llMaFLS)\"  k Paul Cassell \nSubject: RE: Draft Protective Order \nDate: Fri, 15 Aug 2008 15:58:44 +0000 \nImportance: Normal \nAttachments: Protective_Order.Final.doc \nThis is my proposed Order. I think it comports with the Judge's order from yesterday and I think it is slightly more thorough. It \nis very similar to your Motion. If you are more satisfied with your wording or layout for the motion, then please incorporate the \nadditional points made in my proposed order. \nMy only real problem with your proposed Order is paragraph C. This just further delays us from getting the agreement, and I \ndo not believe the Judge placed this burden on us. I think, as I wrote in my proposed order, that it is my duty to instruct my \nclients on the protective order and its function and to otherwise ensure that it is not violated by my clients. Getting my clients \nto \"acknowledge receipt of the order and agree to its terms\" could take awhile and cause unnecessary delay. I plan to talk to \nmy clients about \"the agreement\" and at the same time instruct them as to the rules outlined in the protective order. That is all \nthe Judge indicated as needed to be done. \nFrom: \n(USAFLS) (mailto: \nSent: Friday, August 15, 2008 11:41 AM \nTo: \nBrad Edwards \nCc: \nI   \n. (USAFLS) \nSubject: Draft Protective Order \nBrad, \nAttached please find a draft protective order regarding the disclosure of the non-prosecution agreement to you \nand Jane Does 1 and 2. Please let us know if there are any changes you wish to make. Thanks. \n«Protective Order doc» \nEFTA00014067",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "From: Brad Edwards  \nTo: (USAFLS)\" \nc\nCc: \n'llMa"
+      },
+      {
+        "name": "Paul Cassell",
+        "role": "extracted",
+        "context": "SAFLS)\" \nc\nCc: \n'llMaFLS)\"  k Paul Cassell \nSubject: RE: Draft Protectiv"
+      },
+      {
+        "name": "Draft Protective",
+        "role": "extracted",
+        "context": "k Paul Cassell \nSubject: RE: Draft Protective Order \nDate: Fri, 15 Aug 2008"
+      },
+      {
+        "name": "Order \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Draft Protective Order \nDate: Fri, 15 Aug 2008 15:58:44 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 15:58:44 +0000 \nImportance: Normal \nAttachments: Protective_Order.Final.doc"
+      },
+      {
+        "name": "Order \nBrad",
+        "role": "extracted",
+        "context": "S) \nSubject: Draft Protective Order \nBrad, \nAttached please find a draf"
+      },
+      {
+        "name": "Jane Does",
+        "role": "extracted",
+        "context": "ecution agreement to you \nand Jane Does 1 and 2. Please let us know i"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "s you wish to make. Thanks. \n«Protective Order doc» \nEFTA00014067"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-08-15",
+        "event": "August 15, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.046Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00014877",
+    "filename": "EFTA00014877.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014877.pdf",
+    "text": "\n\nFrom: \"Stoddart, Allison\" -4 \nTo: \nCc: \"Salmi, Arfate>, \"Schubert, Daniel\" \nSubject: [EXTERNAL] JPMorgan Chase Production \nDate: Tue, 23 Nov 2021 23:29:43 +0000 \nAttachments: 2021-11-23 SDNY Letter.pdf \nAll, \nAttached is a letter on behalf of our client, JPMorgan Chase, for a production that is being sent via FIR The password for \nthe production is: \nPlease let us know if you have any issues accessing the materials. \nThank you, \nAllison \nAllison \nStoddart I WilmerHale \nPlease consider the environment before printing this email. \nThis email message and any attachments are being sent by Wilmer Cutler Pickering Hale and Dorr LLP, are confidential, and may be privileged. If you are not \nthe intended recipient, please notify us immediately—by replying to this message or by sending an email to postmasterewilmerhale.com —and destroy all \ncopies of this message and any attachments. Thank you. \nFor more information about WilmerHale, please visit us at http://www.wilmerhale.com.\nEFTA00014877",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "aniel\" \nSubject: [EXTERNAL] JPMorgan Chase Production \nDate: Tue, 23 Nov"
+      },
+      {
+        "name": "Production \nDate",
+        "role": "extracted",
+        "context": "ct: [EXTERNAL] JPMorgan Chase Production \nDate: Tue, 23 Nov 2021 23:29:43 +0"
+      },
+      {
+        "name": "Allison \nAllison",
+        "role": "extracted",
+        "context": "g the materials. \nThank you, \nAllison \nAllison \nStoddart I WilmerHale \nPleas"
+      },
+      {
+        "name": "Hale \nPlease",
+        "role": "extracted",
+        "context": "on \nAllison \nStoddart I WilmerHale \nPlease consider the environment befo"
+      },
+      {
+        "name": "Wilmer Cutler",
+        "role": "extracted",
+        "context": "attachments are being sent by Wilmer Cutler Pickering Hale and Dorr LLP,"
+      },
+      {
+        "name": "Pickering Hale",
+        "role": "extracted",
+        "context": "e being sent by Wilmer Cutler Pickering Hale and Dorr LLP, are confidentia"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-23",
+        "event": "2021-11-23"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.748Z"
+}

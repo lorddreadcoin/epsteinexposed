@@ -1,0 +1,125 @@
+{
+  "document": {
+    "id": "efta00017811",
+    "filename": "EFTA00017811.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017811.pdf",
+    "text": "\n\nI \nI II \nThe \nLaw \nOffices of \nMONTELL FIGGINS,LLC \nwww.figginslaw.com \nBRANCH OFFICES: \nReply \nto Newark Office \n[X] \nASSOCIATES \nKenneth E. Brown, Esq. \nLinda Childs. Esq. \nSENT VIA EMAIL \nAssistant United States Attorneys \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nDear Ms. \nJanuary 29, 2020 \nRe: State of NY v Michael Thomas, et al. \nDocket No.: I:19-cr-00830 \nDiscovery Request \nAs previously discussed, I  am making a formal request pursuant to Rule I6(a)(1)(C) for \nany and all reports, memorandums, written statements, photos, videos, and incident reports \ncreated, manufactured or possessed by the United States Inspector General. \nPlease see U.S. v. Bryan, 868 F.2d 1032 (1989) if you maintain that Mr. Thomas is not \nentitled to the requested documents. \nRespectfully yours, \n/s/ Montell Figgins \nMontell Figgins, Esq. \nAttorney for Defendant Michael Thomas \ncc: Jason Erroy Foy, Esq, Counsel for Defendant Noel via ECF \nEFTA00017811",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "January",
+        "role": "extracted",
+        "context": "aza \nNew York, NY 10007 \nDear Ms. \nJanuary 29, 2020 \nRe: State of N"
+      },
+      {
+        "name": "Thomas",
+        "role": "extracted",
+        "context": "2 (1989) if you maintain that Mr. Thomas is not \nentitled to the r"
+      },
+      {
+        "name": "The \nLaw",
+        "role": "extracted",
+        "context": "I \nI II \nThe \nLaw \nOffices of \nMONTELL FIGGINS,"
+      },
+      {
+        "name": "Newark Office",
+        "role": "extracted",
+        "context": "m \nBRANCH OFFICES: \nReply \nto Newark Office \n[X] \nASSOCIATES \nKenneth E."
+      },
+      {
+        "name": "Linda Childs",
+        "role": "extracted",
+        "context": "ATES \nKenneth E. Brown, Esq. \nLinda Childs. Esq. \nSENT VIA EMAIL \nAssist"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Childs. Esq. \nSENT VIA EMAIL \nAssistant United States Attorneys \nSouthern Di"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "T VIA EMAIL \nAssistant United States Attorneys \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tant United States Attorneys \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nDear Ms. \nJan"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "'s Plaza \nNew York, NY 10007 \nDear Ms. \nJanuary 29, 2020 \nRe: State"
+      },
+      {
+        "name": "Michael Thomas",
+        "role": "extracted",
+        "context": "y 29, 2020 \nRe: State of NY v Michael Thomas, et al. \nDocket No.: I:19-cr-"
+      },
+      {
+        "name": "Docket No",
+        "role": "extracted",
+        "context": "NY v Michael Thomas, et al. \nDocket No.: I:19-cr-00830 \nDiscovery Re"
+      },
+      {
+        "name": "Discovery Request",
+        "role": "extracted",
+        "context": ". \nDocket No.: I:19-cr-00830 \nDiscovery Request \nAs previously discussed, I"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ossessed by the United States Inspector General. \nPlease see U.S. v. Bryan, 8"
+      },
+      {
+        "name": "Montell Figgins",
+        "role": "extracted",
+        "context": "ts. \nRespectfully yours, \n/s/ Montell Figgins \nMontell Figgins, Esq. \nAttor"
+      },
+      {
+        "name": "Defendant Michael",
+        "role": "extracted",
+        "context": "l Figgins, Esq. \nAttorney for Defendant Michael Thomas \ncc: Jason Erroy Foy,"
+      },
+      {
+        "name": "Jason Erroy",
+        "role": "extracted",
+        "context": "Defendant Michael Thomas \ncc: Jason Erroy Foy, Esq, Counsel for Defenda"
+      },
+      {
+        "name": "Defendant Noel",
+        "role": "extracted",
+        "context": "n Erroy Foy, Esq, Counsel for Defendant Noel via ECF \nEFTA00017811"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-01-29",
+        "event": "January 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.642Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00026450",
+    "filename": "EFTA00026450.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026450.pdf",
+    "text": "\n\nFrom: Jason Foyj\nTo: \nSubject: US v. Tova Noel 19 cr \n830 \nDate: Fri, 05 Jun 2020 21:26:43 +0000 \nAttachments: 6-5-20_Tova_Noel_Supplemental_Demand_for_Discovery.pdC \nCounsel, \nAttached is a supplemental discovery demand. Let me know how long you anticipate it will take to respond. Thank you. \nJason \nAda \ne \nFOY & SEPLOVVITZ LLC \n105 Main Street \nHackensack, NJ \n07601 \nwww.foyseplowitz.com \nEFTA00026450",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jason Foyj",
+        "role": "extracted",
+        "context": "From: Jason Foyj\nTo: \nSubject: US v. Tova Noel"
+      },
+      {
+        "name": "Tova Noel",
+        "role": "extracted",
+        "context": "ason Foyj\nTo: \nSubject: US v. Tova Noel 19 cr \n830 \nDate: Fri, 05 Jun"
+      },
+      {
+        "name": "Jason \nAda",
+        "role": "extracted",
+        "context": "take to respond. Thank you. \nJason \nAda \ne \nFOY & SEPLOVVITZ LLC \n105"
+      },
+      {
+        "name": "Main Street",
+        "role": "extracted",
+        "context": "e \nFOY & SEPLOVVITZ LLC \n105 Main Street \nHackensack, NJ \n07601 \nwww.f"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nHackensack, NJ",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.355Z"
+}

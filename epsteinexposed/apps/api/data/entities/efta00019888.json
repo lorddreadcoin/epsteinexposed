@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019888",
+    "filename": "EFTA00019888.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019888.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\" \"\nIMIE> \nTo: :=III \nUSANYS)\" \n<a\nl\nCc: al\ntil‘YS)\" \na, \n\"-\nSubject: MCC \nDiscovery Response \nDate: Fri, 21 Feb 2020 15:30:47 +0000 \nAttachments: 2020.02.xx_Response_to_Defense_Discovery_Requests_v2.docx; Michael_Thomas_-\n_ \nDiscovery_Request.pdf; Response_to_1-24-20_letter_from_the_Govemment.pdf \n(USANYS)\" \n(USANYS)\" \nChiefs, \nOur response (and their original requests) are attached for your review. Thanks. \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00019888",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Discovery Response",
+        "role": "extracted",
+        "context": "il‘YS)\" \na, \n\"-\nSubject: MCC \nDiscovery Response \nDate: Fri, 21 Feb 2020 15:30"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hed for your review. Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ew. Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000198"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.784Z"
+}

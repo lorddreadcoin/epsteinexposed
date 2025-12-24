@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00027927",
+    "filename": "EFTA00027927.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027927.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Jeffrey Epstein 19 \ncr 490 \nDate: Mon, 12 Aug 2019 18:37:38 +0000 \nImportance: High \nAttachments: Aug_12_letter.pdf \nOn \nBehalf Of \nSent: Monda Au ust 12, 2019 12:47 PM \nTo: \nCc: • \n, \n›; \n, \nSubject: Jeffrey Epstein 19 cr 490 \nImportance: High \nPlease see attached letter from Judge Richard M. Berman. \n(See attached file: Aug 12 letter.pd0 \nEFTA00027927",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Jeffrey Epstein 19 \ncr 490 \nDate: Mon, 12 Aug 2019 18:37:38 +0000"
+      },
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "9 18:37:38 +0000 \nImportance: High \nAttachments: Aug_12_letter.pdf \nOn \nBehal"
+      },
+      {
+        "name": "On \nBehalf",
+        "role": "extracted",
+        "context": "tachments: Aug_12_letter.pdf \nOn \nBehalf Of \nSent: Monda Au ust 12, 20"
+      },
+      {
+        "name": "Of \nSent",
+        "role": "extracted",
+        "context": "Aug_12_letter.pdf \nOn \nBehalf Of \nSent: Monda Au ust 12, 2019 12:47"
+      },
+      {
+        "name": "Monda Au",
+        "role": "extracted",
+        "context": "ter.pdf \nOn \nBehalf Of \nSent: Monda Au ust 12, 2019 12:47 PM \nTo: \nC"
+      },
+      {
+        "name": "High \nPlease",
+        "role": "extracted",
+        "context": "pstein 19 cr 490 \nImportance: High \nPlease see attached letter from Judg"
+      },
+      {
+        "name": "Judge Richard",
+        "role": "extracted",
+        "context": "ease see attached letter from Judge Richard M. Berman. \n(See attached fil"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.280Z"
+}

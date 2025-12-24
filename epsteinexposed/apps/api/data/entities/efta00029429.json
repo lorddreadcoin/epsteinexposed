@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029429",
+    "filename": "EFTA00029429.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029429.pdf",
+    "text": "\n\nFrom: Jeevacation < \nTo: Jes Staley < \nSent: \n12/4/2009 4:25:38 AM \nSubject: \nRe: \nWe are going to have fun \nSent from my iPhone \nOn Dec 3, 2009, at 11:05 PM, Jes Staley < \n> \nwrote: \n> I realize the danger in sending this email. But is was great to be \n> able, today, to give you, in New York City, a long heartfelt, hug. \n> To \nmy friend, \n> \nThanks. \n> \nJes \n> This email is confidential and subject to important disclaimers and \n> conditions including on offers for the purchase or sale of \n> securities, accuracy and completeness of information, viruses, \n> confidentiality, legal privilege, and legal entity disclaimers, \n> available at http://www.jpmorgan.com/pages/disclosures/email. \nConfidential Treatment Requested by JPMorgan Chase JPM-SDNY-00000550 \nEFTA00029429",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jes Staley",
+        "role": "extracted",
+        "context": "From: Jeevacation < \nTo: Jes Staley < \nSent: \n12/4/2009 4:25:38 A"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ng to have fun \nSent from my iPhone \nOn Dec 3, 2009, at 11:05 PM, Jes"
+      },
+      {
+        "name": "Confidential Treatment",
+        "role": "extracted",
+        "context": "com/pages/disclosures/email. \nConfidential Treatment Requested by JPMorgan Chase J"
+      },
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "tial Treatment Requested by JPMorgan Chase JPM-SDNY-00000550 \nEFTA000294"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2009-12-04",
+        "event": "12/4/2009"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.403Z"
+}

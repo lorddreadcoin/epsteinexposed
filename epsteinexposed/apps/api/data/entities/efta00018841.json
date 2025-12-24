@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00018841",
+    "filename": "EFTA00018841.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018841.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc: ' \nI' \nPI \nSubject: [EXTERNAL] FW: Court Subpoena \nDate: Tue, 05 Oct 2021 18:14:36 +0000 \nAttachments: 2021.08.27_Court_Subpoenas  _Sacramento_County_Clerk.pdf \nInline-Images: image004.png; image002.png \nGood afternoon, \nOur Counsel had a further question regarding the subpoena. In the subpoena, it states the Sacramento County \nClerk/Recorder is to appear in person to testify, and produce the requested record, at the U.S. District Court for \nthe Southern District of New York. Is this a requirement, or will presentation of the record to your office \nsuffice? \nYour assistance in this matter is greatly appreciated. \nThanks, \nAndrew B. Graham \nDeputy Clerk/Recorder \nSacramento County Clerk/Recorder \nS.A.EtkAn EN4 TO \nFrom: \nSent: Monday, October 4, 2021 3:31 PM \nTo: \nCc: \nSubject: RE: Court Subpoena \nI just spoke with our Counsel regarding the subpoena. She agrees that, since this is in regards to a federal \ncriminal case, the record should be issued at no fee. We will need an vital record application completed. The \napplication can be completed in our office by one of your representatives. As an alternative, please complete \nthe attached application form and email back to me. After receiving the completed application, we can process \nthe request and mail it immediately to the address of your choosing. The application will need to be signed, but \nthere is not a requirement that the application be notarized. \nIf you have any questions, please feel free to contact me. \nThanks, \nEFTA00018841\n\nAndrew B. Graham \nDeputy Clerk/Recorder \nSacramento County Clerk/Recorder \nM I N.1 !(-) \nFrom: Graham. Andrew \nSent: Monday, October 4, 2021 12:25 PM \nTo: \nCc: \nSubject: FW: Court Subpoena \nYou can reach me between 8-5 (Pacific Time), Monday thru Friday. \nThanks, \nAndrew B. Graham \nDeputy Clerk/Recorder \nSacramento County Clerk/Recorder \n11.20 \nMI-N1 TO \nFrom: \nSent: Monday, October 4, 2021 11:43 AM \nTo: Hermison. Jon \nCc \nSubject: Court Subpoena \n; Colston. Noriko \nGood afternoon, \n<M> \nEXTERNAL EMAIL: If unknown sender, do not click links/attachments. \nI'm reaching out regarding the attached subpoena, which was served on your office in connection with an upcoming \ncriminal trial in the United States District Court for the Southern District of New York. I understand there have been some \nquestions regarding compliance. Could you please let me know your availability for a call? \nThank you, \nes Attorney \nEFTA00018842\n\nSouthern District of New York \nEFTA00018843",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Court Subpoena",
+        "role": "extracted",
+        "context": "PI \nSubject: [EXTERNAL] FW: Court Subpoena \nDate: Tue, 05 Oct 2021 18:14"
+      },
+      {
+        "name": "Our Counsel",
+        "role": "extracted",
+        "context": "mage002.png \nGood afternoon, \nOur Counsel had a further question regard"
+      },
+      {
+        "name": "Sacramento County",
+        "role": "extracted",
+        "context": "n the subpoena, it states the Sacramento County \nClerk/Recorder is to appear"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "requested record, at the U.S. District Court for \nthe Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "U.S. District Court for \nthe Southern District of New York. Is this a requir"
+      },
+      {
+        "name": "Graham \nDeputy",
+        "role": "extracted",
+        "context": "reciated. \nThanks, \nAndrew B. Graham \nDeputy Clerk/Recorder \nSacramento Co"
+      },
+      {
+        "name": "Recorder \nSacramento",
+        "role": "extracted",
+        "context": "ndrew B. Graham \nDeputy Clerk/Recorder \nSacramento County Clerk/Recorder \nS.A.Et"
+      },
+      {
+        "name": "County Clerk",
+        "role": "extracted",
+        "context": "ty Clerk/Recorder \nSacramento County Clerk/Recorder \nS.A.EtkAn EN4 TO \nF"
+      },
+      {
+        "name": "Andrew \nSent",
+        "role": "extracted",
+        "context": "M I N.1 !(-) \nFrom: Graham. Andrew \nSent: Monday, October 4, 2021 12:2"
+      },
+      {
+        "name": "Pacific Time",
+        "role": "extracted",
+        "context": "You can reach me between 8-5 (Pacific Time), Monday thru Friday. \nThanks"
+      },
+      {
+        "name": "Jon \nCc",
+        "role": "extracted",
+        "context": "2021 11:43 AM \nTo: Hermison. Jon \nCc \nSubject: Court Subpoena \n; C"
+      },
+      {
+        "name": "Noriko \nGood",
+        "role": "extracted",
+        "context": "t: Court Subpoena \n; Colston. Noriko \nGood afternoon, \n<M> \nEXTERNAL EMA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-04",
+        "event": "October 4, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.777Z"
+}

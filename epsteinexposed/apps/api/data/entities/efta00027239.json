@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00027239",
+    "filename": "EFTA00027239.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027239.pdf",
+    "text": "\n\nfrom: \nTo: \nSubject: RE: JE state plea transcript \nDate: Wed, 07 Aug 2019 16:07:21 +0000 \nThat's great. Good find. \nFrom: \nSent: Wednesday, August 7, 2019 11:56 AM \nTo: \nSubject: FW: JE  state plea transcript \nJust FYI, flagged this to the team yesterday re: his state plea transcript and meant to send it to you both as well. \nFrom \nSent: Tuesday, August 06, 2019 20:34 \nTo: \nSubject: JE state plea transcript \nCheck out pages 38-39 of his state plea: \nEpstein counsel: \"[T]here is a nonprosecution agreement with the United States Attorney's office that triggers as a result \nof this plea agreement. In other words, they have signed off and said they will not prosecute Mr. Epstein in the Southern \nDistrict of Florida for any offense upon his successful taking of his plea today. That is a confidential document that the \nparties have agreed to. Just in an abundance of caution, I wanted to tell the court.\" \nThe Court: \"Mr. Epstein, your attorney has told me that in addition to everything, we talked about another inducement, \nshall we say, to your taking this plea is that the U.S. Attorney for the Southern District of the State of Florida, federal \nprosecutor, has agreed to a nonprosecution agreement with you, meaning that if you successfully complete probation and \ndo everything you're supposed to, they have, have agreed not to prosecute you federally, did you understand that?\" \nThe Defendant: \"Yes, ma'am.\" \nThe prosecutor then notes that SDFL people (\"they\") were in court for the plea. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00027239",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "said they will not prosecute Mr. Epstein in the Southern \nDistrict"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "send it to you both as well. \nFrom \nSent: Tuesday, August 06, 2019 20:"
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": "prosecute Mr. Epstein in the Southern \nDistrict of Florida for any offense up"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "hat the U.S. Attorney for the Southern District of the State of Florida, fede"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "for the plea. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-07",
+        "event": "August 7, 2019"
+      },
+      {
+        "date": "2019-08-06",
+        "event": "August 06, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.824Z"
+}

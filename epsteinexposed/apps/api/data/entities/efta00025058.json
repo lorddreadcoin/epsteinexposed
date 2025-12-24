@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00025058",
+    "filename": "EFTA00025058.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025058.pdf",
+    "text": "\n\nFrom• \nTo: \nCc: \n\" \nSubject: Re: [EXTERNAL] information \nDate: Tue, 26 Oct 2021 08:23:34 +0000 \nI will follow up - I am in Scotland until thrusday \nSent from my iPhone \nOn Oct \n26, 2021, at 1:33 AM, \nHi Mr. \n> wrote: \nAs I discussed with Ms over the summer, you would need to submit a FOIA request to the BOP and \nnote that you are specifically requesting what they released to the NYT. You can send me copy of that request \nonce it has been submitted to the BOP and as a courtesy I will ensure that the correct recipient in the Civil \nDivision of our Office has received it. We do not handle FOIA requests in our division. \nBest, \nOn Oct \n25, 2021, at 12:40 PM wrote: \nHi, \nHope this finds you well. \nI would like to get a copy of ALL of the records that were released to the New York Times on their FOI request \nregarding my brother's case (Jeffrey Epstein). \nPlease advise the quickest way to accomplish this. \nThanks, \nScanned by McAfee and confirmed \nvirus-free. \nEFTA00025058",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "n their FOI request \nregarding my brother's case (Jeffrey Epstein). \nPlease advise the quickest way to accomplish t"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "until thrusday \nSent from my iPhone \nOn Oct \n26, 2021, at 1:33 AM, \nH"
+      },
+      {
+        "name": "Hi Mr",
+        "role": "extracted",
+        "context": "n Oct \n26, 2021, at 1:33 AM, \nHi Mr. \n> wrote: \nAs I discussed wi"
+      },
+      {
+        "name": "Civil \nDivision",
+        "role": "extracted",
+        "context": "the correct recipient in the Civil \nDivision of our Office has received it"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "ests in our division. \nBest, \nOn Oct \n25, 2021, at 12:40 PM wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.384Z"
+}

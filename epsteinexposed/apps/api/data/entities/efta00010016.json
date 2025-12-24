@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00010016",
+    "filename": "EFTA00010016.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010016.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell a, Laura Menninger \n, Jeff Pagliuca 10111MS \nSubject: [EXTERNAL] Re: U.S. v. Maxwell S2 20 Cr. 330 (AJN) \nDate: The, 09 Nov 2021 15:58:20 +0000 \nAttachments: Reply_to_Dkt_423.pdf \nCourtesy copy of today's ECF filing-\nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nternheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00010016",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": ": BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell a, Laura Menninger \n, Jeff Pa"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "o: \nCc: Christian Everdell a, Laura Menninger \n, Jeff Pagliuca 10111MS \nSub"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "verdell a, Laura Menninger \n, Jeff Pagliuca 10111MS \nSubject: [EXTERNAL]"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contain information from the Law Offices of Bobbi C. Stemheim \nthat ma"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.102Z"
+}

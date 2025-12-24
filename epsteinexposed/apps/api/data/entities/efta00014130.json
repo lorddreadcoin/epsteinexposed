@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00014130",
+    "filename": "EFTA00014130.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014130.pdf",
+    "text": "\n\nFrom: \" \nTo: \" . (USAFLS)\" \nSubject: Re: CONFIDENTIAL: Epstein NonProsecution Agrmt w Addendum.pdf \nDate: Fri, 05 Dec 2008 03:14:04 +0000 \nImportance: Normal \nThank you and I will pass on your greeting to \nMichael Danchuk \nn \nIn a message dated 12/4/2008 6:15:36 P.M. Eastern Standard Time, writes: \nDear Mr. Danchuk: I have attached the Non-Prosecution Agreement. Please restrict its disclosure only to those who have reviewed and \nsigned the Protective Order. If any other staff members or attorneys need to see this document, please have them review and sign the \nProtective Order and send it to me. Thank you. \nPlease give my regards to Ms. as well. \n«Epstein NonProsecution Agrmt w \nAddendum.pdf» \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nMake your life easier with all your friends, email, and favorite sites in one place. -Mt it now. \nEFTA00014130",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Danchuk",
+        "role": "extracted",
+        "context": "Standard Time, writes: \nDear Mr. Danchuk: I have attached the Non-"
+      },
+      {
+        "name": "Epstein Non",
+        "role": "extracted",
+        "context": "\" \nSubject: Re: CONFIDENTIAL: Epstein NonProsecution Agrmt w Addendum.p"
+      },
+      {
+        "name": "Prosecution Agrmt",
+        "role": "extracted",
+        "context": "Re: CONFIDENTIAL: Epstein NonProsecution Agrmt w Addendum.pdf \nDate: Fri, 05"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 03:14:04 +0000 \nImportance: Normal \nThank you and I will pass on your g"
+      },
+      {
+        "name": "Michael Danchuk",
+        "role": "extracted",
+        "context": "ill pass on your greeting to \nMichael Danchuk \nn \nIn a message dated 12/4/2"
+      },
+      {
+        "name": "Eastern Standard",
+        "role": "extracted",
+        "context": "dated 12/4/2008 6:15:36 P.M. Eastern Standard Time, writes: \nDear Mr. Danch"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": "stern Standard Time, writes: \nDear Mr. Danchuk: I have attached the"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "chuk: I have attached the Non-Prosecution Agreement. Please restrict its disclosu"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "have reviewed and \nsigned the Protective Order. If any other staff members o"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \nMake your life easier with a"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-12-04",
+        "event": "12/4/2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.219Z"
+}

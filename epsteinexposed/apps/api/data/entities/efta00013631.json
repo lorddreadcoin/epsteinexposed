@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00013631",
+    "filename": "EFTA00013631.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013631.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Re: Epstein \nDate: Mon, 10 Dec 2007 15:27:19 +0000 \nImportance: Normal \nYes \nSent from my BlackBerry Wireless Handheld \nOriginal Message --\nFrom.\nTo: \nSent: Mon Dec 10 10:13:05 2007 \nSubject: RE: Epstein \nHi M— I just reviewed it. Are you coming up here today? \nAssistant U.S. Attorne \nFrom: \nSent: Monde , December 10, 2007 9:54 AM \nTo: \nSubject: RE: Epstein \nYes. I'm PDF'ing their responses. \nFrom: \nSent: Sunda December 09, 2007 2:14 PM \nTo: \nSubject: Epstein \nHi MI— I haven't heard anything from you orb. Did Epstein respond? Am I supposed to do anything? Thank you. \nAssistant U.S. Attorney \nEFTA00013631",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Re: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Re: Epstein \nDate: Mon, 10 Dec 2007 15:27:19 +0"
+      },
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "7 15:27:19 +0000 \nImportance: Normal \nYes \nSent from my BlackBerry Wire"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "ormal \nYes \nSent from my BlackBerry Wireless Handheld \nOriginal Message --"
+      },
+      {
+        "name": "Handheld \nOriginal",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \nOriginal Message --\nFrom.\nTo: \nSent: M"
+      },
+      {
+        "name": "Mon Dec",
+        "role": "extracted",
+        "context": "l Message --\nFrom.\nTo: \nSent: Mon Dec 10 10:13:05 2007 \nSubject: RE"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "0 10:13:05 2007 \nSubject: RE: Epstein \nHi M— I just reviewed it. Are yo"
+      },
+      {
+        "name": "Attorne \nFrom",
+        "role": "extracted",
+        "context": "p here today? \nAssistant U.S. Attorne \nFrom: \nSent: Monde , December 10,"
+      },
+      {
+        "name": "Epstein \nYes",
+        "role": "extracted",
+        "context": "07 9:54 AM \nTo: \nSubject: RE: Epstein \nYes. I'm PDF'ing their responses."
+      },
+      {
+        "name": "Sunda December",
+        "role": "extracted",
+        "context": "heir responses. \nFrom: \nSent: Sunda December 09, 2007 2:14 PM \nTo: \nSubjec"
+      },
+      {
+        "name": "Did Epstein",
+        "role": "extracted",
+        "context": "heard anything from you orb. Did Epstein respond? Am I supposed to do"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-12-10",
+        "event": "December 10, 2007"
+      },
+      {
+        "date": "2007-12-09",
+        "event": "December 09, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.029Z"
+}

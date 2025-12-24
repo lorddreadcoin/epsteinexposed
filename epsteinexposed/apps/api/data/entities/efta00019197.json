@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019197",
+    "filename": "EFTA00019197.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019197.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Question \nDate: Sat, 30 Jan 2021 04:11:10 +0000 \nCan I give you a call tomorrow (or Monday) to discuss? Nothing comes to mind in terms of emails, and \nEpstein was it first came in, if that's helpful. \nFrom: \nSent: Friday, January 29, 2021 9:16 PM \nTo: \nSubject: RE: Question \nThanks, M. Was looking for any emails she may have saved re Epstein. \nwas on \nFrom: \nSent: Friday, January 29, 2021 8:22 PM \nTo: \nSubject: RE: Question \nI don't think that we have all of trafficking emaits, but she saved certain emaits relevant to specific to ics in the \nCoordinator shared drive.M.Nas our predecessor though, so we didn't have a transition conversation with \n(although I don't think =saved any emails either). Is there something specific we can help you look for? \nFrom: \nSent: Friday, January 29, 2021 8:05 PM \nTo: \nSubject: Question \nHi, \nI hope you both are well! Do you happen to know if saved her emails on the trafficking share drive? I \nhave poked around and couldn't find them and had suggested I check with you on the handoff (I thought you \nboth stepped into the role when she left, but let me know if I'm wrong). \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, \nNew York 10007 \nEFTA00019197",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Question \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Question \nDate: Sat, 30 Jan 2021 04:11:10 +0"
+      },
+      {
+        "name": "Question \nThanks",
+        "role": "extracted",
+        "context": "21 9:16 PM \nTo: \nSubject: RE: Question \nThanks, M. Was looking for any email"
+      },
+      {
+        "name": "Question \nHi",
+        "role": "extracted",
+        "context": ", 2021 8:05 PM \nTo: \nSubject: Question \nHi, \nI hope you both are well! D"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "know if I'm wrong). \nThanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "). \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, \nN"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, \nNew York 10007 \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-29",
+        "event": "January 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.479Z"
+}

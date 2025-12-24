@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00031850",
+    "filename": "EFTA00031850.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031850.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \"  ' \nSubject: \nFwd: detention memo \nDate: Ilre, \n30 Jun 2020 22:59:04 +0000 \nAttachments: 2019-06-29_GM_detention_memo.ebd.docx; ATT00001.htm \nI'll turn to this now— any other comments before it goes up the chain? Thanks. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' (USANYS)\" \nI \nDate: June 30 2020 at 6:46:24 PM EDT \nTo: ' \nCc: \nSubject: ILL: detention memo \n)\" \nThanks very much, This is persuasive — I read this, and I think we might have a real shot at detention. My \ncomments and suggestions in track. Can you take a look, and unless there's stuff to discuss, can you send the next draft \nto the Brass, and feel free to note if you want that it is still rough/in the works, but that in the interests of giving \neveryone a chance to weigh in on the substance, in particular, we wanted to circulate sooner rather than later. \nFrom: \n<> \nSent: Tuesday, June 30, 2020 3:48 PM \nTo: (USANYS) \nCc: \nSubject: detention memo \nHi-, \nca> \nAttached is a draft of the memo — there may be more edits from the team, so I'll incorporate their edits along with \nyours \nlater on. Thanks) \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031850",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "chain? Thanks. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "th \nyours \nlater on. Thanks) \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "on. Thanks) \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031850"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-30",
+        "event": "June 30 2020"
+      },
+      {
+        "date": "2020-06-30",
+        "event": "June 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.035Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014477",
+    "filename": "EFTA00014477.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014477.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Reporter question on Jeffrey Epstein \nDate: Tue, 16 Jul 2019 16:43:46 +0000 \nImportance: Normal \n['dine-Images: image001.png \nFYI —  we'll decline on this. Doubtful there's guidance, but let me now if you have any. Thanks. \nFrom: \nSent: Tuesday, July 16, 2019 12:11 PM \nTo: \nSubject: Reporter question on Jeffrey Epstein \nHi M, \nHope you're doing well! I'm a reporter with The Daily Beast and have been covering Jeffrey Epstein. \nToday, attorneys for Mr. Epstein's victims said Mr. Epstein sexually abused a young woman while he was out on work \nrelease in 2008-09. \nHere is our story. Would love to get your insight: haps://www.thedailybeast com effrey-epstein-abused-victims-while-\nserving-time-in-florida-lawyer-brad-edwards-says\nWould you be able to comment on this? Did SDNY hear any complaints about Mr. Epstein's activities while on work \nrelease? Could this perhaps factor into the case—especially as Mr. Epstein's legal team is trying to get him out on bail? \nAlternately, could you provide any comment on background? \nPlease drop me a line or give me a call. My cell is \nThanks so much! \nSenior \nJoin Beast Inside  our new membership program, to get more of the journalism you trust and love. \nEFTA00014477",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: FW: Reporter question on Jeffrey Epstein \nDate: Tue, 16 Jul 2019 16:43:46 +0000 \nImportanc"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "pstein. \nToday, attorneys for Mr. Epstein's victims said Mr. Epstei"
+      },
+      {
+        "name": "The Daily",
+        "role": "extracted",
+        "context": "ing well! I'm a reporter with The Daily Beast and have been covering"
+      },
+      {
+        "name": "Senior \nJoin",
+        "role": "extracted",
+        "context": "My cell is \nThanks so much! \nSenior \nJoin Beast Inside  our new members"
+      },
+      {
+        "name": "Beast Inside",
+        "role": "extracted",
+        "context": "Thanks so much! \nSenior \nJoin Beast Inside  our new membership program,"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-16",
+        "event": "July 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.928Z"
+}

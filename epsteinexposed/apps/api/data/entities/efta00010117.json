@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00010117",
+    "filename": "EFTA00010117.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010117.pdf",
+    "text": "\n\nFrom:\nTo: Sigrid McCawley •IIIMM> \nCc \nSubject: US v. Maxwell. 20 Cr. 330 (AJN) \nDate: Fri, 19 Nov 2021 04:09:08 +0000 \nAttachments: 2021.11.18_Mot_to_quashjfinal].pdf \nSigrid, \nAttached is a copy of our motion to quash, which we just filed by email temporarily under seal. If it would be useful to \ntalk tomorrow, please let us know. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA00010117",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "From:\nTo: Sigrid McCawley •IIIMM> \nCc \nSubject: U"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "To: Sigrid McCawley •IIIMM> \nCc \nSubject: US v. Maxwell. 20 Cr. 330 (A"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "please let us know. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York. New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.311Z"
+}

@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00016345",
+    "filename": "EFTA00016345.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016345.pdf",
+    "text": "\n\nFrom: ' \nTo: Gorenstein NYSD Chambers <I \nCc: \nSubject: RE: Application for Search Warrant \nDate: Fri, 26 Jun 2020 01:48:19 +0000 \nAttachments: ILApplication_&_Affidavitfor SW_for_all_JE_electronic_devices.pdf \nThank you very much. Attached please find a  revised affidavit correcting the error that Judge Gorenstein identified. \nI will call the number provided at 9:10am tomorrow with the agent on the line. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: Gorenstein NYSD Chambers <I\nSent: Thursday, June 25, 2020 7:43 PM \nTo: \nCc: \nSubject: Re: Application for Search Warrant \nJudge Gorenstein has reviewed the warrant materials. Please call him at with your agent on the \nline at 9:10 a.m. If there is no answer, please leave a callback number by voicemail or text and the Judge will \nrespond to you shortly thereafter. If you need a different call-in time, please let us know. Additionally, Judge \nGorenstein notes the following: \"While it does not affect probable cause, the warrant application in paragraph \n4 and Attachment A refers to Epstein being arrested on July 6, \"2020.\" The AUSA may wish to send a new \napplication that provides a correct date.\" \nFrom: \nSent: Thursday, June 25, 2020 4:58 PM \nTo: Gorenstein NYSD Chambers < \nCc: \nO; \nSubject: Application for Search Warrant \nEFTA00016345\n\nGood afternoon, \nAttached for Judge Gorenstein's review please find an application for a search warrant, as well as a proposed warrant. \nThe agent is available to swear out this warrant tomorrow morning whenever would be convenient for the Court. I can be \nreached on my cellphone at 347-344-8771. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nl  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016346",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "Subject: RE: Application for Search Warrant \nDate: Fri, 26 Jun 2020 01:48"
+      },
+      {
+        "name": "Judge Gorenstein",
+        "role": "extracted",
+        "context": "vit correcting the error that Judge Gorenstein identified. \nI will call the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "on the line. \nRespectfully, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: Gorenst"
+      },
+      {
+        "name": "Judge \nGorenstein",
+        "role": "extracted",
+        "context": "se let us know. Additionally, Judge \nGorenstein notes the following: \"While i"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-25",
+        "event": "June 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "347-344-8771"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.509Z"
+}

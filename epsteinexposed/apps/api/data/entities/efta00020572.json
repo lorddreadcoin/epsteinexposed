@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020572",
+    "filename": "EFTA00020572.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020572.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\" < \nTo: (USANYS)\" <=). \nSubject: co conspirator question transcript \nDate: Fri, 07 Feb 2020 17:21:59 +0000 \nQ: When Jeffrey Epstein died, a lot of people asked what's next? Is the government going to hold people who are accused \nof helping him recruit these younger girls, participated in this, can you give us a little bit of an update of where your office \nis in this investigation? \nA: Well, I'll note that the original charges against Jeffrey Epstein contained a conspiracy charge and we alleged that there \nwere conspirators involved. And Jeffrey Epstein couldn't have done what he did without the assistance of others and I can \nassure you that our investigation is moving forward. \nEFTA00020572",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "t \nDate: Fri, 07 Feb 2020 17:21:59 +0000 \nQ: When Jeffrey Epstein died, a lot of people asked what's next? Is the g"
+      },
+      {
+        "name": "When Jeffrey",
+        "role": "extracted",
+        "context": "7 Feb 2020 17:21:59 +0000 \nQ: When Jeffrey Epstein died, a lot of people"
+      },
+      {
+        "name": "And Jeffrey",
+        "role": "extracted",
+        "context": "were conspirators involved. And Jeffrey Epstein couldn't have done wh"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.114Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013627",
+    "filename": "EFTA00013627.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013627.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: Epstein \nDate: Mon, 05 Nov \n2007 20:51:44 +0000 \nImportance: Normal \nHi \nJeff \n— \nAnother girl just called \nFBI after being \napproached by private investigators \nfor Epstein. \nAssistant \nU.S. Attorney \n500 S. \nAustralian Ave, Suite 400 \nWest \nPalm \nBeach, FL \n33401 \nMM. \nEFTA00013627",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From• \nTo: \nSubject: Epstein \nDate: Mon, 05 Nov \n2007 20:51:44 +"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "7 20:51:44 +0000 \nImportance: Normal \nHi \nJeff \n— \nAnother girl just c"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "stant \nU.S. Attorney \n500 S. \nAustralian Ave, Suite 400 \nWest \nPalm \nBeach"
+      },
+      {
+        "name": "West \nPalm",
+        "role": "extracted",
+        "context": ". \nAustralian Ave, Suite 400 \nWest \nPalm \nBeach, FL \n33401 \nMM. \nEFTA0"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm \nBeach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.018Z"
+}

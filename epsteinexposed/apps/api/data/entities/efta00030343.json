@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00030343",
+    "filename": "EFTA00030343.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030343.pdf",
+    "text": "\n\nFrom: \"I (NY) (FBI)\" <> \nTo: \"i \n)\" c>\nCc: \"I \n) (FBI)\" <in \nSubject: Maxwell Travel Information \nDate: Tue, 30 Jun 2020 17:42:50 +0000 \nAttachments: UK_citizenship.pdf; France_citizenship.pdf; \nOUTBOUND travel record 6.2.2019 with_UK_PP.pdf; \nOUTBOUND travel record 1.19.2010 with France_PP.pdf \nsummary: Travel review for Ghislaine Maxwell, DOB: \ninformation: \n• Traveled 15 times with 7 OUTBOUND flights \no United Kingdom: 5 times \no Japan: 1 time \no Qatar: 1 time \nfrom 1/1/2017 to 6/29/2020 identified the following \nI have attached two travel records showing international travel with both a UK passport and a French Passport. \nI have also attached two inspection documents citing her citizenship in both the UK and France. \nThanks, \nEFTA00030343",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "10 with France_PP.pdf \nsummary: Travel review for Ghislaine Maxwell, DOB: \ninformation: \n• Traveled 15 times with 7 O"
+      },
+      {
+        "name": "Maxwell Travel",
+        "role": "extracted",
+        "context": "c: \"I \n) (FBI)\" <in \nSubject: Maxwell Travel Information \nDate: Tue, 30 Ju"
+      },
+      {
+        "name": "Information \nDate",
+        "role": "extracted",
+        "context": "<in \nSubject: Maxwell Travel Information \nDate: Tue, 30 Jun 2020 17:42:50 +0"
+      },
+      {
+        "name": "United Kingdom",
+        "role": "extracted",
+        "context": "es with 7 OUTBOUND flights \no United Kingdom: 5 times \no Japan: 1 time \no"
+      },
+      {
+        "name": "French Passport",
+        "role": "extracted",
+        "context": "with both a UK passport and a French Passport. \nI have also attached two in"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2017-01-01",
+        "event": "1/1/2017"
+      },
+      {
+        "date": "2020-06-29",
+        "event": "6/29/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.626Z"
+}

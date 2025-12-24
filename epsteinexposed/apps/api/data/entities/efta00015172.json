@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00015172",
+    "filename": "EFTA00015172.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015172.pdf",
+    "text": "\n\n10/6/21, 12:43 PM \nIII/FBI/State \nDelayed Response \nAdditional Inquiry Response \nORI: NYFBINYOO \nFederal Bureau of Investigation - New York \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210. Te1:1-800-262-DOS \nMichael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services \n9   III \nInformation * \nThe following information is provided in response to your request for a search of the III based on: \nTHE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION \nINDEX BY USING THE APPROPRIATE NCIC TRANSACTION. \nEND \n1;2 \nEFTA00015172\n\n1016/21, \n12:43 PM \nIII/FBI/State Delayed \nResponse \n2/2 \nEFTA00015173",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "State \nDelayed",
+        "role": "extracted",
+        "context": "10/6/21, 12:43 PM \nIII/FBI/State \nDelayed Response \nAdditional Inquiry"
+      },
+      {
+        "name": "Response \nAdditional",
+        "role": "extracted",
+        "context": "43 PM \nIII/FBI/State \nDelayed Response \nAdditional Inquiry Response \nORI: NYFBIN"
+      },
+      {
+        "name": "Inquiry Response",
+        "role": "extracted",
+        "context": "Delayed Response \nAdditional Inquiry Response \nORI: NYFBINYOO \nFederal Bure"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "iry Response \nORI: NYFBINYOO \nFederal Bureau of Investigation - New York"
+      },
+      {
+        "name": "State Division",
+        "role": "extracted",
+        "context": "tigation - New York \nNew York State Division of Criminal Justice Services"
+      },
+      {
+        "name": "Criminal Justice",
+        "role": "extracted",
+        "context": "k \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Bui"
+      },
+      {
+        "name": "Services \nAlfred",
+        "role": "extracted",
+        "context": "Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South S"
+      },
+      {
+        "name": "Smith Building",
+        "role": "extracted",
+        "context": "l Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, N"
+      },
+      {
+        "name": "South Swan",
+        "role": "extracted",
+        "context": "Alfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210."
+      },
+      {
+        "name": "Executive Deputy",
+        "role": "extracted",
+        "context": "800-262-DOS \nMichael C.Green, Executive Deputy Commissioner of the NYS Divis"
+      },
+      {
+        "name": "State Delayed",
+        "role": "extracted",
+        "context": "1016/21, \n12:43 PM \nIII/FBI/State Delayed \nResponse \n2/2 \nEFTA00015173"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.133Z"
+}

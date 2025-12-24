@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00031681",
+    "filename": "EFTA00031681.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031681.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' \nSubject: Detention memo \nDate: Mon, 08 Jul 2019 14:13:31 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,fietention_memo,_draft.docx; detention_memo_redline.pdf \nThe substantively new stuff is on pp. 10-11 of the redline. \nLet me know if we are good to submit to court \nFrom: \nSent: Monday, July 08, 2019 10:05 AM \nTo: \nSubject: clean and redline \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00031681",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 14:13:31 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,fietention_me"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "n and redline \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "2019-07-08"
+      },
+      {
+        "date": "2019-07-08",
+        "event": "July 08, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.599Z"
+}

@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "efta00028719",
+    "filename": "EFTA00028719.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028719.pdf",
+    "text": "\n\nEvent: Epstein T&E Meeting \nStart Date: 2020-01-10 16:30:00 +0000 \nEnd Date: 2020-01-10 17:30:00 +0000 \nOrganizer: (USANYS)\nLocation: s Office \nClass: X-PERSONAL \nDate Created: 2020-01-09 16:07:07 +0000 \nDate Modified: 2020-01-09 16:07:07 +0000 \nPriority: 5 \nDTSTAMP: 2020-01-08 14:55:08 +0000 \nAttendee: (USANYS) [Contractor] \n(USANYS) < \nAlarm: Display the following message 15m before start \nReminder \nEFTA00028719",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Meeting \nStart",
+        "role": "extracted",
+        "context": "Event: Epstein T&E Meeting \nStart Date: 2020-01-10 16:30:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-01-10 16:30:00 +0000 \nEnd Date: 2020-01-10 17:30:00 +0000 \nO"
+      },
+      {
+        "name": "Office \nClass",
+        "role": "extracted",
+        "context": "ganizer: (USANYS)\nLocation: s Office \nClass: X-PERSONAL \nDate Created: 20"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "s Office \nClass: X-PERSONAL \nDate Created: 2020-01-09 16:07:07 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-01-09 16:07:07 +0000 \nDate Modified: 2020-01-09 16:07:07 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-10",
+        "event": "2020-01-10"
+      },
+      {
+        "date": "2020-01-09",
+        "event": "2020-01-09"
+      },
+      {
+        "date": "2020-01-08",
+        "event": "2020-01-08"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.799Z"
+}

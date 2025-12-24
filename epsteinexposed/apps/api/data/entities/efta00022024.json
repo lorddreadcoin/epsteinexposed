@@ -1,0 +1,119 @@
+{
+  "document": {
+    "id": "efta00022024",
+    "filename": "EFTA00022024.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022024.pdf",
+    "text": "\n\nCourt Subpoena \nPrritektatates I;listrirt Court \nSOUTHERN DISTRICT OF NEW YORK \nTO: Lockheed Martin \n6801 Rockledge Drive \nBethesda, MD 20817 \nGREETINGS: \nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend \nbefore the United States District Court for the Southern District of New York, 40 Foley Square, in the \nBorough of Manhattan, City of New York, New York, in the Southern District of New York, at the \nfollowing date, time and place: \nAppearance Date: November 29, 2021 Appearance Time: 9:00 a.m. \nAppearance Place: 40 Foley Square, Courtroom 906 \nto testify and give evidence in the following matter: \nUnited States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nand not to depart the Court without leave thereof, or of the United States Attorney, and that you bring \nwith you and produce at the above time and place the following: \nRecords of any transactions by Lockheed Martin or Sikorsky with the following entities: \n• Jeffrey Epstein \n• Ghislaine Maxwell \n• Air Ghislaine Inc., a/k/a Shititka Air Inc., a/k/a Freedom Air International Inc. \nFailure to attend and produce any items hereby demanded will constitute contempt of court and will \nsubject you to civil sanctions and criminal penalties, in addition to other penalties of the Law. \nDATED: New York, New York \nJune \n21, 2021 \nAUDREY \nSTRAUSS \nUnited States Attorney for the \nSouthern District of New York \nAssistant United States Attorney \nRev. 02.01.12 \nEFTA00022024\n\nEFTA00022025",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "artin or Sikorsky with the following entities: \n• Jeffrey Epstein \n• Ghislaine Maxwell \n• Air Ghislaine Inc., a/k/a"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "idence in the following matter: \nUnited States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nand not to depart the Court wi"
+      },
+      {
+        "name": "Court Subpoena",
+        "role": "extracted",
+        "context": "Court Subpoena \nPrritektatates I;listrirt Co"
+      },
+      {
+        "name": "Lockheed Martin",
+        "role": "extracted",
+        "context": "ERN DISTRICT OF NEW YORK \nTO: Lockheed Martin \n6801 Rockledge Drive \nBethes"
+      },
+      {
+        "name": "Rockledge Drive",
+        "role": "extracted",
+        "context": "RK \nTO: Lockheed Martin \n6801 Rockledge Drive \nBethesda, MD 20817 \nGREETING"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "end \nbefore the United States District Court for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "States District Court for the Southern District of New York, 40 Foley Square,"
+      },
+      {
+        "name": "Foley Square",
+        "role": "extracted",
+        "context": "hern District of New York, 40 Foley Square, in the \nBorough of Manhattan"
+      },
+      {
+        "name": "Appearance Date",
+        "role": "extracted",
+        "context": "lowing date, time and place: \nAppearance Date: November 29, 2021 Appearance"
+      },
+      {
+        "name": "Appearance Time",
+        "role": "extracted",
+        "context": "rance Date: November 29, 2021 Appearance Time: 9:00 a.m. \nAppearance Place:"
+      },
+      {
+        "name": "Appearance Place",
+        "role": "extracted",
+        "context": "1 Appearance Time: 9:00 a.m. \nAppearance Place: 40 Foley Square, Courtroom 9"
+      },
+      {
+        "name": "Air Ghislaine",
+        "role": "extracted",
+        "context": "stein \n• Ghislaine Maxwell \n• Air Ghislaine Inc., a/k/a Shititka Air Inc."
+      },
+      {
+        "name": "Shititka Air",
+        "role": "extracted",
+        "context": "• Air Ghislaine Inc., a/k/a Shititka Air Inc., a/k/a Freedom Air Inter"
+      },
+      {
+        "name": "Freedom Air",
+        "role": "extracted",
+        "context": "/k/a Shititka Air Inc., a/k/a Freedom Air International Inc. \nFailure t"
+      },
+      {
+        "name": "International Inc",
+        "role": "extracted",
+        "context": "a Air Inc., a/k/a Freedom Air International Inc. \nFailure to attend and produ"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "outhern District of New York \nAssistant United States Attorney \nRev. 02.01.1"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "of New York \nAssistant United States Attorney \nRev. 02.01.12 \nEFTA00022024"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Drive \nBethesda, MD",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      },
+      {
+        "date": "2021-06-21",
+        "event": "June \n21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.869Z"
+}

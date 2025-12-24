@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014374",
+    "filename": "EFTA00014374.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014374.pdf",
+    "text": "\n\nFrom: \"\" \nTO: \":1\" \nSubject: t/c with counsel for Bill Richardson, re: JE case \nDate: Sun, 18 Aug 2019 21:12:39 +0000 \ntic with Jeff Brown, counsel to Bill Richardson, former governor of New Mexico \n- received call approximately 17:02, call lasted approximately four minutes \n- calling in connection with allegation / testimony released in the civil papers \n- deposition says, in sum and substance, was ordered to, but doesn't appear to say that anything actually happened \n- counsel asked what category Richardson is in w/r/t our investigation — witness / subject/ target \no I advised that in the general sense, anyone who we don't have reason to know has no exposure (witness), or \nbelieve does have exposure (target), would be a subject; more specifically here, we do not currently \nintend to subpoena or request to speak with Richardson based on our investigation at this time, and there \nare not specific allegations that we need to hear his side of at this time. \no I further advised that it would be helpful to get an attorney proffer about any knowledge or information \npertaining to Epstein that Richardson might have; counsel said he believed that would be possible to do \nbut he expected client would not have any knowledge regarding the charged conduct \n- I advised that if in the course of our investigation we did want to speak with Richardson, or inquire for additional \ninformation, we would be in touch with counsel \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00014374",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bill Richardson",
+        "role": "extracted",
+        "context": "From: \"\" \nTO: \":1\" \nSubject: t/c with counsel for Bill Richardson, re: JE case \nDate: Sun, 18 Aug 2019 21:12:39 +00"
+      },
+      {
+        "name": "Jeff Brown",
+        "role": "extracted",
+        "context": "2019 21:12:39 +0000 \ntic with Jeff Brown, counsel to Bill Richardson,"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "ichardson, former governor of New Mexico \n- received call approximatel"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "with counsel \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.721Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026456",
+    "filename": "EFTA00026456.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026456.pdf",
+    "text": "\n\nFrom: \nTo: \nBee: \"USAHUB-USAJouma1111\" alIMME> \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Memo Endorsement \nDate: Wed, 18 Nov 2020 20:16:24 +0000 \nEmbedded: FW:_Activity_in_Case_1:20-cr-00330-AJN_USA_v._Maxwell_Memo_Endorsement.msg \nSender: \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Memo Endorsement \nMessage-Id: <644ebed3acla4affibeb44230d86811e0@SN I PlI0MB0205.NAMP110.PROD.OUTLOOK.COM> \nTo: \nTo: \nTo: \nEFTA00026456",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Memo",
+        "role": "extracted",
+        "context": "Case 1:20-cr-00330-AJN USA v. Maxwell Memo Endorsement \nDate: Wed, 18 No"
+      },
+      {
+        "name": "Endorsement \nDate",
+        "role": "extracted",
+        "context": "00330-AJN USA v. Maxwell Memo Endorsement \nDate: Wed, 18 Nov 2020 20:16:24 +0"
+      },
+      {
+        "name": "Endorsement \nMessage",
+        "role": "extracted",
+        "context": "00330-AJN USA v. Maxwell Memo Endorsement \nMessage-Id: <644ebed3acla4affibeb4423"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.373Z"
+}

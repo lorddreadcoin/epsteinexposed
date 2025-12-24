@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019530",
+    "filename": "EFTA00019530.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019530.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: Epstein \nDate: Fri, 30 Nov 2018 15:39:08 +0000 \nImportance: Normal \nAttachments: Plaintiffs_Motion_08_Civ_80736.pdf; 11.29.18_Memo.docx; \nGovemment_Reply_08_Civ_80736.pdf; NPA.pdf \nMaterials attached. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10O07 \nEFTA00019530",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From• \nTo: \nSubject: Epstein \nDate: Fri, 30 Nov 2018 15:39:08 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 15:39:08 +0000 \nImportance: Normal \nAttachments: Plaintiffs_Motion_08_Civ_807"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "NPA.pdf \nMaterials attached. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s attached. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10O07 \nEFTA00019530"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.085Z"
+}

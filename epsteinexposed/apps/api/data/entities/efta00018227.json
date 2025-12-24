@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018227",
+    "filename": "EFTA00018227.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018227.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: To read on train \nDate: Fri, 17 Sep 2021 15:18:53 +0000 \nAttachments: 201 -09-28 interview_302.pdf; 2019-09-\n28 mterview \nnotes.pdf; \n20 Il arraignment_initial_conference_bail_hea ' f; 2020-05-\n09, \ninterview_notesjno_302).pdf; 2006-11-28, _302.pdf; \n201 conference.pdf \nAssistant United States Attorney \nSouthern District of New York \nNew York. New York 10007 \nEFTA00018227",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "302.pdf; \n201 conference.pdf \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ference.pdf \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York. New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2006-11-28",
+        "event": "2006-11-28"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.452Z"
+}

@@ -1,0 +1,113 @@
+{
+  "document": {
+    "id": "efta00018877",
+    "filename": "EFTA00018877.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018877.pdf",
+    "text": "\n\nCourt Subpoena \nPnitetratzrtes Alistritt (goad \nSOUTHERN DISTRICT OF NEW YORK \nTO: Insured Aircraft Title Service, LLC \n21 E Main Street, Suite 100 \nOklahoma City, OK 73104 \nGREETINGS: \nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend \nbefore the United States District Court for the Southern District of New York, 40 Foley Square, in the \nBorough of Manhattan, City of New York, New York, in the Southern District of New York, at the \nfollowing date, time and place: \nAppearance Date: November 29, 2021 Appearance Time: 9:00 a.m. \nAppearance Place: 40 Foley Square, Courtroom 906 \nto testify and give evidence in the following matter: \nUnited States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nand not to depart the Court without leave thereof, or of the United States Attorney, and that you bring \nwith you and produce at the above time and place the following: \nAll records relating to the aircraft with tail number N750A or N722JE from January 1, 2008 to the \npresent \nFailure to attend and produce any items hereby demanded will constitute contempt of court and will \nsubject you to civil sanctions and criminal penalties, in addition to other penalties of the Law. \nDATED: New York, New York \nSeptember 30, 2021 \nIs \nAUDREY \nSTRAUSS \nUnited States Attorney for the \nSouthern District of New York \nAssistant United States Attorney\nNew York, New York 10007 \nRev. 02.01.12 \nEFTA00018877",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "dence in the following matter: \nUnited States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nand not to depart the Court wi"
+      },
+      {
+        "name": "Court Subpoena",
+        "role": "extracted",
+        "context": "Court Subpoena \nPnitetratzrtes Alistritt (go"
+      },
+      {
+        "name": "Pnitetratzrtes Alistritt",
+        "role": "extracted",
+        "context": "Court Subpoena \nPnitetratzrtes Alistritt (goad \nSOUTHERN DISTRICT OF N"
+      },
+      {
+        "name": "Insured Aircraft",
+        "role": "extracted",
+        "context": "ERN DISTRICT OF NEW YORK \nTO: Insured Aircraft Title Service, LLC \n21 E Main"
+      },
+      {
+        "name": "Title Service",
+        "role": "extracted",
+        "context": "EW YORK \nTO: Insured Aircraft Title Service, LLC \n21 E Main Street, Suite"
+      },
+      {
+        "name": "Main Street",
+        "role": "extracted",
+        "context": "raft Title Service, LLC \n21 E Main Street, Suite 100 \nOklahoma City, OK"
+      },
+      {
+        "name": "Oklahoma City",
+        "role": "extracted",
+        "context": "21 E Main Street, Suite 100 \nOklahoma City, OK 73104 \nGREETINGS: \nWE COM"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "end \nbefore the United States District Court for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "States District Court for the Southern District of New York, 40 Foley Square,"
+      },
+      {
+        "name": "Foley Square",
+        "role": "extracted",
+        "context": "hern District of New York, 40 Foley Square, in the \nBorough of Manhattan"
+      },
+      {
+        "name": "Appearance Date",
+        "role": "extracted",
+        "context": "lowing date, time and place: \nAppearance Date: November 29, 2021 Appearance"
+      },
+      {
+        "name": "Appearance Time",
+        "role": "extracted",
+        "context": "rance Date: November 29, 2021 Appearance Time: 9:00 a.m. \nAppearance Place:"
+      },
+      {
+        "name": "Appearance Place",
+        "role": "extracted",
+        "context": "1 Appearance Time: 9:00 a.m. \nAppearance Place: 40 Foley Square, Courtroom 9"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "outhern District of New York \nAssistant United States Attorney\nNew York, New"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "of New York \nAssistant United States Attorney\nNew York, New York 10007 \nRev"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Oklahoma City, OK",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      },
+      {
+        "date": "2008-01-01",
+        "event": "January 1, 2008"
+      },
+      {
+        "date": "2021-09-30",
+        "event": "September 30, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.872Z"
+}

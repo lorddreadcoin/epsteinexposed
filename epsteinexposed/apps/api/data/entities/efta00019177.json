@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00019177",
+    "filename": "EFTA00019177.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019177.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Request for Press Comment re Epstein \nDate: Fri, 23 Jul 2010 19:23:21 +0000 \nImportance: Normal \nShe called me also. I  will send her an email and tell her we will not be commenting or speaking about this \nmatter. She is persistent, that's for sure. \nFrom: C. (USAFLS) \nSent: Frid!yaJly 23, 2010 3:15 PM \nTo: M, (USAFLS) \nSubject: Request for Press Comment re Epstein \nHi has called me again. She told me to read her two Internet articles and then asked \nme to call her to \"discuss\" them. Her number \nHere are the articles. I don't have any comment. \nConfidential background information: The investigation stemming from the seizure of the evidence from \nEpstein's former butler (who is referenced in the articles), is continuing. \nPlease let me know if you would like me to do anything. Thanks. \n« \nFile: Sarnoff \nArticle.pdf » \n« \nFile: \n2nd \nSarnoff \nArticle.pdf » \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFax \nEFTA00019177",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Press Comment",
+        "role": "extracted",
+        "context": "Cc: \nSubject: RE: Request for Press Comment re Epstein \nDate: Fri, 23 Jul"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Request for Press Comment re Epstein \nDate: Fri, 23 Jul 2010 19:23:21 +0"
+      },
+      {
+        "name": "Normal \nShe",
+        "role": "extracted",
+        "context": "0 19:23:21 +0000 \nImportance: Normal \nShe called me also. I  will send"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "Request for Press Comment re Epstein \nHi has called me again. She told"
+      },
+      {
+        "name": "Sarnoff \nArticle",
+        "role": "extracted",
+        "context": "o anything. Thanks. \n« \nFile: Sarnoff \nArticle.pdf » \n« \nFile: \n2nd \nSarnoff"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFax \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.444Z"
+}

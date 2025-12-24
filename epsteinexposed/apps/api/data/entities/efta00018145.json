@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018145",
+    "filename": "EFTA00018145.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018145.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: (NY) (FBI)\" \nafbi.gov> \nSubject: Re: Time to chat? \nDate: Thu, 05 Dec 2019 18:44:41 +0000 \nSure - would \n430 work? \nSent from my iPhone \nOn Dec 5, 2019, at 1:37 PM, Osborn, Michael A. (NY) (FBI) <maosbom@fbi.gov> wrote: \nHi Ted, \nAny time this afternoon for a quick status call on Epstein? \nOn Nov 25, 2019 3:29 PM, ' (USANYS)\" <1=1.> wrote: \nLet me know if you have a few minutes to connect later today or tomorrow. Thanks \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00018145",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "uld \n430 work? \nSent from my iPhone \nOn Dec 5, 2019, at 1:37 PM, Osbo"
+      },
+      {
+        "name": "Hi Ted",
+        "role": "extracted",
+        "context": "BI) <maosbom@fbi.gov> wrote: \nHi Ted, \nAny time this afternoon for"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "uick status call on Epstein? \nOn Nov 25, 2019 3:29 PM, ' (USANYS)\""
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000181"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.273Z"
+}

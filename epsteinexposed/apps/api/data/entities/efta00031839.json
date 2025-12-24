@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00031839",
+    "filename": "EFTA00031839.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031839.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Monday Grand Jury \nDate: Fri. 26 Jun 2020 17:48:40 +0000 \nSee below. Adding \nMonday 6/29 \nAUSA Case/USAO Time Indictment \n(Y/N?) \nSeal/Arrest \nwarrant? \nGhisloine \nMaxwell, \n2018R01618 \n10:00-11:30 \nConf. Room A \nY \nII:30-12:00 Y \nFrom \nSent: Friday, June 26, 2020 1:01 PM \nTo: \nCc: \nSubject: RE: Monday Grand Jury \nHi Al I, \nFyi, please see below. Thanks \nFrom: \nSe • • \nTo: \nCc: \nSubject: Monday Grand Jury \nWelcome to White Plains. Here is the schedule for Monday. Please reply with the case name and USAO number for your \ncase. This schedule may change and cases will likely be added. Please do your best to stick to your allotted time. A couple \nof pieces of information for the day in case you haven't been to White Plains: \n• Please arrive early and wear a mask as you enter the courthouse. Come to the 3rd floor. We will have fresh masks \navailable when you arrive. \n• Please have your agents park in the street or use the municipal lot near the Courthouse. \n• Dion will provide you with your room assignment for the day if you need a  place to prep or do other work. \n• You'll have access to copiers and computers to you copy/print/email. \nEFTA00031839\n\n• You must fill out a slip before you enter the grand jury which we'll provide. \n• The grand jury session will be held on the first floor in the jury assembly room. \n• There is an Elmo and laptop hookup in the al room. \n• After you vote your indictment bring it back to the third floor where it will be scanned and emailed to the duty \nmagistrate. The last person will have to do the returns at the end of the day. If you need arrest warrants and/or \nsealing please don't forget to provide the warrants and the reasons for the sealing to them. \nMonday 6/29 \nAUSA Case/USAO Time Indictment \n(Y/N1?) \nSeal/Arrest \nwarrant? \n10:00-11:30 \nConf. Room A \nY \nEFTA00031840",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monday Grand",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Monday Grand Jury \nDate: Fri. 26 Jun 2020"
+      },
+      {
+        "name": "Jury \nDate",
+        "role": "extracted",
+        "context": "c: \nSubject: RE: Monday Grand Jury \nDate: Fri. 26 Jun 2020 17:48:40 +0"
+      },
+      {
+        "name": "Adding \nMonday",
+        "role": "extracted",
+        "context": "20 17:48:40 +0000 \nSee below. Adding \nMonday 6/29 \nAUSA Case/USAO Time Ind"
+      },
+      {
+        "name": "Time Indictment",
+        "role": "extracted",
+        "context": "Monday 6/29 \nAUSA Case/USAO Time Indictment \n(Y/N?) \nSeal/Arrest \nwarrant"
+      },
+      {
+        "name": "Ghisloine \nMaxwell",
+        "role": "extracted",
+        "context": "Y/N?) \nSeal/Arrest \nwarrant? \nGhisloine \nMaxwell, \n2018R01618 \n10:00-11:30 \nCo"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "nf. Room A \nY \nII:30-12:00 Y \nFrom \nSent: Friday, June 26, 2020 1:01 P"
+      },
+      {
+        "name": "Jury \nHi",
+        "role": "extracted",
+        "context": "c: \nSubject: RE: Monday Grand Jury \nHi Al I, \nFyi, please see below."
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "Al I, \nFyi, please see below. Thanks \nFrom: \nSe • • \nTo: \nCc: \nSubject:"
+      },
+      {
+        "name": "Jury \nWelcome",
+        "role": "extracted",
+        "context": ": \nCc: \nSubject: Monday Grand Jury \nWelcome to White Plains. Here is the"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "Monday Grand Jury \nWelcome to White Plains. Here is the schedule for Mon"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-26",
+        "event": "June 26, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.013Z"
+}

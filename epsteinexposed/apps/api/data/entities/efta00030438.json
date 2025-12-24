@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030438",
+    "filename": "EFTA00030438.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030438.pdf",
+    "text": "\n\nFrom: ' )\"  \nTo: Alex Conlon <I >, Roberta Kaplan <I \nSubject: RE: Transcript from yesterday's conference \nDate: Fri, 13 Dec 2019 18:08:40 +0000 \nThis is helpful and interesting, thanks very much for sending. Among other things, notable that Judge Failla assumes, even \nwere punitive damages to be excluded, a claim \"for millions upon millions of dollars.\" \nSeparately, Robbie, I noticed near the end of the conference you mentioned, at p. 27, that: \"They [the estate and/or the \ntrustees?) have identified the sole beneficiary as Mr. Epstein's brother.\" I'm wondering if you might have a recollection of \nwhat the estate has said or represented to you about that? And if you recall whether any discussion of beneficiaries was \nin connection with the will versus the trust versus the estate, etc. Just if you feel comfortable sharing any of that \ninformation, of course—no obligation at all. And if it's more convenient to relay in real time, rather than drafting up an \nemail, please don't hesitate to give a call. No emergency or rush, but did want to ask. \nthanks, \nFrom: Alex Conlon \nSent: Thursday, December 12, 2019 18:34 \nTo: \nCc: Roberta Kaplan \nSubject: Transcript from yesterday's conference \nHi there, \nAttached is the transcript from yesterday's conference that Robbie described in the call today. \nC \nc\nM> \nTake care, \nAlex \nAlex Conlon I Kaplan Ilecker & Fink LLP \nThis email and its attachments may contain information that is confidential and/or protected from disclosure by the attomey-client. work product or other \napplicable legal privilege. \nIr \nyou are not the intended recipient of the email. please be aware that any unauthorized review, use. disclosure, dissemination. \ndistribution, or copying of this communication, or any of its contents. is strictly prohibited. If you have received this communication in error. please notify \nthe sender immediately and destroy all copies of the message from your computer system. Thank you. \nEFTA00030438",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ified the sole beneficiary as Mr. Epstein's brother.\" I'm wondering"
+      },
+      {
+        "name": "Alex Conlon",
+        "role": "extracted",
+        "context": "From: ' )\"  \nTo: Alex Conlon <I >, Roberta Kaplan <I \nSubj"
+      },
+      {
+        "name": "Roberta Kaplan",
+        "role": "extracted",
+        "context": "' )\"  \nTo: Alex Conlon <I >, Roberta Kaplan <I \nSubject: RE: Transcript f"
+      },
+      {
+        "name": "Judge Failla",
+        "role": "extracted",
+        "context": "ng other things, notable that Judge Failla assumes, even \nwere punitive"
+      },
+      {
+        "name": "Alex \nAlex",
+        "role": "extracted",
+        "context": "today. \nC \nc\nM> \nTake care, \nAlex \nAlex Conlon I Kaplan Ilecker & Fin"
+      },
+      {
+        "name": "Kaplan Ilecker",
+        "role": "extracted",
+        "context": "ke care, \nAlex \nAlex Conlon I Kaplan Ilecker & Fink LLP \nThis email and it"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-12",
+        "event": "December 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.879Z"
+}

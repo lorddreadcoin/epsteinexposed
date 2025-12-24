@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00032421",
+    "filename": "EFTA00032421.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032421.pdf",
+    "text": "\n\nFrom (USANYS)\"  \nTo: iaY) (OGA) (FBI)\" <1 \nSubject: RE: Epstein interview notes \nDate: Fri, 30 Aug 2019 17:36:13 +0000 \n(USANYS)\" \nThank you I \nFrom (NY) (OGA) \nSent: Friday, August 30, 2019 1:03 PM \nTo: \nc>; \nSubject: Epstein interview notes \nUSANYS) \nAttached are all the interview notes. 302s will be prepared during the week. \nForwarded message \nFrom:1  pAypd.org> \nDate: ug 30, 2019 12:54 I'M \nSubject: Scanned from a Xerox Multifunction Device \nTo: NY) \n(OGA)\" < \nCc: \nPlease open the attached document. It was scanned and sent to you using a Xerox Multifunction Printer. \nAttachment File Type: pdf, Multi-Page \nMultifunction Printer Location: 290 Broadway 9th FL; Joint Bank Robbery T/F \nDevice Name: P290BWAY-JEIRTF-MFD \nScanned from a Xerox Multifunction Device \nEFTA00032421",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Xerox Multifunction",
+        "role": "extracted",
+        "context": "I'M \nSubject: Scanned from a Xerox Multifunction Device \nTo: NY) \n(OGA)\" < \nCc"
+      },
+      {
+        "name": "Device \nTo",
+        "role": "extracted",
+        "context": "ed from a Xerox Multifunction Device \nTo: NY) \n(OGA)\" < \nCc: \nPlease o"
+      },
+      {
+        "name": "Attachment File",
+        "role": "extracted",
+        "context": "Xerox Multifunction Printer. \nAttachment File Type: pdf, Multi-Page \nMultif"
+      },
+      {
+        "name": "Page \nMultifunction",
+        "role": "extracted",
+        "context": "achment File Type: pdf, Multi-Page \nMultifunction Printer Location: 290 Broadwa"
+      },
+      {
+        "name": "Printer Location",
+        "role": "extracted",
+        "context": "df, Multi-Page \nMultifunction Printer Location: 290 Broadway 9th FL; Joint B"
+      },
+      {
+        "name": "Joint Bank",
+        "role": "extracted",
+        "context": "ocation: 290 Broadway 9th FL; Joint Bank Robbery T/F \nDevice Name: P29"
+      },
+      {
+        "name": "Device Name",
+        "role": "extracted",
+        "context": "h FL; Joint Bank Robbery T/F \nDevice Name: P290BWAY-JEIRTF-MFD \nScanned"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-30",
+        "event": "August 30, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.592Z"
+}

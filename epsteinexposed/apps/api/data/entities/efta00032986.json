@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00032986",
+    "filename": "EFTA00032986.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032986.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nSubject: RE: Jeffrey Epstein \nDate: Tue, 09 Jul 2019 15:26:30 +0000 \nImportance: Normal \n r   \nThanks Susan! \nFrom: \nSent: Monday, July 8, 2019 7:58 PM \nTo: \nSubject: Jeffrey Epstein \nSaw you picked up a new case today — you go girl! \nSusan G. Kellman Esq. \nFellow, American College of Trial Lawyers \nSuper \nLawyer, Since 2013 \nDisclaimer \nThis Electronic Message contains information from the Law Offices of Susan G. Kellman, and may be \nprivileged, confidential, or contain attorney work-product. This information is intended for the use of the \naddresssee only. If you are not the addressee, please note that any disclosure, copying, distribution, or other use \nof the content of this message is prohibited. \nEFTA00032986",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: ' \nTo:\" \nSubject: RE: Jeffrey Epstein \nDate: Tue, 09 Jul 2019 15:26:30 +0000 \nImportanc"
+      },
+      {
+        "name": "Thanks Susan",
+        "role": "extracted",
+        "context": "00 \nImportance: Normal \n r   \nThanks Susan! \nFrom: \nSent: Monday, July 8"
+      },
+      {
+        "name": "Kellman Esq",
+        "role": "extracted",
+        "context": "oday — you go girl! \nSusan G. Kellman Esq. \nFellow, American College of"
+      },
+      {
+        "name": "American College",
+        "role": "extracted",
+        "context": "usan G. Kellman Esq. \nFellow, American College of Trial Lawyers \nSuper \nLawy"
+      },
+      {
+        "name": "Trial Lawyers",
+        "role": "extracted",
+        "context": "Fellow, American College of Trial Lawyers \nSuper \nLawyer, Since 2013 \nD"
+      },
+      {
+        "name": "Super \nLawyer",
+        "role": "extracted",
+        "context": "can College of Trial Lawyers \nSuper \nLawyer, Since 2013 \nDisclaimer \nThis"
+      },
+      {
+        "name": "Disclaimer \nThis",
+        "role": "extracted",
+        "context": "s \nSuper \nLawyer, Since 2013 \nDisclaimer \nThis Electronic Message contains i"
+      },
+      {
+        "name": "Electronic Message",
+        "role": "extracted",
+        "context": "Since 2013 \nDisclaimer \nThis Electronic Message contains information from the"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contains information from the Law Offices of Susan G. Kellman, and may"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "July 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.977Z"
+}

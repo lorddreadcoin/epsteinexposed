@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00015711",
+    "filename": "EFTA00015711.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015711.pdf",
+    "text": "\n\nFrom: '(USANYS)\" c \nTo: ' (USANYS)\" < \nSubject: RE: Epstein \nDate: Thu, 29 Nov 2018 20:52:27 +0000 \nImportance: Normal \nI'm calling \nnow \nFrom: (USANYS) \nSent: Thursday, November 29, 2018 3:27 PM \nTo: (USANYS) \nCc: (USANYS) (USANYS)\n(USANYS) \n(USANYS) \nSubject: RE: Epstein \nI think you should reach out in the first instance and then have the GS call me. We will want to see how quickly they can \ngather the FBI investigative file from the old case. We should think about whether there is an immediate subpoena we \nshould cut to stake claim? \nFrom: (USANYS) \nSent: Thursday, November 29, 2018 3:14 PM \nTo: (USANYS) \nCc: (USANYS) < (USANYS). \n(USANYS) \ncza \nSubject: Re: Epstein \nAgreed. \nOn Nov 29, 2018, at 2:58 PM, (USANYS) \n(USANYS) \nwrote: \nMy view is that we should open on this today, and bring in FBI-NY's sex crimes squad. please let me know if you \nwant me to reach out to or if you prefer to call (the GS who overseas the squad). \nFrom: (USANYS) \nSent: Thursday, November 29, 2018 2:53 PM \nTo: \n(USANYS) \n(USANYS) < \n(USANYS) \nCc: \nSubject: Epstein \n(USANYS) (USANYS) \nAs discussed: https://www.miamiherald.com/news/local/article220097825.html \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \n>; \nEFTA00015711",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ": ' (USANYS)\" < \nSubject: RE: Epstein \nDate: Thu, 29 Nov 2018 20:52:27 +0"
+      },
+      {
+        "name": "Epstein \nAgreed",
+        "role": "extracted",
+        "context": "(USANYS) \ncza \nSubject: Re: Epstein \nAgreed. \nOn Nov 29, 2018, at 2:58 PM"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "ubject: Re: Epstein \nAgreed. \nOn Nov 29, 2018, at 2:58 PM, (USANYS"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "/local/article220097825.html \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "e220097825.html \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-11-29",
+        "event": "November 29, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.280Z"
+}

@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00021521",
+    "filename": "EFTA00021521.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021521.pdf",
+    "text": "\n\nFD\n-597 \n(Rev. \n4-13-2015) \nPage \nUNITED STATES DEPARTMENT \nOF JUSTICE \nFEDERAL \nBUREAU OF INVESTIGATION \nReceipt for \nProperty \nCase ID: \ncgie- Niq - \n30.):5\n-7 \nOn (date)   3; 4 \nj \n2 \nO \n; `; \nitem (s) listed below were: \nM\n. \nCollected/Seized \nReceived From \nB\nReturned To \nReleased To \n(Name)  \nTe cfrej E \nFr,s_kin \n(Street Address) \n(City) \n \nNtw \nNew \nof     1 \nDescription \nof Item (s):  \nJ.S.\n'Vtrgin \nIs \nIons \nDr 'Mr's  Li cencet\n_afrtathe\nDr,,itrts \nLicense, \ntic...vibe', \nLO \nM - 1•10\n1- \nSwiss \nMeLie. \nStiles \nSasso \njRciso \nU.5. \nPC\n-SS \npar \n4- \nReel \nCoverk,\ne \nPin ebn \nin \nP•ri Can \n\\NW/ \nci- (Am \ntricc.*. Eice\nrers \nCarol/  UP \nS a \nCus-l-csus\nw,c1 \nBrinier \nPreferbiqn \nCe.rcii \n(heart iMThlmsx;Aanit l   ak . rcLt)LnakeAa\n1- • \niiiiiCere \nCa\nrd) \n15come \nceslu\n`le \nPos4-11- 14.4c \nofry ) \nRe \nci-; \n7,, \nDtper+men4. of \nkiernawnd \nSccerly \nCr \nDe \n41 \nN \ndice \n0.'4 \nells:F-44y \nRecttp4- \nb\neit\nkain\nin\nK I , \nAjc . \n/6 \nZ6,3g7 \n1Pc,c4 \nMock) A 14.52 5crie.1 bLiC 06M \ngICMW3 \nSIM\nReceived By: \n  \nReceived From: \nPrinted Name/Titles S tr: \nPrintedA-Namla : \nEFTA00021521",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Property \nCase",
+        "role": "extracted",
+        "context": "F INVESTIGATION \nReceipt for \nProperty \nCase ID: \ncgie- Niq - \n30.):5\n-7"
+      },
+      {
+        "name": "Seized \nReceived",
+        "role": "extracted",
+        "context": "d below were: \nM\n. \nCollected/Seized \nReceived From \nB\nReturned To \nReleased"
+      },
+      {
+        "name": "Returned To",
+        "role": "extracted",
+        "context": "cted/Seized \nReceived From \nB\nReturned To \nReleased To \n(Name)  \nTe cfr"
+      },
+      {
+        "name": "Released To",
+        "role": "extracted",
+        "context": "Received From \nB\nReturned To \nReleased To \n(Name)  \nTe cfrej E \nFr,s_ki"
+      },
+      {
+        "name": "Street Address",
+        "role": "extracted",
+        "context": "ame)  \nTe cfrej E \nFr,s_kin \n(Street Address) \n(City) \n \nNtw \nNew \nof"
+      },
+      {
+        "name": "Ntw \nNew",
+        "role": "extracted",
+        "context": "(Street Address) \n(City) \n \nNtw \nNew \nof     1 \nDescription \nof It"
+      },
+      {
+        "name": "Vtrgin \nIs",
+        "role": "extracted",
+        "context": "ription \nof Item (s):  \nJ.S.\n'Vtrgin \nIs \nIons \nDr 'Mr's  Li cencet\n_a"
+      },
+      {
+        "name": "Ions \nDr",
+        "role": "extracted",
+        "context": "Item (s):  \nJ.S.\n'Vtrgin \nIs \nIons \nDr 'Mr's  Li cencet\n_afrtathe\nDr"
+      },
+      {
+        "name": "Swiss \nMe",
+        "role": "extracted",
+        "context": "ic...vibe', \nLO \nM - 1•10\n1- \nSwiss \nMeLie. \nStiles \nSasso \njRciso \nU"
+      },
+      {
+        "name": "Stiles \nSasso",
+        "role": "extracted",
+        "context": "M - 1•10\n1- \nSwiss \nMeLie. \nStiles \nSasso \njRciso \nU.5. \nPC\n-SS \npar \n4"
+      },
+      {
+        "name": "Reel \nCoverk",
+        "role": "extracted",
+        "context": "Rciso \nU.5. \nPC\n-SS \npar \n4- \nReel \nCoverk,\ne \nPin ebn \nin \nP•ri Can \n\\N"
+      },
+      {
+        "name": "Brinier \nPreferbiqn",
+        "role": "extracted",
+        "context": "l/  UP \nS a \nCus-l-csus\nw,c1 \nBrinier \nPreferbiqn \nCe.rcii \n(heart iMThlmsx;Aan"
+      },
+      {
+        "name": "Cere \nCa",
+        "role": "extracted",
+        "context": "ak . rcLt)LnakeAa\n1- • \niiiiiCere \nCa\nrd) \n15come \nceslu\n`le \nPos4-"
+      },
+      {
+        "name": "Sccerly \nCr",
+        "role": "extracted",
+        "context": ", \nDtper+men4. of \nkiernawnd \nSccerly \nCr \nDe \n41 \nN \ndice \n0.'4 \nells:"
+      },
+      {
+        "name": "Received By",
+        "role": "extracted",
+        "context": "5crie.1 bLiC 06M \ngICMW3 \nSIM\nReceived By: \n  \nReceived From: \nPrinted"
+      },
+      {
+        "name": "Received From",
+        "role": "extracted",
+        "context": "gICMW3 \nSIM\nReceived By: \n  \nReceived From: \nPrinted Name/Titles S tr:"
+      },
+      {
+        "name": "Printed Name",
+        "role": "extracted",
+        "context": "eived By: \n  \nReceived From: \nPrinted Name/Titles S tr: \nPrintedA-Namla"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2015-04-13",
+        "event": "4-13-2015"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.830Z"
+}

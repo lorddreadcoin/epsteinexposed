@@ -1,0 +1,57 @@
+{
+  "document": {
+    "id": "efta00014613",
+    "filename": "EFTA00014613.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014613.pdf",
+    "text": "\n\nFrom: ' \nTo: \"-\nCc: \"Youn Amanda N. FBI \n■)\"\n[Contractor]\"  \nSubject: RE: financial documents (Epstein) \nDate: Thu, 18 Jul 2019 00:46:49 +0000 \nTomorrow morning could you please burn the following folders to a disc: \nUsa.doj.gov\\ clouANYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationVI 2018 SDNY investigation \\Subpoena \nReturns \n\\American Express \nUsa.doj.gov\\ clouaNYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationV4 2018 SDNY investigation \\Subpoena \nReturns \\ Deutsche Bank \nand put the disc in an envelope addressed to: \nSpecial Agent \nDetective \nIf it's possible to get the disc by 11:30, we'll give the disc to Mandy and Paul at the conference, or if not, if you could put \nthe envelope with security and reply all that it's ready, they can pick up when convenient. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \n212.637.2415 \nEFTA00014613",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Youn Amanda",
+        "role": "extracted",
+        "context": "From: ' \nTo: \"-\nCc: \"Youn Amanda N. FBI \n■)\"\n[Contractor]\"  \nS"
+      },
+      {
+        "name": "Subpoena \nReturns",
+        "role": "extracted",
+        "context": "onVI 2018 SDNY investigation \\Subpoena \nReturns \n\\American Express \nUsa.doj.g"
+      },
+      {
+        "name": "American Express",
+        "role": "extracted",
+        "context": "tigation \\Subpoena \nReturns \n\\American Express \nUsa.doj.gov\\ clouaNYS StAndr"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "tigation \\Subpoena \nReturns \\ Deutsche Bank \nand put the disc in an envel"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "in an envelope addressed to: \nSpecial Agent \nDetective \nIf it's possible"
+      },
+      {
+        "name": "Detective \nIf",
+        "role": "extracted",
+        "context": "addressed to: \nSpecial Agent \nDetective \nIf it's possible to get the disc"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ent. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \n212.637"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "212.637.2415"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.195Z"
+}

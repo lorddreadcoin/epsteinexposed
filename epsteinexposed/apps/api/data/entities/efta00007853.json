@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00007853",
+    "filename": "EFTA00007853.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007853.pdf",
+    "text": "\n\nNEW \nYORK \ncrnr \n10025 \nEFTA00007853\n\nlk \nARCHIIIIIMI\nNEW YORK CITY \n10025 \nEFTA00007854\n\n(FT \nriviA \ncycn \nN4Ir,e \n10,0(9 \nEPSTEIN \nRESIDENCE \nF2(90L \nNiorE..s \nNLvi.ge.I.\nK„or...Tat5hE. \n•fk- rterT.pgrer7 _ \nCc:7\\61'41bl NEW \npool\n--Q,6-1- \noUAIZE. \nc,PP \nfa97L, \nA6xhir)0i.1 \nol.t7 \n5TH \nFILL \ncovEg. \nCorcAE-TE, \np,64,/irly \n17, \nVIATc-14, \nbTepc,\ngemovE. \nT. LE. \nWATER \nL , \nFL\n-E \nLF.A.K. \n1.112\n-FArE \nENITIZE. \nATeiziorz. \n358 \nEl Brillo \nWay \nPalm Beach, Florida\nARCHITECT • \nNEW YORK, NEW YORK \n1 0 0 2 1 \nEFTA00007855\n\nIF \nI \n• \n,P5-\n'Et Nt \nDENica, \n56\n5  \n61. \nfbeLl-o \n19\n4.1..t1 \nE,EA.CA-4 \nARCHITECT \nNEW YORK, NEW YORK \n1 0 0 2 \n1 \nI TEL: \nFAX: \nEFTA00007856\n\nEPSTEIN \nRESIDENCE \n358 \nEl \nBrillo \nWay \nPalm \nBeach, \nFlorida \nNEW \nYORK, \nNEW \nYORK \n1 \n0 \n0 \n2 \n1 \nTEL: \nF \nA  \nX: \nASSOCIATED \nARCHITECT \nWEST \nPALM \nBEACH, \nFLA. \nEFTA00007857\n\n5-Z81 \nEFTA00007858",
+    "pageCount": 6,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "El Brillo",
+        "role": "extracted",
+        "context": "E \nENITIZE. \nATeiziorz. \n358 \nEl Brillo \nWay \nPalm Beach, Florida\nARC"
+      },
+      {
+        "name": "Way \nPalm",
+        "role": "extracted",
+        "context": "ATeiziorz. \n358 \nEl Brillo \nWay \nPalm Beach, Florida\nARCHITECT • \nN"
+      },
+      {
+        "name": "Et Nt",
+        "role": "extracted",
+        "context": "EFTA00007855\n\nIF \nI \n• \n,P5-\n'Et Nt \nDENica, \n56\n5  \n61. \nfbeLl-o"
+      },
+      {
+        "name": "El \nBrillo",
+        "role": "extracted",
+        "context": "856\n\nEPSTEIN \nRESIDENCE \n358 \nEl \nBrillo \nWay \nPalm \nBeach, \nFlorida"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.406Z"
+}

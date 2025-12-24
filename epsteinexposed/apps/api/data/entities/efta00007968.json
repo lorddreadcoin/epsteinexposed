@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00007968",
+    "filename": "EFTA00007968.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007968.pdf",
+    "text": "\n\n- \n1111111111gellE\n11111\ngetIN \n. \nTown \nof \nPalm \nBeach \n0\n-ter   \nNA \nI \nEVIDENCE \n\" \nPolice \nDepartment \n...1 \ngs \n4 \nge \nI \nfl\nCASE, 0\n.5\n- 3 \n6 \nR \nPROPERTY, \no6-9 \n5 \nA \n• \nI\nd  \nCONTENTS \n(28/y-2_ \nv \n1 \n1 \nItem \nQuantity \nDescription \nr \nDate: \n01\n-\n.27-04 \nLab #: \n• \n•:\n• \n-• \n.• \n• \n. \n' - \nEFTA00007968\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nEFTA00007969\n\nzAt \n4 \nEFTA00007970",
+    "pageCount": 3,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "llE\n11111\ngetIN \n. \nTown \nof \nPalm \nBeach \n0\n-ter   \nNA \nI \nEVIDENCE \n\""
+      },
+      {
+        "name": "Police \nDepartment",
+        "role": "extracted",
+        "context": "0\n-ter   \nNA \nI \nEVIDENCE \n\" \nPolice \nDepartment \n...1 \ngs \n4 \nge \nI \nfl\nCASE,"
+      },
+      {
+        "name": "Item \nQuantity",
+        "role": "extracted",
+        "context": "CONTENTS \n(28/y-2_ \nv \n1 \n1 \nItem \nQuantity \nDescription \nr \nDate: \n01\n-"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.578Z"
+}

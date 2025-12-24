@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018262",
+    "filename": "EFTA00018262.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018262.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: CD for Maxwell \nDate: \nThu, 29 Oct 2020 19:57:16 +0000 \nAttachments: 2020.10.29 MDC -  Maxwell PASSWORD.pdf \nHIM, \nToday our office sent a CD with some replacement discovery files to the MDC for Ghislaine Maxwell via FedEx overnight \ndelivery. The password letter is attached. Would you please keep an eye out for it? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018262",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "h some replacement discovery files to the MDC for Ghislaine Maxwell via FedEx overnight \ndelivery. The password lette"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "m: \nTo: \nCc: \nSubject: CD for Maxwell \nDate: \nThu, 29 Oct 2020 19:57:16 +"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "an eye out for it? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018262"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.529Z"
+}

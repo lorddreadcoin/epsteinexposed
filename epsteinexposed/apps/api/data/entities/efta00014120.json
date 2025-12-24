@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014120",
+    "filename": "EFTA00014120.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014120.pdf",
+    "text": "\n\nFrom: (USAFLS)\"\nTo: ' (USAFLS)\" \nSubject: RE: Two things \nDate: Fri, 22 Aug 2008 16:11:10 +0000 \nImportance: Normal \nSure, have a  nice weekend. I saw the Order (OMG). \nSorry! \nFrom: \n(USAFLS) \nSent: Frida August 22, 2008 12:10 PM \nTo: (USAFLS) \nSubject: Two things \nHi —  Can you keep your eye out for any faxes for me from our Epstein friends and if one comes in, can \nyou scan and fax it to me? \nAlso, can you reserve the big conference room for Monday morning from 10:00 to noon for the case? \nThank you! \nAssistant U.S. Attorney \nFax \nEFTA00014120",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nSure",
+        "role": "extracted",
+        "context": "8 16:11:10 +0000 \nImportance: Normal \nSure, have a  nice weekend. I saw"
+      },
+      {
+        "name": "Frida August",
+        "role": "extracted",
+        "context": "orry! \nFrom: \n(USAFLS) \nSent: Frida August 22, 2008 12:10 PM \nTo: (USAFL"
+      },
+      {
+        "name": "Attorney \nFax",
+        "role": "extracted",
+        "context": "? \nThank you! \nAssistant U.S. Attorney \nFax \nEFTA00014120"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-08-22",
+        "event": "August 22, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.186Z"
+}

@@ -1,0 +1,91 @@
+{
+  "document": {
+    "id": "efta00013971",
+    "filename": "EFTA00013971.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013971.pdf",
+    "text": "\n\nEvent: \nStart Date: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nOrganizer: \nLocation 's ofc. \nClass: X-PERSONAL \nDate Created: 2006-05-09 15:59:01 +0000 \nDate Modified: 2006-05-09 15:59:01 +0000 \nPriority: 5 \nDTSTAMP: 2008-06-11 15:27:38 +0000 \nAttendee: \nAlarm: Display the following message 15m before start \nReminder \nWhen: Friday, June 13, 2008 10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere:E's ofc. \n*     * * * * * * * \n*  * \nyou can participate by phone. Let me know best number, Thanks, \n  Original Message \nFrom: USAFLS) \nTo: \nCc: \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE: Epstein \nS  oke with Everyone is good for 10:00 this Friday morning.Mvill be callingMffice \nEFTA00013971\n\nFrom: \n(USAFLS) \nSent: \nWednesday, June 11, 2008 \n10:21 AM \nTo: \nCc: \nSubject: RE: \nEpstein \nI'm available \nanytime \nFro \n(USAFLS) \nSent: \nWednesday, June 11, 2008 \n10:09 AM \nTo: \nCc: \nSubject: RE: \nEpstein \nAbsolutely, I'm \navailable from 10 \nto 11 and after 11 \nhave a conflict. \nFrom: \n(ODAG) (SMO) \nSent: \nWednesday, June 11, 2008 \n10:02 AM \nTo \nCc \nSubject: Epstein \nEFTA00013972\n\nWould you guys be \navailable Friday morning by \ntelephone to discuss? \nEFTA00013973",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: \nStart Date: 2008-06-13 14:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "n 's ofc. \nClass: X-PERSONAL \nDate Created: 2006-05-09 15:59:01 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2006-05-09 15:59:01 +0000 \nDate Modified: 2006-05-09 15:59:01 +0000 \nP"
+      },
+      {
+        "name": "Reminder \nWhen",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \nWhen: Friday, June 13, 2008 10:00"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere:E's ofc"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "know best number, Thanks, \n  Original Message \nFrom: USAFLS) \nTo: \nCc: \nSen"
+      },
+      {
+        "name": "Wed Jun",
+        "role": "extracted",
+        "context": "rom: USAFLS) \nTo: \nCc: \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE"
+      },
+      {
+        "name": "Epstein \nAbsolutely",
+        "role": "extracted",
+        "context": "9 AM \nTo: \nCc: \nSubject: RE: \nEpstein \nAbsolutely, I'm \navailable from 10 \nto 1"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "day, June 11, 2008 \n10:02 AM \nTo \nCc \nSubject: Epstein \nEFTA000139"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-06-13",
+        "event": "2008-06-13"
+      },
+      {
+        "date": "2006-05-09",
+        "event": "2006-05-09"
+      },
+      {
+        "date": "2008-06-11",
+        "event": "2008-06-11"
+      },
+      {
+        "date": "2008-06-13",
+        "event": "June 13, 2008"
+      },
+      {
+        "date": "2008-06-11",
+        "event": "June 11, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.849Z"
+}

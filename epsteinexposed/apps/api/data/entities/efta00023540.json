@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023540",
+    "filename": "EFTA00023540.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023540.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nDate: Mon, 14 Sep 2020 20:07:55 +0000 \nTerrific, thanks so much. \nFrom: \nSent: Monday, September 14, 2020 4:07 PM \nTo  \nSubject: RE: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nYep I got it. It's downloading now but will take a  little while. It's about 11GB. \nFrom: \nSent: Monday, September 14, 2020 4:06 PM \nTo: \nSubject: RE: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nForwarded it. All good? \nFrom: \nSent: Monday, September 14, 2020 3:51 PM \nTo: \nSubject: RE: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nWill you \nforward the confirmation link once it comes in? \nFrom: \nSent: Monday, September 14, 2020 3:33 PM \nTo: \nSubject: FW: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nPBSA is giving us their entire Epstein file. \nWill, when I get the email with the info about how to download the file, I'll forward it to you. Would you please download \neverything and save it on the share? You can put it here \nUSvEpstein-\n2018R01618\\ Investigation \\ PBSA Epstein File \n Original Message \nFrom: \nSent: Monday, September 14, 2020 3:23 PM \nTo: \nSubject: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nThe attached document is in regard to the above referenced case, to which you are a party of or have an interest in. If \nyou have any questions, please contact our office at \nEFTA00023540",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To  \nSubject",
+        "role": "extracted",
+        "context": ", September 14, 2020 4:07 PM \nTo  \nSubject: RE: Subject: JEFFREY E EPSTE"
+      },
+      {
+        "name": "Epstein File",
+        "role": "extracted",
+        "context": "8R01618\\ Investigation \\ PBSA Epstein File \n Original Message \nFrom: \nSe"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "igation \\ PBSA Epstein File \n Original Message \nFrom: \nSent: Monday, Septemb"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-14",
+        "event": "September 14, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.134Z"
+}

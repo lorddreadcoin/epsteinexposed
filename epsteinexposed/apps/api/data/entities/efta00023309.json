@@ -1,0 +1,109 @@
+{
+  "document": {
+    "id": "efta00023309",
+    "filename": "EFTA00023309.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023309.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Fwd: Your ride with an March 2 \nDate: Tue, 03 Mar 2020 17:01:26 +0000 \nSent from my iPhone \nBegin forwarded message: \nFrom: Lyft Ride Receipt \nDate- March 3 /WO at  10. 57.41 AM EST \nTo: \nSubject: Your ride with an March 2 \ndyft \nMARCH 2, 2020 AT 11:13 PM \nThanks for riding with \n100% of tips go to drivers. Add a tip \nLyft fare (12.89m1, 37m 5s) $50.01 \nNew York Sales Tax $4.26 \nBlack Car Fund Surcharge $1.20 \nTip $5.00 \nis] Business Rewards Credit -$2.02 \nPickup 11:13 PM \n, New York, NY \nRide Map \n$58.45 \nEFTA00023309\n\nDrop-off \nTIP DRIVER \nFIND LOST ITEM \nREQUEST REVIEW \nReview price in the Lyft app help tab \nTo protect against unauthorized behavior, you may see an authorization hold on your bank \nstatement. This is to verify your payment method and will not be charged. \nDispatching Base: Tri-City (B02510). Affiliated Base: (B02617) \nVehicle License Number: T770243C. Driver TLC License: 5798843. \nTo submit a complaint to the NYC TLC, please call 311. \nHelp Center \nReceipt #1378273950539310170 \nWe never share your address with your driver after a ride. \nLearn more about our commitment to safety. \n© Mapbox © OpenStreetMap \nImprove this map \n© 2020 Lyft, Inc. \n548 Market St., P.O. Box 68514 \nSan Francisco, CA 94104 \nCPUC ID No. TCP0032513 - P \nWork at Lyft \nBecome a Driver \nEFTA00023310",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "17:01:26 +0000 \nSent from my iPhone \nBegin forwarded message: \nFrom: Lyf"
+      },
+      {
+        "name": "Lyft Ride",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Lyft Ride Receipt \nDate- March 3 /WO at"
+      },
+      {
+        "name": "Receipt \nDate",
+        "role": "extracted",
+        "context": "ded message: \nFrom: Lyft Ride Receipt \nDate- March 3 /WO at  10. 57.41 AM"
+      },
+      {
+        "name": "Sales Tax",
+        "role": "extracted",
+        "context": "9m1, 37m 5s) $50.01 \nNew York Sales Tax $4.26 \nBlack Car Fund Surchar"
+      },
+      {
+        "name": "Black Car",
+        "role": "extracted",
+        "context": "01 \nNew York Sales Tax $4.26 \nBlack Car Fund Surcharge $1.20 \nTip $5."
+      },
+      {
+        "name": "Fund Surcharge",
+        "role": "extracted",
+        "context": "rk Sales Tax $4.26 \nBlack Car Fund Surcharge $1.20 \nTip $5.00 \nis] Busines"
+      },
+      {
+        "name": "Business Rewards",
+        "role": "extracted",
+        "context": "rcharge $1.20 \nTip $5.00 \nis] Business Rewards Credit -$2.02 \nPickup 11:13 P"
+      },
+      {
+        "name": "Ride Map",
+        "role": "extracted",
+        "context": "kup 11:13 PM \n, New York, NY \nRide Map \n$58.45 \nEFTA00023309\n\nDrop-o"
+      },
+      {
+        "name": "Dispatching Base",
+        "role": "extracted",
+        "context": "hod and will not be charged. \nDispatching Base: Tri-City (B02510). Affiliate"
+      },
+      {
+        "name": "Affiliated Base",
+        "role": "extracted",
+        "context": "hing Base: Tri-City (B02510). Affiliated Base: (B02617) \nVehicle License Nu"
+      },
+      {
+        "name": "Vehicle License",
+        "role": "extracted",
+        "context": "). Affiliated Base: (B02617) \nVehicle License Number: T770243C. Driver TLC"
+      },
+      {
+        "name": "Help Center",
+        "role": "extracted",
+        "context": "he NYC TLC, please call 311. \nHelp Center \nReceipt #1378273950539310170"
+      },
+      {
+        "name": "Map \nImprove",
+        "role": "extracted",
+        "context": "safety. \n© Mapbox © OpenStreetMap \nImprove this map \n© 2020 Lyft, Inc."
+      },
+      {
+        "name": "Market St",
+        "role": "extracted",
+        "context": "s map \n© 2020 Lyft, Inc. \n548 Market St., P.O. Box 68514 \nSan Francis"
+      },
+      {
+        "name": "Lyft \nBecome",
+        "role": "extracted",
+        "context": "D No. TCP0032513 - P \nWork at Lyft \nBecome a Driver \nEFTA00023310"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      },
+      {
+        "name": "San Francisco, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-03-02",
+        "event": "MARCH 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.685Z"
+}

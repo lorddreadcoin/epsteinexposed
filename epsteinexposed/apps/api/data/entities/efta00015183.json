@@ -1,0 +1,93 @@
+{
+  "document": {
+    "id": "efta00015183",
+    "filename": "EFTA00015183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015183.pdf",
+    "text": "\n\n09 \n12002 \nAccount Number: \n0 \n79961-00-1 \nJEFFREY EPSTEIN September 01, 2002 - September 30, 2002 \nJPMorgan Chase Bank \n345 Park Avenue, New York, NY 10154-1002 \nJPMorgan Private Bank \nAsset Account Portfolio Page 8 of 9 \nActivity by Date \nSealenteen \nOne type \ncontinued \nGummy Descraalon Amounr USD \nSep 16 Misc. \nDisbursement TRANSFERRED BY \nWIRE TO - 1,000,000 00 \nPALM \nBEACH NATI BK 8 TR CO \nFAO \nJEFFREY EPSTEIN \nLETTER FROM CLIENT \nSep 18 Sale - 5,000,000 J P MORGAN TAX FREE MONEY MARKET 5,000,000 00 \nFUND INSTITUTIONAL SHARE CLASS \n(FUND 840) \nJ.P.MORGAN SECURITIES INC AS AGENT \nSep 18 Misc. Disbursement \na 1.00 \nTRADE \nDATE 09/18/02 \nTRANSFERRED BY \nWIRE TO \nPALM BEACH NATL BK 8 TR CO \nFAO GHISLAINE MAXWELL \nLETTER \nFROM CLIENT \n- 5,000,000.00 \nConfidential Treatment Requested by JPMorgan JPM-SDNY-00005512 \nChase \nEFTA00015183",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "09 \n12002 \nAccount Number: \n0 \n79961-00-1 \nJEFFREY EPSTEIN September 01, 2002 - September 30, 2002 \nJPMorgan"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "RRED BY \nWIRE TO \nPALM BEACH NATL BK 8 TR CO \nFAO GHISLAINE MAXWELL \nLETTER \nFROM CLIENT \n- 5,000,000.00 \nConfidentia"
+      },
+      {
+        "name": "Account Number",
+        "role": "extracted",
+        "context": "09 \n12002 \nAccount Number: \n0 \n79961-00-1 \nJEFFREY EPST"
+      },
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "2002 - September 30, 2002 \nJPMorgan Chase Bank \n345 Park Avenue, New Yo"
+      },
+      {
+        "name": "Park Avenue",
+        "role": "extracted",
+        "context": "002 \nJPMorgan Chase Bank \n345 Park Avenue, New York, NY 10154-1002 \nJPM"
+      },
+      {
+        "name": "Morgan Private",
+        "role": "extracted",
+        "context": "e, New York, NY 10154-1002 \nJPMorgan Private Bank \nAsset Account Portfolio"
+      },
+      {
+        "name": "Bank \nAsset",
+        "role": "extracted",
+        "context": "10154-1002 \nJPMorgan Private Bank \nAsset Account Portfolio Page 8 of 9"
+      },
+      {
+        "name": "Account Portfolio",
+        "role": "extracted",
+        "context": "JPMorgan Private Bank \nAsset Account Portfolio Page 8 of 9 \nActivity by Date"
+      },
+      {
+        "name": "Date \nSealenteen",
+        "role": "extracted",
+        "context": "olio Page 8 of 9 \nActivity by Date \nSealenteen \nOne type \ncontinued \nGummy D"
+      },
+      {
+        "name": "Gummy Descraalon",
+        "role": "extracted",
+        "context": "lenteen \nOne type \ncontinued \nGummy Descraalon Amounr USD \nSep 16 Misc. \nDis"
+      },
+      {
+        "name": "Confidential Treatment",
+        "role": "extracted",
+        "context": "FROM CLIENT \n- 5,000,000.00 \nConfidential Treatment Requested by JPMorgan JPM-SDN"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2002-09-01",
+        "event": "September 01, 2002"
+      },
+      {
+        "date": "2002-09-30",
+        "event": "September 30, 2002"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.154Z"
+}

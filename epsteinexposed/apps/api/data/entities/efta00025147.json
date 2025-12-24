@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00025147",
+    "filename": "EFTA00025147.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025147.pdf",
+    "text": "\n\nFrom: Nicole \nSimmons < \nTo: 'Nathan NYSD Chambers' < \nCc: Jeff Pa liuca Laura Mennin \nSubject: [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Ms. \nMaxwell's Reply ISO \nMotions in Limine] \nDate: Thu, 28 Oct 2021 03:52:55 +0000 \nAttachments: Ms._Maxwell's_Reply_ISO_Motns_in_Limine.zip \nInline-Images: image001.jpg \nDear Judge Nathan: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxwell's Reply In Support of Her Motions in Limine and \nsupporting documents. \nRegards, \nNicole Simmons \nNicole Simmons \nHaddon, Morgan and \nForeman P C. \nDenver, Colorado \nwww.hmflaw.com \nEFTA00025147",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "l, Case No. 20 Cr. 330 (AJN) [Ms. \nMaxwell's Reply ISO \nMotions in"
+      },
+      {
+        "name": "Nicole \nSimmons",
+        "role": "extracted",
+        "context": "From: Nicole \nSimmons < \nTo: 'Nathan NYSD Chambers'"
+      },
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": "'Nathan NYSD Chambers' < \nCc: Jeff Pa liuca Laura Mennin \nSubject:"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "hambers' < \nCc: Jeff Pa liuca Laura Mennin \nSubject: [EXTERNAL] U.S. v."
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": ": [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Ms. \nMaxwe"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "Inline-Images: image001.jpg \nDear Judge Nathan: \nAt the request of Je"
+      },
+      {
+        "name": "Jeffrey Pagliuca",
+        "role": "extracted",
+        "context": "ge Nathan: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxw"
+      },
+      {
+        "name": "Reply In",
+        "role": "extracted",
+        "context": "se see attached Ms. Maxwell's Reply In Support of Her Motions in Lim"
+      },
+      {
+        "name": "Her Motions",
+        "role": "extracted",
+        "context": "Maxwell's Reply In Support of Her Motions in Limine and \nsupporting doc"
+      },
+      {
+        "name": "Nicole Simmons",
+        "role": "extracted",
+        "context": "porting documents. \nRegards, \nNicole Simmons \nNicole Simmons \nHaddon, Morg"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.574Z"
+}

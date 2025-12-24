@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00017843",
+    "filename": "EFTA00017843.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017843.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: 3500 \nDate: Fri, 27 Aug 2021 22:31:20 +0000 \nAttachments: \nHi, \nWould you please save the attached in \nThanks! \n3500 and witness folders on the Epstein share? \nEFTA00017843",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: 3500 \nDate: Fri"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: 3500 \nDate: Fri, 27 Aug 2021"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.720Z"
+}

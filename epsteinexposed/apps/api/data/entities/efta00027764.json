@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027764",
+    "filename": "EFTA00027764.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027764.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: FW: Indexes \nDate: Mon, 20 May 2019 18:26:59 +0000 \nImportance: Normal \nAttachments: Copy_of Sentinel_Reportof 1A-1C-Report-1.xlsx; SENTINEL_Evidence_Report-\n20190517-1832.xlsx; SENTINEL_Serial-Report-4.xlsx \nWill put on the share. \n \nOri final Messa. e \nFrom: \nSent: Monda \nTo: \nSubject: Indexes \nMa 20, 2019 2:26 PM \nHi \nasked that I send these to you. Let me know if you have \nquestions. \nThanks, \nFBI New York \nVCAC/Human Trafficking \nEFTA00027764",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Indexes \nDate",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: FW: Indexes \nDate: Mon, 20 May 2019 18:26:59 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:26:59 +0000 \nImportance: Normal \nAttachments: Copy_of Sentinel_Reportof 1A"
+      },
+      {
+        "name": "Monda \nTo",
+        "role": "extracted",
+        "context": "final Messa. e \nFrom: \nSent: Monda \nTo: \nSubject: Indexes \nMa 20, 20"
+      },
+      {
+        "name": "Indexes \nMa",
+        "role": "extracted",
+        "context": ": \nSent: Monda \nTo: \nSubject: Indexes \nMa 20, 2019 2:26 PM \nHi \nasked t"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "Thanks, \nFBI New York \nVCAC/Human Trafficking \nEFTA00027764"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-20",
+        "event": "20 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.932Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029860",
+    "filename": "EFTA00029860.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029860.pdf",
+    "text": "\n\nFrom: \nTo: \nSANYS \" \nContractor]\" -\nUSANYS \n\" \nSubject: GM \nDate: Wed, 01 Jul 2020 16:19:23 +0000 \n(USANYS)\" \nczMINIMIIM> \nUSANYS) \nUSANYS)\" \n(USANYS)\" \nFYI, FBI's press office got a call from NBC, saying they were hearing there was \"movement\" on the Epstein investigation \n(the reporter mentioned GM, Prince Andrew and some other things, seeming to lean toward GM but not specific). He \nsaid they weren't running anything soon but were looking at it. FBI did not comment, and is letting their national press \noffice know that if they get any inquiries they should refer to NY. \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \nEFTA00029860",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "pstein investigation \n(the reporter mentioned GM, Prince Andrew and some other things, seeming to lean toward GM"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "y should refer to NY. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.398Z"
+}

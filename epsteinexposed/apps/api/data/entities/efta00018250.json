@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018250",
+    "filename": "EFTA00018250.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018250.pdf",
+    "text": "\n\nFrom: \n'\n:' \nTo:'\nSubject: \nhttps://app.criticalmention.corn/appfillivort/13bd706a-5524-427c-ae46-57c3f473e775 \nDate: Fri, 10 Jan 2020 19:58:30 +0000 \nTruth and Lies: Jeffrey Epstein got about 3.5 million viewers last night. Report attached. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nI \nEFTA00018250",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Fri, 10 Jan 2020 19:58:30 +0000 \nTruth and Lies: Jeffrey Epstein got about 3.5 million viewers last night. Report"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "last night. Report attached. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nI \nEFTA00018250"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.502Z"
+}

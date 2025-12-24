@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00027440",
+    "filename": "EFTA00027440.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027440.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: FW: victim notification \nDate: Wed, 09 Dec 2020 00:00:15 +0000 \nThis looks good to me, with one suggestion below. \nFrom• \nSent: Tuesday, December 8, 2020 6:46 PM \nTo: (USANYS); (USANYS) \nCc: \nI \n; (USANYS) \nSubject: victim notification \nBelow is the text we would propose for a victim notification letter. We would plan to use VNS, and the letter is styled \naccordingly. One note: the letter does not expressly reference the CVRA, because other DOJ components are currently \nlitigating whether the CVRA applies in the context of a pre-indictment plea (the issue is currently before the Eleventh \nCircuit, en banc). Since we're giving notice here regardless of whether it's required, because that's the right thing to do, \nthere's no need to include language that touches on the CVRA issue. \nThanks, \nDear [Name]: \nRe: [Epstein case name auto generated from the VNS system] \nThe enclosed information is provided by the United States Department of Justice Victim Notification System (VNS). As a \nvictim witness professional, my role is to assist you with information and services during this case. I am contacting you \nbecause you were identified by law enforcement as a victim or potential victim during the investigation of the above \ncriminal case. \nIn connection with the above-referenced investigation, the United States Attorney's Office for the Southern District of \nNew York intends to issue a felony plea offer towed who is also known as \nis currently not charged with any criminal offenses, and this office has not yet extended any plea offer to her. \nIf you have any questions about the felony plea offer, or if you wish to inform the prosecutor of your views regarding a \npotential plea agreement, please contact the prosecutors in this case by [date]. This office will not issue a plea offer \nbefore [date], in order to provide time for victims to confer with the prosecutors in this case. \nThe prosecutors for this case are S and If you would like to arrange a time to \nspeak with the prosecutors in this case, please either ask your attorney to contact the prosecutors directly, or if you are \nnot represented by counsel, please contact Victim / Witness Coordinator, at \nIf a plea hearing is scheduled in this case, we will notify you of available information as soon as practicable. \nSincerely, \nActing United States Attorney \nVictim Witness Coordinator \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00027440",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Eleventh \nCircuit",
+        "role": "extracted",
+        "context": "issue is currently before the Eleventh \nCircuit, en banc). Since we're giving"
+      },
+      {
+        "name": "Justice Victim",
+        "role": "extracted",
+        "context": "e United States Department of Justice Victim Notification System (VNS). As"
+      },
+      {
+        "name": "Notification System",
+        "role": "extracted",
+        "context": "Department of Justice Victim Notification System (VNS). As a \nvictim witness p"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tes Attorney's Office for the Southern District of \nNew York intends to issue"
+      },
+      {
+        "name": "Witness Coordinator",
+        "role": "extracted",
+        "context": "nsel, please contact Victim / Witness Coordinator, at \nIf a plea hearing is sch"
+      },
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "as practicable. \nSincerely, \nActing United States Attorney \nVictim Witne"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nSincerely, \nActing United States Attorney \nVictim Witness Coordinator"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "cting United States Attorney \nVictim Witness Coordinator \nAssistant United"
+      },
+      {
+        "name": "Coordinator \nAssistant",
+        "role": "extracted",
+        "context": "ates Attorney \nVictim Witness Coordinator \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ator \nAssistant United States Attorney \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-08",
+        "event": "December 8, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.282Z"
+}

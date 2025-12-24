@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00025100",
+    "filename": "EFTA00025100.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025100.pdf",
+    "text": "\n\nFrom: \"etrovelservicesa <> \nTo: r, \nSubject: Final Voucher 10810811(1) prepared by a travel arranger is pending your review \nDate: Thu, 21 Nov 2019 01:18:23 +0000 \nImportance: Normal \nDea \nFinal voucher 10810811(1) has been prepared by your travel arranger and is ready for your review. Please log \ninto E2 Solutions to review the document. \nTrip ID: 10810811 \nVoucher ID: 1 \nVoucher type: Final \nTraveler name: \nPurpose: R20NYS 13176 - Epstein investigation (2018R01618) - Witness Interviews \nDestination: Santa Monica (City), CA, United States \nDates: 2019-11-14 - 2019-11-15 \nCurrent status: Pending Voucher Approval \nVoucher total expenses: 740.28 \nEstimated trip cost: 1067.95 \nE2 Sin le Si r  On Lo in within DOJ Network Only): \nE2 Manual Lo in User ID and Password): \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from \nus. \nReference ID# V0012 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00025100",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Final Voucher",
+        "role": "extracted",
+        "context": "ervicesa <> \nTo: r, \nSubject: Final Voucher 10810811(1) prepared by a tra"
+      },
+      {
+        "name": "Normal \nDea",
+        "role": "extracted",
+        "context": "9 01:18:23 +0000 \nImportance: Normal \nDea \nFinal voucher 10810811(1) ha"
+      },
+      {
+        "name": "Final \nTraveler",
+        "role": "extracted",
+        "context": "Voucher ID: 1 \nVoucher type: Final \nTraveler name: \nPurpose: R20NYS 13176"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "investigation (2018R01618) - Witness Interviews \nDestination: Santa Monica (C"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "ness Interviews \nDestination: Santa Monica (City), CA, United States \nDa"
+      },
+      {
+        "name": "Pending Voucher",
+        "role": "extracted",
+        "context": "- 2019-11-15 \nCurrent status: Pending Voucher Approval \nVoucher total expen"
+      },
+      {
+        "name": "Approval \nVoucher",
+        "role": "extracted",
+        "context": "rrent status: Pending Voucher Approval \nVoucher total expenses: 740.28 \nEstim"
+      },
+      {
+        "name": "On Lo",
+        "role": "extracted",
+        "context": "ost: 1067.95 \nE2 Sin le Si r  On Lo in within DOJ Network Only):"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "le Si r  On Lo in within DOJ Network Only): \nE2 Manual Lo in User ID an"
+      },
+      {
+        "name": "Manual Lo",
+        "role": "extracted",
+        "context": "within DOJ Network Only): \nE2 Manual Lo in User ID and Password): \nTh"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-14",
+        "event": "2019-11-14"
+      },
+      {
+        "date": "2019-11-15",
+        "event": "2019-11-15"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.473Z"
+}

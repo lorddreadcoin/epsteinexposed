@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032598",
+    "filename": "EFTA00032598.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032598.pdf",
+    "text": "\n\nFrom: ' \nTo: \nCc: ' \" ' \nI, H \nSubject: FW: [EXTERNAL] Letter from Client \"Confidential Communication\" \nDate: Fri, 19 Nov 2021 22:46:24 +0000 \nAttachments: PRIVATE AND CONFIDENTIAL_2.pdf \nHi M. \nWould you please add this to NTW fo \nThanks, \nFrom: \nI \nSent: Friday, November 19, 2021 3:38 PM \nTo: \n>; I\nSubject: Fwd: [EXTERNAL] Letter from Client\"Confidential Communication\" \nBegin forwarded message: \nFrom: \nDate: November 19, 2021 at 3:28:49 PM EST \nTo:\" \nl\" \nTo All Concerned: Please find the attached letter authored by my Client \nCordially, \nEFTA00032598",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Confidential Communication",
+        "role": "extracted",
+        "context": "EXTERNAL] Letter from Client \"Confidential Communication\" \nDate: Fri, 19 Nov 2021 22:4"
+      },
+      {
+        "name": "To All",
+        "role": "extracted",
+        "context": "at 3:28:49 PM EST \nTo:\" \nl\" \nTo All Concerned: Please find the at"
+      },
+      {
+        "name": "Client \nCordially",
+        "role": "extracted",
+        "context": "ttached letter authored by my Client \nCordially, \nEFTA00032598"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-19",
+        "event": "November 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.041Z"
+}

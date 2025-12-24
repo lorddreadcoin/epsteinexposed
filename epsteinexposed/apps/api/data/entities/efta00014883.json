@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014883",
+    "filename": "EFTA00014883.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014883.pdf",
+    "text": "\n\nFrom: \n\" alMil. \nTo: (USANYS)\"\nSubject: \nDate: Wed, 24 Nov 2021 22:34:00 +0000 \nAttachments: ATTORNEY_NARRATIVE_8_28_20_Epstein_VCP_Claim_Submission_Redacted.pdf \nAssistant United States Attorney \nSouthern District of New York \nEFTA00014883",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "laim_Submission_Redacted.pdf \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "edacted.pdf \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00014883"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.761Z"
+}

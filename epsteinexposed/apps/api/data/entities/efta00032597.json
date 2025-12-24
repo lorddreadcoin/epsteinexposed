@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032597",
+    "filename": "EFTA00032597.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032597.pdf",
+    "text": "\n\nFrom: alMIE> \nTo: \nMIMr \n<a, \n(USANYS)\" \nCc: '\n> \n'n \n(USANYS)\"\nSubject: Motion to \nquash \nDate: mu, 18 Nov 2021 14:08:16 +0000 \nAttachments: 2021.11.18_Mot_to_quash_v2.docx; \n2021.11.14 Mtn for Order_Auth_a_Sub_Pursnt_to_F.R.Crim.P 17(c) \n(3)_re.M.W.pdf; 2021.11.14_Ex._1.pdf \nHey \nChiefs, \nAttached is the draft motion to quash the defense subpoena, along with their motion and subpoena for your reference. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00032597",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nChiefs",
+        "role": "extracted",
+        "context": ".W.pdf; 2021.11.14_Ex._1.pdf \nHey \nChiefs, \nAttached is the draft motio"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "for your reference. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.038Z"
+}

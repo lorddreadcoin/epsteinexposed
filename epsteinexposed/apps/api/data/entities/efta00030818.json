@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030818",
+    "filename": "EFTA00030818.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030818.pdf",
+    "text": "\n\nFrom: \nTo: \n)II \n)\" < \nSubject: sw \nDate: Sun, 07 Jul 2019 01:32:03 +0000 \nImportance: Normal \nAttachments: /2.docx \nAttached is a quick (rough!) draft. I didn't really edit the rider, except to add a few bullet points as reminders, because I \nam not sure what the scope of the search we are seeking is. Can you guys review and take a  crack at it? FBI has asked us \nto do this quickly, so if we could all focus on this for the moment, I'd really appreciate it. Thanks. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00030818",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 01:32:03 +0000 \nImportance: Normal \nAttachments: /2.docx \nAttached is a quick"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "eally appreciate it. Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "it. Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00030818"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.735Z"
+}

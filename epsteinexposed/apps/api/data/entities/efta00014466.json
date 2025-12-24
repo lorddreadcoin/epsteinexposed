@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014466",
+    "filename": "EFTA00014466.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014466.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' \nSubject: Epstein \nDate: Thu, 27 Jun 2019 20:28:51 +0000 \nImportance: Normal \nWe obtained the list of victims in the side-letter to the NPA, and confirmed that our principal NY victim is not on it — it \nappears that all the victims are Florida. \nPublic Corruption Unit \nUnited Stotes Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nt. \nEFTA00014466",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: ' \nSubject: Epstein \nDate: Thu, 27 Jun 2019 20:28:51 +0"
+      },
+      {
+        "name": "Normal \nWe",
+        "role": "extracted",
+        "context": "9 20:28:51 +0000 \nImportance: Normal \nWe obtained the list of victims"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "all the victims are Florida. \nPublic Corruption Unit \nUnited Stotes Attorney'"
+      },
+      {
+        "name": "Unit \nUnited",
+        "role": "extracted",
+        "context": "e Florida. \nPublic Corruption Unit \nUnited Stotes Attorney's Office for"
+      },
+      {
+        "name": "Stotes Attorney",
+        "role": "extracted",
+        "context": "ublic Corruption Unit \nUnited Stotes Attorney's Office for the \nSouthern Di"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.904Z"
+}

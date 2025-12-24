@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013520",
+    "filename": "EFTA00013520.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013520.pdf",
+    "text": "\n\nFrom: \"IIIIIMI(USAFLS)\" \n<O=USA/OU=FLS/CN=RECIPIENTS/CN=.> \nTo:'\nCc: \" \n(USAFLS)\" \nSubject: RE: Epstein settlement agreement \nDate: Tue, 30 Oct 2007 13:53:41 +0000 \nImportance: Normal \nThank-you \nFrom: \nSent: Monda October 29, 2007 9:22 PM \nTo: (USAFLS) \nSubject: Epstein settlement agreement \nGood evening. I am the ASA with the Epstein case in Palm Beach County. The negotiated settlement is a \ndefinite go. A difficulty arose last week at a conference with the judge on the case. She wants the plea and \nsentence to occur concurrently; not a plea with a sentencing at a later date. Therefore, the case was set for the \nfirst week of January, but the plea and sentence will definitely occur before the January 4th date that was agreed \non by all for the sentencing. \nIf you have any questions, please contact me at \nEFTA00013520",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "7 13:53:41 +0000 \nImportance: Normal \nThank-you \nFrom: \nSent: Monda Octob"
+      },
+      {
+        "name": "Monda October",
+        "role": "extracted",
+        "context": "rmal \nThank-you \nFrom: \nSent: Monda October 29, 2007 9:22 PM \nTo: (USAFLS"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ASA with the Epstein case in Palm Beach County. The negotiated settle"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-10-29",
+        "event": "October 29, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.769Z"
+}

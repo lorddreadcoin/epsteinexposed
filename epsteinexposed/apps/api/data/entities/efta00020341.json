@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020341",
+    "filename": "EFTA00020341.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020341.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein Bail Statement \nDate: Wed, 17 Jul 2019 22:34:07 +0000 \nWhat's their concern? \nFrom: \nSent: Wednesday, July 17, 2019 5:17 PM \nTo: \nCc: \nSubject: Epstein Bail Statement \nWe conferred with and ■ they expressed misgivings about making any statements regarding detention and at \nthis point, we agree. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nMobile: Press Office: \nEFTA00020341",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Bail",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein Bail Statement \nDate: Wed, 17 Jul"
+      },
+      {
+        "name": "Statement \nDate",
+        "role": "extracted",
+        "context": "c: \nSubject: RE: Epstein Bail Statement \nDate: Wed, 17 Jul 2019 22:34:07 +0"
+      },
+      {
+        "name": "Statement \nWe",
+        "role": "extracted",
+        "context": ": \nCc: \nSubject: Epstein Bail Statement \nWe conferred with and ■ they exp"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "nd at \nthis point, we agree. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nMobile: Press Of"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "District of New York \nMobile: Press Office: \nEFTA00020341"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-17",
+        "event": "July 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.666Z"
+}

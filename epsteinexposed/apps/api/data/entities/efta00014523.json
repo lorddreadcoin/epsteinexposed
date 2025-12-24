@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014523",
+    "filename": "EFTA00014523.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014523.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \nYS \nSubject: A further \nrequest \nDate: Mon, 01 Jul 2019 \n18:50:36 +0000 \nImportance: Normal \nTeam, \nDAG's office requested an update to the Urgent Report on Epstein reporting the indictment. \nThis should require no more than adding a sentence or two at the end of the prior report. \nThanks. \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00014523",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nTeam",
+        "role": "extracted",
+        "context": "18:50:36 +0000 \nImportance: Normal \nTeam, \nDAG's office requested an u"
+      },
+      {
+        "name": "Urgent Report",
+        "role": "extracted",
+        "context": "ce requested an update to the Urgent Report on Epstein reporting the indi"
+      },
+      {
+        "name": "Deputy United",
+        "role": "extracted",
+        "context": "f the prior report. \nThanks. \nDeputy United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "port. \nThanks. \nDeputy United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.017Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027875",
+    "filename": "EFTA00027875.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027875.pdf",
+    "text": "\n\nFrom: \nTo: (USANYS)\" <1 \n• \nCc: e'SANI.  N\n11 \naallEr \n).• \nSubject: RE: New Maxwell Lawsuit \nDate: Wed, 18 Mar 2020 21:55:23 +0000 \nAttachments: Maxwell_suit.pdf \nYeah we saw this, thanks. Suit itself is attached. \nFrom: \n(USANYS) \nSent: Wednesday, March 18, 2020 11:53 \nTo: \n) .t>; \n) \nCc: (USANYS) \nSubject: New Maxwell Lawsuit \nhttps://www.nytimes.com/2020/03/18/businessneffrey-epstein-ghisla \nine-maxwell-lawsuit.html? \naction=click&module=Latest&pgtype=Homepage \nEFTA00027875",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Maxwell",
+        "role": "extracted",
+        "context": "11 \naallEr \n).• \nSubject: RE: New Maxwell Lawsuit \nDate: Wed, 18 Mar 20"
+      },
+      {
+        "name": "Lawsuit \nDate",
+        "role": "extracted",
+        "context": ").• \nSubject: RE: New Maxwell Lawsuit \nDate: Wed, 18 Mar 2020 21:55:23 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-18",
+        "event": "March 18, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.178Z"
+}

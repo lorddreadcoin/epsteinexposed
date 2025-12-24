@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00013271",
+    "filename": "EFTA00013271.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013271.pdf",
+    "text": "\n\nFrom: (USANYS)\" <1 > \nTo: ' (USANYS)\" ..cl \nCc:' , \" \nSubject: Epstein FOR Atty Visit Logs and Count Slips \nDate: Sat, 09 Jan 2021 14:12:33 +0000 \nAttachments: 127124560313.pdf \n)u' \nHi, \nDefense counsel in Tartaglione has requested to see the attorney visit logs and count slips that have Tartaglione's name on \nthem. Those documents may be covered by the attached protective order, and so we have asked \n. \nwho is \nfirewall counsel in Tartaglione, to receive the documents from you for potential production to defense counsel (so that \nand I do not see them). is going to review the protective order first and determine whether she needs \nJudge Karas to modify the order to allow her to receive the documents, so please don't send them to until she \nreaches out. Thanks for helping with this —we know it is a pain. \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSouthern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601 \nTel: \nCell: \nEFTA00013271",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Atty Visit",
+        "role": "extracted",
+        "context": "c:' , \" \nSubject: Epstein FOR Atty Visit Logs and Count Slips \nDate: S"
+      },
+      {
+        "name": "Count Slips",
+        "role": "extracted",
+        "context": "stein FOR Atty Visit Logs and Count Slips \nDate: Sat, 09 Jan 2021 14:12"
+      },
+      {
+        "name": "Judge Karas",
+        "role": "extracted",
+        "context": "determine whether she needs \nJudge Karas to modify the order to allow"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "this —we know it is a pain. \nDeputy Chief, White Plains Division \nUnite"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "it is a pain. \nDeputy Chief, White Plains Division \nUnited States Attor"
+      },
+      {
+        "name": "Division \nUnited",
+        "role": "extracted",
+        "context": ". \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "White Plains Division \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ion \nUnited States Attorney's Office \nSouthern District of New York \n300 Qua"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "ern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.219Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019554",
+    "filename": "EFTA00019554.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019554.pdf",
+    "text": "\n\nFrom:\nSubject: \nDate: Mon, 08 Apr 2019 20:23:43 +0000 \nImportance: Normal \nHey—can we update the Epstein Universe with victim attorney information? I can't tell if that's already done, because the \ndoc is checked out, but it's hard to keep them straight otherwise, and I don't want to go by memory/emails, because the \nvolume of witnesses is just going to be really high. Thanks. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019554",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nHey",
+        "role": "extracted",
+        "context": "9 20:23:43 +0000 \nImportance: Normal \nHey—can we update the Epstein Uni"
+      },
+      {
+        "name": "Epstein Universe",
+        "role": "extracted",
+        "context": "Normal \nHey—can we update the Epstein Universe with victim attorney informat"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "g to be really high. Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "gh. Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019554"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.147Z"
+}

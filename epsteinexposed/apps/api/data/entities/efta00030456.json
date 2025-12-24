@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00030456",
+    "filename": "EFTA00030456.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030456.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Proffer \nDate: Fri, 13 Aug 2021 14:28:23 +0000 \nAttachments: 2019.08.11_Attomey_Proffer \nfrom_Maurice_Secarz_ \nInline-Images: image001.jpg; image002.jpg \n.docx \nHere you go. \nFrom: \nSent: Friday, August 13, 2021 10:00 AM \nTo \nSubject: \nProffer \nGood Morning IN, \nDo you have the notes or 302 from the \nSHIT? Thank you. \nAttorney Proffer regarding the Epstein August 9th call from the \nsPecial \nAgent \nse U.S. Department of Justice • Office of the Inspector General • New York Field Office \nEFTA00030456",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proffer \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Proffer \nDate: Fri, 13 Aug 2021 14:28:23 +0"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "ay, August 13, 2021 10:00 AM \nTo \nSubject: \nProffer \nGood Morning IN,"
+      },
+      {
+        "name": "Proffer \nGood",
+        "role": "extracted",
+        "context": "2021 10:00 AM \nTo \nSubject: \nProffer \nGood Morning IN, \nDo you have the"
+      },
+      {
+        "name": "Attorney Proffer",
+        "role": "extracted",
+        "context": "2 from the \nSHIT? Thank you. \nAttorney Proffer regarding the Epstein August"
+      },
+      {
+        "name": "Epstein August",
+        "role": "extracted",
+        "context": "ttorney Proffer regarding the Epstein August 9th call from the \nsPecial \nA"
+      },
+      {
+        "name": "Pecial \nAgent",
+        "role": "extracted",
+        "context": "in August 9th call from the \nsPecial \nAgent \nse U.S. Department of Justic"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "nt of Justice • Office of the Inspector General • New York Field Office \nEFTA"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Inspector General • New York Field Office \nEFTA00030456"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-08-13",
+        "event": "August 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.924Z"
+}

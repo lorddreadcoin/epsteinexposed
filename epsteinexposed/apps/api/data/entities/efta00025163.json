@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00025163",
+    "filename": "EFTA00025163.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025163.pdf",
+    "text": "\n\nFrom: ' \nTo:'\nCc: '\nSubject: RE: Scanned black book & yellow pages of notes \nDate: Fri, 29 Oct 2021 13:56:27 +0000 \nAttachments: 2021.10.29 MDC -  Maxwell PASSWORD.docx: 2021.10.29 Mir -\nMaxwell MAIN.docx \nDisc for Maxwell has been burned, and cover letters are attached. Let me know if you have any changes or if these are \ngood to go out, thanks! \nFrom: \nSent: Thursday, October 28, 2021 8:23 PM \nTo: \n> \nCc: \nSubject: RE: Scanned black book & yellow pages of notes \nGreat. And to confirm, we can send out a CD with these materials to the MDC to the defendant tomorrow? \nFrom: \nSent: Thursday, October 28, 2021 8:22 PM \nTo: \nCc: \nSubject: RE: Scanned black book & yellow pages of notes \nGreat, I'm ready to share on USAfx when you do. \nFrom: \nSent: Thursday, October 28, 2021 8:21 PM \nTo: \n> \n> \nCc: \n>; \nSubject: RE: Scanned black book & yellow pages of notes \nThanks, !  I am going to send out in a few. \nFrom: \nSent: Thursday, October 28, 2021 7:46 PM \nTo: \nCc: \nSubject: RE: Scanned black book & yellow pages of notes \nThese have been added to the production (here). \nUpdated cover letter is attached. \nEFTA00025163\n\nFrom: \nSent: Thursday, October 28, 2021 7:34 PM \nTo: \nCc: \nSubject: FW: Scanned black book & yellow pages of notes \nCan we please add these to the pending production to send out tonight? They should marked confidential. The black \nbook should be described in the index as \"Scan of 1 bound black address book marked Government Exhibit 52, as referred \nto in SDNY_GM_02753612\"; \"Scan of 2 stapled handwritten set of documents on yellow legal pad paper, as referred to in \nSDNY_GM_02753612\" \nCan you resend me the updated cover letter once that is ready? \nThanks! \nFrom: \nSent: Thursday, October 28, 2021 7:19 PM \nTo: I.>; \nSubject: (EXTERNAL] Scanned black book & yellow pages of notes \nSee attached. \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nEFTA00025164",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Government Exhibit",
+        "role": "extracted",
+        "context": "und black address book marked Government Exhibit 52, as referred \nto in SDNY_G"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "See attached. \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "PD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nEFTA0002"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nEFTA00025164"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-28",
+        "event": "October 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.599Z"
+}

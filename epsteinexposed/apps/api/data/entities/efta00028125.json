@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028125",
+    "filename": "EFTA00028125.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028125.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: \nDate: Fri, 20 Jul 2018 00:27:39 +0000 \nImportance: Normal \nAttachments: 2017.06.12_Southside_Protective_Order v4.docx \naNIMINI> \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028125",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 00:27:39 +0000 \nImportance: Normal \nAttachments: 2017.06.12_Southside_Protect"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tive_Order v4.docx \naNIMINI> \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "x \naNIMINI> \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028125"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.676Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00011437",
+    "filename": "EFTA00011437.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011437.pdf",
+    "text": "\n\nFrom: \"The Invisible Man\" <abx17@dial.pipex.com> \nTo: \"Ghislaine Maxwell (E-mail)\" <gmax1@mindspring.com> \nSubject: Summer Camp \nSent Thu, 16 Aug 2001 11:09:45 +0100 \nI am up here at Balmoral Summer Camp for the Royal Family. Activities take \nplace all day and I am totally exhausted at the end of each day. The Girls \nare completely shattered and I will have to give them an early night today \nas it is getting tiring splitting them up all the time! \nHow's LA? Have you found me some new inappropriate friends? Let me know \nwhen you are coming over as I am free from 25th August until 2nd Sept and \nwant to go somewhere hot and sunny with some fun people before having to put \nmy nose firmly to the grindstone for the Fall. \nAny ideas gratefully received! \nSee ya A xxx \nEFTA00011437",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "\"The Invisible Man\" <abx17@dial.pipex.com> \nTo: \"Ghislaine Maxwell (E-mail)\" <gmax1@mindspring.com> \nSubject: Summer"
+      },
+      {
+        "name": "The Invisible",
+        "role": "extracted",
+        "context": "From: \"The Invisible Man\" <abx17@dial.pipex.com>"
+      },
+      {
+        "name": "Summer Camp",
+        "role": "extracted",
+        "context": "ax1@mindspring.com> \nSubject: Summer Camp \nSent Thu, 16 Aug 2001 11:09:"
+      },
+      {
+        "name": "Sent Thu",
+        "role": "extracted",
+        "context": "g.com> \nSubject: Summer Camp \nSent Thu, 16 Aug 2001 11:09:45 +0100"
+      },
+      {
+        "name": "Balmoral Summer",
+        "role": "extracted",
+        "context": ":09:45 +0100 \nI am up here at Balmoral Summer Camp for the Royal Family. Ac"
+      },
+      {
+        "name": "Royal Family",
+        "role": "extracted",
+        "context": "Balmoral Summer Camp for the Royal Family. Activities take \nplace all d"
+      },
+      {
+        "name": "The Girls",
+        "role": "extracted",
+        "context": "usted at the end of each day. The Girls \nare completely shattered and"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.620Z"
+}

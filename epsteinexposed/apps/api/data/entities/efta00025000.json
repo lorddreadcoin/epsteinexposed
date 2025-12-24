@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00025000",
+    "filename": "EFTA00025000.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025000.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Maxwell drive delivery Monday 1/11 \nDate: Mon, 11 Jan 2021 14:48:18 +0000 \nIt will be myself DIM \nBest, \n>>> \nPM \n>» \nGood afternoon, \n1812021 2:20 \nThe FBI has very kindly agreed to deliver two new drives from my office \nto the MDC for Ghislaine Maxwell on Monday, January 11th. I've cc'd \nwho will be coordinating the delivery. Would \nyou please let us know what time the FBI should plan to make the \ndelivery and who will be available to receive the drives on Monday? \nThank you all very much for your help. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00025000",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ver two new drives from my office \nto the MDC for Ghislaine Maxwell on Monday, January 11th. I've cc'd \nwho will be c"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "y much for your help. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "elp. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00025000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.278Z"
+}

@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00029389",
+    "filename": "EFTA00029389.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029389.pdf",
+    "text": "\n\nFebruary 12, 2015 \nFarmer, Jaffe, Weissing, Edwards Fistos & Lehrman, P.L. \n425 North Andrews Ave, Suite 2 \nFort Lauderdale, FL 33301 \nRe: / File# 14-000107 \nTo Whom it May Concern: \nPlease be advised that \nthe historical employment records \nyou are requesting, for the time \nperiod of \"1999-2001\" are \nno longer available. \nI can confirm that a \nappears on a spreadsheet dated back to 2000 which \nlists terminated employees \ntor that time (year 2000). \nUnfortunately, I  am unable to \nconfirm whether or not this is the same person \ndue to the fact no other information is listed \nsuch as a  social \nsecurity number, address, position, etc. The only information \nlisted is  a \nfirst and last name. \nShould you have any further questions, please feel free to contact me at \nSincerely, \nDirector of Human Resources \nty96.,e-a_owar   \nwad.. \nPALM \nBEACH. \nFLORIDA \n1100 South \nOcean Boulevard, Palm \nBeach, Florida 33480 \n(561) 832-2600 Fax \n(561) 832.2669 \nMAR-A-LAGO 0156 \nEFTA00029389",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Edwards Fistos",
+        "role": "extracted",
+        "context": "015 \nFarmer, Jaffe, Weissing, Edwards Fistos & Lehrman, P.L. \n425 North An"
+      },
+      {
+        "name": "North Andrews",
+        "role": "extracted",
+        "context": "s Fistos & Lehrman, P.L. \n425 North Andrews Ave, Suite 2 \nFort Lauderdale"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "role": "extracted",
+        "context": "5 North Andrews Ave, Suite 2 \nFort Lauderdale, FL 33301 \nRe: / File# 14-000"
+      },
+      {
+        "name": "To Whom",
+        "role": "extracted",
+        "context": "33301 \nRe: / File# 14-000107 \nTo Whom it May Concern: \nPlease be ad"
+      },
+      {
+        "name": "May Concern",
+        "role": "extracted",
+        "context": "/ File# 14-000107 \nTo Whom it May Concern: \nPlease be advised that \nthe"
+      },
+      {
+        "name": "Human Resources",
+        "role": "extracted",
+        "context": "e at \nSincerely, \nDirector of Human Resources \nty96.,e-a_owar   \nwad.. \nPAL"
+      },
+      {
+        "name": "South \nOcean",
+        "role": "extracted",
+        "context": "PALM \nBEACH. \nFLORIDA \n1100 South \nOcean Boulevard, Palm \nBeach, Flori"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "1100 South \nOcean Boulevard, Palm \nBeach, Florida 33480 \n(561) 832-260"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Fort Lauderdale, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2015-02-12",
+        "event": "February 12, 2015"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(561) 832-2600",
+      "(561) 832.2669"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.328Z"
+}

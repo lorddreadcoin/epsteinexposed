@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00016462",
+    "filename": "EFTA00016462.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016462.pdf",
+    "text": "\n\n1  rum: \n'11): \nCc: \nBce: \nSubject: MM Digital Evidence \nDate: Tue, 08 Dec 2020 17:36:47 +0000 \nEmbedded: MM_Digital_Evidence.msg \nSender \nSubject: MM Digital Evidence \nMessage-Id: \n<BN3P110MB050048327927A004F27FAlFB90CD0@BN3P110MB0500.NAMP110.PROD.OUTLOOK.COM \nRecipient \nEFTA00016462",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Digital Evidence",
+        "role": "extracted",
+        "context": "'11): \nCc: \nBce: \nSubject: MM Digital Evidence \nDate: Tue, 08 Dec 2020 17:36"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "ded: MM_Digital_Evidence.msg \nSender \nSubject: MM Digital Evidence \nMessage"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.721Z"
+}

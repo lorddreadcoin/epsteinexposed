@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031309",
+    "filename": "EFTA00031309.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031309.pdf",
+    "text": "\n\nFrom• \nTo: \nCc: \nSubject: RE: United States v. Epstein \nDate: Fri, 30 Aug 2019 20:07:11 +0000 \nAttachments: J8RpEPSIpdf \nWe did -- attached. \nthanks, \n \nOri final Messal e----\nFrom: \nSent: Thursda Au: ust 29 2019 23:24 \nTo: \nCc: \nSubject: \nUnited States v. Epstein \nHi \nDid y'all order a transcript of this week's hearing? If not, will you point us in the right direction to order one? \nIrks! \nEFTA00031309",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: United States v. Epstein \nDate: Fri, 30 Aug 2019 20:07:11 +0"
+      },
+      {
+        "name": "Ipdf \nWe",
+        "role": "extracted",
+        "context": "11 +0000 \nAttachments: J8RpEPSIpdf \nWe did -- attached. \nthanks,"
+      },
+      {
+        "name": "Thursda Au",
+        "role": "extracted",
+        "context": "nal Messal e----\nFrom: \nSent: Thursda Au: ust 29 2019 23:24 \nTo: \nCc:"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": ": \nSubject: \nUnited States v. Epstein \nHi \nDid y'all order a transcript"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.789Z"
+}

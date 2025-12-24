@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00011093",
+    "filename": "EFTA00011093.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011093.pdf",
+    "text": "\n\nFrom: \nTo: \nCc \nSubject: travel approval request \nDate: Thu, 14 Mar 2019 22:32:01 +0000 \nImportance: Normal \nand I would like to please request permission for travel for United States v. Epstein, 2018R01618, an \ninvestigation relating to enticement of minors for sexual activity, for two days of meetings and interviews in West Palm \nBeach and/or Fort Lauderdale, Florida. As of now we're hoping to fly down next Wednesday night and return on Saturday. \nPlease let us know if any other information would be helpful, and thanks as always. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00011093",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc \nSubject: travel approval request \nDat"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "of meetings and interviews in West Palm \nBeach and/or Fort Lauderdale"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "role": "extracted",
+        "context": "ws in West Palm \nBeach and/or Fort Lauderdale, Florida. As of now we're hop"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ks as always. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.074Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00020169",
+    "filename": "EFTA00020169.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020169.pdf",
+    "text": "\n\nExperian Information Solutions, Inc. \n701 Experian Parkway \nAllen, Tx 75013 \nAttn: Subpoena Compliance Dept. \nPlease provide any and all credit reports, fraud alerts, and related documents pertaining to the following \nindividuals listed, including all known accounts and lines of credit, addresses and personal identifying \ninformation, and all credit inquiries regarding the individuals and the addresses provide at the time of \nsaid inquiry regardless of whether accounts were open. \nPlease utilize the identifiers below: \nNAMES/ENTITIES \nDOB \nSSN \nADDRESS \nPHONE \nEMAIL \nIf you have any questions, please contact Forensic Accountant at or Special \nAgent at . Please forward the results in an electronic format to Special \nAgent M, Federal Bureau of Investigation, 26 Federal Plaza, New York, NY 10278, telephone \nI \nThe Government hereby requests that you voluntarily refrain from disclosing the existence of the \nsubpoena to any third party. While you are under no obligation to comply with our request, we are \nrequesting you not to make any disclosure in order to preserve the confidentiality of the investigation \nand because disclosure of the existence of this investigation might interfere with and impede the \ninvestigation. If you intend to disclose the existence of this subpoena to a third party, please let a Special \nAgent know before making any such disclosure. \nEFTA00020169",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Experian Information",
+        "role": "extracted",
+        "context": "Experian Information Solutions, Inc. \n701 Experian"
+      },
+      {
+        "name": "Experian Parkway",
+        "role": "extracted",
+        "context": "ormation Solutions, Inc. \n701 Experian Parkway \nAllen, Tx 75013 \nAttn: Subpo"
+      },
+      {
+        "name": "Subpoena Compliance",
+        "role": "extracted",
+        "context": "rkway \nAllen, Tx 75013 \nAttn: Subpoena Compliance Dept. \nPlease provide any and"
+      },
+      {
+        "name": "Forensic Accountant",
+        "role": "extracted",
+        "context": "any questions, please contact Forensic Accountant at or Special \nAgent at . Ple"
+      },
+      {
+        "name": "Special \nAgent",
+        "role": "extracted",
+        "context": "act Forensic Accountant at or Special \nAgent at . Please forward the resul"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "c format to Special \nAgent M, Federal Bureau of Investigation, 26 Federal"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "l Bureau of Investigation, 26 Federal Plaza, New York, NY 10278, telephon"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "York, NY 10278, telephone \nI \nThe Government hereby requests that you volu"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.323Z"
+}

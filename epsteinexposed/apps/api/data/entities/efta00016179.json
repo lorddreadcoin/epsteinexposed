@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016179",
+    "filename": "EFTA00016179.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016179.pdf",
+    "text": "\n\nFrom: \n(\nUSANYS)\"   \nTo: \nISANYS\n)\n\" \nSubject: FW: Premises SW \nDate: Thu, 02 Jul 2020 10:54:14 +0000 \nAttachments: SDNY Premises_Search_Warrant_Bundleirevised).pdf \nIt's paragraph 15 which says the phone was at the Subject Premises. That term is defined in paragraph 3 as an 156-acre \nproperty that includes every structure on it. We even helpfully include pictures of all of them. \nFrom: \nSent: Thursday, July 2, 2020 6:22 AM \nTo: \n(USANYS) \nSubject: Premises SW \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \n0007 \nEFTA00016179",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subject Premises",
+        "role": "extracted",
+        "context": "ich says the phone was at the Subject Premises. That term is defined in para"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "SANYS) \nSubject: Premises SW \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Premises SW \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "July 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.171Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00024810",
+    "filename": "EFTA00024810.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024810.pdf",
+    "text": "\n\nFrom: (USANYS)\" aMMIE> \nTo: \nCc: \n(USANYS)\" \nSubject: Epstein Guards/ OIG Report \nDate: Fri, 21 May 2021 17:45:41 +0000 \nHi \nWe were hoping you could assist us with getting in touch with the OIG lawyer who is responsible for preparing the report \non Epstein's suicide. We have been trying to get in touch with who was previously handling the \ninvestigation, but understand he may have left the office. The time sensitivity is that we plan to file a public letter by close \nof business today regarding reaching a deferred prosecution agreement with the two guards on duty that night who have \nbeen charged with falsifying records. The guards have agreed to sit for an interview with our office and DOI-OIG, and \nwe'd like to state in the letter that the interviews would occur as part of an ongoing OIG investigation that we expect \nwould lead to a public report. However, we don't want to make this representation unless DOJ-OIG is comfortable with it. \nI'm happy to discuss by phone if convenient. \nThanks very much, \nChief, Public Corruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA00024810",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Guards",
+        "role": "extracted",
+        "context": "To: \nCc: \n(USANYS)\" \nSubject: Epstein Guards/ OIG Report \nDate: Fri, 21 Ma"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "Subject: Epstein Guards/ OIG Report \nDate: Fri, 21 May 2021 17:45:41 +0"
+      },
+      {
+        "name": "Hi \nWe",
+        "role": "extracted",
+        "context": ", 21 May 2021 17:45:41 +0000 \nHi \nWe were hoping you could assist"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "t. \nThanks very much, \nChief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-21",
+        "event": "21 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.875Z"
+}

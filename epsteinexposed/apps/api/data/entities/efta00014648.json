@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014648",
+    "filename": "EFTA00014648.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014648.pdf",
+    "text": "\n\nNovember 19, 2021 WebEx Meeting \n• Asked whether he wants counsel, told could have an attorney appointed if he could \nnot afford one; said he did not feel he needed or wanted a lawyer \n• JE received between 2 and 4 massages every day when he was in Palm Beach \n• JE's massage appointments were set up through his assistants \n• received phone call from assistants that people were coming at certain time to give JE \nmassages; when person rang doorbell, let her in; most of time, they waited in kitchen; \nwaited until or showed up and took person up to massage room \n• did not recall answering phone calls where people said they wanted to give a massage \n• People who came to give JE massages did not wear uniforms; they wore casual clothes \n(jeans, t-shirts, sneakers, sweatpants) \n• People giving massages were female; they were not professional, trained masseuses; they \ndid not show up with equipment to give massages \n• saw some females waiting outside house, In thought they were waiting for someone to \npick them up after massage \n• sometimes saw females walking to ring doorbell; most of the time heard doorbell and let \nfemales in \n• Sometimes more than one female came at a time; remembers one time when two girls \ncame, one girl waited in the kitchen and one went upstairs; doesn't remember what the \ngirls looked like; the two girls seemed like friends; came together and left together after \ncertain period of time; they were young girls (high school age) \n• Impression was they were young; under 20 years old \n• understood that all the girls coming to give massages were \"school girls\" \n• impression was that all the girls coming for appointments were high school girls \n• U sometimes heard the girls talk about school; does not know what grade they were in \n• overheard the girls talk about soccer games, time to go to classes; doesn't remember \nwhich classes \n• started seeing school girls at the PB house within a few days of when started working \nthere \nEFTA00014648",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ex Meeting",
+        "role": "extracted",
+        "context": "November 19, 2021 WebEx Meeting \n• Asked whether he wants cou"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ages every day when he was in Palm Beach \n• JE's massage appointments"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-19",
+        "event": "November 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.272Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00016729",
+    "filename": "EFTA00016729.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016729.pdf",
+    "text": "\n\nFrom: \"MIE>\nTo:'\nCc: \nSubject: RE: Maxwell - Letter Due Today at 5 PM \nDate: Fri, 15 Oct 2021 18:11:27 +0000 \nAttachments: 2021-10- 15 GM letter re MDC legal mail v3.docx \nHi M, \nThanks very much for speaking today. We have incorporated our discussion into the attached letter to Judge Nathan. \nWould you please review the draft and let us know if there are any inaccuracies in it? I highlighted one sentence in \nparticular for your attention, but please review the entire letter closely. As we mentioned earlier, our letter is due today \nas soon as possible, no later than 5 pm. \nThanks, \nFrom: \nSent: Friday, October 15, 2021 10:28 AM \nTo: \nCc: \nSubject: Maxwell - inmate mail \nand \nMaxwell's counsel filed the attached letter last night, and we've been ordered to respond as soon as possible, and by no \nlater than 5 pm. Is one of you free soon for a call about this? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00016729",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter Due",
+        "role": "extracted",
+        "context": "'\nCc: \nSubject: RE: Maxwell - Letter Due Today at 5 PM \nDate: Fri, 15"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "n into the attached letter to Judge Nathan. \nWould you please review the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "a call about this? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-15",
+        "event": "October 15, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.247Z"
+}

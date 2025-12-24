@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00011139",
+    "filename": "EFTA00011139.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011139.pdf",
+    "text": "\n\nBOBBI C. STERNHEIM ES . \nNew York, NY 10007 \nMain: \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00011139",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contain information from the Law Offices of Bobbi C. Sternheim \nthat m"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.163Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028315",
+    "filename": "EFTA00028315.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028315.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Potential \nVictim \nDate: Tue, 09 Jul 2019 \n13:18:28 +0000 \nImportance: Normal \nWhat \nare the issues? I won't be in \nfor about 20 min. \nSent from \nmy iPhone \n> On Jul \n9, 2019, at 9:14 AM,\nrote: \n> I just got a call from \non this and other issues. \nCan we circle up in about \n15 or 20 minutes? \n> Sent from \nmy iPhone \n>> On Jul 8, 2019, at 8:54 PM\nrote: \n>> \n» Thanks, We'll follow up. \n» Sent from my iPhone \n>» On Jul 8, 2019, at 8:38 PM\nrote: \n>» \n>>> The CSOs received a \ntelephone call from a female who \nidentified herself \nasaho \nallegedly \nhas information about \nEpstein. \n).» \n>» gave a \nreturn number o \nEFTA00028315",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Potential \nVictim",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Re: Potential \nVictim \nDate: Tue, 09 Jul 2019 \n13:1"
+      },
+      {
+        "name": "Normal \nWhat",
+        "role": "extracted",
+        "context": "13:18:28 +0000 \nImportance: Normal \nWhat \nare the issues? I won't be i"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "min. \nSent from \nmy iPhone \n> On Jul \n9, 2019, at 9:14 AM,\nrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.989Z"
+}

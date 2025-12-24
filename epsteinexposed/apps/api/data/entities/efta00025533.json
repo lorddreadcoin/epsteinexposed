@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00025533",
+    "filename": "EFTA00025533.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025533.pdf",
+    "text": "\n\nDebevoise \nPlimpton \nCONFIDENTIAL \nUSAO \n- SDNY Matters In Which Debevoise & Plimpton LLP Has Appeared \nwww.debevoise.com \nEFTA00025533\n\nCONFIDENTIAL \nCase Caption/Matter Description \n• \nMI \nEFTA00025534\n\nCONFIDENTIAL \nCase Caption/Matter Description \n• \nU \nWexner: Epstein investigation \nRussell cleared \nto participate \nEFTA00025535",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Debevoise \nPlimpton",
+        "role": "extracted",
+        "context": "Debevoise \nPlimpton \nCONFIDENTIAL \nUSAO \n- SDNY M"
+      },
+      {
+        "name": "Matters In",
+        "role": "extracted",
+        "context": "n \nCONFIDENTIAL \nUSAO \n- SDNY Matters In Which Debevoise & Plimpton LL"
+      },
+      {
+        "name": "Which Debevoise",
+        "role": "extracted",
+        "context": "TIAL \nUSAO \n- SDNY Matters In Which Debevoise & Plimpton LLP Has Appeared"
+      },
+      {
+        "name": "Has Appeared",
+        "role": "extracted",
+        "context": "hich Debevoise & Plimpton LLP Has Appeared \nwww.debevoise.com \nEFTA00025"
+      },
+      {
+        "name": "Case Caption",
+        "role": "extracted",
+        "context": "EFTA00025533\n\nCONFIDENTIAL \nCase Caption/Matter Description \n• \nMI \nEF"
+      },
+      {
+        "name": "Matter Description",
+        "role": "extracted",
+        "context": "3\n\nCONFIDENTIAL \nCase Caption/Matter Description \n• \nMI \nEFTA00025534\n\nCONFIDE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.372Z"
+}

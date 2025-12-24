@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00028420",
+    "filename": "EFTA00028420.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028420.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Subpoena and Request for Emails ((Out of Office)) \nDate: Fri, 12 Jul 2019 01:43:17 +0000 \nI will be out of the office on Friday, July 12. If ou need immediate assistance, please contact Supervisory \nAttorney Legal Assistant El or call the institution at and ask for the \nOperations Lieutenant or the Institution Duty Officer. Thank you. \n>>> \nand \n\" 07/11/19 21:43 >» \nAttached please find a subpoena for recordings of Jeffrey Epstein's phone calls, excluding any attorney calls. \nIn addition to the materials requested in the enclosed subpoena, please accept our written request for the e-mail \ncorrespondence of inmate Jeffrey Epstein (76318-054) from July 6, 2019 throu Jul 11 2019 - excluding any \ncorrespondence between E stein and the following attorne s: Marc Fernich \nWeinberg , and Reid Weingarten \n, Martin \nAs you can see on the subpoena, we have set the return date for tomorrow (July 12, 2019). We would be vin\n.\n111 if we could receive the requested materials as soon as possible. As always, please feel free to call \nor me with any questions or concerns. \nThanks very \nmuch, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00028420",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Attached please find a subpoena for recordings of Jeffrey Epstein's phone calls, excluding any attorney calls. \nIn"
+      },
+      {
+        "name": "Supervisory \nAttorney",
+        "role": "extracted",
+        "context": "te assistance, please contact Supervisory \nAttorney Legal Assistant El or call th"
+      },
+      {
+        "name": "Legal Assistant",
+        "role": "extracted",
+        "context": "contact Supervisory \nAttorney Legal Assistant El or call the institution at"
+      },
+      {
+        "name": "Operations Lieutenant",
+        "role": "extracted",
+        "context": "stitution at and ask for the \nOperations Lieutenant or the Institution Duty Offic"
+      },
+      {
+        "name": "Institution Duty",
+        "role": "extracted",
+        "context": "Operations Lieutenant or the Institution Duty Officer. Thank you. \n>>> \nand"
+      },
+      {
+        "name": "Marc Fernich",
+        "role": "extracted",
+        "context": "and the following attorne s: Marc Fernich \nWeinberg , and Reid Weingart"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "Marc Fernich \nWeinberg , and Reid Weingarten \n, Martin \nAs you can see on"
+      },
+      {
+        "name": "Martin \nAs",
+        "role": "extracted",
+        "context": "berg , and Reid Weingarten \n, Martin \nAs you can see on the subpoena,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "oncerns. \nThanks very \nmuch, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very \nmuch, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00028420"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "July 6, 2019"
+      },
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.202Z"
+}

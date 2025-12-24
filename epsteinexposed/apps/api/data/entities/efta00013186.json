@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00013186",
+    "filename": "EFTA00013186.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013186.pdf",
+    "text": "\n\nFrom: \"IIM, \n(OIG)\"  \nTo: \" SANYS \n(USANYS)\" \nCc: 'llar.OIG\" \n, \n\"El= \n[=. \n(USANYS)\" \nBcc: ' \n' < \nSubject: MCC NY - Epstein Matter \nDate: Mon, 12 Aug 2019 12:40:55 +0000 \nSANYS \n(OIG)\" \nGood Morning, \nI tried calling but his message indicates he is out. Can one of you please call me to briefly \ndiscuss the interviews planned for today? I am currently on my cell phone and my contact information is below. \nThank you. \nSpecial Agent in Charge \nU.S. \nDepartment of \nJustice \nOffice \nof the Inspector General \nNew York Field Office \nOne Battery Park Plaza  291  Floor \nNew York NY 10004 \n(Office) \nCell \nEFTA00013186",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Matter",
+        "role": "extracted",
+        "context": "cc: ' \n' < \nSubject: MCC NY - Epstein Matter \nDate: Mon, 12 Aug 2019 12:40"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "2:40:55 +0000 \nSANYS \n(OIG)\" \nGood Morning, \nI tried calling but his mes"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "mation is below. \nThank you. \nSpecial Agent in Charge \nU.S. \nDepartment o"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "Charge \nU.S. \nDepartment of \nJustice \nOffice \nof the Inspector General \nNe"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "t of \nJustice \nOffice \nof the Inspector General \nNew York Field Office \nOne B"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nOne Battery Park Plaza  291"
+      },
+      {
+        "name": "One Battery",
+        "role": "extracted",
+        "context": "neral \nNew York Field Office \nOne Battery Park Plaza  291  Floor \nNew Y"
+      },
+      {
+        "name": "Park Plaza",
+        "role": "extracted",
+        "context": "ork Field Office \nOne Battery Park Plaza  291  Floor \nNew York NY 1000"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "One Battery Park Plaza  291  Floor \nNew York NY 10004 \n(Office) \nCell"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.038Z"
+}

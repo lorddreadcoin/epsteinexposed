@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020231",
+    "filename": "EFTA00020231.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020231.pdf",
+    "text": "\n\nFrom: \"a' \nTo:' \nCc \nSubject: indictment review \nDate: Thu, 25 Jun 2020 18:59:07 +0000 \nHi =, \nHope you're doing well! We are presenting an indictment in the Epstein case to the White Plains grand jury on Monday \nmorning, and although the brass are still doing a final review, we hope to be able to send the indictment to you later \ntoday for your review. The defendant is Ghislaine Maxwell. Apologies for not giving you more lead time to review —  this \nhas moved more quickly than we expected, and the indictment has gone through several rounds of edits. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00020231",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ou later \ntoday for your review. The defendant is Ghislaine Maxwell. Apologies for not giving you more lead time to r"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \"a' \nTo:' \nCc \nSubject: indictment review \nDate: Thu"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "nt in the Epstein case to the White Plains grand jury on Monday \nmorning"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al rounds of edits. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.443Z"
+}

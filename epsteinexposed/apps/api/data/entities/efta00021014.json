@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021014",
+    "filename": "EFTA00021014.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021014.pdf",
+    "text": "\n\nFrom \nTo \nCc \nBcc: \"USAHUB-USAJouma1111\" \nSubject: RE: ATT records \nDate: Tue, 02 Feb 2021 02:00:29 +0000 \nEmbedded: \nRE:_ATT_records.msg \nSender \nSubject: RE: ATT records \nMessage-Id: \n<BN3P110MB0419663607083F3DA8A7B2BAF5B59@BN3P110MB0419.NAMP110.PROD.OUTLOOK.CO \nM> \nTo: \nCc: \nCc: \nCc: \nEFTA00021014",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nBcc: \"USAHUB-USAJouma111"
+      },
+      {
+        "name": "Cc \nBcc",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nBcc: \"USAHUB-USAJouma1111\" \nSubje"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "bedded: \nRE:_ATT_records.msg \nSender \nSubject: RE: ATT records \nMessage-Id:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.830Z"
+}

@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00023161",
+    "filename": "EFTA00023161.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023161.pdf",
+    "text": "\n\nEvent: Accepted: Epstein-related Touhy request \nStart Date: 2020-05-18 18:00:00 +0000 \nEnd Date: 2020-05-18 18:30:00 +0000 \nClass: X-PERSONAL \nComment: \nDate Created: 2020-05-15 23:04:19 +0000 \nDate Modified: 2020-05-15 23:04:19 +0000 \nPriority: 5 \nDTSTAMP: 2020-05-15 22:47:27 +0000 \nAttendee: (USANYS) < \nEFTA00023161",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "pstein-related Touhy request \nStart Date: 2020-05-18 18:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-05-18 18:00:00 +0000 \nEnd Date: 2020-05-18 18:30:00 +0000 \nC"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-05-15 23:04:19 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-05-15 23:04:19 +0000 \nDate Modified: 2020-05-15 23:04:19 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-18",
+        "event": "2020-05-18"
+      },
+      {
+        "date": "2020-05-15",
+        "event": "2020-05-15"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.376Z"
+}

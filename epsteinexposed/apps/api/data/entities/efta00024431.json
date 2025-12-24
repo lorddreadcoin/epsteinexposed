@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024431",
+    "filename": "EFTA00024431.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024431.pdf",
+    "text": "\n\nFrom: \" \n< \nTo: alasigirBI)\" \nCc:' \n\"< \nSubject: FW: Jeffrey Epstein consultation \nfees \nDate: Tue, 27 Aug 2019 22:22:40 +0000 \nAttachments: Phone_Bill.pdf; DavidR_Passport.jpeg; DavidR_Birth_certificate.jpeg; \nDad_death_certificate.jpeg \nFYI \nFrom:...(USANY5)\n> \nSent: Tues ay, August 27, 2019 4:57 PM \nTo: \n) ; 4c› ; \nSubject: FW: Jeffrey Epstein consultation fees \nFrom: \nDavid Rowlands \nSent: Monda Au ust 26, 2019 2:44 PM \nTo \n(USANYS).\n> \nSubject: Jeffrey Epstein consultation fees \nDear Madam, \nMy late father John Kendall Rowlands was an art historian and art collector. He assisted Jeffrey Epstein in \nsourcing and disposing of works of art and may very well have loaned items to him as well. I  understand that \nJeffrey Epstein owed him a substantial sum of money in consultation fees in relation to works of art and that I \nwould therefore have a claim on the estate in consideration of this. \nMy father did mention in passing the presence of young girls with Jeffrey Epstein and had he not sadly died I \nexpect my father would have reported his concerns to the relevant authorities \nI need to communicate with the US Attorney Geoffrey Berman in charge of the case against Jeffrey Epstein —  can \nyou therefore please pass this information on to him. My postal address is:-\nDavid Rowlands \nEmail:-\nTel H \nEFTA00024431\n\nI attach scans of my passport, birth certificate and my father's death certificate along with my most recent \nphonebill as proof of my address and identity / connection. \nYours faithfully, \nDavid Rowlands \nEFTA00024432",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "m: \" \n< \nTo: alasigirBI)\" \nCc:' \n\"< \nSubject: FW: Jeffrey Epstein consultation \nfees \nDate: Tue, 27 Aug 2019 22:22:"
+      },
+      {
+        "name": "David Rowlands",
+        "role": "extracted",
+        "context": "ein consultation fees \nFrom: \nDavid Rowlands \nSent: Monda Au ust 26, 2019"
+      },
+      {
+        "name": "Monda Au",
+        "role": "extracted",
+        "context": "From: \nDavid Rowlands \nSent: Monda Au ust 26, 2019 2:44 PM \nTo \n(US"
+      },
+      {
+        "name": "Dear Madam",
+        "role": "extracted",
+        "context": "ey Epstein consultation fees \nDear Madam, \nMy late father John Kendall"
+      },
+      {
+        "name": "John Kendall",
+        "role": "extracted",
+        "context": "Dear Madam, \nMy late father John Kendall Rowlands was an art historian"
+      },
+      {
+        "name": "Attorney Geoffrey",
+        "role": "extracted",
+        "context": "ed to communicate with the US Attorney Geoffrey Berman in charge of the case"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-27",
+        "event": "August 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.135Z"
+}

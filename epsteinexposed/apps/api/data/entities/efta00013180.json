@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00013180",
+    "filename": "EFTA00013180.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013180.pdf",
+    "text": "\n\nUNITED STATES ATTORNEY'S OFFICE \nSouthern District of New \nYork \nU.S. ATTORNEY GEOFFREY S. BERMAN \nFOR IMMEDIATE RELEASE \nFriday, August 9, \n2019 \nhttp://www.justice.gov/usao/nys \nCONTACT: U.S. ATTORNEY'S OFFICE \nJames Margolin, Dawn Dearden \nNicholas Biase \n(212) 637-2600 \nSTATEMENT OF MANHATTAN U.S. ATTORNEY ON THE DEATH OF DEFENDANT \nJEFFREY EPSTEIN \nManhattan U.S. Attorney Geoffrey S. Berman said: \"Earlier this morning, the Manhattan \nCorrectional Center confirmed that Jeffrey Epstein, who faced charges brought by this Office of \nengaging in the sex trafficking of minors, had been found unresponsive in his cell and \npronounced dead shortly thereafter. Today's events are disturbing, and we are deeply aware of \ntheir potential to present yet another hurdle to giving Epstein's many victims their day in Court. \nTo those brave young women who have already come forward and to the many others who have \nyet to do so, let me reiterate that we remain committed to standing for you, and our investigation \nof the conduct charged in the Indictment —  which included a conspiracy count —  remains \nongoing. \nWe continue to urge anyone who feels they may be a victim or have information related \nto the conduct in this case to please contact 1-800- CALL FBI.\" \n19-XXX ihint \nEFTA00013180",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ANHATTAN U.S. ATTORNEY ON THE DEATH OF DEFENDANT \nJEFFREY EPSTEIN \nManhattan U.S. Attorney Geoffrey S. Berman said:"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "TED STATES ATTORNEY'S OFFICE \nSouthern District of New \nYork \nU.S. ATTORNEY G"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "OFFICE \nSouthern District of New \nYork \nU.S. ATTORNEY GEOFFREY S. BE"
+      },
+      {
+        "name": "James Margolin",
+        "role": "extracted",
+        "context": "TACT: U.S. ATTORNEY'S OFFICE \nJames Margolin, Dawn Dearden \nNicholas Biase"
+      },
+      {
+        "name": "Dawn Dearden",
+        "role": "extracted",
+        "context": "NEY'S OFFICE \nJames Margolin, Dawn Dearden \nNicholas Biase \n(212) 637-26"
+      },
+      {
+        "name": "Nicholas Biase",
+        "role": "extracted",
+        "context": "James Margolin, Dawn Dearden \nNicholas Biase \n(212) 637-2600 \nSTATEMENT OF"
+      },
+      {
+        "name": "Attorney Geoffrey",
+        "role": "extracted",
+        "context": "FFREY EPSTEIN \nManhattan U.S. Attorney Geoffrey S. Berman said: \"Earlier this"
+      },
+      {
+        "name": "Manhattan \nCorrectional",
+        "role": "extracted",
+        "context": "d: \"Earlier this morning, the Manhattan \nCorrectional Center confirmed that Jeffrey"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-09",
+        "event": "August 9, \n2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-2600"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.026Z"
+}

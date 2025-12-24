@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00027177",
+    "filename": "EFTA00027177.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027177.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nRE: emails \nDate: Sat, 17 Aug 2019 18:17:05 +0000 \nAttachments: MCC_Timeline.xlsx; 8.9_-_8.10_Timeline.pdf \nAs discussed, please feel free to have call me to discuss what briefing materials he needs. \nIt is our preference that you guys, where possible, not draft briefing materials yourselves. \nAttached is the latest draft of the timeline we put together, which gives an overview of the relevant events. \nI am also attaching a timeline we put together of the video review and internet search history. a, it would be very \nhelpful to fill in as much detail as possible on the video review including what direction they are walking (using the maps). \nIf you want to write the notes out we can add them into the spreadsheet. will be in all weekend so feel free to \ngive us a call with any questions. \nFrom: \nSent: Saturday, August 17, 2019 12:20 PM \nTo: \nSubject: RE: emails \nThere's a lot of information in this case and I think we are all getting swamped. I know we are trying to review and retain \nall the info while also doing the enforcement and investigative steps. Our boss said you guys did a pretty comprehensive \npower point? Would you guys mind providing that or anything you guys prepared to keep track of the case, I know it \nwould help me out a little, I feel like I'm drowning in information. Apologies. \nOn Aug \n17, 2019 11:59 AM, ' wrote: \nFrom: \nSent: Saturday, August 17, 2019 11:56 AM \nTo: \nSubject: emails \nEFTA00027177\n\nI am requesting emails for the following people, please let me know if there are any additions. \nU.S. Department of Justice \nOffice of the Inspector General \nNew York Field Office \nNew York, NY 10004 \n(Office) \n(Cell Phone) \nEFTA00027178",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "g in information. Apologies. \nOn Aug \n17, 2019 11:59 AM, ' wrote:"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "dditions. \nU.S. Department of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice \nOffice of the Inspector General \nNew York Field Office \nNew Y"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nNew York, NY 10004 \n(Office)"
+      },
+      {
+        "name": "Cell Phone",
+        "role": "extracted",
+        "context": "ew York, NY 10004 \n(Office) \n(Cell Phone) \nEFTA00027178"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-17",
+        "event": "August 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.691Z"
+}

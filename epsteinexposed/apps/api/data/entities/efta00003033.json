@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00003033",
+    "filename": "EFTA00003033.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003033.pdf",
+    "text": "\n\nOCNFA335 \nCS, FCC \n0: \nPPOOCNFAM \n, \nIC. \n4104AGCNFA135 \nNIC \nCMAteaStop, \n081 \n043\n1odaros \nTypo \nsixesailiunc \n02124000010 \nTRCAP0,2013/219 \n1070 \n_ \nt\nercz,FMACTI944.54 \n11/01P.CRWATN-OCNIA335 \n814R \nVettlure. ES S \nctic \ncum \n&IL eL 7raNDI 21 \nCPC NOIN0Y0  \nby\n PTA. \nyw\n 203 DPN NACT A00 \nReg Model: D19M \nReg Type: \n019M005 \nAssembled in Mexico \nCAN ICES-3 (B)/NMI3-3 (B) \nDP \nV: 100-240 V-\nA: \n5.4A \nHz: 5040 Hz \nUSTED \nI TE \n1105106 \nwww.dell.com \nDP/N: K41DX \nA00 JSD2 \nEFTA00003033",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reg Model",
+        "role": "extracted",
+        "context": "PTA. \nyw\n 203 DPN NACT A00 \nReg Model: D19M \nReg Type: \n019M005 \nAs"
+      },
+      {
+        "name": "Reg Type",
+        "role": "extracted",
+        "context": "PN NACT A00 \nReg Model: D19M \nReg Type: \n019M005 \nAssembled in Mexic"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.556Z"
+}

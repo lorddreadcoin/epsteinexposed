@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00024753",
+    "filename": "EFTA00024753.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024753.pdf",
+    "text": "\n\nFromUSANYS)\"  \nBee \nSANYS)\"  \nSubject: Fwd: NYTimes.com: Jeffrey Epstein's Mystery Bank Came Alive After His Death \nDate: Wed, 04 Mar 2020 14:12:25 +0000 \nBegin forwarded message: \nFrom:(USANYS)\"\nDa 0 at 1:32:01 PM EST \nTo: \n(USANYS)\"\nSubject: NYTimes.com: Jeffrey Epstein's Mystery Bank Came Alive After \nHis Death \nFrom The New York \nTimes: \nJeffrey Epstein's Mystery Bank Came Alive After His Death \nSouthern Country International received millions of dollars from Mr. Epstein's estate in December. \nhttps://www.nytimes.com/2020/02/04/business/jeffrey-epstein-estate-bank.html \nEFTA00024753",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "NYS)\"  \nBee \nSANYS)\"  \nSubject: Fwd: NYTimes.com: Jeffrey Epstein's Mystery Bank Came Alive After His Death \nDate:"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ived millions of dollars from Mr. Epstein's estate in December. \nht"
+      },
+      {
+        "name": "Mystery Bank",
+        "role": "extracted",
+        "context": "YTimes.com: Jeffrey Epstein's Mystery Bank Came Alive After His Death \nD"
+      },
+      {
+        "name": "Came Alive",
+        "role": "extracted",
+        "context": "effrey Epstein's Mystery Bank Came Alive After His Death \nDate: Wed, 0"
+      },
+      {
+        "name": "After His",
+        "role": "extracted",
+        "context": "ein's Mystery Bank Came Alive After His Death \nDate: Wed, 04 Mar 2020"
+      },
+      {
+        "name": "Death \nDate",
+        "role": "extracted",
+        "context": "ery Bank Came Alive After His Death \nDate: Wed, 04 Mar 2020 14:12:25 +0"
+      },
+      {
+        "name": "After \nHis",
+        "role": "extracted",
+        "context": "ein's Mystery Bank Came Alive After \nHis Death \nFrom The New York \nTim"
+      },
+      {
+        "name": "Death \nFrom",
+        "role": "extracted",
+        "context": "ry Bank Came Alive After \nHis Death \nFrom The New York \nTimes: \nJeffrey"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "Alive After \nHis Death \nFrom The New York \nTimes: \nJeffrey Epstein"
+      },
+      {
+        "name": "York \nTimes",
+        "role": "extracted",
+        "context": "fter \nHis Death \nFrom The New York \nTimes: \nJeffrey Epstein's Mystery B"
+      },
+      {
+        "name": "Death \nSouthern",
+        "role": "extracted",
+        "context": "ery Bank Came Alive After His Death \nSouthern Country International receive"
+      },
+      {
+        "name": "Country International",
+        "role": "extracted",
+        "context": "ive After His Death \nSouthern Country International received millions of dollars"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.767Z"
+}

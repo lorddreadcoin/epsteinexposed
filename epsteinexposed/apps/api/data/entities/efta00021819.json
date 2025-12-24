@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00021819",
+    "filename": "EFTA00021819.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021819.pdf",
+    "text": "\n\nSubject: Re: Pretrial Interview - Ghislaine Maxwell \nDate: Mon, 06 Jul 2020 17:34:49 +0000 \nI  will handle this matter. \nThanks \nU.S. Pretrial Services \nOn \nJul 6, 2020, at 1:33 PM, \nGood afternoon, \n) \nwrote: \nCopied on this email are Chris Everdell and Mark Cohen, two attorneys representing defendant Ghislaine Maxwell in \ncase number 20 Cr. 330 (MN). Please let them know how they can arrange for a pretrial interview with their client in \nadvance of her bail hearing this week. \nIf you need any additional information, please do not hesitate to contact me. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00021819",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Subject: Re: Pretrial Interview - Ghislaine Maxwell \nDate: Mon, 06 Jul 2020 17:34:49 +0000 \nI  will h"
+      },
+      {
+        "name": "Pretrial Interview",
+        "role": "extracted",
+        "context": "Subject: Re: Pretrial Interview - Ghislaine Maxwell \nDate: Mo"
+      },
+      {
+        "name": "Pretrial Services",
+        "role": "extracted",
+        "context": "le this matter. \nThanks \nU.S. Pretrial Services \nOn \nJul 6, 2020, at 1:33 PM,"
+      },
+      {
+        "name": "On \nJul",
+        "role": "extracted",
+        "context": "anks \nU.S. Pretrial Services \nOn \nJul 6, 2020, at 1:33 PM, \nGood af"
+      },
+      {
+        "name": "Chris Everdell",
+        "role": "extracted",
+        "context": "te: \nCopied on this email are Chris Everdell and Mark Cohen, two attorneys"
+      },
+      {
+        "name": "Mark Cohen",
+        "role": "extracted",
+        "context": "email are Chris Everdell and Mark Cohen, two attorneys representing d"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e to contact me. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00021819"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.471Z"
+}

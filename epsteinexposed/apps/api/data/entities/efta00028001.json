@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028001",
+    "filename": "EFTA00028001.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028001.pdf",
+    "text": "\n\nFrom: \"MIE> \nTo:'\nSubject: Fwd: Prince Andrew \nDate: Mon, 10 Feb 2020 23:37:41 +0000 \nemail: \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDate: \nFebruary \n10 2020 at 6:20:54 PM EST \nTo:\" \nCc: ' \nSubject: Prince Andrew \n—  Per your request: \nFollowing Geoff's comments about Prince Andrew on January 27, the team heard from counsel for several witnesses \nwho had seen Geoff's remarks and had concerns. Specifically, following the comments about Prince Andrew, the team \nheard from counsel \nfor\n each of whom sought to confirm that their own \ncommunications with the team about their clients would remain confidential. and-- both of whom are \nbelieved to have worked in some capacity for Maxwell/Epstein during relevant time periods —  have never been \ninterviewed before but have expressed a willingness to come in, and the team has been working with their counsel to \narrange for interviews (we have an interview on the calendar with for February 28). who also was an \nemployee/assistant of Epstein's, who was ostensibly covered by the Florida NPA, and whose name has come up with \nsome frequency during the investigation, had previously declined to be interviewed, but more recently her counsel has \nexpressed a willingness to provide an attorney proffer as a first step toward a possible voluntary interview. \nEFTA00028001",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From: \"MIE> \nTo:'\nSubject: Fwd: Prince Andrew \nDate: Mon, 10 Feb 2020 23:37:41 +0000 \nemail: \nS"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "+0000 \nemail: \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      },
+      {
+        "name": "Following Geoff",
+        "role": "extracted",
+        "context": "Andrew \n—  Per your request: \nFollowing Geoff's comments about Prince Andre"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-10",
+        "event": "February \n10 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.439Z"
+}

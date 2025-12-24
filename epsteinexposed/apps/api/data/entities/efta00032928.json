@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00032928",
+    "filename": "EFTA00032928.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032928.pdf",
+    "text": "\n\nFrom: \nS\" \nTo:'1 \nSubject: Fwd: Transcript Request-19CR00490 \nDate: Wed, 28 Aug 2019 13:57:57 +0000 \nAttachments: J8RpEPSIpdf; ATT00001.htm \nye c l \nAll of the relevant discussion starts when Reid stands up. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \nDate: Au \nTo: \" \nSubject: \nFwd: \nTranscript \nRequest-19CR00490 \nBegin forwarded message: \nFrom: \nDate: August 27, 2019 at 2:30:31  PM EDT \nTo: \" \nSubject: Transcript Request-19CR00490 \nHello: \nAttached you will find a copy of Case No. 19-CR-490 as requested. Please confirm \ndelivery. \nThank You, \nEFTA00032928",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Transcript Request",
+        "role": "extracted",
+        "context": "om: \nS\" \nTo:'1 \nSubject: Fwd: Transcript Request-19CR00490 \nDate: Wed, 28 Aug"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "eid stands up. \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Au \nTo",
+        "role": "extracted",
+        "context": "rded message: \nFrom: ' \nDate: Au \nTo: \" \nSubject: \nFwd: \nTranscrip"
+      },
+      {
+        "name": "Transcript \nRequest",
+        "role": "extracted",
+        "context": "e: Au \nTo: \" \nSubject: \nFwd: \nTranscript \nRequest-19CR00490 \nBegin forwarded me"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "ached you will find a copy of Case No. 19-CR-490 as requested. Plea"
+      },
+      {
+        "name": "Thank You",
+        "role": "extracted",
+        "context": "d. Please confirm \ndelivery. \nThank You, \nEFTA00032928"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-27",
+        "event": "August 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.810Z"
+}

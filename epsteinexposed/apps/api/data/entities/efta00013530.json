@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00013530",
+    "filename": "EFTA00013530.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013530.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein \nDate: Mon, 26 Nov 2007 14:16:42 +0000 \nImportance: Normal \nHi s— I  am off to court this morning, but I will call you later to discuss the victim notification. Can you \nconfirm that we are still on for December for the plea and sentencing? I sent an e-mail to Barry and Lanna but \ndid not receive a response. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013530",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein \nDate: Mon, 26 Nov 2007 14:16:42 +0"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "7 14:16:42 +0000 \nImportance: Normal \nHi s— I  am off to court this mo"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013530"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.790Z"
+}

@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00014086",
+    "filename": "EFTA00014086.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014086.pdf",
+    "text": "\n\nFrom: Ted Leopold -4 \nTo: '  \n(USAFLS)\" \nSubject: RE: Epstein Investigation \nDate: Mon, 30 Jun 2008 21:22:13 +0000 \nImportance: Normal \nThanks \n Original Message-----\nFrom: . (USAFLS) [mantis: \nSent: Monday, June 30, 2008 5:13 PM \nTo: Ted Leopold \nSubject: RE: Epstein Investigation \nI  will do so. Look forward to hearing from you. \nAssistant U.S. Attorney \nWest Palm \nBeach, FL 33401 \nPhone \nFax \nFrom: \nTed Leopold [mailto: \nSent: Monday, June 30, 2008 5:13 PM \nTo:  . (USAFLS) \nSubject: RE: Epstein Investigation \nThanks \nI will get \nback to you. \np.s., Tell \n----Original Message \nFrom:  . (USAFLS) [mailto: \nSent: Monday, June 30, 2008 5:00 PM \nTo: Ted Leopold \nSubject: Epstein Investigation \nand hello for me. Both are \ngood friends for mine. \nDear Ted: Here is my e-mail address and contact information. \nThank you for your assistance. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014086",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ted Leopold",
+        "role": "extracted",
+        "context": "From: Ted Leopold -4 \nTo: '  \n(USAFLS)\" \nSubjec"
+      },
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": ": '  \n(USAFLS)\" \nSubject: RE: Epstein Investigation \nDate: Mon, 30 Jun 2008 21:22"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "8 21:22:13 +0000 \nImportance: Normal \nThanks \n Original Message-----\nFrom:"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "Importance: Normal \nThanks \n Original Message-----\nFrom: . (USAFLS) [mantis"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "ing from you. \nAssistant U.S. Attorney \nWest Palm \nBeach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm \nBeach, FL 33401 \nPhone \nFax \nFrom:"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "West Palm \nBeach, FL 33401 \nPhone \nFax \nFrom: \nTed Leopold [mailto:"
+      },
+      {
+        "name": "Dear Ted",
+        "role": "extracted",
+        "context": "are \ngood friends for mine. \nDear Ted: Here is my e-mail address an"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm \nBeach, FL",
+        "type": "city"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.091Z"
+}

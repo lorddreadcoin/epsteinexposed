@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018903",
+    "filename": "EFTA00018903.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018903.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nalMIE> \nTo: ' \n\"   ' \n1 11 \nCc: (USANYS)\" <MIMMIE> \nSubject: Fwd: Epstein Probate \nDate: Sun, 08 Dec 2019 15:37:13 +0000 \nAttachments: 11.14.2019.001_Expedited_Motion_for_the_Establishment_of Voltmtary_Claims.pdft \nATT00001.htm \nSee below. Did you guys connect with her after this on the sharing order? If not, let's set up a call tomorrow. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \n(USANYS)\" \nalMIN> \nDate: \nDecenthci \n2019 \nat 3:17:15 PM EST \nC\n> \nTo: '   USANYS)\"\nc: \" \n(USANYS)\"\nSubject: Epstein Probate \nHi \nThe U.S. Virgin Islands court has recently posted on its website the petition that was filed in the Epstein probate \nproceedings seeking establishment of a victim claims fund. The petition seeks \"expedited approval\" from the court to \nestablish the fund, though no timeline is specified. (It is attached, if of interest.) If approved, estate assets would be \nused to pay for administering the fund, and deadlines would be set for victims to file their claims if they wish to \nparticipate. \nThere was over a week's delay between when the petition was filed with the court and when the court posted the \npetition on its public page for \"cases of interest\" That page is not an official case docket, though it has at least select \nfilings from the probate case (though I cannot tell if all filings are being posted). It would obviously be preferable if we \nhad contemporaneous access to a complete docket, but we haven't been able to find a way to access an online \ncomplete docket. We're inclined to call the Virgin Islands court to ask whether there's a way to access a full electronic \ndocket, but we wanted to check whether you have concerns before we do so (we doubt we would need to identify \nourselves). Let us know your thoughts. \nRelatedly, what's the status of the 6(e) order? \nThanks, \nAssistant United States Attorney \n86 Chambers Street, 3rd Floor \nNew York, NY 10007 \nTel.: \nFax: \nEFTA00018903\n\nEFTA00018904",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Probate",
+        "role": "extracted",
+        "context": "NYS)\" <MIMMIE> \nSubject: Fwd: Epstein Probate \nDate: Sun, 08 Dec 2019 15:37"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "call tomorrow. \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Hi \nThe",
+        "role": "extracted",
+        "context": "S)\"\nSubject: Epstein Probate \nHi \nThe U.S. Virgin Islands court has"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "Epstein Probate \nHi \nThe U.S. Virgin Islands court has recently posted on"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "of the 6(e) order? \nThanks, \nAssistant United States Attorney \n86 Chambers"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r? \nThanks, \nAssistant United States Attorney \n86 Chambers Street, 3rd Floo"
+      },
+      {
+        "name": "Chambers Street",
+        "role": "extracted",
+        "context": "nt United States Attorney \n86 Chambers Street, 3rd Floor \nNew York, NY 1000"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "rney \n86 Chambers Street, 3rd Floor \nNew York, NY 10007 \nTel.: \nFax:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.935Z"
+}

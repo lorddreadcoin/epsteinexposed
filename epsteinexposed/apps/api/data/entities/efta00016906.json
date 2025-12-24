@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016906",
+    "filename": "EFTA00016906.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016906.pdf",
+    "text": "\n\nFrom: \"erica.dubno®fahringerlaw.com\" \nTo: 'Aaron \nMysliwiec' <am@fmamlaw.com> \nCc: \" \nSubject: ubmission \nDate: Fri, 13 Dec 2019 22:09:15 +0000 \nAttachments: \nAs per our conversation, attached is our submission regarding \nWe very much appreciate your consideration and look forward to answering any questions or discussing this further. \nVery truly yours, \nErica and Aaron \nErica T Dubno, Esq. \nFahringer & Dubno \n767 Third Avenue, Suite 3600 \nNew York, New York 10017 \nwww.fahringertaw.com \nIMPORTANT: This email (and any attachment) is exclusively for the intended recipient and likely contains information that is \nproprietary, privileged, confidential or exempt from disclosure under law. If you are not the intended recipient, viewing, copying, use, \ndisclosure or distribution of this information may be subject to legal restriction or sanction, and is not intended to waive any privilege. \nPlease notify the sender of any unintended recipients and immediately delete the original message and any copies. \nEFTA00016906",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Aaron \nMysliwiec",
+        "role": "extracted",
+        "context": "dubno®fahringerlaw.com\" \nTo: 'Aaron \nMysliwiec' <am@fmamlaw.com> \nCc: \" \nSub"
+      },
+      {
+        "name": "Aaron \nErica",
+        "role": "extracted",
+        "context": "Very truly yours, \nErica and Aaron \nErica T Dubno, Esq. \nFahringer & Du"
+      },
+      {
+        "name": "Third Avenue",
+        "role": "extracted",
+        "context": "Esq. \nFahringer & Dubno \n767 Third Avenue, Suite 3600 \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.656Z"
+}

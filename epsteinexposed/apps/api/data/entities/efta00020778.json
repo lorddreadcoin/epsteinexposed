@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020778",
+    "filename": "EFTA00020778.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020778.pdf",
+    "text": "\n\nGood morning Sir \nLast night a source extended dates on bike path. Epstein riding with young girl to Feb 21. \n2 sightings between Feb 13-21, 2019. \nOne just below Royal Poinciana Bridge \nSecond just below Sailfish Club Palm Beach \nAlso apparently young girl wad not tall, brunette, wearing a ponytail and looked 18 give or take a f \new years? Could not say for certain. \nJE was wearing a baseball cap. \nIt seems they were walking on bike path. \nIn December a different source had spotted JE and what seemed a very young girl. \nI told Former PB chief of police. \nHe explained cameras only keep video for 3 months. That first incident happened sometime in Nov. I wI \nas told January. \nNothing was done to follow up. \nThis is a different source and now another sighting. \nThank you \nGood day \nEFTA00020778",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sir \nLast",
+        "role": "extracted",
+        "context": "Good morning Sir \nLast night a source extended dates"
+      },
+      {
+        "name": "Royal Poinciana",
+        "role": "extracted",
+        "context": "13-21, 2019. \nOne just below Royal Poinciana Bridge \nSecond just below Sai"
+      },
+      {
+        "name": "Bridge \nSecond",
+        "role": "extracted",
+        "context": "ne just below Royal Poinciana Bridge \nSecond just below Sailfish Club Palm"
+      },
+      {
+        "name": "Sailfish Club",
+        "role": "extracted",
+        "context": "ana Bridge \nSecond just below Sailfish Club Palm Beach \nAlso apparently y"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "cond just below Sailfish Club Palm Beach \nAlso apparently young girl w"
+      },
+      {
+        "name": "In December",
+        "role": "extracted",
+        "context": "y were walking on bike path. \nIn December a different source had spotte"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.564Z"
+}

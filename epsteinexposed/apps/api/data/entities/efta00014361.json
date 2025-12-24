@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014361",
+    "filename": "EFTA00014361.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014361.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: \nDate: Fri, 16 Aug 2019 14:14:19 +0000 \nAttachments: US_Virgin_Islands_Corporations_Subp_Rider \nGREAT \nST_JIM_LLC.docx; \nDeed_Great_Stjim_LLC_2016000575.pdf; \nDeed_Greatfitiim_LLC_additionalfarcels_USVI_2016000576.pdf \nGood morning \nAttached is a subpoena rider for this Epstein entity (GREAT ST JIM LLC) which purchased parcels on Great St \nJames Island in January 2016. \nAlso attached are the two Deeds from the two conveyances. \nSquad C-40 (FAST) Senior Financial Investigator (SFI) \nEFTA00014361",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Great St",
+        "role": "extracted",
+        "context": "C) which purchased parcels on Great St \nJames Island in January 2016"
+      },
+      {
+        "name": "James Island",
+        "role": "extracted",
+        "context": "urchased parcels on Great St \nJames Island in January 2016. \nAlso attach"
+      },
+      {
+        "name": "Senior Financial",
+        "role": "extracted",
+        "context": "nveyances. \nSquad C-40 (FAST) Senior Financial Investigator (SFI) \nEFTA00014"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.695Z"
+}

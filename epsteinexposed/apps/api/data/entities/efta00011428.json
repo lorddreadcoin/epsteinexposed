@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00011428",
+    "filename": "EFTA00011428.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011428.pdf",
+    "text": "\n\nFrom: (USANYS) \n[Contractor]\" \nTo: Montell Figgins \naa> \nCc: ing,IL\nLYS)\" \n(USANYS)\" \nSubject: U.S. v Thomas, No. 19 Cr 830 - Discovery Production 6 \nDate: Wed, 14 Oct 2020 21:17:38 +0000 \nAttachments: SDNY_00017772 JAEO).pdf; 2020.10.14_Thomas_Discovery_Lettern\nProduction_6.pdf \nCounsel, \nPlease find attached a letter regarding the Government's production in this case. We are uploading a zip file containing \nthe discovery materials to USAfx. Additionally, please find attached one additional page of discovery, which has been \nmarked attorney's eyes only. Please contact us with any questions or if you have any difficulty accessing the production. \nRegards, \nParalegal Specialist \nU.S. Attorney's Office I SDNY \nNew York, NY 10007 \nOffice: \nCell: \nEFTA00011428",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Montell Figgins",
+        "role": "extracted",
+        "context": "(USANYS) \n[Contractor]\" \nTo: Montell Figgins \naa> \nCc: ing,IL\nLYS)\" \n(USAN"
+      },
+      {
+        "name": "Discovery Production",
+        "role": "extracted",
+        "context": ".S. v Thomas, No. 19 Cr 830 - Discovery Production 6 \nDate: Wed, 14 Oct 2020 21:"
+      },
+      {
+        "name": "Lettern\nProduction",
+        "role": "extracted",
+        "context": "; 2020.10.14_Thomas_Discovery_Lettern\nProduction_6.pdf \nCounsel, \nPlease find"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "ng the production. \nRegards, \nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.601Z"
+}

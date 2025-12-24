@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00023257",
+    "filename": "EFTA00023257.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023257.pdf",
+    "text": "\n\nTo: \nFrom: \nCc: \nBcc: \n\"USAHUB-USAJournal111\" \nSubject: RE: Wednesday's WebEx \nDate: Mon, 26 Oct 2020 22:18:34 +0000 \nEmbedded: RE:_Wednesday's_WebEx.msg \nSender: \nSubject: RE: Wednesday's WebEx \nMessa \nTo: \nCc: \nEFTA00023257",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ex \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Wednesday's WebEx \nDate: Mon, 26 Oct 2020 22:18:34 +0"
+      },
+      {
+        "name": "Ex \nMessa",
+        "role": "extracted",
+        "context": "Subject: RE: Wednesday's WebEx \nMessa \nTo: \nCc: \nEFTA00023257"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.565Z"
+}

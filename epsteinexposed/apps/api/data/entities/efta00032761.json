@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032761",
+    "filename": "EFTA00032761.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032761.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" ctl \nTo: (USANYS)\"  \nfr\" \nSubject: RE: June 25 Production in Epstein FOIA \nDate: Wed, 23 Jun 2021 15:55:33 +0000 \nHIM, \nClosing the loop on this—did the interview happen yesterday? We're good to go with the June 25 production from your \nperspective, right? Do you want to see the production before it goes out? \nThanks, \nFrom: (USANYS) <> \nSent: Sunday, June 13, 2021 10:36 PM \nTo: (USANYS) I \nSubject: RE: June 25 Production in Epstein FOIA \nSounds fine. Scheduled for June 17 and 22. And if by chance something would get rescheduled, I think we could still go \nahead with the production, I'd just want to confirm with supervisors. \nFrom: (USANYS)\nSent: Sunday, June 13, 2021 7:31 PM \nTo: (USANYS)\nSubject: June 25 Production in Epstein FOIA \nHIM, \nJust checking in—BOP currently has a deadline of June 25 to produce documents without any redactions based on Noel in \nthe Epstein FOIA. Is everything on track in Noel for that date to still work? As in, all interviews or any other processes that \ncould support 7(A) withholdings will be wrapped up by June 25, right? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00032761",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "by June 25, right? \nThanks, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTele"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-13",
+        "event": "June 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.436Z"
+}

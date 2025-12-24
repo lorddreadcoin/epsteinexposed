@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00010130",
+    "filename": "EFTA00010130.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010130.pdf",
+    "text": "\n\nFrom: \nII\nTo: (USANYS) Contractor \nontractorr \nCc: USANYS \" \nSubject: FW: letter referencing Ghislaine Maxwell \nDate: Tue, 09 Nov 2021 14:06:33 +0000 \nAttachments: @gmail.com_-_incoming.eml.pdf; 20210626_093804.jpg \ncould you please add this to NTW 3500? \nThanks. \nFrom: (CRM) \n< \nausdoj.gov> \nSent: Tuesday, November 9, 2021 7:33 AM \nTo \n(USANYS) \nSubject: letter referencing Ghislaine Maxwell \nColleagues, \nMy office received the attached email as citizen correspondence. Because it references Jeffrey Epstein and \nGhislaine Maxwell, I am forwarding it to you for whatever consideration you deem appropriate. Consistent \nwith our standard response, we will simply advise the writer to contact the FBI. Please let me know if you have \nany questions. Thanks very much, \nDeputy Chief for Policy and Legislation \nChild Exploitation and Obscenity Section \nU.S. Department of Justice \n(mobile) \nEFTA00010130",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "as citizen correspondence. Because it references Jeffrey Epstein and \nGhislaine Maxwell, I am forwarding it to you"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "rr \nCc: USANYS \" \nSubject: FW: letter referencing Ghislaine Maxwell \nDate: Tue, 09 Nov 2021 14:06:33 +0000 \nAttachmen"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "questions. Thanks very much, \nDeputy Chief for Policy and Legislation \nC"
+      },
+      {
+        "name": "Legislation \nChild",
+        "role": "extracted",
+        "context": "Deputy Chief for Policy and Legislation \nChild Exploitation and Obscenity Se"
+      },
+      {
+        "name": "Obscenity Section",
+        "role": "extracted",
+        "context": "ation \nChild Exploitation and Obscenity Section \nU.S. Department of Justice"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-09",
+        "event": "November 9, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.338Z"
+}

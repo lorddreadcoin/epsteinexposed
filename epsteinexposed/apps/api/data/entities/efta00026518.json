@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00026518",
+    "filename": "EFTA00026518.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026518.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: SANYS) \nCc: USANYS)\" \nSANYS)\" \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nDate: Tue, 29 Jun 2021 22:46:20 +0000 \nUSANYS)\" \nThanks= Yes, we will ask BOP to redact that photo as well. \nFrom: (USANYS) \nSent: Tuesday, June 29, 2021 3:45 PM \nTo: (USANYS) \nCc: \n(USANYS) USANYS) \n(USANY \nSubject: R : pstein - CME Report of Autopsy \nand \nI spoke with the GC of OCME, who appreciated the head's up. One note for you all: the photo of the hyoid bone on page \n12 is in fact Epstein's hyoid bone. To the extent we're redacting the closeup photos from page 13, shouldn't we also \nredact the entire photo on page 12? \nThanks, \nFrom: USANYS) \n.1.1 \nSent: Monday, June 28, 2021 5:02 PM \nTo: USANYS) \nCc: (USANYS) (USANYS \n(USANYS) \nSubject: Epstein FOIA - OCME Report of Autopsy \nPlease find attached the OCME Report of Autopsy. The boxes show where there will be redactions. \nThanks \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00026518",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Autopsy \nDate",
+        "role": "extracted",
+        "context": "Epstein FOIA - OCME Report of Autopsy \nDate: Tue, 29 Jun 2021 22:46:20 +0"
+      },
+      {
+        "name": "Autopsy \nPlease",
+        "role": "extracted",
+        "context": "Epstein FOIA - OCME Report of Autopsy \nPlease find attached the OCME Report"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "re there will be redactions. \nThanks \nAssistant United States Attorney \n300 Q"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00026518"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-29",
+        "event": "June 29, 2021"
+      },
+      {
+        "date": "2021-06-28",
+        "event": "June 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.483Z"
+}

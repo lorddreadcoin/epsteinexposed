@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00023313",
+    "filename": "EFTA00023313.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023313.pdf",
+    "text": "\n\nConfirmation Number \nThe Beverly Hilton 2/2812020 11.39.00 AM \nHilton \nHOTELS E. RESORTS \nThe Beverly Hilton \n9876 Wilshire Boulevard \nBeverly Hills, CA 90210 \nUnited States of America \nTELEPHONE 310-274-7777 • FAX 310-285-1313 \nReservations \nwww.hilton.com or 1 800 HILTONS \nRoom No: \nArnval Date: \nDeparture Date: \nAdult/Child: \nCashier ID: \nRoom Rate: \nHH # \nVAT # \nFolio No/Che \n6230/D2H \n2/26/2020 11:37:00 AM \n2/28/2020 11:40:00 AM \n1/0 \n181.00 \nDATE DESCRIPTION ID REF NO CHARGES CREDIT BALANCE \n2/2612020 GUEST ROOM EXEMPT \n2/27/2020 GUEST ROOM EXEMPT \n2/2812020 \nREF=0001552702-03271498 CHIP \n05 \nApplication Label: CREDIT \nTC: 01595B3E25F0C04C \nTVR: 0000008000 \nAID: 0000008000 \nTMEEK \nTMEEK \n11988159 \n11989830 \n11991671 \n$181.00 \n$181.00 \n($362.00) \nCREDIT CARD DETAIL \nAPPR CODE \nCARD NUMBER \nTRANSACTION ID \n- BALANCE-\n052131 MERCHANT ID 500356170 BANK# 2454 \nEXP DATE 12/23 \n11991671 TRANS TYPE Sale \nPage:1 \nS0.00 \nnocnocnoc. \nEFTA00023313",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Confirmation Number",
+        "role": "extracted",
+        "context": "Confirmation Number \nThe Beverly Hilton 2/2812020"
+      },
+      {
+        "name": "The Beverly",
+        "role": "extracted",
+        "context": "Confirmation Number \nThe Beverly Hilton 2/2812020 11.39.00 AM"
+      },
+      {
+        "name": "Wilshire Boulevard",
+        "role": "extracted",
+        "context": "RTS \nThe Beverly Hilton \n9876 Wilshire Boulevard \nBeverly Hills, CA 90210 \nUni"
+      },
+      {
+        "name": "Beverly Hills",
+        "role": "extracted",
+        "context": "ton \n9876 Wilshire Boulevard \nBeverly Hills, CA 90210 \nUnited States of A"
+      },
+      {
+        "name": "Room No",
+        "role": "extracted",
+        "context": ".hilton.com or 1 800 HILTONS \nRoom No: \nArnval Date: \nDeparture Dat"
+      },
+      {
+        "name": "Arnval Date",
+        "role": "extracted",
+        "context": "m or 1 800 HILTONS \nRoom No: \nArnval Date: \nDeparture Date: \nAdult/Chil"
+      },
+      {
+        "name": "Departure Date",
+        "role": "extracted",
+        "context": "TONS \nRoom No: \nArnval Date: \nDeparture Date: \nAdult/Child: \nCashier ID:"
+      },
+      {
+        "name": "Room Rate",
+        "role": "extracted",
+        "context": ": \nAdult/Child: \nCashier ID: \nRoom Rate: \nHH # \nVAT # \nFolio No/Che"
+      },
+      {
+        "name": "Folio No",
+        "role": "extracted",
+        "context": "ID: \nRoom Rate: \nHH # \nVAT # \nFolio No/Che \n6230/D2H \n2/26/2020 11:3"
+      },
+      {
+        "name": "Application Label",
+        "role": "extracted",
+        "context": "0001552702-03271498 CHIP \n05 \nApplication Label: CREDIT \nTC: 01595B3E25F0C04C"
+      },
+      {
+        "name": "Sale \nPage",
+        "role": "extracted",
+        "context": "TE 12/23 \n11991671 TRANS TYPE Sale \nPage:1 \nS0.00 \nnocnocnoc. \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Beverly Hills, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-26",
+        "event": "2/26/2020"
+      },
+      {
+        "date": "2020-02-28",
+        "event": "2/28/2020"
+      },
+      {
+        "date": "2020-02-27",
+        "event": "2/27/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "310-274-7777",
+      "310-285-1313",
+      "0001552702",
+      "0000008000"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.690Z"
+}

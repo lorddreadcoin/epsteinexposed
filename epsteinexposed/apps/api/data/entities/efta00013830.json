@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00013830",
+    "filename": "EFTA00013830.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013830.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: I   now you are on vacation \nDate: Tue, 22 Jul 2008 14:26:30 +0000 \nImportance: Normal \nBut do you have a minute to talk? I  just found out something very disturbing in the Epstein case. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPho \nFax \nEFTA00013830",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nBut",
+        "role": "extracted",
+        "context": "8 14:26:30 +0000 \nImportance: Normal \nBut do you have a minute to talk?"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPho \nFax \nEF"
+      },
+      {
+        "name": "Pho \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPho \nFax \nEFTA00013830"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.534Z"
+}

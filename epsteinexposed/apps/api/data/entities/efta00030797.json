@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030797",
+    "filename": "EFTA00030797.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030797.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nalMIE> \n\" \naNIMI.> \nTo: \nSubject: Automatic reply: Epstein VNS \nDate: Thu, 30 Jul 2020 16:20:18 +0000 \nI am on annual leave. \nFor transportation please call or emai \ncan try my cell phone. \nThank \nyou, \nVictim Witness Coordinator \nIf \nyou need to speak to me you \nEFTA00030797",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "my cell phone. \nThank \nyou, \nVictim Witness Coordinator \nIf \nyou need to"
+      },
+      {
+        "name": "Coordinator \nIf",
+        "role": "extracted",
+        "context": "Thank \nyou, \nVictim Witness Coordinator \nIf \nyou need to speak to me you"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.692Z"
+}

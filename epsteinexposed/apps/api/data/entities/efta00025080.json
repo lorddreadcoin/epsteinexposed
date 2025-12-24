@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00025080",
+    "filename": "EFTA00025080.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025080.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nc\nIMIE> \nTo: '\nillYS)\" \n'alla:', . \n(USANYS)\" \nCc:\n aNIMIN-, \n\"S\" \nSubject: GM - MLAT Request to \nthe UK \nDate: Mon, 02 Aug 2021 15:11:28 +0000 \nAttachments: 2021.08.01 MLAT to UK v I  docx _ _ _ _ . \n=Ms \nAttached for your review is a draft MLAT to the UK, which we are hoping to send along early this week. \nThanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00025080",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ms \nAttached",
+        "role": "extracted",
+        "context": "T to UK v I  docx _ _ _ _ . \n=Ms \nAttached for your review is a draft ML"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "early this week. \nThanks, \nM \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.429Z"
+}

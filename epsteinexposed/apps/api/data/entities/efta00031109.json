@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00031109",
+    "filename": "EFTA00031109.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031109.pdf",
+    "text": "\n\nFrom: (USANYS) \n[Contractor]\" \nTo: \nSubject: RE: Time sensitive review of pending productions \nDate: Wed, 24 Nov 2021 20:57:28 +0000 \nAttachments: 2021.11.24_U.S._v_Maxwell_Non-Testifying_Witness_Material_IndexiDefense).pdf; \n2021.11.24_Maxwell_Discovery_Letter.pdf; \n2021.11.24_U.S._v_Maxwell_3500_IndexiDefense).pdf; \n2021.11.24_Maxwell 3500 Cover Letter.pdf \nCover letters and indices for the 3500 and Rule 16 productions are attached. The hard drive and password have been sent \nvia FedEx with the following tracking numbers: 8166 1408 9156 (drive) and 8166 1408 9145 (pw). \nThe production is uploaded to USAfx and is ready to share with defense counsel when you email out. \nThanks, \nFrom: \nSent: Wednesday, November 24, 2021 3:18 PM \nTo: (USANYS) [Contractor] \n(USANYS) \nSubject: RE: Time sensitive review of pending productions \nand I sorted out out. All set. \nFrom• \nSent: Wednesday, November 24, 2021 3:10 PM \nTo: (USANYS) [Contractor] \n4 \n(USANYS)\nSubject: RE: Time sensitive review of pending productions \nHi all, \nI've reviewed all of the productions and the two cover letters. So everything is reviewed and ready to go except the index \n— I just got a  time sensitive call. Can someone else look at that? \nFrom: (USANYS) [Contractor] a. \nSent: Wednesday, November 24, 2021 2:59 PM \nTo: \n(USANYS) \nSubject: Time sensitive review of pending productions \nHi all, \nIf you want to get a production out today (sent on a drive via FedEx to GM), we will need to have it reviewed and ready for \nme to load by 3:20pm latest (FedEx last pick up is 4pm today). \nEFTA00031109\n\nThe TW 3500 production is here: Msa.doj.gov\\cloud NYS\\StAndrewASharecRUSvEpstein-2018R01618MTrial \\ 3500 1. \nTestifying\\ Production 11 \nNTW 3500 production is here: Msa.doj.gov\\cloud \\ NYS\\ StAndrewASharecaUSvEpstein-2018R01618UTrial \\ 3500 2. Non-\nTestifying \\ \nProduction 11 \nRule 16 production is here: Msa.doj.gov \\cloud \\ NYS \\StAndrews \\Shared \\ USvEpstein-2018R01618Wiscovery\\GM \\ 41 \nThirty-Second Production (2021-11-n) \nCover letters for both and 3500 indices (excel version) are attached. Please let me know as soon as you can if there are \nany changes you want to make. \nThanks, \nParalegal Specialist \nU.S. Attorney's Office \nSDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell: \nEFTA00031110",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cover Letter",
+        "role": "extracted",
+        "context": "pdf; \n2021.11.24_Maxwell 3500 Cover Letter.pdf \nCover letters and indice"
+      },
+      {
+        "name": "Second Production",
+        "role": "extracted",
+        "context": "1618Wiscovery\\GM \\ 41 \nThirty-Second Production (2021-11-n) \nCover letters fo"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "s you want to make. \nThanks, \nParalegal Specialist \nU.S. Attorney's Office \nSDNY"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": "S. Attorney's Office \nSDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice \nSDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-24",
+        "event": "November 24, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.429Z"
+}

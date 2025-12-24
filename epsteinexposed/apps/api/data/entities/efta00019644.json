@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019644",
+    "filename": "EFTA00019644.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019644.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: State Attorney's Office - New Document Available - Case No 2020PR000426AMB \nDate: Mon, 14 Sep 2020 19:44:42 +0000 \nThank you. The paralegal on the case, who is cc'd here, will download the documents. \nOn Sep \n14, 2020, at 3:41 PM, \nThere is a new file available. \nCase \nNumber 2020PR000426AMB \nDefendant Name JEFFREY E EPSTEIN \nwrote: \nPlease click here to download the file. \nWhen setting up initial account, please be sure to check your sparn/junk email folder for the notification email. \nSent By \nEFTA00019644",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Re: State Attorney's Office - New Document Avail"
+      },
+      {
+        "name": "New Document",
+        "role": "extracted",
+        "context": "Re: State Attorney's Office - New Document Available - Case No 2020PR000"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "ce - New Document Available - Case No 2020PR000426AMB \nDate: Mon, 1"
+      },
+      {
+        "name": "On Sep",
+        "role": "extracted",
+        "context": "will download the documents. \nOn Sep \n14, 2020, at 3:41 PM, \nThere"
+      },
+      {
+        "name": "Case \nNumber",
+        "role": "extracted",
+        "context": "ere is a new file available. \nCase \nNumber 2020PR000426AMB \nDefendant Na"
+      },
+      {
+        "name": "Defendant Name",
+        "role": "extracted",
+        "context": "Case \nNumber 2020PR000426AMB \nDefendant Name JEFFREY E EPSTEIN \nwrote: \nPl"
+      },
+      {
+        "name": "Sent By",
+        "role": "extracted",
+        "context": "for the notification email. \nSent By \nEFTA00019644"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.306Z"
+}

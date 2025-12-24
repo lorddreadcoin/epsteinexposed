@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00025218",
+    "filename": "EFTA00025218.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025218.pdf",
+    "text": "\n\nFrom: (USANYS)\" cz\nIMIE> \nTo: , BOBBI C STERNHEIM \nLaura Menninger , Jeff Pagliuca \nCc: \nI II \nI/ \nSubject: US v. Maxwell - Government Letter Due Today \nDate: Mon, 07 Jun 2021 21:19:58 +0000 \nAttachments: 2021-06-07_GM_Ietter update_re_MDC_conditions_final.pdf \nCounsel, \nOur update letter to the Court regarding MDC conditions is due today. Can you please let us know by 8:30 pm if you \nintend to seek any redactions to the attached letter? If so, we will plan to send the letter by email to the Court to give you \nan opportunity to propose and justify any redactions. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel \nEFTA00025218",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "IE> \nTo: , BOBBI C STERNHEIM \nLaura Menninger , Jeff Pagliuca \nCc: \nI II \nI"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "STERNHEIM \nLaura Menninger , Jeff Pagliuca \nCc: \nI II \nI/ \nSubject: US v"
+      },
+      {
+        "name": "Government Letter",
+        "role": "extracted",
+        "context": "I/ \nSubject: US v. Maxwell - Government Letter Due Today \nDate: Mon, 07 Jun"
+      },
+      {
+        "name": "Due Today",
+        "role": "extracted",
+        "context": ". Maxwell - Government Letter Due Today \nDate: Mon, 07 Jun 2021 21:19"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ify any redactions. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.718Z"
+}

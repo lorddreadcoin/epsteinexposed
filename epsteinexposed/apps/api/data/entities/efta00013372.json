@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013372",
+    "filename": "EFTA00013372.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013372.pdf",
+    "text": "\n\nFrom: \nTo: \"sam@samgregory.com\" gam@samgregory.com>, Lloyd \nEpstein \n<lepstein@epsteinweil.com> \nCc: \nSubject: U.S. v. Robert Adams, 20 Cr. 494 (PGG) -- Discovery Production 2 \nDate: Sat, 14 Nov 2020 01:13:54 +0000 \nAttachments: 2020.11.12_Adams_Discovery_LetternProduction_2.pdf \nCounsel, \nPlease find attached a letter regarding the Government's second discovery production in this case. The materials are \navailable on our secure file-sharing website, USAfx, and there is no password on the production itself. Please let us know if \nyou have any questions. Thank you. \nRegards, \nParalegal Specialist \nU.S. Attorney's Office I  SONY \n1 St. Andrew's Plaza \nNew York, \nNY 10007 \nOffice: \nCell: \nEFTA00013372",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Lloyd \nEpstein",
+        "role": "extracted",
+        "context": "ory.com\" gam@samgregory.com>, Lloyd \nEpstein \n<lepstein@epsteinweil.com>"
+      },
+      {
+        "name": "Robert Adams",
+        "role": "extracted",
+        "context": "l.com> \nCc: \nSubject: U.S. v. Robert Adams, 20 Cr. 494 (PGG) -- Discover"
+      },
+      {
+        "name": "Discovery Production",
+        "role": "extracted",
+        "context": "rt Adams, 20 Cr. 494 (PGG) -- Discovery Production 2 \nDate: Sat, 14 Nov 2020 01:"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "stions. Thank you. \nRegards, \nParalegal Specialist \nU.S. Attorney's Office I  SO"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I  SONY \n1 St. Andrew's Plaza \nNew York, \nNY 10007 \nOffice: \nCel"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.445Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00022328",
+    "filename": "EFTA00022328.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022328.pdf",
+    "text": "\n\nFrom: USANYS) [Contractor]\"\nTo: ' (USANYS)\"\nSubject: AT&T court \nsubpoena question \nDate: Wed, 03 Nov 2021 19:01:21 +0000 \nAttachments: 2021.07.28_Court_SubpoenanAT&T.pdf \nHey., \nI know you're traveling, but when you get a chance, could you please let me know if you ever received a subpoena return \nfor the attached AT&T subpoena? I'm working onMchecking all al and court subpoena returns, and I've found a few \nother returns for two other AT&T court subpoenas, though not this one. Please let me know when you can, thank youl \nParalegal Specialist \nU.S. Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice \nCell \nEFTA00022328",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "now when you can, thank youl \nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": ". Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "fice I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice \nCell"
+      },
+      {
+        "name": "Office \nCell",
+        "role": "extracted",
+        "context": "'s Plaza \nNew York, NY 10007 \nOffice \nCell \nEFTA00022328"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.623Z"
+}

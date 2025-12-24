@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014586",
+    "filename": "EFTA00014586.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014586.pdf",
+    "text": "\n\nFrom: \"Singer, Linda\" <I \nTo: \nSubject: Call w/ DOJ re. Epstein SDNY Investigation \nDate: Mon, 05 Oct 2020 12:19:10 +0000 \nI in port a \ncc: Normal \nAttachments: unnamed \nConfidential & Priviteg4 \nUnless otherwise indicated or obvious from its nature, the information contained in this communication is attorney-client privileged and confidential informationtwork \nproduct. This communication is intended for the use of the individual or entity named above. If the reader of this communication is not the intended recipient you are \nhereby notified that any dissemination. distribution or copying of this communication is strictly prohibited. If you have received this communication in error or are not \nsure whether it is privileged, please immediately notify us by retum e-mail and destroy any copies--electronic, paper or otherwise—which you may have of this \ncommunication. \nEFTA00014586",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Investigation \nDate",
+        "role": "extracted",
+        "context": "Call w/ DOJ re. Epstein SDNY Investigation \nDate: Mon, 05 Oct 2020 12:19:10 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "19:10 +0000 \nI in port a \ncc: Normal \nAttachments: unnamed \nConfidential & Priv"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.142Z"
+}

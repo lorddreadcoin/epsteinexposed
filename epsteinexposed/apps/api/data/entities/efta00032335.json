@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032335",
+    "filename": "EFTA00032335.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032335.pdf",
+    "text": "\n\nFrom: \"Hudgens, Johanna Rae\" C> \nTo: \nCc: \nSubject: \nDate: \nImportance: \nAttachments: \nJaffe\" < \n>, \n\"Calvar, Cristina I.\" \n< \n>, \nSDNY Grand Jury Subpoena Dated July 5, 2019 issued to \nWed, 06 Nov 2019 17:54:43 +0000 \nNormal \nunnamed \n>, \n\"Bloom, Suzanne \nTelephone: \nCode: \nThe contents of this message may be privileged and confidential. If this message has been received in error, please delete it without \nreading it. Your receipt of this message is not intended to waive any applicable privilege. Please do not disseminate this message \nwithout the permission of the author. Any tax advice contained in this email was not intended to be used, and cannot be used, by you (or \nany other taxpayer) to avoid penalties under applicable tax laws and regulations. \nEFTA00032335",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Johanna Rae",
+        "role": "extracted",
+        "context": "From: \"Hudgens, Johanna Rae\" C> \nTo: \nCc: \nSubject: \nDate"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "ar, Cristina I.\" \n< \n>, \nSDNY Grand Jury Subpoena Dated July 5, 2019 i"
+      },
+      {
+        "name": "Subpoena Dated",
+        "role": "extracted",
+        "context": "a I.\" \n< \n>, \nSDNY Grand Jury Subpoena Dated July 5, 2019 issued to \nWed,"
+      },
+      {
+        "name": "Suzanne \nTelephone",
+        "role": "extracted",
+        "context": "Normal \nunnamed \n>, \n\"Bloom, Suzanne \nTelephone: \nCode: \nThe contents of this"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-05",
+        "event": "July 5, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.075Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013589",
+    "filename": "EFTA00013589.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013589.pdf",
+    "text": "\n\nFrom: \" (USAFIS)\" \n</O=USA/OU=FLS/CN=RECIPIENTS/CN= \nTo: \" \nSubject: Emailing: Work Release Notice -- wpd \nDate: Thu, 04 Dec 2008 22:24:05 +0000 \nImportance: Normal \nAttachments: Work_Release_Notice_-- pd \n> \nI have attached a draft letter to victims notifying them of Epstein's work release. I will fill in the blank tomorrow. Any \nobjections to the language? \nThanks. \nThe message is ready to be sent with the following file or link attachments: \nWork Release Notice — wpd \nNote: To protect against computer viruses, e-mail programs may prevent sending or receiving certain types of file \nattachments. Check your e-mail security settings to determine how attachments are handled. \nEFTA00013589",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Work Release",
+        "role": "extracted",
+        "context": "N= \nTo: \" \nSubject: Emailing: Work Release Notice -- wpd \nDate: Thu, 04"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 22:24:05 +0000 \nImportance: Normal \nAttachments: Work_Release_Notice_-- pd \n>"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.926Z"
+}

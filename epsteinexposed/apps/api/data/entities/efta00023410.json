@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00023410",
+    "filename": "EFTA00023410.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023410.pdf",
+    "text": "\n\nFrom: ' \nTo: \nCc: (USANYS) [Contractor]\" < \nSubject: RE: Jes Staley and his relationship with Epstein \nDate: Wed, 26 Feb 2020 19:34:22 +0000 \nThanks. Just copying/pasting, here goes: \nI just called your desk, but no answer/full mailboxl Quickly, I'm reaching out because my colleagues are working on a story \n-- following up on this story from the other week — about how UK law enforcement is involved in an investigation into \nBarclays PLC CEO Jes Staley and his relationship with Jeffrey Epstein. We understand that the FCA (the UK's financial \nwatchdog) and the Bank of England's financial stability organization (the very Britishly-named Prudential Regulation \nAuthority) is investigating disclosures made the other week by Barclay's board regarding Epstein and Staley's relationship. \nI believe they have now officially confirmed the investigation. \nI think we will want to include a line in the story about how — I THINK — SDNY's investigation into Epstein's sex-trafficking \norganization is continuing. It's been reported that banks have provided some information to SDNY. My questions are as \nfollows: \n1. Is it accurate to say that SDNY continues to investigate Epstein's enterprise? \n2. Is SDNY working with the UK authorities on the Staley matter? \nI think that's basically it. Happy to discuss on the phone. I think they plan to publish a  story today or tomorrow \nfirst thing. \nFrom: \nSent: Wednesday, February 26, 2020 2:33 PM \nTo: \nCc: (USANYS) [Contractor] \nSubject: RE: Jes Staley and his \nrelationship with Epstein \nUs \nFrom: \nSent: Wednesday, February 26, 2020 2:30 PM \nTo: \nCc: \nSubject: Jes Staley and his relationship with Epstein \n(USANYS) [Contractor] \nWould this be an inquiry for you guys or MLTCHE? \nC \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office [ Southern District of New York \n[Mobile: \nI \nPress Office: \nEFTA00023410",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "lays PLC CEO Jes Staley and his relationship with Jeffrey Epstein. We understand that the FCA (the UK's financial"
+      },
+      {
+        "name": "Jes Staley",
+        "role": "extracted",
+        "context": "[Contractor]\" < \nSubject: RE: Jes Staley and his relationship with Eps"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ley and his relationship with Epstein \nDate: Wed, 26 Feb 2020 19:34:22 +0"
+      },
+      {
+        "name": "Prudential Regulation",
+        "role": "extracted",
+        "context": "ion (the very Britishly-named Prudential Regulation \nAuthority) is investigating"
+      },
+      {
+        "name": "Epstein \nUs",
+        "role": "extracted",
+        "context": "ey and his \nrelationship with Epstein \nUs \nFrom: \nSent: Wednesday, Febr"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "y for you guys or MLTCHE? \nC \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office [ Southern District of New York \n[Mobile: \nI \nPre"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "ict of New York \n[Mobile: \nI \nPress Office: \nEFTA00023410"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-26",
+        "event": "February 26, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.905Z"
+}

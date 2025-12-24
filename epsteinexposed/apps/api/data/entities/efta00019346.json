@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00019346",
+    "filename": "EFTA00019346.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019346.pdf",
+    "text": "\n\nFrom: ' \nTo:' \" \nSubject: RE: MCC/Epstein Meeting \nDate: Wed, 14 Aug 2019 20:45:18 +0000 \nAwesome. Thanks! \nFrom: \nSent: Wednesday, August 14, 2019 4:45 PM \nTo: \n> \n> \nSubject: RE: MCC/Epstein Meeting \nYes, good for us. \nFrom: \nSent: Wednesday, August 14, 2019 4:44 PM \nTo: \nSubject: RE: MCC/Epstein Meeting \nHey guys, \nI assume you've probably spoken with _/the brass about this, but just want to confirm this is ok? \nThanks, \nFrom: \nSent: Wednesday, August 14, 2019 1:14 PM \nTo: \nSubject: MCC/Epstein Meeting \nHey guys, \nwould like to meet 12-2pm tomorrow after the MCC visit with the brass, you two, the MCC team, and the folks \nvisiting from main justice/FBI/IG ( etc.) \nWe'll be in the 8th floor library. \nThanks! \nEFTA00019346",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Meeting",
+        "role": "extracted",
+        "context": ": ' \nTo:' \" \nSubject: RE: MCC/Epstein Meeting \nDate: Wed, 14 Aug 2019 20:45"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.728Z"
+}

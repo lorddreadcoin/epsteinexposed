@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013763",
+    "filename": "EFTA00013763.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013763.pdf",
+    "text": "\n\nFrom \nTo: \"Acosta, Alex (USAFLS)\" <AAcosta@usa.doj.gov>, \nSubject: RE: Any response on Epstein? \nDate: Thu, 06 Dec 2007 16:20:52 +0000 \nImportance: Normal \nDo you want me to take a crack at revising the letter from again? Or perhaps we can shorten it to just inform \nthem of the deadlines? Thanks. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm \nBeach. FL 33401 \nFrom: Acosta, Alex (USAFLS) \nSent: Thursday, December 06, 2007 10:58 AM \nTo: \nSubject: RE: Any response on Epstein? \nJust got something sending it out \nFrom• \nSent: Thursday, December 06, 2007 10:37 AM \nTo: Acosta, Alex \n(USAFLS) \nSubject: Any response on \nEpstein? \nI can't believe that all of those lawyers can stay quiet for so long. \nThanks. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm \nReach. FL 33401 \nEFTA00013763",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \"Acosta, Alex (USAFLS)\" <AAc"
+      },
+      {
+        "name": "Normal \nDo",
+        "role": "extracted",
+        "context": "7 16:20:52 +0000 \nImportance: Normal \nDo you want me to take a crack a"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm \nBeach."
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm \nBeach. FL 33401 \nFrom: Acost"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-12-06",
+        "event": "December 06, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.343Z"
+}

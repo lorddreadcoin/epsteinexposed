@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00023709",
+    "filename": "EFTA00023709.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023709.pdf",
+    "text": "\n\nFrom: ' \nTo: :ati,NYS)\" ctl \nCc: ' (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Fri, 30 Nov 2018 21:09:20 +0000 \nImportance: Normal \n)\"   \nWill bring in five mins \nFrom: (USANYS) \nSent: Friday, November 30, 2018 15:57 \nTo: \n; \n) <la \nCc: (USANYS) cMa (USANYS) •ce \nSubject: Epstein \nBring us an opening memo today if you can. \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nt. \nEFTA00023709",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "' (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Fri, 30 Nov 2018 21:09:20 +0"
+      },
+      {
+        "name": "Epstein \nBring",
+        "role": "extracted",
+        "context": "S) cMa (USANYS) •ce \nSubject: Epstein \nBring us an opening memo today if y"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "ening memo today if you can. \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "day if you can. \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-11-30",
+        "event": "November 30, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.451Z"
+}

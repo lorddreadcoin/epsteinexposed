@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018251",
+    "filename": "EFTA00018251.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018251.pdf",
+    "text": "\n\nFrom: \n\"a' \nTo: \nSubject: Could Jeffrey Epstein's New York townhouse be turned into an art museum? I  Fox Business \nDate: Tuc, 21 Jan 2020 13:20:38 +0000 \nhttps://wwwfoxbusiness.com/lifestyle/jeffrey-epstein-new-york-mansion-an-art-museum \nSent from my iPhone \nEFTA00018251",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \n\"a' \nTo: \nSubject: Could Jeffrey Epstein's New York townhouse be turned into an art museum"
+      },
+      {
+        "name": "Could Jeffrey",
+        "role": "extracted",
+        "context": "From: \n\"a' \nTo: \nSubject: Could Jeffrey Epstein's New York townhouse"
+      },
+      {
+        "name": "Fox Business",
+        "role": "extracted",
+        "context": "turned into an art museum? I  Fox Business \nDate: Tuc, 21 Jan 2020 13:20"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.505Z"
+}

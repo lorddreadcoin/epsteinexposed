@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016451",
+    "filename": "EFTA00016451.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016451.pdf",
+    "text": "\n\nFrom: \n'\nIMIIM> \nTo:'\nSubject: Interesting \nDate: Thu, 28 May 2020 18:00:53 +0000 \nAttachments: In_re_Wild,_955_F.3d_1196_(11th_Cir._2020).pdf \nLast month, the 11th Circuit, in a case arising from the failure to \nprosecute Jeffrey Epstein, \ndecided that rights under the Crime Victims' Rights Act (the \"CVRA\") \"do not attach until \ncriminal proceedings have been initiated against a defendant, either by complaint, information, or \nindictment.\" In re Wild, 955 F.3d 1196, 1198 (11th Cir. \n2020). Accordingly, \"[b]ecause the \ngovernment never filed charges or otherwise commenced criminal proceedings against Epstein,\" \nbut simply entered into a non-prosecution agreement with him, \"the CVRA was never triggered.\" \nId. \nEFTA00016451",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "in a case arising from the failure to \nprosecute Jeffrey Epstein, \ndecided that rights under the Crime Victims' Ri"
+      },
+      {
+        "name": "Interesting \nDate",
+        "role": "extracted",
+        "context": "rom: \n'\nIMIIM> \nTo:'\nSubject: Interesting \nDate: Thu, 28 May 2020 18:00:53 +0"
+      },
+      {
+        "name": "Crime Victims",
+        "role": "extracted",
+        "context": "decided that rights under the Crime Victims' Rights Act (the \"CVRA\") \"do"
+      },
+      {
+        "name": "Rights Act",
+        "role": "extracted",
+        "context": "ghts under the Crime Victims' Rights Act (the \"CVRA\") \"do not attach u"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-28",
+        "event": "28 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.704Z"
+}

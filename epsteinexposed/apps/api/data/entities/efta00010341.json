@@ -1,0 +1,112 @@
+{
+  "document": {
+    "id": "efta00010341",
+    "filename": "EFTA00010341.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010341.pdf",
+    "text": "\n\n04/26/2019 12:38 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland Security \nUS Passport \n(P ) \nGenerated B \nPage 1 \nof 1 \normation \nLast Name First Name \n Dos \n!Gender \nEPSTEIN JEFFREY EDWARD \nn'\n.'20/1953 IM - Male \nUS Pass rt Information \nPassport a Passport Status Document Type \nI  - ISSUED P - PASSPORT \nIssue Gauntry Issue Date Expiration Data \nUSA - UNITED STATES 09/12/2012 05/26/2020 \nI I \nPersonal \nnthrmafioll \nLast Name First Name DOS \nEPSTEIN JEFFREY EDWARD 01/20/1953 \nGender Piece of Binh Nationality \nj.i - Male ,USA - UNITED STATES \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00010341",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border \nProtection",
+        "role": "extracted",
+        "context": "9 12:38 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nUS Passport \n(P ) \nGenerated"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "ed B \nPage 1 \nof 1 \normation \nLast Name First Name \n Dos \n!Gender \nEP"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "1 \nof 1 \normation \nLast Name First Name \n Dos \n!Gender \nEPSTEIN JEFFR"
+      },
+      {
+        "name": "Information \nPassport",
+        "role": "extracted",
+        "context": "20/1953 IM - Male \nUS Pass rt Information \nPassport a Passport Status Document Ty"
+      },
+      {
+        "name": "Passport Status",
+        "role": "extracted",
+        "context": "ss rt Information \nPassport a Passport Status Document Type \nI  - ISSUED P"
+      },
+      {
+        "name": "Document Type",
+        "role": "extracted",
+        "context": "n \nPassport a Passport Status Document Type \nI  - ISSUED P - PASSPORT \nIs"
+      },
+      {
+        "name": "Issue Gauntry",
+        "role": "extracted",
+        "context": "pe \nI  - ISSUED P - PASSPORT \nIssue Gauntry Issue Date Expiration Data \nU"
+      },
+      {
+        "name": "Issue Date",
+        "role": "extracted",
+        "context": "D P - PASSPORT \nIssue Gauntry Issue Date Expiration Data \nUSA - UNITED"
+      },
+      {
+        "name": "Expiration Data",
+        "role": "extracted",
+        "context": "ORT \nIssue Gauntry Issue Date Expiration Data \nUSA - UNITED STATES 09/12/20"
+      },
+      {
+        "name": "Gender Piece",
+        "role": "extracted",
+        "context": "IN JEFFREY EDWARD 01/20/1953 \nGender Piece of Binh Nationality \nj.i - Ma"
+      },
+      {
+        "name": "Binh Nationality",
+        "role": "extracted",
+        "context": "D 01/20/1953 \nGender Piece of Binh Nationality \nj.i - Male ,USA - UNITED STA"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "- Male ,USA - UNITED STATES \nFor Official Use Only / Law \nEnforcement S"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "- UNITED STATES \nFor Official Use Only / Law \nEnforcement Sensitive"
+      },
+      {
+        "name": "Law \nEnforcement",
+        "role": "extracted",
+        "context": "ATES \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00010341"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-26",
+        "event": "04/26/2019"
+      },
+      {
+        "date": "2012-09-12",
+        "event": "09/12/2012"
+      },
+      {
+        "date": "2020-05-26",
+        "event": "05/26/2020"
+      },
+      {
+        "date": "1953-01-20",
+        "event": "01/20/1953"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.769Z"
+}

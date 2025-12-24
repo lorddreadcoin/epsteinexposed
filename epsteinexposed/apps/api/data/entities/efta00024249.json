@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024249",
+    "filename": "EFTA00024249.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024249.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' \nSubject: Epstein Letter to the \nEditor \nDate: Tue, 26 Nov 2019 14:25:32 +0000 \nFor those who may have missed it, a notable letter to the editor in Sunday's NYT... \nhttps://www.nytimes.com/2019/11/24/opinion/letters/jeffrey-epstein-prisons.html \nEFTA00024249",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Letter",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: ' \nSubject: Epstein Letter to the \nEditor \nDate: Tue, 26"
+      },
+      {
+        "name": "Editor \nDate",
+        "role": "extracted",
+        "context": "bject: Epstein Letter to the \nEditor \nDate: Tue, 26 Nov 2019 14:25:32 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.742Z"
+}

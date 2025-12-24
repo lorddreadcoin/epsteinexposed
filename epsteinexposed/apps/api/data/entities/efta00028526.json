@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00028526",
+    "filename": "EFTA00028526.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028526.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n)\" \nSubject: RE: disclosure update \nDate: Wed, 31 Jul 2019 17:59:25 +0000 \n)uI \nYes—Spm works. Call my cell: \nFrom: \nSent: Wednesday, July 31, 2019 12:20 PM \nTo: \nCc: \nSubject: RE: disclosure update \nThanks—it's possible we'll still be in a meeting at 4:30. Would it be possible to speak at 5 instead? If not, we can plan for \n4:30 and let you know if we need to reschedule. \nThanks, \nFrom: \nSent: Wednesday, July 31, 2019 11:18 AM \nTo: \nCc: \nSubject: RE: disclosure update \nYes—would 4:30pm today work? \nFrom: \nSent: Tuesday, July 30, 2019 6:20 PM \nTo: \nCc: \nSubject: disclosure update \nEFTA00028526\n\n• \nDo you have a few minutes for a quick call tomorrow afternoon? We are making a disclosure that relates to your client in \nconnection with our discovery obligations to Epstein's counsel, and we wanted to briefly make you aware of it. \nThanks, \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00028527",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ke you aware of it. \nThanks, \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00028527"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-31",
+        "event": "July 31, 2019"
+      },
+      {
+        "date": "2019-07-30",
+        "event": "July 30, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.402Z"
+}

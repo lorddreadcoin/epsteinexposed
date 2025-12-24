@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00024426",
+    "filename": "EFTA00024426.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024426.pdf",
+    "text": "\n\nFrom• \nTo: \nCc: \nSubject: Fwd: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nDate: Mon, 26 Aug 2019 20:17:15 +0000 \nHi, \nThe below emails apparently did not go through to Judge Berman or his clerk. Would it be possible to check and \nsee why that might be? \nThanks, \nBegin forwarded message: \nFrom: \nDate: August , at : : \nTo: \nCc: \nSubject: FW: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nFrom: \nSent: Monday, August 26, 2019 1:58 PM \nTo: \nCc :\nSubject: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nDear Judge Berman, \nWe received a request from the Court for the contact information for victim attorneys. Not all victims are represented by \ncounsel, but the attorneys we are aware of are: \n• \n• \n• \n• \n• \n• \n• \n• \nEFTA00024426\n\nAlthough the Government has made best efforts to notify victims of tomorrow's proceeding, the Government does not \nknow which victims plan to attend tomorrow's conference, and it is possible that victims the Government is not aware \nof may attend. \nWe have not copied defense counsel here, in order to respect the privacy of the victims. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00024427",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From• \nTo: \nCc: \nSubject: Fwd: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nDate: Mon, 26 Aug 2019 20:17:1"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "arently did not go through to Judge Berman or his clerk. Would it be pos"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "ey Epstein, 19 Cr. 490 (RMB) \nDear Judge Berman, \nWe received a reques"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "the victims. \nRespectfully, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-26",
+        "event": "August 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.125Z"
+}

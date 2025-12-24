@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00027458",
+    "filename": "EFTA00027458.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027458.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" <1 \nTo: ' (USANYS)  \nSubject: Re: Maxwell Clip (Email 1 of 11) \nDate: Wed, 27 May 2020 22:09:20 +0000 \nOk good will try that \nSent from my iPhone \nOn May 27, 2020, at 5:44 PM, (USANYS) [ > wrote: \nI  would recommend headphones. The speakers on our laptops are terrible. I  can see if there's a  way for me to \nboost the volume though. \nOn May 27, 2020, at 5:41 PM, (USANYS) <1 \n> \nwrote: \nvolume is very low even if I turn my volume to highest. \nFrom: (USANYS) \nSent: Wednesday, May 27, 2020 3:37 PM \nTo: Berman, Geoffrey (USANYS) < \n(USANYS) \nSubject: Maxwell Clip (Email 1 of 11) \n(USANYS) < \n>; \nWill attempt to send all of them via email. Sorry for the quality. Should be 11 emails. This is ttl. Corresponds to the \nfollowing transcript passage in the pros memo (with some additional time before and after): \nQ: Did you ever give a massage to anyone other than Mr. Epstein at any of Mr. Epstein's properties? \nA: First of all, I never said I gave Mr. Epstein a massage. \nI will ask that question if you want, but I was focusing on people other than Mr. Epstein right now. \nA: I don't give massages. \nCI: Let's just tie that down. Is it your testimony that you've never given anybody a massage? \nA: I have not given anyone a massage. \nCI: You never gave Mr. Epstein a massage, is that your testimony? \nA: That is my testimony. \nCI: \nYou never gave a massage is your testimony? \nA: I never gave \n-a\n massage. \nEFTA00027458",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "massage to anyone other than Mr. Epstein at any of Mr. Epstein's p"
+      },
+      {
+        "name": "Maxwell Clip",
+        "role": "extracted",
+        "context": "To: ' (USANYS)  \nSubject: Re: Maxwell Clip (Email 1 of 11) \nDate: Wed, 2"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "will try that \nSent from my iPhone \nOn May 27, 2020, at 5:44 PM, (US"
+      },
+      {
+        "name": "On May",
+        "role": "extracted",
+        "context": "to \nboost the volume though. \nOn May 27, 2020, at 5:41 PM, (USANYS"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-27",
+        "event": "May 27, 2020"
+      },
+      {
+        "date": "2020-05-27",
+        "event": "27 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.328Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00015036",
+    "filename": "EFTA00015036.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015036.pdf",
+    "text": "\n\nFrom \nDate: Wed, Oct 3, 2012 at 12:42 PM \nSubject: Jeffrey Epstein \nTo: \nHello Jeffrey would like to speak with you...could you please give him a  call at \nand I will connect you to him! \nthanks, \nTel: \nEFTA00015036",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "rom \nDate: Wed, Oct 3, 2012 at 12:42 PM \nSubject: Jeffrey Epstein \nTo: \nHello Jeffrey would like to speak with you."
+      },
+      {
+        "name": "From \nDate",
+        "role": "extracted",
+        "context": "From \nDate: Wed, Oct 3, 2012 at 12:42 PM"
+      },
+      {
+        "name": "Hello Jeffrey",
+        "role": "extracted",
+        "context": "ubject: Jeffrey Epstein \nTo: \nHello Jeffrey would like to speak with you."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.003Z"
+}

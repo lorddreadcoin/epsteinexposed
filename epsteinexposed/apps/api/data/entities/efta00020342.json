@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020342",
+    "filename": "EFTA00020342.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020342.pdf",
+    "text": "\n\nFrom: ' \nTo: \nCc: \nSubject: Epstein Bail Statement \nDate: Wed, 17 Jul 2019 21:17:28 +0000 \nWe conferred with Mnd ■ they expressed misgivings about making any statements regarding detention and at \nthis point, we agree. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorne s Office Southern District of New York \nMobile: Press Office: \nEFTA00020342",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Bail",
+        "role": "extracted",
+        "context": "From: ' \nTo: \nCc: \nSubject: Epstein Bail Statement \nDate: Wed, 17 Jul"
+      },
+      {
+        "name": "Statement \nDate",
+        "role": "extracted",
+        "context": ": \nCc: \nSubject: Epstein Bail Statement \nDate: Wed, 17 Jul 2019 21:17:28 +0"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "nd at \nthis point, we agree. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Office Southern",
+        "role": "extracted",
+        "context": "nt of Justice \nU.S. Attorne s Office Southern District of New York \nMobile:"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "District of New York \nMobile: Press Office: \nEFTA00020342"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.668Z"
+}

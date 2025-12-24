@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00026621",
+    "filename": "EFTA00026621.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026621.pdf",
+    "text": "\n\nFrom: (USANYS)\" <M\n> \nTo: (USANYS)\" <M> \nSubject: State of \nthe Office \nDate: Sat, 30 May 2020 20:07:21 +0000 \nAttachments: SOTO - PCU - 2020 \ndocx \n_ _ _ _ . \nI put something together modeled off what we did last year. Feel free to add/subtract, particularly if I missed anything \nsignificant. \nEFTA00026621",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Office \nDate",
+        "role": "extracted",
+        "context": "\" <M> \nSubject: State of \nthe Office \nDate: Sat, 30 May 2020 20:07:21 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-30",
+        "event": "30 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.686Z"
+}

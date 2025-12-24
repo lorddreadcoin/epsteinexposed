@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021113",
+    "filename": "EFTA00021113.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021113.pdf",
+    "text": "\n\nFrom \nTo \nSubject: Witness torpedoes Prince Andrew's denials about alleged Epstein sex slave I  Toronto Sun \nDate: Sat, 08 Feb 2020 15:01:44 +0000 \nhttps://torontosun.cotninews/world/witness-torpedoes-prince-andrews-denials-about-alleged-epstein-sex-slave \nSent from my iPhone \nEFTA00021113",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Witness torpedoes Prince Andrew's denials about alleged Epstein sex slave I  Toro"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Witness torpedoes P"
+      },
+      {
+        "name": "Toronto Sun",
+        "role": "extracted",
+        "context": "alleged Epstein sex slave I  Toronto Sun \nDate: Sat, 08 Feb 2020 15:01"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.020Z"
+}

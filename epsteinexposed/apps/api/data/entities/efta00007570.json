@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00007570",
+    "filename": "EFTA00007570.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007570.pdf",
+    "text": "\n\n! \nEFTA00007570\n\n10 \nEFTA00007571\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nEFTA00007572\n\n111111,114.4\n2\n1,1141\n111\n95 \n• \n_I-\nTown Town of Palm Beach lka.S. \nPolice Department 'tscrir,\noucEn\nfr\nEVIDENCE \nI:15-3bn? PROPERTY 0   (3\n:   313 \nCONTENTS \nEFTA00007573\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \n646 \n04,ssei+e-ijciff \nEFTA00007574\n\n• \nmaxell \nPROFESSIONAL \nINDUSTRIAL \nCommunicator \nSeries' \nL\n \nPM \nCassette \nLow \nNoise \n/High \nOutput \nFl \nLS \nmaxell \nCommunicator \nSeries \nCSO \nEFTA00007575",
+    "pageCount": 6,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Town Town",
+        "role": "extracted",
+        "context": "114.4\n2\n1,1141\n111\n95 \n• \n_I-\nTown Town of Palm Beach lka.S. \nPolice"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "1\n111\n95 \n• \n_I-\nTown Town of Palm Beach lka.S. \nPolice Department 'ts"
+      },
+      {
+        "name": "Police Department",
+        "role": "extracted",
+        "context": "wn Town of Palm Beach lka.S. \nPolice Department 'tscrir,\noucEn\nfr\nEVIDENCE \nI"
+      },
+      {
+        "name": "Communicator \nSeries",
+        "role": "extracted",
+        "context": "ll \nPROFESSIONAL \nINDUSTRIAL \nCommunicator \nSeries' \nL\n \nPM \nCassette \nLow \nNois"
+      },
+      {
+        "name": "Cassette \nLow",
+        "role": "extracted",
+        "context": "ommunicator \nSeries' \nL\n \nPM \nCassette \nLow \nNoise \n/High \nOutput \nFl \nLS"
+      },
+      {
+        "name": "High \nOutput",
+        "role": "extracted",
+        "context": "PM \nCassette \nLow \nNoise \n/High \nOutput \nFl \nLS \nmaxell \nCommunicator"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.073Z"
+}

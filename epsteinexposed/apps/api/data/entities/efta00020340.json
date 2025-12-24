@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020340",
+    "filename": "EFTA00020340.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020340.pdf",
+    "text": "\n\nFrom: ' \n<Ma>\nTo: ' \n)\" \nSubject: FW: Anonymous Civilian Crime Report Related to Human Trafficking \nDate: Wed, 19 Aug 2020 20:44:46 +0000 \nAttachments: 08 19 2020 About People Involved in Child trafficking.pdf \nFrom: \nSent: Wednesday, August 19, 2020 4:04 PM \nTo: \nCc: \nSubject: Anonymous Civilian Crime Report Related to Human Trafficking \nAttached is a Civilian Crime Report for you to review. Because it is anonymous, we do \nnothing more. If interested, feel free to forward to an Agency. \nEFTA00020340",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Anonymous Civilian",
+        "role": "extracted",
+        "context": "<Ma>\nTo: ' \n)\" \nSubject: FW: Anonymous Civilian Crime Report Related to Human"
+      },
+      {
+        "name": "Crime Report",
+        "role": "extracted",
+        "context": "bject: FW: Anonymous Civilian Crime Report Related to Human Trafficking"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ilian Crime Report Related to Human Trafficking \nDate: Wed, 19 Aug 2020 20:44"
+      },
+      {
+        "name": "About People",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 08 19 2020 About People Involved in Child trafficking"
+      },
+      {
+        "name": "Civilian Crime",
+        "role": "extracted",
+        "context": "an Trafficking \nAttached is a Civilian Crime Report for you to review. Bec"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-19",
+        "event": "August 19, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.664Z"
+}

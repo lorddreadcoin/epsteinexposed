@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00015023",
+    "filename": "EFTA00015023.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015023.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: \nr't \nCc: \"I \nft<\nSubject: Epstein 6(e) Order Signed and Ready to Pick Up \nDate: Fri, 31 Jan 2020 22:23:06 +0000 \n k \n'1 \n(USANYS)\" \nI just got a call from Judge Nathan's clerk that she signed the order and it's ready to be picked up from her \nchambers, if one of you want to engineer that right now. \nEFTA00015023",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Order Signed",
+        "role": "extracted",
+        "context": "\"I \nft<\nSubject: Epstein 6(e) Order Signed and Ready to Pick Up \nDate: F"
+      },
+      {
+        "name": "Pick Up",
+        "role": "extracted",
+        "context": "(e) Order Signed and Ready to Pick Up \nDate: Fri, 31 Jan 2020 22:23"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "NYS)\" \nI just got a call from Judge Nathan's clerk that she signed the o"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.980Z"
+}

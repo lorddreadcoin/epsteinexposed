@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030588",
+    "filename": "EFTA00030588.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030588.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: e: H: There, \nDate: Tue, 29 Apr 2014 16:37:32 +0000 \nHi \nThank you for getting back to me on your day off! \nI just remember when the tabloids sent their photographer out, they took note of the date on the back which was in 1997 and \npossibly took a picture of it but as I do not want to contact the tabloids right now, I just need the evidence to ensure that is \ncorrect. If you can, when you get back to the office, is there any chance you could have a look to see if there in fact a date \nmentioned or photographed, it would be very helpful and I would be more than appreciative. \nHave a nice day!! \nOn Tuesday. 29 April 2014 12:23 PM. \nHi \nwrote: \nI'm away from the office today. I don't recall the photo having a date on it but I will review the file when I get a chance. \nFrom: \nTo: \nSen : ue pr • •. . \nSubject: Hi There, \nG'day \nI was just wondering if by chance you might have the original dates of the photos you copied from our original meetings, oddly \nenough I have every other original photo but the one with Prince Andrew and that's no good as I am in need of just the date on \nthe picture. You're my last chance on these dates unless by good fortune this picture shows up. Sorry to be a pain, I hope I'm \nnot to much a bother. Just trying to do get something accomplished! \nHope all is well!! \nAll the best, \nEFTA00030588",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "have every other original photo but the one with Prince Andrew and that's no good as I am in need of just the da"
+      },
+      {
+        "name": "Hi \nThank",
+        "role": "extracted",
+        "context": ", 29 Apr 2014 16:37:32 +0000 \nHi \nThank you for getting back to me on"
+      },
+      {
+        "name": "On Tuesday",
+        "role": "extracted",
+        "context": "eciative. \nHave a nice day!! \nOn Tuesday. 29 April 2014 12:23 PM. \nHi"
+      },
+      {
+        "name": "Hi There",
+        "role": "extracted",
+        "context": "Sen : ue pr • •. . \nSubject: Hi There, \nG'day \nI was just wondering"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2014-04-29",
+        "event": "29 April 2014"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.218Z"
+}

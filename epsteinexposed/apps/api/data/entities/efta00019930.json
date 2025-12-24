@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019930",
+    "filename": "EFTA00019930.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019930.pdf",
+    "text": "\n\nFrom: \nTo: \nCc:\nSubject: bail application \nDate: Thu, 03 Dec 2020 01:36:01 +0000 \nWe wanted to let you know that Ghislaine Maxwell's attorneys intend to file a new bail application. The application has \nnot yet been filed, and we don't have a specific briefing schedule or hearing date. We will make sure to keep you updated, \nbut we wanted to touch base in advance to make sure you were aware. As always, please feel free to give us a call if you \nhave any questions or if you'd like to discuss this. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00019930",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "20 01:36:01 +0000 \nWe wanted to let you know that Ghislaine Maxwell's attorneys intend to file a new bail application"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to discuss this. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.883Z"
+}

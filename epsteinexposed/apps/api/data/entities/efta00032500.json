@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032500",
+    "filename": "EFTA00032500.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032500.pdf",
+    "text": "\n\nFrom: \nSubject: FW: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation \nDate: Fri, 27 Dec 2019 14:36:53 +0000 \nYou're not the only one who noticed... \n Ori inal Messa e \nFrom: \nSent: Frida December 27, 2019 9:36 AM \nTo: \nSubject: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation \nhttps://www.cnbc.corn/2019/12/27/jeffrey-epstein-friend-ghislaine-maxwell-under-fbi-investigation.html \nSent from my iPhone \nEFTA00032500",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation \nDate: Fri, 27 Dec 2019 1"
+      },
+      {
+        "name": "Frida December",
+        "role": "extracted",
+        "context": "ri inal Messa e \nFrom: \nSent: Frida December 27, 2019 9:36 AM \nTo: \nSubjec"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-27",
+        "event": "December 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.789Z"
+}

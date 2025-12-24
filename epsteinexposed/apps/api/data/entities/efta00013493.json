@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013493",
+    "filename": "EFTA00013493.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013493.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Jr. Ortiz \nDate: Mon, 06 Aug 2007 20:36:01 +0000 \nImportance: Normal \nCan you \nI \nexplain to him what the status/game plan? He called and said Epstein rejected our proposal so when do \nwe indict? I told him it's a tad more complicated. This guy is killing me. \nSent from my GoodLink synchronized handheld (www.good.com) \nEFTA00013493",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Jr. Ortiz \nDate: M"
+      },
+      {
+        "name": "Ortiz \nDate",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Jr. Ortiz \nDate: Mon, 06 Aug 2007 20:36:01 +0"
+      },
+      {
+        "name": "Normal \nCan",
+        "role": "extracted",
+        "context": "7 20:36:01 +0000 \nImportance: Normal \nCan you \nI \nexplain to him what t"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.703Z"
+}

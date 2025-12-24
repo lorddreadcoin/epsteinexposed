@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016494",
+    "filename": "EFTA00016494.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016494.pdf",
+    "text": "\n\nFrom: a\" alMIE> \nTo: ' \" ' SANYS \" \nSubject: Preclude cross \nDate: Sat, 27 Nov 2021 02:01:37 +0000 \nAttachments: \n2021-11-26_GM_mot_to_preclude_eross_v2.doex \nHey team, \nLetter to preclude cross attached. er our conversation, I left blanks for the facts of MV-1 and MV-2's drug \nuse. I think you can just write a couple sentences — it doesn't have to be long. \nOtherwise, welcome all comments, and please make sure the section on MV-1's family is accurate! \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA00016494",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "n MV-1's family is accurate! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s accurate! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York. New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.788Z"
+}

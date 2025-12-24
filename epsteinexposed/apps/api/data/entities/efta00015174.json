@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015174",
+    "filename": "EFTA00015174.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015174.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: 3500 Cover \nLetter \nDate: Thu, 07 Oct 2021 20:38:04 +0000 \nAttachments: 2021.10.11_Maxwell_Cover_Letter v2.docx \nHi team, \nDraft letter attached. Please review for accuracy and let me know if you have any edits. I included the language about \nere, but thought it might read a little strange here? We could otherwise have the paralegals include it in the \n3500 index in a footnote on the witness log document. \nThanksl \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00015174",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cover \nLetter",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: 3500 Cover \nLetter \nDate: Thu, 07 Oct 2021 20:38"
+      },
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "on the witness log document. \nThanksl \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "nksl \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.135Z"
+}

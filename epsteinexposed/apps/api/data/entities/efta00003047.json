@@ -1,0 +1,108 @@
+{
+  "document": {
+    "id": "efta00003047",
+    "filename": "EFTA00003047.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003047.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTel: \n340-775-8100 \nFax: \n340-775-8108 \nEmergency \nContact \nForm \nDate: \nEmployee \nName: \nCuthbert \nF \nTitre \nStart \nDate: \nema \nV1 \n00602 \nAddress: \nSt \nTh\n \nDate \nof \nBirth: \nPhone: \nCell: \nE\n-Mail: \nitle \n/ \nPosition: \nMarital \nStatus: \nSingle \nLicense: \n^-•_____ \n• \n---\nmergency \nInformation.\nAllergies \nor \nHealth \nConcerns. \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nmono \nJuelle \nDoctor's \nName: \nPhone: Phone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact \n: \nRelationship \nSister \nPhone \nRelationship \nsoother \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003047",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "775-8100 \nFax: \n340-775-8108 \nEmergency \nContact \nForm \nDate: \nEmployee \nName:"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "775-8108 \nEmergency \nContact \nForm \nDate: \nEmployee \nName: \nCuthbert"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "rgency \nContact \nForm \nDate: \nEmployee \nName: \nCuthbert \nF \nTitre \nStart"
+      },
+      {
+        "name": "Titre \nStart",
+        "role": "extracted",
+        "context": "Employee \nName: \nCuthbert \nF \nTitre \nStart \nDate: \nema \nV1 \n00602 \nAddre"
+      },
+      {
+        "name": "St \nTh",
+        "role": "extracted",
+        "context": "e: \nema \nV1 \n00602 \nAddress: \nSt \nTh\n \nDate \nof \nBirth: \nPhone: \nC"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "E\n-Mail: \nitle \n/ \nPosition: \nMarital \nStatus: \nSingle \nLicense: \n^-•_____"
+      },
+      {
+        "name": "Single \nLicense",
+        "role": "extracted",
+        "context": "Position: \nMarital \nStatus: \nSingle \nLicense: \n^-•_____ \n• \n---\nmergency"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Information.\nAllergies \nor \nHealth \nConcerns. \nBlood \nType: \nCurrent \nMedi"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns. \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nConcerns. \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nmono \nJuel"
+      },
+      {
+        "name": "Juelle \nDoctor",
+        "role": "extracted",
+        "context": "tion: \nDoctor's \nName: \nmono \nJuelle \nDoctor's \nName: \nPhone: Phone: \nIn"
+      },
+      {
+        "name": "Relationship \nSister",
+        "role": "extracted",
+        "context": "ergency, \nPlease \ncontact \n: \nRelationship \nSister \nPhone \nRelationship \nsoother"
+      },
+      {
+        "name": "Phone \nRelationship",
+        "role": "extracted",
+        "context": "act \n: \nRelationship \nSister \nPhone \nRelationship \nsoother \nPhone \nThis \nInform"
+      },
+      {
+        "name": "Phone \nThis",
+        "role": "extracted",
+        "context": "Phone \nRelationship \nsoother \nPhone \nThis \nInformation \nis \nfor \nyour"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "340-775-8100",
+      "340-775-8108"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.596Z"
+}

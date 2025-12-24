@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00019513",
+    "filename": "EFTA00019513.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019513.pdf",
+    "text": "\n\nFrom: \nTo: )\" N. (NY) (FBI)\" \nCc:\n)\" \nSubject: Re: next steps \nDate: Thu, 13 Dec 2018 21:24:28 +0000 \nAttachments: 301 e  66 street DAS search.pdf; whatsapp_search_212.533.3739.png \nAttached is the negative results for whatsapp search of phone number \nAdditionally I've attached a DAS search for 301 E 66 Street which contains over 2000 records. Be mindful that \nthis is a 13 story apartment building so many of these results may be irrelevant. If we have a particular name or \napartment number I can do another search for that. \nDetective \nNYPD 1 FBI \nChild Ex loitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom \nSent: Thursday, December 13, 2018 12:35:46 PM \nTo \nN. (NY) \n(FBI) \nCc: (USANYS); \nSubject: next steps \nTeam, \n> \nHope you're recovering well from yesterday! Whenever you have a moment, we were wondering if you could \ntake a look at the following: \nCould you please send us provider information for the phone number listed in the SORNA registration? Looks \nlike the relevant number is \nFor the number, could you please run that through WhatsApp, and take screen shots of any account that \npops up associated with that number? \nIn addition, could you please run database searches on 301 E. 66th Street? This is the address for a property \nthat appears to be owned at least in part by Epstein, and where models for Mc2 may have been provided \nhousing. \nThanks! \nAssistant United States Attorney \nEFTA00019513\n\nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00019514",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Child Ex",
+        "role": "extracted",
+        "context": "that. \nDetective \nNYPD 1 FBI \nChild Ex loitation Human Trafficking T"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD 1 FBI \nChild Ex loitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "x loitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "Force \nOffice: \nCell: \nFax: \nFrom \nSent: Thursday, December 13, 2018"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "provided \nhousing. \nThanks! \nAssistant United States Attorney \nEFTA00019513"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "g. \nThanks! \nAssistant United States Attorney \nEFTA00019513\n\nSouthern Distr"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tates Attorney \nEFTA00019513\n\nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York. NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00019514"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-13",
+        "event": "December 13, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.049Z"
+}

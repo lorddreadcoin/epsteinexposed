@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00032147",
+    "filename": "EFTA00032147.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032147.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nNotes \nDate: Thu, 29 Aug \n2019 16:40:47 +0000 \nAttachments: Dr.M.zip \nAttached are my notes, and all the \nreferences provided during \nthe interview wia \nthis morning. \nFBI - New \nYork Cit \nEFTA00032147",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Notes \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: \nNotes \nDate: Thu, 29 Aug \n2019 16:40:47 +"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "iew wia \nthis morning. \nFBI - New \nYork Cit \nEFTA00032147"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.743Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00023747",
+    "filename": "EFTA00023747.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023747.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nRE: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nDate: Mon, 14 Sep 2020 19:29:32 +0000 \nReceived, thank you very \nmuch. \nAssistant United States \nAttorney \nSouthern District of New York \nNew York, NY 10007 \n Ori inal Message \nFrom: \nSent: Monda , Se p tember 14, 2020 3:23 PM \nTo: \nSubject: Subject: JEFFREY E EPSTEIN, 2020PR000426AMB \nThe attached document is in regard to the above referenced case, to which you are a party of or have an interest \nin. If you have any questions, please contact our office at \nEFTA00023747",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "eived, thank you very \nmuch. \nAssistant United States \nAttorney \nSouthern Di"
+      },
+      {
+        "name": "States \nAttorney",
+        "role": "extracted",
+        "context": "very \nmuch. \nAssistant United States \nAttorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tant United States \nAttorney \nSouthern District of New York \nNew York, NY 100"
+      },
+      {
+        "name": "Message \nFrom",
+        "role": "extracted",
+        "context": "New York, NY 10007 \n Ori inal Message \nFrom: \nSent: Monda , Se p tember 1"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.538Z"
+}

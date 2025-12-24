@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00014088",
+    "filename": "EFTA00014088.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014088.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Epstein CVRA Case \nDate: Tue, 08 Jul 2008 20:28:55 +0000 \nImportance: Normal \nAttachments: Villafana Declaration _ re_ victim notification.wpd; DEI 080707 Petition.pdf \nCan you scan the letters and send them to me by e-mail? Thanks. \nFrom \nSent: Tuesday, July 08, 2008 4:02 PM \nTo: \nCc: \nSubject: FW: Epstein CVRA Case \nGood Afternoon. \nMI and I are taking a look at the petition and affidavit that you sent and were wondering if it would be possible \nfor you to send us a  copy of the letters that were sent to the victims in this case. The AUSA refers to attached \ncopies in her affidavit at #3. \nWe are working on this and will respond to you ASAP. \nThanks. \nAttorney Advisor \nLECC/Vietim Witness Staff \nEOUSA \nFrom: \nSent: Tuesda , Jul 08 2008 1:37 PM \nTo: \nSubj : ein Case \nMs. \nEFTA00014088\n\nAttached please find the emergency petition filed yesterday afternoon, and a draft declaration from the AUSA. \nOur response is due on Wednesday, July 9, 2008, at close of business. \nThanks for your assistance. \n«Villafana Declaration re victim notification.wpd» «DE1_080707_Petition.pdf» \nEFTA00014089",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Case \nDate",
+        "role": "extracted",
+        "context": "o: \nSubject: FW: Epstein CVRA Case \nDate: Tue, 08 Jul 2008 20:28:55 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 20:28:55 +0000 \nImportance: Normal \nAttachments: Villafana Declaration _ re_"
+      },
+      {
+        "name": "Villafana Declaration",
+        "role": "extracted",
+        "context": "ortance: Normal \nAttachments: Villafana Declaration _ re_ victim notification.wpd"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "hem to me by e-mail? Thanks. \nFrom \nSent: Tuesday, July 08, 2008 4:02"
+      },
+      {
+        "name": "Case \nGood",
+        "role": "extracted",
+        "context": "c: \nSubject: FW: Epstein CVRA Case \nGood Afternoon. \nMI and I are taki"
+      },
+      {
+        "name": "Attorney Advisor",
+        "role": "extracted",
+        "context": "espond to you ASAP. \nThanks. \nAttorney Advisor \nLECC/Vietim Witness Staff \nE"
+      },
+      {
+        "name": "Vietim Witness",
+        "role": "extracted",
+        "context": "anks. \nAttorney Advisor \nLECC/Vietim Witness Staff \nEOUSA \nFrom: \nSent: Tu"
+      },
+      {
+        "name": "Case \nMs",
+        "role": "extracted",
+        "context": "2008 1:37 PM \nTo: \nSubj : ein Case \nMs. \nEFTA00014088\n\nAttached plea"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-07-08",
+        "event": "July 08, 2008"
+      },
+      {
+        "date": "2008-07-09",
+        "event": "July 9, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.096Z"
+}

@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00031314",
+    "filename": "EFTA00031314.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031314.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: Private & confidential \nDate: Tue, 07 May 2019 20:48:17 +0000 \nImportance: Normal \nReceived, thanks very much. \nFrom: \nSent: Tuesday, May 07, 2019 16:47 \nTo: \nSubject: FW: Private & confidential \nNot sure this is terribly significant, but forwarding it to you just in case. \nBest,\nCriminal Division \nFrom \nSent: Tuesda , Ma 7, 2019 4:44 PM \nTo \nu j :Private con \ni \nenha \nhttp://www.virginislandsdailynews.com/news/epstein-building-compound-on-great-st-james/article_a49261e9-\n4010-57b1-9501-605e26e74cf3.html \nExecutive Director \nAlliance to Rescue Victims of Trafficking \natrvt.org \nEFTA00031314",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Private & confi"
+      },
+      {
+        "name": "Normal \nReceived",
+        "role": "extracted",
+        "context": "9 20:48:17 +0000 \nImportance: Normal \nReceived, thanks very much. \nFrom: \nSe"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "t to you just in case. \nBest,\nCriminal Division \nFrom \nSent: Tuesda , Ma 7, 2"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "se. \nBest,\nCriminal Division \nFrom \nSent: Tuesda , Ma 7, 2019 4:44 PM"
+      },
+      {
+        "name": "Executive Director",
+        "role": "extracted",
+        "context": "-57b1-9501-605e26e74cf3.html \nExecutive Director \nAlliance to Rescue Victims o"
+      },
+      {
+        "name": "Rescue Victims",
+        "role": "extracted",
+        "context": "ecutive Director \nAlliance to Rescue Victims of Trafficking \natrvt.org \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-07",
+        "event": "May 07, 2019"
+      },
+      {
+        "date": "2019-05-07",
+        "event": "07 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.803Z"
+}

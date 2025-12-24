@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018383",
+    "filename": "EFTA00018383.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018383.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nI \nTo: ' (USANYS)\" \nci\nSubject: RE: Epstein Finances \nDate: Thu, 18 Jul 2019 18:41:27 +0000 \nSomething prompt this? \nFrom: (USANYS) < \nSent: Thursday, July 18, 2019 2:41 PM \nTo: \nCc: (USANYS) \n< \nSubject: Epstein Finances \nIf any of you have 5-10 minutes this afternoon, swing by. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \n>; \nEFTA00018383",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Finances",
+        "role": "extracted",
+        "context": "' (USANYS)\" \nci\nSubject: RE: Epstein Finances \nDate: Thu, 18 Jul 2019 18:41"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "ternoon, swing by. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \n>; \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-18",
+        "event": "July 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.803Z"
+}

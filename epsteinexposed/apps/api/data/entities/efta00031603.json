@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031603",
+    "filename": "EFTA00031603.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031603.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: RE: Epstein \nDate: Mon, 22 Apr 2019 17:02:25 +0000 \nImportance: Normal \nAttachments: 2019-04-16, JE,sealed_memorandum_and_order_re_unsealing,17_Civ_0616.pdf \nYes, and sorry for the delay -- attached. \n Ori inal Messa e \nFrom: \nSent: Sunda A ri•il>\nTo: \nSubject: Epstein \nCan you send \nme Judge Netbum's opinion? \nSent from my iPhone \nEFTA00031603",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: RE: Epstein \nDate: Mon, 22 Apr 2019 17:02:25 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 17:02:25 +0000 \nImportance: Normal \nAttachments: 2019-04-16, JE,sealed_memora"
+      },
+      {
+        "name": "Epstein \nCan",
+        "role": "extracted",
+        "context": "Sunda A ri•il>\nTo: \nSubject: Epstein \nCan you send \nme Judge Netbum's o"
+      },
+      {
+        "name": "Judge Netbum",
+        "role": "extracted",
+        "context": "ct: Epstein \nCan you send \nme Judge Netbum's opinion? \nSent from my iPho"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-16",
+        "event": "2019-04-16"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.501Z"
+}

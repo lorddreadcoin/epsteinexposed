@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00031388",
+    "filename": "EFTA00031388.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031388.pdf",
+    "text": "\n\nFrom: ' \nSubject: RE: MCC case \nDate: Tue, 22 Oct 2019 17:01:50 +0000 \nYep, I'm around. \nFrom: \nSent: Tuesday, October 22, 2019 1:01 PM \nTo: \nSubject: RE: MCC case \nThat would be great, thanks — can I swing by? \nFrom: \nSent: Tuesday, October 22, 2019 12:59 PM \nTo: \nSubject: RE: MCC case \nWill take a look. In the interim, have something else you may be interested in if you have a moment. \nFrom: \nSent: Tuesday, October 22, 2019 11:E AM \nTo: \nSubject: MCC case \nI just read the attached opinion in a civil case (it came on my radar because Judge Pauley made a comment about \nEpstein's death at MCC) — I was wondering if you knew whether our office ever investigated the guards involved in this. \nThis was a 2015 incident, but it's still within the statute of limitations, and seems quite serious. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031388",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Pauley",
+        "role": "extracted",
+        "context": "(it came on my radar because Judge Pauley made a comment about \nEpstein"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ns, and seems quite serious. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "te serious. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031388"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-10-22",
+        "event": "October 22, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.975Z"
+}

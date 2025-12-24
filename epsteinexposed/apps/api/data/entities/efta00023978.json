@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00023978",
+    "filename": "EFTA00023978.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023978.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: \n(USANYS)\" \nCc: \n'El\n \n(USANYS)\"\n[Contractor]\" \nSubject: Re: Epstein Coconspirators \nDate: Wed, 06 May 2020 19:53:20 +0000 \n(USANYS) \nThanks! \nSent from my iPhone \n> On May 6, 2020, at 3:45 PM, \n(USANYS) \nwrote: \n> Negative \n> Sent from my iPhone \n>> On May 6, 2020, at 3:43 PM, \n(USANYS) alMIE> \nwrote: \n>> ABC News got a tip that something is imminent. We obviously declined, but just for press office edification, \nis anything happening? \n>> Sent from my iPhone \nEFTA00023978",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Coconspirators",
+        "role": "extracted",
+        "context": "\"\n[Contractor]\" \nSubject: Re: Epstein Coconspirators \nDate: Wed, 06 May 2020 19:53"
+      },
+      {
+        "name": "On May",
+        "role": "extracted",
+        "context": "anks! \nSent from my iPhone \n> On May 6, 2020, at 3:45 PM, \n(USANYS"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-06",
+        "event": "May 6, 2020"
+      },
+      {
+        "date": "2020-05-06",
+        "event": "06 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.016Z"
+}

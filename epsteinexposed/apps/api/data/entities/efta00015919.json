@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00015919",
+    "filename": "EFTA00015919.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015919.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein search warrant materials \nDate: Tue, 12 Nov 2019 19:15:24 +0000 \nI am generating the load files for such stuff as we speak. Apologies for the delays, this is a long and complex \nprocess that I  had to come up with a procedure for. I anticipate the files being ready by the Thursday COB. If you \ncould forward a drive to me to copy the files onto, I would appreciate it. \nSenior Forensic Examiner \ncell \ndesk \nOn Nov 12, 2019 2:11 PM, \"I)\" <1=1.> \nwrote: \nWanted to follow up on our phone conversation from about six weeks ago — I think we had anticipated that the electronic \nevidence that was being processed by CART from the New York residence search (which I believe was whittled down to \napproximately 5-6 iMacs and 5 laptop computers) would be completed for upload with load files for Relativity sometime \nin late October. We're concerned about timing particularly because I think that's just the tip of the iceberg — I don't think \nFBI has even started on the island materials, for example — so wanted to check on timing. Could you please let us know \nwhat the status is of those materials, and also what the materials are from the island that need to be processed, and \nwhether there's an estimated time of completion for those as well? \nthanks very much, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00015919",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Senior Forensic",
+        "role": "extracted",
+        "context": "onto, I would appreciate it. \nSenior Forensic Examiner \ncell \ndesk \nOn Nov"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "orensic Examiner \ncell \ndesk \nOn Nov 12, 2019 2:11 PM, \"I)\" <1=1.>"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ks very much, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.777Z"
+}

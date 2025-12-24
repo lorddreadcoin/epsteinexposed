@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031449",
+    "filename": "EFTA00031449.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031449.pdf",
+    "text": "\n\nFrom: \n'• \n(USANYS)\" \nTo: \"USil 1/2SNita.\n(USANYS)\" \nCc: (USANYS)\"\nSubject: RE: Noel & Thomas DP memos \nDate: Wed, 14 Apr 2021 21:12:22 +0000 \nAttachments: 2021.04.14 Thomas DP Memo.docx \nAdding the Thomas DP memo as well (this is why we need help with the organization!). \nFrom: (USANYS) \nSent: Wednesday, April 14, 2021 5:06 PM \nTo: (USANYS) \nCc: (USANYS)<> \nSubject: Noel & Thomas DP memos \nHa,\nWe are sending you the DP memos for Noel and Thomas. \n(USANYS) \nWe are also sending you the various application materials so that you have them all in one place. \nLet us know if you have any comments/edits/etc. on the memos that you would like us to address. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00031449",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "like us to address. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-14",
+        "event": "April 14, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.113Z"
+}

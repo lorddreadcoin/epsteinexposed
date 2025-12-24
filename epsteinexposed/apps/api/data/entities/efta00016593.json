@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016593",
+    "filename": "EFTA00016593.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016593.pdf",
+    "text": "\n\nFrom: (USANYS)\" <\nIMME> \n\" \nTo: \nCc: \n'M f..\n./S2\" \nI' II \nSubject: Re: Ex Parte Submission: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nDate: Mon, 05 Aug 2019 13:51:20 +0000 \nGreat, well done. \nSent from my iPhone \n> On \nAug 5, 2019, at 9:45 AM, \n<MIMI.> \nwrote: \n> FYI, here's the order from Berman on our 16(d) letter. \n> Original Message \n> From: Christine_Murray®nysd.uscourts.gov \n<Christine_Murray®nysd.uscourts.gov> \n> Sent: \nMonday. \nAugust 5 2019 9:44 AM \n> \nTo: \n> Cc: \naNIMME> \n> Subject: Re: Ex Parte Submission: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \n> (See attached \nfile: 19CR490 AUG 5 2019 MEMO END.pdf) \n> <19CR490 AUG 5 2019 MEMO END.pdf> \nEFTA00016593",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ubject: Re: Ex Parte Submission: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB) \nDate: Mon, 05 Aug 2019 13:51:2"
+      },
+      {
+        "name": "Ex Parte",
+        "role": "extracted",
+        "context": "..\n./S2\" \nI' II \nSubject: Re: Ex Parte Submission: United States v."
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": "done. \nSent from my iPhone \n> On \nAug 5, 2019, at 9:45 AM, \n<MIMI.>"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "erman on our 16(d) letter. \n> Original Message \n> From: Christine_Murray®nys"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-05",
+        "event": "August 5 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.043Z"
+}

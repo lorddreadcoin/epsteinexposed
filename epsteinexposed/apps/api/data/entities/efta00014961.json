@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014961",
+    "filename": "EFTA00014961.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014961.pdf",
+    "text": "\n\n11/28/21, 9:29 PM Mail - \nModer. \nR. (NY) (FBI) - \nOutlook \nCART Review \nTue 10/13/2020 1:49 PM \nTo• \nHey just tried your cell. Feel free to give me a call \nOn Oct 13, 2020 6:27 PM, ' \n> \nwrote: \nHey \nJust spoke to \nregarding CART \nstuff. \nMind calling if you have a few? \nhttps://outloolcoffice365.usimail/deeplink?popoutv2=1&versionE20211025002.13 \n1/1 \nEFTA00014961",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Review \nTue",
+        "role": "extracted",
+        "context": ". (NY) (FBI) - \nOutlook \nCART Review \nTue 10/13/2020 1:49 PM \nTo• \nHey"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "Feel free to give me a call \nOn Oct 13, 2020 6:27 PM, ' \n> \nwrote"
+      },
+      {
+        "name": "Hey \nJust",
+        "role": "extracted",
+        "context": ", 2020 6:27 PM, ' \n> \nwrote: \nHey \nJust spoke to \nregarding CART \nstu"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-13",
+        "event": "10/13/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.866Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014163",
+    "filename": "EFTA00014163.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014163.pdf",
+    "text": "\n\nFrom: \nTo: \nBce: \nSubject: age Artic e re \ncourt tr to \nDate: Tue, 03 Jun 2008 13:09:50 +0000 \nImportance: Normal \nAttachments: Page_6_Article_re_Lefcourt_Ltr toadf \nHere \nit is. \n«Page 6 Article re Lefcourt Ltr to Acosta.pdf» \nEFTA00014163",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 13:09:50 +0000 \nImportance: Normal \nAttachments: Page_6_Article_re_Lefcourt_L"
+      },
+      {
+        "name": "Lefcourt Ltr",
+        "role": "extracted",
+        "context": "e \nit is. \n«Page 6 Article re Lefcourt Ltr to Acosta.pdf» \nEFTA00014163"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.295Z"
+}

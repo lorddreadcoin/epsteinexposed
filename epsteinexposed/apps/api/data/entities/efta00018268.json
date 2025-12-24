@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018268",
+    "filename": "EFTA00018268.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018268.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nSubject: SDNY Opposition to Epstein Bail Motion \nDate: Fri, 12 Jul 2019 21:29:13 +0000 \nImportance: Normal \nAttachments: 2019-07-12, JE,_govemment_opposition_to_bail_motioniwith_exhibits).pdf \nPlease see the attached. \nKind regards, \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00018268",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Bail",
+        "role": "extracted",
+        "context": "Subject: SDNY Opposition to Epstein Bail Motion \nDate: Fri, 12 Jul 201"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "NY Opposition to Epstein Bail Motion \nDate: Fri, 12 Jul 2019 21:29:13 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 21:29:13 +0000 \nImportance: Normal \nAttachments: 2019-07-12, JE,_govemment_op"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "the attached. \nKind regards, \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00018268"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "2019-07-12"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.542Z"
+}

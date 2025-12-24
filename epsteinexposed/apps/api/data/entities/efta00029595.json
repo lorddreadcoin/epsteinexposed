@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029595",
+    "filename": "EFTA00029595.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029595.pdf",
+    "text": "\n\nFrom: (USANYS)\" cz\nIMIE> \nTo: \n\"MI \n(USANYS)\" \nCc: r\" <a, \"n \nSubject: Travel for trial witness \nDate: Tue, 31 Aug 2021 19:48:16 +0000 \nAttachments: Fact Witness \nTravel_Request_l \n).docx \nHi \nSee attached. Please let me know if you need any other \ninformation. \nI confirmed \nwith \ncounsel that it is fine for \nyou to contact her directly to discuss travel logistics. \nThanks so much I I \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00029595",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "19:48:16 +0000 \nAttachments: Fact Witness \nTravel_Request_l \n).docx \nHi"
+      },
+      {
+        "name": "Hi \nSee",
+        "role": "extracted",
+        "context": "ss \nTravel_Request_l \n).docx \nHi \nSee attached. Please let me know"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "gistics. \nThanks so much I I \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "so much I I \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.754Z"
+}

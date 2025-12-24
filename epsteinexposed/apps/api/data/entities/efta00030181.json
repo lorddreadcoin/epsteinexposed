@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030181",
+    "filename": "EFTA00030181.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030181.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: RE: epstein \nDate: Tue, 09 Jul 2019 14:09:55 +0000 \nImportance: Normal \n)\" < \nhttps://www.thedailybeast.com/jeffrey-epstein-shouldnt-expect-to-wiggle-free-again-with-sdny-sex-trafficking-charges\nFrom: \nSent: \nTuesday. July 9. 2019 9:43 \nAM \nTo: \nSubject: Fwd: epstein \nThe other one was from the second conference; this is from the first one \nSent from my iPhone \nBegin forwarded message: \nFrom: Goretti Moya <gmoysdreporters.com>\nDate: July 8, 2019 at 17:12:36 EDT \nTo: \" \nSubject: epstein \nPlease e-mail when youg et this \nEFTA00030181",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "the first one \nSent from my iPhone \nBegin forwarded message: \nFrom: Gor"
+      },
+      {
+        "name": "Goretti Moya",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Goretti Moya <gmoysdreporters.com>\nDate: J"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "July 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.200Z"
+}

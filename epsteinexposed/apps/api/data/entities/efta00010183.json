@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00010183",
+    "filename": "EFTA00010183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010183.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \nSubject: Witness Travel Chart \nDate: Fri, 12 Nov 2021 00:26:19 +0000 \nAttachments: Maxwell_Witnesses_and_Travel.docx \nHi team, \nSince there are so many moving parts with travel and witnesses we would prefer not see each other, I started putting \ntogether a travel chart fo Attached and saved here: \\ Usa.doj.gov\\ clouaNYS\\ StAndrews‘SharecRUSvEpstein-\n2018R01618VTrial Order of Proof\\Travel Chart fo=  If you think this makes sense to send her (or at least have to \ntalk her through), please feel free to edit/update. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA00010183",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Witness Travel",
+        "role": "extracted",
+        "context": "rom: (USANYS)\" \nTo: \nSubject: Witness Travel Chart \nDate: Fri, 12 Nov 2021"
+      },
+      {
+        "name": "Chart \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: Witness Travel Chart \nDate: Fri, 12 Nov 2021 00:26:19 +0"
+      },
+      {
+        "name": "Trial Order",
+        "role": "extracted",
+        "context": "SharecRUSvEpstein-\n2018R01618VTrial Order of Proof\\Travel Chart fo=  If"
+      },
+      {
+        "name": "Travel Chart",
+        "role": "extracted",
+        "context": "18R01618VTrial Order of Proof\\Travel Chart fo=  If you think this makes"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ree to edit/update. \nThanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York. Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.451Z"
+}

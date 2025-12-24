@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "efta00011519",
+    "filename": "EFTA00011519.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011519.pdf",
+    "text": "\n\nTo: \nFrom: /O=USNOU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=SNAKANO-02] \nSent: Thur 6/14/2007 5:23:41 PM (UTC) \nSubject: RE: A question regarding a very old case \nCOMPLAIN.03.wpd \nEJECT2.BRF.wpd \nDECISION.02.wpd \nDECISION.01.wpd \nAttached is a copy of the complaint, summary judgment brief and court's decisions. Please let me know if you need any \nfurther info. Good luck! \nFrom: ) \n[mailto: \nSent: Tuesday, June 12, 2007 3:40 PM \nTo: \nSubject: A question regarding a very old case \n—  I  saw that you were the AUSA who worked on a case several years ago against Jeffrey Epstein involving the \nlease of a former embassy. Do you remember anything about the case that you might be willing to share? \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00011519",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "SA who worked on a case several years ago against Jeffrey Epstein involving the \nlease of a former embassy. Do you"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00011519"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-06-14",
+        "event": "6/14/2007"
+      },
+      {
+        "date": "2007-06-12",
+        "event": "June 12, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.811Z"
+}

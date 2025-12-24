@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00024715",
+    "filename": "EFTA00024715.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024715.pdf",
+    "text": "\n\nFrom: ' (USANYS) [Contractor]\"  \nTo: \"Berman, Geoffrey SANYS)\" \n(USANYS)\" \n(USANYS)\" \nSubject: \nNew Epstein Ruling \nDate: Thu, 21 Feb 2019 20:01:04 +0000 \nImportance: Normal \nUSANYS)\" \nhttps://www.miamiherald.com/news/state/florida/article226577419.html \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00024715",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Epstein",
+        "role": "extracted",
+        "context": "SANYS)\" \n(USANYS)\" \nSubject: \nNew Epstein Ruling \nDate: Thu, 21 Feb 201"
+      },
+      {
+        "name": "Ruling \nDate",
+        "role": "extracted",
+        "context": "ANYS)\" \nSubject: \nNew Epstein Ruling \nDate: Thu, 21 Feb 2019 20:01:04 +0"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "lorida/article226577419.html \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00024715"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.683Z"
+}

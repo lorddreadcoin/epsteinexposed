@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030794",
+    "filename": "EFTA00030794.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030794.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" \nSubject: Re: Epstein VNS \nDate: Fri, 31 Jul 2020 01:23:47 +0000 \nThank you! \nOn \nJul 30, 2020, at 9:15 PM, \nWill do \nSent from my iPhone \n(USANYS) wrote: \nOn Jul 30, 2020, at 12:20 PM, allIMINE> \nwrote: \nHi \nWhen you are back from leave, would you please check to see what, if any, VNS notifications have been sent out to the \nbelow individuals for the Epstein case? \nEFTA00030794\n\nThanks very much, \nEFTA00030795",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On \nJul",
+        "role": "extracted",
+        "context": "0 01:23:47 +0000 \nThank you! \nOn \nJul 30, 2020, at 9:15 PM, \nWill d"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "m my iPhone \n(USANYS) wrote: \nOn Jul 30, 2020, at 12:20 PM, allIMI"
+      },
+      {
+        "name": "Hi \nWhen",
+        "role": "extracted",
+        "context": "12:20 PM, allIMINE> \nwrote: \nHi \nWhen you are back from leave, woul"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.688Z"
+}

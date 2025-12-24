@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00028322",
+    "filename": "EFTA00028322.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028322.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \n)\" \nSubject: Epstein subpoenas \nDate: Wed, 10 Jul 2019 16:00:08 +0000 \nImportance: Normal \nSubpoenas Before Today \nEmployees involved in offenses\nAssociates with knowledge of the offenses Ghislaine Maxwell, \n(only known client) \none of his pilots) \nAlso, we have contacted, but not used subpoenas with, many victims \nSubpoenas Today \nToday they are subpoenaing two Miami household staff (= and ), one recruiter and \nanother pilot \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \nEFTA00028322",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ffenses\nAssociates with knowledge of the offenses Ghislaine Maxwell, \n(only known client) \none of his pilots) \nAlso,"
+      },
+      {
+        "name": "Normal \nSubpoenas",
+        "role": "extracted",
+        "context": "9 16:00:08 +0000 \nImportance: Normal \nSubpoenas Before Today \nEmployees invol"
+      },
+      {
+        "name": "Before Today",
+        "role": "extracted",
+        "context": "Importance: Normal \nSubpoenas Before Today \nEmployees involved in offens"
+      },
+      {
+        "name": "Subpoenas Today",
+        "role": "extracted",
+        "context": "subpoenas with, many victims \nSubpoenas Today \nToday they are subpoenaing t"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "recruiter and \nanother pilot \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "another pilot \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \nEFTA00028322"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.010Z"
+}

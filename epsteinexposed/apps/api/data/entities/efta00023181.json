@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023181",
+    "filename": "EFTA00023181.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023181.pdf",
+    "text": "\n\nFrom: \"Thrapp. \nJack ly \nTo: \nSubject: [EXTERNAL] Press Question (Ghislaine Maxwell Trial) \nDate: Fri, 22 Oct 2021 15:18:14 +0000 \nInline-Images: image00 1 jpg; image002.jpg \nHello, \nI'm a reporter for the National Enquirer covering the trial of Ghislaine Maxwell. I hearu won't be called to \nthe stand during the trial. \nIs this true? And if so, can you elaborate on why, if possible. \nThanks \nJACKI THRAPP \nREPORTER \nTHE NATIONAL ENQUIRER \nEFTA00023181",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Jack ly \nTo: \nSubject: [EXTERNAL] Press Question (Ghislaine Maxwell Trial) \nDate: Fri, 22 Oct 2021 15:18:14 +0000 \nIn"
+      },
+      {
+        "name": "Press Question",
+        "role": "extracted",
+        "context": "ly \nTo: \nSubject: [EXTERNAL] Press Question (Ghislaine Maxwell Trial) \nDa"
+      },
+      {
+        "name": "National Enquirer",
+        "role": "extracted",
+        "context": "ello, \nI'm a reporter for the National Enquirer covering the trial of Ghislai"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.414Z"
+}

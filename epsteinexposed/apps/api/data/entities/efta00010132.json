@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00010132",
+    "filename": "EFTA00010132.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010132.pdf",
+    "text": "\n\nFrom: \n(USANYS) \n[Contractor]\"  \nTo: \n 1\" \nEMIE>, \nCc: \nSubject: RE: letter referencing Ghislaine Maxwell \nDate: The, 09 Nov 2021 14:47:16 +0000 \n(USANYS) [Contractor]\" \nJust added this to the next \npending  NTW 3500 folder. Thanks! \nFrom \nSent: Tuesda November 9, 2021 9:07 AM \nTo: (USANYS) [Contractor> \nSubject: FW: letter referencing Ghislaine Maxwell \ncould you please add this to NTW 3500? Thanks. \nFrom \n(CRM) \nSent: Tuesday, November 9, 2021 7:33 AM \nTo: \n(USANYS) \nSubject: letter referencing Ghislaine Maxwell \nColleagues, \nUSANYS) [Contractor] \naja \nMy office received the attached email as citizen correspondence. Because it references Jeffrey Epstein and \nGhislaine Maxwell, I am forwarding it to you for whatever consideration you deem appropriate. Consistent \nwith our standard response, we will simply advise the writer to contact the FBI. Please let me know if you have \nany questions. Thanks very much, \nDeputy Chief for Policy and Legislation \nChild Exploitation and Obscenity Section \nU.S. De artment of justice \nmobile) \nEFTA00010132",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "as citizen correspondence. Because it references Jeffrey Epstein and \nGhislaine Maxwell, I am forwarding it to you"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "1\" \nEMIE>, \nCc: \nSubject: RE: letter referencing Ghislaine Maxwell \nDate: The, 09 Nov 2021 14:47:16 +0000 \n(USANYS)"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ng  NTW 3500 folder. Thanks! \nFrom \nSent: Tuesda November 9, 2021 9:07"
+      },
+      {
+        "name": "Tuesda November",
+        "role": "extracted",
+        "context": "folder. Thanks! \nFrom \nSent: Tuesda November 9, 2021 9:07 AM \nTo: (USANYS)"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "questions. Thanks very much, \nDeputy Chief for Policy and Legislation \nC"
+      },
+      {
+        "name": "Legislation \nChild",
+        "role": "extracted",
+        "context": "Deputy Chief for Policy and Legislation \nChild Exploitation and Obscenity Se"
+      },
+      {
+        "name": "Obscenity Section",
+        "role": "extracted",
+        "context": "ation \nChild Exploitation and Obscenity Section \nU.S. De artment of justice"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-09",
+        "event": "November 9, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.343Z"
+}

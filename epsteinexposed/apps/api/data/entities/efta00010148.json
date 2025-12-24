@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00010148",
+    "filename": "EFTA00010148.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010148.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein \nDate: Fri, 30 Nov 2018 14:24:55 +0000 \nImportance: Normal \nThe December 4 trial - is that the one against DOJ or against Epstein? State or federal court? \nSent from my iPhone \nEFTA00010148",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein \nDate: Fri, 30 Nov 2018 14:24:55 +0"
+      },
+      {
+        "name": "Normal \nThe",
+        "role": "extracted",
+        "context": "8 14:24:55 +0000 \nImportance: Normal \nThe December 4 trial - is that th"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.381Z"
+}

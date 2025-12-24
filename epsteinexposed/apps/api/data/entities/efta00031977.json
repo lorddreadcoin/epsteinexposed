@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00031977",
+    "filename": "EFTA00031977.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031977.pdf",
+    "text": "\n\nFrom: ' \n„cl \nk's \nTo: \n11 ' II \n, I  \n(USANYS)\" \nCc: ' \nSubject: RE: Phone numbers \nDate: Wed, 28 Jul 2021 23:06:32 +0000 \nAttachments: 2021.07.28_Court_SubpoenanAT&T.pdf; 2021.07.28_Court_SubpoenanT-Mobile.pdf \nThanks! Subpoenas attached. \nFrom: \nSent: Wednesday, July 28, 2021 5:25 PM \nTo: \nI\n'c\"; \n(USANYS) ‹> \nCc: \nSubject: Phone numbers \nHeys \nI apologize. I had this drafted and did not hit send. See below for the phone numbers we discussed. \nT-Mobile \nAT&T \nAttn: Global Legal Demands Center \nSpecial Agent \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk \nEFTA00031977",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Global Legal",
+        "role": "extracted",
+        "context": "ussed. \nT-Mobile \nAT&T \nAttn: Global Legal Demands Center \nSpecial Agent"
+      },
+      {
+        "name": "Demands Center",
+        "role": "extracted",
+        "context": "ile \nAT&T \nAttn: Global Legal Demands Center \nSpecial Agent \nFBI New York"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "Global Legal Demands Center \nSpecial Agent \nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk \nEFTA"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk \nEFTA00031977"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-28",
+        "event": "July 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.331Z"
+}

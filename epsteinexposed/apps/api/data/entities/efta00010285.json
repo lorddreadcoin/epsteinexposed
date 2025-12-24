@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00010285",
+    "filename": "EFTA00010285.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010285.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Letter \nDate: Fri, 02 Oct 2020 13:26:21 +0000 \nAttachments: 2020.10.02_Maxwell_Discovery_Letter.pdf \nInline-Images: image00 1 jpg; image002.jpg \nReceived. We have been working with the MDC to get complete answers to all of the issues you raised in your prior letter. \nWe will send you a formal written response when we can do so in a complete manner. \nIn the meantime, your copy of the new discovery production is ready for pickup at 1 St. Andrews. Attached please find the \naccompanying cover letter. We have also sent a  copy of this new production to the MDC, along with replacement files of \nthe materials your client had difficulty reviewing at the MDC. \nThe production of 40,000 images is still being prepared by our IT department, and we will let you know when that \nproduction is ready to load onto drives. To answer one of the questions you asked on a previous call, the FBI seized \napproximately 3,500 nude images and 40,000 non-nude images during the New York and Virgin Islands searches. The FBI \nis preparing all approximately 43,500 images to be viewable on a secure laptop that can reviewed at the MDC. The FBI \nexpects that process will be complete and the laptop ready for transport next week. We are still waiting on permission \nfrom the BOP for an FBI agent to bring the laptop into the facility. Once we have that, we will reach out to you to schedule \na meeting at the MDC. \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Thursday, October 1, 2020 11:11 PM \nTo: \nCc: \nSubject: Letter \nPlease see the attached letter. \nRegards, \nEFTA00010285\n\nEFTA00010286",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Letter \nDate: Fri, 02 Oct 2020 13:26:21 +0"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "mages during the New York and Virgin Islands searches. The FBI \nis prepari"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "edule \na meeting at the MDC. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "at the MDC. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent:"
+      },
+      {
+        "name": "Letter \nPlease",
+        "role": "extracted",
+        "context": "11:11 PM \nTo: \nCc: \nSubject: Letter \nPlease see the attached letter. \nReg"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-01",
+        "event": "October 1, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.665Z"
+}

@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00013738",
+    "filename": "EFTA00013738.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013738.pdf",
+    "text": "\n\nFrom: \" MuSAFLST •::. \nTo: \"Gerald Lefcourt\" c> \nCc: \\(uSARSM\">,' \\(USAFLS\\)\" \n>/i \nMUSAFLA)\" c> \nSubject: Revised Agreement re Epstein \nDate: Tue, 11 Sep 2007 18:15:25 +0000 \nImportance: Normal \nAttachments: 070911_Epstein_Non-Prosecution_Agreement.pdf \nDear Gerry: I have attached a revised version, as per Mr. Acosta's request. The operative terms have not \nchanged. If you have any questions, please do not hesitate to call. Also, please confirm your receipt of this e-\nmail. \nThank you. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nF \nEFTA00013738",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Acosta",
+        "role": "extracted",
+        "context": "hed a revised version, as per Mr. Acosta's request. The operative"
+      },
+      {
+        "name": "Gerald Lefcourt",
+        "role": "extracted",
+        "context": "From: \" MuSAFLST •::. \nTo: \"Gerald Lefcourt\" c> \nCc: \\(uSARSM\">,' \\(USAFL"
+      },
+      {
+        "name": "Revised Agreement",
+        "role": "extracted",
+        "context": ">/i \nMUSAFLA)\" c> \nSubject: Revised Agreement re Epstein \nDate: Tue, 11 Sep"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Subject: Revised Agreement re Epstein \nDate: Tue, 11 Sep 2007 18:15:25 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 18:15:25 +0000 \nImportance: Normal \nAttachments: 070911_Epstein_Non-Prosecuti"
+      },
+      {
+        "name": "Dear Gerry",
+        "role": "extracted",
+        "context": "on-Prosecution_Agreement.pdf \nDear Gerry: I have attached a revised ve"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nF \nEF"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.284Z"
+}

@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00019664",
+    "filename": "EFTA00019664.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019664.pdf",
+    "text": "\n\nFrom: \nTo: \" \nCc: \"  \n< \nSubject: RE: Follow Up Call \nDate: Mon, 19 Aug 2019 15:26:53 +0000 \nEl \nThat works for us. You can call my office number, which \nThanks \nFrom: \nSe \nTo: \nCc: \nSubject: RE: Follow Up Call \ncza \nNem and I are both available today at 1:30 MT/ 3:30 ET if that still works for you. Just let us know what number to call. \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nFrom \nSent: Saturday, August 17, 2019 3:49 PM \nTo: \nCc: \nSubject: Re: Follow Up Call \nThanks for the response and good luck in your trial. \nLet me know if any of the below proposed days and times work for you: \nMonday - 1:30 MT/ 3:30 ET \nEFTA00019664\n\nTuesday - 9:30 MT / 11:30 ET \nWednesday - 9:30 MT /11:30 ET or 1:30 MT / 3:30 ET \nBest, \nHolland \nSent from my iPhone \nOn Aug 17, 2019, at 12:46 PM, wrote: \nWe certainly can be in touch. I'm copying my colleagues on the case because I have a trial starting \nAugust 26 so I'll be mostly unavailable next week, but it should be possible to find a  time for one or both of them to \nchat. If you send a couple possible times for next week we can figure it out. \nthanks \nFrom \nSent: \n, \nTo: \nSubject: Follow Up Call \nWould you have a couple of minutes to chat with me and one of my colleagues about some NM-related Epstein matters \nthis afternoon or early next week? If today works for you, I am available any time after 1:30 MT/ 3:30 ET today. It is \nnothing urgent. \nEFTA00019665",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Follow Up",
+        "role": "extracted",
+        "context": "o: \" \nCc: \"  \n< \nSubject: RE: Follow Up Call \nDate: Mon, 19 Aug 2019"
+      },
+      {
+        "name": "Call \nDate",
+        "role": "extracted",
+        "context": "\"  \n< \nSubject: RE: Follow Up Call \nDate: Mon, 19 Aug 2019 15:26:53 +0"
+      },
+      {
+        "name": "El \nThat",
+        "role": "extracted",
+        "context": ", 19 Aug 2019 15:26:53 +0000 \nEl \nThat works for us. You can call my"
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "call my office number, which \nThanks \nFrom: \nSe \nTo: \nCc: \nSubject: RE:"
+      },
+      {
+        "name": "Se \nTo",
+        "role": "extracted",
+        "context": "number, which \nThanks \nFrom: \nSe \nTo: \nCc: \nSubject: RE: Follow Up"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "us know what number to call. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "er to call. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nFrom",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nFrom \nSent: Saturday, August 17, 2"
+      },
+      {
+        "name": "Call \nThanks",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Re: Follow Up Call \nThanks for the response and good luc"
+      },
+      {
+        "name": "Holland \nSent",
+        "role": "extracted",
+        "context": "or 1:30 MT / 3:30 ET \nBest, \nHolland \nSent from my iPhone \nOn Aug 17, 20"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Best, \nHolland \nSent from my iPhone \nOn Aug 17, 2019, at 12:46 PM, wr"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "e can figure it out. \nthanks \nFrom \nSent: \n, \nTo: \nSubject: Follow Up"
+      },
+      {
+        "name": "Call \nWould",
+        "role": "extracted",
+        "context": ": \n, \nTo: \nSubject: Follow Up Call \nWould you have a couple of minutes"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-17",
+        "event": "August 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.354Z"
+}

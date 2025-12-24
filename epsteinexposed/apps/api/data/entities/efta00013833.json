@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013833",
+    "filename": "EFTA00013833.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013833.pdf",
+    "text": "\n\nFrom: \nTo: \"Acosta, Alex (USAFLS)\" \n\"KATHERINE \nW. EZELL\" \nC\nCc: \nSubject: Conversation with Florida Bar Ethics Counsel re Epstein matter \nDate: Mon, 03 Nov 2008 23:52:54 +0000 \nImportance: Normal \nHi all —  I spoke with someone from the Florida Bar this afternoon. She told me that they would be issuing a \nwritten opinion by the end of the week that was essentially a \"non-opinion.\" In other words, the letter will say \nthat she cannot advise us regarding our victim notification obligations under federal law. She did, however, tell \nme that the solicitation rules don't apply to our Office in a situation like this because we are not soliciting \nemployment from the victims. I asked about whether the Office had reached a decision regarding Mr. \nJosefsberg's related inquiry, but she would not provide me with any information, citing the Bar's confidentiality \nrules. \nI am going to wait to hear from Mr. Josefsberg or Ms. Ezell regarding the response they receive from the Bar \nbefore I send out the final batch of letters so that I can revise them if necessary. \nOn another note, Dexter, have you heard anything from Mr. Edwards regarding the resolution of the Doe v. \nUnited States case? \nAssistant U.S. \nAttorne \nEFTA00013833",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Josefsberg",
+        "role": "extracted",
+        "context": "reached a decision regarding Mr. \nJosefsberg's related inquiry, but s"
+      },
+      {
+        "name": "Ezell",
+        "role": "extracted",
+        "context": "o hear from Mr. Josefsberg or Ms. Ezell regarding the response th"
+      },
+      {
+        "name": "Edwards",
+        "role": "extracted",
+        "context": "have you heard anything from Mr. Edwards regarding the resolution"
+      },
+      {
+        "name": "Florida Bar",
+        "role": "extracted",
+        "context": ": \nSubject: Conversation with Florida Bar Ethics Counsel re Epstein mat"
+      },
+      {
+        "name": "Ethics Counsel",
+        "role": "extracted",
+        "context": "Conversation with Florida Bar Ethics Counsel re Epstein matter \nDate: Mon,"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 23:52:54 +0000 \nImportance: Normal \nHi all —  I spoke with someone f"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.542Z"
+}

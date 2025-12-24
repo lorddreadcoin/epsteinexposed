@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00014044",
+    "filename": "EFTA00014044.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014044.pdf",
+    "text": "\n\nFrom: \nTo: \nBcc: \nSubject: RE: Epstein is out on work release \nDate: Thu, 20 Nov 2008 16:59:03 +0000 \nImportance: Normal \nP.S. —  The Saturday before his plea and sentencing Goldberger specifically told me that he would not get work \nrelease. \nSo did Roy. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom: (USAFLS) \nSent: Thursday, November 20, 2008 11:58 AM \nTo: (USAFLS) \nSubject: RE: Epstein is out on work release \nHe is hanging out at his lawyer's office during the day, eating a lovely lunch, and getting driven back to the \ncampgrounds at night. He is allegedly working for the \"Florida Science Foundation\" which exists only to \nemploy Epstein. Its offices are conveniently located 3 buildings down from me at Goldberger's office. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom: \nSent: \nTo: \nThurriidionc\nSub? : \n(USAFLS) \nNovember 20, 2008 11:56 AM \n.(USAFLS) \nem is out on work release \nWork release ?  What the hell is that ?  Where does he sleep at night and what is he doing ? \nFrom: USAFLS) \nEFTA00014044\n\nSent: Thursday, November 20, 2008 11:50 AM \nTo: \nCc: \nSubject: Epstein is out on work release \nThe Colonel just stopped by to see and told her that Epstein has been out on work release for the past few \nweeks. \nCan I indict him now? \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00014045",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Saturday",
+        "role": "extracted",
+        "context": "Importance: Normal \nP.S. —  The Saturday before his plea and sentencin"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom: (USAFL"
+      },
+      {
+        "name": "Florida Science",
+        "role": "extracted",
+        "context": "is allegedly working for the \"Florida Science Foundation\" which exists only"
+      },
+      {
+        "name": "Thurriidionc\nSub",
+        "role": "extracted",
+        "context": "FL 33401 \nFrom: \nSent: \nTo: \nThurriidionc\nSub? : \n(USAFLS) \nNovember 20, 20"
+      },
+      {
+        "name": "The Colonel",
+        "role": "extracted",
+        "context": "stein is out on work release \nThe Colonel just stopped by to see and to"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-11-20",
+        "event": "November 20, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.006Z"
+}

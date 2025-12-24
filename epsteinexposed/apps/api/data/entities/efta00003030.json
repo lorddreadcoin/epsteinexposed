@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00003030",
+    "filename": "EFTA00003030.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003030.pdf",
+    "text": "\n\nFCCE \nDesigned \nby \nApple \nin \nCalifornia \nAssembled \nin \nChina \nComplies \nwith \nthe \nCanadian \nICES\n-003 \nClass \nB \nspecifications. \nApparaten \nskall \nanslutas \ntill \njordat \nnätpttag. \nMOdel \nNumber: \nA1311 \n100-240V—, \n50-60Hz \n4.0A. \nContains \nFCC \nID: \nQDS-BRCM1029 \nand \nIC: \n4324A-BRCM1029 \nand \nFCC \nID: \nPPD-ARSBXB92 \nand \nIC: \n4104A-AR5I8X(392 \nIl\nl \n11llllllllllllllilllfll \nHI \nI\nll \nSeri \nzd \nNo.: \nW804736DDAS \nEMC \nNo.: \n2389 \nEFTA00003030",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "California \nAssembled",
+        "role": "extracted",
+        "context": "CCE \nDesigned \nby \nApple \nin \nCalifornia \nAssembled \nin \nChina \nComplies \nwith \nt"
+      },
+      {
+        "name": "China \nComplies",
+        "role": "extracted",
+        "context": "n \nCalifornia \nAssembled \nin \nChina \nComplies \nwith \nthe \nCanadian \nICES\n-0"
+      },
+      {
+        "name": "Odel \nNumber",
+        "role": "extracted",
+        "context": "as \ntill \njordat \nnätpttag. \nMOdel \nNumber: \nA1311 \n100-240V—, \n50-60Hz"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.549Z"
+}

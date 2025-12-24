@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00019324",
+    "filename": "EFTA00019324.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019324.pdf",
+    "text": "\n\nFrom: ' \nSubject: FW: Subpoena request \nDate: Mon, 19 Aug 2019 15:54:43 +0000 \nFrom: \nSent: Monday, August 19, 2019 11:48 AM \nTo: \nSubject: FW: Subpoena request \nAUSAII advised that I should reach out to you guys for the below: \nWe need to obtain a copy of the death certificate and autopsy report to close out Jeffrey Epstein's case. Can I please get \nsubpoenas for both? \nDeath Certificate: \nOffice Of Vital Records \nBureau of Vital Statistics \nNew York City Department of Health and Mental Hygiene \nAutopsy Report: \nNew York City Office of Chief Medical Examiner \nYou can use my info for the return: \nThank you \nSupervisory Deputy U.S. Marshal \nSouthern District of New York \nEFTA00019324",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "death certificate and autopsy report to close out Jeffrey Epstein's case. Can I please get \nsubpoenas for both? \nDe"
+      },
+      {
+        "name": "Death Certificate",
+        "role": "extracted",
+        "context": "ase get \nsubpoenas for both? \nDeath Certificate: \nOffice Of Vital Records \nBu"
+      },
+      {
+        "name": "Office Of",
+        "role": "extracted",
+        "context": "or both? \nDeath Certificate: \nOffice Of Vital Records \nBureau of Vita"
+      },
+      {
+        "name": "Vital Records",
+        "role": "extracted",
+        "context": "Death Certificate: \nOffice Of Vital Records \nBureau of Vital Statistics"
+      },
+      {
+        "name": "Vital Statistics",
+        "role": "extracted",
+        "context": "e Of Vital Records \nBureau of Vital Statistics \nNew York City Department of"
+      },
+      {
+        "name": "City Department",
+        "role": "extracted",
+        "context": "of Vital Statistics \nNew York City Department of Health and Mental Hygiene"
+      },
+      {
+        "name": "Mental Hygiene",
+        "role": "extracted",
+        "context": "City Department of Health and Mental Hygiene \nAutopsy Report: \nNew York Ci"
+      },
+      {
+        "name": "Autopsy Report",
+        "role": "extracted",
+        "context": "of Health and Mental Hygiene \nAutopsy Report: \nNew York City Office of Chi"
+      },
+      {
+        "name": "City Office",
+        "role": "extracted",
+        "context": "ne \nAutopsy Report: \nNew York City Office of Chief Medical Examiner \nYo"
+      },
+      {
+        "name": "Chief Medical",
+        "role": "extracted",
+        "context": "ort: \nNew York City Office of Chief Medical Examiner \nYou can use my info"
+      },
+      {
+        "name": "Examiner \nYou",
+        "role": "extracted",
+        "context": "City Office of Chief Medical Examiner \nYou can use my info for the retur"
+      },
+      {
+        "name": "Supervisory Deputy",
+        "role": "extracted",
+        "context": "o for the return: \nThank you \nSupervisory Deputy U.S. Marshal \nSouthern Distri"
+      },
+      {
+        "name": "Marshal \nSouthern",
+        "role": "extracted",
+        "context": "you \nSupervisory Deputy U.S. Marshal \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-19",
+        "event": "August 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.681Z"
+}

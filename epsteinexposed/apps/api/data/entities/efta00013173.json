@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013173",
+    "filename": "EFTA00013173.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013173.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: Fwd: MCC \nPros Memo \nDate: Fri, 27 Sep 2019 14:55:06 +0000 \nAttachments: MCC Pros Memo v10 dot ATT00001.htm \nBegin forwarded message: \nFrom: '1 \nDate: Se tember 27 2019 at 10:42:34 AM EDT \nTo: ' \nCc: \nSubject: MCC Pros Memo \nAll, \nPlease see attached for your review. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00013173",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Pros Memo",
+        "role": "extracted",
+        "context": "' \nTo: ' \nSubject: Fwd: MCC \nPros Memo \nDate: Fri, 27 Sep 2019 14:55"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ed for your review. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000131"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.008Z"
+}

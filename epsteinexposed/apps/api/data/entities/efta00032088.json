@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00032088",
+    "filename": "EFTA00032088.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032088.pdf",
+    "text": "\n\nDescription \nc. \n1718/2000 \nThis is a request under the Freedom of Information Act. \nI request that a copy of the following documents be provided to me: the mugshot(s) and any other photograph(s) in your agency's possession of federal inmate \nGhislaine Maxwell. \nEFTA00032088",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "s) in your agency's possession of federal inmate \nGhislaine Maxwell. \nEFTA00032088"
+      },
+      {
+        "name": "Information Act",
+        "role": "extracted",
+        "context": "request under the Freedom of Information Act. \nI request that a copy of th"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.601Z"
+}

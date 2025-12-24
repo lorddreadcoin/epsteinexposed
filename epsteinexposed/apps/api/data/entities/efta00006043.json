@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00006043",
+    "filename": "EFTA00006043.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00006043.pdf",
+    "text": "\n\nMtdia \ne\\oe \nJe-si•' \n/ \nEFTA00006043\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nEFTA00006044\n\n• \nEFTA00006045\n\nEFTA00006046\n\n1 \n \naw=sisseasmrsmaffirompffiffit.rn \nAgency: \nrifT \nOffice:. \nMin  \nDate: \n///3/0i\nCase \nNo.: SI \n-tor-113337   DVD \nNo.: \n/Da. \n0 \nOriginal \nA- Copy \n1111 \nVideo .AVI ti\nImage \nMJPEG 0 \nWave File 0 \nSecurity \nClassification: \nComment: \nAgent: \nEFTA00006047\n\nEFTA00006048",
+    "pageCount": 6,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Min  \nDate",
+        "role": "extracted",
+        "context": ".rn \nAgency: \nrifT \nOffice:. \nMin  \nDate: \n///3/0i\nCase \nNo.: SI \n-tor"
+      },
+      {
+        "name": "Case \nNo",
+        "role": "extracted",
+        "context": "ffice:. \nMin  \nDate: \n///3/0i\nCase \nNo.: SI \n-tor-113337   DVD \nNo.:"
+      },
+      {
+        "name": "Wave File",
+        "role": "extracted",
+        "context": "Video .AVI ti\nImage \nMJPEG 0 \nWave File 0 \nSecurity \nClassification:"
+      },
+      {
+        "name": "Security \nClassification",
+        "role": "extracted",
+        "context": "Image \nMJPEG 0 \nWave File 0 \nSecurity \nClassification: \nComment: \nAgent: \nEFTA00006"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.331Z"
+}

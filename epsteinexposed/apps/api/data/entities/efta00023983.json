@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00023983",
+    "filename": "EFTA00023983.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023983.pdf",
+    "text": "\n\nFrom: \nMMMEImmm). \nTo: \"Bernsm.offreSANyr >, \" USANYS)\" \n(USANYS)\" \nSubject: NYC medical examiner completes autopsy on Jeffrey Epstein's body, says cause of death still \npending - New York Daily News \nDate: Sun, 11 Aug 2019 23:23:08 +0000 \nhttps://www.nydailynews.cominew-yorIc/ny-medical-examiner-epstein-medical-examiner-20190811-\nxujxgnk7lncuvdfq2snew3uxba-story.html \nSent from my iPhone \nEFTA00023983",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ubject: NYC medical examiner completes autopsy on Jeffrey Epstein's body, says cause of death still \npending - New"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "ath still \npending - New York Daily News \nDate: Sun, 11 Aug 2019 23:23"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.029Z"
+}

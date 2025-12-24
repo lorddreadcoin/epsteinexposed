@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020894",
+    "filename": "EFTA00020894.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020894.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: EMail 1 of 2: EPSTEIN signed application:affidavit \nDate: Thu, 29 Oct 2020 15:50:43 +0000 \nAttachments: 20 MAG 11668 pdf; 20_MAG_11668.1 pdf \nInline-Images: image001.jpg \nGood Morninj \nYour \nsigned Warrants are attached. \nArraignment Unit Clerk \nUnited States District Court \nf New York \nCM Of . 7 \nFrom \nSent: We nes ay. Octo er 28. 2020 7:18 PM \nTo \nCc: \nSubject: FW: EMail 1 of 2: EPSTEIN signed \napplication/affidavit \nFrom \nSe • \n• \nTo: \nSubject: EMai 1 o : EP TEIN signed application/affidavit \nUSDC-SDNY \nSent from \nmy mobile device \nEFTA00020894",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Good Morninj",
+        "role": "extracted",
+        "context": "Inline-Images: image001.jpg \nGood Morninj \nYour \nsigned Warrants are at"
+      },
+      {
+        "name": "Arraignment Unit",
+        "role": "extracted",
+        "context": "igned Warrants are attached. \nArraignment Unit Clerk \nUnited States District"
+      },
+      {
+        "name": "Clerk \nUnited",
+        "role": "extracted",
+        "context": "e attached. \nArraignment Unit Clerk \nUnited States District Court \nf New"
+      },
+      {
+        "name": "States District",
+        "role": "extracted",
+        "context": "rraignment Unit Clerk \nUnited States District Court \nf New York \nCM Of . 7"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "Court \nf New York \nCM Of . 7 \nFrom \nSent: We nes ay. Octo er 28. 2020"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "ay. Octo er 28. 2020 7:18 PM \nTo \nCc: \nSubject: FW: EMail 1 of 2:"
+      },
+      {
+        "name": "From \nSe",
+        "role": "extracted",
+        "context": "igned \napplication/affidavit \nFrom \nSe • \n• \nTo: \nSubject: EMai 1 o"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.569Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018100",
+    "filename": "EFTA00018100.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018100.pdf",
+    "text": "\n\nFrom: \" (USANYS)\" \nTo: \"\n \" \" \n)\" \nH \nCc: (USANYS)\" \nSubject: Epstein \nDate: Fri, 17 Jan 2020 16:41:06 +0000 \nCan you guys please send me our filings on bail when you can? Want to provide to Civ Div, so please let me know if \nanything was filed under seal. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00018100",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\" \nH \nCc: (USANYS)\" \nSubject: Epstein \nDate: Fri, 17 Jan 2020 16:41:06 +0"
+      },
+      {
+        "name": "Civ Div",
+        "role": "extracted",
+        "context": "n you can? Want to provide to Civ Div, so please let me know if \nan"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "filed under seal. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00018100"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.173Z"
+}

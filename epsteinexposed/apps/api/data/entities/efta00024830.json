@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024830",
+    "filename": "EFTA00024830.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024830.pdf",
+    "text": "\n\nFrom: \n(USANYS)\"  \nTo: ' (USANYS)\"  \nCc: ' (USANYS)\"  \nSubject: Re: Epstein \nDate: Wed, 19 Dec 2018 18:05:42 +0000 \nImportance: Normal \nI'm in white Plains already. I just tried . Feel free to call my cell \nSent from my iPhone \nOn Dec \n19, 2018, at 12:58 PM, (USANYS) < > wrote: \nLet me know if you have two minutes before you go to WP? \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plcal \nEFTA00024830",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "c: ' (USANYS)\"  \nSubject: Re: Epstein \nDate: Wed, 19 Dec 2018 18:05:42 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "o call my cell \nSent from my iPhone \nOn Dec \n19, 2018, at 12:58 PM, ("
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "minutes before you go to WP? \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "e you go to WP? \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.919Z"
+}

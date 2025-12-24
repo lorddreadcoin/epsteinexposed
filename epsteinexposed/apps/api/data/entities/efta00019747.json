@@ -1,0 +1,108 @@
+{
+  "document": {
+    "id": "efta00019747",
+    "filename": "EFTA00019747.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019747.pdf",
+    "text": "\n\nFrom: ' \nTo: \n' \nCc: Brad Edwards \n' \nSubject: RE: Epstein Client Meetings \nDate: Fri, 11 Oct 2019 20:23:25 +0000 \nInline-Images: image001.png \nThanks Brittany. Yes, we will be meeting at our office at 1St. Andrews Plaza, NY, NY. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Friday, October 11, 2019 3:15 PM \nTo: \nCc: Brad \nEdwards \n<a; \nSubject: RE: Epstein Client Meetings \n>; \nThat schedule works for us. I will let the clients know. Will we be meeting in your office? \nThanks, \nrirn \nEDWARDS \nPOTTINGER LLC \nBrittany N. Henderson \nTrial Attorney \nwww.epltc.com \nEFTA00019747\n\nFrom: \nSent: Thursday, October 10, 2019 3:36 PM \nTo: \nCc: Brad \nEdwards < \nSubject: RE: Epstein Client Meetings \nHi Brittany, \nThanks very much for reaching out. I would propose the following dates and times for interviews: \n•  10/23 at 1 pm — \n•  10/23 at 3 pm — \n•  io/24 at 10 am — \n•  10/24 at 12 pm \n--\nWould those work on your end? \nThanks again, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Thursday, October 10, 2019 2:08 PM \nTo: \nCc: Brad Edwards < \nSubject: Epstein Client Meetings \n&M, \nWe have been coordinating with to schedule the following victim interviews for October 23 & 24: \nIf possible, the morning on October 24 works best for would prefer the 23 to minimize her travel into \nthe City. and are available either day. \nLet us know what works best for you. \nEFTA00019748\n\nT' T1 \ni\ns_i \nEDWARDS \nPOTTINGER LLC \nBrittany Henderson \nTrial Attorney \nI www.epllc.com \nEFTA00019749",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "From: ' \nTo: \n' \nCc: Brad Edwards \n' \nSubject: RE: Epstein Clie"
+      },
+      {
+        "name": "Epstein Client",
+        "role": "extracted",
+        "context": "Brad Edwards \n' \nSubject: RE: Epstein Client Meetings \nDate: Fri, 11 Oct 2"
+      },
+      {
+        "name": "Meetings \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Client Meetings \nDate: Fri, 11 Oct 2019 20:23:25 +0"
+      },
+      {
+        "name": "Thanks Brittany",
+        "role": "extracted",
+        "context": "Inline-Images: image001.png \nThanks Brittany. Yes, we will be meeting at o"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "meeting at our office at 1St. Andrews Plaza, NY, NY. \nBest, \nAssistant Un"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ndrews Plaza, NY, NY. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "NY. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent:"
+      },
+      {
+        "name": "Brad \nEdwards",
+        "role": "extracted",
+        "context": "er 11, 2019 3:15 PM \nTo: \nCc: Brad \nEdwards \n<a; \nSubject: RE: Epstein Cl"
+      },
+      {
+        "name": "Henderson \nTrial",
+        "role": "extracted",
+        "context": "S \nPOTTINGER LLC \nBrittany N. Henderson \nTrial Attorney \nwww.epltc.com \nEFTA"
+      },
+      {
+        "name": "Meetings \nHi",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Client Meetings \nHi Brittany, \nThanks very much f"
+      },
+      {
+        "name": "Brittany Henderson",
+        "role": "extracted",
+        "context": "s_i \nEDWARDS \nPOTTINGER LLC \nBrittany Henderson \nTrial Attorney \nI www.epllc."
+      },
+      {
+        "name": "Trial Attorney",
+        "role": "extracted",
+        "context": "NGER LLC \nBrittany Henderson \nTrial Attorney \nI www.epllc.com \nEFTA0001974"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Andrews Plaza, NY",
+        "type": "city"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-10-11",
+        "event": "October 11, 2019"
+      },
+      {
+        "date": "2019-10-10",
+        "event": "October 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.502Z"
+}

@@ -1,0 +1,209 @@
+{
+  "document": {
+    "id": "efta00021189",
+    "filename": "EFTA00021189.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021189.pdf",
+    "text": "\n\n09/21/2021 11:30 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nounter Person Detail \nLast Name First Name Middle Initial Gender Dale el Birth \nMAXWELL GHISLAINE \nDocument Number Document T 4 •  ~ Document Country Class of Admission Admit Ulna Date \nPerson Detail \nEncoutter Line Type Encounter Da Encounter Time t Eastern) Terminal Lane MiatEncounNI Locatkm 7\nEncounter \nAIRLINE (NOT API) 08/06/1997 \n15:07 \nFJ41 A520 - CBP -MIAMI, \nAIRPORT N TERMINAL \nBlbountVOutbound Inspector Processing Result Primary Ouery Result Referred To Agency \nINBOUND N NOT REFERRED \nManifest \nData \nManliest Indicator Passenger Status i Updated Passenger Status Fr htiVessel Number Departure Location \nN \nTransmitted By Canter Cede Arrival Location \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00021189",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border \nProtection",
+        "role": "extracted",
+        "context": "1 11:30 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGen"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "artment of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage"
+      },
+      {
+        "name": "Detail \nGenerated",
+        "role": "extracted",
+        "context": "nd Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nounter Pe"
+      },
+      {
+        "name": "Person Detail",
+        "role": "extracted",
+        "context": "ed \nBy: \nPage 1 \nof 1 \nounter Person Detail \nLast Name First Name Middle"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "of 1 \nounter Person Detail \nLast Name First Name Middle Initial Gen"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "nter Person Detail \nLast Name First Name Middle Initial Gender Dale el"
+      },
+      {
+        "name": "Middle Initial",
+        "role": "extracted",
+        "context": "Detail \nLast Name First Name Middle Initial Gender Dale el Birth \nMAXWELL"
+      },
+      {
+        "name": "Gender Dale",
+        "role": "extracted",
+        "context": "ame First Name Middle Initial Gender Dale el Birth \nMAXWELL GHISLAINE"
+      },
+      {
+        "name": "Document Number",
+        "role": "extracted",
+        "context": "el Birth \nMAXWELL GHISLAINE \nDocument Number Document T 4 •  ~ Document Co"
+      },
+      {
+        "name": "Document Country",
+        "role": "extracted",
+        "context": "ment Number Document T 4 •  ~ Document Country Class of Admission Admit Ulna"
+      },
+      {
+        "name": "Admission Admit",
+        "role": "extracted",
+        "context": "~ Document Country Class of Admission Admit Ulna Date \nPerson Detail \nEnc"
+      },
+      {
+        "name": "Ulna Date",
+        "role": "extracted",
+        "context": "ntry Class of Admission Admit Ulna Date \nPerson Detail \nEncoutter Lin"
+      },
+      {
+        "name": "Encoutter Line",
+        "role": "extracted",
+        "context": "mit Ulna Date \nPerson Detail \nEncoutter Line Type Encounter Da Encounter T"
+      },
+      {
+        "name": "Type Encounter",
+        "role": "extracted",
+        "context": "Person Detail \nEncoutter Line Type Encounter Da Encounter Time t Eastern)"
+      },
+      {
+        "name": "Da Encounter",
+        "role": "extracted",
+        "context": "Encoutter Line Type Encounter Da Encounter Time t Eastern) Terminal Lane"
+      },
+      {
+        "name": "Terminal Lane",
+        "role": "extracted",
+        "context": "Da Encounter Time t Eastern) Terminal Lane MiatEncounNI Locatkm 7\nEncoun"
+      },
+      {
+        "name": "Outbound Inspector",
+        "role": "extracted",
+        "context": "AIRPORT N TERMINAL \nBlbountVOutbound Inspector Processing Result Primary Oue"
+      },
+      {
+        "name": "Processing Result",
+        "role": "extracted",
+        "context": "L \nBlbountVOutbound Inspector Processing Result Primary Ouery Result Referred"
+      },
+      {
+        "name": "Primary Ouery",
+        "role": "extracted",
+        "context": "d Inspector Processing Result Primary Ouery Result Referred To Agency \nIN"
+      },
+      {
+        "name": "Result Referred",
+        "role": "extracted",
+        "context": "ocessing Result Primary Ouery Result Referred To Agency \nINBOUND N NOT REFE"
+      },
+      {
+        "name": "To Agency",
+        "role": "extracted",
+        "context": "Primary Ouery Result Referred To Agency \nINBOUND N NOT REFERRED \nMani"
+      },
+      {
+        "name": "Manifest \nData",
+        "role": "extracted",
+        "context": "ency \nINBOUND N NOT REFERRED \nManifest \nData \nManliest Indicator Passenger"
+      },
+      {
+        "name": "Manliest Indicator",
+        "role": "extracted",
+        "context": "NOT REFERRED \nManifest \nData \nManliest Indicator Passenger Status i Updated Pa"
+      },
+      {
+        "name": "Passenger Status",
+        "role": "extracted",
+        "context": "est \nData \nManliest Indicator Passenger Status i Updated Passenger Status Fr"
+      },
+      {
+        "name": "Updated Passenger",
+        "role": "extracted",
+        "context": "Indicator Passenger Status i Updated Passenger Status Fr htiVessel Number De"
+      },
+      {
+        "name": "Status Fr",
+        "role": "extracted",
+        "context": "er Status i Updated Passenger Status Fr htiVessel Number Departure Lo"
+      },
+      {
+        "name": "Vessel Number",
+        "role": "extracted",
+        "context": "pdated Passenger Status Fr htiVessel Number Departure Location \nN \nTransm"
+      },
+      {
+        "name": "Departure Location",
+        "role": "extracted",
+        "context": "er Status Fr htiVessel Number Departure Location \nN \nTransmitted By Canter Ced"
+      },
+      {
+        "name": "Transmitted By",
+        "role": "extracted",
+        "context": "Number Departure Location \nN \nTransmitted By Canter Cede Arrival Location"
+      },
+      {
+        "name": "Canter Cede",
+        "role": "extracted",
+        "context": "e Location \nN \nTransmitted By Canter Cede Arrival Location \nFor Officia"
+      },
+      {
+        "name": "Arrival Location",
+        "role": "extracted",
+        "context": "N \nTransmitted By Canter Cede Arrival Location \nFor Official Use Only / Law"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "Canter Cede Arrival Location \nFor Official Use Only / Law \nEnforcement S"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "rrival Location \nFor Official Use Only / Law \nEnforcement Sensitive"
+      },
+      {
+        "name": "Law \nEnforcement",
+        "role": "extracted",
+        "context": "tion \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00021189"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-21",
+        "event": "09/21/2021"
+      },
+      {
+        "date": "1997-08-06",
+        "event": "08/06/1997"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.172Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013848",
+    "filename": "EFTA00013848.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013848.pdf",
+    "text": "\n\nFrom: \" (USAFLS)\" c> \nTo: \"ROBERT C. JOSEFSBERG\" \nC\nSubject: Out of Office AutoReply: Jeffrey Epstein \nDate: Mon, 29 Dec 2008 22:32:47 +0000 \nImportance: Normal \nI will be out of the office on Monday Dec. 22 and return Monday Jan 3. \nEFTA00013848",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "JOSEFSBERG\" \nC\nSubject: Out of Office AutoReply: Jeffrey Epstein \nDate: Mon, 29 Dec 2008 22:32:47 +0000 \nImportanc"
+      },
+      {
+        "name": "Office Auto",
+        "role": "extracted",
+        "context": "OSEFSBERG\" \nC\nSubject: Out of Office AutoReply: Jeffrey Epstein \nDate:"
+      },
+      {
+        "name": "Monday Dec",
+        "role": "extracted",
+        "context": "will be out of the office on Monday Dec. 22 and return Monday Jan 3."
+      },
+      {
+        "name": "Monday Jan",
+        "role": "extracted",
+        "context": "on Monday Dec. 22 and return Monday Jan 3. \nEFTA00013848"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.570Z"
+}

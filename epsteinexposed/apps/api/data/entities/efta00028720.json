@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00028720",
+    "filename": "EFTA00028720.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028720.pdf",
+    "text": "\n\nFrom: \"-(NY) \n(FBI)\" <a \nTo: 1\"\n=1.6YS)\" \n(USANYS)\" \nSubject: \nDate: Thu, 09 Jan 2020 18:54:00 +0000 \nThanks again for your time yesterday in allowing me the opportunity to get up to speed with the Epstein matters. \nI know you mentioned that there will be SDNY executive staff meetings on those matters today. \nIf either of you have a moment after those meetings have concluded to provide me with a quick update, that \nwould be very much appreciated. \nThank you again, \nActin Assistant Special Agent in Charge \nofc \ncell \nEFTA00028720",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Actin Assistant",
+        "role": "extracted",
+        "context": "preciated. \nThank you again, \nActin Assistant Special Agent in Charge \nofc"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "k you again, \nActin Assistant Special Agent in Charge \nofc \ncell \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.801Z"
+}

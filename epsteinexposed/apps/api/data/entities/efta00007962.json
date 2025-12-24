@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00007962",
+    "filename": "EFTA00007962.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007962.pdf",
+    "text": "\n\nTown of \nPalm Beach \n4- z \nPolice Department 1/4\n) \nEVIDENCE \nCASK 8  eV. \n155:36\n9ROPERTY a \n00474,\nCONTENTS Lir\nItem \nQuantity Descri tion \n1\n/her ra \n13 \nEFTA00007962\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nEFTA00007963\n\nEFTA00007964",
+    "pageCount": 3,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Town of \nPalm Beach \n4- z \nPolice Department 1/4"
+      },
+      {
+        "name": "Police Department",
+        "role": "extracted",
+        "context": "Town of \nPalm Beach \n4- z \nPolice Department 1/4\n) \nEVIDENCE \nCASK 8  eV."
+      },
+      {
+        "name": "Lir\nItem",
+        "role": "extracted",
+        "context": "6\n9ROPERTY a \n00474,\nCONTENTS Lir\nItem \nQuantity Descri tion \n1\n/her"
+      },
+      {
+        "name": "Quantity Descri",
+        "role": "extracted",
+        "context": "a \n00474,\nCONTENTS Lir\nItem \nQuantity Descri tion \n1\n/her ra \n13 \nEFTA0000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.573Z"
+}

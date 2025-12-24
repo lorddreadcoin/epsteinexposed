@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00017768",
+    "filename": "EFTA00017768.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017768.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: Christian Everdell \nSubject: Pretrial Interview - Ghislaine Maxwell \nDate: Mon, 06 Jul 2020 17:32:08 +0000 \nGood afternoon, \nCopied on this email are Chris Everdell and Mark Cohen, two attorneys representing defendant Ghislaine Maxwell in case \nnumber 20 Cr. 330 (AJN). Please let them know how they can arrange for a  pretrial interview with their client in advance \nof her bail hearing this week. \nIf you need any additional information, please do not hesitate to contact me. \nThank you, \nMaurene \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00017768",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Christian Everdell \nSubject: Pretrial Interview - Ghislaine Maxwell \nDate: Mon, 06 Jul 2020 17:32:08 +0000 \nGood afte"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: Christian Everdell \nSubject: Pretrial Interview"
+      },
+      {
+        "name": "Pretrial Interview",
+        "role": "extracted",
+        "context": "Christian Everdell \nSubject: Pretrial Interview - Ghislaine Maxwell \nDate: Mo"
+      },
+      {
+        "name": "Chris Everdell",
+        "role": "extracted",
+        "context": "on, \nCopied on this email are Chris Everdell and Mark Cohen, two attorneys"
+      },
+      {
+        "name": "Mark Cohen",
+        "role": "extracted",
+        "context": "email are Chris Everdell and Mark Cohen, two attorneys representing d"
+      },
+      {
+        "name": "Maurene \nAssistant",
+        "role": "extracted",
+        "context": "e to contact me. \nThank you, \nMaurene \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "rene \nAssistant United States Attorney \nSouthern District of New York \n1  St."
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00017768"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.548Z"
+}

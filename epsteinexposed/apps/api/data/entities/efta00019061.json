@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00019061",
+    "filename": "EFTA00019061.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019061.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: 20cr330, US v. Maxwell \nDate: Wed, 03 Nov 2021 16:02:18 +0000 \nAttachments: 20cr330 FINAL_Jury_Questionnaire_11.3.21.pdf \nCounsel: \nAttached is the final copy of the Court's jury questionnaire, which will be distributed by the Jury Department to \nprospective jurors beginning tomorrow. The final version incorporates the redline changes from Dkt. No. 365. \nOtherwise, a few minor non-substantive formatting changes were made to pages 1 and 5. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00019061",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: 20cr330, US v. Maxwell \nDate: Wed, 03 Nov 2021 16:02:18 +0"
+      },
+      {
+        "name": "Jury Department",
+        "role": "extracted",
+        "context": "ch will be distributed by the Jury Department to \nprospective jurors beginn"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.209Z"
+}

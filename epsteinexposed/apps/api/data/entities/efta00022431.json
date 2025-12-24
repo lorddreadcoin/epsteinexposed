@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00022431",
+    "filename": "EFTA00022431.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022431.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n(CRM)\" \nci \nSubject: Fwd: New Jeffrey Epstein accuser emerges; defamation suit filed I  Bradenton Herald \nDate: Wed, 17 Apr 2019 12:13:58 +0000 \nImportance: Normal \nThanks for your email yesterday. I don't need more details at this point, but glad to hear the investing continues \nto advance. \nAttached is one more communication from Samoff. \nI  Criminal Division I \nSent \nfrom my mobile device. Please excuse any brevity and mispellings. \nBegin forwarded message: \nFrom: conchita samoff < > \nDate: April 16, 2019 at 11:47:05 PM EDT \nTo: czI \n>, \nSubject: New Jeffrey Epstein accuser emerges; defamation suit filed I  Bradenton Herald \nhttps://www.miamiherald.corn/news/nation-world/anicle229277874.html \nDear \nSirs, \nAgain please note remarks concerning modeling allegations. \nThe victims were lured according to court files and m int rviews, they could potentially model at Victoria's \nSecret\n-Mr. Epstein's close friend or MC2 (modeling agency owned by Epstein \nassociate/friend, Frenchman, \nEFTA00022431",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \n(CRM)\" \nci \nSubject: Fwd: New Jeffrey Epstein accuser emerges; defamation suit filed I  Bradent"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "model at Victoria's \nSecret\n-Mr. Epstein's close friend or MC2 (mo"
+      },
+      {
+        "name": "New Jeffrey",
+        "role": "extracted",
+        "context": ":' \n(CRM)\" \nci \nSubject: Fwd: New Jeffrey Epstein accuser emerges; defa"
+      },
+      {
+        "name": "Bradenton Herald",
+        "role": "extracted",
+        "context": "ges; defamation suit filed I  Bradenton Herald \nDate: Wed, 17 Apr 2019 12:13"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 12:13:58 +0000 \nImportance: Normal \nThanks for your email yesterday. I d"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "ommunication from Samoff. \nI  Criminal Division I \nSent \nfrom my mobile devic"
+      },
+      {
+        "name": "Dear \nSirs",
+        "role": "extracted",
+        "context": "n-world/anicle229277874.html \nDear \nSirs, \nAgain please note remarks c"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-04-16",
+        "event": "April 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.859Z"
+}

@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00032505",
+    "filename": "EFTA00032505.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032505.pdf",
+    "text": "\n\nU. \nS. \nDepartment \nof \nfustier \nFederal \nBureau \nof \nPrisons\n]\nMetropolitan \nCorrectional \nenter \n150 \nPark \nRow, \nNew \nYork, \nY \nAugust \n10, \n2019 \nMEMORANDUM \nFOR \nFILE \nMETROPOLITAN \nCORRECTIONAL \nCENTER \nFROM: \nSUBJECT: \nnit \nManager \nInmate \nEpstein, \nJeffery \nReg. \nNo. \n76318-054 \nThis \nmemorandum \nis \nin \nregards \nof \ninmate \nEpstein, \nJeffery \nReg. \nNo. \n76318-054. \nOn \nAugust \n9, \n2019, \nI  \nspoke \nwith \ninmate \nEpstein \nconcerning \nhim \nmaking \na \ncall \nto \nhis \nfamily. \nI \nt  \nId \ninmate \nEpstein \nI \nwas \nleaving \nthe \nfacility \naround \n7:00 \np.m. \nInmate \nEpstein \nagreed \nto \nshorten \nis \nattorney \nvisitation \nto \nmake \nhis \nsocial \ncall. \nI \nescorted \ninmate \nEpstein \nto \nSpecial \nHousing \nUni \naround \n7:00 \np.m. \nI \nplaced \ninmate \nEpstein \nin \nthe \nshower \non \n(G) \nTier \nand \nescorted \nthe \nphone \nor \nhim \nto \nmake \na \nsocial \ncall. \nI \nplaced \nthe \nphone \nin \nthe \nfi\nrst \njack \nto \nthe \nleft \non \nG \ntier. \nInmate \nEp \ntein \nexplain \nto \nme \nthat \nhe \ndidn't \nhave \nhis \nphone \nset \nup \nto \nuse \nhis \nPoe \nand \nPin \nnumber. \nI \nasked \n• \nate \nEpstein \nwho \nhe \nwas \ncalling, \nhe \nstated \nhis \nmother. \nI \nremember \ndialing \na \nnumber \nstarting \nwit \n347, \nbut \nthe \nnumber \nwas \nnote \nnotated. \nInmate \nEpstein \nbegan \ntalking \non \nthe \nphone. \nI  \ntold \nthe \nsta \nto \nend \ninmate \nEpstein's \ncall \nafter \n15 \nminutes. \nThey \ncomplied. \nEFTA00032505",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Federal \nBureau",
+        "role": "extracted",
+        "context": "S. \nDepartment \nof \nfustier \nFederal \nBureau \nof \nPrisons\n]\nMetropolitan"
+      },
+      {
+        "name": "Metropolitan \nCorrectional",
+        "role": "extracted",
+        "context": "ederal \nBureau \nof \nPrisons\n]\nMetropolitan \nCorrectional \nenter \n150 \nPark \nRow, \nNew"
+      },
+      {
+        "name": "Park \nRow",
+        "role": "extracted",
+        "context": "an \nCorrectional \nenter \n150 \nPark \nRow, \nNew \nYork, \nY \nAugust \n10,"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "onal \nenter \n150 \nPark \nRow, \nNew \nYork, \nY \nAugust \n10, \n2019 \nMEMOR"
+      },
+      {
+        "name": "Manager \nInmate",
+        "role": "extracted",
+        "context": "CENTER \nFROM: \nSUBJECT: \nnit \nManager \nInmate \nEpstein, \nJeffery \nReg. \nNo."
+      },
+      {
+        "name": "Jeffery \nReg",
+        "role": "extracted",
+        "context": "t \nManager \nInmate \nEpstein, \nJeffery \nReg. \nNo. \n76318-054 \nThis \nmemor"
+      },
+      {
+        "name": "On \nAugust",
+        "role": "extracted",
+        "context": "ffery \nReg. \nNo. \n76318-054. \nOn \nAugust \n9, \n2019, \nI  \nspoke \nwith"
+      },
+      {
+        "name": "Inmate \nEpstein",
+        "role": "extracted",
+        "context": "facility \naround \n7:00 \np.m. \nInmate \nEpstein \nagreed \nto \nshorten \nis \natt"
+      },
+      {
+        "name": "Special \nHousing",
+        "role": "extracted",
+        "context": "scorted \ninmate \nEpstein \nto \nSpecial \nHousing \nUni \naround \n7:00 \np.m. \nI"
+      },
+      {
+        "name": "Inmate \nEp",
+        "role": "extracted",
+        "context": "to \nthe \nleft \non \nG \ntier. \nInmate \nEp \ntein \nexplain \nto \nme \nthat"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August \n10, \n2019"
+      },
+      {
+        "date": "2019-08-09",
+        "event": "August \n9, \n2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.805Z"
+}

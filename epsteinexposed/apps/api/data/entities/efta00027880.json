@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00027880",
+    "filename": "EFTA00027880.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027880.pdf",
+    "text": "\n\nFrom: \n11 \nSubject: \nHammad memo \nDate: \nThu, 05 Dec \n2019 00:35:04 \n+0000 \nEmbedded: \nHammad_Memo\nn\nKeith_Outlaw.msg; \nHarnmad_Memon\nSteven_Lopez.msg; \nHammad_Memon\nEpstein_Death_Investigation.msg \nAttached are a \nfew \nsamples. \nEFTA00027880",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Memon\nSteven",
+        "role": "extracted",
+        "context": "n\nKeith_Outlaw.msg; \nHarnmad_Memon\nSteven_Lopez.msg; \nHammad_Memon\nEpst"
+      },
+      {
+        "name": "Memon\nEpstein",
+        "role": "extracted",
+        "context": "mon\nSteven_Lopez.msg; \nHammad_Memon\nEpstein_Death_Investigation.msg \nAtta"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.188Z"
+}

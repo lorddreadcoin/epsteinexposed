@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00018267",
+    "filename": "EFTA00018267.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018267.pdf",
+    "text": "\n\nFrom: \n\" \nalMIE> \nTo: \" \ny \n(USANYS) \nalMIN> \nSubject: FW: United States v. Maxwell, 20 Cr. 330, juror questionnaires \nDate: Sun, 14 Nov 2021 20:27:23 +0000 \nAttachments: 2021-11-07 joint_letter regarding_ juror questionnaires.final.pdf \nFrom: \nSent: Sunday, November 7, 2021 9:45 PM \nTo: Nathan NYSD Chambers ‹\n> \nCc: (USANYS) \nSubject: United States v. Maxwell, 20 Cr. 330, juror questionnaires \nChambers, \nAttached please find a joint letter regarding prospective juror questionnaires. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018267",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "es. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018267"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-07",
+        "event": "2021-11-07"
+      },
+      {
+        "date": "2021-11-07",
+        "event": "November 7, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.540Z"
+}

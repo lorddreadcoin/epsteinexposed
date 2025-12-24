@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018171",
+    "filename": "EFTA00018171.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018171.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: defendant bail submission \nDate: Thu, 11 Jul 2019 16:38:37 +0000 \nImportance: Normal \nAttachments: Epstein_bail_memo_and_attachments.pdf \nI just got back to my desk from court and now have to go back (swearing out the latest warrant at 12:45) so I haven't read \nit yet, but attached here. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00018171",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: defendant b"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: defendant bail submissio"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 16:38:37 +0000 \nImportance: Normal \nAttachments: Epstein_bail_memo_and_attach"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ttached here. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.331Z"
+}

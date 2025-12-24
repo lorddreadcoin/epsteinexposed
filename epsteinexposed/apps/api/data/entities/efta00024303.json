@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00024303",
+    "filename": "EFTA00024303.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024303.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Weinstein, Marc A.\"\nCc: \"Tomback, Andrew\" -4 \nSubject: RE: Epstein estate subpoenas \nDate: Fri, 01 Nov 2019 20:41:20 +0000 \nSure —  we'll call you in just a moment. \nFrom: Weinstein, Marc A. \nSent: Friday, November 01, 2019 16:39 \nTo: \nCc: Tomback, Andrew \nSubject: Epstein estate subpoenas \n>; \nAre any of you available for a quick chat? I'm preparing to send you the documents we discussed shortly, but we'd like to \ngive you a heads up on something first. \nThanks, \nMarc \nMarc A. Weinstein I \nPartner \nCo\n-Chair. While Collar \nDefense \nHughes Hubbard & Reed LLP \nThis message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not \ndisseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-\nmail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, \ndestroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this \nmessage, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. \nEFTA00024303",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew \nSubject",
+        "role": "extracted",
+        "context": "2019 16:39 \nTo: \nCc: Tomback, Andrew \nSubject: Epstein estate subpoenas \n>;"
+      },
+      {
+        "name": "Marc \nMarc",
+        "role": "extracted",
+        "context": "on something first. \nThanks, \nMarc \nMarc A. Weinstein I \nPartner \nCo\n-"
+      },
+      {
+        "name": "Partner \nCo",
+        "role": "extracted",
+        "context": ", \nMarc \nMarc A. Weinstein I \nPartner \nCo\n-Chair. While Collar \nDefense"
+      },
+      {
+        "name": "While Collar",
+        "role": "extracted",
+        "context": "nstein I \nPartner \nCo\n-Chair. While Collar \nDefense \nHughes Hubbard & Re"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "ner \nCo\n-Chair. While Collar \nDefense \nHughes Hubbard & Reed LLP \nThis mess"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-01",
+        "event": "November 01, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.849Z"
+}

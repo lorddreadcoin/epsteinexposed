@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00010061",
+    "filename": "EFTA00010061.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010061.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \nSubject: RE: CBP Testimony \nDate: Wed, 17 Nov 2021 23:45:00 —0000 \nAttachments: SDNYGM00000799-SDNYGM \nSDNY_GM_0000081 1 .pdf; SDNY_ \nSDNY_GM_00000815-SDNY_GM \nSDNY_GM_00000833.pdf; SDNY_ \nSDNY GM 02753142-SDNY GM \n00000805.pdf; SDNY GM 00000806-\nGM 00000812-SDNY GM 00000814.pdf; \n00000819.pdf; SDNY GM 00000820-\nGM 02753139-SDNY GM 02753141.pdf; \n02753143.pdf \n- See attached. \nThanks very much, \nFrom: \nSent: Wednesday, November 17, 2021 4:46 PM \nTo: \nCc: \n>; \nSubject: (EXTERNAL] CBP Testimony \nAUSA \nI hope that this email finds you well. I understand that you are in need of CBP assistance —  specifically testimony regarding \nour travel records prior to 2004. We have located an appropriate individual to testify and I would like to facilitate. If you \nhave a moment to discuss please feel free to reach out to my cell number below. \nBest, \nSenior Attorney \nOffice of the Associate Chief Counsel, New York \nU.S. Customs and Border Protection \nOCC NE Homepage \nI am currently teleworking. You may reach me by email or cell (I). \nEFTA00010061",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Testimony \nDate",
+        "role": "extracted",
+        "context": "To:' \nCc: \nSubject: RE: CBP Testimony \nDate: Wed, 17 Nov 2021 23:45:00 —0"
+      },
+      {
+        "name": "Senior Attorney",
+        "role": "extracted",
+        "context": "my cell number below. \nBest, \nSenior Attorney \nOffice of the Associate Chie"
+      },
+      {
+        "name": "Associate Chief",
+        "role": "extracted",
+        "context": "enior Attorney \nOffice of the Associate Chief Counsel, New York \nU.S. Custo"
+      },
+      {
+        "name": "Border Protection",
+        "role": "extracted",
+        "context": "l, New York \nU.S. Customs and Border Protection \nOCC NE Homepage \nI am curren"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-17",
+        "event": "November 17, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.199Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00023416",
+    "filename": "EFTA00023416.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023416.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Second Daubert Motion \nDate: Mon, 15 Nov 2021 20:38:09 +0000 \nAttachments: Motion_to_precludeyall_o_al_v3_JME.docx \nThanks guys. IM's comments are in the attached. I reviewed in hard copy and therefore just gave Mthe few nits I \nhad rather than adding them on top. \nFrom: \nSent: Sunda , November 14, 2021 11:41 PM \nTo: \nCc: \nu ject: econDaubert otion \nHi Chiefs, \nI hope you had a nice weekend! Attached is our second Doubert motion for your review. It is due tomorrow. \nThanks \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00023416",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Second Daubert",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Second Daubert Motion \nDate: Mon, 15 Nov 202"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Second Daubert Motion \nDate: Mon, 15 Nov 2021 20:38:09 +0"
+      },
+      {
+        "name": "Hi Chiefs",
+        "role": "extracted",
+        "context": ": \nu ject: econDaubert otion \nHi Chiefs, \nI hope you had a nice weeke"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "review. It is due tomorrow. \nThanks \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "anks \nAssistant United States Attorney \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-14",
+        "event": "November 14, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.920Z"
+}

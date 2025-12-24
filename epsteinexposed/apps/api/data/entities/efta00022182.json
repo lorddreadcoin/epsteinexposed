@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00022182",
+    "filename": "EFTA00022182.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022182.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Biase, Nicholas \n(USANYS)\"\nCc: \"Margolin, James (USANYS) [Contractor]\" - \nSubject: RE: Maxwell Link \nDate: Mon, 29 Nov 2021 17:49:54 +0000 \nEmbedded: RE:_URGENT--Update_Maxwell_Victim_Notice.msg \nlane-Images: image001.jpg \nThat's good. also asked to work on this so maybe touch base with her too? \nFrom: \nSent: Monday, November 29, 2021 12:48 PM \nTo: >; \nCc: Margolin, James (USANYS) [Contractor) c:I> \nSubject: Fwd: Maxwell Link \nIf okay with you, I'll post an update to the VW page for openings today with the information about overflow courtrooms \nand in bold \"There will not be a public audio feed in this trial.\" \nSent from my iPhone \nBegin forwarded message: \nFrom: Joseph Pecorino \nDate: November 29, 2021 at 12:19:43 PM EST \nTo: \"Biase, Nicholas (USANYS)\" •L:M> \nSubject: FW: Maxwell Link \nHey Nick —  Ed also sent something along. \nFrom: Edward Friedland \nSent: Monday, November 29, 2021 12:01 PM \nTo: \nCc: Joseph Pecorino <>; Matthew Rogers \nSubject: FW: Maxwell Link \nThis info on your web page is outdated and is causing the public to try and access the Maxwell matter by phone. Can \nyou pull down the access number info and update with the latest order which says in-person? \nEdward A. Friedland, Esq. \nDistrict Court Executive \nUnited States District Court \nSouthern District of New York \nFrom: Joseph Pecorino \nSent: Monday, November 29, 2021 11:57 AM \nEFTA00022182\n\nTo: Edward Friedland \nSubject: Maxwell Link \nhttps://www.justice.goviusao-sdny/united-states-v-ghislaine-maxwell \nJoseph Pecorino \nOffice of the District Executive \nUnited States District Court \nSouthern District of New York \nEmail: \nOffice: \nPLEASE CONSIDER THE ENVIRONMENT BEFORE PRINTING THIS E-MAIL \nEFTA00022183",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Link",
+        "role": "extracted",
+        "context": "[Contractor]\" - \nSubject: RE: Maxwell Link \nDate: Mon, 29 Nov 2021 17:49"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "n this trial.\" \nSent from my iPhone \nBegin forwarded message: \nFrom: Jos"
+      },
+      {
+        "name": "Joseph Pecorino",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Joseph Pecorino \nDate: November 29, 2021 at 1"
+      },
+      {
+        "name": "Hey Nick",
+        "role": "extracted",
+        "context": "> \nSubject: FW: Maxwell Link \nHey Nick —  Ed also sent something alo"
+      },
+      {
+        "name": "Edward Friedland",
+        "role": "extracted",
+        "context": "sent something along. \nFrom: Edward Friedland \nSent: Monday, November 29, 2"
+      },
+      {
+        "name": "Matthew Rogers",
+        "role": "extracted",
+        "context": "To: \nCc: Joseph Pecorino <>; Matthew Rogers \nSubject: FW: Maxwell Link \nT"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "? \nEdward A. Friedland, Esq. \nDistrict Court Executive \nUnited States Dist"
+      },
+      {
+        "name": "Executive \nUnited",
+        "role": "extracted",
+        "context": "iedland, Esq. \nDistrict Court Executive \nUnited States District Court \nSouthe"
+      },
+      {
+        "name": "States District",
+        "role": "extracted",
+        "context": "trict Court Executive \nUnited States District Court \nSouthern District of N"
+      },
+      {
+        "name": "Court \nSouthern",
+        "role": "extracted",
+        "context": "utive \nUnited States District Court \nSouthern District of New York \nFrom: J"
+      },
+      {
+        "name": "District Executive",
+        "role": "extracted",
+        "context": "oseph Pecorino \nOffice of the District Executive \nUnited States District Court"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "United States District Court \nSouthern District of New York \nEmail: \nOffice:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.193Z"
+}

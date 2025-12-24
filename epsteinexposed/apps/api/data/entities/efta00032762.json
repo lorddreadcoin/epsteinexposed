@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032762",
+    "filename": "EFTA00032762.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032762.pdf",
+    "text": "\n\nFrom: \n)\" \nTo: ' \n\" \nSubject: doe review \nDate: Fri, 13 Aug 2021 14:25:13 +0000 \nHi \nThanks for all your work helping to review documents, it's a  big help to the case. As we discussed, there's another set of \nemails that we've batched out, and it would be great if you could help by taking a  few batches — I'm reviewing as well. The \nbatches are under the Epstein SW database, but let me know if you have any issues finding them. As before, this review is \njust for \"hot docs.\" These items have already been produced in discovery. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00032762",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nThanks",
+        "role": "extracted",
+        "context": ", 13 Aug 2021 14:25:13 +0000 \nHi \nThanks for all your work helping to"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "duced in discovery. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.439Z"
+}

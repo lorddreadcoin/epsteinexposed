@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00016937",
+    "filename": "EFTA00016937.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016937.pdf",
+    "text": "\n\nFrom: (USANYS)\" \n<MIMMIE> \nTo: \nSAWS)\" \nCc: \nS=MI(USANYS)H ‹> \nSubject: PC Updates \nDate: Thu, 06 Jun 2019 19:02:16 +0000 \nImportance: Normal \nAttachments: PC_Unitr_Short_Form_Update.6.6.19.docx \n—  here \nare the PC updates. \nEFTA00016937",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Updates \nDate",
+        "role": "extracted",
+        "context": "S=MI(USANYS)H ‹> \nSubject: PC Updates \nDate: Thu, 06 Jun 2019 19:02:16 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 19:02:16 +0000 \nImportance: Normal \nAttachments: PC_Unitr_Short_Form_Update.6"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.717Z"
+}

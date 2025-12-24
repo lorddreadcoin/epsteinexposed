@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00010701",
+    "filename": "EFTA00010701.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010701.pdf",
+    "text": "\n\nFrom: \nTo: (USANYS)\" \nSubject: Citecheck \nDate: Wed, 27 Oct 2021 19:51:23 +0000 \nAttachments: Govt_Reply_v2.docx \nHeys \nThanks for hopping on this! Here's a portion of a brief we need citechecked. If there are cites you can't check because \nyou don't have the documents, just highlight them and I'll check them. \nThanks, and let me know if you have any questions! \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00010701",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Citecheck \nDate",
+        "role": "extracted",
+        "context": "rom: \nTo: (USANYS)\" \nSubject: Citecheck \nDate: Wed, 27 Oct 2021 19:51:23 +0"
+      },
+      {
+        "name": "Heys \nThanks",
+        "role": "extracted",
+        "context": "achments: Govt_Reply_v2.docx \nHeys \nThanks for hopping on this! Here's a"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "w if you have any questions! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "questions! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:42.410Z"
+}

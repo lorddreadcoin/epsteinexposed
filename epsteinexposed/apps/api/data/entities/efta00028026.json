@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028026",
+    "filename": "EFTA00028026.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028026.pdf",
+    "text": "\n\nFrom: \nTo:' \nalMIN> \nCc: \naNIMIE> \nSubject: Fwd: [EXTERNAL] information \nDate: Tue, 26 Oct 2021 00:36:07 +0000 \nFYI- we discussed this over the summer but I guess he never submitted the request. I  know you're no longer on \nthe case but let me know who I should forward this to in the event I  receive a copy of his request. Copying= \nfor his awareness. \nBegin forwarded message: \nFrom: ' \n\" alMIN>\nDate: October 25, 2021 at 8:33:40 PM EDT \nSubject: Re: \nlEXTERNALI information \nHi Mr. \nAs I discussed with Ms.aver the summer, you would need to submit a FOIA request to the BOP and \nnote that you are specifically requesting what they released to the NYT. You can send me copy of that request \nonce it has been submitted to the BOP and as a courtesy I will ensure that the correct recipient in the Civil \nDivision of our Office has received it. We do not handle FOIA requests in our division. \nBest, \nOn Oct 25, 2021, at 12:40 PM, IMI.1=> wrote: \nHi, \nHope this finds you well. \nI would like to get a copy of ALL of the records that were released to the New York Times on their FOI request \nregarding my brother's case (Jeffrey Epstein). \nPlease advise the quickest way to accomplish this. \nThanks, \nEFTA00028026\n\nVJ \nScanned by McAfee and confirmed virus-free. \nEFTA00028027",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "n their FOI request \nregarding my brother's case (Jeffrey Epstein). \nPlease advise the quickest way to accomplish t"
+      },
+      {
+        "name": "As",
+        "role": "extracted",
+        "context": ": \nlEXTERNALI information \nHi Mr. \nAs I discussed with Ms.aver"
+      },
+      {
+        "name": "Hi Mr",
+        "role": "extracted",
+        "context": "Re: \nlEXTERNALI information \nHi Mr. \nAs I discussed with Ms.aver"
+      },
+      {
+        "name": "Civil \nDivision",
+        "role": "extracted",
+        "context": "the correct recipient in the Civil \nDivision of our Office has received it"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "ests in our division. \nBest, \nOn Oct 25, 2021, at 12:40 PM, IMI.1="
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-25",
+        "event": "October 25, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.485Z"
+}

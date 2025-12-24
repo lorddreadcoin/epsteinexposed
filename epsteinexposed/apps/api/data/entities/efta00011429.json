@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00011429",
+    "filename": "EFTA00011429.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011429.pdf",
+    "text": "\n\nFrom: \nTo: IMSYS)\" \nCc: \n\" \nSubject: FW: Defense powerpoint \nDate: Fri, 24 Sep 2021 18:15:43 +0000 \nAttachments: 2021.09.23_GM_defense.pptx \n(USANYS)\" \n(USANYS)\" \nHey= and =, \nApologies for the short notice -- we're trying to finalize the slides ASAP so Sunny has time to print copies before the end of \nthe day. Would you mind signing off on this soon if you have a few minutes? \nThanks, \nFrom: \nSent: Friday, September 24, 2021 11:03 AM \nTo: (USANYS) \nCc: \nSubject: Defense powerpoint \nHi and =, \nAttached is a draft powerpoint to go along with the defense closing. It's mostly just some summary slides, but there are a \ncouple exhibits (including a  fake photo as suggested). \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00011429",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hoto as suggested). \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "). \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-24",
+        "event": "September 24, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.603Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027462",
+    "filename": "EFTA00027462.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027462.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n(USANYS) [Contractor]\" •MIMMINE> \n(USANYS)\" \nCc: \n(USANYS)\"\nSubject: Four more women accused of supplying young girls for Epstein to abuse \nDate: Sun, 12 Jul 2020 23:37:40 +0000 \nII \nSANYS)\" \nII \nFYI. This story in the Daily Mail today cites a Sunday Telegram story that says four other women are under \ninvestigation for aiding Maxwell and Epstein. \nhttps://www.dailymail.co.uk/news/article-8513823/Four-women-accused-supplying-young-girls-Epstein-\nabuse.html \nChief Public Information Officer \nU.S. \nAttorne 's Office SDNY \n(cell) \nEFTA00027462",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Daily Mail",
+        "role": "extracted",
+        "context": "\" \nII \nFYI. This story in the Daily Mail today cites a Sunday Telegram"
+      },
+      {
+        "name": "Sunday Telegram",
+        "role": "extracted",
+        "context": "the Daily Mail today cites a Sunday Telegram story that says four other wo"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "ng-girls-Epstein-\nabuse.html \nChief Public Information Officer \nU.S. \nAt"
+      },
+      {
+        "name": "Information Officer",
+        "role": "extracted",
+        "context": "ein-\nabuse.html \nChief Public Information Officer \nU.S. \nAttorne 's Office SDNY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.336Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027413",
+    "filename": "EFTA00027413.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027413.pdf",
+    "text": "\n\nFrom USANYS \nTo: \nSubject: FW: Second Circuit oral arguments this week (April 26-30, 2021) \nDate: Mon, 26 Apr 2021 14:00:58 +0000 \nPls cal the Thursday argument only. \nFrom \nSent: Monday, April 26, 2021 9:35 AM \nTo: USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS@usa.doj.gov>; USANYS-CRIMINAL PARALEGALS <USANYS-\nCRIMINALPARALEGALS@usa.doj.gov>; USANYS-INVESTIGATORS <USANYS-INVESTIGATORS@usa.doj.gov> \nSubject: Second Circuit oral arguments this week (April 26-30, 2021) \nThe Office has two oral arguments in criminal cases scheduled before the Second Circuit this week. They will be argued by \nphone/zoom, and you can listen to the livestream at this link.  Also, you can click on the hyperlinks below to access our \nbriefs. \nMonday, \nApril 26, 2021 \n(Leval, Lohier, Sullivan) \nUnited States \nv.  Ghislaine Maxwell \n• arguing \n• Bail appeal \n• First on calendar; scheduled to start at 10:00 am \nEFTA00027413",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "21 \n(Leval, Lohier, Sullivan) \nUnited States \nv.  Ghislaine Maxwell \n• arguing \n• Bail appeal \n• First on calendar; s"
+      },
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "rom USANYS \nTo: \nSubject: FW: Second Circuit oral arguments this week (Apr"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "the Thursday argument only. \nFrom \nSent: Monday, April 26, 2021 9:35"
+      },
+      {
+        "name": "The Office",
+        "role": "extracted",
+        "context": "his week (April 26-30, 2021) \nThe Office has two oral arguments in cri"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-26",
+        "event": "April 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.232Z"
+}

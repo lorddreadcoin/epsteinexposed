@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00011432",
+    "filename": "EFTA00011432.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011432.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Witness Immunity \nDate: \nMon, 27 Sep 2021 18:08:43 +0000 \nAttachments: 2021.09.24_PSEU_Immunity_Formfflat).pdf \nHi=, \nThanks very much for reviewing this. I've attached the full application form, which contains this information. If you have \nany questions or if a call would be useful, please let me know. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nFrom: (CRM) \n<\nSent: Monday, September 27, 2021 2:05 PM \nTo: \nSubject: Witness \nImmunity \nGood \nafternoon \nI've been assigned your witness immunity request. Could you please email me the information regarding Ms. \ninvovlement in the scheme and the information she proffered? I'll turn to your request now. If you \nneed to reach me, my contact information is below. Thanks. \n• \nPolicy & Statutory Enforcement Unit \nOffice of Enforcement Operations \nCriminal Division \nU.S. Department of Justice \nDirect: \nDOJ Cell: \nOffice: \nPSEU's Intranet Site - Forms  etc. \nEFTA00011432",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Witness Immunity",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Witness Immunity \nDate: \nMon, 27 Sep 2021 18:0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "please let me know. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nFrom: (CRM)"
+      },
+      {
+        "name": "Witness \nImmunity",
+        "role": "extracted",
+        "context": ", 2021 2:05 PM \nTo: \nSubject: Witness \nImmunity \nGood \nafternoon \nI've been a"
+      },
+      {
+        "name": "Statutory Enforcement",
+        "role": "extracted",
+        "context": "s below. Thanks. \n• \nPolicy & Statutory Enforcement Unit \nOffice of Enforcement O"
+      },
+      {
+        "name": "Unit \nOffice",
+        "role": "extracted",
+        "context": "olicy & Statutory Enforcement Unit \nOffice of Enforcement Operations \nCr"
+      },
+      {
+        "name": "Enforcement Operations",
+        "role": "extracted",
+        "context": "y Enforcement Unit \nOffice of Enforcement Operations \nCriminal Division \nU.S. Depa"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "ce of Enforcement Operations \nCriminal Division \nU.S. Department of Justice"
+      },
+      {
+        "name": "Justice \nDirect",
+        "role": "extracted",
+        "context": "Division \nU.S. Department of Justice \nDirect: \nDOJ Cell: \nOffice: \nPSEU's"
+      },
+      {
+        "name": "Intranet Site",
+        "role": "extracted",
+        "context": ": \nDOJ Cell: \nOffice: \nPSEU's Intranet Site - Forms  etc. \nEFTA00011432"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-27",
+        "event": "September 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.610Z"
+}

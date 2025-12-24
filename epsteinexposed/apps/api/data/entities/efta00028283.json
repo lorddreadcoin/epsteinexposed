@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028283",
+    "filename": "EFTA00028283.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028283.pdf",
+    "text": "\n\nFrom: Mark Peters •cl \nTo: \nSubject: Congratulations on the Epstein indictment. \nDate: Tue, 09 Jul 2019 01:36:09 +0000 \nCongrats. It's a real public service. \nBest, \nMGP \nMark G. Peters \nPartner - Peters Brovner LLP \nO: \nC: \nE: \nDisclaimer: This message is intended only for the use of the Addressee and may contain information that is \nprivileged and confidential. If you are not the intended recipient, you are hereby notified that any dissemination \nof this communication is strictly prohibited. If you have received this communication in error, please erase all \ncopies of the message and its attachments and notify us immediately. \nEFTA00028283",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Peters",
+        "role": "extracted",
+        "context": "From: Mark Peters •cl \nTo: \nSubject: Congratula"
+      },
+      {
+        "name": "Peters \nPartner",
+        "role": "extracted",
+        "context": "service. \nBest, \nMGP \nMark G. Peters \nPartner - Peters Brovner LLP \nO: \nC:"
+      },
+      {
+        "name": "Peters Brovner",
+        "role": "extracted",
+        "context": "GP \nMark G. Peters \nPartner - Peters Brovner LLP \nO: \nC: \nE: \nDisclaimer:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.913Z"
+}

@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00023408",
+    "filename": "EFTA00023408.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023408.pdf",
+    "text": "\n\nEvent: Accepted: Epstein-Related FOIA Requests \nStart Date: 2020-02-25 16:30:00 +0000 \nEnd Date: 2020-02-25 17:00:00 +0000 \nLocation:' Office \nClass: X-PERSONAL \nComment: \nDate Created: 2020-02-25 08:17:28 +0000 \nDate Modified: 2020-02-25 08:17:28 +0000 \nPriority: 5 \nDTSTAMP: 2020-02-21 16:42:27 +0000 \nAttendee: \nEFTA00023408",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Requests \nStart",
+        "role": "extracted",
+        "context": "ccepted: Epstein-Related FOIA Requests \nStart Date: 2020-02-25 16:30:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-02-25 16:30:00 +0000 \nEnd Date: 2020-02-25 17:00:00 +0000 \nL"
+      },
+      {
+        "name": "Office \nClass",
+        "role": "extracted",
+        "context": "25 17:00:00 +0000 \nLocation:' Office \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-02-25 08:17:28 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-02-25 08:17:28 +0000 \nDate Modified: 2020-02-25 08:17:28 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-25",
+        "event": "2020-02-25"
+      },
+      {
+        "date": "2020-02-21",
+        "event": "2020-02-21"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.900Z"
+}

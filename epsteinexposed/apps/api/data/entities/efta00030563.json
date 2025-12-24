@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00030563",
+    "filename": "EFTA00030563.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030563.pdf",
+    "text": "\n\nFrom: '  \nci \nToaUSANYS)\" \nc4 \nSubject: RE: Response to Rule 16/Brady Letter \nDate: Fri, 23 Oct 2020 21:56:53 +0000 \nAttachments: 2020-10-19_Discovery_Letter_Draft_y I .agm.docx \nThanks= As we discussed, here are my comments, and we can discuss once has added her comments to this \ndraft. \nFrom: (USANYS) \nSent: Monday, October 19, 2020 6:50 PM \nTo: \n) \nSubject: Response to Rule 16/Brady Letter \nHi team, \nAttached is a draft letter in response to October 13, 2020 letter (his letter is attached here for your convenience). \nSince you are both much closer to the discovery and the investigation, please feel free to edit as much as you would like. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00030563",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brady Letter",
+        "role": "extracted",
+        "context": "ject: RE: Response to Rule 16/Brady Letter \nDate: Fri, 23 Oct 2020 21:56"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "as you would like. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-19",
+        "event": "October 19, 2020"
+      },
+      {
+        "date": "2020-10-13",
+        "event": "October 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.142Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024716",
+    "filename": "EFTA00024716.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024716.pdf",
+    "text": "\n\nFrom: (USANYS)\" <MIMMIE> \nTo: (USANYS) [Contractor]\" \nCc: (USANYS)\" \nalMIE> \nSubject: Epstein \nDate: Tue, 26 Feb 2019 15:46:08 +0000 \nImportance: Normal \nMasked that we set up a brass meet on Epstein — any time today? Should be 30 min. \nSent from my iPhone \nEFTA00024716",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ": (USANYS)\" \nalMIE> \nSubject: Epstein \nDate: Tue, 26 Feb 2019 15:46:08 +0"
+      },
+      {
+        "name": "Normal \nMasked",
+        "role": "extracted",
+        "context": "9 15:46:08 +0000 \nImportance: Normal \nMasked that we set up a brass meet o"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.685Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013912",
+    "filename": "EFTA00013912.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013912.pdf",
+    "text": "\n\nTerms of \nthe \nAgreement: \n1. Epstein shall \nplead guilty (not nob contendere) to the \nIndictment as \ncurrently pending against him in the 15th Judicial Circuit in and for \nPalm Beach County (Case No. \n2006-cf-009495AVOCMB) charging \none (1) count of solicitation of prostitution, in violation of FL Stat. § \n796.07. In addition, Epstein shall \nplead guilty to an Information filed \nby the \nState Attorney's Office charging Epstein with an offense that \nrequires \nhim to register as a sex offender, that is, the solicitation of \nminors to engage in prostitution, in violation of Florida Statutes Section \n796.03; \n2. Epstein shall make a binding recommendation that the Court impose a \nthirty \n(30) \nmonth sentence \nto be \ndivided \nas follows: \n(a) Epstein shall be sentenced to consecutive tarns of \ntwelve (12) \nmonths and six (6) months in county jail for all \ncharges, without \nany \nopportunity for withholding adjudication or sentencing, and \nwithout probation or community control \nin lieu of \nimprisonment; and \n(b) \nEpstein \nshall be sentenced to a term of twelve (12) months of \ncommunity control consecutive to his two terms in \ncounty jail \nas described in Term \n2(a), supra. \n12. Epstein agrees that he \nwill not be afforded any benefits with respect to \ngain time, other than the rights, opportunities, and benefits as any other \ninmate, \nincluding but \nnot \nlimited to, \neligibility \nfor gain time \ncredit \nbased on standard rules and regulations that apply in the State of \nFlorida. At \nthe United States' request, Epstein agrees to provide an \naccounting of the gain time he \nearned during his period of \nincarceration. \nEFTA00013912",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judicial Circuit",
+        "role": "extracted",
+        "context": "nding against him in the 15th Judicial Circuit in and for \nPalm Beach County"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Judicial Circuit in and for \nPalm Beach County (Case No. \n2006-cf-009"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "n and for \nPalm Beach County (Case No. \n2006-cf-009495AVOCMB) charg"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "an Information filed \nby the \nState Attorney's Office charging Epstein wit"
+      },
+      {
+        "name": "Florida Statutes",
+        "role": "extracted",
+        "context": "prostitution, in violation of Florida Statutes Section \n796.03; \n2. Epstein"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.721Z"
+}

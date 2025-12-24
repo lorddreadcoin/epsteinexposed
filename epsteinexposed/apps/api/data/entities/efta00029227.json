@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "efta00029227",
+    "filename": "EFTA00029227.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029227.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \n)\" \nC \n(NY) (FBI)\" ctl\n(USANYS)\" \nc \nSubject: RE: Epstein Account Documents \nDate: Thu, 07 Oct 2021 16:57:06 +0000 \nAttachments: GX-504_-_JPM-SDNY-00005512.pdf; GX-502_-\nJune 2007 statement for Ghislaine Maxwell (JPM-SDNY-00052158 -  JPM-SDNY-\n00052165).pdf \nThanks! Could you please send me the account opening/signature/KYC documents for the two accounts attached here? \nFrom: \nSent: Thursday, October 7, 2021 7:38 AM \nTo: \nI\nscM> \nCc: (USANYS) \nSubject: RE: Epstein Account Documents \n(USANYS) [Contractor] <> \nI have uploaded the account statement to DOJ USA File Exchange site. I have give you, and access rights to the \nfolder. \nIf you have any questions, please contact me. \nBest \nFrom: \nSent: Wednesday, October 6, 2021 4:12 PM \nTo: (NY) (FBI) <=> \nCc: (USANYS) \nSubject: (EXTERNAL EMAIL) - RE: Epstein Account Documents \nHi =, \nThanks very much. Could you please send us the account statements for a few months after these documents were \nexecuted? It would be helpful to see the balances. \nThanks! \nFrom: \nSent: Monday, October 4, 2021 8:27 AM \nTo: \nSubject: Epstein Account Documents \nAs a follow up to our conversation regarding Epstein accounts where Ghislaine Maxwell was a signer on the account, I \nhave compiled the attached documents for your review. \nEFTA00029227\n\nIf you have any question, please contact me. \nBest \nForensic Accountant \nFBI New York Field Office \nEFTA00029228",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "NY-00005512.pdf; GX-502_-\nJune 2007 statement for Ghislaine Maxwell (JPM-SDNY-00052158 -  JPM-SDNY-\n00052165).pdf \nTh"
+      },
+      {
+        "name": "Epstein Account",
+        "role": "extracted",
+        "context": "tl\n(USANYS)\" \nc \nSubject: RE: Epstein Account Documents \nDate: Thu, 07 Oct"
+      },
+      {
+        "name": "Documents \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Account Documents \nDate: Thu, 07 Oct 2021 16:57:06 +0"
+      },
+      {
+        "name": "File Exchange",
+        "role": "extracted",
+        "context": "account statement to DOJ USA File Exchange site. I have give you, and ac"
+      },
+      {
+        "name": "Best \nFrom",
+        "role": "extracted",
+        "context": "uestions, please contact me. \nBest \nFrom: \nSent: Wednesday, October 6,"
+      },
+      {
+        "name": "Documents \nHi",
+        "role": "extracted",
+        "context": "EMAIL) - RE: Epstein Account Documents \nHi =, \nThanks very much. Could y"
+      },
+      {
+        "name": "Documents \nAs",
+        "role": "extracted",
+        "context": "To: \nSubject: Epstein Account Documents \nAs a follow up to our conversati"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "question, please contact me. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field Office \nEFTA00029228"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-07",
+        "event": "October 7, 2021"
+      },
+      {
+        "date": "2021-10-06",
+        "event": "October 6, 2021"
+      },
+      {
+        "date": "2021-10-04",
+        "event": "October 4, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.048Z"
+}

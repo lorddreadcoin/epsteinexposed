@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030385",
+    "filename": "EFTA00030385.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030385.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: WBTW/Epstein \nDate: Mon, 13 Jul 2020 17:38:32 +0000 \nThank you. I hope you are doing well and safe. \nFrom: \nSent: Monday, July 13, 2020 1:34 PM \nTo: \nSubject: WBTW/Epstein \nHi=, \nJust wanted to say that I know you've done a ton of work on both of these cases, and I know everyone on both teams \nreally appreciates your hard work. Thanks so much, and hope you're doing well! \nBest, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030385",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: WBTW/Epstein \nDate: Mon, 13 Jul 2020 17:38:32 +0"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "0 1:34 PM \nTo: \nSubject: WBTW/Epstein \nHi=, \nJust wanted to say that I"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "pe you're doing well! \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ell! \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030385"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-13",
+        "event": "July 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.751Z"
+}

@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00019045",
+    "filename": "EFTA00019045.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019045.pdf",
+    "text": "\n\nFrom: \"). \nTo:\nSubject: FW: photo project \nDate: Thu, 30 Sep 2021 20:41:53 +0000 \nImportance: Normal \nAttachments: Photosior_Trial_Prep_with_Location_Info.xlsx \nLet's discuss. \nFrom: \nSent: Thursday, September 30, 2021 4:31 PM \nTo: \nCc: \nSubject: RE: photo project \nThe photo sourcing project is completed and attached. \nI added 3 columns: Evidence Item it, Name of CD and Location of Item. \nThanks, \nFrom: \nSent: Monday, September 27, 2021 6:26 PM \nTo: \nCc: \nSubject: [EXTERNAL EMAIL] - photo project \nHi \nJust checking in on the photo sourcing project. Do you think you'll be able to send us that spreadsheet in the next few \ndays? \nThanks so much for helping with this. \nssis anUnited States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019045",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 20:41:53 +0000 \nImportance: Normal \nAttachments: Photosior_Trial_Prep_with_Lo"
+      },
+      {
+        "name": "Evidence Item",
+        "role": "extracted",
+        "context": "attached. \nI added 3 columns: Evidence Item it, Name of CD and Location o"
+      },
+      {
+        "name": "Hi \nJust",
+        "role": "extracted",
+        "context": "ERNAL EMAIL] - photo project \nHi \nJust checking in on the photo sour"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "h this. \nssis anUnited States Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019045"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-30",
+        "event": "September 30, 2021"
+      },
+      {
+        "date": "2021-09-27",
+        "event": "September 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.176Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028773",
+    "filename": "EFTA00028773.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028773.pdf",
+    "text": "\n\nFrom: \n) (OGA) \nTo: (USANYS)\" \nSubject: \nDate: Tue, 14 Jul 2020 20:22:54 +0000 \nSure \ngimme a call at 5 \nOn \nJul 14, 2020 4:12 PM, \n(1\n-/SANYS)'\nvIDte: \nHi M, \nHo e all is well. Are you available for a quick call regarding this 302? Trying to run down how Lt. \nfo Thanks in advance! \n----Ori inal Messa e--- \nFrom: (NY) (FBI) \nSent: Tuesda ,  u 14, 2020 2:51 PM \nTo: \n(USANYS) \nSubject: \nHey \ngot the number \nWhen looking through my case file, this is where documented the phone number and last call made by Epstein. Let \nme know if you need anything else... \nSpecial Agent \nFBI New York Field Office \nViolent Crimes Task Force \nEFTA00028773",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On \nJul",
+        "role": "extracted",
+        "context": "000 \nSure \ngimme a call at 5 \nOn \nJul 14, 2020 4:12 PM, \n(1\n-/SANYS"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "if you need anything else... \nSpecial Agent \nFBI New York Field Office \nV"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nViolent Crimes Task Force \nE"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nViolent Crimes Task Force \nEFTA00028773"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field Office \nViolent Crimes Task Force \nEFTA00028773"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.930Z"
+}

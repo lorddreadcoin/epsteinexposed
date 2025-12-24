@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020701",
+    "filename": "EFTA00020701.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020701.pdf",
+    "text": "\n\nFrom: USANYS)\" \nTo: MINI1>\n<\n>, \nSubject: Forfeiture doc \nDate: Wed, 24 Apr 2019 15:56:23 +0000 \nImportance: Normal \nAttachments: TVPA and Forfeiture(2).docx \nFYI — an updated version of the forfeiture doc. Also on the share. \nI am excited to hear about how tonight goes! \nAbby \nAssistant United States Attorney \nHuman Trafficking Co-Coordinator \nMoney Laundering & Transnational Criminal Enterprise Unit \nof New York \nEFTA00020701",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 15:56:23 +0000 \nImportance: Normal \nAttachments: TVPA and Forfeiture(2).docx"
+      },
+      {
+        "name": "Abby \nAssistant",
+        "role": "extracted",
+        "context": "hear about how tonight goes! \nAbby \nAssistant United States Attorney \nHuman"
+      },
+      {
+        "name": "Attorney \nHuman",
+        "role": "extracted",
+        "context": "Abby \nAssistant United States Attorney \nHuman Trafficking Co-Coordinator \nM"
+      },
+      {
+        "name": "Trafficking Co",
+        "role": "extracted",
+        "context": "United States Attorney \nHuman Trafficking Co-Coordinator \nMoney Laundering"
+      },
+      {
+        "name": "Coordinator \nMoney",
+        "role": "extracted",
+        "context": "ttorney \nHuman Trafficking Co-Coordinator \nMoney Laundering & Transnational Cr"
+      },
+      {
+        "name": "Transnational Criminal",
+        "role": "extracted",
+        "context": "ordinator \nMoney Laundering & Transnational Criminal Enterprise Unit \nof New York"
+      },
+      {
+        "name": "Enterprise Unit",
+        "role": "extracted",
+        "context": "ring & Transnational Criminal Enterprise Unit \nof New York \nEFTA00020701"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.387Z"
+}

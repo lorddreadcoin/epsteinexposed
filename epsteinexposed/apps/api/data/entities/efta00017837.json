@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00017837",
+    "filename": "EFTA00017837.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017837.pdf",
+    "text": "\n\nFrom: (USANYS)\" <1 \nTo: (USANYS)\" <1 \nCc: ' (USANYS)\"  \nSubject: \nRE: Epstein OIG Report \nDate: Tue, 18 Aug 2020 15:59:22 +0000 \n[=. \nGreat. Wil do. Thanks. \nFrom: (USANYS) \nSent: Tuesday, August 18, 2020 11:58 AM \nTo: (USANYS) \nCc: (USANYS) \nSubject: Epstein OIG Report \nI  think putting comments in an email would be easier for OIG to consider \nFrom: (USANYS) \nSent: Monday, August 17, 2020 6:48 PM \nTo: (USANYS) \nCc: (USANYS) \nSubject: RE: OCR'd OPR Report \nill— The team has a couple of small factual comments on the OPR draft report, none material to any of its conclusions. \nHow would you like us to handle these — do you want me to just call =? Draft an email or a letter? They're sufficiently \ninsignificant that I think a phone call would suffice, but let me know if you feel differently. \nThanks, \nFrom: (USANYS) \nSent: Friday, August 7, 2020 11:27 AM \nTo: (USANYS) \nSubject: OCR'd OPR Report \nThanks for clueing me in that it was not word-searchable—saved me a major embarrassment. I created a OCR'd \nversion, and there are indeed several references to \"global.\" The OCR'd version is 121 megs, so I'll USAFx it to \nyou. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \n(desk) \n(mobile) \nEFTA00017837",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "\"  \nSubject: \nRE: Epstein OIG Report \nDate: Tue, 18 Aug 2020 15:59:22 +0"
+      },
+      {
+        "name": "Report \nThanks",
+        "role": "extracted",
+        "context": "(USANYS) \nSubject: OCR'd OPR Report \nThanks for clueing me in that it was"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "x it to \nyou. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \n(desk) \n(mobi"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-08-18",
+        "event": "August 18, 2020"
+      },
+      {
+        "date": "2020-08-17",
+        "event": "August 17, 2020"
+      },
+      {
+        "date": "2020-08-07",
+        "event": "August 7, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.709Z"
+}

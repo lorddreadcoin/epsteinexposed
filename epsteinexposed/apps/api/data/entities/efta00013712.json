@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00013712",
+    "filename": "EFTA00013712.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013712.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: FW: Epstein \nDate: Fri, 07 Dec 2007 18:23:59 +0000 \nImportance: Normal \n&\nThis \nis the e-mail chain with The only sources of the information are our Office and the FBI. \nis requesting the information, and I am responding accordingly. \nPlease let me know how you want to proceed. I find this very demoralizing. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom• \nSent: Thursday, December 06, 2007  4:47 PM \nTo: \nSubject: RE: Epstein \nYep, something short and sweet with no names. The date is Dec. 21. \nFrom• \nSent: Thursda December 06, 2007 3:36 PM \nTo: \nSubject: RE: Epstein \nHi \nI can put something together. I assume something short and sweet? And has a date been set? \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nMOM\nFrom \nSent Thursday, December 06, 2007 3:05 PM \nTo: \nSubject: Epstein \nCould you please outline what factual basis you think fits the procuring statute for the plea conference. I am trying to \nfinalize the paperwork. \nEFTA00013712",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: FW: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: FW: Epstein \nDate: Fri, 07 Dec 2007 18:23:59 +0"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nFrom• \nSent:"
+      },
+      {
+        "name": "Epstein \nYep",
+        "role": "extracted",
+        "context": "7  4:47 PM \nTo: \nSubject: RE: Epstein \nYep, something short and sweet wi"
+      },
+      {
+        "name": "Thursda December",
+        "role": "extracted",
+        "context": "ate is Dec. 21. \nFrom• \nSent: Thursda December 06, 2007 3:36 PM \nTo: \nSubjec"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "07 3:36 PM \nTo: \nSubject: RE: Epstein \nHi \nI can put something together"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "est Palm Beach, FL 33401 \nMOM\nFrom \nSent Thursday, December 06, 2007 3"
+      },
+      {
+        "name": "Epstein \nCould",
+        "role": "extracted",
+        "context": ", 2007 3:05 PM \nTo: \nSubject: Epstein \nCould you please outline what factu"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-12-06",
+        "event": "December 06, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.223Z"
+}

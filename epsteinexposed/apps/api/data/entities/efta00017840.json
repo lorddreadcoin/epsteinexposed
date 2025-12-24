@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00017840",
+    "filename": "EFTA00017840.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017840.pdf",
+    "text": "\n\nEvent: Accepted: SDNY-ODAG Call (Epstein/Maxwell) \nStart Date: 2020-08-19 14:00:00 +0000 \nEnd Date: 2020-08-19 14:30:00 +0000 \nLocation \nConf. Id 758788 \nClass: X-PERSONAL \nComment: \nDate Created: 2020-08-18 17:08:11 +0000 \nDate Modified: 2020-08-18 17:08:11 +0000 \nPriority: 5 \nDTSTAMP: 2020-08-18 16:59:08 +0000 \nAttendee: \nEFTA00017840",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "-ODAG Call (Epstein/Maxwell) \nStart Date: 2020-08-19 14:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-08-19 14:00:00 +0000 \nEnd Date: 2020-08-19 14:30:00 +0000 \nL"
+      },
+      {
+        "name": "Location \nConf",
+        "role": "extracted",
+        "context": "e: 2020-08-19 14:30:00 +0000 \nLocation \nConf. Id 758788 \nClass: X-PERSONAL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-08-18 17:08:11 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-08-18 17:08:11 +0000 \nDate Modified: 2020-08-18 17:08:11 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-19",
+        "event": "2020-08-19"
+      },
+      {
+        "date": "2020-08-18",
+        "event": "2020-08-18"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.715Z"
+}

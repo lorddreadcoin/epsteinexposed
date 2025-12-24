@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00003148",
+    "filename": "EFTA00003148.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003148.pdf",
+    "text": "\n\nPrincipal \nResidence \nN \nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB3 \nmas, \nVI \n00802-1348\nPhone \n/ \nFax \nNew \nYork \nEstate \n9 \nEast \n71st \nStreet \nv \nrk, \nNew \nPhone/\n■ \nZorro \nRanch \n49 \nZorro \nRanch \nRoad \nStanley. \n \nNew \nM \n \n  \nhone/ \nPalm \nBeach \nEstate \n358 \nElbrilo \nWay \nBeach, \nFL \n33480 \nPhone \n/ \n56 \nParis \nApartment \n22 \nAvenue \nFoch, \nApt \n2DD \n    \n75116 \nParis, \nFrance \n'hone \n/ \nFax \nFax \n \nF\nax \nFax \n \nA \nEFTA00003148",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Principal \nResidence",
+        "role": "extracted",
+        "context": "Principal \nResidence \nN \nLSJE, \nLLC \n6100 \nRed \nHo"
+      },
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "sidence \nN \nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB3 \nmas, \nV"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB3 \nmas, \nVI \n00802-1348\nPho"
+      },
+      {
+        "name": "Fax \nNew",
+        "role": "extracted",
+        "context": "as, \nVI \n00802-1348\nPhone \n/ \nFax \nNew \nYork \nEstate \n9 \nEast \n71st"
+      },
+      {
+        "name": "York \nEstate",
+        "role": "extracted",
+        "context": "0802-1348\nPhone \n/ \nFax \nNew \nYork \nEstate \n9 \nEast \n71st \nStreet \nv \nrk"
+      },
+      {
+        "name": "New \nPhone",
+        "role": "extracted",
+        "context": "East \n71st \nStreet \nv \nrk, \nNew \nPhone/\n■ \nZorro \nRanch \n49 \nZorro"
+      },
+      {
+        "name": "Zorro \nRanch",
+        "role": "extracted",
+        "context": "treet \nv \nrk, \nNew \nPhone/\n■ \nZorro \nRanch \n49 \nZorro \nRanch \nRoad \nStan"
+      },
+      {
+        "name": "Road \nStanley",
+        "role": "extracted",
+        "context": "rro \nRanch \n49 \nZorro \nRanch \nRoad \nStanley. \n \nNew \nM \n \n  \nhone/ \nPalm"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "anley. \n \nNew \nM \n \n  \nhone/ \nPalm \nBeach \nEstate \n358 \nElbrilo \nWay \nB"
+      },
+      {
+        "name": "Elbrilo \nWay",
+        "role": "extracted",
+        "context": "e/ \nPalm \nBeach \nEstate \n358 \nElbrilo \nWay \nBeach, \nFL \n33480 \nPhone \n/"
+      },
+      {
+        "name": "Paris \nApartment",
+        "role": "extracted",
+        "context": "ch, \nFL \n33480 \nPhone \n/ \n56 \nParis \nApartment \n22 \nAvenue \nFoch, \nApt \n2DD"
+      },
+      {
+        "name": "Avenue \nFoch",
+        "role": "extracted",
+        "context": "/ \n56 \nParis \nApartment \n22 \nAvenue \nFoch, \nApt \n2DD \n    \n75116 \nParis"
+      },
+      {
+        "name": "Fax \nFax",
+        "role": "extracted",
+        "context": "16 \nParis, \nFrance \n'hone \n/ \nFax \nFax \n \nF\nax \nFax \n \nA \nEFTA000031"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Way \nBeach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.821Z"
+}

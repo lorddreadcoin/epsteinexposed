@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030892",
+    "filename": "EFTA00030892.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030892.pdf",
+    "text": "\n\nFrom: \"\n)\" \nTo:'\n <MIMIE>, \nBee: \"\n› \nSubject: RE: Brunel \nDate: Fri, 12 Feb 2021 20:46:34 +0000 \nEmbedded: RE:_Brunel.msg \nSender: \nSubject: RE: Brunel \nMessage-Id: \n<BN3P110MB0257E0FB128C6AC7C1E46A1F8A8B9@BN3P110MB0257.NAMP110.PROD.OUTLOOK.CO \nM> \nTo: \nTo: \nEFTA00030892",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brunel \nDate",
+        "role": "extracted",
+        "context": "MIE>, \nBee: \"\n› \nSubject: RE: Brunel \nDate: Fri, 12 Feb 2021 20:46:34 +0"
+      },
+      {
+        "name": "Brunel \nMessage",
+        "role": "extracted",
+        "context": "el.msg \nSender: \nSubject: RE: Brunel \nMessage-Id: \n<BN3P110MB0257E0FB128C6A"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.948Z"
+}

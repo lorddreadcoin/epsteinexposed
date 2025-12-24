@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00015060",
+    "filename": "EFTA00015060.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015060.pdf",
+    "text": "\n\nForwarded message-------\nFrom: \nDate: Tue, Jun 29, 2010 at 8:33 AM \nSubject: Jeffrey Epstein \nTo:\nHello Jeffrey looks forward to seeing you on Wed. July 8th at 5:00 at his \nhome. He lives at: \n9 East 71St Street between 5th and Madison. \nI will re-confirm with you on the 8th . \nTake care and safe trip here! \nEFTA00015060\n\nTel: \nEFTA00015061",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "om: \nDate: Tue, Jun 29, 2010 at 8:33 AM \nSubject: Jeffrey Epstein \nTo:\nHello Jeffrey looks forward to seeing you on"
+      },
+      {
+        "name": "Hello Jeffrey",
+        "role": "extracted",
+        "context": "Subject: Jeffrey Epstein \nTo:\nHello Jeffrey looks forward to seeing you o"
+      },
+      {
+        "name": "St Street",
+        "role": "extracted",
+        "context": "home. He lives at: \n9 East 71St Street between 5th and Madison. \nI w"
+      }
+    ],
+    "locations": [
+      {
+        "name": "9 East 71st Street",
+        "type": "address"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.015Z"
+}

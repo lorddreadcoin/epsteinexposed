@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "efta00016957",
+    "filename": "EFTA00016957.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016957.pdf",
+    "text": "\n\nFrom: Ryan Hooper <Ryan.Hooper(ilpa.media> \nTo:\n„\nI \nSubject: [EXTERNAL] US v Maxwell - press query \nDate: Wed, 20 Oct 2021 13:49:49 +0000 \nHello all, \nI  am a journalist with the Press Association in London. \nIs there anyone who might be able to outline whether the trial of US v Ghislaine Maxwell is due to open, as planned, on \nNovember 29 please? \nAlso looking to try and find out whether the defendant is due to give evidence, and how long the trial is listed for. \nHave had no joy getting hold of anyone at the court (212 637 2600). \nApologies —  I  am sure you have had several of these requests. Please let me know if there is a better person to contact. \nBest \nRyan Hooper \nPress Association \n(44) 07794 047599 \nThis email is from the PA Media Group. For more information, see www.pamediagroup.com. This email may \ncontain confidential information. Only the addressee is permitted to read, copy, distribute or otherwise use this \nemail or any attachments. If you have received it in error, please contact the sender immediately. Any opinion \nexpressed in this email is personal to the sender and may not reflect the opinion of the PA Media Group. Any \nemail reply to this address may be subject to interception or monitoring for operational reasons or for lawful \nbusiness practices. \nEFTA00016957",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ight be able to outline whether the trial of US v Ghislaine Maxwell is due to open, as planned, on \nNovember 29 pleas"
+      },
+      {
+        "name": "Ryan Hooper",
+        "role": "extracted",
+        "context": "From: Ryan Hooper <Ryan.Hooper(ilpa.media> \nTo:"
+      },
+      {
+        "name": "Press Association",
+        "role": "extracted",
+        "context": "I  am a journalist with the Press Association in London. \nIs there anyone w"
+      },
+      {
+        "name": "Best \nRyan",
+        "role": "extracted",
+        "context": "a better person to contact. \nBest \nRyan Hooper \nPress Association \n(4"
+      },
+      {
+        "name": "Hooper \nPress",
+        "role": "extracted",
+        "context": "erson to contact. \nBest \nRyan Hooper \nPress Association \n(44) 07794 04759"
+      },
+      {
+        "name": "Media Group",
+        "role": "extracted",
+        "context": "99 \nThis email is from the PA Media Group. For more information, see ww"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "212 637 2600"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.754Z"
+}

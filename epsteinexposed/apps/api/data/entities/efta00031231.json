@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031231",
+    "filename": "EFTA00031231.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031231.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: Mystery Jeffrey Epstein statue found in Downtown Albuquerque \nDate: Mon, 06 Jul 2020 16:59:18 +0000 \nYeah that was extremely weird \nOri \nFrom \nSe \nT. \nSu \n.jec \nfinal Messa e \nFtraIMPZIPAIWPAIIIIIMIS \nry\ne rey Ps em s a  ue oun \nI \nown wn \nYou probably already saw this but just in case. So bizarre. \nquerque \nhttps://vvww.koat.com/article/mystery-jeffrey-epstein-statue-found-in-downtown-albuquerque/3302553 1 \nEFTA00031231",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Mystery Jeffrey Epstein statue found in Downtown Albuquerque \nDate: Mon,"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Mystery Jeffrey"
+      },
+      {
+        "name": "Mystery Jeffrey",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Mystery Jeffrey Epstein statue found in Downt"
+      },
+      {
+        "name": "Downtown Albuquerque",
+        "role": "extracted",
+        "context": "ffrey Epstein statue found in Downtown Albuquerque \nDate: Mon, 06 Jul 2020 16:59"
+      },
+      {
+        "name": "Ori \nFrom",
+        "role": "extracted",
+        "context": "eah that was extremely weird \nOri \nFrom \nSe \nT. \nSu \n.jec \nfinal Mess"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.594Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00025003",
+    "filename": "EFTA00025003.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025003.pdf",
+    "text": "\n\n4\n)\n4`.. OFFICIAL RECORD \nED- I \n036 I \nRo.. 10- I6\n-20114 /i \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nImport Form \nForm Type: Date: \nTitle: \nApproved By: \nDrafted By: \nCase ID #: •  i---NY-302!571 \nTRA7v \nKING \nSynopsis: (U) Documentation of Services b \n/i:\n:/202C-06/30/2020 \n.• \nUNCLASSIFIED \n; \nEFTA00025003",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Import Form",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nImport Form \nForm Type: Date: \nTitle: \nAp"
+      },
+      {
+        "name": "Form Type",
+        "role": "extracted",
+        "context": "F INVESTIGATION \nImport Form \nForm Type: Date: \nTitle: \nApproved By:"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "rm \nForm Type: Date: \nTitle: \nApproved By: \nDrafted By: \nCase ID #: •"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "Date: \nTitle: \nApproved By: \nDrafted By: \nCase ID #: •  i---NY-302!57"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-30",
+        "event": "06/30/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.284Z"
+}

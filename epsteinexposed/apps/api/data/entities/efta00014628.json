@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014628",
+    "filename": "EFTA00014628.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014628.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nCc: \nSubject: Re: Jeffrey EPSTEIN \nDate: Thu, 25 Jul 2019 02:41:23 +0000 \nReceived, thanks for passing this on. Do you have any additional information or reports? \nOn Jul 24, 2019, at 9:35 PM, wrote: \nAll, \nPlease be advised that we received he following report from the Bureau of Prisons MCC New York at 2115 hours on this \ndate: \nAssociate Warden (AW) at MCC New York advised that Jeffrey EPSTEIN was found in his cell this \nmorning at 0127 hours in a fetal position with a noose around his neck. EPSTEIN was escorted to medical and was \nassessed. EPSTEIN was initially placed on suicide watch and subsequently downgraded to suicide observation, where he \ncurrently remains. Additionally, AW advised that EPSTEIN's cell mate reported threated to kill him. No \nfurther information was provided. \nThe above incident is currently under investigation with the BOP. \nSupervisory Deputy United States Marshal \nSouthern District of New York \nEFTA00014628",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: ' \nTo:\" \nCc: \nSubject: Re: Jeffrey EPSTEIN \nDate: Thu, 25 Jul 2019 02:41:23 +0000 \nReceived,"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "onal information or reports? \nOn Jul 24, 2019, at 9:35 PM, wrote:"
+      },
+      {
+        "name": "Associate Warden",
+        "role": "extracted",
+        "context": "at 2115 hours on this \ndate: \nAssociate Warden (AW) at MCC New York advised"
+      },
+      {
+        "name": "Supervisory Deputy",
+        "role": "extracted",
+        "context": "investigation with the BOP. \nSupervisory Deputy United States Marshal \nSouthe"
+      },
+      {
+        "name": "Marshal \nSouthern",
+        "role": "extracted",
+        "context": "ervisory Deputy United States Marshal \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Additionally, AW",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.229Z"
+}

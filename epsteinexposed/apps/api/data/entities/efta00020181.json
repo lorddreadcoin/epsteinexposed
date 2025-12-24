@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020181",
+    "filename": "EFTA00020181.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020181.pdf",
+    "text": "\n\nFrom: \"Moyne, Parvin\" < \nTo: \nCc: \n\"Moyer, Thomas\" <I \nSubject: 2019.8.15 - SDNY Production Index.xlsx \nDate: Thu, 15 Aug 2019 13:47:58 +0000 \nAttachments: 2019.8.15_-_SDNY_Production_Index.xlsx \n& \nPlease find attached an index to our productions to date. This is a work in progress —  we will update it as we gather and \nproduce additional documents. \nWould you like to touch base later today about scheduling a proffer? We are free after 4 p.m. \nBest, \nParvin \nParvin Daphne \nMoyne \nAKIN GUMP STRAUSS \nHAUER & FELD LLP \nThe information contained in this e-mail message is intended only for the personal and confidential use of the \nrecipient(s) named above. If you have received this communication in error, please notify us immediately by e-\nmail, and delete the original message. \nEFTA00020181",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Production Index",
+        "role": "extracted",
+        "context": "<I \nSubject: 2019.8.15 - SDNY Production Index.xlsx \nDate: Thu, 15 Aug 2019"
+      },
+      {
+        "name": "Parvin \nParvin",
+        "role": "extracted",
+        "context": "are free after 4 p.m. \nBest, \nParvin \nParvin Daphne \nMoyne \nAKIN GUMP STRA"
+      },
+      {
+        "name": "Daphne \nMoyne",
+        "role": "extracted",
+        "context": "4 p.m. \nBest, \nParvin \nParvin Daphne \nMoyne \nAKIN GUMP STRAUSS \nHAUER & F"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.347Z"
+}

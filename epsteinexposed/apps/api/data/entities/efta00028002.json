@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028002",
+    "filename": "EFTA00028002.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028002.pdf",
+    "text": "\n\nFrom: ' )\" \nTo: (CRM)\"  \nSubject: RE: DC \nUSAO Directory \nDate: Fri, 11 May 2018 16:12:09 +0000 \nImportance: Normal \nAttachments: USAODC_phone_directory_as_of 11.17.pdf \nSafe travels] And thanks very much anyway. \nFrom: (CRM) \nSent: Friday, May 11, 201811:06 AM \nTo: \n) \nSubject: RE: DC USAO Directory \nFrom: \n[mailto:\nSent: Friday, May 11, 201810:58 AM \nTo: (CRM) \nSubject: DC USAO Directory \nDo you by any chance have a directory for the DC USAO? I have no idea why but a colleague up here was asking for it. \nU.S. Attorney's Office for the Southern District of New York \n1 St. Andrew's Plaza, New York, New York 10007 \nDesk \nEFTA00028002",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Directory \nDate",
+        "role": "extracted",
+        "context": "CRM)\"  \nSubject: RE: DC \nUSAO Directory \nDate: Fri, 11 May 2018 16:12:09 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 16:12:09 +0000 \nImportance: Normal \nAttachments: USAODC_phone_directory_as_of"
+      },
+      {
+        "name": "Directory \nFrom",
+        "role": "extracted",
+        "context": "To: \n) \nSubject: RE: DC USAO Directory \nFrom: \n[mailto:\nSent: Friday, May"
+      },
+      {
+        "name": "Directory \nDo",
+        "role": "extracted",
+        "context": "To: (CRM) \nSubject: DC USAO Directory \nDo you by any chance have a dire"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": ".S. Attorney's Office for the Southern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-05-11",
+        "event": "11 May 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.441Z"
+}

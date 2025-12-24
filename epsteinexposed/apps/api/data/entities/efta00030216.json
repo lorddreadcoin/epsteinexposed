@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00030216",
+    "filename": "EFTA00030216.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030216.pdf",
+    "text": "\n\nFrom: Robert T Curran <robert.t.curran@aexp.com> \nTo: \nSubject: FW: Jeffrey Epstein \nDate: Fri, 12 Jul 2019 13:09:23 +0000 \nAttachments: message_zdm.html \n. .American Express Encrypted Email \nLei \nHelp \nThis is a secure, encrypted message. \nrbi Desktop Users: \nOpen the attachment (message_zdm.html) and follow the instructions. \nrbi Mobile Users: \nes, \nGet the mobile application. \n2,Per \nson \n AL \nYour personalized image for: \nEmail Security Zone: This personal security image will always appear on these \nencrypted emails from American Express. If you do not see this image on an \nemail from us, please contact the sender to confirm they sent this email. \nAbout Encrypted Email Copyright 2019 American Express, Inc. All rights reserved \nYou will be able to access this email for 30 days. Alter this time, it may not be available. \nAmerican Express made the following annotations \n'This message and any attachments are \nsolely \nfor the intended recipient and may contain confidential or privileged information. If you are not the intended recipient. \nany disclosure. copying. use. or distribution of the information \nincluded in this message and any attachments is prohbited. If you have received this communication in error. please notify us by reply e-mail and immediately and \npermanently delete this message and any attachments. Thank you.' \nAmerican Express a ajouté le commentaire suivant le \nCe courrier et toute pièce jointe qu'il contient sont réservés au seul destinataire indiqué et peuvent renfermer des renseignements confidentiels et privilégiés. Si \nvous n'êtes pas le destinataire prévu. toute divulgation. duplication. utilisation ou distribution du courrier ou de toute pièce jointe est interdite. Si vous avez reçu \ncette communication par \nerreur, \nveuillez nous en aviser par courrier et détruire immédiatement le courrier et les pièces jointes. Merci. \nEFTA00030216",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ran <robert.t.curran@aexp.com> \nTo: \nSubject: FW: Jeffrey Epstein \nDate: Fri, 12 Jul 2019 13:09:23 +0000 \nAttachmen"
+      },
+      {
+        "name": "American Express",
+        "role": "extracted",
+        "context": "chments: message_zdm.html \n. .American Express Encrypted Email \nLei \nHelp \nT"
+      },
+      {
+        "name": "Encrypted Email",
+        "role": "extracted",
+        "context": "zdm.html \n. .American Express Encrypted Email \nLei \nHelp \nThis is a secure,"
+      },
+      {
+        "name": "Lei \nHelp",
+        "role": "extracted",
+        "context": "ican Express Encrypted Email \nLei \nHelp \nThis is a secure, encrypted"
+      },
+      {
+        "name": "Desktop Users",
+        "role": "extracted",
+        "context": "cure, encrypted message. \nrbi Desktop Users: \nOpen the attachment (messag"
+      },
+      {
+        "name": "Mobile Users",
+        "role": "extracted",
+        "context": "follow the instructions. \nrbi Mobile Users: \nes, \nGet the mobile applica"
+      },
+      {
+        "name": "Email Security",
+        "role": "extracted",
+        "context": "Your personalized image for: \nEmail Security Zone: This personal security"
+      },
+      {
+        "name": "About Encrypted",
+        "role": "extracted",
+        "context": "onfirm they sent this email. \nAbout Encrypted Email Copyright 2019 American"
+      },
+      {
+        "name": "Email Copyright",
+        "role": "extracted",
+        "context": "this email. \nAbout Encrypted Email Copyright 2019 American Express, Inc. A"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.293Z"
+}

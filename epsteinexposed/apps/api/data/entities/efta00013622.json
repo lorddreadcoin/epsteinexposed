@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013622",
+    "filename": "EFTA00013622.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013622.pdf",
+    "text": "\n\nFrom: \" (USAFLS)\" </O=USA/OU=FLS/CN=RECIPIENTS/CN= \nTo: \"Jay Lefkowitz\" \nc\nCc: \" . (USAFLS)\" < \nSubject: Epstein - Letter to Judge Davis \nDate: Wed, 24 Oct 2007 21:29:36 +0000 \nImportance: Normal \nAttachments: 071015_Specia I_Master_LetterS.wpd \n>, \n\"Acosta, Alex (USAFLS)\" \nJay, \nHere is the latest and hopefully final version of the letter to Judge Davis. \nEFTA00013622",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jay Lefkowitz",
+        "role": "extracted",
+        "context": "U=FLS/CN=RECIPIENTS/CN= \nTo: \"Jay Lefkowitz\" \nc\nCc: \" . (USAFLS)\" < \nSubj"
+      },
+      {
+        "name": "Judge Davis",
+        "role": "extracted",
+        "context": "Subject: Epstein - Letter to Judge Davis \nDate: Wed, 24 Oct 2007 21:29"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 21:29:36 +0000 \nImportance: Normal \nAttachments: 071015_Specia I_Master_Lette"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.003Z"
+}

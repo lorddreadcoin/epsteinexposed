@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00029868",
+    "filename": "EFTA00029868.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029868.pdf",
+    "text": "\n\nJuly 13, 2021 \nAUSAs \n& \nSA \nDet. \nPrep (by VTC) \nPrepared for trial testimony. Clarified the following: \n• Although . cannot recall every piece of evidence he seized, he specifically recalls \nseizing message pads and twin torpedoes sex toy from 358 El Brillo Way on October 20, \n2005. \n• Photographs of message pads and twin torpedoes from the scene are fair and accurate \ndepictions of portions of 358 El Brillo Way as they appeared on October 20, 2005. \n• All evidence, including message pads and twin torpedoes, was turned over to the \nevidence collection team, which was supervised by Crime Scene Manager \nCrime scene team then transported all evidence to PBPD. \nEFTA00029868",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "El Brillo",
+        "role": "extracted",
+        "context": "in torpedoes sex toy from 358 El Brillo Way on October 20, \n2005. \n•"
+      },
+      {
+        "name": "Crime Scene",
+        "role": "extracted",
+        "context": "team, which was supervised by Crime Scene Manager \nCrime scene team the"
+      },
+      {
+        "name": "Manager \nCrime",
+        "role": "extracted",
+        "context": "was supervised by Crime Scene Manager \nCrime scene team then transported a"
+      }
+    ],
+    "locations": [
+      {
+        "name": "358 El Brillo Way",
+        "type": "address"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-07-13",
+        "event": "July 13, 2021"
+      },
+      {
+        "date": "2005-10-20",
+        "event": "October 20, \n2005"
+      },
+      {
+        "date": "2005-10-20",
+        "event": "October 20, 2005"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.419Z"
+}

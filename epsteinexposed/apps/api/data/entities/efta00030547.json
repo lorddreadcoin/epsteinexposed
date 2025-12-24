@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030547",
+    "filename": "EFTA00030547.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030547.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \nInc \nSubject: RE: US v. Epstein \nDate: Tue, 12 Nov 2019 19:40:37 +0000 \nThanks very much — if you could please give the DVDs to cc'd here) for case file storage, that would be \ngreat. \nAnd on the work product, I think it probably would make sense to take a look before it all gets uploaded to Relativity —\nwhat's the easiest way to do that? The entire team is unfortunately traveling from tomorrow through Friday, but we can \ntalk / meet early next week if that's the most convenient. \nthanks, \nFrom: \nSent: Tuesday, November 12, 2019 11:16 \nTo: \nSubject: US v. Epstein \nHello, \nThe vendor has finished the document unitization and coding of the data from the 56 DVD files. Please let me know when \nyou are in your office and I will return the DVD's to you, and also please let me know if you wish to review the vendor's \nwork. \nThank you. \nEFTA00030547",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Inc \nSubject",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nCc: \nInc \nSubject: RE: US v. Epstein \nDate: Tue"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: \nInc \nSubject: RE: US v. Epstein \nDate: Tue, 12 Nov 2019 19:40:37 +0"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "19 11:16 \nTo: \nSubject: US v. Epstein \nHello, \nThe vendor has finished the"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-12",
+        "event": "November 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.103Z"
+}

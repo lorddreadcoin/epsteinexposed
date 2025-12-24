@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030275",
+    "filename": "EFTA00030275.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030275.pdf",
+    "text": "\n\nFrom: \nSubject: Transcript \nDate: Wed, 19 Jun 2019 15:35:21 +0000 \nImportance: Normal \nAttachments: 2019.06.19_Transcript.pdf \nHi \nAttached is the transcript from yesterday. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00030275",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Transcript \nDate",
+        "role": "extracted",
+        "context": "From: \nSubject: Transcript \nDate: Wed, 19 Jun 2019 15:35:21 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 15:35:21 +0000 \nImportance: Normal \nAttachments: 2019.06.19_Transcript.pdf \nH"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "s: 2019.06.19_Transcript.pdf \nHi \nAttached is the transcript from yester"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e transcript from yesterday. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "yesterday. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.451Z"
+}

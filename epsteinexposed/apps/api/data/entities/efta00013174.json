@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013174",
+    "filename": "EFTA00013174.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013174.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: (USANYS)\" \nCc: (USANYS)\"\nSubject: RE: \nDate: Thu, 03 Oct 2019 20:13:54 +0000 \nI take that back. In one of the initial emails FBI sent over, they included a draft agenda. We have since had discussions \nindicating we don't believe significant aspects of that draft agenda are appropriate, so what they sent over is not current. \nBut this is what they sent: \nAGENDA \nWelcome & Introductions by Executive Management \nInvestigative team: Explanation of dismissal process after Epstein's suicide; explanation of the judicial process; \nimportance of interviewing all pertinent victims; all victims entitled to services but not all may be pertinent to the ongoing \ninvestigation \nFBI NYO: Safety concerns; media interaction \nVSD: Victim rights and services; State Crime Compensation/EVAF \nOpen Q&A and Closing \nFrom: -USANYS \nSent: Thursday, October 3, 2019 3:49 PM \nTo: (USANYS) \nCc: USANYS) \nSubject: \nDidn't we get a rough outline from FBI of what they want to do at these two victim sessions? I can't seem to find. If you \nhave, can you forward to=? \nEFTA00013174",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Executive Management",
+        "role": "extracted",
+        "context": "A \nWelcome & Introductions by Executive Management \nInvestigative team: Explanat"
+      },
+      {
+        "name": "State Crime",
+        "role": "extracted",
+        "context": ": Victim rights and services; State Crime Compensation/EVAF \nOpen Q&A a"
+      },
+      {
+        "name": "Closing \nFrom",
+        "role": "extracted",
+        "context": "mpensation/EVAF \nOpen Q&A and Closing \nFrom: -USANYS \nSent: Thursday, Oct"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-03",
+        "event": "October 3, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.011Z"
+}

@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00013479",
+    "filename": "EFTA00013479.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013479.pdf",
+    "text": "\n\nEvent: Mw epstein defense team \nStart Date: 2007-07-31 18:00:00 +0000 \nEnd Date: 2007-07-31 20:00:00 +0000 \nOrganizer: \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:21:49 +0000 \nDate Modified: 2015-07-22 20:34:55 +0000 \nPriority: 5 \nEFTA00013479",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "ent: Mw epstein defense team \nStart Date: 2007-07-31 18:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2007-07-31 18:00:00 +0000 \nEnd Date: 2007-07-31 20:00:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "rganizer: \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:21:49 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2015-04-04 00:21:49 +0000 \nDate Modified: 2015-07-22 20:34:55 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-07-31",
+        "event": "2007-07-31"
+      },
+      {
+        "date": "2015-04-04",
+        "event": "2015-04-04"
+      },
+      {
+        "date": "2015-07-22",
+        "event": "2015-07-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.677Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032355",
+    "filename": "EFTA00032355.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032355.pdf",
+    "text": "\n\nFrom: \")\" \"cIMIE> \nTo: \"a\" c=MIMIIW \nSubject: Please make binder this morning? \nDate: Mon, 12 Aug 2019 11:42:48 +0000 \nAttachments: Combined_Epstein_Med_Records.pdf; 30_MINUTE_ROUNDS_8-8-19.pdf; \n30 MINUTE ROUNDS 8-9-19.pdf; 30_MINUTE_ROUNDS_8-10-19_2.pdf; \n30 MINUTE:ROUNDS- 8-10-19.pdf; 30_MINUTE_ROUNDS_8-7-19.pdf; \nEpstein_Investigative_Reports.pdf; Staff Roster 8-10-19.pdf; Staff Roster_8-9-19.pdf \nHi , I have an interview beginning at 930, could you please print a binder of these documents? Order should be: \n1. Medical Records \n2. Psych notes \n3. Investigative Reports \n4. Epstein photos \n5. 30 minute rounds (oldest to newest) \n6. Count Slips \n7. Staff assignments \n8. Staff roster (oldest to newest) \n9. \"attachment 1\" \n10. Research \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00032355",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Staff Roster",
+        "role": "extracted",
+        "context": "in_Investigative_Reports.pdf; Staff Roster 8-10-19.pdf; Staff Roster_8-9"
+      },
+      {
+        "name": "Medical Records",
+        "role": "extracted",
+        "context": "cuments? Order should be: \n1. Medical Records \n2. Psych notes \n3. Investiga"
+      },
+      {
+        "name": "Investigative Reports",
+        "role": "extracted",
+        "context": "l Records \n2. Psych notes \n3. Investigative Reports \n4. Epstein photos \n5. 30 min"
+      },
+      {
+        "name": "Count Slips",
+        "role": "extracted",
+        "context": "rounds (oldest to newest) \n6. Count Slips \n7. Staff assignments \n8. Sta"
+      },
+      {
+        "name": "Research \nAssistant",
+        "role": "extracted",
+        "context": "west) \n9. \"attachment 1\" \n10. Research \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "arch \nAssistant United States Attorney \nSouthern District of New York \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.134Z"
+}

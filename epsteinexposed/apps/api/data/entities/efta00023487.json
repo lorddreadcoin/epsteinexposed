@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023487",
+    "filename": "EFTA00023487.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023487.pdf",
+    "text": "\n\nFrom: 'a \nTo: \nSubject: \nDate: Thu, 11 Feb 2021 22:35:37 +0000 \nAttachments: \nSee attached. Judge Koetl has not yet ruled on this issue in case. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00023487",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Koetl",
+        "role": "extracted",
+        "context": "Attachments: \nSee attached. Judge Koetl has not yet ruled on this iss"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ruled on this issue in case. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ue in case. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00023487"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.041Z"
+}

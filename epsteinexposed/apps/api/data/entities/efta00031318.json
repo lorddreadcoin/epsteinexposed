@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031318",
+    "filename": "EFTA00031318.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031318.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: subpoena stuff \nDate: Thu, 28 Feb 2019 20:14:04 +0000 \nImportance: Normal \nAttachments: 2019-02-05, JE,_unsealing_application_and_order,_17_Civ_0616 \nJSN).docx; \nIterative_NDO_and_Subpoena.1.16.19.docx \nAttached is the submission we did, but also including somethinMent me that may be useful (more useful?) too. \nGood luck) \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00031318",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 20:14:04 +0000 \nImportance: Normal \nAttachments: 2019-02-05, JE,_unsealing_ap"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nGood luck) \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-05",
+        "event": "2019-02-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.811Z"
+}

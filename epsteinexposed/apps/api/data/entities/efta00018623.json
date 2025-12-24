@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018623",
+    "filename": "EFTA00018623.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018623.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBce: \nSubject: RE: Expert \nWitness \nDate: Wed, 28 Oct 2020 18:24:24 +0000 \nEmbedded: RE:_Expert_Witness.msg \nSender \nSubject: RE: Ex ert Witness \nMessage\n-Id: \nRecipient: \nEFTA00018623",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Expert \nWitness",
+        "role": "extracted",
+        "context": "To: \nCc: \nBce: \nSubject: RE: Expert \nWitness \nDate: Wed, 28 Oct 2020 18:24"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "dded: RE:_Expert_Witness.msg \nSender \nSubject: RE: Ex ert Witness \nMessage"
+      },
+      {
+        "name": "Witness \nMessage",
+        "role": "extracted",
+        "context": "Sender \nSubject: RE: Ex ert Witness \nMessage\n-Id: \nRecipient: \nEFTA0001862"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.322Z"
+}

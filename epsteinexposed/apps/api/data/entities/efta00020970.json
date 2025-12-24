@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00020970",
+    "filename": "EFTA00020970.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020970.pdf",
+    "text": "\n\nFrom: \"=I\n> \nTo: \nSubject: Subpoena requests \nDate: Fri, 06 Dec 2019 00:05:56 +0000 \nHey all, \nCould we get some subpoenas for the below agencies for Ghislaine Maxwell, DOB 12/25/1961 \nUber \nUber Technologies, Inc. \n1455 Market Street, 4th Floor \nSan Francisco, CA 94103 \nLyft \n185 Berry Street \nSuite 5000 \nSan \nFrancisco, CA 94107 \nThanks! \nEFTA00020970",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "we get some subpoenas for the below agencies for Ghislaine Maxwell, DOB 12/25/1961 \nUber \nUber Technologies, Inc. \n1"
+      },
+      {
+        "name": "Uber \nUber",
+        "role": "extracted",
+        "context": "aine Maxwell, DOB 12/25/1961 \nUber \nUber Technologies, Inc. \n1455 Mark"
+      },
+      {
+        "name": "Market Street",
+        "role": "extracted",
+        "context": "Uber Technologies, Inc. \n1455 Market Street, 4th Floor \nSan Francisco, CA"
+      },
+      {
+        "name": "Floor \nSan",
+        "role": "extracted",
+        "context": "Inc. \n1455 Market Street, 4th Floor \nSan Francisco, CA 94103 \nLyft \n18"
+      },
+      {
+        "name": "Berry Street",
+        "role": "extracted",
+        "context": "rancisco, CA 94103 \nLyft \n185 Berry Street \nSuite 5000 \nSan \nFrancisco,"
+      },
+      {
+        "name": "San \nFrancisco",
+        "role": "extracted",
+        "context": "185 Berry Street \nSuite 5000 \nSan \nFrancisco, CA 94107 \nThanks! \nEFTA00020"
+      }
+    ],
+    "locations": [
+      {
+        "name": "San Francisco, CA",
+        "type": "city"
+      },
+      {
+        "name": "San \nFrancisco, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "1961-12-25",
+        "event": "12/25/1961"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.730Z"
+}

@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00013556",
+    "filename": "EFTA00013556.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013556.pdf",
+    "text": "\n\nFrom \nTo: \"Jack Goldberger\" < \nCc: \nSubject: Victim Notification in Epstein \nDate: Tue, 08 Jul 2008 18:06:29 +0000 \nImportance: Normal \nAttachments: 080708_Goldberger_Ltr_re_Victim_Notification.pdf \nDear Mr. Goldberger: \nPlease review the attached letter. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013556",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Goldberger",
+        "role": "extracted",
+        "context": "Victim_Notification.pdf \nDear Mr. Goldberger: \nPlease review the attac"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \"Jack Goldberger\" < \nCc: \nSu"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "From \nTo: \"Jack Goldberger\" < \nCc: \nSubject: Victim Noti"
+      },
+      {
+        "name": "Victim Notification",
+        "role": "extracted",
+        "context": "Goldberger\" < \nCc: \nSubject: Victim Notification in Epstein \nDate: Tue, 08 Jul"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "bject: Victim Notification in Epstein \nDate: Tue, 08 Jul 2008 18:06:29 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 18:06:29 +0000 \nImportance: Normal \nAttachments: 080708_Goldberger_Ltr_re_Vic"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": "r_re_Victim_Notification.pdf \nDear Mr. Goldberger: \nPlease review t"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013556"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.862Z"
+}

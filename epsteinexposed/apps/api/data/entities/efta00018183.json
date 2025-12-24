@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018183",
+    "filename": "EFTA00018183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018183.pdf",
+    "text": "\n\nFromil\nTod \nCc: \nSubject: FW: disclosure \nDate: Fri, 12 Jul 2019 15:10:34 +0000 \nImportance: Normal \nAttachments: Scan_6.pdf \nThis is Epstein's financial disclosure. \nJudge Berman denied our pending request for some extra time with a docket note that reads -  seriously -  \"Hard to \nimagine it would take the Govt extra time to review submission.\" \nFrom: \nSent: Friday, July 12, 2019 11:06 AM \nTo: \nSubject: disclosure \nTry not to strain your eyes reading all the pages \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00018183",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fromil\nTod",
+        "role": "extracted",
+        "context": "Fromil\nTod \nCc: \nSubject: FW: disclosure"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 15:10:34 +0000 \nImportance: Normal \nAttachments: Scan_6.pdf \nThis is Epstein'"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "tein's financial disclosure. \nJudge Berman denied our pending request fo"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "all the pages \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.366Z"
+}

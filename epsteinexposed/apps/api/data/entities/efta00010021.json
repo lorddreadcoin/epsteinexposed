@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00010021",
+    "filename": "EFTA00010021.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010021.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: Maxwell fact witness travel \nDate: Thu, 11 Nov 2021 22:57:55 + \nAttachments: Fact Witness_Travel_Request_- _ \nAttached please find a fact witness travel request for another witness in the Maxwell trial We think he \ncould testify sometime between the afternoon of 12/1 and 12/3. Just to flag that, if we get him off the stand on 12/1 or \n12/2, we'll probably want to change his travel so he can be back in by 12/3. \nPlease let me know if you have any questions, and thank you so much for your help. \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA00010021",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "2021 22:57:55 + \nAttachments: Fact Witness_Travel_Request_- _ \nAttached"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "k you so much for your help. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "your help. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York. New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.113Z"
+}

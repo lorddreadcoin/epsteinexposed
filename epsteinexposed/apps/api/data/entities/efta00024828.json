@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024828",
+    "filename": "EFTA00024828.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024828.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Telephone calls about Jeffrey Epstein \nDate: Thu, 11 Jul 2019 13:54:01 +0000 \nImportance: Normal \nWill do \nFrom \nSent: Wednesday, July 10, 2019 3:03 PM \nTo: \nCc: \nSubject: Telephone calls about Jeffrey Epstein \nWe need to get this info to all the SSOs who might answer the phone when is gone for the day. \nIf we receive a call that sounds like it is from a victim of Jeffrey Epstein, or someone who says they have information, \nplease respond this way. \nTell the caller you are going to forward them to a  special number for this where they should leave a message with a phone \nnumber where we can call them. Tell them someone will definitely call them. Then forward them to 1-1030. \nEFTA00024828",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "om: \nTo: \nCc: \nSubject: RE: Telephone calls about Jeffrey Epstein \nDate: Thu, 11 Jul 2019 13:54:01 +0000 \nImportanc"
+      },
+      {
+        "name": "Normal \nWill",
+        "role": "extracted",
+        "context": "9 13:54:01 +0000 \nImportance: Normal \nWill do \nFrom \nSent: Wednesday, Ju"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "Importance: Normal \nWill do \nFrom \nSent: Wednesday, July 10, 2019 3:0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-10",
+        "event": "July 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.913Z"
+}

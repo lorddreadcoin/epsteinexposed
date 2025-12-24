@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00028927",
+    "filename": "EFTA00028927.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028927.pdf",
+    "text": "\n\nEXHIBIT P \nEFTA00028927\n\nLog \nID Email Sent Date Email From Email To CC Address \nIt \nSubject Matter \nType of Privilege \nPrivilee \nAction \nPage Count \nDoc \nType \n153 \nEmail and letter \ncommunications re law \nenforcement \ninvestigation \nThe law enforcement \nentity. \nDavid Boles, Stan \nPottinger, Sigrid \nMcCawley, Paul Cassell, \nBrad Edwards \nThe law enforcement entity, \nS David Boles, \nStan Pottmger, Sigrid \nMcCawley, Paul \nCassell, \nBrad \nEdwards \nPlaintiff has objected that Defendant's requests are overly \nbroad and unduly burdensome, as individually logging all \nprivileged responsive documents would be overly \nburdensome. Plaintiff contends that requests targeting \nsuch privileged information are not reasonably calculated \nto lead to the discovery of admissible evidence, are not \nimportant to resolving the issues, are not relevant to any \nparty's claim or defense, are not proportional to the needs \nof the case, and creates a heavy burden on Plaintiff that \noutweighs its benefit. Therefore, Plaintiff has employed \ncategorical logging pursuant to Local Civil Rule 26.2(c). \nThis categorical entry is regarding correspondence re the \ncurrently ongoing criminal investigation of Defendant and \nothers. \nPublic Interest Withheld \napprox. 57 \ndocuments \nEFTA00028928",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Email Sent",
+        "role": "extracted",
+        "context": "IBIT P \nEFTA00028927\n\nLog \nID Email Sent Date Email From Email To CC A"
+      },
+      {
+        "name": "Date Email",
+        "role": "extracted",
+        "context": "A00028927\n\nLog \nID Email Sent Date Email From Email To CC Address \nIt"
+      },
+      {
+        "name": "From Email",
+        "role": "extracted",
+        "context": "Log \nID Email Sent Date Email From Email To CC Address \nIt \nSubject Ma"
+      },
+      {
+        "name": "Address \nIt",
+        "role": "extracted",
+        "context": "t Date Email From Email To CC Address \nIt \nSubject Matter \nType of Priv"
+      },
+      {
+        "name": "Subject Matter",
+        "role": "extracted",
+        "context": "From Email To CC Address \nIt \nSubject Matter \nType of Privilege \nPrivilee"
+      },
+      {
+        "name": "Privilege \nPrivilee",
+        "role": "extracted",
+        "context": "It \nSubject Matter \nType of Privilege \nPrivilee \nAction \nPage Count \nDoc \nTyp"
+      },
+      {
+        "name": "Action \nPage",
+        "role": "extracted",
+        "context": "Type of Privilege \nPrivilee \nAction \nPage Count \nDoc \nType \n153 \nEmail"
+      },
+      {
+        "name": "Count \nDoc",
+        "role": "extracted",
+        "context": "ilege \nPrivilee \nAction \nPage Count \nDoc \nType \n153 \nEmail and letter"
+      },
+      {
+        "name": "David Boles",
+        "role": "extracted",
+        "context": "The law enforcement \nentity. \nDavid Boles, Stan \nPottinger, Sigrid \nMcC"
+      },
+      {
+        "name": "Stan \nPottinger",
+        "role": "extracted",
+        "context": "cement \nentity. \nDavid Boles, Stan \nPottinger, Sigrid \nMcCawley, Paul Casse"
+      },
+      {
+        "name": "Sigrid \nMc",
+        "role": "extracted",
+        "context": "David Boles, Stan \nPottinger, Sigrid \nMcCawley, Paul Cassell, \nBrad Ed"
+      },
+      {
+        "name": "Paul Cassell",
+        "role": "extracted",
+        "context": "Pottinger, Sigrid \nMcCawley, Paul Cassell, \nBrad Edwards \nThe law enfor"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "rid \nMcCawley, Paul Cassell, \nBrad Edwards \nThe law enforcement entity,"
+      },
+      {
+        "name": "Stan Pottmger",
+        "role": "extracted",
+        "context": "ment entity, \nS David Boles, \nStan Pottmger, Sigrid \nMcCawley, Paul \nCass"
+      },
+      {
+        "name": "Paul \nCassell",
+        "role": "extracted",
+        "context": "n Pottmger, Sigrid \nMcCawley, Paul \nCassell, \nBrad \nEdwards \nPlaintiff ha"
+      },
+      {
+        "name": "Brad \nEdwards",
+        "role": "extracted",
+        "context": "id \nMcCawley, Paul \nCassell, \nBrad \nEdwards \nPlaintiff has objected that"
+      },
+      {
+        "name": "Local Civil",
+        "role": "extracted",
+        "context": "tegorical logging pursuant to Local Civil Rule 26.2(c). \nThis categoric"
+      },
+      {
+        "name": "Public Interest",
+        "role": "extracted",
+        "context": "on of Defendant and \nothers. \nPublic Interest Withheld \napprox. 57 \ndocumen"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.455Z"
+}

@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00029732",
+    "filename": "EFTA00029732.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029732.pdf",
+    "text": "\n\nFrom: \nTo:' (USANYS) [Contractor)\" <I \nSubject: RE: printing project \nDate: Mon, 12 Aug 2019 16:40:32 +0000 \nYes please —  it can be labeled on the front and side as: \nEpstein Financial Documents \n19 Cr. 490 (RMB) \nthanks! \nFrom: (USANYS) [Contractor] \nSent: Monday, August 12, 2019 11:44 \nTo: \nSubject: RE: printing project \nWould you like this labeled? \nFrom: \nSent: Sunday, August 11, 2019 10:41 PM \nTo: (USANYS) [Contractor] cz> \nSubject: printing project \ncfl \nHey= could I please ask for your help with printing some documents? If I could please get the five dots in the \nfollowing folder: \nUsa.doj.gov\\ clouaNYS StAndrews \n\\Shared \\ \nprinted single-sided, black and white, in a binder, that would be great. It's roughly 550 pages total, I think. And if I could \nplease get tabs with the following labels for each respective doc: \nFBAR \nNo rush on this, if I could please get the binder by the end of the day Tuesday that's totally fine—and feel free to farm out, \ntoo, if you're swamped. Thank you! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00029732",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Financial",
+        "role": "extracted",
+        "context": "ed on the front and side as: \nEpstein Financial Documents \n19 Cr. 490 (RMB)"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "d. Thank you! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-12",
+        "event": "August 12, 2019"
+      },
+      {
+        "date": "2019-08-11",
+        "event": "August 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.083Z"
+}

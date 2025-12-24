@@ -1,0 +1,43 @@
+{
+  "document": {
+    "id": "efta00019883",
+    "filename": "EFTA00019883.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019883.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: (USANYS)\" \n<BWilliams8®usa.doj.gov> \nCc: ' (USANYS)\"\nSubject: RE: Criminal Division update... \nDate: Fri, 14 Feb 2020 15:49:37 +0000 \nAttachments: PC_Unitr_Short_Form_Update.2.14.20v2.docx \nHere \nis PC. \nFrom: SANYS) \nSent: Thursday, February 13, 2020 2:13 PM \nTo: \nSubject: RE: Criminal Division update... \nFinal reminder. \nFrom: USANYS) \nSent: Wednesday, February 12, 2020 2:11 PM \nTo: \nSubject: RE: Criminal Division update... \nAnother \nreminder... \nFrom: USANYS) \nSent Monday February 10.2020 12.08 PM \nTo: \nEFTA00019883\n\nCc (USANYS) \nSubject: RE: Criminal Division update... \nReminder: \nI know it's not August but the report is due this Friday. \nFrom: USANYS) \nSent: Thursday, February 6, 2020 11:21 AM \naUSANY5 ) \nSubject: RE: Criminal Division update... \nA th \nOk... everyone, let's get out of panic mode. The update is now due on Friday, August I.+ .  So, now you have \nplenty of time. Sorry, for any inconvenience. \nFrom USANYS) \nSent: Thursday, February 6, 2020 10:15 AM \nTo: \nSubject: Criminal Division update... \nis due. Please e-mail them to me —  Stephanie is out of the Office. \nThanks, \nEFTA00019884",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "Cc: ' (USANYS)\"\nSubject: RE: Criminal Division update... \nDate: Fri, 14 Feb"
+      },
+      {
+        "name": "Sent Monday",
+        "role": "extracted",
+        "context": "reminder... \nFrom: USANYS) \nSent Monday February 10.2020 12.08 PM \nTo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-13",
+        "event": "February 13, 2020"
+      },
+      {
+        "date": "2020-02-12",
+        "event": "February 12, 2020"
+      },
+      {
+        "date": "2020-02-06",
+        "event": "February 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.776Z"
+}

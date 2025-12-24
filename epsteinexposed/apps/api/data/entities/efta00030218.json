@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00030218",
+    "filename": "EFTA00030218.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030218.pdf",
+    "text": "\n\nFrom: ' \n< \nTo: \"Ma, (MM) (FBI)\"\nSubject: Re: Epstein \nDate: Thu, 21 Mar 2019 23:52:54 +0000 \nImportance: Normal \nOf course! Thanks. \nSent from my iPhone \nOn Mar 21, 2019, at 4:15 PM, EMM, (MM) (FBI) < > wrote: \nSony, I  have been out of the office most all of the day and do not think I will get back today. Can we try \ntomorrow? \nOn Mar 21, 2019 12:30 PM, \" \n< \nThanks! Anything you can send would be much appreciated. \nSent from my iPhone \nOn a.(Na:BI) \n> wrote: \nI will email it to you in the morning. \nBest regards, \n' \nwrote: \nOn Mar 20, \nwrote: \n2019 6:01 PM, \n'j \nII  \n> \nHi \nHope you're doing well. In connection with the Epstein investigation, we were wondering if you could possibly send \nus the search warrant affidavit and order for the Epstein residence. We understand that it was executed by local \nauthorities before the case was brought to the FBI, but we understand you have a copy in the files, and we can't seem \nto locate it in the materials we've reviewed. If you could please email it to us, that would be a big help. \nThanks in advance for your help, we really appreciate it. \nEFTA00030218\n\nBest, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030219",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\"Ma, (MM) (FBI)\"\nSubject: Re: Epstein \nDate: Thu, 21 Mar 2019 23:52:54 +0"
+      },
+      {
+        "name": "Normal \nOf",
+        "role": "extracted",
+        "context": "9 23:52:54 +0000 \nImportance: Normal \nOf course! Thanks. \nSent from my"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ourse! Thanks. \nSent from my iPhone \nOn Mar 21, 2019, at 4:15 PM, EMM"
+      },
+      {
+        "name": "On Mar",
+        "role": "extracted",
+        "context": "today. Can we try \ntomorrow? \nOn Mar 21, 2019 12:30 PM, \" \n< \nThan"
+      },
+      {
+        "name": "Hi \nHope",
+        "role": "extracted",
+        "context": ": \n2019 6:01 PM, \n'j \nII  \n> \nHi \nHope you're doing well. In connect"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ate it. \nEFTA00030218\n\nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "0218\n\nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030219"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.300Z"
+}

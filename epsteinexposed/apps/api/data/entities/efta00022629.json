@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00022629",
+    "filename": "EFTA00022629.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022629.pdf",
+    "text": "\n\nFrom: ' \nUSMS)\"\nTo: \nSANYSY. alMliff' \nSubject: FW: Jeffrey Epstein \n19 cr 490 \nDate: Mon, 12 Aug 2019 16:53:13 +0000 \nImportance: High \nAttachments: Aug_12_letter.pdf \nFYI \nUnited States Marshal \nSouthern District of New York \n Original \nMessa e \nmailto \nSent \n12, 2019 12:47 PM \nTo \nCc: \nu  jeer e rey Epstein 19 cr 490 \nImportance: High \nPlease see attached letter from Judge Richard M. Berman. \n(See attached file: Aug 12 letter.pdf) \nOn Behalf Of \nEFTA00022629",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "om: ' \nUSMS)\"\nTo: \nSANYSY. alMliff' \nSubject: FW: Jeffrey Epstein \n19 cr 490 \nDate: Mon, 12 Aug 2019 16:53:13 +0000"
+      },
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "9 16:53:13 +0000 \nImportance: High \nAttachments: Aug_12_letter.pdf \nFYI \nUnit"
+      },
+      {
+        "name": "Marshal \nSouthern",
+        "role": "extracted",
+        "context": "etter.pdf \nFYI \nUnited States Marshal \nSouthern District of New York \n Origin"
+      },
+      {
+        "name": "Original \nMessa",
+        "role": "extracted",
+        "context": "uthern District of New York \n Original \nMessa e \nmailto \nSent \n12, 2019 12:"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "lto \nSent \n12, 2019 12:47 PM \nTo \nCc: \nu  jeer e rey Epstein 19 cr"
+      },
+      {
+        "name": "High \nPlease",
+        "role": "extracted",
+        "context": "pstein 19 cr 490 \nImportance: High \nPlease see attached letter from Judg"
+      },
+      {
+        "name": "Judge Richard",
+        "role": "extracted",
+        "context": "ease see attached letter from Judge Richard M. Berman. \n(See attached fil"
+      },
+      {
+        "name": "On Behalf",
+        "role": "extracted",
+        "context": "hed file: Aug 12 letter.pdf) \nOn Behalf Of \nEFTA00022629"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.288Z"
+}

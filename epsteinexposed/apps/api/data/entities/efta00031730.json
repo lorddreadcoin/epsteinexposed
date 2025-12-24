@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00031730",
+    "filename": "EFTA00031730.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031730.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: Maxwell Financial Report Appendices \nDate: Fri, 11 Dec 2020 14:42:13 +0000 \nAttachments: 2015-19 _ Tax _Retums.zip \nHi \nIt was great chatting with you earlier this morning! Attached you'll find a smaller zip folder containing just the tax returns, \nfor each year from 2015 to 2019. You shouldn't need a password to open the folders, but in case it prompts you, the \npassword defense counsel provided us is: \nThe entirety of the Financial Report Appendices are still loading onto USAFx, and it appears as if there is less than a third \nleft to download. I'm estimating it will take about another hour to an hour and a half for everything to finish downloading \nthere. Once they've downloaded, I'll share the folder with you. \nThank you so much for your patience and please let me know if you encounter any issues viewing these tax \nreturns! \n• \nFrom: \nSent: Frida December 11 2020 6:47 AM \nTo: \nu ject: RE: Maxwe Financia Report Appen ices \nYesterday, I was out of the office. Please burn the ZIP file to a DVD. Once the DVD is ready, call me at \nwill walk over to your office to pick it up. \nBest \nINN \nFrom: \nSent: Thursda December 10 2020 12:58 PM \nTo \nSu jec : - : axwe inancia Report Appendices \nand I \nI hope you're well! I am writing to follow up on my previous email from yesterday. Please let me know what works best for \nyou to receive the below materials. Thanks very much, and have a great afternoon! \nEFTA00031730\n\nFro \nSent: Wednesda December 9  2020 3:47 PM \nTo \nSu je : axwe inancia epo ppen ices \nHi \nI hope you're doing well! ave received the financial report \nappendices from Maxwell's defense team. The materials were provided in a  3GB zip folder, which unfortunately is too \nlarge to email. Depending on what works best for you and your work set-up, I believe we have a few options to get these \nmaterials to you. I can forward you the original email from Maxwell's defense team that contained a link to view and \ndownload the materials, I can upload the materials to USAFx for you to view, or I can have our IT department copy the \nmaterials onto a hard drive. Please let me know what you prefer, and I will get these materials to you as soon as I can. \nThanks very muchl \nEFTA00031731",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Maxwell Fin"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Maxwell Financial Report"
+      },
+      {
+        "name": "Maxwell Financial",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Maxwell Financial Report Appendices \nDate: Fri,"
+      },
+      {
+        "name": "Report Appendices",
+        "role": "extracted",
+        "context": "ubject: RE: Maxwell Financial Report Appendices \nDate: Fri, 11 Dec 2020 14:42"
+      },
+      {
+        "name": "Hi \nIt",
+        "role": "extracted",
+        "context": "s: 2015-19 _ Tax _Retums.zip \nHi \nIt was great chatting with you e"
+      },
+      {
+        "name": "Financial Report",
+        "role": "extracted",
+        "context": "d us is: \nThe entirety of the Financial Report Appendices are still loading"
+      },
+      {
+        "name": "Frida December",
+        "role": "extracted",
+        "context": "ax \nreturns! \n• \nFrom: \nSent: Frida December 11 2020 6:47 AM \nTo: \nu ject:"
+      },
+      {
+        "name": "Maxwe Financia",
+        "role": "extracted",
+        "context": "020 6:47 AM \nTo: \nu ject: RE: Maxwe Financia Report Appen ices \nYesterday,"
+      },
+      {
+        "name": "Report Appen",
+        "role": "extracted",
+        "context": ": \nu ject: RE: Maxwe Financia Report Appen ices \nYesterday, I was out of"
+      },
+      {
+        "name": "Thursda December",
+        "role": "extracted",
+        "context": "up. \nBest \nINN \nFrom: \nSent: Thursda December 10 2020 12:58 PM \nTo \nSu jec"
+      },
+      {
+        "name": "To \nSu",
+        "role": "extracted",
+        "context": "da December 10 2020 12:58 PM \nTo \nSu jec : - : axwe inancia Report"
+      },
+      {
+        "name": "Fro \nSent",
+        "role": "extracted",
+        "context": "eat afternoon! \nEFTA00031730\n\nFro \nSent: Wednesda December 9  2020 3:"
+      },
+      {
+        "name": "Wednesda December",
+        "role": "extracted",
+        "context": "on! \nEFTA00031730\n\nFro \nSent: Wednesda December 9  2020 3:47 PM \nTo \nSu je :"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-11",
+        "event": "December 11 2020"
+      },
+      {
+        "date": "2020-12-10",
+        "event": "December 10 2020"
+      },
+      {
+        "date": "2020-12-09",
+        "event": "December 9  2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.724Z"
+}

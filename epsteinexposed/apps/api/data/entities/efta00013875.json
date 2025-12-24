@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013875",
+    "filename": "EFTA00013875.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013875.pdf",
+    "text": "\n\nFrom \nTo: \n(USAFLS)\" \nSubject: <no \nsubject> \nDate: Sun, 29 Jun 2008 22:59:25 +0000 \nImportance: Normal \nAttachments: GRAND JURY_PRESENTATION_PART_III.docx \nEFTA00013875",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \n(USAFLS)\" \nSubject: <no \nsu"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 22:59:25 +0000 \nImportance: Normal \nAttachments: GRAND JURY_PRESENTATION_PART"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.623Z"
+}

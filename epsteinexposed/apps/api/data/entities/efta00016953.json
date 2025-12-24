@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016953",
+    "filename": "EFTA00016953.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016953.pdf",
+    "text": "\n\nFrom: \":3' \nTo: Christian Everde \nCc \nBOBBI C STERNHEIM \nJeff Pagliuca , Laura Menninger \nSubject: Draft joint proposed request to charge \nDate: Wed, 20 Oct 2021 16:29:51 +0000 \nAttachments: Maxwell_RTCJ2021.10.212o_defense_counsel].docx \nCounsel, \nAttached please find a draft joint proposed request to charge. Since this is due to the Court on Wednesday, October 27, \nplease send us your comments by Sunday, October 24. Please also send us your comments, including any additional \nproposed jury instructions, as a redline to this document. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00016953",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everde",
+        "role": "extracted",
+        "context": "From: \":3' \nTo: Christian Everde \nCc \nBOBBI C STERNHEIM \nJeff"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "verde \nCc \nBOBBI C STERNHEIM \nJeff Pagliuca , Laura Menninger \nSubject: D"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "C STERNHEIM \nJeff Pagliuca , Laura Menninger \nSubject: Draft joint propose"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e to this document. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00016953"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.745Z"
+}

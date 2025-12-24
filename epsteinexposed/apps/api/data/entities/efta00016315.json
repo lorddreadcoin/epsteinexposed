@@ -1,0 +1,99 @@
+{
+  "document": {
+    "id": "efta00016315",
+    "filename": "EFTA00016315.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016315.pdf",
+    "text": "\n\nOFFICE OF THE STATE ATTORNEY \nFIFTEENTH JUDICIAL CIRCUIT \nIN AND FOR PALM BEACH COUNTY \nDAVID ARONBERG \nSTATE ATTORNEY \nSeptember 14, 2020 \nAssistant United States Attorney \nSouthern District of New York \nVia Electronic Mail: \nRE: Response to Agency Request \nOur Public Record No.: 2020PR000426AMB \nDear \nWe have completed your agency's request received by our office on September 3, \n2020 for a copy (un-redacted) investigation and prosecution concerning Jeffrey \nEpstein: \nPlease be advised that in response to your request copies of the state's entire (un-\nredacted) files are being provided to you electronically via our agency's CIP portal. \nYour records consists of 4,421 pages of information, 43 audios and 6 videos. Also \nincluded are two pages of \"Case Relationships\" retrieved from our electronic Stac \ndatabase system. \nYou will receive an email request to create an account allowing you to access and \ndownload the items. Once you create the account, a verification email will be sent to \nyou. Please be sure to check your Spam folder if you do not receive it as the \nverification email has a lifespan of 20 minutes. These items will be available in the \nCIP Portal. \nIf you have further questions lease feel free to contact me by e-mail at \nr directly at \nSincerely,\nPublic Records Department \nWest Palm Beach. Florida 33401 \nPhone: \nwww.sa .org \nEFTA00016315",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ATTORNEY \nSeptember 14, 2020 \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "er 14, 2020 \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nVia Electronic M"
+      },
+      {
+        "name": "Via Electronic",
+        "role": "extracted",
+        "context": "outhern District of New York \nVia Electronic Mail: \nRE: Response to Agency"
+      },
+      {
+        "name": "Agency Request",
+        "role": "extracted",
+        "context": "tronic Mail: \nRE: Response to Agency Request \nOur Public Record No.: 2020P"
+      },
+      {
+        "name": "Our Public",
+        "role": "extracted",
+        "context": ": Response to Agency Request \nOur Public Record No.: 2020PR000426AMB"
+      },
+      {
+        "name": "Record No",
+        "role": "extracted",
+        "context": "to Agency Request \nOur Public Record No.: 2020PR000426AMB \nDear \nWe h"
+      },
+      {
+        "name": "Dear \nWe",
+        "role": "extracted",
+        "context": "Record No.: 2020PR000426AMB \nDear \nWe have completed your agency's"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "on and prosecution concerning Jeffrey \nEpstein: \nPlease be advised that in r"
+      },
+      {
+        "name": "Case Relationships",
+        "role": "extracted",
+        "context": "o \nincluded are two pages of \"Case Relationships\" retrieved from our electroni"
+      },
+      {
+        "name": "Public Records",
+        "role": "extracted",
+        "context": "at \nr directly at \nSincerely,\nPublic Records Department \nWest Palm Beach."
+      },
+      {
+        "name": "Department \nWest",
+        "role": "extracted",
+        "context": "at \nSincerely,\nPublic Records Department \nWest Palm Beach. Florida 33401 \nPh"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "blic Records Department \nWest Palm Beach. Florida 33401 \nPhone: \nwww.s"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-09-14",
+        "event": "September 14, 2020"
+      },
+      {
+        "date": "2020-09-03",
+        "event": "September 3, \n2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.460Z"
+}

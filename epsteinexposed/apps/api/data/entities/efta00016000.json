@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00016000",
+    "filename": "EFTA00016000.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016000.pdf",
+    "text": "\n\nFrom: \"Blase, Nicholas (USANYS)\"  \nTo: \nUSANYS)\"  \nCc: \nSubject: RE: Prince Andrew as Epstein witness? - HuffPost \nDate: Thu, 21 Nov 2019 19:52:03 +0000 \nI'll respond. Thanks. \nFrom: \nSent: Thursday, November 21, 2019 2:51 PM \nTo: \nCc: \nSubject: FW: Prince Andrew as Epstein witness? - HuffPost \nFrom: Sara Boboltz \nSent: Thursday, November 21, 2019 2:49 PM \nTo:   \nSubject: Prince Andrew as Epstein witness? - HuffPost \nHello, \nWriting to ask whether Britain's Prince Andrew will submit to questioning by U.S. investigators looking into \nJeffrey Epstein's potential co-conspirators. The Telegraph reported this morning that the prince is preparing to do \nso. \nPlease let me know one way or the other if you can confirm. Thank you. \nSara Boboltz \nReporter HuffPost \nNew York, NY 10003 \nsara_bee \nEFTA00016000",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "o questioning by U.S. investigators looking into \nJeffrey Epstein's potential co-conspirators. The Telegraph report"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "las (USANYS)\"  \nTo: \nUSANYS)\"  \nCc: \nSubject: RE: Prince Andrew as Epstein witness? - HuffPost \nDate: Thu, 21 Nov"
+      },
+      {
+        "name": "Post \nDate",
+        "role": "extracted",
+        "context": "rew as Epstein witness? - HuffPost \nDate: Thu, 21 Nov 2019 19:52:03 +0"
+      },
+      {
+        "name": "Post \nFrom",
+        "role": "extracted",
+        "context": "rew as Epstein witness? - HuffPost \nFrom: Sara Boboltz \nSent: Thursday"
+      },
+      {
+        "name": "Sara Boboltz",
+        "role": "extracted",
+        "context": "in witness? - HuffPost \nFrom: Sara Boboltz \nSent: Thursday, November 21,"
+      },
+      {
+        "name": "Post \nHello",
+        "role": "extracted",
+        "context": "rew as Epstein witness? - HuffPost \nHello, \nWriting to ask whether Brit"
+      },
+      {
+        "name": "The Telegraph",
+        "role": "extracted",
+        "context": "'s potential co-conspirators. The Telegraph reported this morning that th"
+      },
+      {
+        "name": "Reporter Huff",
+        "role": "extracted",
+        "context": "rm. Thank you. \nSara Boboltz \nReporter HuffPost \nNew York, NY 10003 \nsara"
+      },
+      {
+        "name": "Post \nNew",
+        "role": "extracted",
+        "context": ". \nSara Boboltz \nReporter HuffPost \nNew York, NY 10003 \nsara_bee \nEFT"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-21",
+        "event": "November 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.931Z"
+}

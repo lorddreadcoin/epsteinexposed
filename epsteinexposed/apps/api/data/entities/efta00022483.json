@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00022483",
+    "filename": "EFTA00022483.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022483.pdf",
+    "text": "\n\nFrom: ' \n< \nTo: \" \" , \nSubject: FW: photo project \nDate: Thu, 30 Sep 2021 20:41:28 +0000 \nImportance: Normal \nAttachments: Photosior_Trial_Prep_with_Location_Info.xlsx \nFrom: \nSent: Thursday, September 30, 2021 4:31 PM \nTo: \nCc: \nSubject: RE: photo project \nThe photo sourcing project is completed and attached. \nI added 3 columns: Evidence Item it, Name of CD and Location of Item. \nThanks, \nFrom: \nSent: Monday, September 27, 2021 6:26 PM \nTo: \n<la. \nCc: \nSubject: [EXTERNAL EMAIL] - photo project \nJust checking in on the photo sourcing project. Do you think you'll be able to send us that spreadsheet in the next few \ndays? \nThanks so much for helping with this. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00022483",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 20:41:28 +0000 \nImportance: Normal \nAttachments: Photosior_Trial_Prep_with_Lo"
+      },
+      {
+        "name": "Evidence Item",
+        "role": "extracted",
+        "context": "attached. \nI added 3 columns: Evidence Item it, Name of CD and Location o"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "much for helping with this. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "with this. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00022483"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-30",
+        "event": "September 30, 2021"
+      },
+      {
+        "date": "2021-09-27",
+        "event": "September 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.943Z"
+}

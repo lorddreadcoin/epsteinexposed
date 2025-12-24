@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016954",
+    "filename": "EFTA00016954.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016954.pdf",
+    "text": "\n\nFrom: \" (USANYS)\" \nTo: \" (USANYS)\" ‘c:> \nCc: \" \n\" \nSubject: Maxwell victim website \nDate: Wed, 20 Oct 2021 17:13:15 +0000 \nAttachments: 2021.10.19 Order re October 21 Teleconference.pdf \nHi M, \nJudge Nathan issued the attached order regarding the teleconference set for tomorrow. Would you be able to update the \nvictim website with this info, please? Some proposed language below. \nThe Court will hold a telephone conference to discuss jury selection matters on October 21, 2021 at 12:00 p.m. Members \nof the press and the public in the United States may access the live audio feed of the proceeding by calling \nand using access code 9991787. Those outside of the United States may access the live audio feed by calling \nand using the same access code. Any photographing, recording, or rebroadcasting of federal court \nproceedings is prohibited by law. \nThanks very much, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00016954",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "21 Teleconference.pdf \nHi M, \nJudge Nathan issued the attached order reg"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "d by law. \nThanks very much, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-21",
+        "event": "October 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.747Z"
+}

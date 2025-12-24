@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015851",
+    "filename": "EFTA00015851.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015851.pdf",
+    "text": "\n\nFrom: \"Bourtin, Nicolas\" < \nTo: a \nCc: \"Levin, Sharon \nCohen\" \nSubject: / Epstein \nDate: The, 01 Oct 2019 23:19:15 +0000 \nAttachments: TD_Filed_SAR 2019-43693.do.pdf \n)\"H \nAs I mentioned last night, attached is a SAR that filed today in connection with persons associated with Jeffrey \nEpstein. The bank would like to close all of the accounts of the entities named in the SAR as soon as possible. (The \ncurrent balance on those accounts is approximately $30 million.) Before doing so, the bank wanted to make your office \naware of these accounts in case the government intends to take any action. \nPlease advise once you've had a chance to consider. \nMany thanks. \nNic \nNicolas Banta I Sullivan & Cromwell LLP \nNew York, NY 10004-2498 \nThis e-mail is sent by a law firm and contains information that may be privileged and confidential. If you are not \nthe intended recipient, please delete the e-mail and notify us immediately. \nEFTA00015851",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sharon \nCohen",
+        "role": "extracted",
+        "context": "icolas\" < \nTo: a \nCc: \"Levin, Sharon \nCohen\" \nSubject: / Epstein \nDate: T"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "n, Sharon \nCohen\" \nSubject: / Epstein \nDate: The, 01 Oct 2019 23:19:15 +0"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "with persons associated with Jeffrey \nEpstein. The bank would like to close"
+      },
+      {
+        "name": "Nic \nNicolas",
+        "role": "extracted",
+        "context": "e to consider. \nMany thanks. \nNic \nNicolas Banta I Sullivan & Cromwell L"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.626Z"
+}

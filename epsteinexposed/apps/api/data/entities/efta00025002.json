@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00025002",
+    "filename": "EFTA00025002.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025002.pdf",
+    "text": "\n\n4\n)\n4`.. OFFICIAL RECORD \n033.1 \nRo.. I \n0-16-20110 \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nImport Form \nForm Type: Date: \nTitle: I :1  Docunlertat f service.:. \nApproved By: \nDrafted By: \nCase ID #:  r..D-NY-3027571 \n(U) \nEPSTEIN, JEFFREY; CHILD \nTRAFFICKING \nSynopsis: (Y) locument the provision of victim services. \nUNCLASSIFIED \nEFTA00025002",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Import Form",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nImport Form \nForm Type: Date: \nTitle: I :"
+      },
+      {
+        "name": "Form Type",
+        "role": "extracted",
+        "context": "F INVESTIGATION \nImport Form \nForm Type: Date: \nTitle: I :1  Docunler"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": ":1  Docunlertat f service.:. \nApproved By: \nDrafted By: \nCase ID #:  r."
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "t f service.:. \nApproved By: \nDrafted By: \nCase ID #:  r..D-NY-3027571"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.282Z"
+}

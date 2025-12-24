@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019167",
+    "filename": "EFTA00019167.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019167.pdf",
+    "text": "\n\nFrom: \n'In: \nCc: \nSubject: Re: Press Inquiry Re Jeffrey Epstein \nDate: Sat, 12 Jan 2019 22:09:41 +0000 \nImportance: Normal \nCopy, and thanks. M \nSubject: Press Inquiry Re Jeffrey Epstein \nAll, \nJust wanted to let you I know got a call on my personal cell from a \nwriter with The New Yorker \nMagazine on the Epstein case. She has interviewed \nThe reporter asked me to verify that I was an agent and that and myself traveled to Australia and \ninterviewed and that she disclosed that she had sex with Epstein and Allan/Allen Dershowitz. I  told her I \nwas an agent and all inquiries about the case would have to through= and= I gave her both your email \naddresses. She said she had emailed=previously. \nHave a feeling these calls may become more frequent. \ncan't get \nThanks, \nemail to pop up. Don't know if you want to forward so she's in the loop. \nEFTA00019167",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \n'In: \nCc: \nSubject: Re: Press Inquiry Re Jeffrey Epstein \nDate: Sat, 12 Jan 2019 22:09:41 +0000 \nImportanc"
+      },
+      {
+        "name": "Press Inquiry",
+        "role": "extracted",
+        "context": "rom: \n'In: \nCc: \nSubject: Re: Press Inquiry Re Jeffrey Epstein \nDate: Sat"
+      },
+      {
+        "name": "Re Jeffrey",
+        "role": "extracted",
+        "context": ": \nSubject: Re: Press Inquiry Re Jeffrey Epstein \nDate: Sat, 12 Jan 20"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Re: Press Inquiry Re Jeffrey Epstein \nDate: Sat, 12 Jan 2019 22:09:41 +0"
+      },
+      {
+        "name": "Normal \nCopy",
+        "role": "extracted",
+        "context": "9 22:09:41 +0000 \nImportance: Normal \nCopy, and thanks. M \nSubject: Pres"
+      },
+      {
+        "name": "Epstein \nAll",
+        "role": "extracted",
+        "context": "ect: Press Inquiry Re Jeffrey Epstein \nAll, \nJust wanted to let you I kn"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "onal cell from a \nwriter with The New Yorker \nMagazine on the Epste"
+      },
+      {
+        "name": "Yorker \nMagazine",
+        "role": "extracted",
+        "context": "l from a \nwriter with The New Yorker \nMagazine on the Epstein case. She has"
+      },
+      {
+        "name": "Allen Dershowitz",
+        "role": "extracted",
+        "context": "ad sex with Epstein and Allan/Allen Dershowitz. I  told her I \nwas an agent"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.420Z"
+}

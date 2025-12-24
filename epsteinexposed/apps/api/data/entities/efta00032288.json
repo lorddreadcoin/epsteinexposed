@@ -1,0 +1,42 @@
+{
+  "document": {
+    "id": "efta00032288",
+    "filename": "EFTA00032288.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032288.pdf",
+    "text": "\n\nFrom: \"Opatich, <OpatichJ@cbsnews.com> \nTo:' \" ' \nCc: \"@CND National Desk Staff' <CNDNationalStaff@cbs.com> \nSubject: URGENT CBS NEWS Inquiry \nDate: Sat, 10 Aug 2019 13:15:03 +0000 \nHello—\nReaching out from the National Desk at CBS NEWS. We're seeing that defendant Jeffery Epstein died by suicide at MCC. \nCan you confirm? Can you comment? \nThank you. \nOpatich \nNews Associate I National Desk \no. \nc. 516.458.3758 \nEFTA00032288",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "National Desk",
+        "role": "extracted",
+        "context": "ews.com> \nTo:' \" ' \nCc: \"@CND National Desk Staff' <CNDNationalStaff@cbs."
+      },
+      {
+        "name": "Inquiry \nDate",
+        "role": "extracted",
+        "context": "om> \nSubject: URGENT CBS NEWS Inquiry \nDate: Sat, 10 Aug 2019 13:15:03 +0"
+      },
+      {
+        "name": "Jeffery Epstein",
+        "role": "extracted",
+        "context": ". We're seeing that defendant Jeffery Epstein died by suicide at MCC. \nCan"
+      },
+      {
+        "name": "Opatich \nNews",
+        "role": "extracted",
+        "context": "Can you comment? \nThank you. \nOpatich \nNews Associate I National Desk \no."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "516.458.3758"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.987Z"
+}

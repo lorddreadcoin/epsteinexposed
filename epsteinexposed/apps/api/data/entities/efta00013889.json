@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013889",
+    "filename": "EFTA00013889.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013889.pdf",
+    "text": "\n\nFrom: (USAFLS)\" alMIN> \nTo: 'l.•,<IMIIIM \n(USAFLS)\n>, \"Wall \nUSAFLS)\"\nCc: arFBI\" ' \nBcc: \n(USAFLS)\" \nalMIN> \nSubject: Epstein Plea \nDate: Fri, 27 Jun 2008 19:47:54 +0000 \nImportance: Normal \nAttachments: Epstein_Plea001.pdf \n. (FBI)\" \nWow, am I good. Here it is already. I think our faxes crossed in cyber-space. Sorry for the poor quality, that is \nhow it came to me. \n«Epstein Plea001.pdf» \nAssistant \nV.S. \nAttorney \nEFTA00013889",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Plea",
+        "role": "extracted",
+        "context": "(USAFLS)\" \nalMIN> \nSubject: Epstein Plea \nDate: Fri, 27 Jun 2008 19:47"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 19:47:54 +0000 \nImportance: Normal \nAttachments: Epstein_Plea001.pdf \n. (FBI)"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.657Z"
+}

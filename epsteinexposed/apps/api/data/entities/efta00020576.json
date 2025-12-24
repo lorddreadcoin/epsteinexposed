@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020576",
+    "filename": "EFTA00020576.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020576.pdf",
+    "text": "\n\nFrom: (USANYS) \n[Contractor]\" \n•I\nIIMINE> \nTo: =Err \nalMIE>, \nCc: \n(USANYS)\" czile \nSubject: RE: financial exhibits \nDate: Fri, 08 Oct 2021 13:26:24 +0000 \nAttachments: 500 Series - Financial Exhibits.zip _ _ \nUSANYS) [Contractor]\" \nAttached, thanks. \nFrom:\nSent: Friday, October 8, 2021 8:59 AM \nTo: (USANYS) [Contractor] :,.; \nCc: (USANYS)\nSubject: financial exhibits \nUSANYS) [Contractor] \nTeam, could you please send me a zip of the financial exhibits? It would be great if the file names of the exhibits just had \nthe GX number in them. I'm sending them to counsel for JP Morgan to discuss having a records custodian testify. Thanksl \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020576",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Financial Exhibits",
+        "role": "extracted",
+        "context": "00 \nAttachments: 500 Series - Financial Exhibits.zip _ _ \nUSANYS) [Contractor]"
+      },
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "a records custodian testify. Thanksl \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "nksl \nAssistant United States Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020576"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-08",
+        "event": "October 8, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.121Z"
+}

@@ -1,0 +1,88 @@
+{
+  "document": {
+    "id": "efta00016513",
+    "filename": "EFTA00016513.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016513.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 344 Filed 10/14/21 Page 1 of 2 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY FILED \nDOC 0: \nDATE FILED: \n10/14/21 \n20-CR-330 (AJN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court received a letter via email from a lawyer for an alleged victim regarding victim \nattendance at the upcoming trial. The Court will file the letter under seal and forward a copy to \ncounsel for both sides. \nConsistent with the District's COVID-19 protocols, the Court will ensure public access \nfor pre-trial proceedings and trial, including several overflow rooms at the courthouse with live \nfeeds of the proceedings. Additional information will be provided as soon as it is available. \nAccess for alleged victims will be coordinated between the Victim Witness Unit and the \nDistrict Executive's Office. The contact information for each office is provided below. \nFurthermore, Defense counsel may coordinate access for the Defendant's family members with \nthe District Executive's Office. \nWendy Olson, Coordinator \nVictim Witness Unit \nUnited States Attorney's \nOffice \n(212) 637-1028 \nWendy.Olson®usdoj.gov \nSO ORDERED. \n1 \nJoseph \nPecorino \nDistrict \nExecutive's Office \nUnited States District \nCourt \nSouthern District of New York \n(212) 805-0504 \nJoseph_Pecorino@nysd.uscourts.gov \nEFTA00016513\n\nCase 1:20-cr-00330-AJN Document 344 Filed 10/14/21 Page 2 of 2 \nDated: October 14, 2021 \nNew York, New York \nALISON J. NATHAN \nUnited States District Judge \nEFTA00016514",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "JN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court received a letter"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "ll be coordinated between the Victim Witness Unit and the \nDistrict Execut"
+      },
+      {
+        "name": "District Executive",
+        "role": "extracted",
+        "context": "Victim Witness Unit and the \nDistrict Executive's Office. The contact informa"
+      },
+      {
+        "name": "Wendy Olson",
+        "role": "extracted",
+        "context": "District Executive's Office. \nWendy Olson, Coordinator \nVictim Witness"
+      },
+      {
+        "name": "Coordinator \nVictim",
+        "role": "extracted",
+        "context": "utive's Office. \nWendy Olson, Coordinator \nVictim Witness Unit \nUnited States A"
+      },
+      {
+        "name": "Witness Unit",
+        "role": "extracted",
+        "context": "dy Olson, Coordinator \nVictim Witness Unit \nUnited States Attorney's \nOf"
+      },
+      {
+        "name": "Joseph \nPecorino",
+        "role": "extracted",
+        "context": "on®usdoj.gov \nSO ORDERED. \n1 \nJoseph \nPecorino \nDistrict \nExecutive's Office"
+      },
+      {
+        "name": "District \nExecutive",
+        "role": "extracted",
+        "context": "RDERED. \n1 \nJoseph \nPecorino \nDistrict \nExecutive's Office \nUnited States Distr"
+      },
+      {
+        "name": "Office \nUnited",
+        "role": "extracted",
+        "context": "corino \nDistrict \nExecutive's Office \nUnited States District \nCourt \nSouth"
+      },
+      {
+        "name": "States District",
+        "role": "extracted",
+        "context": "t \nExecutive's Office \nUnited States District \nCourt \nSouthern District of"
+      },
+      {
+        "name": "Court \nSouthern",
+        "role": "extracted",
+        "context": "fice \nUnited States District \nCourt \nSouthern District of New York \n(212) 8"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-14",
+        "event": "October 14, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-1028",
+      "(212) 805-0504"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.834Z"
+}

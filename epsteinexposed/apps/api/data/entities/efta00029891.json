@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00029891",
+    "filename": "EFTA00029891.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029891.pdf",
+    "text": "\n\nFrom: \nSubject: Fwd: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:29:15 +0000 \nAttachments: OPR-_458587-v1-Epstein_Report_transmittal_to_SDNYiletter signed).PDF; OPR-\n_458557-v1-Epstein_Report_of Investigation_and_Exhibits_pd1PDF \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDate: November 12, 2020 at 10:06:50 AM EST \nSubject: OPR Epstein Final Report \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a \ntransmittal \nletter. \nEFTA00029891",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "t \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a \ntransmittal \nletter. \nEFTA00029891"
+      },
+      {
+        "name": "Epstein Final",
+        "role": "extracted",
+        "context": "From: \nSubject: Fwd: OPR Epstein Final Report \nDate: Fri, 29 Jan 202"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "bject: Fwd: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:29:15 +0"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "xhibits_pd1PDF \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      },
+      {
+        "name": "Report \nAttached",
+        "role": "extracted",
+        "context": "T \nSubject: OPR Epstein Final Report \nAttached please find OPR's final Repor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-12",
+        "event": "November 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.477Z"
+}

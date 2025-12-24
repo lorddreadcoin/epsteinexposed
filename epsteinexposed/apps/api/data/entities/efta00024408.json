@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00024408",
+    "filename": "EFTA00024408.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024408.pdf",
+    "text": "\n\nFrom: \nTo: \"Martin G. Weinberg\" <I  'Michael Miller' < \nCc: ' \n,  ' \nSubject: RE: US v Epstein \nDate: Sat, 17 Aug 2019 18:19:24 +0000 \nMarty, \nBased on quick research, I don't immediately see where that would be publicly filed; are you able to send us a  copy of the \nPetition? Or if you're not able to, to point us in the direction of someone who would be? \nthank you, \nFrom: Martin G. Weinberg .cSM> \nSent: Friday, August 16, 2019 08:30 \nTo: \nSubject: US v Epstein \n>; \n>; 'Martin G. Weinberg' < >; 'Michael Miller' \n>; \nM, during our telephone conversation yesterday you asked for information regarding the status of the estate. \nYesterday in the Virgin Islands there was a fiing of a Petition to Probate the Epstein Estate and Will. \nMarty \nMartin G. Weinberg, Esq. \nThis Electronic Message contains information from the Law Office \nof Martin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the addressee \nonly. If you are not the addressee, please note that any disclosure, copying, distribution, or use of the contents \nof this message is prohibited. \nEFTA00024408",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Michael Miller",
+        "role": "extracted",
+        "context": "To: \"Martin G. Weinberg\" <I  'Michael Miller' < \nCc: ' \n,  ' \nSubject: RE:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "c: ' \n,  ' \nSubject: RE: US v Epstein \nDate: Sat, 17 Aug 2019 18:19:24 +0"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "the estate. \nYesterday in the Virgin Islands there was a fiing of a Petiti"
+      },
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "of a Petition to Probate the Epstein Estate and Will. \nMarty \nMartin G. W"
+      },
+      {
+        "name": "Marty \nMartin",
+        "role": "extracted",
+        "context": "the Epstein Estate and Will. \nMarty \nMartin G. Weinberg, Esq. \nThis Elect"
+      },
+      {
+        "name": "This Electronic",
+        "role": "extracted",
+        "context": "ty \nMartin G. Weinberg, Esq. \nThis Electronic Message contains information"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "contains information from the Law Office \nof Martin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-16",
+        "event": "August 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.088Z"
+}

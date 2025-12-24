@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017757",
+    "filename": "EFTA00017757.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017757.pdf",
+    "text": "\n\nL-Tier \nInmate \na \nNumber \na \nDesilva, Michael 55381-066 \nBrown, Chad 70786-050 \nFernandez, Leonardo 86824-054 \nRivera, Jose 72008-054 \nBabdrow, Lorenzo 76157-054 \nReyes, Frankie 79102-054 \nJimenez, Edward 79466-054 \nRodriguez, Daniel 91278-054 \nEstevez, Steven 86102-054 \nHill, Jaquez 79455-054 \nContreras 89520-053 \nSantos-Felix, Christopher 86638-054 \nEpstein, Jeffrey 76318-054 \nFelix 85775-054 \nG-Tier \nNumber \n_I \nHoytt 68152-054 \nHossain 87049-054 \nH-Tier \nInmate \nIt \nNumber \nOchoa 86452-054 \nAlma nzar 85978-054 \nFuentes 86368-054 \nSantiago-Men 80341-083 \nDurant 86124-054 \nDavis 89380-053 \nReid 85609-054 \nKaba 86931-054 \nDones 86214-054 \nMojica 91268-054 \nSantiago 08224-082 \nLatimer 79427-054 \nBlades 79407-054 \nJones 68302-054 \nEFTA00017757\n\nJ-Tier \nInmate \na \nNumber \nRodriguez 79168-054 \nBrock 86460-054 \nPalermo 79166-054 \nMurray 57497-054 \nLans 86357-054 \nLovick 86356-054 \nFerrer 79793-054 \nGonzalez 86825-054 \nCopper 92299-054 \nWashington 77510-054 \nDockery 60685-050 \nButler 86630-054 \nPerez 78346-054 \nAvila 86710-054 \nRobinson 34801-058 \nK-Tier \nrrr,   r.' \n:-- \nKintea 86587-054 \nWoney 76232-054 \nArroyo 86123-054 \nDeleon 86132-054 \nRosa 86324-054 \nCave 86164-054 \nGalan 75775-054 \nHemingway 14728-055 \nTorres 86020-054 \nSmith 78175-054 \nRivera 86225-054 \nGonzalez 86617-054 \nBrissett 76269-054 \nRomero 74203-054 \nEFTA00017758\n\nM-Tier \nInmate \na \nNumber \nGouldbourne 23152-014 \nDiaz 77930-054 \nBenjamin 86463-054 \nQuiroga 86210-054 \nVasquez 76290-054 \nMickens 86160-054 \nGarcia 86290-054 \nSaxon 08765-094 \nGuillen 08820-070 \nVega 79099-054 \nGrayson 70887-054 \nTartaglione 78514-054 \nMcGrier 85989-054 \nEke 72418-019 \nEFTA00017759",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tier \nInmate",
+        "role": "extracted",
+        "context": "L-Tier \nInmate \na \nNumber \na \nDesilva, Micha"
+      },
+      {
+        "name": "Tier \nNumber",
+        "role": "extracted",
+        "context": "76318-054 \nFelix 85775-054 \nG-Tier \nNumber \n_I \nHoytt 68152-054 \nHossain"
+      },
+      {
+        "name": "It \nNumber",
+        "role": "extracted",
+        "context": "in 87049-054 \nH-Tier \nInmate \nIt \nNumber \nOchoa 86452-054 \nAlma nzar 8"
+      },
+      {
+        "name": "Number \nRodriguez",
+        "role": "extracted",
+        "context": "A00017757\n\nJ-Tier \nInmate \na \nNumber \nRodriguez 79168-054 \nBrock 86460-054 \nP"
+      },
+      {
+        "name": "Number \nGouldbourne",
+        "role": "extracted",
+        "context": "A00017758\n\nM-Tier \nInmate \na \nNumber \nGouldbourne 23152-014 \nDiaz 77930-054 \nBe"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.531Z"
+}

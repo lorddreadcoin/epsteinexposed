@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018102",
+    "filename": "EFTA00018102.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018102.pdf",
+    "text": "\n\nFrom: <noreply@box.com> \nTo: \nSubject: has invited new collaborators to 'Epstein Death' folder on Box... \nDate: \nWed, 22 Jan 2020 16:28:07 +0000 \nhas invited 1  collaborator(s) to 'Epstein Death' folder: \nEpstein Death \nEpstein Death \nCollaborated Folder \nView \nFolder \nCollaborators Invited: \ne 2020 \nusdoj.gov@esfs.us \nAbout Box •  Privacy Policy •  NM Notification Settings •  900E:Berson Avenue. \nRedwood ( Std. ( A ti.tt 16; t  NA \nThis is an official notification from the USA fx File Exchange system. \nEFTA00018102",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Death",
+        "role": "extracted",
+        "context": "invited new collaborators to 'Epstein Death' folder on Box... \nDate: \nWed"
+      },
+      {
+        "name": "Collaborated Folder",
+        "role": "extracted",
+        "context": "Epstein Death \nEpstein Death \nCollaborated Folder \nView \nFolder \nCollaborators"
+      },
+      {
+        "name": "View \nFolder",
+        "role": "extracted",
+        "context": "n Death \nCollaborated Folder \nView \nFolder \nCollaborators Invited: \ne 20"
+      },
+      {
+        "name": "Collaborators Invited",
+        "role": "extracted",
+        "context": "borated Folder \nView \nFolder \nCollaborators Invited: \ne 2020 \nusdoj.gov@esfs.us"
+      },
+      {
+        "name": "About Box",
+        "role": "extracted",
+        "context": ": \ne 2020 \nusdoj.gov@esfs.us \nAbout Box •  Privacy Policy •  NM Notif"
+      },
+      {
+        "name": "Privacy Policy",
+        "role": "extracted",
+        "context": "doj.gov@esfs.us \nAbout Box •  Privacy Policy •  NM Notification Settings •"
+      },
+      {
+        "name": "Notification Settings",
+        "role": "extracted",
+        "context": "t Box •  Privacy Policy •  NM Notification Settings •  900E:Berson Avenue. \nRedwo"
+      },
+      {
+        "name": "Berson Avenue",
+        "role": "extracted",
+        "context": "Notification Settings •  900E:Berson Avenue. \nRedwood ( Std. ( A ti.tt 16"
+      },
+      {
+        "name": "File Exchange",
+        "role": "extracted",
+        "context": "notification from the USA fx File Exchange system. \nEFTA00018102"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.178Z"
+}

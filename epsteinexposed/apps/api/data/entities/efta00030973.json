@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030973",
+    "filename": "EFTA00030973.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030973.pdf",
+    "text": "\n\nFrom: BOBBI C \nSTFRNHEIM \nTo:'\n(USANYS)\" \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject: U.S. v. Maxwell 20 Cr. \n330 (AJN) \nDate: The, 23 Feb 2021 19:44:15 +0000 \nAttachments: MAXWELL_BAIL_APPLICATION_with_EXHIBIT_2-23-17.pdf \nGood \nafternoon-\nAttached is a courtesy copy of today's ECF filing. \nBobbi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Stemheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then \ndelete this message. Thank you. \nEFTA00030973",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "TFRNHEIM \nTo:'\n(USANYS)\" \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pag"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "S)\" \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject:"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject: U.S. v. Maxwell 20"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "bi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Stemheim \nThis me"
+      },
+      {
+        "name": "Stemheim \nThis",
+        "role": "extracted",
+        "context": "ESQ. \nLaw Offices of Bobbi C. Stemheim \nThis message and any attached docu"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.148Z"
+}

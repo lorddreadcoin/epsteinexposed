@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00023023",
+    "filename": "EFTA00023023.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023023.pdf",
+    "text": "\n\nEvent: Accepted: Mark Epstein Meeting \nStart Date: 2019-10-28 19:00:00 +0000 \nEnd Date: 2019-10-28 20:00:00 +0000 \nLocation: 645 \nClass: X-PERSONAL \nComment: \nDate Created: 2019-10-24 15:14:11 +0000 \nDate Modified: 2019-10-24 15:14:11 +0000 \nPriority: 5 \nDTSTAMP: 2019-10-24 14:57:07 +0000 \nAttendee: \nEFTA00023023",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "Event: Accepted: Mark Epstein Meeting \nStart Date: 2019-10-"
+      },
+      {
+        "name": "Meeting \nStart",
+        "role": "extracted",
+        "context": "Event: Accepted: Mark Epstein Meeting \nStart Date: 2019-10-28 19:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-10-28 19:00:00 +0000 \nEnd Date: 2019-10-28 20:00:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-10-24 15:14:11 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-10-24 15:14:11 +0000 \nDate Modified: 2019-10-24 15:14:11 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-28",
+        "event": "2019-10-28"
+      },
+      {
+        "date": "2019-10-24",
+        "event": "2019-10-24"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.088Z"
+}

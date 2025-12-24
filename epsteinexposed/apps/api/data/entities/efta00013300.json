@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00013300",
+    "filename": "EFTA00013300.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013300.pdf",
+    "text": "\n\nFrom: IMS' \nTo: i\nr\" \nSubject: FW: Judge Nathan Order re Maxwell \nDate: Thu, 29 Apr 2021 21:32:48 +0000 \nAttachments: Ltr to_Hon_Nathan_04.29.21r.pdf \nI'll plan to send this to AJN chambers with our standard email cover language by 6:30 \n Ori inal Messa e \nFrom:\nSent: \nThursday. \nApril 29.2021 4:10 PM \nTo: \nC \nci\nSubject: Re: Judge Nathan Order re Maxwell \nPlease see \nattached for filing. \nBest, \n>» \nAM >» \nHi all, \n(USANYS)\n\" <IIMIE> 4/29/2021 11:18 \nAttached please find an order that Judge Nathan just issued on the docket in Maxwell's case, which directs the \nMDC to take certain steps by April 30, 2021. \nAs always, we are happy to have a call to discuss if that would be useful. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00013300",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "IMS' \nTo: i\nr\" \nSubject: FW: Judge Nathan Order re Maxwell \nDate: Thu,"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "ct: FW: Judge Nathan Order re Maxwell \nDate: Thu, 29 Apr 2021 21:32:48 +0"
+      },
+      {
+        "name": "Maxwell \nPlease",
+        "role": "extracted",
+        "context": "ct: Re: Judge Nathan Order re Maxwell \nPlease see \nattached for filing. \nBe"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "that would be useful. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ful. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00013300"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-29",
+        "event": "4/29/2021"
+      },
+      {
+        "date": "2021-04-30",
+        "event": "April 30, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.276Z"
+}

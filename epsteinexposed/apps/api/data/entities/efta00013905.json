@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013905",
+    "filename": "EFTA00013905.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013905.pdf",
+    "text": "\n\nNOTIFICATION \nPursuant to the Agreement between the United States Attorney's Office for the Southern District of \nFlorida (hereinafter referred to as \"the Office\") and Jeffrey Epstein (hereinafter referred to as \"Epstein\"), the \nOffice hereby provides Notice to the individuals listed below (hereinafter referred to as \"identified individuals\") \nthat each of them is a person who, while a  minor, was a  victim of a  violation of an offense enumerated in Title \n18, United States Code, Section 2255, committed by Epstein, and whom the Office was prepared to name as a \nvictim in an Indictment charging Epstein with an enumerated offense. The Office further provides Notice to the \nidentified individuals that, pursuant to the Agreement between the Office and Epstein, a copy of this document \nmay be introduced in a  judicial proceeding between any such identified individual and Epstein, and that any \njudicial authority interpreting this Notification, including any authority determining what evidentiary burdens, if \nany, a  plaintiff must meet, shall consider that it  is the intent of Epstein and the Office to place the identified \nindividuals in the same position as they would have been had Epstein been convicted of those federal offenses. \nIdentified Individuals \nJane Doe #1 \nJane Doe #2 \nJane Doe #3 \nJane Doe #4 \nJane Doe #5 \nJane Doe #6 \nJane Doe #7 \nJane Doe #8 \nJane Doe \n#9 \nJane Doe #10 \nJane Doe #11 \nJane Doe #12 \nJane Doe #13 \nJane Doe #14 \nJane Doe #15 \nJane Doe #16 \nJane Doe \n#17 \nEFTA00013905\n\nJane Doe #18 \nJane Doe \n#19 \nJane Doe #20 \nJane Doe #21 \nJane Doe #22 \nJane Doe \n#23 \nJane Doe #24 \nJane Doe \n#25 \nJane Doe #26 \nJane Doe \n#27 \nJane Doe #28 \nJane Doe \n#29 \nJane Doe #30 \nR. ALEXANDER ACOSTA \nUNITED STATES ATTORNEY \nDated: By: \nACKNOWLEDGEMENT \nI  have received this Notification from my attorney, Roy Black, Esquire, have read it and discussed it with \nmy attorney, and I  hereby acknowledge that it  accurately sets forth my understanding and agreement with the \nOffice of the United States Attorney for the Southern District of Florida. I  understand that an exact copy of this \nNotification will be provided to each identified individual, except that the names of all other identified \nindividuals will be redacted, and I  hereby waive any evidentiary challenges to the introduction of a copy of this \ndocument—even in redacted form—in any judicial proceeding between any identified individual and myself. \nDated: \nJeffrey Epstein \nWitnessed by: \nRoy Black, Esquire \nEFTA00013906",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ida (hereinafter referred to as \"the Office\") and Jeffrey Epstein (hereinafter referred to as \"Epstein\"), the \nOffi"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tes Attorney's Office for the Southern District of \nFlorida (hereinafter refe"
+      },
+      {
+        "name": "The Office",
+        "role": "extracted",
+        "context": "n with an enumerated offense. The Office further provides Notice to th"
+      },
+      {
+        "name": "Identified Individuals",
+        "role": "extracted",
+        "context": "d of those federal offenses. \nIdentified Individuals \nJane Doe #1 \nJane Doe #2 \nJa"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "ses. \nIdentified Individuals \nJane Doe #1 \nJane Doe #2 \nJane Doe #3"
+      },
+      {
+        "name": "Roy Black",
+        "role": "extracted",
+        "context": "otification from my attorney, Roy Black, Esquire, have read it and di"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.707Z"
+}

@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00017702",
+    "filename": "EFTA00017702.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017702.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Victim - JEFFREY EPSTEIN - Case \nDate: Wed, 24 Jun 2020 16:50:19 +0000 \nPer our practice of \npassing \nalong potential witness information to the FBI, please see the below email. \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom• \nSent: Wednesday, June 24, 202012:35 PM \nSubject: FW: Victim - JEFFREY EPSTEIN - Case \nFor you. \nFrom \nSent: ednesday, June 24, 2020 12:32 PM \nTo \nSubject: Victim - JEFFREY EPSTEIN - Case \nI have written regarding Jeffrey Epstein Case. I am a victim. I am a witness. I request Audrey Strauss to allow me speak. \nMy Name \nWhatsapp • \nFacebook \nI am a Healthy Person. \nI \nwant to visit the court to speak about Jeffrey Epstein case. \nEFTA00017702",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Victim - JEFFREY EPSTEIN - Case \nDate: Wed, 24 Jun 2020 16:50:19 +0000 \nPe"
+      },
+      {
+        "name": "Case \nDate",
+        "role": "extracted",
+        "context": "W: Victim - JEFFREY EPSTEIN - Case \nDate: Wed, 24 Jun 2020 16:50:19 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "please see the below email. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "elow email. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom• \nSent:"
+      },
+      {
+        "name": "Case \nFor",
+        "role": "extracted",
+        "context": "W: Victim - JEFFREY EPSTEIN - Case \nFor you. \nFrom \nSent: ednesday, J"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "REY EPSTEIN - Case \nFor you. \nFrom \nSent: ednesday, June 24, 2020 12:3"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "sday, June 24, 2020 12:32 PM \nTo \nSubject: Victim - JEFFREY EPSTEIN - C"
+      },
+      {
+        "name": "Audrey Strauss",
+        "role": "extracted",
+        "context": "im. I am a witness. I request Audrey Strauss to allow me speak. \nMy Name"
+      },
+      {
+        "name": "My Name",
+        "role": "extracted",
+        "context": "y Strauss to allow me speak. \nMy Name \nWhatsapp • \nFacebook \nI am a"
+      },
+      {
+        "name": "Healthy Person",
+        "role": "extracted",
+        "context": "Whatsapp • \nFacebook \nI am a Healthy Person. \nI \nwant to visit the court"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-24",
+        "event": "June 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.395Z"
+}

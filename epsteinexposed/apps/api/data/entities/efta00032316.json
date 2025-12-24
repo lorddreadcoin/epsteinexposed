@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032316",
+    "filename": "EFTA00032316.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032316.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nTo: \"a\"\nSubject: Epstein \nDate: Fri, 10 May 2019 15:49:13 +0000 \nImportance: Normal \nHow is the shortened memo coming? is apparently leaving around 2 and would like to get it down before she \nleaves, if possible. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00032316",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "' (USANYS)\" \nTo: \"a\"\nSubject: Epstein \nDate: Fri, 10 May 2019 15:49:13 +0"
+      },
+      {
+        "name": "Normal \nHow",
+        "role": "extracted",
+        "context": "9 15:49:13 +0000 \nImportance: Normal \nHow is the shortened memo coming?"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "aves, if possible. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000323"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-10",
+        "event": "10 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.045Z"
+}

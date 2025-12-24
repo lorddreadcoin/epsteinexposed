@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029194",
+    "filename": "EFTA00029194.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029194.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Maxwell Jury Exercise \nTakeaways.docx \nDate: Fri, 01 Oct 2021 21:15:08 +0000 \nAttachments: Maxwell_Jury_Exercise_Takeaways.docx \nLooks good — a  few suggestions in the intro (maybe for footnotes depending on the format). \nEFTA00029194",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Jury",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Maxwell Jury Exercise \nTakeaways.docx \nDat"
+      },
+      {
+        "name": "Exercise \nTakeaways",
+        "role": "extracted",
+        "context": ": \nTo: \nSubject: Maxwell Jury Exercise \nTakeaways.docx \nDate: Fri, 01 Oct 2021"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.953Z"
+}

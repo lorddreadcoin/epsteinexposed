@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00027080",
+    "filename": "EFTA00027080.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027080.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nChristian Everdell \n■r\nSANYS \n. '13013131 C \nSTERNHEIM' \nCohen\" • \"Laura Menninger\" \nJeff Pagliuca \nSubject: US v. Maxwell, 20 Cr. 330 (MN) - Government Letters \nDate: Thu, 22 Apr 2021 20:52:12 +0000 \nAttachments: 2021-04-22 Gov't letter re GM re uest_for_adjoumment_FINAL.pdf; 2021-04-\n22 -_request_to_file_under_seal.pdf \nGood afternoon, \nAttached please find a copy of the Government's letter response to the defense's motion for an adjournment of trial in \nthe above-referenced case, which was just filed on ECF. \nIn addition, attached please find a supplemental letter addressing the request for an adjournment, which the Government \nrespectfully requests be filed under seal because it contains private medical information. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00027080",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nChristian Everdell \n■r\nSANYS \n. '13013131 C \nSTE"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "3131 C \nSTERNHEIM' \nCohen\" • \"Laura Menninger\" \nJeff Pagliuca \nSubject: US"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "Cohen\" • \"Laura Menninger\" \nJeff Pagliuca \nSubject: US v. Maxwell, 20 C"
+      },
+      {
+        "name": "Government Letters",
+        "role": "extracted",
+        "context": "v. Maxwell, 20 Cr. 330 (MN) - Government Letters \nDate: Thu, 22 Apr 2021 20:52"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "on. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00027080"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-22",
+        "event": "2021-04-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.500Z"
+}

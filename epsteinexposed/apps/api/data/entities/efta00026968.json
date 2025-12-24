@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026968",
+    "filename": "EFTA00026968.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026968.pdf",
+    "text": "\n\nFrom:  \nTo:'\nSubject: FW: \nDate: Fri, 31 Jan 2020 23:48:29 +0000 \nHe \nThe woman who is interviewed in the below article claims to have been interviewed by the FBI in the past. Any chance \nyou could please check to see whether that is true, and if so please send us the 302? \nhttps://foxwilmington.corn/headlines/prince-andrew-must-cooperate-in-jeffrey-epstein-probe-give-up-ghislaine-\nmaxwell-royal-cousin-says/\nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00026968",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "He \nThe",
+        "role": "extracted",
+        "context": ", 31 Jan 2020 23:48:29 +0000 \nHe \nThe woman who is interviewed in t"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "l-royal-cousin-says/\nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ys/\nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00026968"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.267Z"
+}

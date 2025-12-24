@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031424",
+    "filename": "EFTA00031424.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031424.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Victim list \nDate: Mon, 12 Apr 2021 19:58:36 +0000 \nAttachments: Epstein.xlsx; maxwell.xlsx \nHi \nAll, \nI. \nlet me know you guys were looking for the victims in Epstein and Maxwell. Attached is all that's in VNS. Hope this \ne lease let me know if you need anything more. \nThank you, \nVictim Witness Assistant \nU.S. Department of Justice \nU.S. Attorney's Office, SDNY \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00031424",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nAll",
+        "role": "extracted",
+        "context": ": Epstein.xlsx; maxwell.xlsx \nHi \nAll, \nI. \nlet me know you guys we"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "d anything more. \nThank you, \nVictim Witness Assistant \nU.S. Department of"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "U.S. Attorney's Office, SDNY \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice, SDNY \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.054Z"
+}

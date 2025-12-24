@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013395",
+    "filename": "EFTA00013395.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013395.pdf",
+    "text": "\n\nFrom: ' (USANYS) \n[Contractor-1\" \nTo: a\"(NYPD)\" < \nCc: \n(USANYS)\" \nSubject: RE: lAs for 31E-MM-108062 \nDate: Wed, 29 Sep 2021 19:17:03 +0000 \nImportance: Normal \nAttachments: Copy_of 1A-Report__MM-108062_filtered_by_original_notes.xlsx \n(1:S.1N NI S) [Comractorl\" \n(NY) (FBI)\" \nIs it possible for you to please pull the 44 files listed in the attached spreadsheet as original notes and send them to us? \nRight now, the spreadsheet lists the date the files were acquired on, instead of the date of the corresponding interview; \nfor us to compare the files against what we already have, we need —  at a minimum —  the dates the notes were written. If \nyou could send us the files themselves, that would be easiest for us. \nPlease let me know if USAfx or a physical hard drive would be easiest for this, and I'm happy to coordinate. We'd also like \nthis tomorrow or in the next few days, if possible, so that we may continue our review of the 3500 material as \nexpeditiously as possible before our upcoming production deadline. \nHappy to jump on a call to explain anything as needed, too. Thank you so much for your help! \nFrom: \n(USANYS) \nSent: Tuesday, September 28, 2021 9:38 PM \nTo: \n(USANYS) [Contractor] \nCc: \nSubject: Fwd: 1As for 31E-MM-108062 \n(USANYS) [Contractor] \nAs part of our 3500 project, we asked the agents to send us the attached spreadsheet. We want to make sure we have \nproduced the notes and reports of witness interviews. Can you please check the spreadsheet entries referring to original \nnotes and compare them to what we have produced or will be producing in 3500? If anything is missing or we aren't sure, \nwe will asklifor the notes to add to the production. Please let us know if you have any questions. If my \nemail doesn't make sense, happy to hop on a  call to explain. \nThanks! \nBegin forwarded message: \nFrom: \nDate: September 28, 2021 at 6:50:20 PM EDT \nTo:' \n\"\n(USANYS)\" \nEFTA00013395\n\nCc: \nSubject: lAs for 31E-MM-108062 \nAttached is the 1A list for 31E-MM\n-108062. I added the disks \nthe 1As are on, so you'll see \nthat on the last column. \nLet \nme know if you have questions. \nSpecial Agent-\nFBI \nNew York Field Office \nChild \nExploitation/Human \nTrafficking \nDeslc \nEFTA00013396",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 19:17:03 +0000 \nImportance: Normal \nAttachments: Copy_of 1A-Report__MM-108062"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "know if you have questions. \nSpecial Agent-\nFBI \nNew York Field Office"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent-\nFBI \nNew York Field Office \nChild \nExploitation/Human \nT"
+      },
+      {
+        "name": "Child \nExploitation",
+        "role": "extracted",
+        "context": "-\nFBI \nNew York Field Office \nChild \nExploitation/Human \nTrafficking \nDeslc \nEF"
+      },
+      {
+        "name": "Human \nTrafficking",
+        "role": "extracted",
+        "context": "d Office \nChild \nExploitation/Human \nTrafficking \nDeslc \nEFTA00013396"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-28",
+        "event": "September 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.515Z"
+}

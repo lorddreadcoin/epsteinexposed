@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030360",
+    "filename": "EFTA00030360.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030360.pdf",
+    "text": "\n\nFrom: \nTo:' \naMIE> \nCc: \nSubject: STAMPED NDO's & PEN's \nDate: Mon, 15 Jun 2020 16:40:55 +0000 \nAttachments: \nHello, \nAttached hereto are your NDO's & PEN's that were submitted to Mag Court which are now stamped and signed. \nThank you, \nLegal Assistant — Criminal Clerk \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00030360",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mag Court",
+        "role": "extracted",
+        "context": "PEN's that were submitted to Mag Court which are now stamped and sig"
+      },
+      {
+        "name": "Legal Assistant",
+        "role": "extracted",
+        "context": "mped and signed. \nThank you, \nLegal Assistant — Criminal Clerk \nUnited Stat"
+      },
+      {
+        "name": "Criminal Clerk",
+        "role": "extracted",
+        "context": "Thank you, \nLegal Assistant — Criminal Clerk \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "erk \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.674Z"
+}

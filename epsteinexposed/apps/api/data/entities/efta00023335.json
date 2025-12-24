@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00023335",
+    "filename": "EFTA00023335.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023335.pdf",
+    "text": "\n\nFrom: ' . (NY) (FBI)\" cl \nTo:' \nCc: a\") (FBI)\" <I \nSubject: Re: Image/Video file review for Maxwell case \nDate: Mon, 19 Oct 2020 14:02:19 +0000 \n(NY) (OGA)\" \nHi \nI was out of the office when you sent this email. I also will be out of the office this full week. I know and \nare both back now but am happy to give you call to discuss logistics, as I will be helping on this when I'm \nback. \nThanks, \nFrom: \nSent: Friday, October 16, 2020 4:51 PM \nTo: (NY) (FBI) <=> \nCc: \n(NY) (FBI) (NYPD) \n(USANYS) \nSubject: [EXTERNAL EMAIL] - RE: Image/Video file review for Maxwell case \nFollowing up on this, I'll be working this evening and all weekend, so I'm happy to have a call whenever works for you in \nthat timeframe. Ideally, I'd like to touch base before Monday so that we can hit the ground running with the review first \nthing Monday morning. \nThanks very much, \nFrom: \nSent: Friday, October 16, 2020 1:45 PM \nTo: . (NY) (FBI) < \nCc: . (NY) (FBI) <>; (NYPD) < \n(USANYS) < \nSubject: Image/Video file review for Maxwell case \nHi \nMy supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and videos \nfrom Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell case. Thank you so much for being willing to help out \nwith this while and are traveling. \nI've spoken with about some of the logistics, and it would be great if you and I could have a call to talk about \nnext steps. Is there a time this afternoon when you would be free for a call? \nEFTA00023335\n\nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00023336",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "coordinate the review of images and videos \nfrom Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "om Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell case. Thank you so much for being willing to help"
+      },
+      {
+        "name": "Hi \nMy",
+        "role": "extracted",
+        "context": "file review for Maxwell case \nHi \nMy supervisors gave me your name"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "call? \nEFTA00023335\n\nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "35\n\nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00023336"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-16",
+        "event": "October 16, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.747Z"
+}

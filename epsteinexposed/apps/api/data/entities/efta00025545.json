@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00025545",
+    "filename": "EFTA00025545.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025545.pdf",
+    "text": "\n\nFrom• \nTo: \"Berman, Geoffre\nSubject: Prince Andrew hires leading extradition lawyer to fend off FBI probe into his links with paedo \nJeffrey Epstein — The Sun \nDate: Sun, 08 Mar 2020 17:10:58 +0000 \nhttps://www.thesun.co.ukinews/11122534/prince-andrew-hires-extradition-lawyer-fbi-probe/ \nSent from my iPhone \nEFTA00025545",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "to fend off FBI probe into his links with paedo \nJeffrey Epstein — The Sun \nDate: Sun, 08 Mar 2020 17:10:58 +0000"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From• \nTo: \"Berman, Geoffre\nSubject: Prince Andrew hires leading extradition lawyer to fend off FBI"
+      },
+      {
+        "name": "Geoffre\nSubject",
+        "role": "extracted",
+        "context": "From• \nTo: \"Berman, Geoffre\nSubject: Prince Andrew hires leading"
+      },
+      {
+        "name": "The Sun",
+        "role": "extracted",
+        "context": "with paedo \nJeffrey Epstein — The Sun \nDate: Sun, 08 Mar 2020 17:10"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.396Z"
+}

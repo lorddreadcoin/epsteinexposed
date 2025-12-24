@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016508",
+    "filename": "EFTA00016508.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016508.pdf",
+    "text": "\n\nFrom: ' \nTo: \n'\nIIIISYS)\" \nCc: 'INIIII>\nchiraii,6).\n(USANYS)\" \nSubject: FW: Supplemental letter regarding testimony \nDate: Sun, 28 Nov 2021 02:44:47 +0000 \nAttachments: \nLetter re Flatley and their rebuttal expert \nFrom: Laura Menninger \nSent: Saturday, November 27, 2021 9:42 PM \nTo: \n(USANYS) \nCc: Jeff Pagliuca c> \nAnn \nLundberg \nNicole Simmons \nSubject: [EXTERNAL] Supplemental letter regarding \ntestimony \nCounsel—\nPlease see attached letter regarding Mr. anticipated testimony. \n>, \n< \nThank you, \nLaura \nLaura A. Menninger I Partner \nHaddon Mor an & Foreman, P.C. \nEFTA00016508",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "their rebuttal expert \nFrom: Laura Menninger \nSent: Saturday, November 27,"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "1 9:42 PM \nTo: \n(USANYS) \nCc: Jeff Pagliuca c> \nAnn \nLundberg \nNicole Sim"
+      },
+      {
+        "name": "Ann \nLundberg",
+        "role": "extracted",
+        "context": "SANYS) \nCc: Jeff Pagliuca c> \nAnn \nLundberg \nNicole Simmons \nSubject: [EX"
+      },
+      {
+        "name": "Nicole Simmons",
+        "role": "extracted",
+        "context": "f Pagliuca c> \nAnn \nLundberg \nNicole Simmons \nSubject: [EXTERNAL] Suppleme"
+      },
+      {
+        "name": "Laura \nLaura",
+        "role": "extracted",
+        "context": "estimony. \n>, \n< \nThank you, \nLaura \nLaura A. Menninger I Partner \nHaddo"
+      },
+      {
+        "name": "Partner \nHaddon",
+        "role": "extracted",
+        "context": "Laura \nLaura A. Menninger I Partner \nHaddon Mor an & Foreman, P.C. \nEFTA0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-27",
+        "event": "November 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.821Z"
+}

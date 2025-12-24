@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00022621",
+    "filename": "EFTA00022621.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022621.pdf",
+    "text": "\n\nFrom: a\" a>\nTo: \n(USANYS)\"\nSubject: transcripts \nDate: Wed, 07 Aug 2019 15:54:23 +0000 \nAttachments: 2019-07-09,_initial_conference.pdf; 2019-07-15,_bail_hearing.pdf \n2019-07-09 initial conference: \np. 7-8: \n\"The allegation that this is some kind of a conspiracy within the Department of Justice is just false. There is no evidence \nto support that. The investigation was begun and conducted entirely separate from any other district. It began in the \nSouthern District of New York \np. 12: \n\"[C]ertainly this investigation was not shoveled to the Southern District of New York from anywhere else, including the \nDepartment of Justice.\" \n2019-07-15 bail hearing: \np. 62 \n\"[T]he issue of whether the case was brought to us, whether this was funneled to the Southern District of New York from \nanywhere else, your Honor, it was not. It was not brought to us by anyone else. We opened the case. We investigated \nthe case. By 'we; I mean the FBI, CBP, the NYPD, and of course the U.S. Attorney's Office. We opened the case. We \ninvestigated the case. And I can tell you that not one of the prosecutors sitting at this table has spoken with anyone at the \nSouthern District of Florida.\" \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00022621",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "er district. It began in the \nSouthern District of New York \np. 12: \n\"[C]erta"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "of Florida.\" \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "2019-07-09"
+      },
+      {
+        "date": "2019-07-15",
+        "event": "2019-07-15"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.269Z"
+}

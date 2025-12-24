@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00030273",
+    "filename": "EFTA00030273.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030273.pdf",
+    "text": "\n\nHYPERION \nAIR, INC. \nPASSENGER MANIFEST \nRegistration Number: N909JE \nDATE:   V \n2004 \nTime  \nPASSENGERS \n1.406 \n2• \n3. \n4. \n5. \n6. \n7. \n8. \n9. \nType: G-1159B \nPilots: \nFROM \nAZ-   TO  \nre—Z 3 \nArrival „ Trip \nTime  If Number \n10. \n11. \n12. \n13. \nCOMMENTS \n/7, 77\nFROM Identifier Defined \nCity  \n'tics( \ne:s.rte4 \nState or Country  \n/ cc.,\nTO Identifier \nDefined \nCity  7.-&:1-\n4E74/fO/4) \nState \nor \nCountry \n_NAL \nNautical Miles  q \n00 \nStatute Miles  \\ \n0  5 C \nGallons \nPounds \n/goo\nAIRFRAME \n9,7352\n /  7__ \nFlight \nTime \nAltitude\nTAKE-OFF POWER \nNight \nFlex Take-Off \n.\nT/L  \nMin \nTake-Off . \nWIC  \nCondition  \nApproach \n6$ \n-1-t) \nrisse \nPc \n4-0 \n\"ge,4,fuele7 \nEFTA00030273",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Registration Number",
+        "role": "extracted",
+        "context": "IR, INC. \nPASSENGER MANIFEST \nRegistration Number: N909JE \nDATE:   V \n2004 \nTim"
+      },
+      {
+        "name": "Trip \nTime",
+        "role": "extracted",
+        "context": "AZ-   TO  \nre—Z 3 \nArrival „ Trip \nTime  If Number \n10. \n11. \n12. \n13"
+      },
+      {
+        "name": "If Number",
+        "role": "extracted",
+        "context": "re—Z 3 \nArrival „ Trip \nTime  If Number \n10. \n11. \n12. \n13. \nCOMMENTS"
+      },
+      {
+        "name": "Identifier Defined",
+        "role": "extracted",
+        "context": ". \n13. \nCOMMENTS \n/7, 77\nFROM Identifier Defined \nCity  \n'tics( \ne:s.rte4 \nSta"
+      },
+      {
+        "name": "Identifier \nDefined",
+        "role": "extracted",
+        "context": "State or Country  \n/ cc.,\nTO Identifier \nDefined \nCity  7.-&:1-\n4E74/fO/4) \nSt"
+      },
+      {
+        "name": "Nautical Miles",
+        "role": "extracted",
+        "context": "4) \nState \nor \nCountry \n_NAL \nNautical Miles  q \n00 \nStatute Miles  \\ \n0"
+      },
+      {
+        "name": "Statute Miles",
+        "role": "extracted",
+        "context": "_NAL \nNautical Miles  q \n00 \nStatute Miles  \\ \n0  5 C \nGallons \nPounds"
+      },
+      {
+        "name": "Gallons \nPounds",
+        "role": "extracted",
+        "context": "00 \nStatute Miles  \\ \n0  5 C \nGallons \nPounds \n/goo\nAIRFRAME \n9,7352\n /  7_"
+      },
+      {
+        "name": "Flight \nTime",
+        "role": "extracted",
+        "context": "goo\nAIRFRAME \n9,7352\n /  7__ \nFlight \nTime \nAltitude\nTAKE-OFF POWER \nNig"
+      },
+      {
+        "name": "Night \nFlex",
+        "role": "extracted",
+        "context": "ime \nAltitude\nTAKE-OFF POWER \nNight \nFlex Take-Off \n.\nT/L  \nMin \nTake-O"
+      },
+      {
+        "name": "Min \nTake",
+        "role": "extracted",
+        "context": "Night \nFlex Take-Off \n.\nT/L  \nMin \nTake-Off . \nWIC  \nCondition  \nAppr"
+      },
+      {
+        "name": "Condition  \nApproach",
+        "role": "extracted",
+        "context": "T/L  \nMin \nTake-Off . \nWIC  \nCondition  \nApproach \n6$ \n-1-t) \nrisse \nPc \n4-0 \n\""
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.447Z"
+}

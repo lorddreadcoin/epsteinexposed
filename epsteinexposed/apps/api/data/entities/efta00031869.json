@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "efta00031869",
+    "filename": "EFTA00031869.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031869.pdf",
+    "text": "\n\nEvent: Accepted: FW: GHISLAINE MAXWELL Removal Hearing 2Omj132-01 \nStart Date: 2020-07-02 19:30:00 +0000 \nEnd Date: 2020-07-02 20:30:00 +0000 \nLocation: https://nhd-uscourts.zoomgov.com/j/1601462933? \npwd=Rlc5c3BFOFpoQzQ3M250azh5WWNrUT09 \nClass: X-PERSONAL \nComment: \nDate Created: 2020-07-02 20:33:54 +0000 \nDate Modified: 2020-07-02 20:33:54 +0000 \nPriority: 5 \nDTSTAMP: 2020-07-02 16:29:31 +0000 \nAttendee: Kathleen DuPont \nEFTA00031869",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Event: Accepted: FW: GHISLAINE MAXWELL Removal Hearing 2Omj132-01 \nStart Date: 2020-07-0"
+      },
+      {
+        "name": "Removal Hearing",
+        "role": "extracted",
+        "context": "cepted: FW: GHISLAINE MAXWELL Removal Hearing 2Omj132-01 \nStart Date: 2020-"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "L Removal Hearing 2Omj132-01 \nStart Date: 2020-07-02 19:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-07-02 19:30:00 +0000 \nEnd Date: 2020-07-02 20:30:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-07-02 20:33:54 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-07-02 20:33:54 +0000 \nDate Modified: 2020-07-02 20:33:54 +0000 \nP"
+      },
+      {
+        "name": "Kathleen Du",
+        "role": "extracted",
+        "context": "-02 16:29:31 +0000 \nAttendee: Kathleen DuPont \nEFTA00031869"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "2020-07-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "1601462933"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.087Z"
+}

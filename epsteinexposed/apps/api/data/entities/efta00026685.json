@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00026685",
+    "filename": "EFTA00026685.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026685.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: SDNY investigation \nDate: Wed, 10 Jul 2019 18:38:50 +0000 \nImportance: Normal \nMr. Kaiser, \nThank you again for speaking with us today in connection with our investigation of Jeffrey Epstein. As we mentioned on \nthe phone, we are interested in speaking with your client, and we appreciate her willingness to meet with us. So you have \nthe contact info for all of our team, we can all be reached anytime at the emails here or via phone at: \nAs we spoke about a few minutes ago, we would be happy to meet with you and your client at our office this Friday, July \n12, at 2:00 p.m. We're located at 1St. Andrew's Plaza, in downtown Manhattan —  the office is right by the Brooklyn \nBridge 4/5/6 and l/Z subway stop, or with a few blocks of various Chambers Street stops on other lines. If you've ever \nbeen to 1 Police Plaza, it's right next door, slightly behind a  large red outdoor sculpture. And if you have any issues finding \nthe building, you can call me directly - When you get to the building, just \nlet security know you're here to see m . \nPlease let me know if you have any questions at all, or if it would be useful to talk further before Friday, and thank you \nagain. \nAssistant U.S. Attorney \n\" t of New York \nEFTA00026685",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "us today in connection with our investigation of Jeffrey Epstein. As we mentioned on \nthe phone, we are interested"
+      },
+      {
+        "name": "Kaiser",
+        "role": "extracted",
+        "context": "50 +0000 \nImportance: Normal \nMr. Kaiser, \nThank you again for spe"
+      },
+      {
+        "name": "Normal \nMr",
+        "role": "extracted",
+        "context": "9 18:38:50 +0000 \nImportance: Normal \nMr. Kaiser, \nThank you again for"
+      },
+      {
+        "name": "Brooklyn \nBridge",
+        "role": "extracted",
+        "context": "—  the office is right by the Brooklyn \nBridge 4/5/6 and l/Z subway stop, or"
+      },
+      {
+        "name": "Chambers Street",
+        "role": "extracted",
+        "context": "with a few blocks of various Chambers Street stops on other lines. If you'"
+      },
+      {
+        "name": "Police Plaza",
+        "role": "extracted",
+        "context": "es. If you've ever \nbeen to 1 Police Plaza, it's right next door, slight"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.822Z"
+}

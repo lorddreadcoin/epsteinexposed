@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020107",
+    "filename": "EFTA00020107.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020107.pdf",
+    "text": "\n\nFrom: \"\nI)\" \nalMIN> \nTo:'\nCc: \" \n(USANYS)\" \n(USANYS)\" \nSubject: RE: Maxwell - RTC \nDate: Tue, 12 Oct 2021 00:14:20 +0000 \nAttachments: Maxwell RTC v11.ducx \nHi M, \nWe just wanted to check in and see if you think you'll have a chance to look at the Maxwell RTC before we send it to the \ndefense. We're planning to do that on October 20, and if you have time to look at this before then, we'd really like to \nincorporate your comments. \nThanks! \nFrom: \nSent: Thursday, September 30, 2021 10:50 AM \nSubject: Maxwell - RTC \nHi M, \nI hope all's well! Attached is a draft of our RTC in the Maxwell case. If you have time to look at it, we'd love any \ncomments you might have. \nIn terms of timing, we have to file a  joint proposed RTC on October 27, so we are thinking of sending this to the defense a \nweek or so before that. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00020107",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "or so before that. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-30",
+        "event": "September 30, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.203Z"
+}

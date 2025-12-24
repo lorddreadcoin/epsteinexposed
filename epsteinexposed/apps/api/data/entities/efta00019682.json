@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019682",
+    "filename": "EFTA00019682.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019682.pdf",
+    "text": "\n\nFrom: \nTo: Gloria Allred  \nSubject: \nRe: Urgent! ,an Epstein victim, just told me that she was able to get child care \nand would like to fly to New York for the hearing Tuesday. What is your telephone number, \nM, so that I can call you \na.s.a.p.? \nDate: Sun, 25 Aug 2019 18:25:11 +0000 \nInline-Images: image001.png; image002jpg \nThanks, I sent this to a. \n> On Aug 25, 2019, at 2:24 PM, Gloria Allred ..tj > wrote: \nMartindale\n-Hubbell \nPREEMINENT' \nALLRED, MAROKO & GOLDBERG 2018 \nLawyers\n \nBest\nEFTA00019682",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "From: \nTo: Gloria Allred  \nSubject: \nRe: Urgent! ,an E"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "Thanks, I sent this to a. \n> On Aug 25, 2019, at 2:24 PM, Gloria"
+      },
+      {
+        "name": "Lawyers\n \nBest",
+        "role": "extracted",
+        "context": "LRED, MAROKO & GOLDBERG 2018 \nLawyers\n \nBest\nEFTA00019682"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.377Z"
+}

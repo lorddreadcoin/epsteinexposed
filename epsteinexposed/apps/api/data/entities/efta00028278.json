@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028278",
+    "filename": "EFTA00028278.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028278.pdf",
+    "text": "\n\nFrom: IIM=n \nTo:' \nSubject: Monday \nDate: Fri, 12 Nov 2021 20:06:32 +0000 \nAttachments: Govet_Letter_re_MV-3_and_VictimiFinal].pdf; Gov't_Letter_re_MV-3 Junredacted].pdf; \n2021.11.11_Letter_toiudge_Nathan_re_Response_to_Govemment_Letters_re_Accuser-\n3_Evidence.PDF; 4._Motion_to_Exclude_Accuser-3_Evidence.pdf; \nGovt_Omnibus_OppiUnredacted].pdf; \n!2021.10.27_Maxwell_Reply_ISO_Motns_In_Limine.pdf; \nMotion to_preclude_Dietz_and_Loftusito_file].pdf; \n2021.1101 JSP_Letter to_USAO_re_Ru16_16_Disclosures.pdf; \n2021.11.01_Final_pretrial_conference.PDF \nHey \nWould one of you mind making a binder for me in advance of our court appearance on Monday? I've attached the things \nto go in it, and I'll have one more after the defense files something tonight. You can reuse an old binder if that would be \nhelpful. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00028278",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monday \nDate",
+        "role": "extracted",
+        "context": "From: IIM=n \nTo:' \nSubject: Monday \nDate: Fri, 12 Nov 2021 20:06:32 +0"
+      },
+      {
+        "name": "Hey \nWould",
+        "role": "extracted",
+        "context": "inal_pretrial_conference.PDF \nHey \nWould one of you mind making a bind"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "would be \nhelpful. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.897Z"
+}

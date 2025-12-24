@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024911",
+    "filename": "EFTA00024911.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024911.pdf",
+    "text": "\n\nFrom: BOBBI C \nSTERNHEIM \nCc: Christian Everdell \nJeff Pagliuca \nSubject: Re: US v. Maxwell -Trial Start Date \nDate: Tue, 11 May 2021 04:16:01 +0000 \nAttachments: Letter_ret  Trial_Start_Date.pdf; ATT00001.htm \nAttached is a courtesy copy of our letter requesting 11/8 trial start date. \nEFTA00024911",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: BOBBI C \nSTERNHEIM \nCc: Christian Everdell \nJeff Pagliuca \nSubject: Re:"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "HEIM \nCc: Christian Everdell \nJeff Pagliuca \nSubject: Re: US v. Maxwell -"
+      },
+      {
+        "name": "Trial Start",
+        "role": "extracted",
+        "context": "Subject: Re: US v. Maxwell -Trial Start Date \nDate: Tue, 11 May 2021"
+      },
+      {
+        "name": "Date \nDate",
+        "role": "extracted",
+        "context": "e: US v. Maxwell -Trial Start Date \nDate: Tue, 11 May 2021 04:16:01 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-11",
+        "event": "11 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.090Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00015752",
+    "filename": "EFTA00015752.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015752.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: \nDate: Thu, 08 Apr 2021 18:20:05 +0000 \nEmbedded: \nRe:_Follow-up.msg \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00015752",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Embedded: \nRe:_Follow-up.msg \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "llow-up.msg \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.370Z"
+}

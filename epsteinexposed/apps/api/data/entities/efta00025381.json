@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00025381",
+    "filename": "EFTA00025381.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025381.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Fwd: \nDate: Tue, ct 019 15:48:28 +0000 \nAttachments: Palm_Beach_Police_Reports.pdf; ATT00001.htm \nSent from my iPhone \nBegin forwarded message: \nFro • \nTo: \nCc: \nSubject \nIn case you meet with her, here are the police reports about her calls with \naddresses the threat, and later pages address the call records around that time. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nThe \nfirst page \nEFTA00025381",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "; ATT00001.htm \nSent from my iPhone \nBegin forwarded message: \nFro • \nTo"
+      },
+      {
+        "name": "Subject \nIn",
+        "role": "extracted",
+        "context": "ed message: \nFro • \nTo: \nCc: \nSubject \nIn case you meet with her, here"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ll records around that time. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "that time. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nThe \nfirst pa"
+      },
+      {
+        "name": "Plaza \nThe",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nThe \nfirst page \nEFTA00025381"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.047Z"
+}

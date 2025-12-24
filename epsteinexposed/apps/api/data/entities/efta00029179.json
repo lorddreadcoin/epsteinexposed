@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029179",
+    "filename": "EFTA00029179.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029179.pdf",
+    "text": "\n\nFrom: \nSubject: Fwd: \nEpstein/MCC \nDate: Thu, 14 Nov 2019 18:09:15 +0000 \nSee below, \nwonder where it came from. \nSent from my iPhone \nBegin forwarded message: \nFrom: '1\nDate: November 14 2019 at 1:02:48 PM EST \nTo: \" \nCc: ' \nSubject: Epstein/MCC \nDisconcertingly, CNN has heard that a decision/announcement will come next week. Their feeling is that there will be \ncharges. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office [ Southern District of New York \nI Mobile \nEFTA00029179",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "it came from. \nSent from my iPhone \nBegin forwarded message: \nFrom: '1"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "that there will be \ncharges. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office [ Southern District of New York \nI Mobile \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-14",
+        "event": "November 14 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.921Z"
+}

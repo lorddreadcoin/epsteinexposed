@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00014043",
+    "filename": "EFTA00014043.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014043.pdf",
+    "text": "\n\nFrom: (FBI)\" <1 \nTo: '   (USAFLS)\"  \n[=. \nSubject: Re: Looks like I  have permission to send a letter to Epstein's people \nDate: Fri, 21 Nov 2008 16:54:44 +0000 \nImportance: Normal \n[=. \nI'll be \nthere in about a half hour. \nFrom:\nTo: \nSent: Fri Nov 21 11:29:22 2008 \nSubject: Looks like I  have permission to send a letter to Epstein's people \nCan you drop that file by asap? If the judge did, in fact, change the language of the judgment, I  need to know \nthat. \nThanks. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFr \nEFTA00014043",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fri Nov",
+        "role": "extracted",
+        "context": "half hour. \nFrom:\nTo: \nSent: Fri Nov 21 11:29:22 2008 \nSubject: Lo"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "hat. \nThanks. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFr \nEFTA000"
+      },
+      {
+        "name": "Phone \nFr",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFr \nEFTA00014043"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.003Z"
+}

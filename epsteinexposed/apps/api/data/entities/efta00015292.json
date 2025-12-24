@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015292",
+    "filename": "EFTA00015292.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015292.pdf",
+    "text": "\n\nFrom. \nTo: \nSubject: Fwd: our latest on epstein \nDate: Mon, 14 Oct 2019 17:57:18 +0000 \nFYI \nBegin forwarded message: \nFrom: \"Goldstein, Matthew\" \nDate: October 14, 2019 at 1:52:47 PM EDT \nTo \nSubject: our latest on epstein \nwe now posted the financials online \nmatt \nhttps:  Int.nyt.com/data/documenthelper/1882-epstein-financial-\nstatements/fc7518962c5a9e00805e/optimized/full.pdf#page= I \nalso did this story with it \nhttps://www.nytimes.corn/2019/10/14/business/jeffrey-epstein-estate html \nMatthew Goldstein \nThe New York Times \nEFTA00015292",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "r 14, 2019 at 1:52:47 PM EDT \nTo \nSubject: our latest on epstein \nwe no"
+      },
+      {
+        "name": "Matthew Goldstein",
+        "role": "extracted",
+        "context": "/jeffrey-epstein-estate html \nMatthew Goldstein \nThe New York Times \nEFTA0001"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "tate html \nMatthew Goldstein \nThe New York Times \nEFTA00015292"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "l \nMatthew Goldstein \nThe New York Times \nEFTA00015292"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-14",
+        "event": "October 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.394Z"
+}

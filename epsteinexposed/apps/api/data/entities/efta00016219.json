@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016219",
+    "filename": "EFTA00016219.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016219.pdf",
+    "text": "\n\nFrom: ' \n)11 'MIW \nTo: ' (USANYS) [Contractor]° -,   \nCc: ' \n\"\nSubject: Re: Random Epstein Question \nDate: Sun, 12 Apr 2020 \n14:37:20 +0000 \n)11\nNot that we're aware of. \nOn Apr 12, 2020, at 09:38, (USANYS) [Contractor] ..tj \n> \nwrote: \nGood morning everyone, I hope you guys are hanging in there. \nRandom question for you (from \n): \nWere there any interrogatories answered by Maxwell in the lawsuit? \nI did a quick look through the shared and didn't see anything, but obviously you all would know better. \nThanks in advance! \n= \nEFTA00016219",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Random Epstein",
+        "role": "extracted",
+        "context": "° -,   \nCc: ' \n\"\nSubject: Re: Random Epstein Question \nDate: Sun, 12 Apr 2"
+      },
+      {
+        "name": "Question \nDate",
+        "role": "extracted",
+        "context": "\"\nSubject: Re: Random Epstein Question \nDate: Sun, 12 Apr 2020 \n14:37:20 +"
+      },
+      {
+        "name": "On Apr",
+        "role": "extracted",
+        "context": ")11\nNot that we're aware of. \nOn Apr 12, 2020, at 09:38, (USANYS)"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.248Z"
+}

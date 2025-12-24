@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00009956",
+    "filename": "EFTA00009956.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009956.pdf",
+    "text": "\n\nU.S. \nDepartment \nof Transportation \nFederal Aviation \nAdministration \n10/12/2020 \nCivil Aviation Registry \nAircraft Rc istration Branch \nOklahoma City, OK 73125-0504 \nAviation Safety \nOklahoma City iiii 1.82 \nWEB Address: \nDear Sir or Madam: \nI would like to have 722JH reserved to the undersigned at the following address: \nWest Palm Beach, FL \n33406 \nSincerely, \nHYPERION AIR \nRef: This request was made from the Registry's Web site. Fee paid: $10 (202010121254592484NN) \nAccepted \nMC \nDec/09/2020 \nEFTA00009956",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Transportation \nFederal",
+        "role": "extracted",
+        "context": "U.S. \nDepartment \nof Transportation \nFederal Aviation \nAdministration \n10/"
+      },
+      {
+        "name": "Aviation \nAdministration",
+        "role": "extracted",
+        "context": "t \nof Transportation \nFederal Aviation \nAdministration \n10/12/2020 \nCivil Aviation R"
+      },
+      {
+        "name": "Civil Aviation",
+        "role": "extracted",
+        "context": "Administration \n10/12/2020 \nCivil Aviation Registry \nAircraft Rc istrati"
+      },
+      {
+        "name": "Registry \nAircraft",
+        "role": "extracted",
+        "context": "n \n10/12/2020 \nCivil Aviation Registry \nAircraft Rc istration Branch \nOklahoma"
+      },
+      {
+        "name": "Branch \nOklahoma",
+        "role": "extracted",
+        "context": "gistry \nAircraft Rc istration Branch \nOklahoma City, OK 73125-0504 \nAviation"
+      },
+      {
+        "name": "Aviation Safety",
+        "role": "extracted",
+        "context": "Oklahoma City, OK 73125-0504 \nAviation Safety \nOklahoma City iiii 1.82 \nWEB"
+      },
+      {
+        "name": "Oklahoma City",
+        "role": "extracted",
+        "context": "73125-0504 \nAviation Safety \nOklahoma City iiii 1.82 \nWEB Address: \nDear"
+      },
+      {
+        "name": "Dear Sir",
+        "role": "extracted",
+        "context": "City iiii 1.82 \nWEB Address: \nDear Sir or Madam: \nI would like to ha"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "ed at the following address: \nWest Palm Beach, FL \n33406 \nSincerely,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Oklahoma City, OK",
+        "type": "city"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-12",
+        "event": "10/12/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.990Z"
+}

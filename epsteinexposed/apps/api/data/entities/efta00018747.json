@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00018747",
+    "filename": "EFTA00018747.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018747.pdf",
+    "text": "\n\nFrom: (USANYS)\" <, \nTo: USANYS)\" cz> \nSubject: NYLJ article \nDate: Mon, 11 May 2020 20:06:14 +0000 \nAttachments: NYLJMay6.pd.pdf \nI  didn't see this when it came out, so I am sharing it in case you missed it as well. \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \nEFTA00018747",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "ou missed it as well. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-11",
+        "event": "11 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.596Z"
+}

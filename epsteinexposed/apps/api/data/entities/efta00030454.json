@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030454",
+    "filename": "EFTA00030454.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030454.pdf",
+    "text": "\n\nFrom: Robert Glassman <glassman@psblaw.com> \nTo \nSubject: Another alleged victim cannot find Jeffrey Epstein confidant Ghislaine Maxwell to serve complaint \n- ABC \nNews \nDate: Fri, 29 May 2020 03:34:51 +0000 \nhttps://abcnews.go.corn/US/alleged-victim-find-jeffity-epstein-confidant-ghislaine-maxwell/story?id=70941695 \nRobert S. Glassman \nPanish Shea & Boyle \npsblaw.com \nEFTA00030454",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "To \nSubject: Another alleged victim cannot find Jeffrey Epstein confidant Ghislaine Maxwell to serve complaint \n-"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "eged victim cannot find Jeffrey Epstein confidant Ghislaine Maxwell to serve complaint \n- ABC \nNews \nDate: Fri, 29 Ma"
+      },
+      {
+        "name": "Robert Glassman",
+        "role": "extracted",
+        "context": "From: Robert Glassman <glassman@psblaw.com> \nTo \nSu"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "assman <glassman@psblaw.com> \nTo \nSubject: Another alleged victim canno"
+      },
+      {
+        "name": "News \nDate",
+        "role": "extracted",
+        "context": "ll to serve complaint \n- ABC \nNews \nDate: Fri, 29 May 2020 03:34:51 +0"
+      },
+      {
+        "name": "Glassman \nPanish",
+        "role": "extracted",
+        "context": "/story?id=70941695 \nRobert S. Glassman \nPanish Shea & Boyle \npsblaw.com \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-29",
+        "event": "29 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.920Z"
+}

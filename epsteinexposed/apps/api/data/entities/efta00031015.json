@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031015",
+    "filename": "EFTA00031015.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031015.pdf",
+    "text": "\n\nFrom: \nTo: Christian Everdell \nCc: \nce. \n, Laura Mennin er \n\"Mark S. \nCohen\" \nPagliuca\" BOBBI C STERNHEIM \n'BOBBI C STERNHEIM' \nSubject: US v. Maxwell, 20 Cr. 330 (MN) - discovery \nproduction \nDate: Mon, 03 May 2021 22:53:53 +0000 \nAttachments: 2021.05.03_Discovery_Production.zip; 2021.05.03_Maxwell_Discovery_Letter.pdf \nff \nCounsel, \nAttached please find a supplemental discovery production in the above-referenced case, as well as a corresponding cover \nletter. \nOur paralegals have included a copy of this production on the replacement drive you provided last week to be loaded for \nyour client. The drive was sent to the MDC by FedEx today. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00031015",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: \nTo: Christian Everdell \nCc: \nce. \n, Laura Mennin er"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "ristian Everdell \nCc: \nce. \n, Laura Mennin er \n\"Mark S. \nCohen\" \nPagliuc"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e MDC by FedEx today. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "day. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00031015"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-03",
+        "event": "03 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.245Z"
+}

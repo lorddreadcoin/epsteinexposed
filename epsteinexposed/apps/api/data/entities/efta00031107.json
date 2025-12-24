@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00031107",
+    "filename": "EFTA00031107.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031107.pdf",
+    "text": "\n\nFrom: \"> \nTo:'\nCc: \nSubject: bail memo \nDate: Thu, 02 Jul 2020 04:51:02 +0000 \nAttachments: 2020-07-02, GM detention memorandum.docx \nHi M, \nHere's the final version we plan to file in the morning. It's in brief format, at the District of New Hampshire's request. The \nplan is to file it in SDNY and email a copy to the DNH magistrate judge, but let us know if you think we should proceed \notherwise (the AUSA in DNH didn't seem to have a view on how we should file). We didn't want to file it with New \nHampshire captions and signature blocks, as much as I would have gotten a kick out of signing as a SAUSA. But let us know \nif you think we should be going about this a different way. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031107",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "ef format, at the District of New Hampshire's request. The \nplan is to fi"
+      },
+      {
+        "name": "New \nHampshire",
+        "role": "extracted",
+        "context": "e didn't want to file it with New \nHampshire captions and signature blocks"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "is a different way. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031107"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "2020-07-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.422Z"
+}

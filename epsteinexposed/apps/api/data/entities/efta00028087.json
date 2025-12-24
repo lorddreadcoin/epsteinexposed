@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00028087",
+    "filename": "EFTA00028087.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028087.pdf",
+    "text": "\n\nFrom: ' \n< \nTo: \"_,-N. (NY) (FBI)\"\nSubject: RE: Epstein \nDate: Thu, 01 Aug 2019 15:07:59 +0000 \nAwesome, thanks. \nFrom: M, N. (NY) (FBI) <> \nSent: Thursday, August 01, 2019 11:06 \nTo: \nSubject: FW: Epstein \nLeft a message with his office. I'll try and touch base with him this afternoon. \nOn Aug 1, 2019 10:58 AM, ' \n)\" < \n> \nwrote: \nHey could I ask you to please give Mike a call this morning just so he knows you got his voicemail the other day? And \njust let me know when you connect with him? He's at (office) or (cell). Thank you! \nFrom: Miller, Michael \n<\nSent: Thursday, August 01, 2019 10:40 \nTo: \nSubject: Epstein \nHello —\nAny word on when I can send someone by to pick up the ring, diamonds, and funds? \nMany thanks. \nMike \nMichael C. Miller \nPartner \nwww.steptoe.comfmmiller \nSteptoe \nSteptoe & Johnson LLP \n1114 Avenue of the Americas \nNew York. NY 10036 \nwww.steptoe.com \nThis message and any attached documents contain intonation from the law firm Steptoe & Johnson LLP that may be confidential and/or privileged. If \nyou are not the intended recipient. please do not read, copy, distribute, or use this information. If you have received this transmission in error, please \nnotify the sender immediately by reply e-mail and then delete this message. \nEFTA00028087",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ",-N. (NY) (FBI)\"\nSubject: RE: Epstein \nDate: Thu, 01 Aug 2019 15:07:59 +0"
+      },
+      {
+        "name": "Epstein \nLeft",
+        "role": "extracted",
+        "context": "2019 11:06 \nTo: \nSubject: FW: Epstein \nLeft a message with his office. I'"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "ase with him this afternoon. \nOn Aug 1, 2019 10:58 AM, ' \n)\" < \n>"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "01, 2019 10:40 \nTo: \nSubject: Epstein \nHello —\nAny word on when I can send"
+      },
+      {
+        "name": "Mike \nMichael",
+        "role": "extracted",
+        "context": "ds, and funds? \nMany thanks. \nMike \nMichael C. Miller \nPartner \nwww.stept"
+      },
+      {
+        "name": "Miller \nPartner",
+        "role": "extracted",
+        "context": "any thanks. \nMike \nMichael C. Miller \nPartner \nwww.steptoe.comfmmiller \nSte"
+      },
+      {
+        "name": "Steptoe \nSteptoe",
+        "role": "extracted",
+        "context": "ner \nwww.steptoe.comfmmiller \nSteptoe \nSteptoe & Johnson LLP \n1114 Avenue of"
+      },
+      {
+        "name": "Americas \nNew",
+        "role": "extracted",
+        "context": "hnson LLP \n1114 Avenue of the Americas \nNew York. NY 10036 \nwww.steptoe.c"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-01",
+        "event": "August 01, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.605Z"
+}

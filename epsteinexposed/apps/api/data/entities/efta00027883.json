@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027883",
+    "filename": "EFTA00027883.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027883.pdf",
+    "text": "\n\nFrom: Alex Conlon\nTo:' )\"\nCc: Roberta Kaplan \nC \nSubject: Transcript from yesterday's conference \nDate: Thu, 12 Dec 2019 23:33:57 -4)000 \nAttachments: Tr._12.11.19_Conference_Doe_v._Indyke_et_al.,_19-cv-8673.pdf \nHi there, \nAttached is the transcript from yesterday's conference that Robbie described in the call today. \nTake care, \nAlex \nAlex Conlon I  Kaplan Hecker & Fink LLP \nThis email and its attachments may contain information that is confidential and/or protected from disclosure by the attorney-client work product or other \napplicable legal privilege. If you are not the intended recipient of the email. please be aware that any unauthorized review. use. disclosure. dissemination. \ndistribution, or copying of this communication. or any of its contents. is strictly prohibited. If you have received this communication in \nerror, \nplease notify \nthe sender immediately and destroy all copies of the message from your computer system. Thank you. \nEFTA00027883",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Alex Conlon",
+        "role": "extracted",
+        "context": "From: Alex Conlon\nTo:' )\"\nCc: Roberta Kaplan \nC"
+      },
+      {
+        "name": "Roberta Kaplan",
+        "role": "extracted",
+        "context": "From: Alex Conlon\nTo:' )\"\nCc: Roberta Kaplan \nC \nSubject: Transcript from"
+      },
+      {
+        "name": "Alex \nAlex",
+        "role": "extracted",
+        "context": "the call today. \nTake care, \nAlex \nAlex Conlon I  Kaplan Hecker & Fin"
+      },
+      {
+        "name": "Kaplan Hecker",
+        "role": "extracted",
+        "context": "e care, \nAlex \nAlex Conlon I  Kaplan Hecker & Fink LLP \nThis email and it"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.195Z"
+}

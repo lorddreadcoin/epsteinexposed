@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00031611",
+    "filename": "EFTA00031611.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031611.pdf",
+    "text": "\n\nFrom: \nTo: \nCc:' \nSubject: RE: Quick Epstein FOIA question \nDate: Sun, 02 May 2021 16:59:15 +0000 \nThanks! \nT \nSent:\no: K \nFrom \nCc: \nSubject: Re: Quick Epstein FOIA question \n> \nI'm ok with it \nOn May 2, 2021, at 11:47, Kochevar, Steven (USANYS) < wrote: \nThe attached got marked as a Tartaglione withheld in full, but I don't think that's right. This can be released with no \nTartoglione concerns, right? \nThanks, \n<Pages from 19-0556 New York Times - Epstein Records Unmasking Remaining WIF tt2-A (050121 845 pm).pdf> \nEFTA00031611",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Quick Epstein",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc:' \nSubject: RE: Quick Epstein FOIA question \nDate: Sun, 02"
+      },
+      {
+        "name": "From \nCc",
+        "role": "extracted",
+        "context": "0000 \nThanks! \nT \nSent:\no: K \nFrom \nCc: \nSubject: Re: Quick Epstein"
+      },
+      {
+        "name": "On May",
+        "role": "extracted",
+        "context": "question \n> \nI'm ok with it \nOn May 2, 2021, at 11:47, Kochevar,"
+      },
+      {
+        "name": "Epstein Records",
+        "role": "extracted",
+        "context": "from 19-0556 New York Times - Epstein Records Unmasking Remaining WIF tt2-A"
+      },
+      {
+        "name": "Unmasking Remaining",
+        "role": "extracted",
+        "context": "York Times - Epstein Records Unmasking Remaining WIF tt2-A (050121 845 pm).pdf"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-02",
+        "event": "May 2, 2021"
+      },
+      {
+        "date": "2021-05-02",
+        "event": "02 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.521Z"
+}

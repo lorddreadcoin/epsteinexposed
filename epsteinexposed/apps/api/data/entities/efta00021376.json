@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00021376",
+    "filename": "EFTA00021376.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021376.pdf",
+    "text": "\n\nFrom: \nTo: \nBcc: \n\"USAHUB-USAJournal111\" \nSubject: FW: Motions to \nSuppress \nDate: Mon, 22 Feb 2021 18:59:16 +0000 \nEmbedded: \nFW:_Motions_to_Suppress.msg \nSender: \nSubject: FW: Motions to Suppress \nMessage-Id: \n<DM2P110MB0121E05C86696B086510427C89819@DM2P110MB0121.NAMP110.PROD.OUTLOOK.COM \nTo: \nEFTA00021376",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Suppress \nDate",
+        "role": "extracted",
+        "context": "11\" \nSubject: FW: Motions to \nSuppress \nDate: Mon, 22 Feb 2021 18:59:16 +0"
+      },
+      {
+        "name": "Suppress \nMessage",
+        "role": "extracted",
+        "context": "der: \nSubject: FW: Motions to Suppress \nMessage-Id: \n<DM2P110MB0121E05C86696B"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.543Z"
+}

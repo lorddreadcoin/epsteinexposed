@@ -1,0 +1,68 @@
+{
+  "document": {
+    "id": "efta00019480",
+    "filename": "EFTA00019480.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019480.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: The OPR investigation - 8 years too late \nDate: Fri, 08 Mar 2019 16:23:59 +0000 \nAttachments: M_Lener_to_OPR_Feb_2019_PDF.pdf \nHey= and \nHere is correspondence (with attachments) about the OPR investigating. On December 10, 2010, I asked U.S. Attorney \nFerrer (S.D. Fla.) to investigate the \"most suspicious criminal case I have ever encountered.\" That letter was forwarded to \nOPR and, on May 6, 2011, OPR declined to investigate on grounds of ongoing litigation. \nNote: We have seen a privilege log from S.D. Fla. that makes it appear that there was some correspondence between OPR \nat Main Justice and S.D. Florida in connection with my letter. That correspondence was deemed \"privileged\" in some way, \nso we've never seen it. But you should be able to get it. \nOf course, as you know, in about January 2019, OPR did open an investigation into the case ... prompting my February 7, \n2019 letter (attached) requesting that the victims be kept informed. I've received a response and we're going to set up a \nconference call soon. \nfor Jane Doe 1 and Jane Doe 2 \nCONFIDENTIAL: This electronic message - along with any/all attachments - is confidential. This message is intended only for the use of the \naddressee. If you are not the intended recipient, you may not use, disseminate, distribute or copy this communication. If you have received this \nmessage in error, please immediately notify the sender by reply electronic mail and delete the original message. Professor Cassell is admitted to the \nUtah State Bar, but not the bars of other states. Any views he expresses in this email are his own. \nEFTA00019480",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: The OPR investi"
+      },
+      {
+        "name": "On December",
+        "role": "extracted",
+        "context": "about the OPR investigating. On December 10, 2010, I asked U.S. Attorn"
+      },
+      {
+        "name": "Attorney \nFerrer",
+        "role": "extracted",
+        "context": "cember 10, 2010, I asked U.S. Attorney \nFerrer (S.D. Fla.) to investigate th"
+      },
+      {
+        "name": "Main Justice",
+        "role": "extracted",
+        "context": "orrespondence between OPR \nat Main Justice and S.D. Florida in connectio"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "a \nconference call soon. \nfor Jane Doe 1 and Jane Doe 2 \nCONFIDENTIA"
+      },
+      {
+        "name": "Professor Cassell",
+        "role": "extracted",
+        "context": "delete the original message. Professor Cassell is admitted to the \nUtah Stat"
+      },
+      {
+        "name": "Utah State",
+        "role": "extracted",
+        "context": "r Cassell is admitted to the \nUtah State Bar, but not the bars of othe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2010-12-10",
+        "event": "December 10, 2010"
+      },
+      {
+        "date": "2011-05-06",
+        "event": "May 6, 2011"
+      },
+      {
+        "date": "2019-02-07",
+        "event": "February 7, \n2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.988Z"
+}

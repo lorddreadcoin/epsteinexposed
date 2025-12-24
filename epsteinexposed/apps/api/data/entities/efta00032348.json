@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032348",
+    "filename": "EFTA00032348.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032348.pdf",
+    "text": "\n\nFrom: \"NYSReportServer®usa.doj.gov\" <NYSReportServer®usa.doj.gov> \nTo: \nMMans\nSubject: Child Exploitation & Porn Update Report Ill \nDate: Sun, 05 Jul 2020 20:39:15 +0000 \nAttachments: Child_Exploitation_&_Pom_Update_Report_III.pdf \nAttached is the Child Exploitation & Porn Update Report III for Project Safe Childhood. \nChiefs and Project Safe Childhood Coordinator, please remind the assigned AUSA to make updates in their \ncases. Thanks! \nEFTA00032348",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mans\nSubject",
+        "role": "extracted",
+        "context": "ortServer®usa.doj.gov> \nTo: \nMMans\nSubject: Child Exploitation & Porn Up"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "doj.gov> \nTo: \nMMans\nSubject: Child Exploitation & Porn Update Report Ill \nDat"
+      },
+      {
+        "name": "Porn Update",
+        "role": "extracted",
+        "context": "Subject: Child Exploitation & Porn Update Report Ill \nDate: Sun, 05 Jul"
+      },
+      {
+        "name": "Report Ill",
+        "role": "extracted",
+        "context": "ld Exploitation & Porn Update Report Ill \nDate: Sun, 05 Jul 2020 20:39"
+      },
+      {
+        "name": "Project Safe",
+        "role": "extracted",
+        "context": "& Porn Update Report III for Project Safe Childhood. \nChiefs and Projec"
+      },
+      {
+        "name": "Childhood Coordinator",
+        "role": "extracted",
+        "context": "ood. \nChiefs and Project Safe Childhood Coordinator, please remind the assigned A"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.112Z"
+}

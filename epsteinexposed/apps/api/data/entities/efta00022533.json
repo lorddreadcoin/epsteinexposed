@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00022533",
+    "filename": "EFTA00022533.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022533.pdf",
+    "text": "\n\nFrom: \nTo: \nBee: \nSubject: Jeffrey Epstein \nDate: Tue, 23 Jul 2019 18:22:13 +0000 \nHi, Our Jeffrey Epstein team here is working on gathering material that may be discoverable in our case \nor pertinent to an anticipated motion by Epstein for dismissal based on the S.D.Fla. agreement. We assume you \nhad to pull together a lot of discovery for the CVRA litigation, and that you probably have a good sense of where \nelse, or with whom else, in the S.D.Fla., we might need to look for pertinent information. The attorneys in the \nN.D.Ga. who are handling the CVRA litigation said we should check directly with you, and  \ncleared us to reach out to you directly on this. Would you have some time this week for us to give you a  call \nabout this? Thanks much, \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, NY 10007 \nEFTA00022533",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nBee: \nSubject: Jeffrey Epstein \nDate: Tue, 23 Jul 2019 18:22:13 +0000 \nHi, Our J"
+      },
+      {
+        "name": "Our Jeffrey",
+        "role": "extracted",
+        "context": "Jul 2019 18:22:13 +0000 \nHi, Our Jeffrey Epstein team here is working"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Thanks much, \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.093Z"
+}

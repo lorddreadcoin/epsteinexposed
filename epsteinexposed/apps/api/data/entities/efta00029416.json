@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00029416",
+    "filename": "EFTA00029416.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029416.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio Mollo \nNew York, New York 10O07 \nAugust 12, 2021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinent to the following inmate: \n• Ghislaine Maxwell: 02879-509 \nPlease allow her access to the materials enclosed. \nVery truly yours, \nAUDREY \nSTRAUSS \nUnited States Attorney \nEnclosure \nAssistant United States Attorneys \nEFTA00029416",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinen"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio Mollo"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio Mollo \nNew York, New York 10O"
+      },
+      {
+        "name": "Mollo \nNew",
+        "role": "extracted",
+        "context": "trict of New York \nThe Silvio Mollo \nNew York, New York 10O07 \nAugust"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Attorney \nEnclosure",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nUnited States Attorney \nEnclosure \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "d States Attorney \nEnclosure \nAssistant United States Attorneys \nEFTA0002941"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "Enclosure \nAssistant United States Attorneys \nEFTA00029416"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-08-12",
+        "event": "August 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.366Z"
+}

@@ -1,0 +1,101 @@
+{
+  "document": {
+    "id": "efta00015189",
+    "filename": "EFTA00015189.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015189.pdf",
+    "text": "\n\n°)1\n(cin uar° \nNational Compliance Center \nRESPONSE \nCOVER SHEET \nPO BOX \n24679 \nWEST PALM BEACH, FL 33416-4679 \nPhone 14004354840 Facsimile \n1488-938-4715 \nTo: \nSA \nFBI \nWEST PALM BEACH FL 33401 \nFile \nCode: 227815 \nFrom: YAB \nPhone Number. \nRequest Dated: 8/1/2006 Number of Pages: \nFax Number: \nReceived On: 8/1/2006 Date: 8/24/2006 \nIf you are not already doing so, please begin addressing all legal \nrequests to Cingular Wireless. \nAdditionally, effective immediately, please fax \nall legal requests to Cingular Wireless at 1-888-938-4715. \n- The requested information is \nenclosed. \n- \nCell site location information is \nprovided upon receipt of a Search \nWarrant, a Court Order pursuant \nto \n\"Specific & Articulable Facts\" or \nFederal Statute 18 IJSC §2703 (d). \n- \nThere are four (4) folders in the \nCD that represent the four \ntarget numbers. All available \ninformation \nfor the time frame \nof \nJanuary \nI, 2004 to present has been \nprovided. \nCONPIDENTIATATY \nNOTIOI \nThis cover sheet and any document which may \naccompany it, contains information from the National Compliance Center which is intended for use \nonly by the individual to whom it is \naddressed, and which may contain information that is privileged, confidential \nand/or otherwise exempt from \ndisclosure under applicable law. If the reader of this message is not the intended recipient or the person \nresponsible for delivering this message to the \nintended \nrecipient any review, disclosure, dissemination. distribution, copying or other use of this message or its substance is strictly \nprohibited. If \nyou have received this communication in error, please notify us immediately by telephone to arrange for the return \nof this communication to us at our \nexpense. \n'flunk you. \nNut: Official Use Only \nIiC O \n227815 \nEFTA00015189",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "National Compliance",
+        "role": "extracted",
+        "context": "°)1\n(cin uar° \nNational Compliance Center \nRESPONSE \nCOVER SHEET"
+      },
+      {
+        "name": "File \nCode",
+        "role": "extracted",
+        "context": "BI \nWEST PALM BEACH FL 33401 \nFile \nCode: 227815 \nFrom: YAB \nPhone Num"
+      },
+      {
+        "name": "Phone Number",
+        "role": "extracted",
+        "context": "ile \nCode: 227815 \nFrom: YAB \nPhone Number. \nRequest Dated: 8/1/2006 Num"
+      },
+      {
+        "name": "Request Dated",
+        "role": "extracted",
+        "context": "15 \nFrom: YAB \nPhone Number. \nRequest Dated: 8/1/2006 Number of Pages: \nF"
+      },
+      {
+        "name": "Fax Number",
+        "role": "extracted",
+        "context": "d: 8/1/2006 Number of Pages: \nFax Number: \nReceived On: 8/1/2006 Date:"
+      },
+      {
+        "name": "Received On",
+        "role": "extracted",
+        "context": "umber of Pages: \nFax Number: \nReceived On: 8/1/2006 Date: 8/24/2006 \nIf"
+      },
+      {
+        "name": "Cingular Wireless",
+        "role": "extracted",
+        "context": "essing all legal \nrequests to Cingular Wireless. \nAdditionally, effective imm"
+      },
+      {
+        "name": "Search \nWarrant",
+        "role": "extracted",
+        "context": "s \nprovided upon receipt of a Search \nWarrant, a Court Order pursuant \nto"
+      },
+      {
+        "name": "Court Order",
+        "role": "extracted",
+        "context": "ceipt of a Search \nWarrant, a Court Order pursuant \nto \n\"Specific & Art"
+      },
+      {
+        "name": "Articulable Facts",
+        "role": "extracted",
+        "context": "der pursuant \nto \n\"Specific & Articulable Facts\" or \nFederal Statute 18 IJSC"
+      },
+      {
+        "name": "Federal Statute",
+        "role": "extracted",
+        "context": "ific & Articulable Facts\" or \nFederal Statute 18 IJSC §2703 (d). \n- \nThere"
+      },
+      {
+        "name": "Official Use",
+        "role": "extracted",
+        "context": "expense. \n'flunk you. \nNut: Official Use Only \nIiC O \n227815 \nEFTA0001"
+      },
+      {
+        "name": "Only \nIi",
+        "role": "extracted",
+        "context": "flunk you. \nNut: Official Use Only \nIiC O \n227815 \nEFTA00015189"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2006-08-01",
+        "event": "8/1/2006"
+      },
+      {
+        "date": "2006-08-24",
+        "event": "8/24/2006"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "888-938-4715"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.173Z"
+}

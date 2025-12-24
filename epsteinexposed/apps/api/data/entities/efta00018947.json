@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018947",
+    "filename": "EFTA00018947.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018947.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\"\nTo: 'illa>>, Montell Figgins \nCc: 'llialailYST \n<=1Mliff>, \"-\nSubject: US v. Noel and Thomas - \nLetter \nDate: Sat, 14 Mar 2020 12:53:55 +0000 \nAttachments: 2019.12.19 _letter to_ICMK_re_MCCJape.pdf; \n2020.01.09 Jetter_to_KMK_re_MCC_tapeifinal).pdf; \n2020.03.14_Response_to_Defense_Discovery_Requests.pdf \n(USANYS)\" \nCounsel, \nPlease see the attached response to your prior discovery requests, along with two attachments. We are available to \ndiscuss any further if you have questions. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00018947",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Montell Figgins",
+        "role": "extracted",
+        "context": "om: ' \n(USANYS)\"\nTo: 'illa>>, Montell Figgins \nCc: 'llialailYST \n<=1Mliff>,"
+      },
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "ect: US v. Noel and Thomas - \nLetter \nDate: Sat, 14 Mar 2020 12:53:55 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "you have questions. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000189"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.987Z"
+}

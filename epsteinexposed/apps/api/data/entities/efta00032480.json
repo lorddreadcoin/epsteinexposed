@@ -1,0 +1,115 @@
+{
+  "document": {
+    "id": "efta00032480",
+    "filename": "EFTA00032480.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032480.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" •T \nTo:'\n.', \n< \n> \nCc: IMINIr \nSubject: \nAUSA's \n&I \nLondon 10/20/20 \nDate: Fri, 02 Oct 2020 16:27:52 +0000 \nImportance: High \nAttachments: London_10.12.20.pdf; MI-_London_10.12.20.pdf \nHi \n& \nSee the travel advisory below. \nYou should ASAP, send a brief email to the \nfor guidance about your request for their approval. \nInclude the PDF's attached here. \nmailbox, giving EOUSA a heads up & asking \nMention that you will send the airfare shortly, as well as your intent to forward your travel authorizations to them via E2 \nshortly. \nForeign \nTravel Guidance During the COVID-19 Pandemic \nState Department Travel Advisory \nThe Department of State has issued travel advisories to Level 4 (Do Not Travel) designated locations. They also advise to reconsider \ntravel abroad at this time due to the impact of COVID-19. Many areas throughout the world are experiencing outbreaks and are taking \nactions that may limit traveler mobility, including quarantines and border restrictions. Even countries without reported cases of COVID-\n19 are taking measures and may restrict travel without notice. Please view the Department of State's Travel Advisory Webpage \nfor the \nmost updated information. \nOfficial Passports \nDue to public health measures to limit the spread of COVID-19, effective immediately, the Department of States Special Issuance \nAgency (SIA) are only offering service to issue passports for customers with a qualified life-or-death emergency with a need to be issued \na passport for international travel within 72 hours. SIA defines life-or-death as a serious illness, injury, or death in one's immediate family \n(e.g., parent, sibling, aunt uncle, dependent, etc.). This means official passports will not be processed during this time until further \nnotice. If an employee without an official passport needs to complete essential international travel, and they have a valid tourist \npassport, they must obtain approval from the host country via email to travel in their official capacity on a tourist \npassport, and submit that approval with all of the usually required foreign travel documentation and approvals to \nFly \nAmerica Act \nPlease \nemail \nthe mailbox if you have a safety related need to request an exception to the Fly America Act \nIf you have any additional questions or concerns regarding this matter, please contact the RMP Travel Staff \nat \nOriginal Message-----\nFrom: \nSent: Thursday, October 1, 2020 3:03 PM \nTo: \n) 4c>\nCc: \nSubject: Travel \nEFTA00032480\n\nShould we go ahead and book our travel at this point? If so, should we go through or is there someone \nelse we should contact? We have our dates set, so we can submit our paperwork now, but let us know if we should book \ntravel first. \nThanks so much, \nSent from my iPhone \nEFTA00032481",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ir \nSubject",
+        "role": "extracted",
+        "context": "\" •T \nTo:'\n.', \n< \n> \nCc: IMINIr \nSubject: \nAUSA's \n&I \nLondon 10/20/20"
+      },
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "0 16:27:52 +0000 \nImportance: High \nAttachments: London_10.12.20.pdf; MI-_Lon"
+      },
+      {
+        "name": "Foreign \nTravel",
+        "role": "extracted",
+        "context": "ons to them via E2 \nshortly. \nForeign \nTravel Guidance During the COVID-19"
+      },
+      {
+        "name": "Guidance During",
+        "role": "extracted",
+        "context": "E2 \nshortly. \nForeign \nTravel Guidance During the COVID-19 Pandemic \nState"
+      },
+      {
+        "name": "Pandemic \nState",
+        "role": "extracted",
+        "context": "Guidance During the COVID-19 Pandemic \nState Department Travel Advisory \nT"
+      },
+      {
+        "name": "Department Travel",
+        "role": "extracted",
+        "context": "the COVID-19 Pandemic \nState Department Travel Advisory \nThe Department of S"
+      },
+      {
+        "name": "Advisory \nThe",
+        "role": "extracted",
+        "context": "emic \nState Department Travel Advisory \nThe Department of State has issue"
+      },
+      {
+        "name": "Do Not",
+        "role": "extracted",
+        "context": "travel advisories to Level 4 (Do Not Travel) designated locations."
+      },
+      {
+        "name": "Travel Advisory",
+        "role": "extracted",
+        "context": "iew the Department of State's Travel Advisory Webpage \nfor the \nmost update"
+      },
+      {
+        "name": "Official Passports",
+        "role": "extracted",
+        "context": "e \nmost updated information. \nOfficial Passports \nDue to public health measure"
+      },
+      {
+        "name": "States Special",
+        "role": "extracted",
+        "context": "mmediately, the Department of States Special Issuance \nAgency (SIA) are on"
+      },
+      {
+        "name": "Issuance \nAgency",
+        "role": "extracted",
+        "context": "Department of States Special Issuance \nAgency (SIA) are only offering servi"
+      },
+      {
+        "name": "Fly \nAmerica",
+        "role": "extracted",
+        "context": "cumentation and approvals to \nFly \nAmerica Act \nPlease \nemail \nthe mailb"
+      },
+      {
+        "name": "Act \nPlease",
+        "role": "extracted",
+        "context": "nd approvals to \nFly \nAmerica Act \nPlease \nemail \nthe mailbox if you ha"
+      },
+      {
+        "name": "Fly America",
+        "role": "extracted",
+        "context": "o request an exception to the Fly America Act \nIf you have any addition"
+      },
+      {
+        "name": "Act \nIf",
+        "role": "extracted",
+        "context": "exception to the Fly America Act \nIf you have any additional quest"
+      },
+      {
+        "name": "Travel Staff",
+        "role": "extracted",
+        "context": "atter, please contact the RMP Travel Staff \nat \nOriginal Message-----\nFr"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "act the RMP Travel Staff \nat \nOriginal Message-----\nFrom: \nSent: Thursday, O"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-01",
+        "event": "October 1, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.747Z"
+}

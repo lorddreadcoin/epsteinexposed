@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00009936",
+    "filename": "EFTA00009936.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009936.pdf",
+    "text": "\n\nFrom: ' \nCc: ' \nSubject: Epstein Update \nDate: Wed, 15 May 2019 14:32:05 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE_status_memo_for ODAG.finaldocx.pdf \nAttached is an update on the progress of the Epstein investigation. Please keep this memo on close hold given the \nsensitivity of the matter and our effort remain covert. \nFeel free to let us know if you have any questions. \nRegards, \nEFTA00009936",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Update",
+        "role": "extracted",
+        "context": "From: ' \nCc: ' \nSubject: Epstein Update \nDate: Wed, 15 May 2019 14:32"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 14:32:05 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE_status_memo_fo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-10",
+        "event": "2019-05-10"
+      },
+      {
+        "date": "2019-05-15",
+        "event": "15 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.946Z"
+}

@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00027395",
+    "filename": "EFTA00027395.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027395.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" .(1 \nTo: '  \n)11  \nSubject: RE: Checking in on Epstein FOIA Review \nDate: Wed, 28 Apr 2021 20:49:23 +0000 \nHi \nThank you for the update! I think we're going to try for a 2-day extension, but because we're a little behind and there is no \nguarantee PAE will grant the extension, we are still going to need the review completed today. \nThank you again! \nFrom: \nSent: Wednesday, April 28, 2021 2:05 PM \nTo: (USANYS) \nSubject: RE: Checking in on Epstein FOIA Review \nHi \nI will do my absolute best to get these reviewed today, but you may not get them until very late tonight. If it is possible to \nask for an extension (you can blame me!), then that would probably make sense. \nThanks, \nFrom: (USANYS) < \nSent: Wednesday, April 28, 2021 12:21 PM \nTo: \nSubject: RE: Checking in on Epstein FOIA Review \nHi \nSorry again to bug on this but, in part because of a few other developments in the case, I think BOP might have real \ntrouble meeting the Friday deadline if we don't get the rest of the Tartoglione redactions to them today. I want to make \nsure we're still on track for that. If not, then I think we could try to get some small extension into next week for some \nportion of the documents, although I think this would annoy PAE. Unfortunately, under his rules, we'd have to make that \nextension request today (and I'd need to get the Times's position on it). I can make that happen if we need to, but I need \nto know soon if it's necessary. Please let me know if we're on track to have the Tartaglione review for the second half of \nthe dots complete today, or if we need to consider other options. \nAlso, if there is any portion finished and it can be easily sent my way, please do that so I can get BOP started on it. \nThanks! \nFrom: (USANYS) \nSent: Tuesday, April 27, 2021 6:24 PM \nTo: \nSubject: RE: Checking in on Epstein FOIA Review \nEFTA00027395\n\nOk, thanks, \nFrom: \nSent: Tuesday, April 27, 2021 5:55 PM \nTo: (USANYS) \nSubject: RE: Checking in on Epstein FOIA Review \n< \nHey \nVery sorry, I've been swamped and haven't even gotten to start yet. Will do my best to make a dent tonight and get this \nfinished for you by EOD tomorrow. \nThanks, \nFrom: (USANYS) \nSent: Tuesday, April 27, 2021 3:36 PM \nTo: \nSubject: Checking in on Epstein FOIA Review \n< \nHi \nSorry to bug you on this, but for planning purposes I wanted to check in on the Tartaglione review of the second half of \nthe Epstein FOIA documents. Can you share any sense of when your review will be complete? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00027396",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Review \nDate",
+        "role": "extracted",
+        "context": ": Checking in on Epstein FOIA Review \nDate: Wed, 28 Apr 2021 20:49:23 +0"
+      },
+      {
+        "name": "Hi \nThank",
+        "role": "extracted",
+        "context": ", 28 Apr 2021 20:49:23 +0000 \nHi \nThank you for the update! I think w"
+      },
+      {
+        "name": "Review \nHi",
+        "role": "extracted",
+        "context": ": Checking in on Epstein FOIA Review \nHi \nI will do my absolute best t"
+      },
+      {
+        "name": "Hey \nVery",
+        "role": "extracted",
+        "context": "in on Epstein FOIA Review \n< \nHey \nVery sorry, I've been swamped and"
+      },
+      {
+        "name": "Hi \nSorry",
+        "role": "extracted",
+        "context": "in on Epstein FOIA Review \n< \nHi \nSorry to bug you on this, but for p"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "w will be complete? \nThanks, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00027396"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-04-28",
+        "event": "April 28, 2021"
+      },
+      {
+        "date": "2021-04-27",
+        "event": "April 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.182Z"
+}

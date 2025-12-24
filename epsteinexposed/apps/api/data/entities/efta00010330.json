@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00010330",
+    "filename": "EFTA00010330.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010330.pdf",
+    "text": "\n\nFrom: \"etravelservicesC cwtsat travel.com\" <etravelservices cwtsatotravel.c m> \nTo: \nSubject: Final Voucher 10892303-1(1) approved by \napproval \nDate: Tue, 31 Dec 2019 14:30:28 +0000 \nImportance: Normal \nnow awaiting further \nDea \nFinal voucher 10892303-1(1) has been approved b \nTrip ID: 10892303-1 \nVoucher ID: 1 \nVoucher type: \nTraveler name \nPurpose: R20NYS13197 - U.S. v. Epstein - Witness Interview (California) \nDestination: Santa Monica, CA, United States \nDates: 2019-12-15 - 2019-12-18 \nCurrent status: Pending Voucher Approval \nVoucher total expenses: 2227.40 \nEstimated trip cost: 2440.58 \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nnow awaiting further approval. \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from \nus. \nReference ID# V0010 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00010330",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Final Voucher",
+        "role": "extracted",
+        "context": "atotravel.c m> \nTo: \nSubject: Final Voucher 10892303-1(1) approved by \nap"
+      },
+      {
+        "name": "Dea \nFinal",
+        "role": "extracted",
+        "context": "Normal \nnow awaiting further \nDea \nFinal voucher 10892303-1(1) has bee"
+      },
+      {
+        "name": "Witness Interview",
+        "role": "extracted",
+        "context": "0NYS13197 - U.S. v. Epstein - Witness Interview (California) \nDestination: Sa"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "ew (California) \nDestination: Santa Monica, CA, United States \nDates: 20"
+      },
+      {
+        "name": "Pending Voucher",
+        "role": "extracted",
+        "context": "- 2019-12-18 \nCurrent status: Pending Voucher Approval \nVoucher total expen"
+      },
+      {
+        "name": "Approval \nVoucher",
+        "role": "extracted",
+        "context": "rrent status: Pending Voucher Approval \nVoucher total expenses: 2227.40 \nEsti"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "imated trip cost: 2440.58 \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "cost: 2440.58 \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Santa Monica, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-15",
+        "event": "2019-12-15"
+      },
+      {
+        "date": "2019-12-18",
+        "event": "2019-12-18"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.746Z"
+}

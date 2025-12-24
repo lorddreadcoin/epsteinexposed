@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031306",
+    "filename": "EFTA00031306.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031306.pdf",
+    "text": "\n\nFrom \nTo \nSubject: n e: ranJury u poena_ -mc-\nDate: Wed, 15 Jul 2020 13:08:41 +0000 \nAttachments: 19mc00179_20.7.14_-_Order.pdf \nPlease see the attached PDF for an Order that was filed under seal today in \n19-mc-179. \nThank you, \nCourtroom Deputy to the Hon. Sarah Netburn \nUnited States District Court \nSouthern District of New York \nEFTA00031306",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: n e: ranJury u poen"
+      },
+      {
+        "name": "Courtroom Deputy",
+        "role": "extracted",
+        "context": "y in \n19-mc-179. \nThank you, \nCourtroom Deputy to the Hon. Sarah Netburn \nUn"
+      },
+      {
+        "name": "Sarah Netburn",
+        "role": "extracted",
+        "context": "Courtroom Deputy to the Hon. Sarah Netburn \nUnited States District Court"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "Sarah Netburn \nUnited States District Court \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "United States District Court \nSouthern District of New York \nEFTA00031306"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.782Z"
+}

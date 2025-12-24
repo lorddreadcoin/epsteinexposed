@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030271",
+    "filename": "EFTA00030271.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030271.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n r   \n(NY) (FBI)\" <1 \nSubject: Phone/flight records \nDate: Tue, 11 Jun 2019 16:05:34 +0000 \nImportance: Normal \nFor = here's what I saw: \n9/16/2004 1:49:00 PM Call 0:02:00 \n9/16/2004 2:08:00 PM Call 0:01:00 \n9/16/2004 6:45:00 PM \nCall \n0:01:00 \n9/16/2004 10:16:00 PM \nEpstein's Flight \narrives at PBIA \n(Boeing 727) \nJeffrey \nEpstein. \nf you could take a look at =, that would be great. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030271",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nFor",
+        "role": "extracted",
+        "context": "9 16:05:34 +0000 \nImportance: Normal \nFor = here's what I saw: \n9/16/20"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "rrives at PBIA \n(Boeing 727) \nJeffrey \nEpstein. \nf you could take a look at"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hat would be great. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030271"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2004-09-16",
+        "event": "9/16/2004"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.441Z"
+}

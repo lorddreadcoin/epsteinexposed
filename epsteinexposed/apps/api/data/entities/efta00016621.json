@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00016621",
+    "filename": "EFTA00016621.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016621.pdf",
+    "text": "\n\nFrom: \nTo: Nathan NYSD Chambers\nCc: \nSubject: US v. Maxwell, 20 CR 330 (AJN) - Proposed Redactions \nDate: Wed, 24 Nov 2021 00:13:20 +0000 \nAttachments: \nEx._liproposed_redactions].pdf \nChambers, \nAttached please find the Government's proposed redactions as reference in Dkt. No. 498. \nRespectfully submitted, \nEFTA00016621",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers\nCc",
+        "role": "extracted",
+        "context": "From: \nTo: Nathan NYSD Chambers\nCc: \nSubject: US v. Maxwell, 20"
+      },
+      {
+        "name": "Proposed Redactions",
+        "role": "extracted",
+        "context": "v. Maxwell, 20 CR 330 (AJN) - Proposed Redactions \nDate: Wed, 24 Nov 2021 00:13"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.103Z"
+}

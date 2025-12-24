@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00019069",
+    "filename": "EFTA00019069.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019069.pdf",
+    "text": "\n\nFrom: \n\"Martin G. Weinberg\" \nTo: \nReid \nWeingai \nten - , \"'Miller, Michael\"' \nCc: \"'Martin G. Weinberg\"' <MINIM> \nSubject: US v Epstein \nDate: Mon, 12 Aug 2019 12:54:55 +0000 \nin first if the emails regarding Mr. Epstein's death and our preservation/production requests on behalf of his family \nshould be sent to another prosecutor (Mike Miller had the name of but not the full name) please advise. We would \nask you to confirm the request sent to you yesterday has been forwarded. We also request that DNA be lifted from the \nligatures and/or bed stripping found in Mr Epstein's MCC cell on August 10, 2019. \nSeparately, since the attorney client privilege survives death, we are still requesting a taint review in the event any review \nat all of his emails from the seizures at Teterboro on Aug 6 or from his NYC residence are to be undertaken. If you provide \nme with the name of the taint attorney when selected, I will provide a list of attorneys. \nLastly, is it the Government's intention to move to dismiss the Indictment against Mr. Epstein and if so will that occur \ntoday? \nThanks, Marty \nMartin G. Weinberg, Esq. \n20 Park Plaza \nSuite 1000 \nBoston, MA 02116 \n- Office \n- Cell \n This Electronic Message contains information from the Law Office of Martin G. \nWeinberg, P.C., and may be privileged. The information is intended for the use of the addressee only. If you are not the \naddressee, please note that any disclosure, copying, distribution, or use of the contents of this message is prohibited. \nEFTA00019069",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "first if the emails regarding Mr. Epstein's death and our preservat"
+      },
+      {
+        "name": "Reid \nWeingai",
+        "role": "extracted",
+        "context": ": \n\"Martin G. Weinberg\" \nTo: \nReid \nWeingai \nten - , \"'Miller, Michael\"'"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "berg\"' <MINIM> \nSubject: US v Epstein \nDate: Mon, 12 Aug 2019 12:54:55 +0"
+      },
+      {
+        "name": "Mike Miller",
+        "role": "extracted",
+        "context": "e sent to another prosecutor (Mike Miller had the name of but not the f"
+      },
+      {
+        "name": "Mr Epstein",
+        "role": "extracted",
+        "context": "and/or bed stripping found in Mr Epstein's MCC cell on August 10, 2019"
+      },
+      {
+        "name": "Marty \nMartin",
+        "role": "extracted",
+        "context": "l that occur \ntoday? \nThanks, Marty \nMartin G. Weinberg, Esq. \n20 Park Pl"
+      },
+      {
+        "name": "Park Plaza",
+        "role": "extracted",
+        "context": "Martin G. Weinberg, Esq. \n20 Park Plaza \nSuite 1000 \nBoston, MA 02116"
+      },
+      {
+        "name": "Cell \n This",
+        "role": "extracted",
+        "context": "Boston, MA 02116 \n- Office \n- Cell \n This Electronic Message contains i"
+      },
+      {
+        "name": "Electronic Message",
+        "role": "extracted",
+        "context": "2116 \n- Office \n- Cell \n This Electronic Message contains information from the"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "contains information from the Law Office of Martin G. \nWeinberg, P.C.,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Teterboro",
+        "type": "location"
+      },
+      {
+        "name": "Boston, MA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.232Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019337",
+    "filename": "EFTA00019337.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019337.pdf",
+    "text": "\n\nFrom: (USANYS)\" \n<a> \nTo: (USANYS)\" \n<a> \nSubject: EMS AUDIO: Reveals Jeffrey Epstein DEAD FOR HOURS While on Suicide Watch \nDate: Sun, 11 Aug 2019 04:55:58 +0000 \nhttps://thedcpatriot.cotniems-audio-reveals-jeffrey-epstein-dead-for-hours-while-on-suicide-watch/ \nEFTA00019337",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "To: (USANYS)\" \n<a> \nSubject: EMS AUDIO: Reveals Jeffrey Epstein DEAD FOR HOURS While on Suicide Watch \nDate: Sun,"
+      },
+      {
+        "name": "Reveals Jeffrey",
+        "role": "extracted",
+        "context": "S)\" \n<a> \nSubject: EMS AUDIO: Reveals Jeffrey Epstein DEAD FOR HOURS While"
+      },
+      {
+        "name": "Suicide Watch",
+        "role": "extracted",
+        "context": "stein DEAD FOR HOURS While on Suicide Watch \nDate: Sun, 11 Aug 2019 04:55"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.708Z"
+}

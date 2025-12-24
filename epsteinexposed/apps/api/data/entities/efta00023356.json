@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00023356",
+    "filename": "EFTA00023356.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023356.pdf",
+    "text": "\n\nFrom: a\" <IMIIM>\nTo:ailYS)\" \"a, (USANYS)\" \nCc: 'nain.Als.i.>\nSubject: FW: 20cr330, US v. Maxwell \nDate: Fri, 19 Nov 2021 18:32:58 +0000 \nAttachments: 20cr330_Temp._Sealed_Mem._Op._&_Order_11.19.21.pdf \nSealed opinion on MV-3. \nFrom: Nathan NYSD Chambers <ME\n> \nSent: Friday, November 19, 2021 1:30 PM \nTo: Jeff Pagliuca <M>, \nbcsternheim_mac.com \nLaura Menninger <=.>; \n) \n'c\ne; \n(USANYS) \n<M\n>; \nSubject: 20cr330, US v. Maxwell \nCounsel: \nPer this Court's Order at Dkt. No. 477, please see the attached Memorandum Opinion & Order. \nPlease confirm receipt. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00023356",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": ">\nSubject: FW: 20cr330, US v. Maxwell \nDate: Fri, 19 Nov 2021 18:32:58 +0"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "ovember 19, 2021 1:30 PM \nTo: Jeff Pagliuca <M>, \nbcsternheim_mac.com \nLa"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "ca <M>, \nbcsternheim_mac.com \nLaura Menninger <=.>; \n) \n'c\ne; \n(USANYS) \n<M"
+      },
+      {
+        "name": "Maxwell \nCounsel",
+        "role": "extracted",
+        "context": "M\n>; \nSubject: 20cr330, US v. Maxwell \nCounsel: \nPer this Court's Order at D"
+      },
+      {
+        "name": "Memorandum Opinion",
+        "role": "extracted",
+        "context": "477, please see the attached Memorandum Opinion & Order. \nPlease confirm rece"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-19",
+        "event": "November 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.790Z"
+}

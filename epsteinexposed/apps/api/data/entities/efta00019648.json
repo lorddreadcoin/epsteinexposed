@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019648",
+    "filename": "EFTA00019648.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019648.pdf",
+    "text": "\n\nFrom: \n\"Margolin, \nJames \n(USANYS) [Contractorl\" <=1=IMIIIM \nTo: \nSubject: Opinion I  Julie Brown's Fight to Expose Epstein's Crimes - and Earn a  Living - The New York \nTimes \nDate: Sun, 18 Jul 2021 12:00:50 +0000 \nhttps://www.nytimes.corn/2021/07/17/opinion/julie-brown-epstein-book.html \nJames Margolin \nChief Public Information Officer \nU.S. \nAttorney's Office SDNY \n(office) \n(cell) \nEFTA00019648",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Julie Brown",
+        "role": "extracted",
+        "context": "IIM \nTo: \nSubject: Opinion I  Julie Brown's Fight to Expose Epstein's C"
+      },
+      {
+        "name": "Expose Epstein",
+        "role": "extracted",
+        "context": "ion I  Julie Brown's Fight to Expose Epstein's Crimes - and Earn a  Living"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "Crimes - and Earn a  Living - The New York \nTimes \nDate: Sun, 18 Ju"
+      },
+      {
+        "name": "York \nTimes",
+        "role": "extracted",
+        "context": "and Earn a  Living - The New York \nTimes \nDate: Sun, 18 Jul 2021 12:00"
+      },
+      {
+        "name": "James Margolin",
+        "role": "extracted",
+        "context": "ulie-brown-epstein-book.html \nJames Margolin \nChief Public Information Off"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "in-book.html \nJames Margolin \nChief Public Information Officer \nU.S. \nAt"
+      },
+      {
+        "name": "Information Officer",
+        "role": "extracted",
+        "context": "James Margolin \nChief Public Information Officer \nU.S. \nAttorney's Office SDNY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.313Z"
+}

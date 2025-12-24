@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032802",
+    "filename": "EFTA00032802.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032802.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: TC with Reid Weingarten re Epstein \nDate: The, 19 Nov 2019 20:11:09 +0000 \nImportance: Normal \nAttachments: unnamed \nReid wants to have a call with and I regarding the indictment and ask questions. I had to get off the phone to join \nanother call but my plan will be to say we can't say much. FYI to Epstein team. \nEFTA00032802",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: TC with Reid Weingarten re Epstein \nDate: The, 19 Nov"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "t: TC with Reid Weingarten re Epstein \nDate: The, 19 Nov 2019 20:11:09 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 20:11:09 +0000 \nImportance: Normal \nAttachments: unnamed \nReid wants to have"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.524Z"
+}

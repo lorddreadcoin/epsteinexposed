@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00019413",
+    "filename": "EFTA00019413.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019413.pdf",
+    "text": "\n\nFrom: ' \nTo:\n,\n \" ' \" \nSubject: FW: Ghislaine Maxwell Siblings \nDate: Wed, 01 Jul 2020 19:27:29 +0000 \nGood afternoon, \nBelow is information regarding Maxwell's siblings. \nFrom: \nSent: Wednesday, July 01, 2020 2:55 PM \nTo: Young, Amanda N. (NY) (FBI); \nSubject: Ghislaine Maxwell Siblings \n1. Christine Maxwell \n• \n2. Isabel Maxwell \n•\n ~\n3. Karine Maxwell \n•  DOB: 1947 \n•  Deceased \n4. Ann (Anne) Maxwell (Anne Holve) \n• \n•  Married Lawrence Holve \n•  No identified residence in US \n• \n5. ***Kevin Maxwell \n• \n•  No identified residence in US \n• \n6. Michael Maxwell \n•  DOB: 1946 \n•  Deceased \n7. Ian Maxwell \n•  DOB: -\n•  No identified residence in US \n• \n8. Philip Maxwell \n•  DOB: -\n•  No travel history \n•  No identified residence in US \nLet me know if you need anything else! \nEFTA00019413",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: ' \nTo:\n,\n \" ' \" \nSubject: FW: Ghislaine Maxwell Siblings \nDate: Wed, 01 Jul 2020 19:27:29 +0000"
+      },
+      {
+        "name": "Siblings \nDate",
+        "role": "extracted",
+        "context": "ubject: FW: Ghislaine Maxwell Siblings \nDate: Wed, 01 Jul 2020 19:27:29 +0"
+      },
+      {
+        "name": "Christine Maxwell",
+        "role": "extracted",
+        "context": "hislaine Maxwell Siblings \n1. Christine Maxwell \n• \n2. Isabel Maxwell \n•\n ~\n3"
+      },
+      {
+        "name": "Isabel Maxwell",
+        "role": "extracted",
+        "context": "1. Christine Maxwell \n• \n2. Isabel Maxwell \n•\n ~\n3. Karine Maxwell \n•  D"
+      },
+      {
+        "name": "Karine Maxwell",
+        "role": "extracted",
+        "context": "• \n2. Isabel Maxwell \n•\n ~\n3. Karine Maxwell \n•  DOB: 1947 \n•  Deceased \n4"
+      },
+      {
+        "name": "Anne Holve",
+        "role": "extracted",
+        "context": "eased \n4. Ann (Anne) Maxwell (Anne Holve) \n• \n•  Married Lawrence Holv"
+      },
+      {
+        "name": "Married Lawrence",
+        "role": "extracted",
+        "context": ") Maxwell (Anne Holve) \n• \n•  Married Lawrence Holve \n•  No identified resid"
+      },
+      {
+        "name": "Kevin Maxwell",
+        "role": "extracted",
+        "context": "ied residence in US \n• \n5. ***Kevin Maxwell \n• \n•  No identified residenc"
+      },
+      {
+        "name": "Michael Maxwell",
+        "role": "extracted",
+        "context": "tified residence in US \n• \n6. Michael Maxwell \n•  DOB: 1946 \n•  Deceased \n7"
+      },
+      {
+        "name": "Ian Maxwell",
+        "role": "extracted",
+        "context": "•  DOB: 1946 \n•  Deceased \n7. Ian Maxwell \n•  DOB: -\n•  No identified r"
+      },
+      {
+        "name": "Philip Maxwell",
+        "role": "extracted",
+        "context": "tified residence in US \n• \n8. Philip Maxwell \n•  DOB: -\n•  No travel histo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-01",
+        "event": "July 01, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.838Z"
+}

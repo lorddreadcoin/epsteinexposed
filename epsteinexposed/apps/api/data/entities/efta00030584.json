@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030584",
+    "filename": "EFTA00030584.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030584.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\" czi \nTo: ' )' SANYS)\" \nCc: (USANYS)\"  \nSubject: FW: Maxwell \nDate: Fri, 09 Oct 2020 \n15:16:35 +0000 \nTeam- both and followed up on the review of images from the Epstein devices and FRI assured us that they will \nget it done. Please keep us posted and let us know if there is anything else we can do to assist. Thanks! \nFrom: (USANYS)\nSent: Friday, October 9, 2020 11:10 AM \nTo: (USANYS) \nCc: (USANYS) \nSubject: \nMaxwell \nsays she'll get right on the CART issue and make sure it gets done. Let me know what happens. \nChief, Criminal Division \nUnited States \nAttorn■ \nEFTA00030584",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Cc: (USANYS)\"  \nSubject: FW: Maxwell \nDate: Fri, 09 Oct 2020 \n15:16:35 +"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "me know what happens. \nChief, Criminal Division \nUnited States \nAttorn■ \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-09",
+        "event": "October 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.206Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030586",
+    "filename": "EFTA00030586.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030586.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: Tue, 10 May 2016 21:56:31 +0000 \nHi \nI'm going through discovery on a case and part of that is a picture of me with Prince Andrew, do you recall seeing the date on the back \nand was it recorded. Did I receive the original back or was it kept as evidence? I know it's been a long time but anything helps. \nI  hope you've been well!! Still fighting the good fight!! \nSent from my iPhone \nEFTA00030586",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "n a case and part of that is a picture of me with Prince Andrew, do you recall seeing the date on the back \nand w"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2016-05-10",
+        "event": "10 May 2016"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.211Z"
+}

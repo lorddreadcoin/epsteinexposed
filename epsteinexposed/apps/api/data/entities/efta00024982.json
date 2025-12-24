@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024982",
+    "filename": "EFTA00024982.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024982.pdf",
+    "text": "\n\nFrom: \nSubject: 20cr330, US v. \nMaxwell \nDate: Mon, 22 Nov 2021 23:20:48 +0000 \nAttachments: 20cr330 Bottomline \nOrde \n11.22.21.pdf; \n20cr33 em Seal. \nMem. Op._&_Order 11.22.21.pdf; \n20cr33 \ntemp.:Seal. \nrvIem._Op._&_Order_11.22.21.pdf \nCounsel: \nAttached please find an Order and two temporarily sealed Memorandum Opinions & Orders issued by Judge \nNathan. The Order will be docketed \ntomorrow morning. \nPlease confirm receipt. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00024982",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "om: \nSubject: 20cr330, US v. \nMaxwell \nDate: Mon, 22 Nov 2021 23:20:48 +0"
+      },
+      {
+        "name": "Bottomline \nOrde",
+        "role": "extracted",
+        "context": "8 +0000 \nAttachments: 20cr330 Bottomline \nOrde \n11.22.21.pdf; \n20cr33 em Sea"
+      },
+      {
+        "name": "Memorandum Opinions",
+        "role": "extracted",
+        "context": "er and two temporarily sealed Memorandum Opinions & Orders issued by Judge \nNat"
+      },
+      {
+        "name": "Judge \nNathan",
+        "role": "extracted",
+        "context": "m Opinions & Orders issued by Judge \nNathan. The Order will be docketed"
+      },
+      {
+        "name": "The Order",
+        "role": "extracted",
+        "context": "ders issued by Judge \nNathan. The Order will be docketed \ntomorrow mo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.225Z"
+}

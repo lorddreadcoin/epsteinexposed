@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00031301",
+    "filename": "EFTA00031301.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031301.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: US v. Epstein \nDate: Tue, 14 Jul 2020 17:41:11 +0000 \n\" \nHello= \nI should be ready to send the hard drive to the vendor by tomorrow. Please let me know how you would like to proceed \nwith the data (sending the data out or holding off for now)? \nThank you. \nEFTA00031301",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: US v. Epstein \nDate: Tue, 14 Jul 2020 17:41:11 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.771Z"
+}

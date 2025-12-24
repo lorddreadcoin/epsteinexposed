@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00028201",
+    "filename": "EFTA00028201.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028201.pdf",
+    "text": "\n\nFrom: ' \n)\"  \nTo: ' (USANYS) [Contractor]\"  \nSubject: Re: Question re Epstein Relativity Database \nDate: Wed, 17 Feb 2021 14:29:46 +0000 \nThank you! \nOn Feb 17, 2021, at 9:28 AM, (USANYS) [Contractor] < > wrote: \nI added the field to the view and you should see it when you log into the database. \nFrom: \nSent: Wednesday, February 17, 2021 9:23 AM \nTo: (USANYS) [Contractor] \n<\nSubject: Re: Question re Epstein Relativity Database \nThanks =. How can I get the filepath field to show up when I look in the database? \nOn Feb 17, 2021, at 9:19 AM, (USANYS) [Contractor] a> wrote: \nHello \nPlease make sure to use the file path field which will contain the NYC number. Please see screenshot below: \n<irnage001.png> \nThank you. \nFrom: \nSent: Tuesday, February 16, 2021 6:06 PM \nTo: (USANYS) [Contractor] \n<\nSubject: Question re Epstein Relativity Database \nIn the \"US v. Epstein (SW Returns)\" I'm trying to see the NYC serial number reflecting which device a particular \ndocument came from. In the past, you helped me add a column in Relativity to show the NYC serial number for each \ndocument. Would you be able to help me with that again, please? \nThanks, \nEFTA00028201\n\nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028202",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Relativity",
+        "role": "extracted",
+        "context": "]\"  \nSubject: Re: Question re Epstein Relativity Database \nDate: Wed, 17 Feb 2"
+      },
+      {
+        "name": "Database \nDate",
+        "role": "extracted",
+        "context": "uestion re Epstein Relativity Database \nDate: Wed, 17 Feb 2021 14:29:46 +0"
+      },
+      {
+        "name": "On Feb",
+        "role": "extracted",
+        "context": "1 14:29:46 +0000 \nThank you! \nOn Feb 17, 2021, at 9:28 AM, (USANYS"
+      },
+      {
+        "name": "Database \nThanks",
+        "role": "extracted",
+        "context": "uestion re Epstein Relativity Database \nThanks =. How can I get the filepath"
+      },
+      {
+        "name": "Hello \nPlease",
+        "role": "extracted",
+        "context": "ANYS) [Contractor] a> wrote: \nHello \nPlease make sure to use the file pat"
+      },
+      {
+        "name": "Database \nIn",
+        "role": "extracted",
+        "context": "uestion re Epstein Relativity Database \nIn the \"US v. Epstein (SW Return"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ease? \nThanks, \nEFTA00028201\n\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "FTA00028201\n\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028202"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-02-17",
+        "event": "February 17, 2021"
+      },
+      {
+        "date": "2021-02-16",
+        "event": "February 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.819Z"
+}

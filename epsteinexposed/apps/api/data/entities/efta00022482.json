@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00022482",
+    "filename": "EFTA00022482.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022482.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: \"ME \n(ODAG)\"  \nSubject: Re: DAG \nMemos \nDate: Fri, 24 May 2019 02:36:47 +0000 \nImportance: Normal \nGreat. Many thanks. \nSent from my iPhone \nOn May 23, 2019, at 9:17 PM, \n(ODAG) < \n> wrote: \nThank you, and have conveyed \nthe memos. \nOn May 23, 2019, at 11:10AM, (USANYS) < wrote: \nHere are the two memos for your briefing with Ed of the DAG, one from Geoff and the other from me on the recusal \nmatters. \nAfter you and I spoke, we realized that we should add Epstein and we have done so. \nAs always, please feel free to call with any comments or questions. \n<SDNY Memo \nto DAG.GSB.cases.5.23.19.final.pdf> \n<SDNY Memo \nto DAG - GSB Recused.5.23.19.Finaldocx.pdf> \nEFTA00022482",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Memos \nDate",
+        "role": "extracted",
+        "context": "(ODAG)\"  \nSubject: Re: DAG \nMemos \nDate: Fri, 24 May 2019 02:36:47 +0"
+      },
+      {
+        "name": "Normal \nGreat",
+        "role": "extracted",
+        "context": "9 02:36:47 +0000 \nImportance: Normal \nGreat. Many thanks. \nSent from my i"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": ". Many thanks. \nSent from my iPhone \nOn May 23, 2019, at 9:17 PM, \n(O"
+      },
+      {
+        "name": "On May",
+        "role": "extracted",
+        "context": "nd have conveyed \nthe memos. \nOn May 23, 2019, at 11:10AM, (USANYS"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-23",
+        "event": "May 23, 2019"
+      },
+      {
+        "date": "2019-05-24",
+        "event": "24 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.940Z"
+}

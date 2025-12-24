@@ -1,0 +1,180 @@
+{
+  "document": {
+    "id": "efta00030345",
+    "filename": "EFTA00030345.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030345.pdf",
+    "text": "\n\n06/30/202013:26 \nEDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGenerated B \nPage 1 \nof 1 \nlliMMENOMMIIM \nDetail \nLast Name First Name Middle Initial Gender Date et Binh \nMAXWELL GHISLAINE NOELLE F \nDocument Number \nIDocurnentTwe \nDocument Country amsdAdmisMen Admit \nUnli \nDate \nPASSPORT FRANCE \nl'IMM \nEncounter Person Detail \nEneetmeerLineType ErimmtsDaM Encounter Time \nltnternl \nTerminal Lane ISmEmmmerLmmmn \nADVANCED PASSENGER \nRECORD \n01/19/2010 00:00 \nInbaundeutbeund \nIntlIOW \nPnxessing Result Primary Query Result Referred Te Apency \nOUTBOUND No Name No Name / \n178201 \n3 NOT REFERRED \nManilest Indicator \nPaseenga \nSWus FlROW..M Number Departure \nLocation \nR PASSENGER N17ND KSA - KOSRAE, CAROLINE \nISAARPT P. OCEAN \nTransmitted By Carrier Cede Attie& Leader, \nIAPGA9786 \n\"GA XXX - UNKNOWN AIRPORT (USED ONLY WHEN \nTHE AIRPORT CODE IS UNKNOWN) \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00030345",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border \nProtection",
+        "role": "extracted",
+        "context": "013:26 \nEDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGen"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "artment of Homeland Security \nPerson Encounter Detail \nGenerated B \nPage 1"
+      },
+      {
+        "name": "Detail \nGenerated",
+        "role": "extracted",
+        "context": "nd Security \nPerson Encounter Detail \nGenerated B \nPage 1 \nof 1 \nlliMMENOMMII"
+      },
+      {
+        "name": "Detail \nLast",
+        "role": "extracted",
+        "context": "Page 1 \nof 1 \nlliMMENOMMIIM \nDetail \nLast Name First Name Middle Initia"
+      },
+      {
+        "name": "Name First",
+        "role": "extracted",
+        "context": "lliMMENOMMIIM \nDetail \nLast Name First Name Middle Initial Gender Da"
+      },
+      {
+        "name": "Name Middle",
+        "role": "extracted",
+        "context": "MIIM \nDetail \nLast Name First Name Middle Initial Gender Date et Binh"
+      },
+      {
+        "name": "Initial Gender",
+        "role": "extracted",
+        "context": "Last Name First Name Middle Initial Gender Date et Binh \nMAXWELL GHISLAI"
+      },
+      {
+        "name": "Document Number",
+        "role": "extracted",
+        "context": "MAXWELL GHISLAINE NOELLE F \nDocument Number \nIDocurnentTwe \nDocument Coun"
+      },
+      {
+        "name": "Twe \nDocument",
+        "role": "extracted",
+        "context": "F \nDocument Number \nIDocurnentTwe \nDocument Country amsdAdmisMen Admit \nU"
+      },
+      {
+        "name": "Men Admit",
+        "role": "extracted",
+        "context": "we \nDocument Country amsdAdmisMen Admit \nUnli \nDate \nPASSPORT FRANCE"
+      },
+      {
+        "name": "Unli \nDate",
+        "role": "extracted",
+        "context": "t Country amsdAdmisMen Admit \nUnli \nDate \nPASSPORT FRANCE \nl'IMM \nEnco"
+      },
+      {
+        "name": "Encounter Person",
+        "role": "extracted",
+        "context": "Date \nPASSPORT FRANCE \nl'IMM \nEncounter Person Detail \nEneetmeerLineType Eri"
+      },
+      {
+        "name": "Detail \nEneetmeer",
+        "role": "extracted",
+        "context": "ANCE \nl'IMM \nEncounter Person Detail \nEneetmeerLineType ErimmtsDaM Encounter"
+      },
+      {
+        "name": "Type Erimmts",
+        "role": "extracted",
+        "context": "r Person Detail \nEneetmeerLineType ErimmtsDaM Encounter Time \nltnternl"
+      },
+      {
+        "name": "Encounter Time",
+        "role": "extracted",
+        "context": "EneetmeerLineType ErimmtsDaM Encounter Time \nltnternl \nTerminal Lane ISmE"
+      },
+      {
+        "name": "Terminal Lane",
+        "role": "extracted",
+        "context": "DaM Encounter Time \nltnternl \nTerminal Lane ISmEmmmerLmmmn \nADVANCED PASS"
+      },
+      {
+        "name": "Inbaundeutbeund \nIntl",
+        "role": "extracted",
+        "context": "ER \nRECORD \n01/19/2010 00:00 \nInbaundeutbeund \nIntlIOW \nPnxessing Result Primary"
+      },
+      {
+        "name": "Pnxessing Result",
+        "role": "extracted",
+        "context": "00 \nInbaundeutbeund \nIntlIOW \nPnxessing Result Primary Query Result Referred"
+      },
+      {
+        "name": "Primary Query",
+        "role": "extracted",
+        "context": "nd \nIntlIOW \nPnxessing Result Primary Query Result Referred Te Apency \nOU"
+      },
+      {
+        "name": "Result Referred",
+        "role": "extracted",
+        "context": "nxessing Result Primary Query Result Referred Te Apency \nOUTBOUND No Name N"
+      },
+      {
+        "name": "Te Apency",
+        "role": "extracted",
+        "context": "Primary Query Result Referred Te Apency \nOUTBOUND No Name No Name /"
+      },
+      {
+        "name": "No Name",
+        "role": "extracted",
+        "context": "Referred Te Apency \nOUTBOUND No Name No Name / \n178201 \n3 NOT REFE"
+      },
+      {
+        "name": "Manilest Indicator",
+        "role": "extracted",
+        "context": "me / \n178201 \n3 NOT REFERRED \nManilest Indicator \nPaseenga \nSWus FlROW..M Numb"
+      },
+      {
+        "name": "Wus Fl",
+        "role": "extracted",
+        "context": "anilest Indicator \nPaseenga \nSWus FlROW..M Number Departure \nLocat"
+      },
+      {
+        "name": "Number Departure",
+        "role": "extracted",
+        "context": "ator \nPaseenga \nSWus FlROW..M Number Departure \nLocation \nR PASSENGER N17ND"
+      },
+      {
+        "name": "Transmitted By",
+        "role": "extracted",
+        "context": ", CAROLINE \nISAARPT P. OCEAN \nTransmitted By Carrier Cede Attie& Leader,"
+      },
+      {
+        "name": "Carrier Cede",
+        "role": "extracted",
+        "context": "ARPT P. OCEAN \nTransmitted By Carrier Cede Attie& Leader, \nIAPGA9786 \n\"G"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "THE AIRPORT CODE IS UNKNOWN) \nFor Official Use Only / Law \nEnforcement S"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "ODE IS UNKNOWN) \nFor Official Use Only / Law \nEnforcement Sensitive"
+      },
+      {
+        "name": "Law \nEnforcement",
+        "role": "extracted",
+        "context": "OWN) \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00030345"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2010-01-19",
+        "event": "01/19/2010"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.632Z"
+}

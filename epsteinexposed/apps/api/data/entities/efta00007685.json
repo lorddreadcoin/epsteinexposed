@@ -1,0 +1,125 @@
+{
+  "document": {
+    "id": "efta00007685",
+    "filename": "EFTA00007685.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007685.pdf",
+    "text": "\n\nMSN Home I  My MSN Hotmail \nI  Shopping \nI  Money I  People & \nChat 15/0nOlitesel Web \nSearch: I \nReply 1/4.O Reply \nAll \n!    \no \nForward &I Put in Fold°, \nPrint \nView LI \nSave Address \nTo : \nSubject \n! \nYour Order wail Ansazon.com \nSent : \nFrom: \namazon.com.\nmatch.com \nnvsn \n\"41 \nHotmail \nday? Click \nYour \nAccount to: \nThanks for \nyour order, \nWant \nto track \nyour order \nstatus? \nLearn \nhow with our \nanimated demo! \nDid you know you can \nview and edit your \norders online, 24 hours a \n• Access 'Where's fry Stuff\" \n• \nCombine orders \n• \nChange payment method \n• Cancel unsnipped items \n• Change \ngift messaging \n• Do \nmuch more.. \n• \nChange \nshooing address \nauteenntirm'Oamarnn corn eanto-erofirenroOrnaeon \ncoin \nMonday, March 21, \n2005 3:25 AM \nfind gm\ngieg in \n4::,u,13 area \nand you're \ndone \num CART I  WISH LIST I \nYOUR ACCOUN1)   I HELP \nToday Mail \nCalendar \nII I... \nCalendar I \ncontacts \nGIGI cid \nTrash Carta Inbox \na• \nCpbcns Help \nFree Newsletters \nSJO \nPurchasing Information: \nE-mail Address: \nBilling Address: \nohrslaine maxwell \nnew york, new \nyork 10022 \nnew york, fly 10021 \nUnited States United States \nOrder Grand Total: $29.94 \nEarn 3% rewards on your Amazon.corn purchases with the Amazon \nVisa Card. Leam More \nOrder Summary: \nShipping Details: (order will arrive in \n1 \nshipment) \nOrder #: \nShipping \nOne-Day Shipping \nMethod: \nShipping \nPreference: \nGroup \nmy items into as \nfew shipments \nas possible \nI \n012 \n3/24t20050:36 \nEFTA00007685",
+    "pageCount": 1,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Olitesel Web",
+        "role": "extracted",
+        "context": "Money I  People & \nChat 15/0nOlitesel Web \nSearch: I \nReply 1/4.O Reply"
+      },
+      {
+        "name": "Reply \nAll",
+        "role": "extracted",
+        "context": "l Web \nSearch: I \nReply 1/4.O Reply \nAll \n!    \no \nForward &I Put in F"
+      },
+      {
+        "name": "Print \nView",
+        "role": "extracted",
+        "context": "o \nForward &I Put in Fold°, \nPrint \nView LI \nSave Address \nTo : \nSubje"
+      },
+      {
+        "name": "Save Address",
+        "role": "extracted",
+        "context": "ut in Fold°, \nPrint \nView LI \nSave Address \nTo : \nSubject \n! \nYour Order"
+      },
+      {
+        "name": "Your Order",
+        "role": "extracted",
+        "context": "ve Address \nTo : \nSubject \n! \nYour Order wail Ansazon.com \nSent : \nFro"
+      },
+      {
+        "name": "Click \nYour",
+        "role": "extracted",
+        "context": "com \nnvsn \n\"41 \nHotmail \nday? Click \nYour \nAccount to: \nThanks for \nyou"
+      },
+      {
+        "name": "Today Mail",
+        "role": "extracted",
+        "context": "ST I \nYOUR ACCOUN1)   I HELP \nToday Mail \nCalendar \nII I... \nCalendar"
+      },
+      {
+        "name": "Trash Carta",
+        "role": "extracted",
+        "context": "lendar I \ncontacts \nGIGI cid \nTrash Carta Inbox \na• \nCpbcns Help \nFree"
+      },
+      {
+        "name": "Cpbcns Help",
+        "role": "extracted",
+        "context": "I cid \nTrash Carta Inbox \na• \nCpbcns Help \nFree Newsletters \nSJO \nPurch"
+      },
+      {
+        "name": "Free Newsletters",
+        "role": "extracted",
+        "context": "Carta Inbox \na• \nCpbcns Help \nFree Newsletters \nSJO \nPurchasing Information:"
+      },
+      {
+        "name": "Purchasing Information",
+        "role": "extracted",
+        "context": "Help \nFree Newsletters \nSJO \nPurchasing Information: \nE-mail Address: \nBilling Ad"
+      },
+      {
+        "name": "Billing Address",
+        "role": "extracted",
+        "context": "nformation: \nE-mail Address: \nBilling Address: \nohrslaine maxwell \nnew york"
+      },
+      {
+        "name": "Order Grand",
+        "role": "extracted",
+        "context": "United States United States \nOrder Grand Total: $29.94 \nEarn 3% reward"
+      },
+      {
+        "name": "Amazon \nVisa",
+        "role": "extracted",
+        "context": "mazon.corn purchases with the Amazon \nVisa Card. Leam More \nOrder Summar"
+      },
+      {
+        "name": "Leam More",
+        "role": "extracted",
+        "context": "s with the Amazon \nVisa Card. Leam More \nOrder Summary: \nShipping Det"
+      },
+      {
+        "name": "Order Summary",
+        "role": "extracted",
+        "context": "Amazon \nVisa Card. Leam More \nOrder Summary: \nShipping Details: (order wi"
+      },
+      {
+        "name": "Shipping Details",
+        "role": "extracted",
+        "context": "d. Leam More \nOrder Summary: \nShipping Details: (order will arrive in \n1 \nsh"
+      },
+      {
+        "name": "Shipping \nOne",
+        "role": "extracted",
+        "context": "e in \n1 \nshipment) \nOrder #: \nShipping \nOne-Day Shipping \nMethod: \nShippi"
+      },
+      {
+        "name": "Day Shipping",
+        "role": "extracted",
+        "context": "ent) \nOrder #: \nShipping \nOne-Day Shipping \nMethod: \nShipping \nPreferenc"
+      },
+      {
+        "name": "Shipping \nPreference",
+        "role": "extracted",
+        "context": "g \nOne-Day Shipping \nMethod: \nShipping \nPreference: \nGroup \nmy items into as \nfe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2005-03-21",
+        "event": "March 21, \n2005"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.192Z"
+}

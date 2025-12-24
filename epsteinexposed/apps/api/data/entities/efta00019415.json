@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019415",
+    "filename": "EFTA00019415.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019415.pdf",
+    "text": "\n\nFrom• \nTo• \nSubject: outline \nDate: Wed, 17 Nov 2021 15:19:00 +0000 \nAttachments: _outline.doeic \nHey \nHere's an outline for our conversation with today. Of course you're in jury selection —  it'd be great to get your \nthoughts before the call, but I think we can also just do it and talk after, or you can read as and I go through the \nintroductory stuff. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00019415",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nHere",
+        "role": "extracted",
+        "context": "Attachments: _outline.doeic \nHey \nHere's an outline for our conversa"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "introductory stuff. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "f. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.842Z"
+}

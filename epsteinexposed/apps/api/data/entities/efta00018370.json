@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00018370",
+    "filename": "EFTA00018370.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018370.pdf",
+    "text": "\n\nGail S. \nGoodman, Professor \nFederal Court \nTestimony \nUS \nAttorney: \nEMI, \nWashington \nDC and \nPortland, OR \nCase: US v. \nDaniel Stephen \nJohnson \nCase: \nUS v. \nYusef \nAbramov \nUS \nAttorney: \nCase: \nUS v. \nShane \nBritton \nPortland, \nOR \nUS \nAttorney: l\n=, New \nMexico \nCase: \nUS v. \nArthur \nPerrault \nUS \nAttorney: a\n, San \nFrancisco \nCase: \nUS v. \nKealon Dyer\n-Hogan \nUS \nAttorney: \nSan \nFrancisco \nCase: \nUS v. \nMichael \nLindsay \nEFTA00018370",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Professor \nFederal",
+        "role": "extracted",
+        "context": "Gail S. \nGoodman, Professor \nFederal Court \nTestimony \nUS \nAttorne"
+      },
+      {
+        "name": "Court \nTestimony",
+        "role": "extracted",
+        "context": "Goodman, Professor \nFederal Court \nTestimony \nUS \nAttorney: \nEMI, \nWashing"
+      },
+      {
+        "name": "Daniel Stephen",
+        "role": "extracted",
+        "context": "d \nPortland, OR \nCase: US v. \nDaniel Stephen \nJohnson \nCase: \nUS v. \nYusef"
+      },
+      {
+        "name": "Johnson \nCase",
+        "role": "extracted",
+        "context": "Case: US v. \nDaniel Stephen \nJohnson \nCase: \nUS v. \nYusef \nAbramov \nUS"
+      },
+      {
+        "name": "Yusef \nAbramov",
+        "role": "extracted",
+        "context": "ephen \nJohnson \nCase: \nUS v. \nYusef \nAbramov \nUS \nAttorney: \nCase: \nUS v."
+      },
+      {
+        "name": "Shane \nBritton",
+        "role": "extracted",
+        "context": "US \nAttorney: \nCase: \nUS v. \nShane \nBritton \nPortland, \nOR \nUS \nAttorney:"
+      },
+      {
+        "name": "New \nMexico",
+        "role": "extracted",
+        "context": "land, \nOR \nUS \nAttorney: l\n=, New \nMexico \nCase: \nUS v. \nArthur \nPerrau"
+      },
+      {
+        "name": "Arthur \nPerrault",
+        "role": "extracted",
+        "context": "=, New \nMexico \nCase: \nUS v. \nArthur \nPerrault \nUS \nAttorney: a\n, San \nFranc"
+      },
+      {
+        "name": "San \nFrancisco",
+        "role": "extracted",
+        "context": "Perrault \nUS \nAttorney: a\n, San \nFrancisco \nCase: \nUS v. \nKealon Dyer\n-H"
+      },
+      {
+        "name": "Kealon Dyer",
+        "role": "extracted",
+        "context": "San \nFrancisco \nCase: \nUS v. \nKealon Dyer\n-Hogan \nUS \nAttorney: \nSan \nF"
+      },
+      {
+        "name": "Michael \nLindsay",
+        "role": "extracted",
+        "context": "San \nFrancisco \nCase: \nUS v. \nMichael \nLindsay \nEFTA00018370"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Portland, OR",
+        "type": "city"
+      },
+      {
+        "name": "Britton \nPortland, OR",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.774Z"
+}

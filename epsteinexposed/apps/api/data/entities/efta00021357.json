@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00021357",
+    "filename": "EFTA00021357.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021357.pdf",
+    "text": "\n\nFrom: \"etravelservices®cvvtsatotravel.com\" <etravelservices®cwtsatotravel.com> \nTo: \nSubject: Travel Authorization 10808018 has received final approval \nDate: Fri, 08 Nov 2019 22:41:11 +0000 \nImportance: Normal \nDear \nTravel authorization 10808018 has received final approval. \nTrip ID: 10808018 \nTraveler name: \nMinor Customer \nname: OBD-USA-USANYS-NEW YORK SOUTHERN \n(UNYS) \n(JO2104) \nPurpose: R20NYS13180 - U.S. v. Epstein (2018R01618) - Witness Interviews \nDestination: \nDates: 2019-11 .11 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# T0006 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00021357",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Authorization",
+        "role": "extracted",
+        "context": "atotravel.com> \nTo: \nSubject: Travel Authorization 10808018 has received final a"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "9 22:41:11 +0000 \nImportance: Normal \nDear \nTravel authorization 1080801"
+      },
+      {
+        "name": "Minor Customer",
+        "role": "extracted",
+        "context": "ID: 10808018 \nTraveler name: \nMinor Customer \nname: OBD-USA-USANYS-NEW YOR"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": ".S. v. Epstein (2018R01618) - Witness Interviews \nDestination: \nDates: 2019-11"
+      },
+      {
+        "name": "Authorization Approved",
+        "role": "extracted",
+        "context": "2019-11 .11 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (wit"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "s: Authorization Approved \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "tion Approved \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.497Z"
+}

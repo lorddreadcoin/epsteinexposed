@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00009883",
+    "filename": "EFTA00009883.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009883.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein \nDate: Fri, 01 Mar \n2019 19:33:42 +0000 \nImportance: Normal \n■— Fo■ we spoke t \ncontact info is: \nDeputy Chief, Public Corruption \nUnit \nU.S. Attorney's Office for the \nSouthern District of New York \nhe National \nCoordinator for Child Exploitation and \nInterdiction, in ODAG. Her \nEFTA00009883",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein \nDate: Fri, 01 Mar \n2019 19:33:42 +"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "we spoke t \ncontact info is: \nDeputy Chief, Public Corruption \nUnit \nU.S"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "ntact info is: \nDeputy Chief, Public Corruption \nUnit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nhe National \nCoo"
+      },
+      {
+        "name": "National \nCoordinator",
+        "role": "extracted",
+        "context": "hern District of New York \nhe National \nCoordinator for Child Exploitation and \nI"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "he National \nCoordinator for Child Exploitation and \nInterdiction, in ODAG. H"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.841Z"
+}

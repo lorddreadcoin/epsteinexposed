@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013244",
+    "filename": "EFTA00013244.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013244.pdf",
+    "text": "\n\nFrom \nTo \nCc: \nBce: \nSubject: RE: case records scanning \nDate: Mon, 12 Oct 2020 16:51:14 +0000 \nEmbedded: RE: case records scanning.msg \nSender: \nSubject: \nRE: case records scanning \nMessage-Id: \n<CY1P110MB04880D606A267AC23F43F7E2ED070@CYIP 1 I 0MB0488.NAMP110.PROD.OUTLOOK.CO \nM> \nTo \nCc:\nCc: \nEFTA00013244",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc: \nBce: \nSubject: RE: case"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": ".NAMP110.PROD.OUTLOOK.CO \nM> \nTo \nCc:\nCc: \nEFTA00013244"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.160Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020958",
+    "filename": "EFTA00020958.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020958.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Little St James Island - Last Deed of Record \nDate: Wed, 07 Aug 2019 13:50:57 +0000 \nAttachments: 2011009441_Deed_12232011_Little_Stiames_LSJ_LLC_and_Nautilusinc.pdf \nAttached is Last Deed of Record for Little St James Island, dated 12/23/2011, from L.S.J. LLC to Nautilus Inc. \nThe sole beneficial owner and President of Nautilus Inc is Jeffrey E. Epstein. \n)\nSOSq ) Senior Financial Investigator (SF1) \n(o \n(c) \nEFTA00020958",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Little St",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Little St James Island - Last Deed of R"
+      },
+      {
+        "name": "James Island",
+        "role": "extracted",
+        "context": "rom: \nTo: \nSubject: Little St James Island - Last Deed of Record \nDate:"
+      },
+      {
+        "name": "Last Deed",
+        "role": "extracted",
+        "context": "ect: Little St James Island - Last Deed of Record \nDate: Wed, 07 Aug"
+      },
+      {
+        "name": "Record \nDate",
+        "role": "extracted",
+        "context": "t James Island - Last Deed of Record \nDate: Wed, 07 Aug 2019 13:50:57 +0"
+      },
+      {
+        "name": "Nautilus Inc",
+        "role": "extracted",
+        "context": "2/23/2011, from L.S.J. LLC to Nautilus Inc. \nThe sole beneficial owner a"
+      },
+      {
+        "name": "Senior Financial",
+        "role": "extracted",
+        "context": "Jeffrey E. Epstein. \n)\nSOSq ) Senior Financial Investigator (SF1) \n(o \n(c)"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2011-12-23",
+        "event": "12/23/2011"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.703Z"
+}

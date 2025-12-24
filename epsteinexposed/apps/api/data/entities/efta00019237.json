@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019237",
+    "filename": "EFTA00019237.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019237.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Necheles \nSubmission \nDate: Wed, 22 Jul 2020 15:57:34 +0000 \nAttachments: plea_submission,_with_attachments.pdf \nPlease print \nFrom: \nSent: Monday, July 20, 2020 12:09 PM \nTo: \nSubject: Necheles Submission \nAttached \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00019237",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Necheles \nSubmission",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Necheles \nSubmission \nDate: Wed, 22 Jul 2020 15:57"
+      },
+      {
+        "name": "Necheles Submission",
+        "role": "extracted",
+        "context": "2020 12:09 PM \nTo: \nSubject: Necheles Submission \nAttached \nCounsel to the Act"
+      },
+      {
+        "name": "Attached \nCounsel",
+        "role": "extracted",
+        "context": "Subject: Necheles Submission \nAttached \nCounsel to the Acting U.S. Attorney"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "d \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-20",
+        "event": "July 20, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.561Z"
+}

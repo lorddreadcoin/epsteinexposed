@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00026446",
+    "filename": "EFTA00026446.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026446.pdf",
+    "text": "\n\nFrom: 'a, \nTo: '1 \n(USANYS)\"  \n• \n[=. \nCc: ' \nSubject: RE: Epstein - Forfeiture \nDate: Mon, 08 Apr 2019 17:54:17 +0000 \nImportance: Normal \nAttachments: Epstein_FY20_Request_Form-_Large_Case_Related_Expenses.docx \n(USANYS)\" \nSee attached. \nThanks, \nFrom: \nc> \nSent: Monday, April 08, 2019 1:34 PM \nTo: (USANYS) \nCc: (USANYS) < \nSubject: Re: Epstein - Forfeiture \nNot a problem at all, I'll work on this right now. \nSent from my iPhone \nOn Apr 8, 2019, at 1:32 PM, (USANYS) wrote: \nFollowing up on our Brass meeting just now, It's that time of year when we need to do forfeiture funding requests. \nThese are basically short write-ups of cases that may involve forfeiture and are also likely to incur significant \ninvestigative costs (e.g., traveling to Florida a dozen times, hiring a vendor retaining an expert). Could you guys do a \nsuper quick Epstein write up this afternoon and send it back to me (unfortunately need to get these done today — sorry \nfor the short notice)? I've attached a blank form and a go-by (you'll see just how short these can be). \nAlso, notwithstanding what the form says, please do NOT email it down to DC — please send it back to me. \nThanks, \n<FY20 Request Form- Large Case Related Expenses.docx> \n<FY19 Request Form - Large Case Related Expenses - 650 Fifth Fraud.docx> \nEFTA00026446",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Forfeiture \nDate",
+        "role": "extracted",
+        "context": "Cc: ' \nSubject: RE: Epstein - Forfeiture \nDate: Mon, 08 Apr 2019 17:54:17 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 17:54:17 +0000 \nImportance: Normal \nAttachments: Epstein_FY20_Request_Form-_L"
+      },
+      {
+        "name": "Forfeiture \nNot",
+        "role": "extracted",
+        "context": "YS) < \nSubject: Re: Epstein - Forfeiture \nNot a problem at all, I'll work o"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "his right now. \nSent from my iPhone \nOn Apr 8, 2019, at 1:32 PM, (USA"
+      },
+      {
+        "name": "Request Form",
+        "role": "extracted",
+        "context": "t back to me. \nThanks, \n<FY20 Request Form- Large Case Related Expenses."
+      },
+      {
+        "name": "Large Case",
+        "role": "extracted",
+        "context": "Thanks, \n<FY20 Request Form- Large Case Related Expenses.docx> \n<FY19"
+      },
+      {
+        "name": "Related Expenses",
+        "role": "extracted",
+        "context": "FY20 Request Form- Large Case Related Expenses.docx> \n<FY19 Request Form - L"
+      },
+      {
+        "name": "Fifth Fraud",
+        "role": "extracted",
+        "context": "e Case Related Expenses - 650 Fifth Fraud.docx> \nEFTA00026446"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-08",
+        "event": "April 08, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.346Z"
+}

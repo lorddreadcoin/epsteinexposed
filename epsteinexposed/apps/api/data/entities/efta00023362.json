@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00023362",
+    "filename": "EFTA00023362.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023362.pdf",
+    "text": "\n\nFrom: \nTo: \nLaura Menninger IMMINIMM, Jeff Pagliuca \nCc: \nSubject: Witness-3 - proposed redactions \nDate: Sun, 21 Nov 2021 02:50:15 +0000 \nAttachments: 20cr330_Temp._Sealed_Mem._Op._&_Order_11.19.21.pdf; \n2021.11.11_Letter_to_Judge_Nathan_re_Response_to_Govemment_Letters_re_Accuser-\n3  Evidence.PDF; Gov't_Letter_re_MV-3_[proposed_redactions].pdf \nCounsel, \nAttached are our proposed redactions to the supplemental filings and order regarding Witness-3. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00023362",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "From: \nTo: \nLaura Menninger IMMINIMM, Jeff Pagliuca \nCc:"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "o: \nLaura Menninger IMMINIMM, Jeff Pagliuca \nCc: \nSubject: Witness-3 - pr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "egarding Witness-3. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "3. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00023362"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.803Z"
+}

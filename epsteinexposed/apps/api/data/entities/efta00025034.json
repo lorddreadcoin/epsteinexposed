@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00025034",
+    "filename": "EFTA00025034.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025034.pdf",
+    "text": "\n\nFrom: (USANYS)\" cz\nIMIE> \nTo:' \n\" \nSubject: 3500 cover \nletter \nDate: Mon, 25 Oct 2021 21:10:23 +0000 \nAttachments: 2021.10.25_Maxwell_Cover_Letter_v 1 .docx \nEdit freely \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00025034",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "etter_v 1 .docx \nEdit freely \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Edit freely \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.337Z"
+}

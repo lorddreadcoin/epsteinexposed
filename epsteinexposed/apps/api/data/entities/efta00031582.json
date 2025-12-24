@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031582",
+    "filename": "EFTA00031582.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031582.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' \nSubject: RE: Maxwell \nDate: Thu, 17 Sep 2020 15:54:49 +0000 \n© I'm making popcorn as we speak. \nMuch appreciated, sorry for the dumb Q. \nFrom: \nSent: Thursday, September 17, 2020 11:53 AM \nTo: \nCc: \nSubject: RE: Maxwell \nOh sure. I can screen them for you in the Library if you want. We have Clinton too. \nFrom: \nSent: Thursday, September 17, 2020 11:51 AM \nTo: \nCc: \nSubject: Maxwell \nThis will probably sound ridiculous, but I promised I'd ask (since it's from a credible publication): A reporter has heard \nrumors that Maxwell claims she was in possession of video(s) Epstein captured of Dershowitz and other high-profile \nindividuals at the time of her arrest and may be using them to negotiate with you... \nEFTA00031582",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "om: \nTo: \nCc: ' \nSubject: RE: Maxwell \nDate: Thu, 17 Sep 2020 15:54:49 +0"
+      },
+      {
+        "name": "Maxwell \nOh",
+        "role": "extracted",
+        "context": "53 AM \nTo: \nCc: \nSubject: RE: Maxwell \nOh sure. I can screen them for y"
+      },
+      {
+        "name": "Maxwell \nThis",
+        "role": "extracted",
+        "context": "11:51 AM \nTo: \nCc: \nSubject: Maxwell \nThis will probably sound ridiculou"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-17",
+        "event": "September 17, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.453Z"
+}

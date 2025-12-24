@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017949",
+    "filename": "EFTA00017949.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017949.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Download complete \nDate: Mon, 09 Mar 2020 21:31:21 +0000 \nSpecial Agent \nFBI New York Field Office \nViolent Crimes Task Force \nFrom: \nSent: Wednesday, August 14, 2019 11:08 PM \nTo: \nSubject: Download complete \nPriority cameras from dvrl completed downloading. The contractor is here working on the replacement system \nand reports that he could get the new system up and recording tonight. The cart and mxu team will be departing. \nThe A7 Agent and the BOP employee will stay with the DVR until the tech is done and the cameras are up and \nrecording. Once that is done A7 agent will secure the room with evidence tape until c19 team arrives tomorrow. \nI will.stage downloaded video on opwan for mxu to copy tonight to transcode and stage on ttk for review. \nThe DVR can be shut down and collected tomorrow. I will come back with who ever comes here to do that. \nEFTA00017949",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": ", 09 Mar 2020 21:31:21 +0000 \nSpecial Agent \nFBI New York Field Office \nV"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nViolent Crimes Task Force \nF"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nViolent Crimes Task Force \nFrom: \nSent: Wedn"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field Office \nViolent Crimes Task Force \nFrom: \nSent: Wednesday, Augu"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.919Z"
+}

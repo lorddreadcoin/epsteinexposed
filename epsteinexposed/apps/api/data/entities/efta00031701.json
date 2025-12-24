@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031701",
+    "filename": "EFTA00031701.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031701.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Epstein-related does released by Second Circuit \nDate: Fri, 09 Aug 2019 15:59:01 +0000 \nPerfect, thanks. I've already been asked and said that we're not a party to this litigation and cannot comment. \nFrom: \nSent: Friday, August 9, 2019 11:43 AM \nJust FYI for everybody, today the Second Circuit has unsealed (and posted) a ton of documents from the \nGhislaine Maxwell libel lawsuit, so there likely will be a ton of reporting on that. Any reference to those newly-unsealed \ndocuments are separate from—and do not include—any filings we've made, and are independent of our case. \n(We have been aware of the litigation and generally aware of the filings, though it also won't hurt to have a bunch of \njournalists combing through them and reporting out interesting elements.) \nAnyway just wanted to note that there's likely to be a flood of attention to this development but that it's not anything new \nspecifically from our investigation. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00031701",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "nsealed (and posted) a ton of documents from the \nGhislaine Maxwell libel lawsuit, so there likely will be a ton of r"
+      },
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "tein-related does released by Second Circuit \nDate: Fri, 09 Aug 2019 15:59"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "nvestigation. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-09",
+        "event": "August 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.645Z"
+}

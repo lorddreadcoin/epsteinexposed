@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020785",
+    "filename": "EFTA00020785.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020785.pdf",
+    "text": "\n\nFrom: \nTo: \nCcl \nSubject: metadata \nDate: Tue, 27 Apr 2021 23:46:53 +0000 \nAttachments: \nUSGME01088996.doc \nCan you tell what device this came from? Thanks. \nAssistant United States Attorney \nrk \nNew \nYork, NY 10007 \nEFTA00020785",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ccl \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: \nCcl \nSubject: metadata \nDate: Tue, 27 Apr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "vice this came from? Thanks. \nAssistant United States Attorney \nrk \nNew \nYor"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "om? Thanks. \nAssistant United States Attorney \nrk \nNew \nYork, NY 10007 \nEFT"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "t United States Attorney \nrk \nNew \nYork, NY 10007 \nEFTA00020785"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New \nYork, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.583Z"
+}

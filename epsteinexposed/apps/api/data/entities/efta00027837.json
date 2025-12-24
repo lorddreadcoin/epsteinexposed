@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00027837",
+    "filename": "EFTA00027837.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027837.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Travel Authorization 10982117 approved by now awaiting further \napproval \nDate: Mon, 27 Jan 2020 18:45:23 +0000 \nImportance: Normal \nDea \nTravel authorization 10982117 has been approved by \nTrip ID: 10982117 \nTraveler name: \nPurpose: - Epstein investigation \nDestination: Stockholm, \nSweden \nDates: 2020-02-03 - 2020-02-07 \nCurrent status: Pending Authorization Approval \n, now awaiting further approval. \n- Witness Interviews \nE2 Sin le Si n On Lo in within DOJ Network Only): \nE2 Manual Lo in User ID and Password): \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# T0007 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00027837",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Authorization",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Travel Authorization 10982117 approved by now awai"
+      },
+      {
+        "name": "Normal \nDea",
+        "role": "extracted",
+        "context": "0 18:45:23 +0000 \nImportance: Normal \nDea \nTravel authorization 1098211"
+      },
+      {
+        "name": "Sweden \nDates",
+        "role": "extracted",
+        "context": "ion \nDestination: Stockholm, \nSweden \nDates: 2020-02-03 - 2020-02-07 \nCur"
+      },
+      {
+        "name": "Pending Authorization",
+        "role": "extracted",
+        "context": "- 2020-02-07 \nCurrent status: Pending Authorization Approval \n, now awaiting furt"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "awaiting further approval. \n- Witness Interviews \nE2 Sin le Si n On Lo in with"
+      },
+      {
+        "name": "On Lo",
+        "role": "extracted",
+        "context": "ss Interviews \nE2 Sin le Si n On Lo in within DOJ Network Only):"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "n le Si n On Lo in within DOJ Network Only): \nE2 Manual Lo in User ID an"
+      },
+      {
+        "name": "Manual Lo",
+        "role": "extracted",
+        "context": "within DOJ Network Only): \nE2 Manual Lo in User ID and Password): \nTh"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-03",
+        "event": "2020-02-03"
+      },
+      {
+        "date": "2020-02-07",
+        "event": "2020-02-07"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.078Z"
+}

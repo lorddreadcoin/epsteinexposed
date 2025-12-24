@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00031828",
+    "filename": "EFTA00031828.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031828.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Ghislaine Maxwell defense motion (Out Of Office) \nDate: Thu, 13 Aug 2020 15:42:50 +0000 \nI will be out of the office, with limited access to email. \nIf this is an urgent matter, please call the institution at and ask for the relevant department. \nYou may also email \nThank you! \nwith any urgent legal matters. \nEFTA00031828",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Ghislaine Maxwell defense motion (Out Of Office) \nDate: Thu, 13 Aug"
+      },
+      {
+        "name": "Out Of",
+        "role": "extracted",
+        "context": "laine Maxwell defense motion (Out Of Office) \nDate: Thu, 13 Aug 20"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.986Z"
+}

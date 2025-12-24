@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00009831",
+    "filename": "EFTA00009831.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009831.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell \nSubject: \nGhislaine Maxwell \nDate: Tue, 13 Apr 2021 23:37:33 +0000 \nGood \nevening-\nMight you have any sway in persuading the Marshal permit Ms. Maxwell \nto have her legal materials while in the cell block? \nShe arrived today at —  5:15 am and remained idle in the cell block \nuntil —  8:30 am when she was brought to the fifth floor. \nOtherwise, any opposition to me contacting the Court for an order \n(per the Marshal)? \nEnjoy the evening. See you tomorrow. \nBest-\nBobbi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nNew York, NY 10011 \n••Covid-19 Notice: The \n•\noffice is currently closed but we continue to work remotely. \nPlease use entail or fax, instead of regular mail, for all correspondence during this time. \nWe continue to work regular business hours throughout this situation. \nThank you for your consideration. Our best wishes for your good health and well being. \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00009831",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "STERNHEIM \nTo: \nCc: Christian Everdell \nSubject: \nGhislaine Maxwell \nDate: Tue, 13 Apr 2021 23:37:33 +0000 \nGood \neve"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "persuading the Marshal permit Ms. Maxwell \nto have her legal materi"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": ": BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell \nSubject: \nGhislaine Maxwell"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "bi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nNew Yo"
+      },
+      {
+        "name": "Sternheim \nNew",
+        "role": "extracted",
+        "context": "ESQ. \nLaw Offices of Bobbi C. Sternheim \nNew York, NY 10011 \n••Covid-19 No"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.756Z"
+}

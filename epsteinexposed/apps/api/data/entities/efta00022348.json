@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00022348",
+    "filename": "EFTA00022348.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022348.pdf",
+    "text": "\n\nFrom: \nTo:' \nSubject: FW: PBSO \nDate: Fri, 02 Aug 2019 19:27:25 +0000 \nI  just checked with and he told me no one from your office has called him back or contacted him on the \nEpstein issue. Is there an issue I can address? \nFrom: \nSent: Friday, July 26, 2019 3:35 PM \nTo: \nSubject: Re: PBSO \nhere you go. Below is the PBSO contact. My cell i \nsomeone could reach out to him today. Have a great weekend. \nPalm \nBeach County Sheriffs Office \nViolent Crimes \nDivision Homicide \nen rom my one \nOn Jul 26, 2019, at 3:26 PM \nf you have questions. I would appreciate it if \nWrote: \n—  Please send along contact information for the point of contact, and I will pass along to the appropriate folks on this \nend. \nThanks, \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00022348",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "today. Have a great weekend. \nPalm \nBeach County Sheriffs Office \nViole"
+      },
+      {
+        "name": "County Sheriffs",
+        "role": "extracted",
+        "context": "a great weekend. \nPalm \nBeach County Sheriffs Office \nViolent Crimes \nDivis"
+      },
+      {
+        "name": "Office \nViolent",
+        "role": "extracted",
+        "context": "Palm \nBeach County Sheriffs Office \nViolent Crimes \nDivision Homicide \nen"
+      },
+      {
+        "name": "Crimes \nDivision",
+        "role": "extracted",
+        "context": "unty Sheriffs Office \nViolent Crimes \nDivision Homicide \nen rom my one \nOn J"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "sion Homicide \nen rom my one \nOn Jul 26, 2019, at 3:26 PM \nf you h"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "his \nend. \nThanks, \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00022348"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-26",
+        "event": "July 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.669Z"
+}

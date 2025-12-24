@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00031728",
+    "filename": "EFTA00031728.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031728.pdf",
+    "text": "\n\nFrom: \nTo: \nI \nCc: \nMINIINYS)\" \nSubject: 3500 \nDate: Tue, 30 Nov 2021 00:03:10 +0000 \nEmbedded: FW: JEXTERNALUBI_Still_Needing_Tips_Regarding Jeffrey_Epstein Ghislaine_Maxw \nell?.msg \nCould you please add this to NTW 3500? In addition, hard copy 3500 forMis on my desk when you have a minute. We \nshould send that out tonight. Thanksl \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031728",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Regarding Jeffrey",
+        "role": "extracted",
+        "context": "XTERNALUBI_Still_Needing_Tips_Regarding Jeffrey_Epstein Ghislaine_Maxw \nell?."
+      },
+      {
+        "name": "Epstein Ghislaine",
+        "role": "extracted",
+        "context": "eeding_Tips_Regarding Jeffrey_Epstein Ghislaine_Maxw \nell?.msg \nCould you ple"
+      },
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "should send that out tonight. Thanksl \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "nksl \nAssistant United States Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031728"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.717Z"
+}

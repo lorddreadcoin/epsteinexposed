@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00020167",
+    "filename": "EFTA00020167.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020167.pdf",
+    "text": "\n\nCitibank N.A. \nLegal Services Intake Unit \n701 East 60th Street North \nSioux Falls, SD 57117 \nFax: 347-809-6937 \nAttention: Legal Intake Unit \nDelivered via: FedEx \nALL OPEN AND CLOSED ACCOUNTS \nRider \nPlease provide all images of documents in Adobe PDF files on CDs. \nPlease provide from account inception to present any and records pertaining to the following \naccounts(s)/organization(s)/individuals(s) whether held jointly or severally or as trustee or fiduciary as \nwell as custodian, executor or guardian: \nA. Please use the following identifiers: \nNAMES/ENTITIES \nDOB \nSSN \nADDRESS \nPHONE \nEMAIL \nACCOUNT NUMBERS: \nEFTA00020167\n\nB. Records to be produced should include but are not limited to the items listed below: \n1. DATA TRANSACTION FILES \n2. Documents (checks, debit memos, cash in tickets, wires in, wires out, etc.) reflecting additions \nand/or subtractions to the account and how the account balances are being satisfied on a monthly \nbasis; \n3. Signature cards; \n4. Proof of identification (including but not limited to copies of identification used to open the \naccount); \n5. Opening account(s) documents with attachments, including any and all applications, internal \ndocuments generated to open account(s), and identification information or other documentation \nprovided by Customer; and Customer's email address \n6. \"Know your customer\" documentation; \n7. Wire transfer records (incoming and outgoing, and any and all applications and instructions); \n8. Safe deposit records, including applications, signature cards, and sign-in records; \n9. Trust accounts; \n10. Monthly statements; \n11. Credit card statements; \n12. Bank, travelers, or cashier checks drawn on account or purchased with an account check; \n13. Prepaid debit cards, certified checks, cashiers' checks, money orders, and traveler's checks; \n14. Loan, lease, and/or mortgage application files (whether granted or denied) including credit reports, \napplications, and payments made on loans; \n15. Online banking information- All information regarding the electronic use of banking systems to \ninclude the following: username, registration IP address, online account creation date, online \naccount status and IP logs/history, MAC addresses and online session times and duration; \n16. Any and all corporate resolutions, certifications of incorporation, business certificates and/or \npartnership agreements; and \n17. Any and all correspondence, electronic or otherwise, including memoranda, emails and text \nmessages, that reference or concern items (1) through (16), above, and/or any financial interests \ninvolving the individuals and/or entities identified in Section A. \nIf you have any questions or comments, please contact Forensic Accountant, \nEFTA00020168",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Legal Services",
+        "role": "extracted",
+        "context": "Citibank N.A. \nLegal Services Intake Unit \n701 East 60th St"
+      },
+      {
+        "name": "Intake Unit",
+        "role": "extracted",
+        "context": "Citibank N.A. \nLegal Services Intake Unit \n701 East 60th Street North"
+      },
+      {
+        "name": "Street North",
+        "role": "extracted",
+        "context": "es Intake Unit \n701 East 60th Street North \nSioux Falls, SD 57117 \nFax:"
+      },
+      {
+        "name": "Sioux Falls",
+        "role": "extracted",
+        "context": "701 East 60th Street North \nSioux Falls, SD 57117 \nFax: 347-809-6937"
+      },
+      {
+        "name": "Legal Intake",
+        "role": "extracted",
+        "context": "Fax: 347-809-6937 \nAttention: Legal Intake Unit \nDelivered via: FedEx \nA"
+      },
+      {
+        "name": "Unit \nDelivered",
+        "role": "extracted",
+        "context": "6937 \nAttention: Legal Intake Unit \nDelivered via: FedEx \nALL OPEN AND CLOS"
+      },
+      {
+        "name": "Rider \nPlease",
+        "role": "extracted",
+        "context": "ALL OPEN AND CLOSED ACCOUNTS \nRider \nPlease provide all images of documen"
+      },
+      {
+        "name": "Forensic Accountant",
+        "role": "extracted",
+        "context": "s or comments, please contact Forensic Accountant, \nEFTA00020168"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Sioux Falls, SD",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "347-809-6937"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.320Z"
+}

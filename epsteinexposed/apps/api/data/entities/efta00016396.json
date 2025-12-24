@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016396",
+    "filename": "EFTA00016396.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016396.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: Emails \nDate: Mon, 16 Dec 2019 16:46:22 +0000 \nInline-Images: image001.png \nSaved here: \\\\Usa.doj.gov\\cloud\\NYS\\StAndrewAShared\\USvEpstein-2018R0161Mitnesses & Cooperators\nEmails \nEFTA00016396",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Emails \nDat"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Emails \nDate: Mon, 16 De"
+      },
+      {
+        "name": "Emails \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: Emails \nDate: Mon, 16 Dec 2019 16:46:22 +0"
+      },
+      {
+        "name": "Cooperators\nEmails",
+        "role": "extracted",
+        "context": "vEpstein-2018R0161Mitnesses & Cooperators\nEmails \nEFTA00016396"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.594Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00027342",
+    "filename": "EFTA00027342.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027342.pdf",
+    "text": "\n\nFrom: \"S,\" 'a \nTo: \"a (NY) (FBI)\" <Ma \nCc:   ' II I II \nIIII \n) \nSubject: RE: \nDate: \nTue, 23 Jul 2019 17:37:02 +0000 \nCircling back regarding who we initially thought we'd be able to meet with months ago but then \nobviously didn't, I spoke again with her lawyer today and he suggested contacting her directly. He also said he'd let her \nknow that would be trying to reach out to her. He provided her current number as: \nif you could please try her this week? Her attorney said she's not great at following up, but we can give it a shot \nand hope for the best. Let me know if any other info would be helpful, and thanks very much. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00027342",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ma \nCc",
+        "role": "extracted",
+        "context": "\"S,\" 'a \nTo: \"a (NY) (FBI)\" <Ma \nCc:   ' II I II \nIIII \n) \nSubjec"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ks very much. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.040Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031820",
+    "filename": "EFTA00031820.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031820.pdf",
+    "text": "\n\nFrom: Sigrid McCawley \nTo:' \nBcc: \n\"USAHUB-USAJournal111\" -1\n1> \nSubject: RE: Filing \nDate: Tue, 15 Dec 2020 14:49:29 +0000 \nEmbedded: RE:_Filing.msg \nSender: \nSubject: RE: Filing \nMessage-Id: <Oda21e66953e4481aeb96e47c5c386ff@bsfilp.com> \nRecipient: \nEFTA00031820",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "From: Sigrid McCawley \nTo:' \nBcc: \n\"USAHUB-US"
+      },
+      {
+        "name": "Cawley \nTo",
+        "role": "extracted",
+        "context": "From: Sigrid McCawley \nTo:' \nBcc: \n\"USAHUB-USAJournal11"
+      },
+      {
+        "name": "Filing \nDate",
+        "role": "extracted",
+        "context": "urnal111\" -1\n1> \nSubject: RE: Filing \nDate: Tue, 15 Dec 2020 14:49:29 +0"
+      },
+      {
+        "name": "Filing \nMessage",
+        "role": "extracted",
+        "context": "ng.msg \nSender: \nSubject: RE: Filing \nMessage-Id: <Oda21e66953e4481aeb96e47"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.964Z"
+}

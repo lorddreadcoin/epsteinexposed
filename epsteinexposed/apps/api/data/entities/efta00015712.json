@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015712",
+    "filename": "EFTA00015712.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015712.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nSubject: Re: Jeffrey Epstein Moved Money Overseas in Transactions His Bank Flagged to U.S. \nDate: Tue, 23 Jul 2019 22:22:17 +0000 \nYep. Team was already on it. McFadden has discussed in her interview \nSent from my iPhone \n> On Jul 23, 2019, at 6:18 PM, wrote: \n> https://www.nytimes.corn/2019/07/23/business/jeffrey-epstein-deutsche-bank.html \n> \nSent from my iPhone \nEFTA00015712",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo:'\nCc: \nSubject: Re: Jeffrey Epstein Moved Money Overseas in Transactions His Bank Fla"
+      },
+      {
+        "name": "Moved Money",
+        "role": "extracted",
+        "context": "Subject: Re: Jeffrey Epstein Moved Money Overseas in Transactions His"
+      },
+      {
+        "name": "Transactions His",
+        "role": "extracted",
+        "context": "stein Moved Money Overseas in Transactions His Bank Flagged to U.S. \nDate: T"
+      },
+      {
+        "name": "Bank Flagged",
+        "role": "extracted",
+        "context": "Overseas in Transactions His Bank Flagged to U.S. \nDate: Tue, 23 Jul 20"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "rview \nSent from my iPhone \n> On Jul 23, 2019, at 6:18 PM, wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.282Z"
+}

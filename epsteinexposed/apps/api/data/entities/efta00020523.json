@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00020523",
+    "filename": "EFTA00020523.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020523.pdf",
+    "text": "\n\n[make IRev. 5-23-171 \nOFFICIAL RECORD \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nIntake \nDate: 11/10/2020 \nCase ID #: 50D-NY-302757i (U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 11/09/2020 05:16 PM EST \nDetails: \nOn 11/09/2020, at 5:16 p.m. Eastern time, , date of \nbirth , home telephone number-, called the FBI \nNational Threat Operations Center (NTOC)to report her assault by Jeffrey \nEpstein in. New York City, NY. \nprovided the following information, \nWhen she was sixteen years old, was in. New York City on \nvacation with her grandfather. She often spent time in the park exploring \nwith her grandfather. One day, Shislaine Maxwell approached her to offer \na dog-walking job. went with Maxwell to her office where \nEpstein was present. She was offered a drink which she says made her \ntired and she fell asleep. When she woke up she went to the bathroom and \nclaims she was bleeding and sore. She claims to remember Epstein pinning \nher down at some point. When she woke up, the only person in the office \nwas a housekeeper or something. She did not report this to anyone until \nthis year. has filed a report with the NYPD regarding the \nassault. This occurred in 1992. \n.• \nUNCLASSIFIED \nEFTA00020523",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nIntake \nDate: 11/10/2020 \nCase ID #: 50D-N"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "FREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 11/09/2"
+      },
+      {
+        "name": "Time Received",
+        "role": "extracted",
+        "context": "RAFFICKING \nDrafted By: \nDate/Time Received: 11/09/2020 05:16 PM EST \nDet"
+      },
+      {
+        "name": "National Threat",
+        "role": "extracted",
+        "context": "hone number-, called the FBI \nNational Threat Operations Center (NTOC)to re"
+      },
+      {
+        "name": "Operations Center",
+        "role": "extracted",
+        "context": "lled the FBI \nNational Threat Operations Center (NTOC)to report her assault b"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "NTOC)to report her assault by Jeffrey \nEpstein in. New York City, NY. \nprovi"
+      },
+      {
+        "name": "Shislaine Maxwell",
+        "role": "extracted",
+        "context": "ith her grandfather. One day, Shislaine Maxwell approached her to offer \na do"
+      }
+    ],
+    "locations": [
+      {
+        "name": "York City, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-11-10",
+        "event": "11/10/2020"
+      },
+      {
+        "date": "2020-11-09",
+        "event": "11/09/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.002Z"
+}

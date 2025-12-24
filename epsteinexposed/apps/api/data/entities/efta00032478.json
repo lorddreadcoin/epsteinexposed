@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032478",
+    "filename": "EFTA00032478.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032478.pdf",
+    "text": "\n\nFrom: ' )\" ctl \nTo: \n(USANYS)\"  \nSubject \nDate: Thu, 29 Jul 2021 21:18:44 +0000 \nhttps://www.nbcnews.cominews/us-news/how-british-teen-model-waslured-jeffrey-epstein-s-web-n 1056901 \nAssistant United States Attorney \nSouthern District of New York \nEFTA00032478",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subject \nDate",
+        "role": "extracted",
+        "context": "m: ' )\" ctl \nTo: \n(USANYS)\"  \nSubject \nDate: Thu, 29 Jul 2021 21:18:44 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "frey-epstein-s-web-n 1056901 \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "b-n 1056901 \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00032478"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.740Z"
+}

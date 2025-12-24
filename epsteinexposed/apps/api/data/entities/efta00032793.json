@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00032793",
+    "filename": "EFTA00032793.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032793.pdf",
+    "text": "\n\nFrom: \nSubject: FW: Forfeiture Funding Requests - Due 4/26 \nDate: Mon. 19 Apr 2021 18:42:30 \n+0000 \nAttachments \nLarge_ Case Related Ex enses -  E stein Maxwell.docx; FY21 Re uest Form_-\nFrom: I\n> \nSent: Monday, April 19, 2021 1:23 PM \nTo: \nCc \nEFTA00032793\n\nSubject: Forfeiture Funding Requests - Due 4/26 \nEFTA00032794\n\nM \nCo\n-Chief, Money Laundering \nand Transnational Criminal \nEnterprises Unit \nAsset Forfeiture Coordinator \nUnited States Attorney's Office \nSouthern District \nEFTA00032795",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Forfeiture Funding",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: Forfeiture Funding Requests - Due 4/26 \nDate: Mo"
+      },
+      {
+        "name": "Attachments \nLarge",
+        "role": "extracted",
+        "context": "19 Apr 2021 18:42:30 \n+0000 \nAttachments \nLarge_ Case Related Ex enses -  E s"
+      },
+      {
+        "name": "Case Related",
+        "role": "extracted",
+        "context": "0 \n+0000 \nAttachments \nLarge_ Case Related Ex enses -  E stein Maxwell.d"
+      },
+      {
+        "name": "Money Laundering",
+        "role": "extracted",
+        "context": "EFTA00032794\n\nM \nCo\n-Chief, Money Laundering \nand Transnational Criminal"
+      },
+      {
+        "name": "Transnational Criminal",
+        "role": "extracted",
+        "context": "-Chief, Money Laundering \nand Transnational Criminal \nEnterprises Unit \nAsset Forf"
+      },
+      {
+        "name": "Enterprises Unit",
+        "role": "extracted",
+        "context": "and Transnational Criminal \nEnterprises Unit \nAsset Forfeiture Coordinator"
+      },
+      {
+        "name": "Asset Forfeiture",
+        "role": "extracted",
+        "context": "l Criminal \nEnterprises Unit \nAsset Forfeiture Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "prises Unit \nAsset Forfeiture Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "orfeiture Coordinator \nUnited States Attorney's Office \nSouthern District"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District \nEFTA00032795"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-19",
+        "event": "April 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.498Z"
+}

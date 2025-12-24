@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019491",
+    "filename": "EFTA00019491.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019491.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Friendly Subpoena \nDate: Fri, 26 Mar 2021 14:10:42 +0000 \nSure. Will look for it. \nFrom: \nSent: Friday, March 26, 2021 9:42 AM \nTo: \nCc: \nSubject: Friendly Subpoena \nHi = —  Just a heads up that the Maxwell team is going to seek your approval this morning to issue a friendly \nsubpoena to counsel for Minor Victim-4, the latest victim whose abuse gives rise to the superseder, for a non-privileged \nmaterials related to her settlement with Epstein back in 2008 or thereabouts. As you can imagine, we think we need this \nstuff both to prepare for trial but also as potential Giglio for the witness, and her lawyer is happy to provide it to us but \nbelieves he needs a subpoena. \nHappy to chat further if that would be helpful, but otherwise will have the team send you an email shortly so you can \napprove. \nThanks, \nChief, Public Corruption Unit \nU.S. Attorney's Offfice for the \nSouthern District of New York \nTel: \nCell: \nEFTA00019491",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Friendly Subpoena",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Friendly Subpoena \nDate: Fri, 26 Mar 2021 14:10"
+      },
+      {
+        "name": "Minor Victim",
+        "role": "extracted",
+        "context": "ndly \nsubpoena to counsel for Minor Victim-4, the latest victim whose ab"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "an \napprove. \nThanks, \nChief, Public Corruption Unit \nU.S. Attorney's Offfice"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": ". Attorney's Offfice for the \nSouthern District of New York \nTel: \nCell: \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-26",
+        "event": "March 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.011Z"
+}

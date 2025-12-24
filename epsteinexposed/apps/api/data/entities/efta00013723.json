@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013723",
+    "filename": "EFTA00013723.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013723.pdf",
+    "text": "\n\nFrom: \nTo: \"Acosta, Alex (USAFLS)\" <AAcosta@usa.doj.gov>, \nCc: \nSubject: Column by Palm Beach Post Editor \nDate: Wed, 13 Feb 2008 14:30:56 +0000 \nImportance: Normal \nAttachments: PB_Post_Editorial001.pdf \nHi all —  I know that it sounds like I wrote this (especially the part about \"Epstein's effort to buy his way out of \nprosecution\"), but it actually was written by the editor of the Palm Beach Post. \nOn another note, I hope to have the final indictment package to by Thursday or Friday at the latest. \nEnjoy! \nAssistant 'U.S. Attorney \nEFTA00013723",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ov>, \nCc: \nSubject: Column by Palm Beach Post Editor \nDate: Wed, 13 Fe"
+      },
+      {
+        "name": "Post Editor",
+        "role": "extracted",
+        "context": "Subject: Column by Palm Beach Post Editor \nDate: Wed, 13 Feb 2008 14:30"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 14:30:56 +0000 \nImportance: Normal \nAttachments: PB_Post_Editorial001.pdf \nHi"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.245Z"
+}

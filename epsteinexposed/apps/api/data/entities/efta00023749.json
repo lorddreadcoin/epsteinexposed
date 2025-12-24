@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023749",
+    "filename": "EFTA00023749.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023749.pdf",
+    "text": "\n\nFrom: \naMIE> \nTo:'\nSubject: filing \nDate: Wed, 16 Sep 2020 20:52:58 +0000 \nAttachments: 2020-09-16_GM_ex-parte_discovery_letter.v4.docx \nHere's the final version —  can you take a  last look? Thanks. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00023749",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "u take a  last look? Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ok? Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00023749"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.542Z"
+}

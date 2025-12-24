@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00010275",
+    "filename": "EFTA00010275.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010275.pdf",
+    "text": "\n\nFrom: ' \nTo: , egmail.com>, < \n@usdoj.gov>, \nSubject: ma ouc er 894369(1) approved byll now awaiting further approval \nDate: Fri, 10 Jan 2020 13:44:16 +0000 \nImportance: Normal \nDear \nFinal voucher 10894369(1) has been approved by now awaiting further approval. \nTrip ID: \n10894369 \nVoucher ID: 1 \nVoucher type: Final \nTraveler name: \nPurpose: R2ON - .  . v. Epstein - Witness Interviews \nDestination: \nDates: \nCurrent status: Pending Voucher Approval \nEFTA00010275",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "0 13:44:16 +0000 \nImportance: Normal \nDear \nFinal voucher 10894369(1) ha"
+      },
+      {
+        "name": "Final \nTraveler",
+        "role": "extracted",
+        "context": "Voucher ID: 1 \nVoucher type: Final \nTraveler name: \nPurpose: R2ON - .  . v"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "ose: R2ON - .  . v. Epstein - Witness Interviews \nDestination: \nDates: \nCurren"
+      },
+      {
+        "name": "Pending Voucher",
+        "role": "extracted",
+        "context": "ion: \nDates: \nCurrent status: Pending Voucher Approval \nEFTA00010275"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.644Z"
+}

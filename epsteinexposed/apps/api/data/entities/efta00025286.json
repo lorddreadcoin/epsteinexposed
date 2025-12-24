@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00025286",
+    "filename": "EFTA00025286.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025286.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: GM -Tomorrow's Production \nDate: Mon, 11 Oct 2021 00:02:40 +0000 \nAttachments: 2021.10.11_Witness_List.pdf; 2021.10.11_Maxwell_Cover_Letter_Final.pdf \nI know you guys are on top of this, but to keep myself organized, for tomorrow's production, we need to include the \nbelow on the drives. Attaching the witness list and cover letter to get us started. If I'm missing anything, let me know! \nThanks again for all of your hard work!! \n1. Witness list \n2. Cover letter \n3. 3500 Indices \n4. 3500 productions \n5. GX index \n6. GX exhibits (for GM, redacted nudity) \n7. Prior GM productions we told defense counsel we would provide to the defendant at the MDC (that would be 10/4, \n10/7, and hopefully tomorrow's as well). \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York New York 10007 \nTel \nEFTA00025286",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: GM -Tomorrow's"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: GM -Tomorrow's Production \nD"
+      },
+      {
+        "name": "Production \nDate",
+        "role": "extracted",
+        "context": "Cc \nSubject: GM -Tomorrow's Production \nDate: Mon, 11 Oct 2021 00:02:40 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "pefully tomorrow's as well). \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s as well). \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York New York 10007 \nTel \nEFT"
+      },
+      {
+        "name": "York New",
+        "role": "extracted",
+        "context": "One St. Andrew's Plaza \nNew York New York 10007 \nTel \nEFTA00025286"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.871Z"
+}

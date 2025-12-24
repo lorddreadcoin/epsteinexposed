@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029985",
+    "filename": "EFTA00029985.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029985.pdf",
+    "text": "\n\nFrom:\"  y'< \nTo: \"Weinstein, Mare \nA.\" < \nCc: Andrew Tomback  \nSubject: RE: Epstein Estate update \nDate: Mon, 09 Nov \n2020 15:27:24 +0000 \n)\" \nYes, that works, thanks. \nFrom: Weinstein, Marc A. \nSent: Monday, November 9, 2020 10:24 AM \nTo: \nCc: Andrew Tomback \nSubject: RE: Epstein Estate update \nThanks. Would 4:30 work? \nMarcA.Weinstein I Partner \nChair, White Collar Defense \nHughes Hubbard & Reed LIP \nThis message contains confidential information and is  intended only for the individual named. If  you are not the named addressee you should not disseminate, \ndistribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail \ntransmission cannot be guaranteed to be secure or error-tree as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain \nviruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If \nverification is required please request a hard-copy version. \nFrom: \nSent: Monday, November 9, 2020 10:23 AM \nTo: Weinstein, Marc \nA. < \nCc: Andrew Tomback \nSubject: RE: Epstein Estate update \nCAUTION: This email was sent by someone outside of the Firm. \nHi Marc, \nWe are available for a call this afternoon —  what works best for you? \nThanks, \nFrom: Weinstein, Marc A. \nSent: Monday, November 9, 2020 9:50 AM \nTo: \nCc: Andrew Tomback \nSubject: Epstein Estate update \nand \nWould you have time for a call this afternoon to give you an update on a new development? \nThanks, \nMarc \n) \nMarcA.Weinstein I Partner \nEFTA00029985\n\nChair, White Collar Defense \nHughes Hubbard & Reed LLP \nThis message contains confidential information and is  intended only for the individual named. If you are not the named addressee you should not disseminate, \ndistribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail \ntransmission cannot be guaranteed to be secure or error-tree as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain \nviruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If \nverification is required please request a hard-copy version. \nEFTA00029986",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "\"Weinstein, Mare \nA.\" < \nCc: Andrew Tomback  \nSubject: RE: Epstein Estate"
+      },
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "Andrew Tomback  \nSubject: RE: Epstein Estate update \nDate: Mon, 09 Nov \n20"
+      },
+      {
+        "name": "Partner \nChair",
+        "role": "extracted",
+        "context": "4:30 work? \nMarcA.Weinstein I Partner \nChair, White Collar Defense \nHughes"
+      },
+      {
+        "name": "White Collar",
+        "role": "extracted",
+        "context": "A.Weinstein I Partner \nChair, White Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "Partner \nChair, White Collar Defense \nHughes Hubbard & Reed LIP \nThis mess"
+      },
+      {
+        "name": "Hi Marc",
+        "role": "extracted",
+        "context": "someone outside of the Firm. \nHi Marc, \nWe are available for a call"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-09",
+        "event": "November 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.716Z"
+}

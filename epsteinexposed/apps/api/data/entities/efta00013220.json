@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013220",
+    "filename": "EFTA00013220.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013220.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Letter \nDate: Fri, 02 Oct 2020 16:02:53 +0000 \nAttachments: 2020.10.1_Letter_to_Government_re_Discovery.PDF; \n2020.09.21_Letter_to_Government_re_Discovery_and_Prison_Conditions.PDF \nInline-Images: image005.jpg; image006.jpg \nWe wanted to let you know we received the attached letter on discovery from Maxwell's counsel last night. (I also \nreattached their prior letter on discovery and prison conditions.) aexpects to send you a draft response on \nMonday. We were hoping to chat with you about this and the Do you have time today before 1 pm or after 3 \npm? \nThanks, \nFrom: \nSent: Thursday, October 01, 202011:11 PM \nTo: \nSubject: Letter \nPlease see the attached letter. \nRegards, \nCOHEN & GRESSER LLP \nNew York I  Seoul I  Paris I  Washington DC \nI  London \nCONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended to be reviewed initially by only \nEFTA00013220\n\nthe individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient. you are hereby notified that any \nreview dissemination or copying of this e-mail or the information contained herein is prohibited. If you have received this e-mail in error. please immediately notify \nthe sender by telephone and permanently delete this e-mail. Thank you. \nPRIVACY: A complete copy of our privacy policy can be viewed al: https:/Avww.cohengressercom/privacy-policy.\nEFTA00013221",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Letter \nDate: Fri, 02 Oct 2020 16:02:53 +0"
+      },
+      {
+        "name": "Letter \nPlease",
+        "role": "extracted",
+        "context": ", 202011:11 PM \nTo: \nSubject: Letter \nPlease see the attached letter. \nReg"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.109Z"
+}

@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00020687",
+    "filename": "EFTA00020687.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020687.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: US v. Tartaglione, 16-cr-832 - Unsealing of Records \nDate: Tue, 10 Sep 2019 21:00:44 +0000 \nAttachments: NYTLEGAL-_64879-v2-Tartaglione_Access_Letterpdf \nFYI —  As discussed on Monday, the Post and Daily News moved to unseal the submissions in Tartaglione. The NYT has \njoined. Our response is due on Wednesday. \nFrom: \nSent: Tuesday, September 10, 2019 4:54 PM \nTo: \nCc: \nSubject: FW: US v. Tartaglione, 16-cr-832 - Unsealing of Records \nNYT has joined the Post and Daily News in opposing sealing. \nFrom: Sumar, Al-Amyn \nSent: Tuesday, September 10, 2019 4:46 PM \nTo: \nCc: David McCraw \nSubject: US v. Tartaglione, 16-cr-832 - Unsealing of Records \nAll, \nAttached is a letter on behalf of the New York Times Company and reporter Ben Weiser regarding the above-\nreferenced case, which was sent to the Court today by fax. \nRegards, \nAl-Amyn \nSumar \nLegal Department \nCompany \nNew York. NY 10018 \nEFTA00020687",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Records \nDate",
+        "role": "extracted",
+        "context": "one, 16-cr-832 - Unsealing of Records \nDate: Tue, 10 Sep 2019 21:00:44 +0"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "ussed on Monday, the Post and Daily News moved to unseal the submissio"
+      },
+      {
+        "name": "Amyn \nSent",
+        "role": "extracted",
+        "context": "ing sealing. \nFrom: Sumar, Al-Amyn \nSent: Tuesday, September 10, 2019"
+      },
+      {
+        "name": "David Mc",
+        "role": "extracted",
+        "context": "er 10, 2019 4:46 PM \nTo: \nCc: David McCraw \nSubject: US v. Tartaglio"
+      },
+      {
+        "name": "Craw \nSubject",
+        "role": "extracted",
+        "context": "019 4:46 PM \nTo: \nCc: David McCraw \nSubject: US v. Tartaglione, 16-cr-832"
+      },
+      {
+        "name": "Records \nAll",
+        "role": "extracted",
+        "context": "one, 16-cr-832 - Unsealing of Records \nAll, \nAttached is a letter on beh"
+      },
+      {
+        "name": "Times Company",
+        "role": "extracted",
+        "context": "ter on behalf of the New York Times Company and reporter Ben Weiser regar"
+      },
+      {
+        "name": "Ben Weiser",
+        "role": "extracted",
+        "context": "rk Times Company and reporter Ben Weiser regarding the above-\nreferenc"
+      },
+      {
+        "name": "Amyn \nSumar",
+        "role": "extracted",
+        "context": "t today by fax. \nRegards, \nAl-Amyn \nSumar \nLegal Department \nCompany \nN"
+      },
+      {
+        "name": "Legal Department",
+        "role": "extracted",
+        "context": "x. \nRegards, \nAl-Amyn \nSumar \nLegal Department \nCompany \nNew York. NY 10018"
+      },
+      {
+        "name": "Company \nNew",
+        "role": "extracted",
+        "context": "myn \nSumar \nLegal Department \nCompany \nNew York. NY 10018 \nEFTA00020687"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-10",
+        "event": "September 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.352Z"
+}

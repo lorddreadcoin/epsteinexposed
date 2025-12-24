@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027665",
+    "filename": "EFTA00027665.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027665.pdf",
+    "text": "\n\nFrom: ' \nTo:'\nCc: ' \nSubject: RE: Questionnaires are ready \nDate: Fri, 12 Nov 2021 18:53:05 +0000 \nAttachments: US v. Maxwell Juror_Questionnaire Review -  MASTER CHART eopy.xlsx _ _ _  _ \nQuestionnaires from this morning saved here: \nAssignments are in the attached spreadsheet. The questionnaires are uploaded to USAfx and are ready to be shared with \ndefense counsel once you email them to let them know. \nOriginal Message \nFrom: \nSent: Friday, November 12, 2021 12:07 PM \nTo: \nCc: \nSubject: RE: Questionnaires are ready \nThanks! Team, as a reminder for planning purposes: your comments/objections to your batch of jurors will be due to \nby 11 a.m. tomorrow morning. I'll work with today to get this out to the defense and the court and get the \njuror numbers assigned out to the team to review. \n \nOriginal Message \nFrom: \nSent: Friday, November 12, 2021 12:03 PM \nTo:\n=M> \nCc: \nSubject: Questionnaires are ready \nWell let you know when they're scanned and ready for you. \nSent from my iPhone \n> \nEFTA00027665",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Juror",
+        "role": "extracted",
+        "context": ":05 +0000 \nAttachments: US v. Maxwell Juror_Questionnaire Review -  MASTE"
+      },
+      {
+        "name": "Questionnaire Review",
+        "role": "extracted",
+        "context": "achments: US v. Maxwell Juror_Questionnaire Review -  MASTER CHART eopy.xlsx _ _"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "email them to let them know. \nOriginal Message \nFrom: \nSent: Friday, Novembe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-12",
+        "event": "November 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.733Z"
+}

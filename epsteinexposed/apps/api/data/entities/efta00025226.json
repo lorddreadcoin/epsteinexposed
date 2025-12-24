@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00025226",
+    "filename": "EFTA00025226.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025226.pdf",
+    "text": "\n\nUNITED STATES DEPARTMENT OF JUSTICE \nOffice of the Inspector General \nWARNINGS AND ASSURANCES TO EMPLOYEE REQUIRED \nTO PROVIDE INFORMATION \nYou are being asked to provide information as part of an investigation being conducted by the Office \nof the Inspector General. This investigation is being conducted pursuant to the Inspector General \nAct of 1978, as amended. \nThis investigation pertains to  \nYou have a duty to reply to the questions posed to you during this interview and agency disciplinary \naction, including dismissal, may be undertaken if you refuse to answer or fail to reply fully and \ntruthfully. \nNeither your answers nor any information or evidence gained by reason of your answers can be \nused against you in any criminal proceeding. However, if you knowingly and willfully provide false \nstatements or information in your answers, you may be criminally prosecuted for that action. The \nanswers you furnish and any information or evidence resulting from them may be used in the \ncourse of agency disciplinary proceedings. \nACKNOWLEDGMENT \nI have read and understand my rights and obligations as set forth above. \nSignature of the Office of the Inspector Employee's Signature \nGeneral Special Agent \nName of the Office of the Inspector Employee's Name \nGeneral Special Agent \nSignature of Witness Date and Time \nName of Witness Place \nOIG Form III-226/3 (05/03/21), Warnings and Assurances to Employee Required to \nProvide Information \nEFTA00025226",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ENT OF JUSTICE \nOffice of the Inspector General \nWARNINGS AND ASSURANCES TO E"
+      },
+      {
+        "name": "Inspector Employee",
+        "role": "extracted",
+        "context": "ignature of the Office of the Inspector Employee's Signature \nGeneral Special"
+      },
+      {
+        "name": "Signature \nGeneral",
+        "role": "extracted",
+        "context": "e of the Inspector Employee's Signature \nGeneral Special Agent \nName of the Of"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "Employee's Signature \nGeneral Special Agent \nName of the Office of the In"
+      },
+      {
+        "name": "Name \nGeneral",
+        "role": "extracted",
+        "context": "e of the Inspector Employee's Name \nGeneral Special Agent \nSignature of W"
+      },
+      {
+        "name": "Witness Date",
+        "role": "extracted",
+        "context": "l Special Agent \nSignature of Witness Date and Time \nName of Witness Pla"
+      },
+      {
+        "name": "Time \nName",
+        "role": "extracted",
+        "context": "Signature of Witness Date and Time \nName of Witness Place \nOIG Form II"
+      },
+      {
+        "name": "Witness Place",
+        "role": "extracted",
+        "context": "itness Date and Time \nName of Witness Place \nOIG Form III-226/3 (05/03/21"
+      },
+      {
+        "name": "Employee Required",
+        "role": "extracted",
+        "context": "), Warnings and Assurances to Employee Required to \nProvide Information \nEFTA"
+      },
+      {
+        "name": "Provide Information",
+        "role": "extracted",
+        "context": "nces to Employee Required to \nProvide Information \nEFTA00025226"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.736Z"
+}

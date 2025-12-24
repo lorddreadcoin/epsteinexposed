@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00019535",
+    "filename": "EFTA00019535.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019535.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" < \nTo: \"=, (USANYS)\"\nCc: \n(USANYS)\"> \nSubject: Re: Important question re USA V Ghislaine Maxwell \nDate: \nSun, 05 Jul 2020 01:23:54 +0000 \nNo worries at all — we just forward all these to you! \nSent from my iPhone \nOn Jul 4, 2020, at 20:36, =, (USANYS) < * wrote: \nI'll respond and also let them know not to contact you \nanymore. \nSent from my iPhone \nOn \nJul 4, 2020, at 7:15 PM, \nFYI \nSent from my iPhone \nBegin forwarded message: \nFrom: kathryn milofsky\nDate: July 4, 2020 at 19:08:45 EDT \nTo: \" \n(USANYS) < \n> \nwrote: \nSubject: Important question re USA V \nGhislaine \nMaxwell \nReply-To: kathryn milofsky < > \nDear Mr Rosmiller,Ms Moe, \nI am Kathryn Milofsky a  producer for ITV News in the UK, based in NY. We are the largest commercial \nbroadcaster in the UK, similar in style stature to NBC. \nWe are trying to establish when the bail hearing is in your case USA V Maxwell. \nCould you be so kind as to let me know. \nHave a  wonderful safe July 4th. \nBest \nKathryn Milofsky \nProducer \nITV News \nEFTA00019535\n\nEFTA00019536",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ANYS)\"> \nSubject: Re: Important question re USA V Ghislaine Maxwell \nDate: \nSun, 05 Jul 2020 01:23:54 +0000 \nNo worri"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "these to you! \nSent from my iPhone \nOn Jul 4, 2020, at 20:36, =, (US"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "7:15 PM, \nFYI \nSent from my iPhone \nBegin forwarded message: \nFrom: kat"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "Important question re USA V \nGhislaine \nMaxwell \nReply-To: kathryn milofsky <"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": "ply-To: kathryn milofsky < > \nDear Mr Rosmiller,Ms Moe, \nI am Kathr"
+      },
+      {
+        "name": "Ms Moe",
+        "role": "extracted",
+        "context": "lofsky < > \nDear Mr Rosmiller,Ms Moe, \nI am Kathryn Milofsky a  pr"
+      },
+      {
+        "name": "Kathryn Milofsky",
+        "role": "extracted",
+        "context": "ar Mr Rosmiller,Ms Moe, \nI am Kathryn Milofsky a  producer for ITV News in t"
+      },
+      {
+        "name": "Best \nKathryn",
+        "role": "extracted",
+        "context": "a  wonderful safe July 4th. \nBest \nKathryn Milofsky \nProducer \nITV News"
+      },
+      {
+        "name": "Milofsky \nProducer",
+        "role": "extracted",
+        "context": "safe July 4th. \nBest \nKathryn Milofsky \nProducer \nITV News \nEFTA00019535\n\nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-04",
+        "event": "July 4, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.095Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00032409",
+    "filename": "EFTA00032409.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032409.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: (USANYS)\" <1 \nSubject: RE: Epstein \nDate: Wed, 05 Dec 2018 17:46:21 +0000 \nImportance: Normal \nI  came by —  let me know when you're around. \nFrom: (USANYS) \nSent: Wednesday, December 05, 2018 10:14 AM \nTo: \nSubject: Epstein \n(USANYS) < \nSwing by when you have a sec \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00032409",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "o: (USANYS)\" <1 \nSubject: RE: Epstein \nDate: Wed, 05 Dec 2018 17:46:21 +0"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "ou have a sec \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00032409"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-12-05",
+        "event": "December 05, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.557Z"
+}

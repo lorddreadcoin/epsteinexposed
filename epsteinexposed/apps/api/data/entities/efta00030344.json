@@ -1,0 +1,205 @@
+{
+  "document": {
+    "id": "efta00030344",
+    "filename": "EFTA00030344.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030344.pdf",
+    "text": "\n\n06/301202013:10 \nEDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nunter Person \nDetail \nLast Name \nMAXWELL \nDocument Humber' \n'First Name Middle Initial Gender Dale of Birth \nGHISLAINE NOELLE MARION P \nIDocumentType \nDocument Country Class of Admission Admit LIMA Date \nPASSPORT UNITED KINGDOM \nEncounter Person Detail \nEnceinte/ Line Typo Encounter Dab Encounter Time (Eastern) Terminal Lane SiteEncoureer Location \nADVANCED PASSENGER \nRECORD \n06/02/2019 00:00 \nInb0undfOutbound inspector Processing Result Primary Ducey Result Referred To Agency \nOUTBOUND 3 \nManifest Data a \nManliest Indicator Passengrie Status FlightVessel Wombat Departure Location\nR ON BOARD 212 BOS - BOSTON / LOGAN INTL \nTransmitted By Carrier Cade Antral Location\nALTEA*CM BA LHR -  LONDON / HEATHROW INTL \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00030344",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border Protection",
+        "role": "extracted",
+        "context": "013:10 \nEDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGen"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "artment of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage"
+      },
+      {
+        "name": "Detail \nGenerated",
+        "role": "extracted",
+        "context": "nd Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nunter Per"
+      },
+      {
+        "name": "Person \nDetail",
+        "role": "extracted",
+        "context": "ted \nBy: \nPage 1 \nof 1 \nunter Person \nDetail \nLast Name \nMAXWELL \nDocument"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "of 1 \nunter Person \nDetail \nLast Name \nMAXWELL \nDocument Humber' \n'"
+      },
+      {
+        "name": "Document Humber",
+        "role": "extracted",
+        "context": "Detail \nLast Name \nMAXWELL \nDocument Humber' \n'First Name Middle Initial"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "MAXWELL \nDocument Humber' \n'First Name Middle Initial Gender Dale of"
+      },
+      {
+        "name": "Middle Initial",
+        "role": "extracted",
+        "context": "Document Humber' \n'First Name Middle Initial Gender Dale of Birth \nGHISLAI"
+      },
+      {
+        "name": "Gender Dale",
+        "role": "extracted",
+        "context": "' \n'First Name Middle Initial Gender Dale of Birth \nGHISLAINE NOELLE MA"
+      },
+      {
+        "name": "Type \nDocument",
+        "role": "extracted",
+        "context": "INE NOELLE MARION P \nIDocumentType \nDocument Country Class of Admission Ad"
+      },
+      {
+        "name": "Country Class",
+        "role": "extracted",
+        "context": "ON P \nIDocumentType \nDocument Country Class of Admission Admit LIMA Date"
+      },
+      {
+        "name": "Admission Admit",
+        "role": "extracted",
+        "context": "pe \nDocument Country Class of Admission Admit LIMA Date \nPASSPORT UNITED KI"
+      },
+      {
+        "name": "Encounter Person",
+        "role": "extracted",
+        "context": "ate \nPASSPORT UNITED KINGDOM \nEncounter Person Detail \nEnceinte/ Line Typo E"
+      },
+      {
+        "name": "Detail \nEnceinte",
+        "role": "extracted",
+        "context": "TED KINGDOM \nEncounter Person Detail \nEnceinte/ Line Typo Encounter Dab Enco"
+      },
+      {
+        "name": "Line Typo",
+        "role": "extracted",
+        "context": "nter Person Detail \nEnceinte/ Line Typo Encounter Dab Encounter Time"
+      },
+      {
+        "name": "Encounter Dab",
+        "role": "extracted",
+        "context": "n Detail \nEnceinte/ Line Typo Encounter Dab Encounter Time (Eastern) Term"
+      },
+      {
+        "name": "Encounter Time",
+        "role": "extracted",
+        "context": "inte/ Line Typo Encounter Dab Encounter Time (Eastern) Terminal Lane SiteE"
+      },
+      {
+        "name": "Terminal Lane",
+        "role": "extracted",
+        "context": "Dab Encounter Time (Eastern) Terminal Lane SiteEncoureer Location \nADVAN"
+      },
+      {
+        "name": "Encoureer Location",
+        "role": "extracted",
+        "context": "e (Eastern) Terminal Lane SiteEncoureer Location \nADVANCED PASSENGER \nRECORD"
+      },
+      {
+        "name": "Processing Result",
+        "role": "extracted",
+        "context": "0 \nInb0undfOutbound inspector Processing Result Primary Ducey Result Referred"
+      },
+      {
+        "name": "Primary Ducey",
+        "role": "extracted",
+        "context": "d inspector Processing Result Primary Ducey Result Referred To Agency \nOU"
+      },
+      {
+        "name": "Result Referred",
+        "role": "extracted",
+        "context": "ocessing Result Primary Ducey Result Referred To Agency \nOUTBOUND 3 \nManife"
+      },
+      {
+        "name": "To Agency",
+        "role": "extracted",
+        "context": "Primary Ducey Result Referred To Agency \nOUTBOUND 3 \nManifest Data a"
+      },
+      {
+        "name": "Manifest Data",
+        "role": "extracted",
+        "context": "ferred To Agency \nOUTBOUND 3 \nManifest Data a \nManliest Indicator Passeng"
+      },
+      {
+        "name": "Manliest Indicator",
+        "role": "extracted",
+        "context": "OUTBOUND 3 \nManifest Data a \nManliest Indicator Passengrie Status FlightVesse"
+      },
+      {
+        "name": "Passengrie Status",
+        "role": "extracted",
+        "context": "st Data a \nManliest Indicator Passengrie Status FlightVessel Wombat Departure"
+      },
+      {
+        "name": "Vessel Wombat",
+        "role": "extracted",
+        "context": "cator Passengrie Status FlightVessel Wombat Departure Location\nR ON BOARD"
+      },
+      {
+        "name": "Departure Location",
+        "role": "extracted",
+        "context": "ie Status FlightVessel Wombat Departure Location\nR ON BOARD 212 BOS - BOSTON /"
+      },
+      {
+        "name": "Transmitted By",
+        "role": "extracted",
+        "context": "12 BOS - BOSTON / LOGAN INTL \nTransmitted By Carrier Cade Antral Location"
+      },
+      {
+        "name": "Carrier Cade",
+        "role": "extracted",
+        "context": "/ LOGAN INTL \nTransmitted By Carrier Cade Antral Location\nALTEA*CM BA L"
+      },
+      {
+        "name": "Antral Location",
+        "role": "extracted",
+        "context": "Transmitted By Carrier Cade Antral Location\nALTEA*CM BA LHR -  LONDON / H"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "HR -  LONDON / HEATHROW INTL \nFor Official Use Only / Law Enforcement Se"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "/ HEATHROW INTL \nFor Official Use Only / Law Enforcement Sensitive"
+      },
+      {
+        "name": "Law Enforcement",
+        "role": "extracted",
+        "context": "INTL \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00030344"
+      }
+    ],
+    "locations": [
+      {
+        "name": "LHR",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-06-02",
+        "event": "06/02/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.629Z"
+}

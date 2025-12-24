@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00022125",
+    "filename": "EFTA00022125.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022125.pdf",
+    "text": "\n\nFrom: The Bloomberg Open < \nTo: \nSubject: [EXTERNAL] The O word \nDate: Mon, 29 Nov 2021 12:09:15 +0000 \nIs] \nBloomberg \nlio \nEFTA00022125\n\nEFTA00022126\n\nOpinion \nEFTA00022127\n\nOn trial. Ghislaine Maxwell—the 59-year-old British socialite who has \npleaded not guilty to trafficking underage girls for sex with former boyfriend \nJeffrey Epstein—is getting closer to her moment of reckoning. Final jury \nselection and opening arguments in her trial start today. Maxwell faces up \nto 40 years if convicted on the most serious charges. As for her time in jail, \nyou guessed it: she hates it. \nFOLLOW US Lc; Lc; GET THE NEWSLETTER \nEFTA00022128\n\nEFTA00022129",
+    "pageCount": 5,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ing underage girls for sex with former boyfriend \nJeffrey Epstein—is getting closer to her moment of reckoning. Fin"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "5\n\nEFTA00022126\n\nOpinion \nEFTA00022127\n\nOn trial. Ghislaine Maxwell—the 59-year-old British socialite who has \npleade"
+      },
+      {
+        "name": "The Bloomberg",
+        "role": "extracted",
+        "context": "From: The Bloomberg Open < \nTo: \nSubject: [EXTERN"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.069Z"
+}

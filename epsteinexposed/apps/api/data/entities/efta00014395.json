@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00014395",
+    "filename": "EFTA00014395.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014395.pdf",
+    "text": "\n\nFrom: \nTo:' \nSubject: RE: \npictures \nDate: Mon, 29 Jun 2020 00:40:05 +0000 \nAttachments: Roberts Defamation_Complaint.pdf \nHere's the defamation complaint. \nFrom: \nSent: Sunday, June 28, 2020 8:38 PM \nTo: \nSubject: Re: pictures \nYes I will be. What's up? \nOn \nJun 28, 2020 8:36 PM, \nI forgot to ask earlier: are you heading into the office afterwards? \nSent from my iPhone \nOn Jun 28, 2020, at 8:23 PM, \nNo problem. Thanks for the heads up. \nwrote: \n> \nwrote: \nFrom \nSent: Sunday, June 28, 2020 8:21 PM \nTo: \nSubject: pictures \nFYI, I swapped out some of the pictures in the powerpoint to these ones, but they're the same subjects. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00014395",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Roberts Defamation",
+        "role": "extracted",
+        "context": "00:40:05 +0000 \nAttachments: Roberts Defamation_Complaint.pdf \nHere's the def"
+      },
+      {
+        "name": "On \nJun",
+        "role": "extracted",
+        "context": "s \nYes I will be. What's up? \nOn \nJun 28, 2020 8:36 PM, \nI forgot t"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ce afterwards? \nSent from my iPhone \nOn Jun 28, 2020, at 8:23 PM, \nNo"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "heads up. \nwrote: \n> \nwrote: \nFrom \nSent: Sunday, June 28, 2020 8:21 P"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "t they're the same subjects. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e subjects. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00014395"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-28",
+        "event": "June 28, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.765Z"
+}

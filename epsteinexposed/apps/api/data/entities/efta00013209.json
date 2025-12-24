@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00013209",
+    "filename": "EFTA00013209.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013209.pdf",
+    "text": "\n\nDAG \nMeeting \nCase Overview \nActing U.S. \nAttorne \nNovember \n5, 2020 \nI. \nAnticipated \nCharges and \nInvestigative Steps \n. \n. \nI \nEFTA00013209\n\nDAG Meeting Case Overview \nActing U.S. Attorne \nNovember 5, 2020 \nII. Charged Cases \nU.S. v. Maxwell, 20 Cr. 330 (AJN): This summer, we charged Ghislaine Maxwell with \nconspiring to entice minors to travel for the purpose of sexual abuse in connection with helping \nJeffrey Epstein to abuse his many victims. The case focused on three specific victims that \ntraveled to be abused by Epstein, including instances in which Maxwell herself participated in \nthe acts of abuse. Trial is set for this coming July. We are finishing discovery, and motions are \nscheduled for December. Motion practice could generate further press; for example, the \ndefendant continues to press for the identity of the specific victims, and if she is successful, that \nwould surely lead to a round of press about the victims and the details of our case. Relliwe \nare in plea negotiations with counsel fa, another Epstein co-conspirator. \nwho scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his \nsexual abuse, may plead to an obstruction of justice-related count. \nEFTA00013210",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "rpose of sexual abuse in connection with helping \nJeffrey Epstein to abuse his many victims. The case focused on th"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "axwell, 20 Cr. 330 (AJN): This summer, we charged Ghislaine Maxwell with \nconspiring to entice minors to travel for t"
+      },
+      {
+        "name": "Meeting \nCase",
+        "role": "extracted",
+        "context": "DAG \nMeeting \nCase Overview \nActing U.S. \nAttorn"
+      },
+      {
+        "name": "Overview \nActing",
+        "role": "extracted",
+        "context": "DAG \nMeeting \nCase Overview \nActing U.S. \nAttorne \nNovember \n5, 2"
+      },
+      {
+        "name": "Attorne \nNovember",
+        "role": "extracted",
+        "context": "Case Overview \nActing U.S. \nAttorne \nNovember \n5, 2020 \nI. \nAnticipated \nCh"
+      },
+      {
+        "name": "Anticipated \nCharges",
+        "role": "extracted",
+        "context": "torne \nNovember \n5, 2020 \nI. \nAnticipated \nCharges and \nInvestigative Steps \n."
+      },
+      {
+        "name": "Investigative Steps",
+        "role": "extracted",
+        "context": "I. \nAnticipated \nCharges and \nInvestigative Steps \n. \n. \nI \nEFTA00013209\n\nDAG M"
+      },
+      {
+        "name": "Meeting Case",
+        "role": "extracted",
+        "context": "s \n. \n. \nI \nEFTA00013209\n\nDAG Meeting Case Overview \nActing U.S. Attorne"
+      },
+      {
+        "name": "Charged Cases",
+        "role": "extracted",
+        "context": "ttorne \nNovember 5, 2020 \nII. Charged Cases \nU.S. v. Maxwell, 20 Cr. 330"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-05",
+        "event": "November \n5, 2020"
+      },
+      {
+        "date": "2020-11-05",
+        "event": "November 5, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.086Z"
+}

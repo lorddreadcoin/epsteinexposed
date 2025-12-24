@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00010382",
+    "filename": "EFTA00010382.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010382.pdf",
+    "text": "\n\nFrom: '(USANYS)\" \nTo: (USANYS)\" \nCc: \n'USANYS)\"\n \nSANYS)\" \n(U \n(USANYS)\" \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nDate: Mon, 28 Jun 2021 21:14:51 +0000 \nThank you — I've reached out to the GC of OCME to give her a head's up. \nFrom: \n(USANYS) \nSent: Monday, June 28, 2021 5:02 PM \nTo: \n(USANYS) \nCc: \n(USANYS) \n(USANYS) \nSubject: Epstein FOIA - OCME Report of Autopsy \n(USANYS) \nPlease find attached the OCME Report of Autopsy. The boxes show where there will be redactions. \nThanks \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00010382",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Autopsy \nDate",
+        "role": "extracted",
+        "context": "Epstein FOIA - OCME Report of Autopsy \nDate: Mon, 28 Jun 2021 21:14:51 +0"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "re there will be redactions. \nThanks \nAssistant United States Attorney \n300 Q"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00010382"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-28",
+        "event": "June 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.856Z"
+}

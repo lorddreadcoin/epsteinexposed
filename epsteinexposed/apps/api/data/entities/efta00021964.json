@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00021964",
+    "filename": "EFTA00021964.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021964.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Copy of US v. Maxwell Juror Questionnaire Review JME 220-248.xlsx \nDate: Sat, 06 Nov 2021 18:25:53 +0000 \nAttachments: Copy_of US_v._Maxwell_Juror_Questionnaire_Review_JME_220-248.xlsx \nBatch 2 \nfor me. \nEFTA00021964",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Juror",
+        "role": "extracted",
+        "context": "To: \nSubject: Copy of US v. Maxwell Juror Questionnaire Review JME 220-"
+      },
+      {
+        "name": "Questionnaire Review",
+        "role": "extracted",
+        "context": ": Copy of US v. Maxwell Juror Questionnaire Review JME 220-248.xlsx \nDate: Sat,"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.749Z"
+}

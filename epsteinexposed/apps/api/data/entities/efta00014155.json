@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014155",
+    "filename": "EFTA00014155.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014155.pdf",
+    "text": "\n\nFrom: \nTo: (USAFLS \"ciS•Si\" \nSAFLS)\" \n(USAFLS)\" \n(USAFLS)\" \nSubject: RE: Jane Does v USA/Epstein \nDate: Fri, 05 Dec 2008 23:31:18 +0000 \nImportance: Normal \nI have not. Your draft supplemental declaration (Nov 18, 2008) is fine. If you would sign and scan it, I  will file everything on Monday. \nThanks. \n----Original Message \nFrom: \n(USAFLS) \nSent: Friday, December 05, 2008 6:08 PM \nTo: (USAFLS); \nSubject: Jane Does v USA/Epstein \n(USAFLS); (USAFLS); (USAFLS) \nHi all. Yet another of our favorite lawyers has filed the non-pros agrmt with the court. He filed it under seal and asked the court to unseal it. \n- did you ever file the motn for summ judgment and my amended declaration? \nI sent the notifications about the work release to all of the represented victims via their attorneys this afternoon. \nEFTA00014155",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jane Does",
+        "role": "extracted",
+        "context": "LS)\" \n(USAFLS)\" \nSubject: RE: Jane Does v USA/Epstein \nDate: Fri, 05"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Jane Does v USA/Epstein \nDate: Fri, 05 Dec 2008 23:31:18 +0"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "hing on Monday. \nThanks. \n----Original Message \nFrom: \n(USAFLS) \nSent: Frida"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-12-05",
+        "event": "December 05, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.280Z"
+}

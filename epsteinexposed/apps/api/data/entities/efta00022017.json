@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00022017",
+    "filename": "EFTA00022017.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022017.pdf",
+    "text": "\n\nFrom: \")\" \nTo: \"a\" allMin' \nSubject: FW: Maxwell Suppression Opinion \nDate: Mon, 28 Jun 2021 14:15:58 +0000 \nAttachments: 20cr330_Sealed_Opinion_&_Order 6.25.21.pdf; 20cr330_Order 6.25.21.pdf \nEFTA00022017",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Suppression",
+        "role": "extracted",
+        "context": "To: \"a\" allMin' \nSubject: FW: Maxwell Suppression Opinion \nDate: Mon, 28 Jun 20"
+      },
+      {
+        "name": "Opinion \nDate",
+        "role": "extracted",
+        "context": "ject: FW: Maxwell Suppression Opinion \nDate: Mon, 28 Jun 2021 14:15:58 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.853Z"
+}

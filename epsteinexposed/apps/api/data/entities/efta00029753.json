@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029753",
+    "filename": "EFTA00029753.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029753.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: \nDate: Mon, 20 Jan 2020 21:04:37 +0000 \nAttachments: Fed Complaint.pdf \n(USANYS)\"  \nYeah, we saw this on Friday and were a little frustrated not to have gotten the advance notice we had anticipated prior to \nthem filing. We contacted counsel on Friday and he apologized and said they've been particularly busy. So, yeah. But he \ndid send the complaint, which also has been filed on the docket, which presumably is where the Daily News found it (her \nattorney was surprised there was media about it, so I think they didn't cause the story). Complaint is fairly bare-bones, \nthough it includes the Trump interaction she had with Epstein, and is attached here. No judge assigned yet. \nFrom: (USANYS)  \nSent: Saturday, January 18, 2020 15:09 \nTo: \nCc: \nSubject:. \n(USANYS) < \nLooks like she filed a civil suit: \nhttps://www.nydailynews.corn/new-york/ny-epstein-trump-victim-suit-20200118-\nm6sqsa2h7ven   f5uewjrkvigo4-nory.html \nSent from my iPhone \nEFTA00029753",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fed Complaint",
+        "role": "extracted",
+        "context": "21:04:37 +0000 \nAttachments: Fed Complaint.pdf \n(USANYS)\"  \nYeah, we saw"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "which presumably is where the Daily News found it (her \nattorney was s"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-18",
+        "event": "January 18, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.133Z"
+}

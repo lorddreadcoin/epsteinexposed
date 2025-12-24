@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00026614",
+    "filename": "EFTA00026614.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026614.pdf",
+    "text": "\n\nFrom: ' \nTo: \n ) \n[Contractor]\" \nCc: \n=S:1 \n>, \nSubject: FW: notes \nDate: Thu, 19 Dec 2019 22:14:08 —0000 \nAttachments: t_notes_12.17.19142818.pdf \nFor the Epstein share, thanks! \nFrom \nSent: Thursday, December 19, 2019 3:42 PM \nTo: \nSubject: Re: notes \n>; \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom: \nSent: Wednesday, December 18, 2019 10:51 PM \nTo: \nN. (NY) (FBI) c\nSubject: notes \nN. (NY) (FBI) \nHi guys, would one of you please send me the notes from the interview when you have the chance? \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00026614",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "r the Epstein share, thanks! \nFrom \nSent: Thursday, December 19, 2019"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": ">; \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "PD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom:"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ew when you have the chance? \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the chance? \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-19",
+        "event": "December 19, 2019"
+      },
+      {
+        "date": "2019-12-18",
+        "event": "December 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.669Z"
+}

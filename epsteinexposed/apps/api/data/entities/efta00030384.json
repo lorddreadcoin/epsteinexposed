@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030384",
+    "filename": "EFTA00030384.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030384.pdf",
+    "text": "\n\nFrom: \nkathryn milofskv \n• \nTo:\nSubject: Important question re USA V Ghislaine Maxwell \nDate: Sat, 04 Jul 2020 23:08:45 +0000 \nDear Mr \nI  am Kathryn Milofsky a  producer for IN News in the UK, based in NY.We are the largest commercial \nbroadcaster in the UK, similar in style stature to NBC. \nWe are trying to establish when the bail hearing is in your case USA V Maxwell. \nCould you be so kind as to let me know. \nHave a  wonderful safe July 4th. \nBest \nKathryn Milofsky \nProducer \nIN News \nEFTA00030384",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "fskv \n• \nTo:\nSubject: Important question re USA V Ghislaine Maxwell \nDate: Sat, 04 Jul 2020 23:08:45 +0000 \nDear Mr"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": ", 04 Jul 2020 23:08:45 +0000 \nDear Mr \nI  am Kathryn Milofsky a  pr"
+      },
+      {
+        "name": "Kathryn Milofsky",
+        "role": "extracted",
+        "context": "3:08:45 +0000 \nDear Mr \nI  am Kathryn Milofsky a  producer for IN News in th"
+      },
+      {
+        "name": "Best \nKathryn",
+        "role": "extracted",
+        "context": "a  wonderful safe July 4th. \nBest \nKathryn Milofsky \nProducer \nIN News"
+      },
+      {
+        "name": "Milofsky \nProducer",
+        "role": "extracted",
+        "context": "safe July 4th. \nBest \nKathryn Milofsky \nProducer \nIN News \nEFTA00030384"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.749Z"
+}

@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00005763",
+    "filename": "EFTA00005763.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00005763.pdf",
+    "text": "\n\nEFTA00005763\n\nx \nm \nWoR \ni4PfzeD \nNy \nS \nS\n-\n/7\n,\nageaf, • \nCA/ \nArys \nDL. \n/1147ie \n7-••• \nEFTA00005764\n\n \n(.?cleo!A745-\n4e-geo \n1-e-1 \ntin*. \npsi, \nMole-\n  \nalAstroct) \nISM \nmew \ni    TIAN \nP- rvettaiy. \n51\\flrak \n- \nSt\n; \n'vied \nYN.SIN \ncardiei \n+6-adv1\n\"9 \nkoila \nrct4tkr-\nvvcoeAir4 \nvtity-L)46 \n(Vertu \na \nLanit \nEFTA00005765\n\neJusticeNY \nIntegrated Justice Portal \nPage \nI  of I \nrH•tteekt \neJusticeNYINTEGRATED \nJUSTICE PORTAI. \n. \nPeocle  •  DMV Photo STStera \n• \nprif Photo \nRequest\n \nV \nFeedback\nI\nDMV \nPhoto \nRequest \nSub act \nInformation \nClientID: \nCase Number: \nDMV Transaction Number: \n2019-06-06 14:49:54:870 \nDMV Transaction Date/Time: \nBach \nFt) 0 ta Site \n'iliac> S  to \nJune 6, 2019 2:49 PM \nEDT \n.. 6/6/2019 \nEFTA00005766\n\nEFTA00005767\n\nEFTA00005768\n\nEFTA00005769\n\nEFTA00005770\n\nEFTA00005771\n\nEFTA00005772\n\nEFTA00005773",
+    "pageCount": 11,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Integrated Justice",
+        "role": "extracted",
+        "context": "it \nEFTA00005765\n\neJusticeNY \nIntegrated Justice Portal \nPage \nI  of I \nrH•tte"
+      },
+      {
+        "name": "Portal \nPage",
+        "role": "extracted",
+        "context": "JusticeNY \nIntegrated Justice Portal \nPage \nI  of I \nrH•tteekt \neJustice"
+      },
+      {
+        "name": "Photo \nRequest",
+        "role": "extracted",
+        "context": "•  DMV Photo STStera \n• \nprif Photo \nRequest\n \nV \nFeedback\nI\nDMV \nPhoto \nR"
+      },
+      {
+        "name": "Information \nClient",
+        "role": "extracted",
+        "context": "DMV \nPhoto \nRequest \nSub act \nInformation \nClientID: \nCase Number: \nDMV Transac"
+      },
+      {
+        "name": "Transaction Number",
+        "role": "extracted",
+        "context": "ClientID: \nCase Number: \nDMV Transaction Number: \n2019-06-06 14:49:54:870 \nDM"
+      },
+      {
+        "name": "Transaction Date",
+        "role": "extracted",
+        "context": "2019-06-06 14:49:54:870 \nDMV Transaction Date/Time: \nBach \nFt) 0 ta Site \n'"
+      },
+      {
+        "name": "Bach \nFt",
+        "role": "extracted",
+        "context": "DMV Transaction Date/Time: \nBach \nFt) 0 ta Site \n'iliac> S  to \nJu"
+      }
+    ],
+    "locations": [
+      {
+        "name": "SIN",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-06-06",
+        "event": "6/6/2019"
+      },
+      {
+        "date": "2019-06-06",
+        "event": "2019-06-06"
+      },
+      {
+        "date": "2019-06-06",
+        "event": "June 6, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.160Z"
+}

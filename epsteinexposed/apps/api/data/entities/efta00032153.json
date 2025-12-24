@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032153",
+    "filename": "EFTA00032153.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032153.pdf",
+    "text": "\n\n0 \nSuicide \nPrevention \nAnnual \nTraining \n2019 \nEFTA00032153\n\nAt\n-Risk \nSettings \n• \nRestrictive \nHousing \n• \nSingle \nCells \n• \nPrivate \nSpaces \nEFTA00032154",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Suicide \nPrevention",
+        "role": "extracted",
+        "context": "0 \nSuicide \nPrevention \nAnnual \nTraining \n2019 \nEFTA"
+      },
+      {
+        "name": "Annual \nTraining",
+        "role": "extracted",
+        "context": "0 \nSuicide \nPrevention \nAnnual \nTraining \n2019 \nEFTA00032153\n\nAt\n-Risk"
+      },
+      {
+        "name": "Risk \nSettings",
+        "role": "extracted",
+        "context": "ning \n2019 \nEFTA00032153\n\nAt\n-Risk \nSettings \n• \nRestrictive \nHousing \n•"
+      },
+      {
+        "name": "Restrictive \nHousing",
+        "role": "extracted",
+        "context": "32153\n\nAt\n-Risk \nSettings \n• \nRestrictive \nHousing \n• \nSingle \nCells \n• \nPrivate"
+      },
+      {
+        "name": "Single \nCells",
+        "role": "extracted",
+        "context": "• \nRestrictive \nHousing \n• \nSingle \nCells \n• \nPrivate \nSpaces \nEFTA0003"
+      },
+      {
+        "name": "Private \nSpaces",
+        "role": "extracted",
+        "context": "Housing \n• \nSingle \nCells \n• \nPrivate \nSpaces \nEFTA00032154"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.753Z"
+}

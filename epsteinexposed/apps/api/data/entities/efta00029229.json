@@ -1,0 +1,104 @@
+{
+  "document": {
+    "id": "efta00029229",
+    "filename": "EFTA00029229.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029229.pdf",
+    "text": "\n\n09 12002 \nAccount \nNumber. \nQ 79961-00-1 \nJEFFREY EPSTEIN September 01, 2002 - September 30, 2002 \nJPMorgan Chase Bank \nI n\nJPMorgan Private Bank \nAsset Account Portfolio Page 8 of 9 \nActivity by Date continued \nSettlement \nDate \nTette \nQuantity \nDescription \nAmount LISD \nSep 16 Misc. Disbursement \nSep 18 Sale \nSep 18 Misc. Disbursement \nTRANSFERRED BY WIRE TO \nPALM BEACH NATL BK & TR CO \nFAO JEFFREY EPSTEIN \nLETTER FROM CLIENT \n- 5,000,000 J P MORGAN TAX FREE MONEY MARKET \nFUND INSTITUTIONAL SHARE CLASS \n(FUND 840) \nJ P MORGAN SECURITIES INC AS AGENT \nCo \n1.00 \nTRADE DATE 09/18:02 \nTRANSFERRED BY WIRE TO \nPALM BEACH NATL BK & TR CO \nFAO GHISLAINE MAXWELL \nLETTER FROM CLIENT \n- 1,000 000 00 \n5,000,000 00 \n- 5,000 000 00 \nGOVERNMENT \nEXHIBIT \nSO4 \n52 20 Cr. 330 (AN) \nConfidential Treatment Requested by JPMorgan \nChase \nJPM-SDNY-00005512 \nEFTA00029229",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "09 12002 \nAccount \nNumber. \nQ 79961-00-1 \nJEFFREY EPSTEIN September 01, 2002 - September 30, 2002 \nJPMorgan"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ERRED BY WIRE TO \nPALM BEACH NATL BK & TR CO \nFAO GHISLAINE MAXWELL \nLETTER FROM CLIENT \n- 1,000 000 00 \n5,000,000 00"
+      },
+      {
+        "name": "Account \nNumber",
+        "role": "extracted",
+        "context": "09 12002 \nAccount \nNumber. \nQ 79961-00-1 \nJEFFREY EPSTE"
+      },
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "2002 - September 30, 2002 \nJPMorgan Chase Bank \nI n\nJPMorgan Private Ba"
+      },
+      {
+        "name": "Morgan Private",
+        "role": "extracted",
+        "context": "2 \nJPMorgan Chase Bank \nI n\nJPMorgan Private Bank \nAsset Account Portfolio"
+      },
+      {
+        "name": "Bank \nAsset",
+        "role": "extracted",
+        "context": "se Bank \nI n\nJPMorgan Private Bank \nAsset Account Portfolio Page 8 of 9"
+      },
+      {
+        "name": "Account Portfolio",
+        "role": "extracted",
+        "context": "JPMorgan Private Bank \nAsset Account Portfolio Page 8 of 9 \nActivity by Date"
+      },
+      {
+        "name": "Settlement \nDate",
+        "role": "extracted",
+        "context": "Activity by Date continued \nSettlement \nDate \nTette \nQuantity \nDescription"
+      },
+      {
+        "name": "Tette \nQuantity",
+        "role": "extracted",
+        "context": "continued \nSettlement \nDate \nTette \nQuantity \nDescription \nAmount LISD \nSe"
+      },
+      {
+        "name": "Description \nAmount",
+        "role": "extracted",
+        "context": "ement \nDate \nTette \nQuantity \nDescription \nAmount LISD \nSep 16 Misc. Disburseme"
+      },
+      {
+        "name": "Disbursement \nSep",
+        "role": "extracted",
+        "context": "on \nAmount LISD \nSep 16 Misc. Disbursement \nSep 18 Sale \nSep 18 Misc. Disburs"
+      },
+      {
+        "name": "Sale \nSep",
+        "role": "extracted",
+        "context": "16 Misc. Disbursement \nSep 18 Sale \nSep 18 Misc. Disbursement \nTRANSF"
+      },
+      {
+        "name": "Confidential Treatment",
+        "role": "extracted",
+        "context": "BIT \nSO4 \n52 20 Cr. 330 (AN) \nConfidential Treatment Requested by JPMorgan \nChase"
+      },
+      {
+        "name": "Morgan \nChase",
+        "role": "extracted",
+        "context": "tial Treatment Requested by JPMorgan \nChase \nJPM-SDNY-00005512 \nEFTA00029"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2002-09-01",
+        "event": "September 01, 2002"
+      },
+      {
+        "date": "2002-09-30",
+        "event": "September 30, 2002"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.050Z"
+}

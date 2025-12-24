@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00031329",
+    "filename": "EFTA00031329.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031329.pdf",
+    "text": "\n\nFrom: ' \nTo: ' (USANYS)\"\nSubject: RE: Marshals Intake Form \nDate: Wed, 22 Jul 2020 21:01:24 +0000 \nThank you! \nFrom: \n(USANYS) \nSent: Wednesday, July 22, 2020 17:00 \nTo: \nSubject: RE: Marshals Intake Form \nSee attached. \nFrom: \nSent: Wednesday, July 22, 2020 4:46 PM \nTo: USANYS-INVESTIGATORS \nSubject: Marshals Intake Form \n>; USANYS-INVESTIGATORS < \nPlease process the following: \nRequestor's Phone Number: \n1< \nName /  Alias(es): Ghislaine Maxwell \nCourt Number: 20 Cr. 330 (AJN) \nUSAO Number: 2018R01618 \nUSMS Number: 02879-509 \nArrest Date: 07/02/20 \nDate of Birth: \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA00031329",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Requestor's Phone Number: \n1< \nName /  Alias(es): Ghislaine Maxwell \nCourt Number: 20 Cr. 330 (AJN) \nUSAO Number: 201"
+      },
+      {
+        "name": "Marshals Intake",
+        "role": "extracted",
+        "context": "To: ' (USANYS)\"\nSubject: RE: Marshals Intake Form \nDate: Wed, 22 Jul 2020"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Marshals Intake Form \nDate: Wed, 22 Jul 2020 21:01:24 +0"
+      },
+      {
+        "name": "Form \nSee",
+        "role": "extracted",
+        "context": "Subject: RE: Marshals Intake Form \nSee attached. \nFrom: \nSent: Wedne"
+      },
+      {
+        "name": "Phone Number",
+        "role": "extracted",
+        "context": "s the following: \nRequestor's Phone Number: \n1< \nName /  Alias(es): Ghis"
+      },
+      {
+        "name": "Court Number",
+        "role": "extracted",
+        "context": "Alias(es): Ghislaine Maxwell \nCourt Number: 20 Cr. 330 (AJN) \nUSAO Numbe"
+      },
+      {
+        "name": "Arrest Date",
+        "role": "extracted",
+        "context": "1618 \nUSMS Number: 02879-509 \nArrest Date: 07/02/20 \nDate of Birth: \nDo"
+      },
+      {
+        "name": "Email \nPhoto",
+        "role": "extracted",
+        "context": "0 \nDate of Birth: \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA0003132"
+      },
+      {
+        "name": "Email \nRemarks",
+        "role": "extracted",
+        "context": "th: \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA00031329"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-22",
+        "event": "July 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.841Z"
+}

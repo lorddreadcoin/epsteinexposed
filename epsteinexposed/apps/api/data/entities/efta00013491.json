@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "efta00013491",
+    "filename": "EFTA00013491.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013491.pdf",
+    "text": "\n\nEvent: Epstein \nStart Date: 2009-06-05 15:00:00 +0000 \nEnd Date: 2009-06-05 15:30:00 +0000 \nOrganizer: \nLocation:. Office \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:22:37 +0000 \nDate Modified: 2015-07-22 20:34:56 +0000 \nPriority: 5 \nDTSTAMP: 2009-06-03 20:37:29 +0000 \nAttendee: \nEFTA00013491",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "Event: Epstein \nStart Date: 2009-06-05 15:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2009-06-05 15:00:00 +0000 \nEnd Date: 2009-06-05 15:30:00 +0000 \nO"
+      },
+      {
+        "name": "Office \nClass",
+        "role": "extracted",
+        "context": "+0000 \nOrganizer: \nLocation:. Office \nClass: X-PERSONAL \nDate Created: 20"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": ":. Office \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:22:37 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2015-04-04 00:22:37 +0000 \nDate Modified: 2015-07-22 20:34:56 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2009-06-05",
+        "event": "2009-06-05"
+      },
+      {
+        "date": "2015-04-04",
+        "event": "2015-04-04"
+      },
+      {
+        "date": "2015-07-22",
+        "event": "2015-07-22"
+      },
+      {
+        "date": "2009-06-03",
+        "event": "2009-06-03"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.699Z"
+}

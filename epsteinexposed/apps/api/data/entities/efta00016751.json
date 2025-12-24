@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016751",
+    "filename": "EFTA00016751.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016751.pdf",
+    "text": "\n\nFrom: Ma (USANYS) [Contractor]\"  \nTo: \n'• \n(USANYS)\"  \nCc: \"I USANYS)\"  \nSubject: RE: Epstein \nDate: Fri, 03 Jan 2020 22:35:08 +0000 \nThe murder mystery solved! \nFrom: (USANYS) \nSent: Friday, January 03, 2020 5:21 PM \nTo: USANYS) <IM> \nCc: (USANYS)\n(USANYS) [Contractor] \nSubject: Re: Epstein \ncM\n> \nIt's on the death - there is a  promo on their website. \nSent from my iPhone \nOn Jan 3, 2020, at 5:09 PM, (USANYS) wrote: \nFWIW —  we've heard that 60 Minutes might run a feature on Epstein this Sunday night. The info came from a  different \noutlet, so no details as of yet, but will let you know if we get anything further. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office [Southern District of New York \nEFTA00016751",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "c: \"I USANYS)\"  \nSubject: RE: Epstein \nDate: Fri, 03 Jan 2020 22:35:08 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "their website. \nSent from my iPhone \nOn Jan 3, 2020, at 5:09 PM, (USA"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "if we get anything further. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office [Southern District of New York \nEFTA00016751"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-03",
+        "event": "January 03, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.304Z"
+}

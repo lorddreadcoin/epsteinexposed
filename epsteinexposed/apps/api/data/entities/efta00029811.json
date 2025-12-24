@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00029811",
+    "filename": "EFTA00029811.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029811.pdf",
+    "text": "\n\nFrom: \"I e (USANYS)\" <LFogelman®usa.doj.gov> \nTo: \"I \nANYS)\"  \nCc: ' (USANYS)\"  \nSubject: Re: Epstein \nDate: Mon, 29 Jun 2020 18:25:42 +0000 \nWe also need to figure out who can make this filing in a local court in the US Virgin Islands. John, you expressed \nconcern that I couldn't file since I'm not admitted there. I know there was a desire not to ask the local USAO for \nhelp. \nOn Jun \n29, 2020, at 2:13 PM,1 JSANYS) > wrote: \nYes. We need to apply for a new order with an application that would discuss why we need to disclose; privacy \nconcerns; potential protective orders; should we give notice to the people we got the trust agreements from (and \nif not why not), etc. \nFrom: \n(USANYS) \nSent: Monday, June 29, 2020 2:05 PM \nTo: I \nCc: I \nUSANYS) <LFogelman@usa.doj.gov> \nSubject: FW: Epstein \nThis is the original order, which does seem to suggest we need \"further order of the court\" to further disclose. \nFrom: (USANYS) \nSent: Wednesday, January 29, 2020 9:33 AM \nTo: JSANYS) \nSubject: Epstein \nWill come \nby in a  second. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. ( \nEFTA00029811",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "c: ' (USANYS)\"  \nSubject: Re: Epstein \nDate: Mon, 29 Jun 2020 18:25:42 +0"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "ng in a local court in the US Virgin Islands. John, you expressed \nconcern"
+      },
+      {
+        "name": "On Jun",
+        "role": "extracted",
+        "context": "sk the local USAO for \nhelp. \nOn Jun \n29, 2020, at 2:13 PM,1 JSANY"
+      },
+      {
+        "name": "Epstein \nThis",
+        "role": "extracted",
+        "context": "an@usa.doj.gov> \nSubject: FW: Epstein \nThis is the original order, which"
+      },
+      {
+        "name": "Epstein \nWill",
+        "role": "extracted",
+        "context": ":33 AM \nTo: JSANYS) \nSubject: Epstein \nWill come \nby in a  second. \nCo-Ch"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "by in a  second. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. ( \nEFTA0002"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      },
+      {
+        "date": "2020-01-29",
+        "event": "January 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.284Z"
+}

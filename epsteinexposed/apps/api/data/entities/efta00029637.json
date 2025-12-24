@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00029637",
+    "filename": "EFTA00029637.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029637.pdf",
+    "text": "\n\nEvent: Epstein estate call \nStart Date: 2019-12-02 15:30:00 +0000 \nEnd Date: 2019-12-02 16:00:00 +0000 \nOrganizer: Weinstein, Marc A. <marc.weinstein@hugheshubbard.com> \nLocation: Skype Meeting; Conference ID: 169 269 771; \nClass: X-PERSONAL \nDate Created: 2019-11-25 14:54:20 +0000 \nDate Modified: 2019-11-25 14:54:20 +0000 \nPriority: 5 \nDTSTAMP: 2019-11-25 14:30:58 +0000 \nAttendee: < >; ) \n< \n) < \n>; \nTomback, Andrew \n<andrew.tomback@whitecase.com> \nAlarm: Display the following message 15m before start \nReminder \nDial-In Information (for meetings with no presentations or video) \nDial-In Number: \nConference ID: \n+1 (201) 630-0824 \n169269771 \nOne touch dial-in from mobile phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil +55 11 3181-5692 \nCanada +1 647-749-1240 \nChina +86 400 842 8305 \nFrance +33 1 73 24 04 53 \nGermany +49 69 667737017 \nIndia +91 22 6001 6148 \nIreland +353 1 566 1143 \nIsrael +972 3 3762055 \nJapan +81 3-4510-7259 \nSingapore +65 3157 0147 \nUnited Kingdom +44 20 3443 6288 \nUnited States +1 (201) 630-0824 \nEFTA00029637\n\nFull list of dial-in numbers \nMeetings with a presentation or video \nConnect from computer or mobile device (via network/internet connection) \nHelp \nTry Skype Web App if you are having trouble joining \nJoining from a computer using the \"Connect from computer or mobile device\" link provides \nadditional capabilities, however you can simply call in from your telephone using the number \nprovided above if your meeting will not include video or a presentation. Click the \"Help\" link for \nadditional information if you are a guest joining a Skype for Business meeting from your \ncomputer or mobile device for the first time. \nFor meeting organizers: Reset your dial-in PIN? \n+12016300824 \n[!OC([CUSTOMINVITE])!] \nEFTA00029638",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Epstein estate call \nStart Date: 2019-12-02 15:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-12-02 15:30:00 +0000 \nEnd Date: 2019-12-02 16:00:00 +0000 \nO"
+      },
+      {
+        "name": "Skype Meeting",
+        "role": "extracted",
+        "context": "hugheshubbard.com> \nLocation: Skype Meeting; Conference ID: 169 269 771;"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "269 771; \nClass: X-PERSONAL \nDate Created: 2019-11-25 14:54:20 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-11-25 14:54:20 +0000 \nDate Modified: 2019-11-25 14:54:20 +0000 \nP"
+      },
+      {
+        "name": "Reminder \nDial",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \nDial-In Information (for meetings"
+      },
+      {
+        "name": "In Information",
+        "role": "extracted",
+        "context": "before start \nReminder \nDial-In Information (for meetings with no present"
+      },
+      {
+        "name": "In Number",
+        "role": "extracted",
+        "context": "presentations or video) \nDial-In Number: \nConference ID: \n+1 (201) 63"
+      },
+      {
+        "name": "Additional Dial",
+        "role": "extracted",
+        "context": "phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil +55 11 318"
+      },
+      {
+        "name": "In Numbers",
+        "role": "extracted",
+        "context": "lar service) \nAdditional Dial-In Numbers \nBrazil +55 11 3181-5692 \nCan"
+      },
+      {
+        "name": "United Kingdom",
+        "role": "extracted",
+        "context": "259 \nSingapore +65 3157 0147 \nUnited Kingdom +44 20 3443 6288 \nUnited Stat"
+      },
+      {
+        "name": "Help \nTry",
+        "role": "extracted",
+        "context": "network/internet connection) \nHelp \nTry Skype Web App if you are havi"
+      },
+      {
+        "name": "Skype Web",
+        "role": "extracted",
+        "context": "ternet connection) \nHelp \nTry Skype Web App if you are having trouble"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-02",
+        "event": "2019-12-02"
+      },
+      {
+        "date": "2019-11-25",
+        "event": "2019-11-25"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "647-749-1240",
+      "400 842 8305",
+      "(201) 630-0824",
+      "+1 647-749-1240",
+      "+12016300824"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.854Z"
+}

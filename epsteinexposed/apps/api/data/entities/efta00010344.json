@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00010344",
+    "filename": "EFTA00010344.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010344.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein Travel \nDate: Thu, 25 Apr \n2019 22:37:15 +0000 \nAttachments: \nEpstein_Travel_1.12015_to_4.21.2019.pdf \nAttached is a summary of \nEpstein's travel from 1.1.2015 \nto 4.21.19. \nSpecial Agent \nFBI New \nYork \nVCAC/Human Trafficking \nC: \nO: \nEFTA00010344",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Travel",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein Travel \nDate: Thu, 25 Apr \n2019 22:3"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "l from 1.1.2015 \nto 4.21.19. \nSpecial Agent \nFBI New \nYork \nVCAC/Human Tr"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "4.21.19. \nSpecial Agent \nFBI New \nYork \nVCAC/Human Trafficking \nC:"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "al Agent \nFBI New \nYork \nVCAC/Human Trafficking \nC: \nO: \nEFTA00010344"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.775Z"
+}

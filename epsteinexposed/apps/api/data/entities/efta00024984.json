@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00024984",
+    "filename": "EFTA00024984.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024984.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: \nAttachments: \nFW: Noel and Thomas \nNolle \nMemo and Application \nWed, 24 Nov 2021 14:21:13 +0000 \nEx_B-1_-_2021.05.25_Noel_DP_(signed,_ECF).pdf; Ex_B-2_-\n_2021.05.25_Thomas_DP_(signed,_ECF).pdf; \n2021.11.23_Nolle_Application_and_Order_(Ex_C).docx; 2021.11.23_Nolle_Memo \n_Noel_and_Thomas.docx; Ex_A-1_-\n_Tova_Noel_19_Cr._830_DP_memo_from_Committee.pdf; Ex_A-2_-\nMichael Thomas_19_a_830_DP_memo_from_Committee.pdf \nI  can review this one \nFrom \nSent: \nTuesda November 23 2021 10:12 PM \nTo: \nSubject: Noel and Thomas Nolle Memo and Application \nAttached for your review is the nolle memo for Tova Noel and Michael Thomas. Also attached are the exhibits, including \nthe nolle application, which is Exhibit C. Sorry if I got your titles wrong on the memo, please correct if they aren't right. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNe 0007 \nCell \nEFTA00024984",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thomas \nNolle",
+        "role": "extracted",
+        "context": ": \nAttachments: \nFW: Noel and Thomas \nNolle \nMemo and Application \nWed, 2"
+      },
+      {
+        "name": "Application \nWed",
+        "role": "extracted",
+        "context": "l and Thomas \nNolle \nMemo and Application \nWed, 24 Nov 2021 14:21:13 +0000"
+      },
+      {
+        "name": "Michael Thomas",
+        "role": "extracted",
+        "context": "_from_Committee.pdf; Ex_A-2_-\nMichael Thomas_19_a_830_DP_memo_from_Committ"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": ".pdf \nI  can review this one \nFrom \nSent: \nTuesda November 23 2021 10:"
+      },
+      {
+        "name": "Tuesda November",
+        "role": "extracted",
+        "context": "review this one \nFrom \nSent: \nTuesda November 23 2021 10:12 PM \nTo: \nSubjec"
+      },
+      {
+        "name": "Thomas Nolle",
+        "role": "extracted",
+        "context": "12 PM \nTo: \nSubject: Noel and Thomas Nolle Memo and Application \nAttache"
+      },
+      {
+        "name": "Application \nAttached",
+        "role": "extracted",
+        "context": "oel and Thomas Nolle Memo and Application \nAttached for your review is the nolle"
+      },
+      {
+        "name": "Tova Noel",
+        "role": "extracted",
+        "context": "review is the nolle memo for Tova Noel and Michael Thomas. Also atta"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "they aren't right. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNe 0007 \nCel"
+      },
+      {
+        "name": "Plaza \nNe",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNe 0007 \nCell \nEFTA00024984"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-23",
+        "event": "November 23 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.230Z"
+}

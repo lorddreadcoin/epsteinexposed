@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "efta00028079",
+    "filename": "EFTA00028079.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028079.pdf",
+    "text": "\n\nFrom:  \nTo: ' \nSubject: RE: Epstein \nDate: Mon, 15 Jul 2019 21:38:10 +0000 \nImportance: Normal \n)\"   \nNot really —  ordinarily the defendant provides financial information to Pretrial Services when he's arrested; here, Epstein \ndeclined to do so and told the court he would submit financial information directly to the court. So it's not something we \nasked for in particular. \nFrom: \n() \nSent: Monday, July 15, 2019 17:37 \nTo: \nSubject: Re: Epstein \nWe had originally requested this document, correct? \nSent from my iPhone \nOn Jul 15, 2019, at 5:09 PM, \nOriginally submitted by defense counsel under seal and then unsealed by the court. \nSent from my iPhone \nOn Jul 15, 2019, at 17:08, \nc\n> \nwrote: \nwrote: \nI'm unable to open PACER, but assume the document that was just posted about his finances was submitted by \ndefense counsel? \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \n'Mobile: \nI  Press Office: (212) 637-1020 \nEFTA00028079",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From:  \nTo: ' \nSubject: RE: Epstein \nDate: Mon, 15 Jul 2019 21:38:10 +0"
+      },
+      {
+        "name": "Pretrial Services",
+        "role": "extracted",
+        "context": "ides financial information to Pretrial Services when he's arrested; here, Eps"
+      },
+      {
+        "name": "Epstein \nWe",
+        "role": "extracted",
+        "context": "2019 17:37 \nTo: \nSubject: Re: Epstein \nWe had originally requested this"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ment, correct? \nSent from my iPhone \nOn Jul 15, 2019, at 5:09 PM, \nOr"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "bmitted by \ndefense counsel? \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \n'Mobile: \nI  Pre"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "ict of New York \n'Mobile: \nI  Press Office: (212) 637-1020 \nEFTA00028079"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-15",
+        "event": "July 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-1020"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.587Z"
+}

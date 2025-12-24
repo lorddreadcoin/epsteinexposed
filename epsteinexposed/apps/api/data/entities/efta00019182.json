@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019182",
+    "filename": "EFTA00019182.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019182.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: OPR \nDate: Wed, 06 Feb 2019 23:14:03 +0000 \nImportance: Normal \nhttps://www.reuters.com/article/us-usalustice-epstein/justice-department-conducting-professional-misconduct-probe-\nin-epstein-case-idUSKCN1PV2NJ?i1=0 \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00019182",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "tein-case-idUSKCN1PV2NJ?i1=0 \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00019182"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.453Z"
+}

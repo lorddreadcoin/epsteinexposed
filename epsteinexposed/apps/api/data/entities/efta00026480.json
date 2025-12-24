@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00026480",
+    "filename": "EFTA00026480.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026480.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nTo: ' )\"  \n \n(USANYS) [Contractor]\" \nCc: a\"USAN>YS>, ucce.)\" \nSubject: RE: [EXTERNAL] Fwd: Request for Comment \nDate: Thu, 21 Oct 2021 15:45:21 +0000 \nAgreed. Will handle now. \nFrom: \nSent: Thursday, October 21, 2021 11:42 AM \nTo: (USANYS) \nCc: (USANYS) \nSubject: FW: [EXTERNAL] Fwd: Request for Comment \nHi M, \n(USANYS) [Contractor] •c \nPassing this on. It's pretty aggressive to try to contact me through the school where I teach, but defer to you on how to \nrespond, if at all. \nThanks, \nBegin forwarded message: \nFrom: Monique Beals \nDate: October 21, 2021 at 11:36:34 AM EDT \nTo: \nSubject: Request for Comment \nHello, \nI am a reporter from The Hill, and I wanted to seek any comment you may have on Ghislaine Maxwell seeking private \nscreenings of potential jurors. \nIf you have any statement on this, please feel free to reach out. \nI apologize for reaching out to you via your Columbia University email address, but wanted to be sure to reach you in the \nevent you would like to provide a statement. \nBest, \nMonique Beals \nEFTA00026480",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "and I wanted to seek any comment you may have on Ghislaine Maxwell seeking private \nscreenings of potential jurors."
+      },
+      {
+        "name": "Comment \nDate",
+        "role": "extracted",
+        "context": ": [EXTERNAL] Fwd: Request for Comment \nDate: Thu, 21 Oct 2021 15:45:21 +0"
+      },
+      {
+        "name": "Comment \nHi",
+        "role": "extracted",
+        "context": ": [EXTERNAL] Fwd: Request for Comment \nHi M, \n(USANYS) [Contractor] •c"
+      },
+      {
+        "name": "Monique Beals",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Monique Beals \nDate: October 21, 2021 at 11"
+      },
+      {
+        "name": "Comment \nHello",
+        "role": "extracted",
+        "context": "DT \nTo: \nSubject: Request for Comment \nHello, \nI am a reporter from The Hi"
+      },
+      {
+        "name": "The Hill",
+        "role": "extracted",
+        "context": "Hello, \nI am a reporter from The Hill, and I wanted to seek any com"
+      },
+      {
+        "name": "Columbia University",
+        "role": "extracted",
+        "context": "reaching out to you via your Columbia University email address, but wanted to"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-21",
+        "event": "October 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.415Z"
+}

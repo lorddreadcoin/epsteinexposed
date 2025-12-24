@@ -1,0 +1,123 @@
+{
+  "document": {
+    "id": "efta00010343",
+    "filename": "EFTA00010343.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010343.pdf",
+    "text": "\n\n04/26/2019 12:36 EDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland Security \nUS Passport (P ) \nGenerated \nBy: \nPage 1 \nof 1 \nVon \nLast Name First Name DOB Gender \nEPSTEIN JEFFREY EDWARD M - Male \nUS Passport \nInformation \nPassports Passport Status Document Tlys \nI  - ISSUED P - PASSPORT \nIssue Country Issue Date Ewe-anon Dale \nUSA - UNITED STATES 03/08/2019 03/07/2029 \nI M \nPersonal Information \nLast Name First Name DOB \nEPSTEIN JEFFREY EDWARD \nGender Place el Beth Nalleeallly \nM - Male USA - UNITED STATES \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00010343",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border Protection",
+        "role": "extracted",
+        "context": "9 12:36 EDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nUS Passport (P ) \nGenerated"
+      },
+      {
+        "name": "Generated \nBy",
+        "role": "extracted",
+        "context": "d Security \nUS Passport (P ) \nGenerated \nBy: \nPage 1 \nof 1 \nVon \nLast Nam"
+      },
+      {
+        "name": "Von \nLast",
+        "role": "extracted",
+        "context": "Generated \nBy: \nPage 1 \nof 1 \nVon \nLast Name First Name DOB Gender \nE"
+      },
+      {
+        "name": "Name First",
+        "role": "extracted",
+        "context": "By: \nPage 1 \nof 1 \nVon \nLast Name First Name DOB Gender \nEPSTEIN JEFF"
+      },
+      {
+        "name": "Passport \nInformation",
+        "role": "extracted",
+        "context": "N JEFFREY EDWARD M - Male \nUS Passport \nInformation \nPassports Passport Status Do"
+      },
+      {
+        "name": "Passports Passport",
+        "role": "extracted",
+        "context": "le \nUS Passport \nInformation \nPassports Passport Status Document Tlys \nI  - IS"
+      },
+      {
+        "name": "Status Document",
+        "role": "extracted",
+        "context": "formation \nPassports Passport Status Document Tlys \nI  - ISSUED P - PASSPOR"
+      },
+      {
+        "name": "Issue Country",
+        "role": "extracted",
+        "context": "ys \nI  - ISSUED P - PASSPORT \nIssue Country Issue Date Ewe-anon Dale \nUSA"
+      },
+      {
+        "name": "Issue Date",
+        "role": "extracted",
+        "context": "D P - PASSPORT \nIssue Country Issue Date Ewe-anon Dale \nUSA - UNITED S"
+      },
+      {
+        "name": "Personal Information",
+        "role": "extracted",
+        "context": "S 03/08/2019 03/07/2029 \nI M \nPersonal Information \nLast Name First Name DOB \nEP"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "9 \nI M \nPersonal Information \nLast Name First Name DOB \nEPSTEIN JEFFR"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "rsonal Information \nLast Name First Name DOB \nEPSTEIN JEFFREY EDWARD"
+      },
+      {
+        "name": "Gender Place",
+        "role": "extracted",
+        "context": "DOB \nEPSTEIN JEFFREY EDWARD \nGender Place el Beth Nalleeallly \nM - Male"
+      },
+      {
+        "name": "Beth Nalleeallly",
+        "role": "extracted",
+        "context": "FFREY EDWARD \nGender Place el Beth Nalleeallly \nM - Male USA - UNITED STATES"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "M - Male USA - UNITED STATES \nFor Official Use Only / Law Enforcement Se"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "- UNITED STATES \nFor Official Use Only / Law Enforcement Sensitive"
+      },
+      {
+        "name": "Law Enforcement",
+        "role": "extracted",
+        "context": "ATES \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00010343"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-26",
+        "event": "04/26/2019"
+      },
+      {
+        "date": "2019-03-08",
+        "event": "03/08/2019"
+      },
+      {
+        "date": "2029-03-07",
+        "event": "03/07/2029"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.774Z"
+}

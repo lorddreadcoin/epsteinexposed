@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00014033",
+    "filename": "EFTA00014033.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014033.pdf",
+    "text": "\n\nFrom: Jack Scarola \n<Ha \nTo:'\nSubject: Re: Confidential -- Non Prosecution Agreement \nDate: Wed, 10 Dec 2008 03:15:02 +0000 \nImportance: Normal \nThank you. I  will follow your instructions. \nFrom: \nTo: Jack Scarola \nSent: Tue Dec 09 19:09:35 2008 \nSubject: Confidential -- Non Prosecution Agreement \nDear Mr. Scarola: I have attached the Non-Prosecution Agreement. Please restrict its disclosure only to those who have reviewed and \nsigned the Protective Order. If any other staff members or attorneys need to see this document, please have them review and sign the \nProtective Order and send it to me. Thank you. \n<<Epstein NonProsecution Agrmt w Addendum.pdf>> \nAssistant U.S. Attorney \nPhone \nFax \n*** eSafe scanned this email for malicious content *** \n*** IMPORTANT: Do not open attachments from unrecognized senders *** \nEFTA00014033",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scarola",
+        "role": "extracted",
+        "context": "n Prosecution Agreement \nDear Mr. Scarola: I have attached the Non-"
+      },
+      {
+        "name": "Jack Scarola",
+        "role": "extracted",
+        "context": "From: Jack Scarola \n<Ha \nTo:'\nSubject: Re: Confi"
+      },
+      {
+        "name": "Ha \nTo",
+        "role": "extracted",
+        "context": "From: Jack Scarola \n<Ha \nTo:'\nSubject: Re: Confidential -"
+      },
+      {
+        "name": "Non Prosecution",
+        "role": "extracted",
+        "context": "Subject: Re: Confidential -- Non Prosecution Agreement \nDate: Wed, 10 Dec"
+      },
+      {
+        "name": "Agreement \nDate",
+        "role": "extracted",
+        "context": "nfidential -- Non Prosecution Agreement \nDate: Wed, 10 Dec 2008 03:15:02 +0"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 03:15:02 +0000 \nImportance: Normal \nThank you. I  will follow your inst"
+      },
+      {
+        "name": "Tue Dec",
+        "role": "extracted",
+        "context": "rom: \nTo: Jack Scarola \nSent: Tue Dec 09 19:09:35 2008 \nSubject: Co"
+      },
+      {
+        "name": "Agreement \nDear",
+        "role": "extracted",
+        "context": "nfidential -- Non Prosecution Agreement \nDear Mr. Scarola: I have attached"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "rola: I have attached the Non-Prosecution Agreement. Please restrict its disclosu"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "have reviewed and \nsigned the Protective Order. If any other staff members o"
+      },
+      {
+        "name": "Epstein Non",
+        "role": "extracted",
+        "context": "send it to me. Thank you. \n<<Epstein NonProsecution Agrmt w Addendum.p"
+      },
+      {
+        "name": "Prosecution Agrmt",
+        "role": "extracted",
+        "context": "me. Thank you. \n<<Epstein NonProsecution Agrmt w Addendum.pdf>> \nAssistant U"
+      },
+      {
+        "name": "Attorney \nPhone",
+        "role": "extracted",
+        "context": "ddendum.pdf>> \nAssistant U.S. Attorney \nPhone \nFax \n*** eSafe scanned this"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.981Z"
+}

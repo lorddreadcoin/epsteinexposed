@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014522",
+    "filename": "EFTA00014522.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014522.pdf",
+    "text": "\n\nFrom: \n\"(USANYS)\" < \nTo: (USANYS) 4\" \n• \nCc: ' USANYS)\" \nSubject: Re: CAFIs/Epstein \nDate: Mon, 01 Jul 2019 14:46:58 +0000 \nImportance: Normal \n> \n> \n(USANYS)\" \nI will be able to call in. Thanks! \nSent from my iPhone \nOn \nJul 1, 2019, at 9:32 AM, (USANYS) 4wrote: \nThanks, \nS. \nI won't be able to join today, but happy to help if any issues \ncome up. \nOn Jun \n30, 2019, at 4:49 PM, (USANYS) < wrote: \nFor those interested, the call from Friday is being rescheduled for tomorrow (Monday) at 2. I don't have dial-in info \nyet, but will circulate a calendar invite shortly. \nEFTA00014522",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "USANYS)\" \nSubject: Re: CAFIs/Epstein \nDate: Mon, 01 Jul 2019 14:46:58 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ll in. Thanks! \nSent from my iPhone \nOn \nJul 1, 2019, at 9:32 AM, (US"
+      },
+      {
+        "name": "On Jun",
+        "role": "extracted",
+        "context": "help if any issues \ncome up. \nOn Jun \n30, 2019, at 4:49 PM, (USANY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.015Z"
+}

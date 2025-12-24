@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00013301",
+    "filename": "EFTA00013301.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013301.pdf",
+    "text": "\n\nFrom: \n(USANYS)\"\nTo: Nathan NYSD Chambers\nCc: \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Letter from MDC Legal Counsel \nDate: Thu, 29 Apr 2021 22:38:12 +0000 \nAttachments: Ltr to Hon Nathan_04.29.21_--.pdf \nGood afternoon, \nAttached is a letter from MDC legal counsel in response to the Court's April 29, 2021 Order (Dkt. 255). Because the MDC \nis not a party to this case, this letter has not been filed on ECF, but the Government has no objection to the public \ndocketing of this letter. \nRespectfully, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Plaza \nNew York, New York 10007 \nTel: \nEFTA00013301",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers\nCc",
+        "role": "extracted",
+        "context": "m: \n(USANYS)\"\nTo: Nathan NYSD Chambers\nCc: \nSubject: US v. Maxwell, 20"
+      },
+      {
+        "name": "Legal Counsel",
+        "role": "extracted",
+        "context": ". 330 (AJN) - Letter from MDC Legal Counsel \nDate: Thu, 29 Apr 2021 22:38"
+      },
+      {
+        "name": "Hon Nathan",
+        "role": "extracted",
+        "context": "12 +0000 \nAttachments: Ltr to Hon Nathan_04.29.21_--.pdf \nGood afterno"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "this letter. \nRespectfully, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Plaza \nNew York, New York 10"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "District of New York \nOne St. Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-29",
+        "event": "April 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.279Z"
+}

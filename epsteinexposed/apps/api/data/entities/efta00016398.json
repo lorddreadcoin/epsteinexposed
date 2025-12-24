@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00016398",
+    "filename": "EFTA00016398.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016398.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Automatic reply: Proposed Epstein Victims' Compensation Program \nDate: Fri, 13 Dec 2019 19:34:16 +0000 \nI am currently traveling for work. Although I have some access to emails, my responses may be delayed. For urgent matters, please contact the \nother AUSA(s) on the case. \nEFTA00016398",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proposed Epstein",
+        "role": "extracted",
+        "context": "o: \nSubject: Automatic reply: Proposed Epstein Victims' Compensation Program"
+      },
+      {
+        "name": "Compensation Program",
+        "role": "extracted",
+        "context": "ly: Proposed Epstein Victims' Compensation Program \nDate: Fri, 13 Dec 2019 19:34"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.599Z"
+}

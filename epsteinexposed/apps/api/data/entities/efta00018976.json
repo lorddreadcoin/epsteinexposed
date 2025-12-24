@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00018976",
+    "filename": "EFTA00018976.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018976.pdf",
+    "text": "\n\nFrom: \n•  (O1G)\" <MIMMI> \nTo: . (NY) (FBI)\" (NY) (OGA) \n(FBI > ' (USANYS)\" \n(USANYS)\" <E> \nSubject: FW: Requested Documents \nDate: Sun, 11 Aug 2019 14:57:11 +0000 \nAttachments: E-Mails_from_Psychology.pdf \nPlease see the attached emails regarding Suicide Watch and Psychological Observation. Suicide Watch and Psychological \nObservation occur in cells on the second floor. The only difference is that while on Suicide Watch inmates are not \npermitted to have clothes in their cell. \nSome questions I just asked Lt. Doctor this morning: \n1) Are there logs slips for the head counts done at 3:00 a.m. and 5:00 a.m.? If so, can we get copies? \nShe is getting us those forms. \n2) Who was Epstein's last cellmate? \n. He had court on 8/9/19 and was released from 500 Pearl St. According to \nthe BOP webpage he was released from custody and his location now is unknown. was a regular SHU \ninmate, not special trainings according to his file. \n3) Was Epstein supposed to have a cellmate? \nAccording to Lt. Doctor, there was not a requirement for him to have a cellmate. \n4) Who assignments cellmates? \nAny officer can assign cellmates, as long as there are no \"conflicts.\" The only person Epstein was not permitted to \nbe cellmates with was \"Tartaglione\", who was his cellmate during his first suicide attempt. \nU.S. Department of Justice \nOffice of the Inspector General \nNew York Field Office \nNew York, NY 10004 \n(Office) \n(Cell Phone) \nFrom: [mailto: \nSent: Sunday, August 11, 2019 10:33 AM \nTo: \n• \n(\n016) \nSubject: Requested Documents \nEFTA00018976",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Requested Documents",
+        "role": "extracted",
+        "context": "(USANYS)\" <E> \nSubject: FW: Requested Documents \nDate: Sun, 11 Aug 2019 14:57"
+      },
+      {
+        "name": "Suicide Watch",
+        "role": "extracted",
+        "context": "the attached emails regarding Suicide Watch and Psychological Observation"
+      },
+      {
+        "name": "Psychological Observation",
+        "role": "extracted",
+        "context": "s regarding Suicide Watch and Psychological Observation. Suicide Watch and Psychologi"
+      },
+      {
+        "name": "Psychological \nObservation",
+        "role": "extracted",
+        "context": "bservation. Suicide Watch and Psychological \nObservation occur in cells on the second"
+      },
+      {
+        "name": "Pearl St",
+        "role": "extracted",
+        "context": "/19 and was released from 500 Pearl St. According to \nthe BOP webpag"
+      },
+      {
+        "name": "Was Epstein",
+        "role": "extracted",
+        "context": "gs according to his file. \n3) Was Epstein supposed to have a cellmate?"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "attempt. \nU.S. Department of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice \nOffice of the Inspector General \nNew York Field Office \nNew Y"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nNew York, NY 10004 \n(Office)"
+      },
+      {
+        "name": "Cell Phone",
+        "role": "extracted",
+        "context": "ew York, NY 10004 \n(Office) \n(Cell Phone) \nFrom: [mailto: \nSent: Sunda"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-11",
+        "event": "August 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.051Z"
+}

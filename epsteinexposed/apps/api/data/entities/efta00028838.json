@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00028838",
+    "filename": "EFTA00028838.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028838.pdf",
+    "text": "\n\nFrom: (USANYS) 1\"  \nTo: 'Mii SYi\" \n<MM.> USANYS)\" \n(USANYS)\" \nSubject: Fwd: lists of all cases hosted at PAE \nDate: Wed, 21 Oct 2020 18:45:34 +0000 \nAttachments: SDNY_Access_Statistics.xlsx; ATT00001.htm; SDNY_Data_Hosted_On_10.01.2020.xls; \nATT00002.htm \nPAE cases from lit support \nSent from my iPhone \nBegin forwarded message: \nFrom: (USANYS)\" \nDate: October 20, 2020 at 2:42:27 PM EDT \nTo: \n\"-(USANYS) \n1\" c \nSubject: lists of all cases hosted at PAE \nAttached is the spreadsheet you requested at our last meeting. The spreadsheet is called \nThe other spreadsheet contains the total web hosting size as of 10/1/2020. \nAs I mentioned in our meeting, requested the same list. I sent these to him today as well. \nThanks, \nSDNY Access Statistics.xlsx \nEFTA00028838",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "om lit support \nSent from my iPhone \nBegin forwarded message: \nFrom: (US"
+      },
+      {
+        "name": "Access Statistics",
+        "role": "extracted",
+        "context": "today as well. \nThanks, \nSDNY Access Statistics.xlsx \nEFTA00028838"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-01",
+        "event": "10/1/2020"
+      },
+      {
+        "date": "2020-10-20",
+        "event": "October 20, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.269Z"
+}

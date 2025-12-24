@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00002539",
+    "filename": "EFTA00002539.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002539.pdf",
+    "text": "\n\nILO 2 Default Network \nSettings \nServer Serial \nNumber: MX0824A1RJ \nIII II1 I 'Hindi \nUser Name: \nAdministrator \n: ILOMX0824A1R1 \n1 11INIfirl115\n1dilic\nPassword: \nMil \nEFTA00002539",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Default Network",
+        "role": "extracted",
+        "context": "ILO 2 Default Network \nSettings \nServer Serial \nNum"
+      },
+      {
+        "name": "Settings \nServer",
+        "role": "extracted",
+        "context": "ILO 2 Default Network \nSettings \nServer Serial \nNumber: MX0824A1RJ \nI"
+      },
+      {
+        "name": "Serial \nNumber",
+        "role": "extracted",
+        "context": "ult Network \nSettings \nServer Serial \nNumber: MX0824A1RJ \nIII II1 I 'Hindi"
+      },
+      {
+        "name": "Hindi \nUser",
+        "role": "extracted",
+        "context": "umber: MX0824A1RJ \nIII II1 I 'Hindi \nUser Name: \nAdministrator \n: ILOMX"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:27.665Z"
+}

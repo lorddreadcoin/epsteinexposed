@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032782",
+    "filename": "EFTA00032782.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032782.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo: <1 \nCc: \nSubject: Ghislaine Maxwell 02879-509 \nDate: Thu, 22 Apr 2021 19:00:41 +0000 \nGood afternoon-\nI am counsel for Ghislaine Maxwell who will appear in-person tomorrow before Judge Nathan for a 2:30 pm \narraignment in Courtroom 24B. \nI am requesting that Ms. Maxwell not be brought to the Courthouse in the early morning but closer to noon, if \npossible. \nThe government does not oppose this request. \nAny accommodation is greatly appreciated. \nPlease contact me with any questions: \nThank you-\nBobbi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Robbi C. \nSternheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in envy; please not( the sender immediately by reply e-mail and then \ndelete this message. Thank you. \nEFTA00032782",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: BOBBI C STERNHEIM \nTo: <1 \nCc: \nSubject: Ghislaine Maxwell 02879-509 \nDate: Thu, 22 Apr 2021 19:00:41 +0000"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "om 24B. \nI am requesting that Ms. Maxwell not be brought to the Cou"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "ear in-person tomorrow before Judge Nathan for a 2:30 pm \narraignment in"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "bi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Robbi C. \nSternheim \nThis"
+      },
+      {
+        "name": "Sternheim \nThis",
+        "role": "extracted",
+        "context": "SQ. \nLaw Offices of Robbi C. \nSternheim \nThis message and any attached docu"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.469Z"
+}

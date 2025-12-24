@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00032927",
+    "filename": "EFTA00032927.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032927.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: \n\"-(USANYS)\" \nSubject: FW: Touhy letters from last week \nDate: Tue, 27 Aug 2019 21:01:19 +0000 \nAttachments: 8.20.19_Epstein_Letter_to_SDNY-c2.pdf; 8.20.19_Epstein_Letter to_MCC-c2.pdf; \n8.20.19_Epstein_Letter to_FBI-c2.pdf \nFrom: (USANYS)\nSent: Tuesday, August 27, 2019 3:43 PM \nTo: (USANYS) \nSubject: Touhy letters from last week \nHi Rebekah, \nAs discussed, here are the three Touhy letters Steptoe sent last week. Let me know if I should \nfollow up with the FBI at all \non this—the FBI letter is addressed to \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n86 Chambers Street, Third Floor \nNew York, New York 10007 \nTelephone: \nFacsimile: \nEFTA00032927",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi Rebekah",
+        "role": "extracted",
+        "context": "Touhy letters from last week \nHi Rebekah, \nAs discussed, here are the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ter is addressed to \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n86 Chambers Stre"
+      },
+      {
+        "name": "Chambers Street",
+        "role": "extracted",
+        "context": "hern District of New York \n86 Chambers Street, Third Floor \nNew York, New Y"
+      },
+      {
+        "name": "Third Floor",
+        "role": "extracted",
+        "context": "New York \n86 Chambers Street, Third Floor \nNew York, New York 10007 \nTe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-27",
+        "event": "August 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.808Z"
+}

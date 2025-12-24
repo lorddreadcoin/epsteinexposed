@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018969",
+    "filename": "EFTA00018969.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018969.pdf",
+    "text": "\n\nFrom: \n\"=, \n(USANYS)\" \nalMIE> \nTo: (USANYS)\" \nalMIN> \nSubject: Redlined statement \nDate: Sat, 10 Aug 2019 17:07:39 +0000 \nAttachments: Jeffrey_Epstein_Statement.docx \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nI Mobile: I  Press Office: \nEFTA00018969",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ffrey_Epstein_Statement.docx \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nI Mobile: I  Pre"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "ict of New York \nI Mobile: I  Press Office: \nEFTA00018969"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.036Z"
+}

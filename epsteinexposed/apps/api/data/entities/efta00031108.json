@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031108",
+    "filename": "EFTA00031108.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031108.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: FW: media has it \nDate: Thu, 02 Jul 2020 13:20:31 +0000 \nFrom: \nSent: Thursday, July 02, 2020 09:20 \nTo: \nSubject: media has it \nTom Winter per usual — he has some great source at FBI \nhups://www.nbcnewyork.cominews/local/crime-and-courts/ghislaine-maxwell-arrested-jeffrey-epstein-aide/2495762/ \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00031108",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tom Winter",
+        "role": "extracted",
+        "context": "To: \nSubject: media has it \nTom Winter per usual — he has some great"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "aide/2495762/ \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "July 02, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.425Z"
+}

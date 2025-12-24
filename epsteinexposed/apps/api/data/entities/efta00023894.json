@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023894",
+    "filename": "EFTA00023894.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023894.pdf",
+    "text": "\n\nFrom: i\nn\" alMIE>\nTo:'\n \naNIMIE>, \nCc: I II \nSubject: Letter to \nAJN \nDate: Tue, 17 Aug 2021 23:32:34 +0000 \nAttachments: 2021.08.13_AJN_opinionnsupplemental_pretrial_motions.pdf; 2021-08-\n17_GM_Ietter to_AJN_re_co-conspirator identities.docx \nHey \nAs you may have seen, on Friday, Judge Nathan denied all of Maxwell's supplemental motions. (She also denied an ex \nparte motion for some Rule 17 subpoenas, so it seems like our earlier motion was effective.) \nJudge Nathan's order, however, says that we did not object to providing the defense with the identities of Maxwell's \nuncharged co-conspirators, and she presumes we intend to do so. \nWe've drafted the attached letter explaining that we do not, in fact, intend to do so. For convenience, Judge Nathan's \nopinion is attached, and the relevant passage is footnote 1 on page 12. \nThanks, \nAndrew \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00023894",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nAs",
+        "role": "extracted",
+        "context": "-conspirator identities.docx \nHey \nAs you may have seen, on Friday,"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "you may have seen, on Friday, Judge Nathan denied all of Maxwell's suppl"
+      },
+      {
+        "name": "Andrew \nAssistant",
+        "role": "extracted",
+        "context": "tnote 1 on page 12. \nThanks, \nAndrew \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "drew \nAssistant United States Attorney \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.823Z"
+}

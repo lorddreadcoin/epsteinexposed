@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015004",
+    "filename": "EFTA00015004.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015004.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: \nUpdate \nDate: Sat, 14 Nov 2020 00:59:29 +0000 \nThanks very much, that's great news. I'll let the team know and ask them to hold off until next week to touch base. \nHave a great weekend. \nFrom \nSent: Friday, November 13, 2020 3:57 PM \nTo: \nCci \nSubject: Update \nJust following up from our last conversation. will be assigned on a full time basis to the \nEpstein case until further notice and will be helping out on a part time basis. Please hold off on \nhaving anyone from SDNY reach out to them until next week so ahas time to get them briefed. Their \ncontact information is below. Any questions let me know. Have a good weekend. \nSO \nEFTA00015004",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update \nDate",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: RE: \nUpdate \nDate: Sat, 14 Nov 2020 00:59:29 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "base. \nHave a great weekend. \nFrom \nSent: Friday, November 13, 2020 3:"
+      },
+      {
+        "name": "Cci \nSubject",
+        "role": "extracted",
+        "context": "vember 13, 2020 3:57 PM \nTo: \nCci \nSubject: Update \nJust following up fr"
+      },
+      {
+        "name": "Update \nJust",
+        "role": "extracted",
+        "context": "0 3:57 PM \nTo: \nCci \nSubject: Update \nJust following up from our last co"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-13",
+        "event": "November 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.942Z"
+}

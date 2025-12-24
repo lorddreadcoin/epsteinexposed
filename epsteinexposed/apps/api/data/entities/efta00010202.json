@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00010202",
+    "filename": "EFTA00010202.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010202.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Relativity Access -- Epstein SW Database \nDate: Fri, 04 Dec 2020 19:24:28 +0000 \nAttachments: EOUSA_MEGA4_Account_Request_and_ROB_Form.pdf \nHello, \nPlease have the agent fill out the attached form. I will also need to know if the she has an (Phone or Android phone as it is \nneeded for the RSA token. \nThank you. \nFrom: \nSent: Friday, December 4, 2020 2:19 PM \nTo=111 \nuj : neiatnrrcyccess ps ein aw Database \nCould you please assist us in obtaining a Relativity token for \nis copied here. \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nan FBI analyst working on this case with us? \nEFTA00010202",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Relativity Access",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Relativity Access -- Epstein SW Database \nDate:"
+      },
+      {
+        "name": "Database \nDate",
+        "role": "extracted",
+        "context": "lativity Access -- Epstein SW Database \nDate: Fri, 04 Dec 2020 19:24:28 +0"
+      },
+      {
+        "name": "Database \nCould",
+        "role": "extracted",
+        "context": "j : neiatnrrcyccess ps ein aw Database \nCould you please assist us in obtai"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ied here. \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nan FBI analys"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-04",
+        "event": "December 4, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.486Z"
+}

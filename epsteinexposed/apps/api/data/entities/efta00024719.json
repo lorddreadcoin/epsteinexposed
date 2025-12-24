@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024719",
+    "filename": "EFTA00024719.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024719.pdf",
+    "text": "\n\nFrom: \" \n(NY) \n(FBI)\" ic\n> \nTo:\" \n\" <)' \nSubject: spreadsheet \nDate: Tue, 14 Jul 2020 20:09:02 +0000 \nAttachments: EpsteinNYEvidence.xlsx \nM, \nHere you go. Almost everything is over at Southern once I drop off the phones. Just I  laptop and 2 desktops to get to you. I  has to \nre-process, so I am not sure how long it will be as it is a large item. As far as the stuff I have already produced, I  can re-work it to split \nthings out, but unsure how much static it will give me. Might be fast, might be a pain. Unknown at this point, but I am sure we can get \nsomething moving. Any questions, let me know. \nNYO \nCART Coordinator \nSenior Forensic Examiner \n(office) \n(cell) \nEFTA00024719",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Coordinator \nSenior",
+        "role": "extracted",
+        "context": "ions, let me know. \nNYO \nCART Coordinator \nSenior Forensic Examiner \n(office)"
+      },
+      {
+        "name": "Forensic Examiner",
+        "role": "extracted",
+        "context": "NYO \nCART Coordinator \nSenior Forensic Examiner \n(office) \n(cell) \nEFTA000247"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.690Z"
+}

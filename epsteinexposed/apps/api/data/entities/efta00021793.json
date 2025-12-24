@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021793",
+    "filename": "EFTA00021793.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021793.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Speedy Trial Letter \nDate: Thu, 02 Jul 2020 20:58:19 +0000 \nAttachments: 2020-07-02,_GM,_speedy_trial_time_exclusion_request.docx \nAny \nedits before I  send to Ted? \nAssistant United States Attorney \nSouthern District of New York \nNew York. NY 10007 \nEFTA00021793",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Speedy Trial",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Speedy Trial Letter \nDate: Thu, 02 Jul 202"
+      },
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": ": \nTo: \nSubject: Speedy Trial Letter \nDate: Thu, 02 Jul 2020 20:58:19 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "edits before I  send to Ted? \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "end to Ted? \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York. NY 100"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "2020-07-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.424Z"
+}

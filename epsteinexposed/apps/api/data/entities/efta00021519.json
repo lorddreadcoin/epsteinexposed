@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021519",
+    "filename": "EFTA00021519.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021519.pdf",
+    "text": "\n\nFrom: ' \nTo: \n) \n[Contractor]\" \nSubject: Fwd: Arrest 302 \nDate: Mon, 29 Jul 2019 20:23:56 +0000 \nAttachments: Arrest_of JEFFREY_EPSTEIN.PDF; ATT00001.htm; 2019 JE_advice_of rights.pdf; \nATT00002.htm; 2019 JE_arrestnreceipt_for_property.pdf; ATT00003.htm; \n2019ititems_retumed_to_lawyer.pdf; ATT00004.htm \nBegin forwarded message: \nFrom: . (NY) (FBI)\" \nDate: July 29, 2019 at 2:58:35 PM EDT \nTo:\"  \n[rt  < \nSubject: Arrest 302 \nHey \nAttached is the arrest 302, advice of rights, receipt for property from the arrest, along with the receipt of items \nturned over to his lawyer on 7/18. \nSal \nFBI New York \nVCAC/Human Trafficking \nO: \nC: \nEFTA00021519",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nAttached",
+        "role": "extracted",
+        "context": "[rt  < \nSubject: Arrest 302 \nHey \nAttached is the arrest 302, advice of"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "/18. \nSal \nFBI New York \nVCAC/Human Trafficking \nO: \nC: \nEFTA00021519"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-29",
+        "event": "July 29, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.824Z"
+}

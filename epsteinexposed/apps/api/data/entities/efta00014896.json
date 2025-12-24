@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014896",
+    "filename": "EFTA00014896.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014896.pdf",
+    "text": "\n\nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY FILED \nDOC 0: \nDATE \nFILED:\n1 1/26/21 \n20-CR-330 (MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is in receipt of the Government's letter motion to preclude certain lines of \ncross-examination of Government witnesses. The Court hereby GRANTS the Government's \nrequest to file the letter motion under seal in order to protect the privacy interests of anticipated \nwitnesses, including those who are subject to the Court's pseudonym order. See Lugosch v. \nPyramid Co. of Onondaga, 435 F.3d 110, 120 (2d Cir. 2006). \nThe Defendant is hereby ORDERED to respond by today, November 28, 2021, at 2:00 \np.m. \nSO \nORDERED. \nDated: November 28, 2021 \nNew York, New York \nALISON J. NATHAN \nUnited States District Judge \nEFTA00014896",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is in receipt of"
+      },
+      {
+        "name": "See Lugosch",
+        "role": "extracted",
+        "context": "the Court's pseudonym order. See Lugosch v. \nPyramid Co. of Onondaga,"
+      },
+      {
+        "name": "Pyramid Co",
+        "role": "extracted",
+        "context": "udonym order. See Lugosch v. \nPyramid Co. of Onondaga, 435 F.3d 110, 1"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-28",
+        "event": "November 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.786Z"
+}

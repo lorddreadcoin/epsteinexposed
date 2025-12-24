@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00029652",
+    "filename": "EFTA00029652.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029652.pdf",
+    "text": "\n\nEvent: Accepted: Meet re Epstein forfeiture \nStart Date: 2019-12-09 19:00:00 +0000 \nEnd Date: 2019-12-09 20:00:00 +0000 \nLocation:Eoffice \nClass: X-PERSONAL \nComment: \nDate Created: 2019-12-04 22:46:45 +0000 \nDate Modified: 2019-12-04 22:46:45 +0000 \nPriority: 5 \nDTSTAMP: 2019-12-04 19:04:23 +0000 \nAttendee: < \nEFTA00029652",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": ": Meet re Epstein forfeiture \nStart Date: 2019-12-09 19:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-12-09 19:00:00 +0000 \nEnd Date: 2019-12-09 20:00:00 +0000 \nL"
+      },
+      {
+        "name": "Eoffice \nClass",
+        "role": "extracted",
+        "context": "2-09 20:00:00 +0000 \nLocation:Eoffice \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-12-04 22:46:45 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-12-04 22:46:45 +0000 \nDate Modified: 2019-12-04 22:46:45 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-09",
+        "event": "2019-12-09"
+      },
+      {
+        "date": "2019-12-04",
+        "event": "2019-12-04"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.882Z"
+}

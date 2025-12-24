@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00014654",
+    "filename": "EFTA00014654.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014654.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District IV-New York \nThe Mollo Builefin \nNew York, New York 10007 \nNovember 20, 2021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLe I  De artment \nBrooklyn, NY 11232 \nRe: United States v. \nGhislaine \nMaxwell, 20 Cr. 330 (AJN) \nThe password for the drive containing witness materials, government exhibits, and \ndiscovery \npertinent to Ghislaine Maxwell (02879-509) is \nVery truly yours, \nDAMIAN WILLIAMS \nUnited States Attorney \nby: /s \nAssistant United States \nAttorneys \nEFTA00014654",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "government exhibits, and \ndiscovery \npertinent to Ghislaine Maxwell (02879-509) is \nVery truly yours, \nDAMIAN WILLIAM"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District IV-New Yor"
+      },
+      {
+        "name": "Southern District IV",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District IV-New York \nThe Mollo Builefin"
+      },
+      {
+        "name": "The Mollo",
+        "role": "extracted",
+        "context": "outhern District IV-New York \nThe Mollo Builefin \nNew York, New York"
+      },
+      {
+        "name": "Builefin \nNew",
+        "role": "extracted",
+        "context": "strict IV-New York \nThe Mollo Builefin \nNew York, New York 10007 \nNovembe"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLe I  De artment \nBro"
+      },
+      {
+        "name": "Center \nLe",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLe I  De artment \nBrooklyn, NY 1"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "11232 \nRe: United States v. \nGhislaine \nMaxwell, 20 Cr. 330 (AJN) \nThe passwo"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ited States Attorney \nby: /s \nAssistant United States \nAttorneys \nEFTA000146"
+      },
+      {
+        "name": "States \nAttorneys",
+        "role": "extracted",
+        "context": "ney \nby: /s \nAssistant United States \nAttorneys \nEFTA00014654"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Brooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-20",
+        "event": "November 20, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.285Z"
+}

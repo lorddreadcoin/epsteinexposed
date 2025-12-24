@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00014499",
+    "filename": "EFTA00014499.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014499.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Confidentiality Order - v. Maxwell (Judge \nSweet) \nDate: Thu, 03 Jan 2019 19:14:52 +0000 \nAttachments: 2017-11-14_Sealed_Opinion.pdf; 2016-03-18 [DE 62] Protective_Order.pdf; 2017-07-\n18 JDE_56]_New_Case_Manager_Assigned \nInline-Images: image001.png \nThese documents are public. \nry rill \nEDWARDS \nCl_ \nPOTTINGER LLC \nStan Pottinger \nPartner \n1930 Broadway \nSuite 12B \nNew York, New York 10023 \nFort Lauderdale, FL 33301 \nwww.epllc.com \nEFTA00014499",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Confidentiality Order",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Confidentiality Order - v. Maxwell (Judge \nSweet)"
+      },
+      {
+        "name": "Judge \nSweet",
+        "role": "extracted",
+        "context": "entiality Order - v. Maxwell (Judge \nSweet) \nDate: Thu, 03 Jan 2019 19:1"
+      },
+      {
+        "name": "Assigned \nInline",
+        "role": "extracted",
+        "context": "-\n18 JDE_56]_New_Case_Manager_Assigned \nInline-Images: image001.png \nThese d"
+      },
+      {
+        "name": "Stan Pottinger",
+        "role": "extracted",
+        "context": "EDWARDS \nCl_ \nPOTTINGER LLC \nStan Pottinger \nPartner \n1930 Broadway \nSuit"
+      },
+      {
+        "name": "Broadway \nSuite",
+        "role": "extracted",
+        "context": "Stan Pottinger \nPartner \n1930 Broadway \nSuite 12B \nNew York, New York 10023"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "role": "extracted",
+        "context": "2B \nNew York, New York 10023 \nFort Lauderdale, FL 33301 \nwww.epllc.com \nEFT"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Fort Lauderdale, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2016-03-18",
+        "event": "2016-03-18"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.975Z"
+}

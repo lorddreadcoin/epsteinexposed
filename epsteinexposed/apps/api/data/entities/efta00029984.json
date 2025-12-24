@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029984",
+    "filename": "EFTA00029984.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029984.pdf",
+    "text": "\n\nFrom: \nTo: \"Weinstein, Marc A.\" , ' \nCc: Andrew Tomback \nBee: \"USAHUB-USAJouma1111\" \nSubject: RE: Epstein Estate update \nDate: Mon, 09 Nov 2020 15:27:27 +0000 \nEmbedded: \nRE:_Epstein_Estate_update.msg \nSender: \nSubject: RE: Epstein Estate update \nMessage-Id: \n<BN1P110MB0163A80752E4B980448C20C684EA0@BNIP110MB0163.NAMP110.PROD.OUTLOOK.COM \nTo: \nEFTA00029984",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "\"Weinstein, Marc A.\" , ' \nCc: Andrew Tomback \nBee: \"USAHUB-USAJouma1111\""
+      },
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "B-USAJouma1111\" \nSubject: RE: Epstein Estate update \nDate: Mon, 09 Nov 202"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.712Z"
+}

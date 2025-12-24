@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00026828",
+    "filename": "EFTA00026828.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026828.pdf",
+    "text": "\n\nFrom: \nUSANYS)\" \n<\nIMIM> \nTo: 1. (USANYS)\" alMl.' \nSubject: Maxwell letter \nDate: Wed, 07 Oct 2020 16:56:29 +0000 \nAttachments: 2020-10-07 Letter to_GM_counsel_re_discovery_MDC_conditions.rd.docx \nWill call you to discuss in a minute. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nDes \nCel \nEFTA00026828",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "you to discuss in a minute. \nDeputy Chief, Public Corruption Unit \nU.S."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "s in a minute. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nDes \nCe"
+      },
+      {
+        "name": "Des \nCel",
+        "role": "extracted",
+        "context": "outhern District of New York \nDes \nCel \nEFTA00026828"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-07",
+        "event": "2020-10-07"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.929Z"
+}

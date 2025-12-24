@@ -1,0 +1,43 @@
+{
+  "document": {
+    "id": "efta00029871",
+    "filename": "EFTA00029871.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029871.pdf",
+    "text": "\n\nJuly 15, 2021 \nAUSAs \nSA \nPrep \n• Prepared for trial testimony. \no \nan authenticate map of area surrounding 358 El Brillo Way \no \nan authenticate video of October 20, 2005 search of 358 El Brillo Way \no \nan authenticate photographs of 358 El Brillo Way from October 20, 2005 \nsearch, except those that show opened drawers or boxes \no can authenticate PBPD property receipts from October 20, 2005 search of 358 \nEl Brillo Way \no • can authenticate green massage table seized from 358 El Brillo Way on \nOctober 20, 2005 \no All evidence seized from October 20, 2005 search of 358 El Brillo Way was \ntransferred in a caravan of cars of PBPD personnel to PBPD office and stored in \nvault there. \no \n■ \ntransferred all evidence seized from October 20, 2005 search of 358 El Brillo \nWay to FBI agent on or about August 28, 2006. \nEFTA00029871",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "El Brillo",
+        "role": "extracted",
+        "context": "e map of area surrounding 358 El Brillo Way \no \nan authenticate video"
+      }
+    ],
+    "locations": [
+      {
+        "name": "358 El Brillo Way",
+        "type": "address"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-07-15",
+        "event": "July 15, 2021"
+      },
+      {
+        "date": "2005-10-20",
+        "event": "October 20, 2005"
+      },
+      {
+        "date": "2006-08-28",
+        "event": "August 28, 2006"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.427Z"
+}

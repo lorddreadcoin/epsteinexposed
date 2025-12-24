@@ -1,0 +1,145 @@
+{
+  "document": {
+    "id": "efta00020929",
+    "filename": "EFTA00020929.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020929.pdf",
+    "text": "\n\nSEARCH \nNUMBER: 19-J-9358 \nDear \nClient: \nTHIS COMPANY \ncertifies that it has conducted a search of \nthe records in the office of the Clerk and Register of \nthe \nCounty of NEW YORK,  City of NEW YORK for Record Owner(s), \nOpen Mortgages, Judgments, Federal Tax Liens, \nLis Pendens, \nMechanic \nLiens and Warrants. Search also includes, Covenants, \nRestrictions, Easements, if any, and Tax Search against the \nsubject premises set forth \nbelow. \nSUBJECT \nPREMISES: 9 East 71st Street, \nNew York, New York \nThe following returns \nwere found of the record: \nDEED: \nBirch Wathen \nSchool, Inc. Dated 09-06-89 \n-TO- Recorded 09-11-89 \nNine East 71st Street \nCorporation Reel 1617 Page 2412 \nN.Y.S.T.T. \nPaid $52,800.00 \nDEED: \nNine East 71st Street Corporation Dated \n12-23-11 \n(by Jeffrey E. Epstein, President) \n-TO-\nMaple, Inc. \n(Last Deed of Record) \n(Continued) \nRecorded \n01-10-12 \nCRFN: \n2012000008342 \nNo Consideration \nEFTA00020929\n\n2 \nOBJECTIONS TO TITLE: \nSEARCH #: 19-J-9358 \n1. Subject to any state of facts an accurate Survey may show. \n2. Subject to any Tax Assessments, Water and Sewer charges, \nif \nany. \n3. Subject to the Rights of Tenants or Persons in \nPossession, \nif \nany. \n4. Unpaid Vault Charges, if \nany. \n5. Subject to all Covenants and Restrictions, Reservations & \nEasements of \nrecord, if any. \n6. Lis Pendens \nfiled 07-11-19, \nIndex # 19CR490. \n(Image Not \nAvailable) \n7. \nNo Open Mortgages found of record. \n8. No Open Judgments found of record. \n9. Possible Unpaid N.Y.S. Franchise Taxes -VS-\nMaple, Inc. \n10. Possible Unpaid N.Y.C. Corporate Taxes -VS-\nMaple, Inc. \n11. Possible Unpaid \nN.Y.S. Franchise Taxes -VS-\nNine East 71st Street Corporation \n12. \nPossible Unpaid N.Y.C. Corporate Taxes -VS-\nNine East 71st Street Corproation \n13. Tax Search (See \nHerein) \n(Continued) \nEFTA00020930\n\n3 \nNo other returns were found of record. \nSaid subject premises are also known and designated on the \nNEW YORK \nCounty Tax Map as: \nBlock: 1386 Lot: 10 \nThis Company's maximum liability \nhereunder is limited to the \ntotal fee paid for this search. No liability is assumed for \nitems not indexed or miss indexed. This report is based upon \ninformation \nsupplied by the applicant as to the location and \nidentification of the premises, and no liability is assumed for \nany discrepancies resulting therefrom. This \nreport is offered \nfor information only \nand does not represent either a commitment \nto insure Title or an opinion as to the marketability of \nTitle \nto the subject premises. \nSEARCH CERTIFICATION DATE: AS OF 8AM \n06-10-19 \nJADE DATA RESEARCH, INC. \nEFTA00020931",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Dear \nClient",
+        "role": "extracted",
+        "context": "SEARCH \nNUMBER: 19-J-9358 \nDear \nClient: \nTHIS COMPANY \ncertifies tha"
+      },
+      {
+        "name": "Record Owner",
+        "role": "extracted",
+        "context": "W YORK,  City of NEW YORK for Record Owner(s), \nOpen Mortgages, Judgment"
+      },
+      {
+        "name": "Open Mortgages",
+        "role": "extracted",
+        "context": "EW YORK for Record Owner(s), \nOpen Mortgages, Judgments, Federal Tax Liens"
+      },
+      {
+        "name": "Federal Tax",
+        "role": "extracted",
+        "context": ", \nOpen Mortgages, Judgments, Federal Tax Liens, \nLis Pendens, \nMechani"
+      },
+      {
+        "name": "Lis Pendens",
+        "role": "extracted",
+        "context": "udgments, Federal Tax Liens, \nLis Pendens, \nMechanic \nLiens and Warrant"
+      },
+      {
+        "name": "Mechanic \nLiens",
+        "role": "extracted",
+        "context": "ral Tax Liens, \nLis Pendens, \nMechanic \nLiens and Warrants. Search also inc"
+      },
+      {
+        "name": "Tax Search",
+        "role": "extracted",
+        "context": "tions, Easements, if any, and Tax Search against the \nsubject premises"
+      },
+      {
+        "name": "Birch Wathen",
+        "role": "extracted",
+        "context": "found of the record: \nDEED: \nBirch Wathen \nSchool, Inc. Dated 09-06-89"
+      },
+      {
+        "name": "Nine East",
+        "role": "extracted",
+        "context": "6-89 \n-TO- Recorded 09-11-89 \nNine East 71st Street \nCorporation Reel"
+      },
+      {
+        "name": "Street \nCorporation",
+        "role": "extracted",
+        "context": "rded 09-11-89 \nNine East 71st Street \nCorporation Reel 1617 Page 2412 \nN.Y.S.T."
+      },
+      {
+        "name": "Street Corporation",
+        "role": "extracted",
+        "context": "800.00 \nDEED: \nNine East 71st Street Corporation Dated \n12-23-11 \n(by Jeffrey"
+      },
+      {
+        "name": "Last Deed",
+        "role": "extracted",
+        "context": "resident) \n-TO-\nMaple, Inc. \n(Last Deed of Record) \n(Continued) \nReco"
+      },
+      {
+        "name": "No Consideration",
+        "role": "extracted",
+        "context": "-10-12 \nCRFN: \n2012000008342 \nNo Consideration \nEFTA00020929\n\n2 \nOBJECTIONS"
+      },
+      {
+        "name": "Tax Assessments",
+        "role": "extracted",
+        "context": "may show. \n2. Subject to any Tax Assessments, Water and Sewer charges, \nif"
+      },
+      {
+        "name": "Unpaid Vault",
+        "role": "extracted",
+        "context": "in \nPossession, \nif \nany. \n4. Unpaid Vault Charges, if \nany. \n5. Subject"
+      },
+      {
+        "name": "Image Not",
+        "role": "extracted",
+        "context": "07-11-19, \nIndex # 19CR490. \n(Image Not \nAvailable) \n7. \nNo Open Mort"
+      },
+      {
+        "name": "No Open",
+        "role": "extracted",
+        "context": "(Image Not \nAvailable) \n7. \nNo Open Mortgages found of record. \n8"
+      },
+      {
+        "name": "Possible Unpaid",
+        "role": "extracted",
+        "context": "udgments found of record. \n9. Possible Unpaid N.Y.S. Franchise Taxes -VS-\nM"
+      },
+      {
+        "name": "Franchise Taxes",
+        "role": "extracted",
+        "context": "d. \n9. Possible Unpaid N.Y.S. Franchise Taxes -VS-\nMaple, Inc. \n10. Possibl"
+      },
+      {
+        "name": "Corporate Taxes",
+        "role": "extracted",
+        "context": ". \n10. Possible Unpaid N.Y.C. Corporate Taxes -VS-\nMaple, Inc. \n11. Possibl"
+      },
+      {
+        "name": "Street Corproation",
+        "role": "extracted",
+        "context": "ate Taxes -VS-\nNine East 71st Street Corproation \n13. Tax Search (See \nHerein)"
+      },
+      {
+        "name": "See \nHerein",
+        "role": "extracted",
+        "context": "Corproation \n13. Tax Search (See \nHerein) \n(Continued) \nEFTA00020930"
+      },
+      {
+        "name": "County Tax",
+        "role": "extracted",
+        "context": "designated on the \nNEW YORK \nCounty Tax Map as: \nBlock: 1386 Lot: 10"
+      },
+      {
+        "name": "This Company",
+        "role": "extracted",
+        "context": "Map as: \nBlock: 1386 Lot: 10 \nThis Company's maximum liability \nhereunde"
+      }
+    ],
+    "locations": [
+      {
+        "name": "9 East 71st Street",
+        "type": "address"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.643Z"
+}

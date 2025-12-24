@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00017094",
+    "filename": "EFTA00017094.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017094.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: US v. Tartaglione, 16-cr-832 - Unsealing of Records \nDate: Tue, 10 Sep 2019 20:56:29 +0000 \nAttachments: NYTLEGAL-_64879-v2-Tartaglione_Access_Letter.pdf \nSee attached. The NY Times has joined in the request to unseal the letters. \nAssistant United States Attorney \nFrom: Sumar, Al-Amyn \nSent: Tuesday, September 10, 2019 4:46 \nPM \nTo: \nCc: Davi •  McCraw \nSubject: US v. Tartaglione, 16-cr-832 - Unsealing of Records \nAll, \nAttached is a letter on behalf of the New York Times Company and reporter Ben Weiser regarding the above-\nreferenced case, which was sent to the Court today by fax. \nRegards, \nAl-Amyn Sumar \nLegal Department \nThe New York Times \nCompany \nNew York, NY 10018 \nEFTA00017094",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Records \nDate",
+        "role": "extracted",
+        "context": "one, 16-cr-832 - Unsealing of Records \nDate: Tue, 10 Sep 2019 20:56:29 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "quest to unseal the letters. \nAssistant United States Attorney \nFrom: Sumar,"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "he letters. \nAssistant United States Attorney \nFrom: Sumar, Al-Amyn \nSent:"
+      },
+      {
+        "name": "Amyn \nSent",
+        "role": "extracted",
+        "context": "tes Attorney \nFrom: Sumar, Al-Amyn \nSent: Tuesday, September 10, 2019"
+      },
+      {
+        "name": "Craw \nSubject",
+        "role": "extracted",
+        "context": "4:46 \nPM \nTo: \nCc: Davi •  McCraw \nSubject: US v. Tartaglione, 16-cr-832"
+      },
+      {
+        "name": "Records \nAll",
+        "role": "extracted",
+        "context": "one, 16-cr-832 - Unsealing of Records \nAll, \nAttached is a letter on beh"
+      },
+      {
+        "name": "Times Company",
+        "role": "extracted",
+        "context": "ter on behalf of the New York Times Company and reporter Ben Weiser regar"
+      },
+      {
+        "name": "Ben Weiser",
+        "role": "extracted",
+        "context": "rk Times Company and reporter Ben Weiser regarding the above-\nreferenc"
+      },
+      {
+        "name": "Amyn Sumar",
+        "role": "extracted",
+        "context": "t today by fax. \nRegards, \nAl-Amyn Sumar \nLegal Department \nThe New Yo"
+      },
+      {
+        "name": "Legal Department",
+        "role": "extracted",
+        "context": "ax. \nRegards, \nAl-Amyn Sumar \nLegal Department \nThe New York Times \nCompany"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "Amyn Sumar \nLegal Department \nThe New York Times \nCompany \nNew York"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "ar \nLegal Department \nThe New York Times \nCompany \nNew York, NY 10018"
+      },
+      {
+        "name": "Company \nNew",
+        "role": "extracted",
+        "context": "partment \nThe New York Times \nCompany \nNew York, NY 10018 \nEFTA00017094"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-10",
+        "event": "September 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.995Z"
+}

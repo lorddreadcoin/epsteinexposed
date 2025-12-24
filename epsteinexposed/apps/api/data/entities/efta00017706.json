@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00017706",
+    "filename": "EFTA00017706.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017706.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Language to include \nDate: Mon, 29 Jun 2020 13:53:09 +0000 \nI cannot put this language into the letter. I can include the web page. \na she is V/W legal adviser in EOUSA and a really nice person. I would like to see if she has added text that we \ncan use in the letter. Is it okay that I ask her. \nFrom: \nSent: Monday, June 29, 2020 9:05 AM \nTo: \n>; \nCc: \n> \nSubject: Language to include \nGood Morning, \nI hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD \nexecutive management and our OGC rep. I'm more than happy to have a call if you would like to discuss. \nThe FBI's Victim Services Division (VSD) is committed to providing services and support to victims of crimes \ncommitted by Jeffrey Epstein. Though this particular indictment is focused on specific individuals, you are still \nentitled to your rights, resources, and referrals as a federal victim independent of this indictment. An overview \nof these services is available at www.fbi.gov/resources/victim-services.  If you would like to speak with a Victim \nSpecialist, or if you have any questions regarding your rights to victim services and referrals, please email \nvictimservices@fbi.gov.\nThank you, \nProgram Manager \nFBI Victim Services Division \nEFTA00017706",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "es and support to victims of crimes \ncommitted by Jeffrey Epstein. Though this particular indictment is focused on"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "Subject: Language to include \nGood Morning, \nI hope each of you had a go"
+      },
+      {
+        "name": "Victim Services",
+        "role": "extracted",
+        "context": "d like to discuss. \nThe FBI's Victim Services Division (VSD) is committed t"
+      },
+      {
+        "name": "Victim \nSpecialist",
+        "role": "extracted",
+        "context": "ou would like to speak with a Victim \nSpecialist, or if you have any questions"
+      },
+      {
+        "name": "Program Manager",
+        "role": "extracted",
+        "context": "services@fbi.gov.\nThank you, \nProgram Manager \nFBI Victim Services Division"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.405Z"
+}

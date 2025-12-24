@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021350",
+    "filename": "EFTA00021350.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021350.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: https://www.nytimes.com/2021/02/18/fashion/alexander-wang-aceusations.html \nDate: Thu, 18 Feb 2021 20:39:03 +0000 \nGreat! For sure, will do. \nSent from my iPhone \nOn Feb 18, 2021, at 3:24 PM, \nThanks again for sending this! Not sure there's a federal nexus, but the lawyer representing the victims represents \nseveral Epstein victims, so I might reach out to her to see if there could possibly be something to work with. \nIf you see anything else like this, I'd be happy to have it passed along to me. I'm hoping to bring more sex abuse cases in \nVOC. \nFrom: \nSent: Thursday, February 18, 2021 12:41 PM \nTo: \nSubject: https://www.nytimes.com/2021/02/18/fashion/alexander-wang-accusations.html \nThis may be dumb and I don't know if there's a federal nexus, but thought this was interesting (and had no idea who \nelse to send it to). \nSpokesman \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nEFTA00021350",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "sure, will do. \nSent from my iPhone \nOn Feb 18, 2021, at 3:24 PM, \nTh"
+      },
+      {
+        "name": "Spokesman \nUnited",
+        "role": "extracted",
+        "context": "ea who \nelse to send it to). \nSpokesman \nUnited States Department of Justice"
+      },
+      {
+        "name": "States Department",
+        "role": "extracted",
+        "context": "nd it to). \nSpokesman \nUnited States Department of Justice \nU.S. Attorney's O"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nEFTA00021350"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-02-18",
+        "event": "February 18, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.482Z"
+}

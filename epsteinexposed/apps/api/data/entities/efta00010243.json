@@ -1,0 +1,119 @@
+{
+  "document": {
+    "id": "efta00010243",
+    "filename": "EFTA00010243.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010243.pdf",
+    "text": "\n\nCourt Subpoena \nPrritthatates Piztrict Tourt \nSOUTHERN DISTRICT OF NEW YORK \nTO: The Mar-a-Lago Club \n1100 South Ocean Boulevard \nPalm Beach, Florida 33480 \nGREETINGS: \nWE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend \nbefore the United States District Court for the Southern District of New York, 40 Foley Square, in the \nBorough of Manhattan, City of New York, New York, in the Southern District of New York, at the \nfollowing date, time and place: \nAppearance Date: November 29, 2021 Appearance Time: 9:00 a.m. \nAppearance Place: 40 Foley Square, Courtroom 906 \nto testify and give evidence in the following matter: \nUnited States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nand not to depart the Court without leave thereof, or of the United States Attorney, and that you bring \nwith you and produce at the above time and place the following: \nAny and all employment records relating to \nFailure to attend and produce any items hereby demanded will constitute contempt of court and will \nsubject you to civil sanctions and criminal penalties, in addition to other penalties of the Law. \nDATED: New York, New York \nOctober \n5, 2021 \nIs \nAUDREY \nSTRAUSS \nUnited States Attorney for the \nNew York \nAssistant United States Attorney \nOne \nSt. Andrew's Plaza \nNew York, New York 10007 \nEmail: \nTelephone: \nRev. 02.01.12 \nEFTA00010243",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "dence in the following matter: \nUnited States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nand not to depart the Court wi"
+      },
+      {
+        "name": "Court Subpoena",
+        "role": "extracted",
+        "context": "Court Subpoena \nPrritthatates Piztrict Tourt"
+      },
+      {
+        "name": "Prritthatates Piztrict",
+        "role": "extracted",
+        "context": "Court Subpoena \nPrritthatates Piztrict Tourt \nSOUTHERN DISTRICT OF N"
+      },
+      {
+        "name": "The Mar",
+        "role": "extracted",
+        "context": "ERN DISTRICT OF NEW YORK \nTO: The Mar-a-Lago Club \n1100 South Ocean"
+      },
+      {
+        "name": "Lago Club",
+        "role": "extracted",
+        "context": "CT OF NEW YORK \nTO: The Mar-a-Lago Club \n1100 South Ocean Boulevard"
+      },
+      {
+        "name": "South Ocean",
+        "role": "extracted",
+        "context": "TO: The Mar-a-Lago Club \n1100 South Ocean Boulevard \nPalm Beach, Florid"
+      },
+      {
+        "name": "Boulevard \nPalm",
+        "role": "extracted",
+        "context": "a-Lago Club \n1100 South Ocean Boulevard \nPalm Beach, Florida 33480 \nGREETIN"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "end \nbefore the United States District Court for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "States District Court for the Southern District of New York, 40 Foley Square,"
+      },
+      {
+        "name": "Foley Square",
+        "role": "extracted",
+        "context": "hern District of New York, 40 Foley Square, in the \nBorough of Manhattan"
+      },
+      {
+        "name": "Appearance Date",
+        "role": "extracted",
+        "context": "lowing date, time and place: \nAppearance Date: November 29, 2021 Appearance"
+      },
+      {
+        "name": "Appearance Time",
+        "role": "extracted",
+        "context": "rance Date: November 29, 2021 Appearance Time: 9:00 a.m. \nAppearance Place:"
+      },
+      {
+        "name": "Appearance Place",
+        "role": "extracted",
+        "context": "1 Appearance Time: 9:00 a.m. \nAppearance Place: 40 Foley Square, Courtroom 9"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "s Attorney for the \nNew York \nAssistant United States Attorney \nOne \nSt. And"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e \nNew York \nAssistant United States Attorney \nOne \nSt. Andrew's Plaza \nNew"
+      },
+      {
+        "name": "One \nSt",
+        "role": "extracted",
+        "context": "stant United States Attorney \nOne \nSt. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "s Attorney \nOne \nSt. Andrew's Plaza \nNew York, New York 10007 \nEmail:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      },
+      {
+        "date": "2021-10-05",
+        "event": "October \n5, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.579Z"
+}

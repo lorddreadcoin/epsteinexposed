@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00031505",
+    "filename": "EFTA00031505.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031505.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: Maccow tomorrow \nDate: Wed, 06 Nov \n2019 14:26:30 +0000 \nGot it. \nFrom: \nSent: Tuesda , November 05, 2019 6:48 PM \nTo: \nSub . \nHi, For tomorrow, I have a 9:30 meeting with the attorneys for Epstein's estate, which may run past loam. I'll join \nMaccow as soon as I can, and should also be there for all of Fedora after. \nEFTA00031505",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Maccow tomorrow"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-05",
+        "event": "November 05, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.259Z"
+}

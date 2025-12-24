@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027712",
+    "filename": "EFTA00027712.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027712.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Read: \nEOUSA-2019-004234 :: US v. Jeffrey Epstein :: 2018R01618 :: Exemption Memo \nDate: Thu, 27 May 2021 17:02:56 +0000 \nEFTA00027712",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "To:' \nSubject: Read: \nEOUSA-2019-004234 :: US v. Jeffrey Epstein :: 2018R01618 :: Exemption Memo \nDate: Thu, 27 Ma"
+      },
+      {
+        "name": "Exemption Memo",
+        "role": "extracted",
+        "context": "frey Epstein :: 2018R01618 :: Exemption Memo \nDate: Thu, 27 May 2021 17:02"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-27",
+        "event": "27 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.834Z"
+}

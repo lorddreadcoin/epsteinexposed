@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00025548",
+    "filename": "EFTA00025548.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025548.pdf",
+    "text": "\n\nFrom: \nalMIE> \nTo:' \" , ' \n[Contractor]\" \nSubject: Prince Andrew reportedly now cooperating with Jeffrey Epstein investigators \nDate: Sat, 14 Mar 2020 04:07:36 +0000 \nDid anyone talk to the telegraph? \nhttps://pagesix.com/2020/03/13/prince-andrew-reportedly-now-cooperating-with-jeffrey-epstein-investigators/ \nEFTA00025548",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ct: Prince Andrew reportedly now cooperating with Jeffrey Epstein investigators \nDate: Sat, 14 Mar 2020 04:07:36 +0"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "rom: \nalMIE> \nTo:' \" , ' \n[Contractor]\" \nSubject: Prince Andrew reportedly now cooperating with Jeffrey Epstein i"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.402Z"
+}

@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00026871",
+    "filename": "EFTA00026871.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026871.pdf",
+    "text": "\n\nEvent: Accepted: Call with counsel \nStart Date: 2020-02-20 20:00:00 +0000 \nEnd Date: 2020-02-20 20:30:00 +0000 \nLocation: . will conference . in \nClass: X-PERSONAL \nComment: \nDate Created: 2020-02-25 04:49:58 +0000 \nDate Modified: 2020-02-25 04:49:58 +0000 \nPriority: 5 \nDTSTAMP: 2020-02-20 17:48:43 +0000 \nAttendee: i> \nEFTA00026871",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Accepted: Call with counsel \nStart Date: 2020-02-20 20:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-02-20 20:00:00 +0000 \nEnd Date: 2020-02-20 20:30:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-02-25 04:49:58 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-02-25 04:49:58 +0000 \nDate Modified: 2020-02-25 04:49:58 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-20",
+        "event": "2020-02-20"
+      },
+      {
+        "date": "2020-02-25",
+        "event": "2020-02-25"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.010Z"
+}

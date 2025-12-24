@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013909",
+    "filename": "EFTA00013909.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013909.pdf",
+    "text": "\n\nFrom: (USAFLS)\" alMIN> \nTo: 'al.SJ1\" \n' \nBcc: (USAFLS)\" alMIN> \nSubject: 080627 Goldberger Black Ittpdf \nDate: Fri, 27 Jun 2008 19:40:21 +0000 \nImportance: Normal \nAttachments: 080627 Goldberger Black_Ittpdf \nUSAFLS)\" \nHere is the letter that I just faxed over. \nPolice checked the docket and it is on at 8:30 for a \"status conference.\" It also looks like the required \nprocurement of minors charge has been filed. Will keep you posted. \n<<080627 Goldberger Black Ibtpdf>> \nEFTA00013909",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Goldberger Black",
+        "role": "extracted",
+        "context": "FLS)\" alMIN> \nSubject: 080627 Goldberger Black Ittpdf \nDate: Fri, 27 Jun 200"
+      },
+      {
+        "name": "Ittpdf \nDate",
+        "role": "extracted",
+        "context": "ject: 080627 Goldberger Black Ittpdf \nDate: Fri, 27 Jun 2008 19:40:21 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 19:40:21 +0000 \nImportance: Normal \nAttachments: 080627 Goldberger Black_Ittp"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.713Z"
+}

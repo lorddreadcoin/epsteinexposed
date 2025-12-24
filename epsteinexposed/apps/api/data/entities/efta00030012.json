@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030012",
+    "filename": "EFTA00030012.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030012.pdf",
+    "text": "\n\nFrom: \"Strauss, Audrey (USANYS)\" \nTo: \nSubject: RE: Let's not forget \nDate: Wed, 01 Jul 2020 13:36:29 +0000 \nthanks \n Ori inal Messa e \nFrom: \nSent: Tuesday, June 30, 2020 10:34 PM \nTo \nCc: \nStrauss, \nAudrey (USANYS) \nSubject: \nRe: Let's not forget \nThe number is 1-800-CALL-FBI. \nSent from my iPhone \n> On Jun \n30, 2020, at 9:56 PM, wrote: \n> \nWill do. \nThanks, Audrey. \n>> On Jun 30, 2020, at 9:45 PM, Strauss, Audrey (USANYS) <wrote: \n>> We need the telephone number I need to announce per the press remarks. \n>> For some reason that was hard to get from FBI for Epstein. \n>> Sent from my iPhone \nEFTA00030012",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "sday, June 30, 2020 10:34 PM \nTo \nCc: \nStrauss, \nAudrey (USANYS)"
+      },
+      {
+        "name": "On Jun",
+        "role": "extracted",
+        "context": "-FBI. \nSent from my iPhone \n> On Jun \n30, 2020, at 9:56 PM, wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-30",
+        "event": "June 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.773Z"
+}

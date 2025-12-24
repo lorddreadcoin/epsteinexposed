@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00010220",
+    "filename": "EFTA00010220.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010220.pdf",
+    "text": "\n\nFrom: \n\"\nTo (USANYS)\" alMIIM> \nSubject: travel request \nDate: Sun, 14 Nov 2021 21:02:48 +0000 \nAttachments: Fact_ \nWitness_ \nTravel_Requestitrial).docx \nHi= \nAttached is a travel request for a trial witness — he's one of the eo le we discussed on Fri . He requested if possible \nthat he stay on a higher floor of a hotel, since he's a and may need to remotely while he's here. \nThanksl \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00010220",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "to remotely while he's here. \nThanksl \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "nksl \nAssistant United States Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00010220"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.529Z"
+}

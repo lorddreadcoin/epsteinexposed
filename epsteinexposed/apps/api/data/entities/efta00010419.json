@@ -1,0 +1,63 @@
+{
+  "document": {
+    "id": "efta00010419",
+    "filename": "EFTA00010419.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010419.pdf",
+    "text": "\n\nFrom: USANYS)\" \nTo: USANY \nCc: SANYS)' ANYS)\" \nSubject: pstem eport utopsy \nDate: Fri, 02 Jul 2021 19:11:34 +0000 \nAttachments: Epstein_Autopsy_Report_with_Redactions.pdf \nHere's the redacted autopsy report, included in the release to the Times. Thanks. \nFrom: USANYS \nSent: Wednesday, une , 2021 12:34 PM \nCc: \n(USANY \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \n(USANYS) \nOCME asked whether we could send them a copy of the redacted autopsy report. Could you please send me a copy of it \non Friday so I can forward to them? Thank you! \nFro (USANYS) \n• \nSent: Tuesda June 29 2021 6:46 PM \nT \nU \n(USANYS \nANYS)\n(USANYS) \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nThankaYes, we will ask BOP to redact that photo as well. \nFrom: i (USANYS) \nSent: Tuesday, June 29, 2021 3:45 PM \nTo: (USANY \nCc: USANY \n(US \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nand IS, \n(USANYS) \n(USANYS) \nI spoke with the GC of OCME, who appreciated the head's up. One note for you all: the photo of the hyoid bone on page \n12 is in fact Epstein's hyoid bone. To the extent we're redacting the closeup photos from page 13, shouldn't we also \nredact the entire photo on page 12? \nThanks, \nFrom: (USANYS) \nSent: Monday, June 28, 2021 5:02 PM \nTo (USANYS) \nEFTA00010419\n\nCc: \n(USANYS \nSubject: Epstein FOIA - OCME Report of Autopsy \nUSANYS) \nPlease find attached the OCME Report of Autopsy. The boxes show where there will be redactions. \nThanks \nAssistant United States Attorney \n300 Quarropas Street \nWhite \nPlains, NY 10601 \nEFTA00010420",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tuesda June",
+        "role": "extracted",
+        "context": "you! \nFro (USANYS) \n• \nSent: Tuesda June 29 2021 6:46 PM \nT \nU \n(USANY"
+      },
+      {
+        "name": "Autopsy \nThanka",
+        "role": "extracted",
+        "context": "Epstein FOIA - OCME Report of Autopsy \nThankaYes, we will ask BOP to redact"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "re there will be redactions. \nThanks \nAssistant United States Attorney \n300 Q"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite \nPlains, NY 10601 \nEFT"
+      },
+      {
+        "name": "White \nPlains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite \nPlains, NY 10601 \nEFTA00010420"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White \nPlains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-29",
+        "event": "June 29 2021"
+      },
+      {
+        "date": "2021-06-29",
+        "event": "June 29, 2021"
+      },
+      {
+        "date": "2021-06-28",
+        "event": "June 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.913Z"
+}

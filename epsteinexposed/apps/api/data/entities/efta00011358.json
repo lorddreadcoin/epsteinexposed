@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011358",
+    "filename": "EFTA00011358.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011358.pdf",
+    "text": "\n\nFrom: \nTo: <1 \nSubject: Initial Response to Grand Jury \nSubpoena \nDate: Thu, 12 Mar 2020 19:11:01 +0000 \nAttachments: 19353 \n_ -_ \ncertification.pdf \nMichael Hantman I Holland & Knight \nPartner \nHolland & Knight LLP \nwww.hklaw.com \nAdd to address book I View professional biography \nNOTE: This e-mall is from a law firm, Holland & Knight LIP (\"H&K\"), and Is Intended solely for the use of the individual(s) to whom it is \naddressed. If you believe you received this e-mail In error, please notify the sender immediately, delete the e-mail from your computer and do \nnot copy or disclose it to anyone else. If you are not an existing client of H&K, do not construe anything in this e-mail to make you a client \nunless it contains a specific statement to that effect and do not disclose anything to H&K In reply that you expect It to hold in confidence. If you \nproperly received this e-mall as a client, co-counsel or retained expert of H&K, you should maintain its contents in confidence in order to \npreserve the attorney-client or work product privilege that may be available to protect confidentiality. \nEFTA00011358",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Initial Response",
+        "role": "extracted",
+        "context": "From: \nTo: <1 \nSubject: Initial Response to Grand Jury \nSubpoena \nDate"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "Subject: Initial Response to Grand Jury \nSubpoena \nDate: Thu, 12 Mar"
+      },
+      {
+        "name": "Subpoena \nDate",
+        "role": "extracted",
+        "context": "itial Response to Grand Jury \nSubpoena \nDate: Thu, 12 Mar 2020 19:11:01 +0"
+      },
+      {
+        "name": "Michael Hantman",
+        "role": "extracted",
+        "context": "353 \n_ -_ \ncertification.pdf \nMichael Hantman I Holland & Knight \nPartner"
+      },
+      {
+        "name": "Knight \nPartner",
+        "role": "extracted",
+        "context": "Michael Hantman I Holland & Knight \nPartner \nHolland & Knight LLP \nwww.hk"
+      },
+      {
+        "name": "Is Intended",
+        "role": "extracted",
+        "context": "and & Knight LIP (\"H&K\"), and Is Intended solely for the use of the ind"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.475Z"
+}

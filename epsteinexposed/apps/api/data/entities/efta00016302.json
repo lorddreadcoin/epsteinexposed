@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00016302",
+    "filename": "EFTA00016302.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016302.pdf",
+    "text": "\n\nFrom: \nTo: Nathan NYSD Chambers \nCc: \nS. \nCohen\" \nSubject: US v. Maxwell, 20 Cr. 330 (MN) - proposed redactions \nDate: Fri, 04 Sep 2020 21:08:00 +0000 \nAttachments: 2020.08.24 JSP_Reply_Ltrje._Modification_of the_Protective_Order_(PROPOSED_RE \nDACTIONS).pdf; \n2020.08.24 JSP_Ltr._Submitting_Proposed_Redactions_Under SeaUPROPOSED_REDA \nCTIONS).pdf \nJeff Pagliuca \" ninger\" \nChristian Everdell , \"Mark \nGood afternoon, \nPursuant to the Court's September 2, 2020 Order in the above-referenced case, the parties have conferred and agreed \nupon proposed redactions to the defense letters dated August 24, 2020. Attached for the Court's consideration please \nfind the parties' agreed upon redactions to both letters. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nY  rk \nEFTA00016302",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers \nCc",
+        "role": "extracted",
+        "context": "From: \nTo: Nathan NYSD Chambers \nCc: \nS. \nCohen\" \nSubject: US v."
+      },
+      {
+        "name": "Under Sea",
+        "role": "extracted",
+        "context": "ubmitting_Proposed_Redactions_Under SeaUPROPOSED_REDA \nCTIONS).pdf \nJ"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "aUPROPOSED_REDA \nCTIONS).pdf \nJeff Pagliuca \" ninger\" \nChristian Everdell"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "pdf \nJeff Pagliuca \" ninger\" \nChristian Everdell , \"Mark \nGood afternoon, \nPur"
+      },
+      {
+        "name": "Mark \nGood",
+        "role": "extracted",
+        "context": "inger\" \nChristian Everdell , \"Mark \nGood afternoon, \nPursuant to the C"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "rs. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nY  rk \nEFTA00016"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-02",
+        "event": "September 2, 2020"
+      },
+      {
+        "date": "2020-08-24",
+        "event": "August 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.430Z"
+}

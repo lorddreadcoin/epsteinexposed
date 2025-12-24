@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00031199",
+    "filename": "EFTA00031199.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031199.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: rt\nSubject: Maxwell - inmate mail \nDate: Fri, 15 Oct 2021 14:27:45 +0000 \nAttachments: Ltr to Ct re Legal Mail 10-14-2I.pdf \nHi \nMaxwell's counsel filed the attached letter last night, and we've been ordered to respond as soon as possible, and by no \nlater than 5 pm. Is one of you free soon for a call about this? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00031199",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Legal Mail",
+        "role": "extracted",
+        "context": "00 \nAttachments: Ltr to Ct re Legal Mail 10-14-2I.pdf \nHi \nMaxwell's c"
+      },
+      {
+        "name": "Hi \nMaxwell",
+        "role": "extracted",
+        "context": "t re Legal Mail 10-14-2I.pdf \nHi \nMaxwell's counsel filed the attached"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "a call about this? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.517Z"
+}

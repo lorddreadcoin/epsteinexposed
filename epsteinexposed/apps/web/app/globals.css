@@ -1,0 +1,192 @@
+@import "tailwindcss";
+
+/* CSS Variables for theming */
+:root {
+  /* Dark Cinematic Palette - Always Dark */
+  --background: 0 0% 2%;
+  --foreground: 0 0% 98%;
+  
+  --card: 0 0% 4%;
+  --card-foreground: 0 0% 98%;
+  
+  --popover: 0 0% 4%;
+  --popover-foreground: 0 0% 98%;
+  
+  --primary: 38 92% 50%;
+  --primary-foreground: 0 0% 2%;
+  
+  --secondary: 210 40% 50%;
+  --secondary-foreground: 0 0% 98%;
+  
+  --accent: 350 70% 55%;
+  --accent-foreground: 0 0% 98%;
+  
+  --success: 142 76% 45%;
+  --success-foreground: 0 0% 2%;
+  
+  --muted: 0 0% 12%;
+  --muted-foreground: 0 0% 55%;
+  
+  --border: 0 0% 15%;
+  --input: 0 0% 15%;
+  --ring: 38 92% 50%;
+  
+  --radius: 0.5rem;
+}
+
+/* Base styles */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border-color: hsl(var(--border));
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-feature-settings: "rlig" 1, "calt" 1;
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Text glow effect for emphasis */
+.text-glow {
+  text-shadow: 0 0 20px hsl(var(--primary) / 0.6),
+               0 0 40px hsl(var(--primary) / 0.4);
+}
+
+.text-glow-accent {
+  text-shadow: 0 0 20px hsl(var(--accent) / 0.6),
+               0 0 40px hsl(var(--accent) / 0.4);
+}
+
+/* GPU acceleration for smooth animations */
+.gpu-accelerated {
+  transform: translateZ(0);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+/* Hide scrollbar but keep functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Custom scrollbar for dark theme */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+  border-radius: 3px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: hsl(var(--primary) / 0.5);
+  border-radius: 3px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--primary) / 0.7);
+}
+
+/* Glassmorphism effect */
+.glass {
+  background: hsl(var(--card) / 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid hsl(var(--border) / 0.5);
+}
+
+/* Scanning line effect */
+.scan-line::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, hsl(var(--primary)), transparent);
+  animation: scan 3s linear infinite;
+}
+
+/* Node glow based on entity type */
+.node-person { --node-color: 38 92% 50%; }
+.node-location { --node-color: 210 80% 55%; }
+.node-event { --node-color: 350 70% 55%; }
+.node-document { --node-color: 142 76% 45%; }
+.node-flight { --node-color: 270 70% 60%; }
+.node-transaction { --node-color: 330 80% 60%; }
+
+/* Anomaly severity indicators */
+.anomaly-low { border-left: 4px solid #22c55e; }
+.anomaly-medium { border-left: 4px solid #eab308; }
+.anomaly-high { border-left: 4px solid #f97316; }
+.anomaly-critical { border-left: 4px solid #ef4444; animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+
+/* Redaction void effect */
+.redaction-void {
+  background: linear-gradient(135deg, 
+    hsl(0 0% 5%) 0%, 
+    hsl(0 0% 8%) 50%, 
+    hsl(0 0% 5%) 100%);
+  position: relative;
+  overflow: hidden;
+}
+.redaction-void::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, 
+    hsl(var(--accent) / 0.1) 0%, 
+    transparent 70%);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Canvas and WebGL optimizations */
+canvas {
+  touch-action: none;
+  outline: none;
+}
+
+/* Prevent text selection during 3D interaction */
+.canvas-container {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Loading states */
+.skeleton {
+  background: linear-gradient(90deg,
+    hsl(var(--muted)) 0%,
+    hsl(var(--muted) / 0.5) 50%,
+    hsl(var(--muted)) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+@keyframes scan {
+  0% { transform: translateY(-100%); opacity: 0; }
+  50% { opacity: 1; }
+  100% { transform: translateY(100vh); opacity: 0; }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}

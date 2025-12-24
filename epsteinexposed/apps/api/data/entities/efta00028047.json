@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028047",
+    "filename": "EFTA00028047.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028047.pdf",
+    "text": "\n\nUNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT \nORAL ARGUMENT STATEMENT (Local Rule 34.1(a)) \nTO REQUEST ORAL ARGUMENT, FILL OUT THIS FORM AND FILE IT WITH THE CLERK \nWITHIN 14 DAYS AFTER THE FILING OF THE LAST APPELLEE BRIEF. \nIF THIS FORM IS NOT TIMELY FILED, YOU WILL NOT BE PERMITTED TO ARGUE IN PERSON. \nShort Title of Case: Docket No.: \nName of Party:  \nStatus of Party (e.g., appellant, cross-appellee, etc.):  \nCheck one of the three options below: \nI want oral argument. \nI want oral argument only if \nat least one other party does. \nI  do not want oral argument. \nAn attorney whose preference depends on whether other \nattorneys will argue should consider conferring before \nrequesting argument. After the appeal has been \nscheduled for oral argument, a motion by counsel to forgo \noral argument, even on consent, may be denied. \nIf no party wants oral argument, the case will be decided on the basis of the written briefs. \nargument, you must appear in Court on the date set by the Court for oral argument. \nIf  you want oral \nThe Court may determine to decide a  case without oral argument even if the parties request it. \nIf you want oral argument, state the name of the person who will argue: \nName: \n(An attorney must be admitted to practice before the Court in accordance with Local Rule 46.1.) \nIf you want oral argument, list any dates (including religious holidays), that fall in the interval from 6 to 20 weeks \nafter the due date of this form, that the person who will argue is not available to appear in Court: \nANYONE WHO WANTS TO ARGUE MUST UPDATE THE COURT IN WRITING OF ANY CHANGE IN \nAVAILABILITY. THE COURT MAY CONSIDER A  FAILURE TO UPDATE ABOUT AVAILABILITY WHEN \nDECIDING A MOTION TO POSTPONE A SET ARGUMENT DATE. \nFiled by: \nPrint Name: \nSignature:  \nDate: \n(Revised December 2011) \nEFTA00028047",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Local Rule",
+        "role": "extracted",
+        "context": "UIT \nORAL ARGUMENT STATEMENT (Local Rule 34.1(a)) \nTO REQUEST ORAL ARG"
+      },
+      {
+        "name": "Short Title",
+        "role": "extracted",
+        "context": "ERMITTED TO ARGUE IN PERSON. \nShort Title of Case: Docket No.: \nName of"
+      },
+      {
+        "name": "Docket No",
+        "role": "extracted",
+        "context": "PERSON. \nShort Title of Case: Docket No.: \nName of Party:  \nStatus of"
+      },
+      {
+        "name": "Print Name",
+        "role": "extracted",
+        "context": "ET ARGUMENT DATE. \nFiled by: \nPrint Name: \nSignature:  \nDate: \n(Revise"
+      },
+      {
+        "name": "Revised December",
+        "role": "extracted",
+        "context": "t Name: \nSignature:  \nDate: \n(Revised December 2011) \nEFTA00028047"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.532Z"
+}

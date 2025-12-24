@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013559",
+    "filename": "EFTA00013559.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013559.pdf",
+    "text": "\n\nFrom: \nTo: \n\"Acosta, Alex (USAFLS)\" <AAcosta@usa.doj.gov>, \nCc: \nSubject: Emailing: webmmkepstein0715.htm \nDate: Tue, 15 Jul 2008 22:53:26 +0000 \nImportance: Normal \nAttachments: \nwebmmkepstein0715.htm \nWow —  these guys work fast. Here is the Palm Beach Daily News report re Epstein. \nEFTA00013559",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 22:53:26 +0000 \nImportance: Normal \nAttachments: \nwebmmkepstein0715.htm \nWow"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "e guys work fast. Here is the Palm Beach Daily News report re Epstein."
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "fast. Here is the Palm Beach Daily News report re Epstein. \nEFTA00013"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.869Z"
+}

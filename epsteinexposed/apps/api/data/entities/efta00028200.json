@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028200",
+    "filename": "EFTA00028200.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028200.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: SOL \nDate: Wed, 17 Feb 2021 03:15:31 +0000 \nAttachments: 2021-02-26_GM_Government_Opposition8.1ep.docx \n—This is great, really persuasive. Some small edits/suggestions in the attached. \nFrom: \nSent: Tuesday, February 16, 2021 8:30 PM \nTo: \nSubject: SOL \nTeam, \nIf possible, I'd like to send this draft to the chiefs late tonight/ early tomorrow morning-if you have a  chance to review, \nthat would be great, otherwise I'll happily take comments simultaneously or following the chiefs' review. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00028200",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "the chiefs' review. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-02-16",
+        "event": "February 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.815Z"
+}

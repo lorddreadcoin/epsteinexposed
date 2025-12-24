@@ -1,0 +1,63 @@
+{
+  "document": {
+    "id": "efta00021701",
+    "filename": "EFTA00021701.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021701.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: flight records \nDate: Thu, 26 Sep 2019 21:29:53 +0000 \nAs a heads up (re , I think the flight records we have only go back to December 1997 (when is 17). We don't \nhave any flight records before that date. I'm going to call the lawyer who represents Larry Visoski (the pilot) to ask if \nrecords from the 90s exist anywhere, but we may be out of luck. \nThe flight records do reflect a 5/3/98 flight from PBI to good old Teterboro, and Maxwell, and Epstein are on the \nmanifest. was 17 at the time of the flight. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021701",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Larry Visoski",
+        "role": "extracted",
+        "context": "all the lawyer who represents Larry Visoski (the pilot) to ask if \nrecord"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "7 at the time of the flight. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the flight. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021701"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Teterboro",
+        "type": "location"
+      },
+      {
+        "name": "PBI",
+        "type": "airport"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.218Z"
+}

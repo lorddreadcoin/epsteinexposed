@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029286",
+    "filename": "EFTA00029286.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029286.pdf",
+    "text": "\n\nFrom: a \nTo:'\nSubject: FW: Prisoner-related Questions USA v. Maxwell \nDate: Mon, 01 Nov 2021 21:24:10 +0000 \nFrom: \nSent: Monday, November 1, 2021 5:07 PM \nTo: \nSubject: Fwd: Prisoner-related Questions USA v. Maxwell \nMore information you need for the issues raised today in court \nDeputy United States Marshal \nSouthern District of New York \nDue to Ghislaine Maxwell's enhanced security measures at MDC Brooklyn (which has been determined by BOP), the \nUSMS must transport the prisoner before all other court productions for the day because her movement later in the day \nwould lead to delays in other in-custody court productions that have been scheduled. The USMS does not provide \nadditional clothing to prisoners when they are produced for Court. The clothing of prisoners transported from BOP are \ngiven to them by the facility; not the USMS. Lastly, the USMS does not provide prisoners with utensils for the food they \ncome over from MDC with. The USMS does not provide prisoners with their lunches as the facility gives it to them \nwithout utensils. Usually, the lunch items prisoners have been given do not require the use of utensils. \nEFTA00029286",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "es Marshal \nSouthern District of New York \nDue to Ghislaine Maxwell's enhanced security measures at MDC Brooklyn (whi"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "oner-related Questions USA v. Maxwell \nDate: Mon, 01 Nov 2021 21:24:10 +0"
+      },
+      {
+        "name": "Maxwell \nMore",
+        "role": "extracted",
+        "context": "oner-related Questions USA v. Maxwell \nMore information you need for the"
+      },
+      {
+        "name": "Deputy United",
+        "role": "extracted",
+        "context": "issues raised today in court \nDeputy United States Marshal \nSouthern Dist"
+      },
+      {
+        "name": "States Marshal",
+        "role": "extracted",
+        "context": "today in court \nDeputy United States Marshal \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "Deputy United States Marshal \nSouthern District of New York \nDue to Ghislaine"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-01",
+        "event": "November 1, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.166Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030489",
+    "filename": "EFTA00030489.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030489.pdf",
+    "text": "\n\nFrom: \n\" \naNIMI.> \nTo: \n(USANYS)\" \nalMIN> \nSubject: RE: Opposition to Bill of Particulars \nDate: Mon, 16 Aug 2021 23:25:56 +0000 \nAttachments: 2021.02.26_Goyemment_Omnibus_Opposition_to_Maxwell_Defense_Motions_FINAL_U \nNREDACTED.docx; \nGovemment_Opposition_to_Defense_Supplemental_Pretrial_Motions26.docx \nOf course I Attached is the briefing from the two rounds of pretrial motions in that case. \nFrom: (USANYS) <-> \nSent: Monday, August 16, 2021 7:00 PM \nTo: \n} <\nMI> \nSubject: Opposition to Bill of Particulars \nHi -I \nHope your summer is good. \nI see that Judge Nathan denied Ghislaine's motion for a BoP. \nI bet your papers were excellent. Could I get a look? Thanks much. \nAUSA, SDNY \nEFTA00030489",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Particulars \nDate",
+        "role": "extracted",
+        "context": "ct: RE: Opposition to Bill of Particulars \nDate: Mon, 16 Aug 2021 23:25:56 +0"
+      },
+      {
+        "name": "Particulars \nHi",
+        "role": "extracted",
+        "context": "ubject: Opposition to Bill of Particulars \nHi -I \nHope your summer is good."
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "r summer is good. \nI see that Judge Nathan denied Ghislaine's motion for"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-08-16",
+        "event": "August 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.974Z"
+}

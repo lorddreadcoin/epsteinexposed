@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022051",
+    "filename": "EFTA00022051.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022051.pdf",
+    "text": "\n\nFrom: \nTo: \nCc \nSubject: 5th Production cover \nletters \nDate: Mon, 19 Oct 2020 20:05:39 +0000 \nAttachments: 2020.10.19_Maxwell_Discovery_Letter.docx; 2020.10.19_MDC_-_Maxwell_MAIN.docx; \n2020.10.19 MDC - Maxwell PASSWORD.docx \nHi, all! \nI'm preparing the 5th Production to go out today, and I've attached the cover letter for defense counsel and two cover \nletters for Maxwell (one main cover letter to be included with the drive sent to MDC, and one letter containing the \npassword to be sent in a separate envelope to MDC). Please review at your convenience; once you approve, I'll have both \ndrives sent out. \nThank you very much! \nParalegal Specialist \nU.S. Attorney's Office I SDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00022051",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc \nSubject: 5th Production cover \nletter"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "t out. \nThank you very much! \nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Office I SDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00022051"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.914Z"
+}

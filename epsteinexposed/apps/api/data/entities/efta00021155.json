@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021155",
+    "filename": "EFTA00021155.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021155.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: Unit Update Report \nDate: Fri, 04 Jan 2019 23:28:22 +0000 \nImportance: Normal \nAttachments: Geoff 2019.01.04_Criminal_Update_Report.pdf \ni). \nSpecial edition for \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00021155",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Unit Update",
+        "role": "extracted",
+        "context": "From: ' \nTo: ' \nSubject: Unit Update Report \nDate: Fri, 04 Jan 201"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "To: ' \nSubject: Unit Update Report \nDate: Fri, 04 Jan 2019 23:28:22 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 23:28:22 +0000 \nImportance: Normal \nAttachments: Geoff 2019.01.04_Criminal_Up"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "l edition for \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.097Z"
+}

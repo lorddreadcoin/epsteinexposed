@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019060",
+    "filename": "EFTA00019060.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019060.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc: \nSubject: RE: Transcript \nDate: The, 02 Nov \n2021 16:36:24 +0000 \nAttachments: LB1TMAXF.PDF \nHey Chiefs, \nTranscript attached. \nThanks, \n \nOriginal \nMessage\nFrom: \nSent: \n1v1onday. November 1, 2021 6:17 PM \nTo: \nSubject: Re: Transcript \nFor sure! \n> On Nov 1, 2021, at 6:16 PM,USANYS) \n> Will you send it once it comes in? \n> \nSent from my iPhone \nwrote: \nEFTA00019060",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Transcript \nDate",
+        "role": "extracted",
+        "context": "rom: \nTo:' \nCc: \nSubject: RE: Transcript \nDate: The, 02 Nov \n2021 16:36:24 +"
+      },
+      {
+        "name": "Hey Chiefs",
+        "role": "extracted",
+        "context": "0 \nAttachments: LB1TMAXF.PDF \nHey Chiefs, \nTranscript attached. \nThank"
+      },
+      {
+        "name": "Original \nMessage",
+        "role": "extracted",
+        "context": "nscript attached. \nThanks, \n \nOriginal \nMessage\nFrom: \nSent: \n1v1onday. Novem"
+      },
+      {
+        "name": "Transcript \nFor",
+        "role": "extracted",
+        "context": "21 6:17 PM \nTo: \nSubject: Re: Transcript \nFor sure! \n> On Nov 1, 2021, at 6"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "Re: Transcript \nFor sure! \n> On Nov 1, 2021, at 6:16 PM,USANYS)"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-01",
+        "event": "November 1, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.207Z"
+}

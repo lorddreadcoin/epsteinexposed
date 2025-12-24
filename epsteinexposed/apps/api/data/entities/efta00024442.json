@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00024442",
+    "filename": "EFTA00024442.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024442.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: SDNY investigation \nDate: Tue, 07 Jul 2020 18:04:14 +0000 \nAttachments: 2020-06-29,_subpoena_to_UBS.pdf \nMr. Wills, \nI'm reaching out in connection with the attached subpoena, which was served on UBS last week. If possible, we would \nlike to speak with someone in your compliance department to discuss expediting these materials. This matter is time \nsensitive, and if possible, we would very much appreciate being able to speak with someone this afternoon. I'm also \ncopying Mr. Ryan, who I understand has assisted with prior productions to our office in connection with this same \ninvestigation. \nI can be reached at at any time, and I'm copying my colleagues, and S who \ncan be reached at \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10M \nand respectively. \nEFTA00024442",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Wills",
+        "role": "extracted",
+        "context": "0-06-29,_subpoena_to_UBS.pdf \nMr. Wills, \nI'm reaching out in con"
+      },
+      {
+        "name": "Ryan",
+        "role": "extracted",
+        "context": "afternoon. I'm also \ncopying Mr. Ryan, who I understand has ass"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "an be reached at \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10M \nand respectivel"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "2020-06-29"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.158Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00029423",
+    "filename": "EFTA00029423.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029423.pdf",
+    "text": "\n\nFrom \nTo: Christian Everdell \nSubject: RE: Witness-3 - proposed redactions \nDate: Sun, 21 Nov 2021 03:55:45 +0000 \nAttachments: 2021.11.11_Letter_toiudge_Nathan_re_Response_to_Govemment_Letters_re_Accuser-\n3 Evidenceirevised_proposed_redactionsi.pdf \nHey Chris, \nThanks again -  I think this is the correct document. \nThanks, \nFrom: Christian Everdell \nSent: Saturday, November 20, 2021 10:33 PM \nTo: \nSubject: [EXTERNAL] RE: Witness-3 - proposed redactions \nCan you call me on my cell quickly? \nFrom: \nSent: Saturday, Nove \nTo: Christian Everdell Laura \nMenninger \nSubject: Witness-3 - proposed redactions \nCounsel, \nAttached are our proposed redactions to the supplemental filings and order regarding \nWitness-3. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00029423",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: Christian Everdell \nSubject:"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From \nTo: Christian Everdell \nSubject: RE: Witness-3 - pro"
+      },
+      {
+        "name": "Hey Chris",
+        "role": "extracted",
+        "context": "sed_proposed_redactionsi.pdf \nHey Chris, \nThanks again -  I think thi"
+      },
+      {
+        "name": "Nove \nTo",
+        "role": "extracted",
+        "context": "ckly? \nFrom: \nSent: Saturday, Nove \nTo: Christian Everdell Laura \nMe"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "Nove \nTo: Christian Everdell Laura \nMenninger \nSubject: Witness-3 - propose"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "garding \nWitness-3. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "3. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00029423"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-20",
+        "event": "November 20, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.385Z"
+}

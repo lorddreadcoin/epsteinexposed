@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00030226",
+    "filename": "EFTA00030226.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030226.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: presentment of Jeffrey Epstein \nDate: Mon, 08 Jul 2019 12:49:05 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,sovemment_unsealintrequest_and_proposed_order.pdf \nHi \nWe sent it to Judge Pitman yesterday but it's also attached —  but we scheduled a meeting with Judge Pitman at 9:15 to \nunseal and wheel so we'll be down in 15 minutes or so. \nthanks, \nFrom: \nSe \nTo: \nSubject: RE: presentment of Jeffrey Epstein \nplease present unsealing order at your earliest \nFrom \nTo \nCc: \nDate: Li/Jut/to\n-iv 11.11 \nSubject. RE: presentment of Jeffrey Epstein \nGood evening, \nWe will formally call this in tomorrow morning, but we wanted to advise you that we expect that defendant Jeffrey Epstein will be \npresented tomorrow in United States v. Epstein, 19 Cr. 490. We expect the indictment to be unsealed first thing tomorrow morning, \nand we'll get vou a copy immediately when that occurs. Mr. Epstein is represented by retained counsel, Including Martin Weinberg \nand Reid Weingarten. \nWe are available anytime tomorrow to provide any useful information in connection with your report, either at the email addresses \nhere or via phone at the following numbers: \nthank you \nEFTA00030226",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: presentment of Jeffrey Epstein \nDate: Mon, 08 Jul 2019 12:49:05 +0000 \nImportanc"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "immediately when that occurs. Mr. Epstein is represented by retaine"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 12:49:05 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,sovemment_uns"
+      },
+      {
+        "name": "Hi \nWe",
+        "role": "extracted",
+        "context": "quest_and_proposed_order.pdf \nHi \nWe sent it to Judge Pitman yeste"
+      },
+      {
+        "name": "Judge Pitman",
+        "role": "extracted",
+        "context": "_order.pdf \nHi \nWe sent it to Judge Pitman yesterday but it's also attac"
+      },
+      {
+        "name": "Se \nTo",
+        "role": "extracted",
+        "context": "nutes or so. \nthanks, \nFrom: \nSe \nTo: \nSubject: RE: presentment of"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "aling order at your earliest \nFrom \nTo \nCc: \nDate: Li/Jut/to\n-iv 11."
+      },
+      {
+        "name": "Including Martin",
+        "role": "extracted",
+        "context": "resented by retained counsel, Including Martin Weinberg \nand Reid Weingarten"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "ncluding Martin Weinberg \nand Reid Weingarten. \nWe are available anytime to"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "2019-07-08"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.322Z"
+}

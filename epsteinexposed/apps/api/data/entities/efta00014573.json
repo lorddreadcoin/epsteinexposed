@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014573",
+    "filename": "EFTA00014573.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014573.pdf",
+    "text": "\n\nDIESER \nREISEPASS \nGILT \nFÜR \nALLE \nSTAATEN \nDER \nWELT \nCE \nPASSEPORT \nEST \nVALABLE \nPOUR \nTO \nUS \nLES \nPAYS \nDU \nMONDE \nTHIS \nPASSPORT \nIS \nVALID \nFOR \nALL \nCOUNTRIES \nOF \nTHE \nWORLD \nös \notize,\n0'\n4\n \n1;\n,', \n4. \na \nttt \nc \ni \nSCHIUING \n100 \n100 \nStempel-\nmarke \nStempel-\nmarke \nDIE \nGÜLTIGKEIT \nDIESES \nREISEPASSES \nENDET \nAM \nLA \nVALIDITE \nDE \nCE \nPASSEPORT \nEXPIRE \nLE \nTHE \nVALIDITY \nOF \nTHIS \nPASSPORT \nEXPIRES \n21. \nMai \n1987 \nBehörde \n \nBundeipolizaidtaktei\nAutorite \nAuthority \nOrt \nund \nDatum \n \neey \nLieu \net \ndate \nPlace \nand \ndate \nOberkommissär \nDie \nGültigkeitsdauer \ndieses \nReisepasses \nwird \nverlängert \nbis \n \nLa \nvalidity \nde \nce \npasseport \nest \nprorogee \njusqu'au \nThe \nvalidity \nof \nthis \npassport \nis \nrenewed \nuntil \nBehörde \nAutorite \nAuthority \nOrt \nund \nDatum \nLieu \net \ndate \nPlace \nand \ndate \nUnterschrift \n/ \nSignature \nJ \nSignature \nDie \nGültigkeitsdauer \ndieses \nReisepasses \nwird \nverlängert \nbis \n \nvalidity \nde \nce \npasseport \nest \nprorogee \njusqu'au \nThe \nvalidity \nof \nthis \npassport \nis \nrenewed \nuntil \nBehörde \n \nAutorite \nAuthority \nUnterschrift \n/ \nSignature \nSignature \nEFTA00014573",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bundeipolizaidtaktei\nAutorite",
+        "role": "extracted",
+        "context": "S \n21. \nMai \n1987 \nBehörde \n \nBundeipolizaidtaktei\nAutorite \nAuthority \nOrt \nund \nDatum"
+      },
+      {
+        "name": "Authority \nOrt",
+        "role": "extracted",
+        "context": "undeipolizaidtaktei\nAutorite \nAuthority \nOrt \nund \nDatum \n \neey \nLieu \net"
+      },
+      {
+        "name": "Autorite \nAuthority",
+        "role": "extracted",
+        "context": "is \nrenewed \nuntil \nBehörde \nAutorite \nAuthority \nOrt \nund \nDatum \nLieu \net \nd"
+      },
+      {
+        "name": "Datum \nLieu",
+        "role": "extracted",
+        "context": "utorite \nAuthority \nOrt \nund \nDatum \nLieu \net \ndate \nPlace \nand \ndate"
+      },
+      {
+        "name": "Signature \nDie",
+        "role": "extracted",
+        "context": "nterschrift \n/ \nSignature \nJ \nSignature \nDie \nGültigkeitsdauer \ndieses \nRe"
+      },
+      {
+        "name": "Signature \nSignature",
+        "role": "extracted",
+        "context": "Authority \nUnterschrift \n/ \nSignature \nSignature \nEFTA00014573"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.113Z"
+}

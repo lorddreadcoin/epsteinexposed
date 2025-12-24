@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00013569",
+    "filename": "EFTA00013569.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013569.pdf",
+    "text": "\n\nFrom: \nTo: \"Roy BLACK\" \nCc: \nSubject: Notification of Possible Compelled Disclosure of the Non-Prosecution Agreement \nDate: Thu, 07 Aug 2008 19:57:52 +0000 \nImportance: Normal \nAttachments: DE19_080801_VictimsiResp_to_Notice.pdf \nDear Roy: \nIn accordance with paragraph 13 of the Non-Prosecution Agreement, I am providing notice of possible \ncompulsory process commanding the disclosure of the Agreement. As I'm sure you know, two of Mr. Epstein's \nvictims have filed suit against the United States alleging that the government violated their rights as victims by \nnot consulting them prior to entering into the Non-Prosecution Agreement. \nAs part of their response to one of the government's filings, the victims asked the Court to order the production \nof the Non-Prosecution Agreement. The deadline for the government to respond is August I5'h and we intend to \noppose the motion based upon the confidentiality provision. I have attached a copy of the victims' pleading for \nyour review. \nIn connection with this, we want to make certain that we are making consistent representations to the judiciary \nregarding the contents of the Agreement. I  know that Jack Goldberger filed the Agreement under seal in the state \ncourt in accordance with the state judge's order. Can you provide us with a copy of what Jack filed, so that, if \nwe are ordered by the federal court to disclose the agreement, it is exactly the same as what has been filed in the \nstate court? \nThank you again for your assistance. \nAssistant U.S. Attome \nPhone \nFax \nEFTA00013569",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "As I'm sure you know, two of Mr. Epstein's \nvictims have filed sui"
+      },
+      {
+        "name": "Possible Compelled",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Notification of Possible Compelled Disclosure of the Non-Prosecu"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "mpelled Disclosure of the Non-Prosecution Agreement \nDate: Thu, 07 Aug 2008 19:57"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 19:57:52 +0000 \nImportance: Normal \nAttachments: DE19_080801_VictimsiResp_to_"
+      },
+      {
+        "name": "Dear Roy",
+        "role": "extracted",
+        "context": "1_VictimsiResp_to_Notice.pdf \nDear Roy: \nIn accordance with paragrap"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "f the Agreement. I  know that Jack Goldberger filed the Agreement under sea"
+      },
+      {
+        "name": "Attome \nPhone",
+        "role": "extracted",
+        "context": "r assistance. \nAssistant U.S. Attome \nPhone \nFax \nEFTA00013569"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.884Z"
+}

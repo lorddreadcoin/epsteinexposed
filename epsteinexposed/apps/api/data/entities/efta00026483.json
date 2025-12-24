@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00026483",
+    "filename": "EFTA00026483.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026483.pdf",
+    "text": "\n\nFrom: '  \n k's \nTo: \"aliillir=1.> \n4\n(USANYS) \n[Contractor]\" \nCc: aSANYSa> )\" \nSubject: FW: Press Question (Ghislaine Maxwell Trial) \nDate: Fri, 22 Oct 2021 15:26:20 +0000 \nInline-Images: image001.jpg; image002.jpg \nPassing this on. \nFrom: Thrapp, Jacklyn \nSent: Friday, October 22, 2021 11:18 AM \nTo: \n(USANYS) \nSubject: (EXTERNAL] Press Question (Ghislaine Maxwell Trial) \ncM> \nHello, \n>; \nI'm a reporter for the National Enquirer covering the trial of Ghislaine Maxwell. I heard won't be called to \nthe stand during the trial. \nIs this true? And if so, can you elaborate on why, if possible. \nThanks \nJACKI THRAPP \nREPORTER \nTHE NATIONAL ENQUIRER \nEFTA00026483",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "]\" \nCc: aSANYSa> )\" \nSubject: FW: Press Question (Ghislaine Maxwell Trial) \nDate: Fri, 22 Oct 2021 15:26:20 +0000 \nIn"
+      },
+      {
+        "name": "Press Question",
+        "role": "extracted",
+        "context": "Cc: aSANYSa> )\" \nSubject: FW: Press Question (Ghislaine Maxwell Trial) \nDa"
+      },
+      {
+        "name": "Jacklyn \nSent",
+        "role": "extracted",
+        "context": "ssing this on. \nFrom: Thrapp, Jacklyn \nSent: Friday, October 22, 2021 11:"
+      },
+      {
+        "name": "National Enquirer",
+        "role": "extracted",
+        "context": ", \n>; \nI'm a reporter for the National Enquirer covering the trial of Ghislai"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-22",
+        "event": "October 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.421Z"
+}

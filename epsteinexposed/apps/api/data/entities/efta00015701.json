@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00015701",
+    "filename": "EFTA00015701.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015701.pdf",
+    "text": "\n\nFrom: \"postmaster@voip.usa.doj.gov\" <postmaster@voip.usa.doj.gov> \nTo: \nCc: USANYS-EpsteinVictims <USANYS.EpsteinVictims@usa.doj.gov> \nSubject: Voice Message Attached from \nDate: Mon, 12 Aug 2019 12:08:41 +0000 \nAttachments: \n.wav \nTime: Aug 12, 2019 8:08:41 AM \nClick attachment to listen to Voice Message \nEFTA00015701",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "ictims@usa.doj.gov> \nSubject: Voice Message Attached from \nDate: Mon, 12"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.260Z"
+}

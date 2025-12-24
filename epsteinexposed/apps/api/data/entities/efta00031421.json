@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031421",
+    "filename": "EFTA00031421.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031421.pdf",
+    "text": "\n\nFrom: ' )\"  \nTo: Mirl >, \" (USANYS)\" \nSubject: RE: Maxwell GPS \nDate: Thu, 27 Aug 2020 13:45:18 +0000 \nAttachments: Maxwell GPS Combo v3.docx \nYep, here you go. \nFrom: \nSent: Thursday, August 27, 2020 9:43 AM \nTo: \nSubject: Maxwell GPS \nCan you send me the GPS from Maxwell? I will adapt it for \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \n(USANYS) \nEFTA00031421",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Maxwell? I will adapt it for \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "dapt it for \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \n(USANYS"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-27",
+        "event": "August 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.046Z"
+}

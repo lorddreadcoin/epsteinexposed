@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00032632",
+    "filename": "EFTA00032632.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032632.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" <MMIMME> \nUSANYS)\" \n(USANYS \n(USANYS \nSANYS \nUSANYS)\" \nSubject: RE: Epstein FOIA Moot \nDate: Mon, 05 Apr 2021 20:50:31 +0000 \nAttachments: Times_v_BOP,_20cv833,5imes_Reply_Brielpdf \nHi all, \nI realize I forgot to attach the Times's reply brief to my earlier email. Please find it attached, and thanks again for joining \nthe moot. \nThanks, \nFrom: (USANYS) \nSent: Friday, March 26, 2021 3:17 PM \nTo: (USANYS) <.>; (USANYS), \n(USANYS) \nc \n>; \nLi \n(USANYS) \nSubject: Epstein FOIA Moot \nHi all, \nThank you so much for joining the moot in the Epstein FOIA. We have an all-star cast for this moot. We are a little \noversubscribed, so if anyone as a  conflict or needs to drop, no problem at all. \nThe briefing and declarations are attached here. I just sent an invite with the dial-in. I think a few folks from BOP will join \nas well. \nThanks again, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00032632",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Moot \nDate",
+        "role": "extracted",
+        "context": ")\" \nSubject: RE: Epstein FOIA Moot \nDate: Mon, 05 Apr 2021 20:50:31 +0"
+      },
+      {
+        "name": "Brielpdf \nHi",
+        "role": "extracted",
+        "context": "es_v_BOP,_20cv833,5imes_Reply_Brielpdf \nHi all, \nI realize I forgot to a"
+      },
+      {
+        "name": "Moot \nHi",
+        "role": "extracted",
+        "context": "SANYS) \nSubject: Epstein FOIA Moot \nHi all, \nThank you so much for j"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "oin \nas well. \nThanks again, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "anks again, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTele"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-03-26",
+        "event": "March 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.098Z"
+}

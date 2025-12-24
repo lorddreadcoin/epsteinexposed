@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00031010",
+    "filename": "EFTA00031010.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031010.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: ar service \nDate: Mon, 19 Aug 2019 18:16:39 +0000 \nHi M, we need car service to pick up a witness in the Epstein death investigation. She should be picked up \ntomorrow at 10 and brought to ISA. Thank you in advance. \nEFTA00031010",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: ar service \nDat"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: ar service \nDate: Mon, 19 Au"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.235Z"
+}

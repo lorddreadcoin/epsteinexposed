@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00028100",
+    "filename": "EFTA00028100.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028100.pdf",
+    "text": "\n\nFrom: IMMEIMME>\nTo:'\nSubject: FW: [EXTERNAL] URGENT: Ghislaine Maxwell 02879-509 \nDate: Fri, 29 Oct 2021 18:42:48 +0000 \n Original Messa e \nFrom: \nSent: Frida , October 29 2021 12:23 PM \nTo: ; BOBBI C STERNHEIM \nCc: \nChristian Everdell \nSubject: Re: [EXTERNAL] URGENT: Ghislaine Maxwell 02879-509 \nI am following up with the appropriate department. \n>>> BOBBI C STERNHEIM 10/29/2021 11:50 AM >» \nFurther my earlier email today, as of 10:30 a.m., USPO tracking lists the following 4 items of legal mail \n\"Available for Pickup\" and does not indicate that MDC has retrieved or received them. \nMs. Maxwell has not received legal mail in more than a week. \nPlease confirm IMMEDIATELY the status of these items on your end. \nFailure to response today will result in the filing of an order to show cause requiring your presence in Court. \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of \nBobbi C. Stemheim \n225 Broadway, Suite 715 \nNew York, NY 10007 \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim that \nmay be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then \ndelete this message. Thank you. \n> --\n> Isabel Maxwell, Paralegal, Leah Saffian, Inc. \n> LAW OFFICES OF LEAH SAFFIAN; LEAH SAFFIAN BA JD LLM \n> 11420 SANTA MONICA BLVD #25424 LOS \nANGELES. \nCA 90025 USA \nEFTA00028100\n\n> NOTICE: The information transmitted by this email is intended only \nfor the person or entity to which it is addressed. This email may contain proprietary, business-confidential and/or \nlegally privileged material. If you are not the intended recipient of this message, be aware that any use, review, \nretransmission, distribution, reproduction or any action taken in reliance upon this messa e is strictly prohibited. \nIf you received this in error, please contact the sender Isabel Maxwell at Te nd delete the \nmaterial from all computers. \nEFTA00028101",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "m: IMMEIMME>\nTo:'\nSubject: FW: [EXTERNAL] URGENT: Ghislaine Maxwell 02879-509 \nDate: Fri, 29 Oct 2021 18:42:48 +0000"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "retrieved or received them. \nMs. Maxwell has not received legal ma"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "29 Oct 2021 18:42:48 +0000 \n Original Messa e \nFrom: \nSent: Frida , Octob"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "To: ; BOBBI C STERNHEIM \nCc: \nChristian Everdell \nSubject: Re: [EXTERNAL] URGE"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "t. \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of \nBobbi C. Stemheim \n225 Br"
+      },
+      {
+        "name": "Isabel Maxwell",
+        "role": "extracted",
+        "context": "s message. Thank you. \n> --\n> Isabel Maxwell, Paralegal, Leah Saffian, Inc"
+      },
+      {
+        "name": "Leah Saffian",
+        "role": "extracted",
+        "context": "> Isabel Maxwell, Paralegal, Leah Saffian, Inc. \n> LAW OFFICES OF LEAH"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-29",
+        "event": "10/29/2021"
+      },
+      {
+        "date": "2021-10-29",
+        "event": "October 29 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.626Z"
+}

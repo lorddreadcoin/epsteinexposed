@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00024986",
+    "filename": "EFTA00024986.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024986.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS) (Contractor]\" \n<   \nSubject: Time sensitive review of pending productions \nDate: Wed, 24 Nov 2021 19:58:57 +0000 \nAttachments: U.S. v  Maxwell 3500 Index (Intemal).xlsx; \n2021.11.24 Maxwell 3500 Cover Letter.doex; _ _ \n2021.11.24_Maxwell_Discovery_Cetter.docx \nHi all, \nif you want to get a  production out today (sent on a drive via FedEx to GM), we will need to have it reviewed and ready for \nme to load by 3:20pm latest (FedEx last pick up is 4pm today). \nThe 1W 3500 production is here: \\ \\Usa.doj.gov\\cloud NYS\\StAndrewAShared \\USvEpstein-2018R0161MITrial \\ 3500\\1. \nTestifying\\ Production 11 \nNTW 3500 production is here: \\ Wsa.doj.gov‘cloud \\ NYS\\ StAndrewsMared WSvEpstein-2018R0161MITrial \\3500 \\ 2. Non-\nTestifying \\ Production 11 \nRule 16 production is here: \\\\Usa.doj.govkloud\\NYS‘StAndrewASharecRUSvEpstein-2018R01618\\Discovery\\GM\\41\nThirty\n-Second Production (2021-11-xx) \nCover letters for both and 3500 indices (excel version) are attached. Please let me know as soon as you can if there are \nany changes you want to make. \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell: \nEFTA00024986",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cover Letter",
+        "role": "extracted",
+        "context": "lsx; \n2021.11.24 Maxwell 3500 Cover Letter.doex; _ _ \n2021.11.24_Maxwell"
+      },
+      {
+        "name": "Second Production",
+        "role": "extracted",
+        "context": "01618\\Discovery\\GM\\41\nThirty\n-Second Production (2021-11-xx) \nCover letters f"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "s you want to make. \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": "Attorney's Office I \nSDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ice I \nSDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.236Z"
+}

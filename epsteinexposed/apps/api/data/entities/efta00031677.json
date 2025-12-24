@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031677",
+    "filename": "EFTA00031677.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031677.pdf",
+    "text": "\n\nFrom: (USANYS)\" MEIM> \nTo: ' )\" '\nSubject: Letter due tomorrow \nDate: Sun, 09 May 2021 16:59:28 +0000 \nAttachments: 2021-5-10_GovtLetter re_Proposed_Trial_Date_vtdocx \nHope everyone is having a nice weekend. Attached is a draft letter, please feel free to edit freely. I tried to capture \ndefense counsel's position in this letter, but again, please edit if you think I have missed anything. asked to see this \nlater tonight or tomorrow morning so would appreciate any edits by tonight if possible (I'll be in NJ for Mother's Day so \nwon't be able to turn to it until this evening). Thoughts on responding to latest email? Should we just say that the \nNovember 29 trial start date would permit the entire team to do the trial? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew \nYork, New York 10007 \nTel: \nEFTA00031677",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "entire team to do the trial? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the trial? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew \nYork, N"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew \nYork, New York 10007 \nTel:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-09",
+        "event": "09 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.590Z"
+}

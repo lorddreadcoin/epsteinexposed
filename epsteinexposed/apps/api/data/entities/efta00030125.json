@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030125",
+    "filename": "EFTA00030125.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030125.pdf",
+    "text": "\n\nFrom: \nSubject: Title \ndocuments \nDate: Fri, 20 Dec 2019 14:28:40 +0000 \nAttachments: (NY_Residence_Title_Transfer) Jitle_Documents Jade_Data_Research_9_EAST_71ST_S \nTREET,_NEW_YORK,_NY.pdf; \n(VI_Residence Title Transfer)_2011009441_Deed_l 22320 1 l_Little_St James_LSJ_LLC_ \nand_Nautilus_ic.pdT; \n(Palm_Beach_Residence_Title_Transfer)_nv_162_18854529_img_12232011_Deed_Epstein \nto_Laurelinc.pdf; Maple_Inc..pdf; Nautilus_Inc_USVI_Corporation_Records.pdf; \nlaurel_Inc.pdf; NY_Dept_St_Corp_Recs_Nine_East71.pdf; Nine_East71.pdf \nAs discussed, attached are the title transfer documents we have for Epstein's New York, Palm Beach, and Virgin Islands \nresidences. I've also included the articles of incorporation for four of the relevant entities referenced in the transfer \ndocuments. It appears that we obtained at least some of these documents pursuant to grand jury subpoenas. Let me \nknow if you need us to distinguish between the documents that we found through without a subpoena and those we \nobtained via subpoena. \nWe do not have documents for the New Mexico property, as far as I can tell, but I'll chat with the team about tracking \nthose down. Please let us know if there are any other materials you need us to find as well. \nThanks, \nEFTA00030125",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Documents Jade",
+        "role": "extracted",
+        "context": "sidence_Title_Transfer) Jitle_Documents Jade_Data_Research_9_EAST_71ST_S"
+      },
+      {
+        "name": "Residence Title",
+        "role": "extracted",
+        "context": "TREET,_NEW_YORK,_NY.pdf; \n(VI_Residence Title Transfer)_2011009441_Deed_l 2"
+      },
+      {
+        "name": "St James",
+        "role": "extracted",
+        "context": "09441_Deed_l 22320 1 l_Little_St James_LSJ_LLC_ \nand_Nautilus_ic.pdT"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "have for Epstein's New York, Palm Beach, and Virgin Islands \nresidenc"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "n's New York, Palm Beach, and Virgin Islands \nresidences. I've also includ"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "do not have documents for the New Mexico property, as far as I can tel"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.067Z"
+}

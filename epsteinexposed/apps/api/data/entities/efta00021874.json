@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00021874",
+    "filename": "EFTA00021874.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021874.pdf",
+    "text": "\n\nFrom: ' \nTo:'\n(USANYS) \n[Contractor]\" \n r' \nCc:' \n)\"  \nSubject: RE: \nDate: Wed, 05 Aug 2020 19:58:27 +0000 \nAttachments: Discovery.zip \nHere is a  zip! \nFrom: \nI \n<U\nSent: Wednesday, August 5, 2020 3:55 PM \nTo: \nCc: \nI < \n>; \n(USANYS) [Contractor] \nSubject: FW: \na, thanks very much for jumping on this. \nper my email a moment ago. It may be easiest to zip these and send that way, or otherwise to send in two emails \nsince the total file size is large. \nPlease anyone let me know if any issues? And thanks again to all for the quick fix. \nFrom: (USANYS) [Contractor]  \nSent: Wednesday, August 05, 2020 15:50 \nTo: \nSubject: \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00021874",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "5, 2020 15:50 \nTo: \nSubject: \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00021874"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-05",
+        "event": "August 5, 2020"
+      },
+      {
+        "date": "2020-08-05",
+        "event": "August 05, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.601Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029704",
+    "filename": "EFTA00029704.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029704.pdf",
+    "text": "\n\nFrom: \nI' \nTo: Bruce Barket \nCc: Aida \nLeisenring \n< \nSubject: \nRe: MCC \nDate: Tue, 03 Mar 2020 18:17:57 +0000 \nWe are still producing inmates for court. \n>>> Bruce \nBarket < \n3/3/2020 12:50 PM >>> \nI understand that MCC has been on lockdown for a week. Leaving aside for the moment the inhumanity of keeping inmates \nlocked in a cell 24/7 for that long, are they going to allow Nick to appear in Court tomorrow? \nBruce A. Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP \n666 Old Country Road , Ste. 700 \nwww. \narse eps ein.com \nThis transmittal may be a confidential attorney client communication or may otherwise be privileged or confidential. If it is not clear \nthat you are the intended recipient, you are hereby notified that you have received this transmittal in error; any review, dissemination, \ndistribution or copying of this transmittal is strictly prohibited. If you suspect that you have received this communication in error, please \nnotify us Immediately by telephone or email and immediately delete this message and all its attachments \nEFTA00029704",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bruce Barket",
+        "role": "extracted",
+        "context": "From: \nI' \nTo: Bruce Barket \nCc: Aida \nLeisenring \n< \nSub"
+      },
+      {
+        "name": "Aida \nLeisenring",
+        "role": "extracted",
+        "context": "m: \nI' \nTo: Bruce Barket \nCc: Aida \nLeisenring \n< \nSubject: \nRe: MCC \nDate:"
+      },
+      {
+        "name": "Bruce \nBarket",
+        "role": "extracted",
+        "context": "ucing inmates for court. \n>>> Bruce \nBarket < \n3/3/2020 12:50 PM >>> \nI u"
+      },
+      {
+        "name": "Barket Epstein",
+        "role": "extracted",
+        "context": "rrow? \nBruce A. Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP"
+      },
+      {
+        "name": "Kearon Aldea",
+        "role": "extracted",
+        "context": "Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP \n666 Old Count"
+      },
+      {
+        "name": "Old Country",
+        "role": "extracted",
+        "context": "ron Aldea & LoTurco, LLP \n666 Old Country Road , Ste. 700 \nwww. \narse e"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-03",
+        "event": "3/3/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.011Z"
+}

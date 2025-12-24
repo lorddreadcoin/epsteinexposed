@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030735",
+    "filename": "EFTA00030735.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030735.pdf",
+    "text": "\n\nFrom: ' \nD\" \n< \n> \nTo: \n\"CottNYSDChambers®nysd.uscourts.gov\" <CottNYSDChambers@nysd.uscourts.gov> \nCc: ' \" < \nI... I II \n.', \nSubject: Applications for Search Warrants \nDate: Wed, 11 Sep 2019 23:25:06 +0000 \nAttachments: USVI_Devices_SW_-_Application_&_Affidavit.pdf; USVI_Devices_SW_-_Warrant.pdf; \nSWfor 6_bindersnApplication_&_Affidavit.pdf; SW_for_6_binders_-_Warrant.pdf \nDear Judge Cott, \nAttached for the Court's consideration, please find two applications for search warrants and the corresponding proposed \nwarrants. The agent will be available tomorrow to swear out both warrants, and I am available to answer any questions \nthat may arise. I can be reached at my desk on my cellphone or by email at this address. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \n10007 \nEFTA00030735",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrants",
+        "role": "extracted",
+        "context": "', \nSubject: Applications for Search Warrants \nDate: Wed, 11 Sep 2019 23:25"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "_for_6_binders_-_Warrant.pdf \nDear Judge Cott, \nAttached for the Court"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ss. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.542Z"
+}

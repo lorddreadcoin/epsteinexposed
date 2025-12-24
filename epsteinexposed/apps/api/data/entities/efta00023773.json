@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023773",
+    "filename": "EFTA00023773.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023773.pdf",
+    "text": "\n\nFrom: \n'• \n(USANYS)\" czi \nTo: \"Berman, Geoffrey \n(USANYS)\"  \nfr\" \nSubject: Barr confirms DOJ wants Prince Andrew to 'provide some evidence' in Epstein investigation \nDate: Mon, 08 Jun 2020 20:23:47 +0000 \nhttps://www.foxnews.com/politicsibarr-confirms-doj-wants-prince-andrew-to-provide-some-evidence-in-epstein-\ninvestigation \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New \nEFTA00023773",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "(USANYS)\"  \nfr\" \nSubject: Barr confirms DOJ wants Prince Andrew to 'provide some evidence' in Epstein investigati"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "ein-\ninvestigation \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New \nEFTA00023773"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.593Z"
+}

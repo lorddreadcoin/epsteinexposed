@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00003059",
+    "filename": "EFTA00003059.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003059.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters, \nSuite \n13-3, \nSt. \nThomas. \nVI \n00802-1348 \nPhone: \nE-mail: \nthesaintjames.group(0,gmail.com \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nI5ngineer \nEmergency \nContact \nForm \nKeshaun \nMoms \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nStart \nDate: \nDate \nof \nBirth: \n10/01/18 \nPhone \n(other): \nMarital \nStatus: \nDrivers \nLicense \nNo: \nCurrent \nMedications: \nDoctor's \nName: \nDoctors \nPhone: \nDoctors \nName: \nDoctors \nPhone: \nIn \ncase \nof \nemergency, \nplease \ncontact: \nName: \nName: \nNM\n-\n7 \nRelationship: \nRelationship: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003059",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters, \nSuite \n13-3, \nSt."
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "(0,gmail.com \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing"
+      },
+      {
+        "name": "Physical \nAddress",
+        "role": "extracted",
+        "context": "ay's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPh"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "e \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitl"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "Address: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nI"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "Title/Position: \nI5ngineer \nEmergency \nContact \nForm \nKeshaun \nMoms \nAllergi"
+      },
+      {
+        "name": "Form \nKeshaun",
+        "role": "extracted",
+        "context": "5ngineer \nEmergency \nContact \nForm \nKeshaun \nMoms \nAllergies \nor \nHealth"
+      },
+      {
+        "name": "Moms \nAllergies",
+        "role": "extracted",
+        "context": "ency \nContact \nForm \nKeshaun \nMoms \nAllergies \nor \nHealth \nConcerns: \nBlood"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Keshaun \nMoms \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nStart \nDate:"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "lth \nConcerns: \nBlood \ntype: \nStart \nDate: \nDate \nof \nBirth: \n10/01/18"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": ": \n10/01/18 \nPhone \n(other): \nMarital \nStatus: \nDrivers \nLicense \nNo: \nCurr"
+      },
+      {
+        "name": "Drivers \nLicense",
+        "role": "extracted",
+        "context": "(other): \nMarital \nStatus: \nDrivers \nLicense \nNo: \nCurrent \nMedications:"
+      },
+      {
+        "name": "Current \nMedications",
+        "role": "extracted",
+        "context": "atus: \nDrivers \nLicense \nNo: \nCurrent \nMedications: \nDoctor's \nName: \nDoctors \nP"
+      },
+      {
+        "name": "Doctors \nPhone",
+        "role": "extracted",
+        "context": "edications: \nDoctor's \nName: \nDoctors \nPhone: \nDoctors \nName: \nDoctors \nPh"
+      },
+      {
+        "name": "Doctors \nName",
+        "role": "extracted",
+        "context": "or's \nName: \nDoctors \nPhone: \nDoctors \nName: \nDoctors \nPhone: \nIn \ncase"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.630Z"
+}

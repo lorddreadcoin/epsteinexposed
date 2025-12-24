@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020343",
+    "filename": "EFTA00020343.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020343.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Action shot from Florida Daily Post \nDate: Mon, 22 Jul 2019 18:38:22 +0000 \nAttachments: \nDeemed-Dangerous-Epstein-Denied-Bail-in-Sex-Abuse-Case.jpg \nSpecial Assistant to the U.S. Attorney \n, SDNY \nEFTA00020343",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Florida Daily",
+        "role": "extracted",
+        "context": "o: \nSubject: Action shot from Florida Daily Post \nDate: Mon, 22 Jul 2019"
+      },
+      {
+        "name": "Post \nDate",
+        "role": "extracted",
+        "context": "ction shot from Florida Daily Post \nDate: Mon, 22 Jul 2019 18:38:22 +0"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "d-Bail-in-Sex-Abuse-Case.jpg \nSpecial Assistant to the U.S. Attorney \n, SDNY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.670Z"
+}

@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00013762",
+    "filename": "EFTA00013762.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013762.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Fw: Civil suit in NY against Epstein \nDate: Thu, 29 Nov 2007 19:38:59 +0000 \nImportance: Normal \nFyi \nSent from my BlackBerry Wireless Handheld \nOriginal Message —\nFrom: \nTo: \nSent Thu Nov 29 14:24:17 2007 \nSubject: Civil suit in NY against Epstein \nhttp://www.abovethelaw.com/2007/11/maximilia_cordero_maybe_not_a.php#more \nAssistant United States Attorney \nSouthern District of Florida \n99 NE 4th Street \nMiami, \nFL 33132 \nEFTA00013762",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Fw: Civil suit in"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Fw: Civil suit in NY against Epstein \nDate: Thu, 29 Nov 2007 19:38:59 +0"
+      },
+      {
+        "name": "Normal \nFyi",
+        "role": "extracted",
+        "context": "7 19:38:59 +0000 \nImportance: Normal \nFyi \nSent from my BlackBerry Wire"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "ormal \nFyi \nSent from my BlackBerry Wireless Handheld \nOriginal Message —"
+      },
+      {
+        "name": "Handheld \nOriginal",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \nOriginal Message —\nFrom: \nTo: \nSent Th"
+      },
+      {
+        "name": "Sent Thu",
+        "role": "extracted",
+        "context": "riginal Message —\nFrom: \nTo: \nSent Thu Nov 29 14:24:17 2007 \nSubject"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "cordero_maybe_not_a.php#more \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "_a.php#more \nAssistant United States Attorney \nSouthern District of Florida"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of Florida \n99 NE 4th Street"
+      },
+      {
+        "name": "Street \nMiami",
+        "role": "extracted",
+        "context": "istrict of Florida \n99 NE 4th Street \nMiami, \nFL 33132 \nEFTA00013762"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Street \nMiami, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.340Z"
+}

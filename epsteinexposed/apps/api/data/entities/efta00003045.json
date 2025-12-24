@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00003045",
+    "filename": "EFTA00003045.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003045.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters. \nSuite \nB-3. \nSt. \nThomas. \nVI \n00802-1348 \nPhone: \nE-mail: \nthesaintjames.group@gmail.com \nEmergency \nContact \nForm \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress' \n10/15/18 \n}Carlos \nL \nRodriguez \nStart \nDate: \nDate \nof \nBirth: \nThomas. \nVI \n06802 \nr\no. \nRed \nHook \na \nMailing \nAddress. \nCell \nPhone: \nE-mail: \nU \nTitle/Position: \nFaotain \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nI.= \nlamed \nAllergies \nor \nHealth \nConcerns: \nL \nBlood \ntype: \nEl \nA- \nD \nA+ \nD \nAB- \nC \nAB+ \nEl \ng- \nEJ \n8+ \no- \nD \no+ \nQX \nUnknown \nCurrent \nMedications: \nr \nime\nDoctors \nName: \nDoctors \nName: \nLivingston \nDoctors \nPhone: \nDoctor's \nPhone: \nIn \ncase \nof \nemergency, \nplease \ncontact: \nName: \nName: \nRelationship: \nRelationship: \nPhone: \nPhone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers. \nEFTA00003045",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters. \nSuite \nB-3. \nSt."
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "hesaintjames.group@gmail.com \nEmergency \nContact \nForm \nToday's \nDate: \nEmploy"
+      },
+      {
+        "name": "Form \nToday",
+        "role": "extracted",
+        "context": "mail.com \nEmergency \nContact \nForm \nToday's \nDate: \nEmployee \nName: \nPh"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "ontact \nForm \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress' \n10/15/1"
+      },
+      {
+        "name": "Physical \nAddress",
+        "role": "extracted",
+        "context": "ay's \nDate: \nEmployee \nName: \nPhysical \nAddress' \n10/15/18 \n}Carlos \nL \nRodri"
+      },
+      {
+        "name": "Rodriguez \nStart",
+        "role": "extracted",
+        "context": "dress' \n10/15/18 \n}Carlos \nL \nRodriguez \nStart \nDate: \nDate \nof \nBirth: \nTho"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "I \n06802 \nr\no. \nRed \nHook \na \nMailing \nAddress. \nCell \nPhone: \nE-mail: \nU \nT"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "Hook \na \nMailing \nAddress. \nCell \nPhone: \nE-mail: \nU \nTitle/Position:"
+      },
+      {
+        "name": "Faotain \nPhone",
+        "role": "extracted",
+        "context": "E-mail: \nU \nTitle/Position: \nFaotain \nPhone \n(other): \nMarital \nStatus:"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "n: \nFaotain \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nI.="
+      },
+      {
+        "name": "License \nNo",
+        "role": "extracted",
+        "context": "Marital \nStatus: \nDriver's \nLicense \nNo: \nI.= \nlamed \nAllergies \nor"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": ": \nI.= \nlamed \nAllergies \nor \nHealth \nConcerns: \nL \nBlood \ntype: \nEl \nA- \nD"
+      },
+      {
+        "name": "Unknown \nCurrent",
+        "role": "extracted",
+        "context": "l \ng- \nEJ \n8+ \no- \nD \no+ \nQX \nUnknown \nCurrent \nMedications: \nr \nime\nDoctors"
+      },
+      {
+        "name": "Doctors \nName",
+        "role": "extracted",
+        "context": "Current \nMedications: \nr \nime\nDoctors \nName: \nDoctors \nName: \nLivingston"
+      },
+      {
+        "name": "Livingston \nDoctors",
+        "role": "extracted",
+        "context": "ctors \nName: \nDoctors \nName: \nLivingston \nDoctors \nPhone: \nDoctor's \nPhone: \nIn"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.591Z"
+}

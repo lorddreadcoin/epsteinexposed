@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00002514",
+    "filename": "EFTA00002514.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002514.pdf",
+    "text": "\n\nS \nWestern \n \nDigital\n.\nwww.westerndigital \ncom \nWD5003ABYX \nwo \nRE4 \nIII \nII \nIIII \nII \nI \nIII \nIIIIIIIIIIII111111IIIIII11 \n11111 \nSIN \n: \nWMAYP6101653 \n500GB \nIII \nIIIHIIII\nII\nIIII\nI \nI\nII \nIIII\nIIII \nII \nDIP\nCT \n2CEHE003H409.1C \nHOW \nI\nI \n0 \nII \nP/N: \n658083— \nDOI \n11 \n11 \nn111\n11 \n110 \nII \nII \n11 \nOPN \n657153— \n008 \nHATA \nIN \nHI \nII \nIIII \ntit \n720ORPM \nF7W. \nHPG1 \nMDLi \n14805006CM \nWD \nMOS \nWD5003ABYX-70C2sA0 \nProduct \nwarranty \nwill \nbe \nvoid \ni1 \nseal. \nDo \nsot \ncover \nlabel \nor  \ncover \nis \nremoved \nor  \ndamaged \nany \ndove \nMies \nWWN:50014EEOAEO4FD28 \nLBA \n: \n976773168 \nDATE: \n26 \nMAY \n2013 \n5VDC \n: \n0.65A \nV\ne\nt, \nDCM \n: \nHGRNHTJCG \n12VDC: \n0.50A\nDCX \n: \n0005266L1 \nFUN \n: \n711702 \nU \nS \nPalents \n6178056. \n5956196 \n6289484. \n6263459 \nProduct \nof  \nMalaysia \nCanada \nICES\n-003 \nClass \nBr \nNMB- \nDO3 \nClose \n8 \nRoHS \n?X \n• \n*Cod \nKM\n-IO-\nW- \n002 \nonois \nE \n14,63 \n4.!tqkt \n'el \nate \nm \nCep \nla \nM.. \nBy.. \nLupo \na; \n2. \nnL \n-111: \n3 \nk'i \nDIV \n-2. \n%Enterprise \nStorage \nOD\n-\n765;13 \nEU= \n. \n1 \n- \nilliinlifilliiillilil \nDP \nSN:2t532510P8 \nEFTA00002514",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Western \n \nDigital",
+        "role": "extracted",
+        "context": "S \nWestern \n \nDigital\n.\nwww.westerndigital \ncom \nWD"
+      },
+      {
+        "name": "Malaysia \nCanada",
+        "role": "extracted",
+        "context": "9484. \n6263459 \nProduct \nof  \nMalaysia \nCanada \nICES\n-003 \nClass \nBr \nNMB-"
+      },
+      {
+        "name": "Class \nBr",
+        "role": "extracted",
+        "context": "Malaysia \nCanada \nICES\n-003 \nClass \nBr \nNMB- \nDO3 \nClose \n8 \nRoHS \n?"
+      },
+      {
+        "name": "Enterprise \nStorage",
+        "role": "extracted",
+        "context": "nL \n-111: \n3 \nk'i \nDIV \n-2. \n%Enterprise \nStorage \nOD\n-\n765;13 \nEU= \n. \n1 \n- \ni"
+      }
+    ],
+    "locations": [
+      {
+        "name": "SIN",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2013-05-26",
+        "event": "26 \nMAY \n2013"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:27.619Z"
+}

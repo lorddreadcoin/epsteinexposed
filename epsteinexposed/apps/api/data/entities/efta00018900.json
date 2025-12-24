@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018900",
+    "filename": "EFTA00018900.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018900.pdf",
+    "text": "\n\nFrom: ' \nSubject: RE: CNN - Epstein \nDate: Fri, 16 Aug 2019 20:17:13 +0000 \nShe \nsaid she would get back to me with the name of the AUSA... \nFrom: \nSubject: Re: CNN - Epstein \nIt's hard to deny when they don't provide the name of the AUSA. \nOn Aug 16, 2019, at 4:11 PM, \n> \nwrote: \nI  Icy guys, \nCNN is pursuing a \nstory about how and came to our Office in \n2015/2016 to raise questions about the Epstein plea deal in Florida. Apparently through (with?) their attorney, \nthey talked to a sex trafficking or human trafficking AUSA (no name yet) about the issue. \nThe reporter believes \nthat it was not raised to senior leadership at the time and it \nwent nowhere. \nCNN doesn't plan to run something immediately but knows that another reporter has similar information, \nso if they fed their competition will go with the story, they will, too. \nAny guidance or \nthoughts are welcome. \nPublic Affairs \nU.S. Attorney's \nOffice for \nthe \nSouthern District of New York \nEmail: \nWebsite: www.justice.gov/usao-sdny\nFacebook: https://www.facebook.com/usaosdnv\nFollow \nus on Twitter: @SDNYnews \nEFTA00018900",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: ' \nSubject: RE: CNN - Epstein \nDate: Fri, 16 Aug 2019 20:17:13 +0"
+      },
+      {
+        "name": "Epstein \nIt",
+        "role": "extracted",
+        "context": ".. \nFrom: \nSubject: Re: CNN - Epstein \nIt's hard to deny when they don'"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "rovide the name of the AUSA. \nOn Aug 16, 2019, at 4:11 PM, \n> \nwro"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ce or \nthoughts are welcome. \nPublic Affairs \nU.S. Attorney's \nOffice for"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "Attorney's \nOffice for \nthe \nSouthern District of New York \nEmail: \nWebsite:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.927Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029493",
+    "filename": "EFTA00029493.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029493.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: search terms for \ndevices \nDate: Sat, 10 Oct 2020 16:24:10 +0000 \nAttachments: Search Terms_for_Epstein_Electronic_Devices.docx \nYes, good call. I've added both of those, as well as the word passenger. I went through and added a few more terms that \ncame to mind today. Anything else you guys would like to add? I'd like to send this to=over the weekend so that we \ncan get the terms run through the SW returns first thing next week. \nFrom \nSent: Saturday. October 10.2020 9:17 AM \nTo \nCc \nSubject: Re: search terms for devices \nThanks very much. Should we add massage/masseuse? \nSent from my iPhone \nOn Oct 9, 2020, at 8:41 Plvl wrote: \nAttached is a draft list of search terms to run through the devices on Relativity. I've attached the warrant \nfor reference. \nAny thoughts/additions welcome. \n.s\nhanks \n<2020-06-26, search warrant, 20 mag \n6719.pdf> \nEFTA00029493",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Terms",
+        "role": "extracted",
+        "context": "16:24:10 +0000 \nAttachments: Search Terms_for_Epstein_Electronic_Device"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "turns first thing next week. \nFrom \nSent: Saturday. October 10.2020 9:"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "day. October 10.2020 9:17 AM \nTo \nCc \nSubject: Re: search terms fo"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "sage/masseuse? \nSent from my iPhone \nOn Oct 9, 2020, at 8:41 Plvl wro"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-26",
+        "event": "2020-06-26"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.533Z"
+}

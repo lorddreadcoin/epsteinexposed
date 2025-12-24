@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030228",
+    "filename": "EFTA00030228.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030228.pdf",
+    "text": "\n\nFrom: \nTo:' \nSubject: : eps em \nDate: Tue, 09 Jul 2019 13:56:35 +0000 \nImportance: Normal \nTHANKS! \nFrom \nSent: wesda Jul 9  2019 9:43 AM \nTo: \nSubject: Fwd: epstein \nThe other one was from the second conference; this is from the first one \nSent from my iPhone \nBegin forwarded message: \nFrom: Goretti Moya <gmoy\nsdreporters.com>\nDate: July 8, 2019 at 17:12:36 EDT \nTo:' \nSubject: epstein \nPlease e-mail when youg et this \nEFTA00030228",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "Importance: Normal \nTHANKS! \nFrom \nSent: wesda Jul 9  2019 9:43 AM \nT"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "the first one \nSent from my iPhone \nBegin forwarded message: \nFrom: Gor"
+      },
+      {
+        "name": "Goretti Moya",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Goretti Moya <gmoy\nsdreporters.com>\nDate:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "July 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.328Z"
+}

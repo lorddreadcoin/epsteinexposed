@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00016747",
+    "filename": "EFTA00016747.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016747.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: NY Mag \npiece \nDate: Wed, 17 Jul 2019 15:32:29 +0000 \nAttachments: 2019-07-16 JE_detention_submission_Redacted.pdf \nI think I  neglected to pass along our filing from last night—it's attached here in case that's helpful. Thanks! \nFrom: \nSent: Wednesday, July 17, 2019 11:12 AM \nTo \nCc \nSubject: NY Mag piece \nhttps://www.thecut.com/2019/07/jeffrey-epstein-donald-trump-mar-a-lago-yideo.html? \nutm source=tw&utm campaign=nym&utm   medium=sl \nPublic Affairs \nem District of New \nYork \nWebsite: www.justice.goviusao-sdny\nFacebook: https://www.facebook.com/usaosdny\nFollow us on Twitter: gsSINS-iews \nEFTA00016747",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "sday, July 17, 2019 11:12 AM \nTo \nCc \nSubject: NY Mag piece \nhttps"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "campaign=nym&utm   medium=sl \nPublic Affairs \nem District of New \nYork \nWe"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ublic Affairs \nem District of New \nYork \nWebsite: www.justice.goviusa"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-16",
+        "event": "2019-07-16"
+      },
+      {
+        "date": "2019-07-17",
+        "event": "July 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.293Z"
+}

@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00013853",
+    "filename": "EFTA00013853.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013853.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: \nImportance: \nAttachments: \nb. \" 11 \nFW: Response Letters Epstein \nMon, 22 Jun 2009 14:36:35 +0000 \nNormal \n6.19.09 Cover Letter toMlem\nDF; 6.19.09_Letter_to.PDF; \nExhibits_to_6.19.095etter_t .PDF \nI received all of these from Jay. Apparently a 3-ring binder was fed exed to WPB and arrived this morning. It \ncontains these three documents (the Exhibits attachment is 135 pages long). \nAahhh, summer associate season at Kirkland and Ellis. I will review and get back to you. \nAssistant U.S. Attorney \nSouthern District of Florida \n500 East Broward Boulevard, \nFt. Lauderdale, FL 33394 \nFax\nFrom: Jay Leflowit [mailto \nSent: Friday, June 19, 2009 6:36 PM \nTo: \nSubject: Response Letters \nDear \nAttached please find letters and exhibits responding to your two recent letters. \nI \nhope we can speak next week. \nBest. Jay \nThe information contained in \nthis communication is \nconfidential, may be attorney-client \nprivileged, may \nconstitute inside information, and is \nintended only for \nthe use of the addressee. It is the property of \nKirkland & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication \nin error, please notify us immediately by \nreturn e-mail or by \ne-mail to postmaster@kirkland.com, and \ndestroy this communication and all copies \nthereof, \nEFTA00013853\n\nincluding \nall attachments. \nEFTA00013854",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Response Letters",
+        "role": "extracted",
+        "context": ": \nAttachments: \nb. \" 11 \nFW: Response Letters Epstein \nMon, 22 Jun 2009 14:"
+      },
+      {
+        "name": "Epstein \nMon",
+        "role": "extracted",
+        "context": "b. \" 11 \nFW: Response Letters Epstein \nMon, 22 Jun 2009 14:36:35 +0000"
+      },
+      {
+        "name": "Cover Letter",
+        "role": "extracted",
+        "context": ":36:35 +0000 \nNormal \n6.19.09 Cover Letter toMlem\nDF; 6.19.09_Letter_to."
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "back to you. \nAssistant U.S. Attorney \nSouthern District of Florida \n500 East"
+      },
+      {
+        "name": "East Broward",
+        "role": "extracted",
+        "context": "hern District of Florida \n500 East Broward Boulevard, \nFt. Lauderdale, F"
+      },
+      {
+        "name": "Fax\nFrom",
+        "role": "extracted",
+        "context": "d, \nFt. Lauderdale, FL 33394 \nFax\nFrom: Jay Leflowit [mailto \nSent:"
+      },
+      {
+        "name": "Jay Leflowit",
+        "role": "extracted",
+        "context": "uderdale, FL 33394 \nFax\nFrom: Jay Leflowit [mailto \nSent: Friday, June 1"
+      },
+      {
+        "name": "Dear \nAttached",
+        "role": "extracted",
+        "context": ": \nSubject: Response Letters \nDear \nAttached please find letters and exhib"
+      },
+      {
+        "name": "Jay \nThe",
+        "role": "extracted",
+        "context": "e can speak next week. \nBest. Jay \nThe information contained in \nthi"
+      },
+      {
+        "name": "Ellis International",
+        "role": "extracted",
+        "context": "and & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, discl"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Lauderdale, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2009-06-19",
+        "event": "June 19, 2009"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.582Z"
+}

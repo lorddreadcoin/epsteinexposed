@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024230",
+    "filename": "EFTA00024230.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024230.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 376 Filed 10/27/21 Page 1 of 2 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY \nFILED \nDOC 0: \nDATE \nFILED:  \n10/27/21 \n20-CR-330 (AJN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is receipt of the parties' letters regarding the jury questionnaire and voir dire. \nSee Dkt. \nNos. 372, 373, 375. \nThe Court will provide counsel the corresponding list of juror names and assigned juror \nnumbers on November 16 at the commencement of voir dire. The placeholder for the juror \ninformation sheet in the Court's draft questionnaire refers to the information sheet required by \nthe Jury Department. See Dkt. No. 365. The information sheet will be removed and collected by \nthe Jury Department from the packet before the parties' review of the questionnaires. \nThe Court is still considering the logistics of when peremptory strikes will be exercised, \nbut the Court anticipates peremptory strikes will be exercised on November 29. Assuming so, the \nswearing in of the jury, preliminary instructions, and opening statements would commence \nimmediately following the simultaneous (via submission of lists) exercise of peremptory \nchallenges. \nSO \nORDERED. \n1 \nEFTA00024230\n\nCase 1:20-cr-00330-AJN Document 376 Filed 10/27/21 Page 2 of 2 \nDated: October 27, 2021 \nNew York, New York \nALISON J. NATHAN \nUnited States District Judge \nEFTA00024231",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "JN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is receipt of the"
+      },
+      {
+        "name": "See Dkt",
+        "role": "extracted",
+        "context": "questionnaire and voir dire. \nSee Dkt. \nNos. 372, 373, 375. \nThe Co"
+      },
+      {
+        "name": "Jury Department",
+        "role": "extracted",
+        "context": "mation sheet required by \nthe Jury Department. See Dkt. No. 365. The inform"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-27",
+        "event": "October 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.697Z"
+}

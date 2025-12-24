@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021302",
+    "filename": "EFTA00021302.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021302.pdf",
+    "text": "\n\nFrom: ' \n< \nTo: \n'\nilislYS)\" < (USANYS)\" \nCc: \"I \n< \nSubject: FW: draft search warrant \nDate: Sun, 07 Jul 2019 03:27:31 +0000 \nImportance: Normal \nAttachments: Second_New_York_Residence_SW.v3.docx \nFYI, went to FBI about ten minutes ago, so we're hoping to hear back from them shortly. \nFrom: \nSent: Saturday, July 06, 2019 23:14 \nTo: \nCc: \nSubject: draft search warrant \ns having some computer issues so I'm sending —  please see attached. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021302",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 03:27:31 +0000 \nImportance: Normal \nAttachments: Second_New_York_Residence_SW"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "July 06, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.381Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019489",
+    "filename": "EFTA00019489.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019489.pdf",
+    "text": "\n\nFrom:  \ny• „cl \nToapa Corn \n(USANYS)\" \nSubject: RE: US v. Epstein \nDate: Thu, 25 Mar 2021 19:29:11 +0000 \nGreat, dial-in below: \nDial-in: \nCode: \nFrom: (USANYS) [Contractor] \nSent: Thursday, March 25, 2021 3:28 PM \nTo: \n); \n< \n(USANYS) \nSubject: RE: US v. Epstein \nI am sorry I meant 4:30 today. \nFrom: \nSent: Thursday, March 25, 2021 3:27 PM \nTo: (USANYS) [Contractor] \n(USANYS) \nSubject: RE: US v. Epstein \nI meant today at 4:30. Does that work? \nFrom: (USANYS) [Contractor] \n<\nSent: Thursday, March 25, 2021 3:25 PM \nTo: \n) \n(USANYS)\nSubject: RE: US v. Epstein \n>; \nWe can be available tomorrow at 4:30. Please let me know if you would like for me and the vendor to call you or do you \nwant circulate a conference call for 4:30? \nFrom: \nSent: Thursday, March 25, 2021 3:22 PM \nTo: (USANYS) \n[Contractor] <I\n>; \n(USANYS) \nSubject: RE: US v. Epstein \nHi=, \nWould a call at 4:30pm work? \nThanks, \nEFTA00019489\n\nFrom: \n(USANYS) [Contractor] < \nSent: Thursday, March 25, 2021 2:19 PM \nTo: \n) \n(USANYS) \n<a> \nSubject: US v. Epstein \nHello\n>; \nMe and the vendor (PAE) need to talk to you about the scanning data to be loaded to Relativity. Please let me know when \nyou have time to talk today. \nThank you. \nEFTA00019490",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Toapa Corn",
+        "role": "extracted",
+        "context": "From:  \ny• „cl \nToapa Corn \n(USANYS)\" \nSubject: RE: US v"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "(USANYS)\" \nSubject: RE: US v. Epstein \nDate: Thu, 25 Mar 2021 19:29:11 +0"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "(USANYS) \nSubject: RE: US v. Epstein \nHi=, \nWould a call at 4:30pm wor"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "(USANYS) \n<a> \nSubject: US v. Epstein \nHello\n>; \nMe and the vendor (PAE) n"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-25",
+        "event": "March 25, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.007Z"
+}

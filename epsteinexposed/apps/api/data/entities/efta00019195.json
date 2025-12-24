@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00019195",
+    "filename": "EFTA00019195.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019195.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: RE: expert witness \nDate: Wed, 24 Nov 2021 16:03:40 +0000 \nYes, \nthis is her UC Davis one: \nFrom: \nSent: Wednesday, November 24, 2021 10:47 AM \nTo: \nSubject: FW: expert witness \nDo we have an email address for \nFrom: \nSent: Thursday, January 28, 2021 8:59 AM \nTo: \nCc: \nSubject: expert witness \nGood morning, \n?  This is the email originally sent to \n>; \nMy colleagues, and S and \nI \nare the prosecutors in the case of United States v.  Ghisloine \nMaxwell, which is scheduled to go to trial on July 12, 2021 in the Southern District of New York. We are reaching out \nbecause we would be interested in speaking with Dr. about potentially testifying at trial. Would it be possible to \nschedule a  call with Dr. to discuss? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00019195",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghisloine \nMaxwell",
+        "role": "extracted",
+        "context": "the case of United States v.  Ghisloine \nMaxwell, which is scheduled to go to"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "trial on July 12, 2021 in the Southern District of New York. We are reaching"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "discuss? \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-24",
+        "event": "November 24, 2021"
+      },
+      {
+        "date": "2021-01-28",
+        "event": "January 28, 2021"
+      },
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.474Z"
+}

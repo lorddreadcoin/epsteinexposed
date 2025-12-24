@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030827",
+    "filename": "EFTA00030827.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030827.pdf",
+    "text": "\n\nFrom: \nTo: \n. (NY) (FBI)\" \nSubject: Re: Checks \nDate: Tue, 02 Jul 2019 18:32:04 +0000 \nAttachments: \nAttached is flight history since November of last year. \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom: \nSent: Monday, July 1, 2019 9:16:24 PM \nTo: \nSubject: RE: \nHi M, \nChecks \nN. (NY) (FBI); \nThanks, we'll take a look—if you could send over a summary of her flights with him over the past 6 months, that would be \nhelpful. Have you guys looked at the phone numbers associated with the email accounts we got subscriber info for? Let us \nknow if you think any of those numbers are live. \nThanks, \nSent: Monday, July 1, 2019 8:53 PM \nTo: \nN. (NY) (FBI) \nSubject: Checks \n>; \n>; \nSee attached phone records for \nrelevant to her recent travels with Epstein. \n>;S, \n. As per our conversation her cell phone number may be \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00030827",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Checks \nDate",
+        "role": "extracted",
+        "context": ". (NY) (FBI)\" \nSubject: Re: Checks \nDate: Tue, 02 Jul 2019 18:32:04 +0"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "year. \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-01",
+        "event": "July 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.753Z"
+}

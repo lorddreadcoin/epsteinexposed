@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00020691",
+    "filename": "EFTA00020691.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020691.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein Travel \nDate: Thu, 25 Apr 2019 22:48:32 +0000 \nImportance: Normal \nNo worries, thanks! \n \nOri \nFrom: \nSent: Thursda , A ril 25 2019 18:48 \nTo: \nCc: \nSubject: RE: Epstein Travel \nIt is a web based program and when exported it exports to PDF. Sony, no word version. \nMesst e---\n \nOri \nFrom: \nTo: \nCc: \nSent: Thursda , April 25 2019 6:41 PM \nSubject: RE: Epstein Travel \n:final Message \nBy any chance is there a Word version of this? Totally understand if not but wanted to check -- thanks. \n Original Messa e \nFrom: \nSent: Thursda , April 25 2019 18:37 \nTo: \nCc: \nSubject: Epstein Travel \nAttached is a summary of Epstein's travel from 1.1.2015 to 4.21.19. \nSpecial Agent \nFBI New York \nVCACIHuman Trafficking \nEFTA00020691",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Travel",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein Travel \nDate: Thu, 25 Apr 2019 22:48"
+      },
+      {
+        "name": "Normal \nNo",
+        "role": "extracted",
+        "context": "9 22:48:32 +0000 \nImportance: Normal \nNo worries, thanks! \n \nOri \nFrom"
+      },
+      {
+        "name": "Ori \nFrom",
+        "role": "extracted",
+        "context": "ormal \nNo worries, thanks! \n \nOri \nFrom: \nSent: Thursda , A ril 25 20"
+      },
+      {
+        "name": "Message \nBy",
+        "role": "extracted",
+        "context": "t: RE: Epstein Travel \n:final Message \nBy any chance is there a Word ve"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "wanted to check -- thanks. \n Original Messa e \nFrom: \nSent: Thursda , Apr"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "el from 1.1.2015 to 4.21.19. \nSpecial Agent \nFBI New York \nVCACIHuman Tra"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ial Agent \nFBI New York \nVCACIHuman Trafficking \nEFTA00020691"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-25",
+        "event": "April 25 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.363Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027096",
+    "filename": "EFTA00027096.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027096.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" < \nTo: ' \nE.(OIG)\"\nSubject: Re: Draft letter to Congress on Epstein \nDate: Mon, 12 Aug 2019 20:11:57 +0000 \nI just tried you. \nOn \nAug 12, 2019, at 3:55 PM, \nBegin forwarded message: \nE.(OIG) < \n> wrote: \nFrom: ' (ODAG)\" \nDate: Au ust 12, 2019 at 2:07:27 PM EDT \nTo: \" \nE.(OIG)\" < \n>, (DO) (FBI)\" \nSubject: Draft letter to Congress on Epstein \nThis is the letter that we intend to send to the congressional leaders. Please review and let me know if you have \nconcerns about any of the specific statements. This attempts to take into consideration your comments from last \nnight. Apologies for the tight turnaround, but if you can review and revert with any issues in the next hour, that would \nbe appreciated. \n• \nPrincipal Associate Deputy Attorney General \n<Epstein Impdf> \nEFTA00027096",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ": Draft letter to Congress on Epstein \nDate: Mon, 12 Aug 2019 20:11:57 +0"
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": ":57 +0000 \nI just tried you. \nOn \nAug 12, 2019, at 3:55 PM, \nBegin"
+      },
+      {
+        "name": "Epstein \nThis",
+        "role": "extracted",
+        "context": ": Draft letter to Congress on Epstein \nThis is the letter that we intend"
+      },
+      {
+        "name": "Principal Associate",
+        "role": "extracted",
+        "context": "at would \nbe appreciated. \n• \nPrincipal Associate Deputy Attorney General \n<Eps"
+      },
+      {
+        "name": "Deputy Attorney",
+        "role": "extracted",
+        "context": "ated. \n• \nPrincipal Associate Deputy Attorney General \n<Epstein Impdf> \nEFT"
+      },
+      {
+        "name": "Epstein Impdf",
+        "role": "extracted",
+        "context": "ate Deputy Attorney General \n<Epstein Impdf> \nEFTA00027096"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.533Z"
+}

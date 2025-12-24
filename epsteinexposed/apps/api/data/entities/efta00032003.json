@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00032003",
+    "filename": "EFTA00032003.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032003.pdf",
+    "text": "\n\nU.S. \nDepartment \nof \nJustice \nUnited States Attorney \nSouthern District of New York \nThe Silvio.1. Moll° Building \nOne Saint Andrew's Plaza \nNew York New York 10007 \nJune 10, 2021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States v. Chislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinent to the following inmate: \n• Ghislaine Maxwell: 02879-509 \nPlease allow her access to the \nmaterials enclosed. \nby: \nEnclosure \nVery truly yours, \nAUDREY \nSTRAUSS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA00032003",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "s discovery pertinent to the following inmate: \n• Ghislaine Maxwell: 02879-509 \nPlease allow her access to the \nmater"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment \nof \nJustice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "partment \nof \nJustice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio.1. Mo"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio.1. Moll° Building \nOne Saint"
+      },
+      {
+        "name": "Building \nOne",
+        "role": "extracted",
+        "context": "New York \nThe Silvio.1. Moll° Building \nOne Saint Andrew's Plaza \nNew Yor"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": "Silvio.1. Moll° Building \nOne Saint Andrew's Plaza \nNew York New York 10"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York New York 10007 \nJune 10,"
+      },
+      {
+        "name": "York New",
+        "role": "extracted",
+        "context": "One Saint Andrew's Plaza \nNew York New York 10007 \nJune 10, 2021 \nVI"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Chislaine Maxwell",
+        "role": "extracted",
+        "context": "Y 11232 \nRe: United States v. Chislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed i"
+      },
+      {
+        "name": "Enclosure \nVery",
+        "role": "extracted",
+        "context": "he \nmaterials enclosed. \nby: \nEnclosure \nVery truly yours, \nAUDREY \nSTRAUSS"
+      },
+      {
+        "name": "Attorney \nAssistant",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-10",
+        "event": "June 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.401Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013242",
+    "filename": "EFTA00013242.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013242.pdf",
+    "text": "\n\nFrom \nTo \nSubject: JE passenger manifest \nDate: Sat, 10 Oct 2020 05:04:09 +0000 \nAttachments: 2006-08-15 JEGE_MANIFESTic_HYPERION_MANIFEST.pdf \nMy section of doc review included the attached, which appears to be some portion of the long lost passenger manifests. \nAssistant United States Attorney \nS\nouthern District of New York \nEFTA00013242",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: JE passenger manife"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ng lost passenger manifests. \nAssistant United States Attorney \nS\nouthern Di"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "manifests. \nAssistant United States Attorney \nS\nouthern District of New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2006-08-15",
+        "event": "2006-08-15"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.154Z"
+}

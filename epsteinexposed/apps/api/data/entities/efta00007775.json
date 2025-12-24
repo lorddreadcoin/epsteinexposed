@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00007775",
+    "filename": "EFTA00007775.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007775.pdf",
+    "text": "\n\nISDN \nIf \nEV \nI \nDEN \nCI\nFEDERAL \nBUREAU \nOF \nINVESTIGA \n1 \nEFTA00007775\n\n1B7-22 \nEFTA00007776\n\nAll \ndocuments \nand \nPhotographs \nEnclosed \nhave \nbeen \nDigitized. \nNegatives \nand/or \nmedia \nhave \nnot \nbeen \ncaptured. \n01-02 \nMedia \nv0.1 \nApril \n2015 \nEFTA00007777\n\n; \n=A\nTown \nof \nPalm \nBeach \n,krezek\nt\nPolice \nDepartment \nVat \nEVIDENCE \nli \nma\ns \nCASE \nit_S\n(\n_G\"L_\n.\n.:L::\n-\n3 \n#6 \nPROPERTY \nAlf2\n1\n51. \n'Z1 \nPt( \nCONTENTS \nI\nT\nItem \nQuantity \niiiiii\nlAtictle, \ncol \nDeseriptiu \nSuspect: \nec\nip\ns4 \nc\nA\nd\n7e\n,\nOtactrallil \nDatetld: \nn \nLab \n0: \nKL-231 \nEFTA00007778\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \n/22,77 \nEFTA00007779\n\n'ac \nEFTA00007780",
+    "pageCount": 6,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Photographs \nEnclosed",
+        "role": "extracted",
+        "context": "0007776\n\nAll \ndocuments \nand \nPhotographs \nEnclosed \nhave \nbeen \nDigitized. \nNega"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "EFTA00007777\n\n; \n=A\nTown \nof \nPalm \nBeach \n,krezek\nt\nPolice \nDepartment"
+      },
+      {
+        "name": "Police \nDepartment",
+        "role": "extracted",
+        "context": "n \nof \nPalm \nBeach \n,krezek\nt\nPolice \nDepartment \nVat \nEVIDENCE \nli \nma\ns \nCAS"
+      },
+      {
+        "name": "Item \nQuantity",
+        "role": "extracted",
+        "context": "51. \n'Z1 \nPt( \nCONTENTS \nI\nT\nItem \nQuantity \niiiiii\nlAtictle, \ncol \nDeser"
+      },
+      {
+        "name": "Deseriptiu \nSuspect",
+        "role": "extracted",
+        "context": "ntity \niiiiii\nlAtictle, \ncol \nDeseriptiu \nSuspect: \nec\nip\ns4 \nc\nA\nd\n7e\n,\nOtactr"
+      },
+      {
+        "name": "Otactrallil \nDatetld",
+        "role": "extracted",
+        "context": "uspect: \nec\nip\ns4 \nc\nA\nd\n7e\n,\nOtactrallil \nDatetld: \nn \nLab \n0: \nKL-231 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2015-04-01",
+        "event": "1 \nApril \n2015"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.275Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029072",
+    "filename": "EFTA00029072.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029072.pdf",
+    "text": "\n\nFrom: \nSubject: RE: OPR Epstein Final Report \nDate: Thu, 12 Nov 2020 19:45:56 +0000 \nReceived. Thanks,M. \nFrom: \nSent: Thursday, November 12, 2020 10:07 AM \nTo: \n> \nSubject: OPR Epstein Final Report \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00029072",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "t \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00029072"
+      },
+      {
+        "name": "Epstein Final",
+        "role": "extracted",
+        "context": "From: \nSubject: RE: OPR Epstein Final Report \nDate: Thu, 12 Nov 202"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "ubject: RE: OPR Epstein Final Report \nDate: Thu, 12 Nov 2020 19:45:56 +0"
+      },
+      {
+        "name": "Report \nAttached",
+        "role": "extracted",
+        "context": "> \nSubject: OPR Epstein Final Report \nAttached please find OPR's final Repor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-12",
+        "event": "November 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.721Z"
+}

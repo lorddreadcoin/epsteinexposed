@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030274",
+    "filename": "EFTA00030274.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030274.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: indictment \nDate: Fri, 14 Jun 2019 21:24:10 +0000 \nImportance: Normal \nAttachments: 2019-06-14_Epstein_Indictment.agm.docx \nTo make it easier for the review process, I accepted all of edits, and then redlined (mostly for accuracy), with a \nfew comments. I want to think a bit about the level of detail that's added here, and the degree to which that's \nproblematic, but here's a starting point for revisions. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030274",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 21:24:10 +0000 \nImportance: Normal \nAttachments: 2019-06-14_Epstein_Indictmen"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tarting point for revisions. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "revisions. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030274"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.449Z"
+}

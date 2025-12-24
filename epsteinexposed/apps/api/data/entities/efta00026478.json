@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00026478",
+    "filename": "EFTA00026478.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026478.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Maxwell - Telephone Conference Tomorrow \nDate: Thu, 21 Oct 2021 00:17:58 +0000 \nAttachments: 2021.10.19_Order re_October 21_Teleconference.pdf \nI know Bobbi Sternheim emailed you earlier about the telephone conference being held by Judge Nathan tomorrow at \nnoon. I just wanted to follow up in case you had any questions and make sure that you have all the information you \nneed. The Court emailed the parties that the phone number for the defendant for tomorrow's conference is \ntith access code-. I'm attaching the Court's order on this, which provides the separate dial-in for members \nof the press and the public. Please let us know if you have any questions. \nThanks so much, \nssistantUnited States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00026478",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Telephone Conference",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: Maxwell - Telephone Conference Tomorrow \nDate: Thu, 21 Oct 2"
+      },
+      {
+        "name": "Tomorrow \nDate",
+        "role": "extracted",
+        "context": "axwell - Telephone Conference Tomorrow \nDate: Thu, 21 Oct 2021 00:17:58 +0"
+      },
+      {
+        "name": "Bobbi Sternheim",
+        "role": "extracted",
+        "context": "21_Teleconference.pdf \nI know Bobbi Sternheim emailed you earlier about the"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "hone conference being held by Judge Nathan tomorrow at \nnoon. I just wan"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "much, \nssistantUnited States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.411Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016755",
+    "filename": "EFTA00016755.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016755.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: \nScheduling \nDate: Mon, 06 Jan 2020 \n18:14:29 +0000 \nThat's \ngreat, thanks! \nSent from \nmy iPhone \n> On Jan \n6, 2020, at 1:13 PM, \n> How's 1130-1230? \n>  \nMesst e \n> \nFrom: \n> \nSe • • \n> \nTo: \n> Cc: \n> \nSubject: Re: Scheduling \n> An hour \n> Sent from \nmy iPhone \n» On Jan 6, 2020, at 1:12 PM, \note: \n>> \nSure we'll be able to make \nsomething work... how long do \nyou anticipate it to go? \n» \nOri final Messa e \n» \nFrom: \n>> Sent: Monday, January \n6, 2020 1:11 PM \n» \nTo: \n» \nCc: \n>> \nSubject: Scheduling \n» \nHeM \n>> Geoff \nwould like us to schedule a \nmeeting on Epstein \n=with all brass. Is there \nany time before 3 pm on \nThursday? \n» Sent from my iPhone \nwrote: \nEFTA00016755",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scheduling \nDate",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: Re: \nScheduling \nDate: Mon, 06 Jan 2020 \n18:14:29 +"
+      },
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "nks! \nSent from \nmy iPhone \n> On Jan \n6, 2020, at 1:13 PM, \n> How'"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-06",
+        "event": "January \n6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.312Z"
+}

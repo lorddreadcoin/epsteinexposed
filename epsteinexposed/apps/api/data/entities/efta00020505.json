@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00020505",
+    "filename": "EFTA00020505.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020505.pdf",
+    "text": "\n\n[make IRev. 5-23-171 \nOFFICIAL RECORD \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nIntake \nDate: 09/08/2020 \nCase ID #: SOD-NY-3027571 (U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 09/08/2020 10:29 PM EDT \nDetails: \nOn 09/08/2020, at 10:29 a.m. Eastern Time, , date of birth \ntelephone number , home address \n:\\ew York, NY 10027, called the FBI National Threat Operations Center \n(NTOC) to report information regarding Ghislaine Maxwell. \nprovided the following information: \nIn 2013, at Behavior Health in. West Palm \nBeach, Florida. During a break he notice Maxwell speaking with two young \nladies, identifiers unknown. also saw Jeffrey Epstein at the \nfacility sitting in car three or four times. He remembers the ladies \ngetting into the car with Epstein and them leaving. The ladies were back \nat the facility within an hour of leaving. \nis still in contact with a counselor, identifiers not provided, \nat the facility. \n.• \nUNCLASSIFIED \nEFTA00020505",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "two young \nladies, identifiers unknown. also saw Jeffrey Epstein at the \nfacility sitting in car three or four tim"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ns Center \n(NTOC) to report information regarding Ghislaine Maxwell. \nprovided the following information: \nIn 2013, a"
+      },
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nIntake \nDate: 09/08/2020 \nCase ID #: SOD-N"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "FREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 09/08/2"
+      },
+      {
+        "name": "Time Received",
+        "role": "extracted",
+        "context": "RAFFICKING \nDrafted By: \nDate/Time Received: 09/08/2020 10:29 PM EDT \nDet"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "On 09/08/2020, at 10:29 a.m. Eastern Time, , date of birth \ntelephone n"
+      },
+      {
+        "name": "National Threat",
+        "role": "extracted",
+        "context": "ork, NY 10027, called the FBI National Threat Operations Center \n(NTOC) to"
+      },
+      {
+        "name": "Operations Center",
+        "role": "extracted",
+        "context": "alled the FBI National Threat Operations Center \n(NTOC) to report information"
+      },
+      {
+        "name": "Behavior Health",
+        "role": "extracted",
+        "context": "ing information: \nIn 2013, at Behavior Health in. West Palm \nBeach, Florida"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "2013, at Behavior Health in. West Palm \nBeach, Florida. During a bre"
+      }
+    ],
+    "locations": [
+      {
+        "name": "York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-09-08",
+        "event": "09/08/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.968Z"
+}

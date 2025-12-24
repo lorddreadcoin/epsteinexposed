@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020779",
+    "filename": "EFTA00020779.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020779.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Fwd: Anonymous figures argue against disclosure of Jeffrey Epstein \ncase \nDate: Wed, 20 Mar 2019 23:12:25 +0000 \nImportance: Normal \nNick Lewin. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDate: March 20, 2019 at 7:08:31 PM EDT \nTo: \nSubject: Anonymous figures argue against disclosure of Jeffrey Epstein case \nAnonymous figures argue against disclosure of Jeffrey Epstein case \nhttps://www.nydailynews.corninews/national/ny-epstein-sealed-document-20190320-\nipkejwbsuraqfn5za7n5mwl32u-story.html\nEFTA00020779",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "wd: Anonymous figures argue against disclosure of Jeffrey Epstein \ncase \nDate: Wed, 20 Mar 2019 23:12:25 +0000 \nImp"
+      },
+      {
+        "name": "Normal \nNick",
+        "role": "extracted",
+        "context": "9 23:12:25 +0000 \nImportance: Normal \nNick Lewin. \nSent from my iPhone"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "l \nNick Lewin. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-03-20",
+        "event": "March 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.567Z"
+}

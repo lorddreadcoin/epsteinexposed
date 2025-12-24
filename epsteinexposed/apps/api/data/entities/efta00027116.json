@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00027116",
+    "filename": "EFTA00027116.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027116.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: RE: MCC Employee Summary Table \nDate: Tue, 13 Aug 2019 18:27:08 +0000 \nAttachments: MCC Officer Information.xlsx \nLooks great. I made a  couple tiny changes in the attached and on the shared. Thanks. \nFrom: \nSent: Tuesday, August 13, 2019 2:11 PM \nTo: \nSubject: MCC Employee Summary Table \nFor your review for chiefs/brass. \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00027116",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Employee Summary",
+        "role": "extracted",
+        "context": "om: ' \nTo:' \nSubject: RE: MCC Employee Summary Table \nDate: Tue, 13 Aug 2019"
+      },
+      {
+        "name": "Table \nDate",
+        "role": "extracted",
+        "context": "ect: RE: MCC Employee Summary Table \nDate: Tue, 13 Aug 2019 18:27:08 +0"
+      },
+      {
+        "name": "Officer Information",
+        "role": "extracted",
+        "context": "27:08 +0000 \nAttachments: MCC Officer Information.xlsx \nLooks great. I made a"
+      },
+      {
+        "name": "Table \nFor",
+        "role": "extracted",
+        "context": "Subject: MCC Employee Summary Table \nFor your review for chiefs/brass."
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "our review for chiefs/brass. \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "iefs/brass. \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-13",
+        "event": "August 13, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.576Z"
+}

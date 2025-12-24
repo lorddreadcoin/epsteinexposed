@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00019652",
+    "filename": "EFTA00019652.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019652.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: \nDate: Tue, 20 Jul 2021 13:24:11 +0000 \nAttachments: Fact Witness_Travel_Request.docx \nGood morning, \nI'll be handing this travel. I usually directly reach out to the witness. If yu would like to give the attorney a heads up before \nI call or even if they'd like to be on the line let me know. It's just a few routine questions we ask over the phone. \nFrom: \nSent: Tuesday, July 20, 2021 9:13 AM \nTo: \nSubject: Fwd: \nTravel \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDate: July 19, 2021 at 4:43:00 PM \nEDT \nTo:' \nCc: \nSubject: RE: \nThanks, =. Attached is the form for this witness. We are meeting with her on July 29th, and she is coming from \n. For next steps, will you be connecting with her directly? If so, I'll let her attorney know. \nThanks! \nFrom: \nSent: Monday, July 12, 2021 9:38 AM \nTo:\nCc: \nSubject: RE: \nThree ways to bring someone in. al pre trial or trial. Pick one. \nWe cannot pay for interviews. \nFrom: \nSent: Monday, July 12, 2021 8:40 AM \nEFTA00019652\n\nTo: \nCc \nSubject: \nHi \nand and are scheduled to interview a witness on July 29th in the Maxwell case. She's currently based in \nand will need to travel here for the interview. Could you please let me know what steps I should take for us to \narrange for her travel? \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019653",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "13:24:11 +0000 \nAttachments: Fact Witness_Travel_Request.docx \nGood mor"
+      },
+      {
+        "name": "Travel \nSent",
+        "role": "extracted",
+        "context": "9:13 AM \nTo: \nSubject: Fwd: \nTravel \nSent from my iPhone \nBegin forward"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": ": Fwd: \nTravel \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "1 8:40 AM \nEFTA00019652\n\nTo: \nCc \nSubject: \nHi \nand and are scheduled t"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nge for her travel? \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l? \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019653"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-07-20",
+        "event": "July 20, 2021"
+      },
+      {
+        "date": "2021-07-19",
+        "event": "July 19, 2021"
+      },
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.324Z"
+}

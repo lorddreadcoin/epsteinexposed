@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018840",
+    "filename": "EFTA00018840.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018840.pdf",
+    "text": "\n\nFrom: \" (USANYS)\" \nTo: < \nCc: ' \" \nSubject: Maxwell - Proposed Voir Dire and Jury Questionnaire \nDate: The, 05 Oct 2021 03:37:17 +0000 \nAttachments: 2021.10.04_Maxwelliury_QuestionnairejSent_to_Defense].docx; \n2021.10.04_Proposed_Voir DireiSent_to_Defense].docx \nCounsel, \nOur proposed joint voir dire and jury questionnaire are due on October 11. Please find attached our draft proposals. If \nyou have disagreements/proposed changes, please note them in track changes. Please send these back to us by COB \nOctober 7 so that we have time to review before submitting to the Court. \nThank you, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York New York 10007 \nTel \nEFTA00018840",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proposed Voir",
+        "role": "extracted",
+        "context": "Cc: ' \" \nSubject: Maxwell - Proposed Voir Dire and Jury Questionnaire"
+      },
+      {
+        "name": "Jury Questionnaire",
+        "role": "extracted",
+        "context": "well - Proposed Voir Dire and Jury Questionnaire \nDate: The, 05 Oct 2021 03:37"
+      },
+      {
+        "name": "Voir Direi",
+        "role": "extracted",
+        "context": "e].docx; \n2021.10.04_Proposed_Voir DireiSent_to_Defense].docx \nCounsel"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ng to the Court. \nThank you, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York New York 10007 \nTel \nEFT"
+      },
+      {
+        "name": "York New",
+        "role": "extracted",
+        "context": "One St. Andrew's Plaza \nNew York New York 10007 \nTel \nEFTA00018840"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.772Z"
+}

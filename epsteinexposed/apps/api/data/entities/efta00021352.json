@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00021352",
+    "filename": "EFTA00021352.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021352.pdf",
+    "text": "\n\nFrom: \"MI\n>\nTo: \nSubject: RE: Epstein victim call \nDate: Thu, 25 Feb 2021 17:47:06 +0000 \nThanks very much, M. We will forward to the FBI. \nFrom: \nSent: Thursday, February 25, 2021 12:46 PM \nTo: \nCc: \nSubject: Epstein victim call \nTeam, I just received a call on my desk line from a woman named who identified herself as a former \nclient of and said she was a former victim of Jeffrey Epstein. I asked if her attorney had been in touch with \neither the prosecutors or the case agents, since we had previously contacted him, and she said she believed he had not \nbeen. She said she had been in touch with an NYPD detective but had not heard back in some time. She said \nrepresented her for purposes of the Victim Fund, but was not currently representing her. She provided her cell phone as \nShe did not provide any substantive information on the call, and I did not ask for any. I advised that \nsomeone would follow up with her, hopefully in the next week or so. The call lasted less than three minutes. \nFor context, we were in touch with Mr. several times in 2020 when he claimed to represent at least nine Epstein \nvictims, all of which he said were unwilling to speak with us. He subsequently said one victim might be willing to speak \nwith us, but then stopped responding to our requests for the complaints he had purportedly filed (but which we couldn't \nfind online). I believe the last communication we had with him was the attached. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021352",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "er \nclient of and said she was a former victim of Jeffrey Epstein. I asked if her attorney had been in touch with"
+      },
+      {
+        "name": "Victim Fund",
+        "role": "extracted",
+        "context": "ented her for purposes of the Victim Fund, but was not currently repres"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "hed. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-02-25",
+        "event": "February 25, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.486Z"
+}

@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00014008",
+    "filename": "EFTA00014008.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014008.pdf",
+    "text": "\n\nFrom: ' \nTo: '  \n(USAFLS)\"  \nSubject: RE: Ted Leopold \nDate: Mon, 30 Jun 2008 21:48:00 +0000 \nImportance: Normal \n(USAFLS)\"  \nI appreciate you passing the message to me from Ted. Coincidentally, I will be seeing him this evening at a \nfunction. Congratulations on Epstein. This case only resolved with the filthy rich bad guy going to jail because \nof your dedication and determination. Much respect. \nFrom: (USAFLS) \nSent: Monda June 30, 2008 5:20 PM \nTo: (USAFLS); Sloman, Jeff (USAFLS) \nSubject: Ted Leopold \nTold Ted the news about Epstein. He says he represents three girls now, and he was happy with the news. He \nasked me to send his regards along to the two of you. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014008",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ted Leopold",
+        "role": "extracted",
+        "context": "'  \n(USAFLS)\"  \nSubject: RE: Ted Leopold \nDate: Mon, 30 Jun 2008 21:48"
+      },
+      {
+        "name": "Monda June",
+        "role": "extracted",
+        "context": "spect. \nFrom: (USAFLS) \nSent: Monda June 30, 2008 5:20 PM \nTo: (USAFLS"
+      },
+      {
+        "name": "Told Ted",
+        "role": "extracted",
+        "context": "SAFLS) \nSubject: Ted Leopold \nTold Ted the news about Epstein. He sa"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "e two of you. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014008"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.927Z"
+}

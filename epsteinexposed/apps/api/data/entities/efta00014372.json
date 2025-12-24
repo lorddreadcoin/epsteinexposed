@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00014372",
+    "filename": "EFTA00014372.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014372.pdf",
+    "text": "\n\nFrom:  \nTo: (USANYE)\"  \nSubject: FW: Richardson \nDate: Wed, 21 Aug 2019 17:09:32 +0000 \nEmbedded: t_ c_ with _counsel for Bill Richardson,_re:_JE_case.msg \n)\"   \nThis is so, so frustrating. \nFrom: \nSent: Wednesday, August 21, 2019 13:09 \nTo: (USANYS)\n<> \nCc: (USANYS) \nSubject: RE: Richardson \nHey I spoke to and about this, but just to keep everyone in the loop, I did talk to Jeff on Sunday and did \n(what I thought was) a fairly standard witness / subject / target distinction, noting we didn't have sufficient information to \nput him into the witness or target boxes, and that we didn't currently intend to subpoena him or request to speak with \nhim based on the investigation at this time. So I didn't specifically say he was a subject, but I noted the three categories \nand said we didn't have enough information for witness or target. I also said that there weren't specific allegations that \nwe need to hear his side of at this time, and I think my intended point was conveyed, which was that we weren't currently \nasking for anything from him—not that there are no allegations at all, which obviously there are, publicly. I did not say \nthat there is no allegation that the government is actively investigating; I just would never say to an attorney what we are \nor aren't investigating. In any event, my contemporaneous notes are attached, I typed and sent them less than ten \nminutes after our conversation, which lasted all of four minutes. I'm really sorry for any difficulties this causes us. \nAfter talking with about it, I also just spoke to Jeff and expressed my view that the statement does not fully \naccurately reflect our conversation, and that our press office could respond to questions about it or he could clarify, and \nhe said he would get back to me with how he proposed to address the discrepancies. \nFrom: \n(USANYS) \nSent: Wednesday, August 21, 2019 12:05 \nTo: \n<1> \nCc: (USANYS) \nSubject: FW: Richardson \nHas anyone talked to Jeff Brown and is this accurate? \nFrom: (USANYS)\nSent: Wednesday, August 21, 2019 12:01 PM \nTo: \n(USANYS)\nCc: (USANYS) [Contractor] \nSubject: Richardson \n(USANYS) \nRichardson has given the following statement to the press, true and accurate?: \n(USANYS) \nEFTA00014372\n\nGovernor Bill Richardson offered his assistance in the Jeffrey Epstein investigation - through his lawyer, Jeff Brown of \nDechert LLP - to the US Attorney for the Southern District of New York. In response to this offer, Mr. Brown was informed \nby the Assistant US Attorney responsible for the case that Governor Richardson is neither a target, subject, nor witness in \nthe case and that there is no allegation against Governor Richardson that the government is actively investigating. \n\"It's fair to conclude that the federal prosecutors investigating this matter do not believe the Governor participated in or \nwitnessed the criminal activity Jeffrey Epstein is alleged to have committed,\" said Mr. Brown. \nGovernor Richardson hopes that the investigation continues so that Epstein's victims can finally have their day in court \nand see the justice they deserve. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nEFTA00014373",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "nor Bill Richardson offered his assistance in the Jeffrey Epstein investigation - through his lawyer, Jeff Brown of"
+      },
+      {
+        "name": "Bill Richardson",
+        "role": "extracted",
+        "context": "17:09:32 +0000 \nEmbedded: t_ c_ with _counsel for Bill Richardson,_re:_JE_case.msg \n)\"   \nThis is so, so frustratin"
+      },
+      {
+        "name": "Brown",
+        "role": "extracted",
+        "context": "k. In response to this offer, Mr. Brown was informed \nby the Assi"
+      },
+      {
+        "name": "Richardson \nDate",
+        "role": "extracted",
+        "context": "To: (USANYE)\"  \nSubject: FW: Richardson \nDate: Wed, 21 Aug 2019 17:09:32 +0"
+      },
+      {
+        "name": "Richardson \nHey",
+        "role": "extracted",
+        "context": "> \nCc: (USANYS) \nSubject: RE: Richardson \nHey I spoke to and about this, bu"
+      },
+      {
+        "name": "Richardson \nHas",
+        "role": "extracted",
+        "context": "> \nCc: (USANYS) \nSubject: FW: Richardson \nHas anyone talked to Jeff Brown a"
+      },
+      {
+        "name": "Jeff Brown",
+        "role": "extracted",
+        "context": "hardson \nHas anyone talked to Jeff Brown and is this accurate? \nFrom:"
+      },
+      {
+        "name": "Governor Bill",
+        "role": "extracted",
+        "context": "te?: \n(USANYS) \nEFTA00014372\n\nGovernor Bill Richardson offered his assist"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "- to the US Attorney for the Southern District of New York. In response to t"
+      },
+      {
+        "name": "Governor Richardson",
+        "role": "extracted",
+        "context": "responsible for the case that Governor Richardson is neither a target, subject,"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ee the justice they deserve. \nPublic Affairs \nUnited States Department of"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-21",
+        "event": "August 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.718Z"
+}

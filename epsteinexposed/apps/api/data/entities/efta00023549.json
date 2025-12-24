@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00023549",
+    "filename": "EFTA00023549.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023549.pdf",
+    "text": "\n\n05:15 \n0 \n4G+ zl \n175% \nNigel Oakes \nBritish businessman \nOVERVIEW PEOPLE ALSO SEARCH FOR \nNigel John Oakes is a British businessman, \nand the founder and CEO of Behavioural \nDynamics Institute and SCL Group, the \nparent company of Cambridge Analytica. \nWikipedia \nBorn: July 1962 (age 58 years) \nEducation: Eton College \nParent(s): Major John Waddington Oakes \nTitle: Founder \nand CEO of SCL Group \nOrganization founded: SCL Group \n4 \no \n. \nEFTA00023549",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nigel Oakes",
+        "role": "extracted",
+        "context": "05:15 \n0 \n4G+ zl \n175% \nNigel Oakes \nBritish businessman \nOVERVIE"
+      },
+      {
+        "name": "Nigel John",
+        "role": "extracted",
+        "context": "RVIEW PEOPLE ALSO SEARCH FOR \nNigel John Oakes is a British businessma"
+      },
+      {
+        "name": "Behavioural \nDynamics",
+        "role": "extracted",
+        "context": ", \nand the founder and CEO of Behavioural \nDynamics Institute and SCL Group, the"
+      },
+      {
+        "name": "Cambridge Analytica",
+        "role": "extracted",
+        "context": "Group, the \nparent company of Cambridge Analytica. \nWikipedia \nBorn: July 1962"
+      },
+      {
+        "name": "Wikipedia \nBorn",
+        "role": "extracted",
+        "context": "pany of Cambridge Analytica. \nWikipedia \nBorn: July 1962 (age 58 years) \nEd"
+      },
+      {
+        "name": "Eton College",
+        "role": "extracted",
+        "context": "62 (age 58 years) \nEducation: Eton College \nParent(s): Major John Waddin"
+      },
+      {
+        "name": "Major John",
+        "role": "extracted",
+        "context": "ion: Eton College \nParent(s): Major John Waddington Oakes \nTitle: Foun"
+      },
+      {
+        "name": "Waddington Oakes",
+        "role": "extracted",
+        "context": "ollege \nParent(s): Major John Waddington Oakes \nTitle: Founder \nand CEO of S"
+      },
+      {
+        "name": "Group \nOrganization",
+        "role": "extracted",
+        "context": "itle: Founder \nand CEO of SCL Group \nOrganization founded: SCL Group \n4 \no \n."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.153Z"
+}

@@ -1,0 +1,102 @@
+{
+  "document": {
+    "id": "efta00020491",
+    "filename": "EFTA00020491.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020491.pdf",
+    "text": "\n\nOrricon RI CORD \n[make IRev. 5-23-171 \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nIntake \nDate: 38/17/2020 \nCase ID #: 50D-NY-3027571 (U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 08/17/2020 03:32 PM EDT \nDetails: \nOn 08/17/2020, at 3:32 p.m. Eastern Time. date of birth cellular telephone \nnumbe home address Maitland, FL 32751, called the FBI \nNational Threat Operations Center (NTOC) to report being approached as a minor by Ghislaine Maxwell. \nprovided the following information: \nApproximately 28 years ago, when was 14 years old, Maxwell approached her about modeling, \ninternational travel, and massages. worked at the Jupiter Gym, which is now known as Elite Gym of \nPalm Beach, FL, and was working out on an elliptical machine when Maxwell saw her through a window. \nMaxwell spoke to the person at the gym's front desk before walking up to the Caller. Maxwell provided a \ncard to Me and asked if she was a model. said she was 14 when Maxwell asked about her age. \nAs a child, modeled and was involved in pageants, but was told by a  modeling agency she was unable \nto be a runway model due to a hip defect. When Maxwell offered to help become involved in \nmodeling, including international opportunities, tuned out most of what Maxwell said. \nremembered Maxwell mentioned Victoria Secret and massages. \nnever reached out to Maxwell because the offer sounded as if it was mostly based around modeling, \nwhich was unable to do. \nUNCLASSIFIED \nEFTA00020491\n\nUNCLASSIFIED \nRe: 50D-NY-3027571, 08/17/2020 \n.• \nUNCLASSIFIED \n2 \nEFTA00020492",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "r (NTOC) to report being approached as a minor by Ghislaine Maxwell. \nprovided the following information: \nApproximat"
+      },
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nIntake \nDate: 38/17/2020 \nCase ID #: 50D-N"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "FREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 08/17/2"
+      },
+      {
+        "name": "Time Received",
+        "role": "extracted",
+        "context": "RAFFICKING \nDrafted By: \nDate/Time Received: 08/17/2020 03:32 PM EDT \nDet"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "On 08/17/2020, at 3:32 p.m. Eastern Time. date of birth cellular telep"
+      },
+      {
+        "name": "National Threat",
+        "role": "extracted",
+        "context": "nd, FL 32751, called the FBI \nNational Threat Operations Center (NTOC) to r"
+      },
+      {
+        "name": "Operations Center",
+        "role": "extracted",
+        "context": "lled the FBI \nNational Threat Operations Center (NTOC) to report being approa"
+      },
+      {
+        "name": "Jupiter Gym",
+        "role": "extracted",
+        "context": ", and massages. worked at the Jupiter Gym, which is now known as Elite"
+      },
+      {
+        "name": "Elite Gym",
+        "role": "extracted",
+        "context": "er Gym, which is now known as Elite Gym of \nPalm Beach, FL, and was w"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "is now known as Elite Gym of \nPalm Beach, FL, and was working out on a"
+      },
+      {
+        "name": "When Maxwell",
+        "role": "extracted",
+        "context": "ay model due to a hip defect. When Maxwell offered to help become involv"
+      },
+      {
+        "name": "Victoria Secret",
+        "role": "extracted",
+        "context": "remembered Maxwell mentioned Victoria Secret and massages. \nnever reached"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Maitland, FL",
+        "type": "city"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-38-17",
+        "event": "38/17/2020"
+      },
+      {
+        "date": "2020-08-17",
+        "event": "08/17/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.950Z"
+}

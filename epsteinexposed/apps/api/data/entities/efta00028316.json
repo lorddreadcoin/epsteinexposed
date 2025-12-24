@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028316",
+    "filename": "EFTA00028316.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028316.pdf",
+    "text": "\n\nFrom: Richard Signorelli <I \nTo: \n ' \nSubject: Epstein \nDate: Tue, 09 Jul 2019 21:17:41 +0000 \nHi and \nI am sure you are already looking at this but there is a real mystery as to how this guy acquired his wealth and its \npossible relationship with the charges thus far in the indictment. I already see significant tax evasion at the local \nand state level with the way in which the mansion was transferred to him back in 1996 (no record, no transfer \ntaxes paid) as well as claiming the VI as his supposed primary residence. It would not surprise me that there is \nsignificant tax evasion at the federal level along with underlying criminality involved in the acquisition of the \nwealth in the first place. \nGood \nluck with everything. \nBest, \nRich \nRichard E. Signorelli \nwv.w.nycLITIGATOR.com \nLaw Office of Richard E. Si \nnorelli \nMEP \nThis message may be privileged and confidential. If received in error, please delete it. All applicable privileges are reserved. \nThank you. \nEFTA00028316",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Richard Signorelli",
+        "role": "extracted",
+        "context": "From: Richard Signorelli <I \nTo: \n ' \nSubject: Epstein"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "norelli <I \nTo: \n ' \nSubject: Epstein \nDate: Tue, 09 Jul 2019 21:17:41 +0"
+      },
+      {
+        "name": "Rich \nRichard",
+        "role": "extracted",
+        "context": "luck with everything. \nBest, \nRich \nRichard E. Signorelli \nwv.w.nycLITIGA"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "relli \nwv.w.nycLITIGATOR.com \nLaw Office of Richard E. Si \nnorelli \nME"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.992Z"
+}

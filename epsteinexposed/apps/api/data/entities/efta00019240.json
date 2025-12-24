@@ -1,0 +1,43 @@
+{
+  "document": {
+    "id": "efta00019240",
+    "filename": "EFTA00019240.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019240.pdf",
+    "text": "\n\nFrom: a, \nCc: \nSubject: CNN - Epstein \nDate: Fri, 16 Aug 2019 20:11:06 +0000 \nImportance: High \nHey \nguys, \nCNN is pursuing a \nstory about how \n2015/2016 to \nraise questions about the Epstein plea deal in Florida. \ntalked to a sex trafficking or human trafficking AUSA (no name yet) \nwas not raised to senior leadership \nat the time and it went nowhere. \nCNN doesn't \nplan to run something immediately but knows \nif  they fed their competition will go with the story, they will, too. \nAny guidance or thoughts are \nwelcome. \nPublic Affairs \nU.S. Attorney's Office for the \nSouthern District of New York \n212-637-2600 (office) \n212-637-2445 (direct) \nEmail: \nWebsite: wwwiusuce.gov/usao-sdny\nFacebook: https://wwwfacebook.com/usaosdmv \nFollow \nus on Twitter: flews \nand came to our Office in \nApparently through (with?) their attorney, they \nabout \nthe issue. The reporter believes that it \nthat another reporter has similar information, so \nEFTA00019240",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: a, \nCc: \nSubject: CNN - Epstein \nDate: Fri, 16 Aug 2019 20:11:06 +0"
+      },
+      {
+        "name": "High \nHey",
+        "role": "extracted",
+        "context": "9 20:11:06 +0000 \nImportance: High \nHey \nguys, \nCNN is pursuing a \nst"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ce or thoughts are \nwelcome. \nPublic Affairs \nU.S. Attorney's Office for t"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \n212-637-2600 (of"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "212-637-2600",
+      "212-637-2445"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.568Z"
+}

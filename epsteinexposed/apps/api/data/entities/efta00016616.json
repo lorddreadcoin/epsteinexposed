@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016616",
+    "filename": "EFTA00016616.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016616.pdf",
+    "text": "\n\nFrom \nTo \nSubject: FW: US V Maxwell \nDate: The, 23 Nov 2021 20:13:33 +0000 \nAttachments: LBNAMAXT.PDF \nTranscript from today's conference is attached. \nFrom: \nSent• ues a ovem er \nTo \nCc \nSubject: \nFW: \nUS V \nMaxwell \nEFTA00016616",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: FW: US V Maxwell \nD"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: FW: US V Maxwell \nDate: The, 23 Nov 2021 20:13:33 +0"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: \nSent• ues a ovem er \nTo \nCc \nSubject: \nFW: \nUS V \nMaxwell"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.092Z"
+}

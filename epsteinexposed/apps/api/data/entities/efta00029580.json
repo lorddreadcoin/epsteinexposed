@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029580",
+    "filename": "EFTA00029580.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029580.pdf",
+    "text": "\n\nFrom: \"subpoena-criminal@amazon.com\" <subpoena-criminal@amazon.cotn> \nTo:' \nSubject: [EXTERNAL] Amazon Ref. No. CRIMI153768 2021 (External Case \nNo. 20 Cr. 330) \nDate: Wed, 10 Nov 2021 \n16:49:56 +0000 \namazon \nThis is an official communication from Amazon. \nCertificate of Authenticity \ndeclare as follows: \nI. I am an employee of Amazon, Inc. (\"Amazon\"). I make this declaration based on personal, firsthand \nknowledge and, if called and sworn as a witness, I could and would testify as set forth below. \n2. Amazon produced documents responsive to the above-referenced law enforcement request. \n3. All documents produced by Amazon are authentic, are what they purport to be, and accurately describe the \ntransactions, communications, and events set forth therein. \n4. All documents produced by Amazon are business records in that they are (i) records kept in the ordinary \ncourse of business; (ii) created at or near the time of the transactions or events reflected therein, or based \non information from a person with knowledge of the transaction or events; and (iii) kept as a part of a \nregular business activity. \nI declare under penalty of perjury under the laws of the United States of America that the foregoing is true and \ncorrect. \nExecuted on 11/10/2021, at Seattle, Washington. \nLaw Enforcement Response Team \nAmazon.com, Inc. \nNOTICE: This communication might contain privileged and/or confidential information. If you are not the \nintended recipient or you believe that you have received this communication in error, please delete this message \nand do not print, share, or otherwise use this message or its contents in any way. Please also indicate by reply \nemail that you have received this communication in error and that you have deleted it. \nEFTA00029580",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Amazon Ref",
+        "role": "extracted",
+        "context": "n> \nTo:' \nSubject: [EXTERNAL] Amazon Ref. No. CRIMI153768 2021 (Extern"
+      },
+      {
+        "name": "External Case",
+        "role": "extracted",
+        "context": "on Ref. No. CRIMI153768 2021 (External Case \nNo. 20 Cr. 330) \nDate: Wed,"
+      },
+      {
+        "name": "Law Enforcement",
+        "role": "extracted",
+        "context": "021, at Seattle, Washington. \nLaw Enforcement Response Team \nAmazon.com, In"
+      },
+      {
+        "name": "Response Team",
+        "role": "extracted",
+        "context": "Washington. \nLaw Enforcement Response Team \nAmazon.com, Inc. \nNOTICE: Th"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-10",
+        "event": "11/10/2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.719Z"
+}

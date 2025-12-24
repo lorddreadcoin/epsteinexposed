@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013208",
+    "filename": "EFTA00013208.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013208.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: DAG Meeting Overview Materials \nDate: Thu, 05 Nov 2020 14:02:16 +0000 \nAttachments: 11-5-20_DAG_Case_Bullet_PoinUto_AS).docx; 11-5-\n20_DAG_Case_Overviewv2_(t0_AS).docx \nI've attached the bullet points we discussed for today's meeting, which Russell and I are signed off on (the bullet points \nare pasted below as well). We've also attached a revised version of the two-page memo, which reflects the edits we \ndiscussed last night. We did not include language describing what we understood to be the assignment (Le., cases likely \nto generate substantial press over the next couple months), on the assumption that would be in your cover note. Thanks. \nI. Anticipated Charges and \nInvestigative Steps \nII. Charged Cases \nU.S. v. Maxwell, 20 Cr. 330 (AJN): Motions practice in sex trafficking case against Epstein associate Ghislaine \nMaxwell may draw press if, for instance, defendant succeeds in efforts to secure the identities of specific victims. \nAlso working on potential resolution with another Epstein co-conspirator. \nEFTA00013208",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Meeting Overview",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: DAG Meeting Overview Materials \nDate: Thu, 05 Nov"
+      },
+      {
+        "name": "Materials \nDate",
+        "role": "extracted",
+        "context": "Subject: DAG Meeting Overview Materials \nDate: Thu, 05 Nov 2020 14:02:16 +0"
+      },
+      {
+        "name": "Anticipated Charges",
+        "role": "extracted",
+        "context": "your cover note. Thanks. \nI. Anticipated Charges and \nInvestigative Steps \nII."
+      },
+      {
+        "name": "Investigative Steps \nII",
+        "role": "extracted",
+        "context": "I. Anticipated Charges and \nInvestigative Steps \nII. Charged Cases \nU.S. v. Maxwe"
+      },
+      {
+        "name": "Charged Cases",
+        "role": "extracted",
+        "context": "and \nInvestigative Steps \nII. Charged Cases \nU.S. v. Maxwell, 20 Cr. 330"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "ase against Epstein associate Ghislaine \nMaxwell may draw press if, for instan"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.083Z"
+}

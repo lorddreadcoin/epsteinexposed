@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029693",
+    "filename": "EFTA00029693.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029693.pdf",
+    "text": "\n\nFrom: '   \nle  cl \nt'.\n- - - \nTo: MIINIrie \nI O\nM \n(USANYS)\" \nSubject: Politico piece \nDate: Fri, 14 May 2021 13:59:07 +0000 \nJust making sure you guys saw this new piece in Politico: \nThe Women Who Enabled Jeffrey Epstein - POLITICO \nEFTA00029693",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "his new piece in Politico: \nThe Women Who Enabled Jeffrey Epstein - POLITICO \nEFTA00029693"
+      },
+      {
+        "name": "The Women",
+        "role": "extracted",
+        "context": "this new piece in Politico: \nThe Women Who Enabled Jeffrey Epstein -"
+      },
+      {
+        "name": "Who Enabled",
+        "role": "extracted",
+        "context": "piece in Politico: \nThe Women Who Enabled Jeffrey Epstein - POLITICO \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-14",
+        "event": "14 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.983Z"
+}

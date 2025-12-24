@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00013918",
+    "filename": "EFTA00013918.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013918.pdf",
+    "text": "\n\nFrom: \nTo: \n(USAFLS)\" alMIN> \nSAFLS \" \n(USAFLS (USAFLS)\" \nSubject: RE: Epstein \nDate: Wed, 28 May 2008 13:37:20 +0000 \nImportance: Normal \nPlease fill me in. \n----Original Message--\nFrom: (USAFLS) \nSent: Wednesday, May 28, 2008 9:21 AM \nTo: (USAFLS); \nSubject: RE: Epstein \n(USAFLS) \nThis was info that got from Barry, the state attorney, but he was waiting for an email to confirm. I am much to lowly to have \ncommunications with the \"star\" team. \n----Original Message---\nFrom: \n(USAFLS) \nSent: Tuesday, May 27, 2008 3:09 PM \nTo: (USAFLS); \nCc: (USAFLS) \nSubject: RE: Epstein \n(USAFLS) \nNo one has contacted anyone in Miami. Please copy me and on all communications. Thanks, \n• \n-----Original Message--\nFrom: \n(USAFLS) \nSent: Tuesday, May 27, 2008 2:54 PM \nTo: (USAFLS); \nCc: \n(USAFLS) \nSubject: Epstein \n(USAFLS) \nHi M. sent me an email about epstein wanting to do less time. I  hope that his request will be denied. The original deal was \nsupposed to be 2 years so he has already gotten a big break. Plus we have identified more victims since we agreed to the 18 months. Please \nkeep me posted. Thanks. \nEFTA00013918",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "SAFLS (USAFLS)\" \nSubject: RE: Epstein \nDate: Wed, 28 May 2008 13:37:20 +0"
+      },
+      {
+        "name": "Normal \nPlease",
+        "role": "extracted",
+        "context": "8 13:37:20 +0000 \nImportance: Normal \nPlease fill me in. \n----Original Mes"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "rmal \nPlease fill me in. \n----Original Message--\nFrom: (USAFLS) \nSent: Wedne"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-05-28",
+        "event": "May 28, 2008"
+      },
+      {
+        "date": "2008-05-27",
+        "event": "May 27, 2008"
+      },
+      {
+        "date": "2008-05-28",
+        "event": "28 May 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.737Z"
+}

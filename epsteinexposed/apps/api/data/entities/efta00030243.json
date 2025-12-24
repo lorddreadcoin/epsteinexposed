@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030243",
+    "filename": "EFTA00030243.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030243.pdf",
+    "text": "\n\nFrom: \n\" \naMIE> \nTo: \n\"\nSubject: search warrant \nDate: Sun, 07 Jul 2019 03:01:33 +0000 \nImportance: Normal \nAttachments: Second_New_York_Residence_SW.y3.docx \nPlease call me once you've reviewed—thanks! \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030243",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 03:01:33 +0000 \nImportance: Normal \nAttachments: Second_New_York_Residence_SW"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "once you've reviewed—thanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "wed—thanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030243"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.360Z"
+}

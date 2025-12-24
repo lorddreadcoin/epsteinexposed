@@ -1,0 +1,72 @@
+{
+  "document": {
+    "id": "efta00028695",
+    "filename": "EFTA00028695.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028695.pdf",
+    "text": "\n\nFrom: \nTo:' \nSubject: RE: ) - Epstein \nDate: Tue, 18 May 2021 14:25:46 +0000 \nAttachments: .pdf \nI apologize. Sent the wrong attachment. The correct one is now attached. \nFrom: \nSent: Monday, May 17, 2021 8:36 PM \nTo: \n(NY) \n(FBI) an \nSubject: (EXTERNAL EMAIL] - RE: - Epstein \nI think these are the notes for the 302? \nFrom: \nc=s \nSent: Monday, May 17, 20217:26 PM \nTo: \nSubject: RE: - Epstein \nSigned. \nFrom: \nSent: Friday, May 14, 2021 3:27 PM \nTo: (NY) (FBI) < \nSubject: [EXTERNAL EMAIL] - FW: \nHi \n- Epstein \nWhen you have a chance, could you please initial the proffer agreement and send it back to me? Thanks! \nFrom: Joe Nascimento \nSent: Friday, May 14, 2021 2:56 PM \nTo: \nCc: \nSubject: Re: \n(USANYS) \n> \n- Epstein \nHi \nThanks again for your time today. Attached, please find a copy of the proffer agreement with updated initials. \nHave a nice weekend, \nJoe \nJoseph E. Nascimento, Esq. \nROSS AMSEL RABEN NASCIMENTO, PLLC \nLawyer's Plaza I  4th Floor \nEFTA00028695\n\nMiami, FL \n33129 \nP. \nf. \ne. \nwww.crimlawfirm.com \nEFTA00028696",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:' \nSubject: RE: ) - Epstein \nDate: Tue, 18 May 2021 14:25:46 +0"
+      },
+      {
+        "name": "Epstein \nSigned",
+        "role": "extracted",
+        "context": "17:26 PM \nTo: \nSubject: RE: - Epstein \nSigned. \nFrom: \nSent: Friday, May 14"
+      },
+      {
+        "name": "Epstein \nWhen",
+        "role": "extracted",
+        "context": "[EXTERNAL EMAIL] - FW: \nHi \n- Epstein \nWhen you have a chance, could you"
+      },
+      {
+        "name": "Joe Nascimento",
+        "role": "extracted",
+        "context": "it back to me? Thanks! \nFrom: Joe Nascimento \nSent: Friday, May 14, 2021 2"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "Subject: Re: \n(USANYS) \n> \n- Epstein \nHi \nThanks again for your time t"
+      },
+      {
+        "name": "Joe \nJoseph",
+        "role": "extracted",
+        "context": "tials. \nHave a nice weekend, \nJoe \nJoseph E. Nascimento, Esq. \nROSS AMS"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Miami, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-17",
+        "event": "May 17, 2021"
+      },
+      {
+        "date": "2021-05-14",
+        "event": "May 14, 2021"
+      },
+      {
+        "date": "2021-05-18",
+        "event": "18 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.753Z"
+}

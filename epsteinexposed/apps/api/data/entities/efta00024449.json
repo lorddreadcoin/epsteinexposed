@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00024449",
+    "filename": "EFTA00024449.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024449.pdf",
+    "text": "\n\nJuly 10, 2020 \nVIA E-MAII. \nRe: \nGrand \nJury Subpoena Issued to \nGbislaine Maxwell, et \nOur \nMatter No.: \nDear \ndated June 29, 2020—\nOn \nbehalf of . (\"M\"), this letter is in response to the Grand Jury Subpoena dated June \n29, 2020 in which information and documentation with respect to the matter referenced above was requested. Enclosed \nplease find a WinZip file containing the items described within: \nAccount Records \nAccount Number Description of Documents \nXX X5I72 Account Opening Documents and Accounts Statements \nMI requests that, unless otherwise required by law or court order, the enclosed documents be kept confidential and \nnot disclosed to any third party outside the context of the above referenced legal proceeding. also requests \nadvance notice of any decision to disclose any of the documents provided pursuant to this request. The WinZip file is \npassword protected. Please use WinZip to unzip and view the documents. Please email me at \nupon receipt for the necessary password. If you have any questions, please feel free to contact me. \nSincerely, \ncc: AUSA \nis a subsidiary of NM \nEFTA00024449",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Grand \nJury",
+        "role": "extracted",
+        "context": "y 10, 2020 \nVIA E-MAII. \nRe: \nGrand \nJury Subpoena Issued to \nGbislaine"
+      },
+      {
+        "name": "Subpoena Issued",
+        "role": "extracted",
+        "context": "VIA E-MAII. \nRe: \nGrand \nJury Subpoena Issued to \nGbislaine Maxwell, et \nOu"
+      },
+      {
+        "name": "Gbislaine Maxwell",
+        "role": "extracted",
+        "context": "and \nJury Subpoena Issued to \nGbislaine Maxwell, et \nOur \nMatter No.: \nDear"
+      },
+      {
+        "name": "Our \nMatter",
+        "role": "extracted",
+        "context": "ed to \nGbislaine Maxwell, et \nOur \nMatter No.: \nDear \ndated June 29, 20"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "letter is in response to the Grand Jury Subpoena dated June \n29, 2020"
+      },
+      {
+        "name": "Account Records",
+        "role": "extracted",
+        "context": "the items described within: \nAccount Records \nAccount Number Description o"
+      },
+      {
+        "name": "Account Number",
+        "role": "extracted",
+        "context": "bed within: \nAccount Records \nAccount Number Description of Documents \nXX"
+      },
+      {
+        "name": "Account Opening",
+        "role": "extracted",
+        "context": "iption of Documents \nXX X5I72 Account Opening Documents and Accounts Statem"
+      },
+      {
+        "name": "Accounts Statements",
+        "role": "extracted",
+        "context": "Account Opening Documents and Accounts Statements \nMI requests that, unless oth"
+      },
+      {
+        "name": "The Win",
+        "role": "extracted",
+        "context": "ded pursuant to this request. The WinZip file is \npassword protecte"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-10",
+        "event": "July 10, 2020"
+      },
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      },
+      {
+        "date": "2020-06-29",
+        "event": "June \n29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.171Z"
+}

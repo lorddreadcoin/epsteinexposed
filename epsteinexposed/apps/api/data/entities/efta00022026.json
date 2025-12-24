@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00022026",
+    "filename": "EFTA00022026.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022026.pdf",
+    "text": "\n\nU.S. \nDepartment of .1 ustice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nJune \n21, 2021 \nBY EMAIL \nDana Bennett \nLockheed Martin \nCo. \n6801 Rockledge Drive \nBethesda, MD 20817 \nRE: Court Subpoena \nDear Ms. Bennett: \nPlease see the attached Court subpoena. You can reach me at the below phone number or \nat f you have any questions. Thank you for your cooperation in \nthis matter. \nVery truly \nyours, \nAUDREY \nSTRAUSS \nUnited States Attorney \nby: \nAssistant United  States Attorney \nEFTA00022026",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bennett",
+        "role": "extracted",
+        "context": "817 \nRE: Court Subpoena \nDear Ms. Bennett: \nPlease see the attached"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "t of .1 ustice \nUnited States Attorney \nSouthern District of New York \nThe Sil"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio J. Mollo Building \nOne Saint"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "ct of New York \nThe Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nJune \n2"
+      },
+      {
+        "name": "Dana Bennett",
+        "role": "extracted",
+        "context": "07 \nJune \n21, 2021 \nBY EMAIL \nDana Bennett \nLockheed Martin \nCo. \n6801 R"
+      },
+      {
+        "name": "Lockheed Martin",
+        "role": "extracted",
+        "context": "2021 \nBY EMAIL \nDana Bennett \nLockheed Martin \nCo. \n6801 Rockledge Drive \nB"
+      },
+      {
+        "name": "Rockledge Drive",
+        "role": "extracted",
+        "context": "t \nLockheed Martin \nCo. \n6801 Rockledge Drive \nBethesda, MD 20817 \nRE: Cour"
+      },
+      {
+        "name": "Court Subpoena",
+        "role": "extracted",
+        "context": "rive \nBethesda, MD 20817 \nRE: Court Subpoena \nDear Ms. Bennett: \nPlease se"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "MD 20817 \nRE: Court Subpoena \nDear Ms. Bennett: \nPlease see the att"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "United States Attorney \nby: \nAssistant United  States Attorney \nEFTA0002202"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "orney \nby: \nAssistant United  States Attorney \nEFTA00022026"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Drive \nBethesda, MD",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-21",
+        "event": "June \n21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.871Z"
+}

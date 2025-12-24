@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00014530",
+    "filename": "EFTA00014530.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014530.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc: \n\" \nSubject: RE: \nWednesday \nDate: Tue, 30 Jul 2019 20:38:00 +0000 \nInline-Images: image001.jpg; image002.png; image003.jpg; image004.png; image005jpg \nI was referring to my hotel. \nFrom: \nSent: Tuesday, July 30, 2019 1:36 PM \nTo \nCc: \nSubject: RE: Wednesday \nThat is understandable, and thanks for letting us know. Are you referring to meeting at Mhotel or at yours? If possible, I \nthink it would be easier for everyone to meet at Mhotel, if you're able to arrange for a conference room there. We are \navailable to meet at 2 in either case. Thanks. \nFrom: \nSent: Tuesday, July 30, 2019 4:32 PM \nTo: \nCc \nSubject: RE: Wednesday \nMemailed me that 'would feel more comfortable meeting at the hotel. Would you be available to meet at 2 or 3 \nP.M. instead of at 1P.M. so that there is time for lunch after the court status conference? Also, I have good news. When we \nmeet tomorrow, I will discuss a third victim whom I represent who would like to meet with you in August in New York. \nEFTA00014530\n\nFrom: \nSent: Tuesday, July 30, 2019 1:25 PM \nTo: \nCc: \nSubject: RE: Wednesday \nDo you have a sense yet of what time works for you and your client to come to our office tomorrow afternoon? \nThanks, \nFrom: \nSent: Monday, July 29, 2019 6:17 PM \nTo: \nSubject: RE: Wednesday \nI understand. I will let you know as soon as I hear from M . Also, I am open to having the meeting later than 1P.M. \n,because I scheduled that time prior to knowing about the status conference in the morning. Let me see what wants \nto do and then we can discuss the where and when and will work for you. \nFrom: \nSent: Monday, July 29, 2019 3:09 PM \nTo: \nCc: \n0 \nSu ject: RE: We nes ay \nEFTA00014531\n\nThanks for letting us know about the possible meeting location change— please let us know once you've been able to \nconfirm with your client, and we can let know so that she can cancel the car service. \nRegarding the court conference, we are unfortunately not able to reserve seats for anyone—the court manages court \nsecurity and the crowd, so we don't have control over that. The other victim attorneys have been attending the \nconferences on their own, and although I don't know, I would guess that means that they have been arriving early. \nThanks, \nFrom: \nSent: on ay, u y , : \nTo: \nSubject: RE: Wednesday \nThank you very much for this information. I plan to attend this court this status conference on Wednesday. I am \nconcerned that the courtroom may be full and no seat will be available for me . Would you be kind enough to have \nsomeone on your staff save a seat for me? Also, since the courthouse is very close to your office I have emailed to \nask if Mwould be willing to meet at your office instead of at my hotel at 1P.M.Since.hotel is near to your office and \nnear the courthouse and since I will be in the area now as well , if IMIfeels comfortable meeting at your office instead of \nmy hotel I am willing to meet at your office to save you and the time to travel to my hotel. I will let you know when \n=responds. \nerg \n1500 \nFrom: \nSent: Monday, July 29, 2019 1:50 PM \nTo \nSubject: RE: Wednesday \nCMF \nYes-in this district, criminal defendants are present at all court conferences absent unusual circumstances. \nEFTA00014532\n\nFrom: \nSent: Monday, July 29, 2019 4:46 PM \nTo: \nSubject: Wednesday \nI see that a  status conference is scheduled for Mr. Epstein 's criminal case in court in New York at 11A.M.on Wednesday \n,July 31. Do you know if Mr. Epstein will be present for the status conference in court on Wednesday? \nEFTA00014533",
+    "pageCount": 4,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "s conference is scheduled for Mr. Epstein 's criminal case in court"
+      },
+      {
+        "name": "Wednesday \nDate",
+        "role": "extracted",
+        "context": "To:' \nCc: \n\" \nSubject: RE: \nWednesday \nDate: Tue, 30 Jul 2019 20:38:00 +0"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "esday, July 30, 2019 1:36 PM \nTo \nCc: \nSubject: RE: Wednesday \nTha"
+      },
+      {
+        "name": "Wednesday \nThat",
+        "role": "extracted",
+        "context": ":36 PM \nTo \nCc: \nSubject: RE: Wednesday \nThat is understandable, and thanks"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": ", July 30, 2019 4:32 PM \nTo: \nCc \nSubject: RE: Wednesday \nMemailed me t"
+      },
+      {
+        "name": "Wednesday \nMemailed",
+        "role": "extracted",
+        "context": ":32 PM \nTo: \nCc \nSubject: RE: Wednesday \nMemailed me that 'would feel more comf"
+      },
+      {
+        "name": "Wednesday \nDo",
+        "role": "extracted",
+        "context": "25 PM \nTo: \nCc: \nSubject: RE: Wednesday \nDo you have a sense yet of what"
+      },
+      {
+        "name": "Wednesday \nThank",
+        "role": "extracted",
+        "context": "y, u y , : \nTo: \nSubject: RE: Wednesday \nThank you very much for this inform"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "onday, July 29, 2019 1:50 PM \nTo \nSubject: RE: Wednesday \nCMF \nYes-in t"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-30",
+        "event": "July 30, 2019"
+      },
+      {
+        "date": "2019-07-29",
+        "event": "July 29, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.038Z"
+}

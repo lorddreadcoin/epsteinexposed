@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031406",
+    "filename": "EFTA00031406.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031406.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc: \nSubject: RE: Epstein \nDate: Mon, 04 Nov 2019 15:19:33 +0000 \n8 \nFrom: \nSent: Monday, November 4, 2019 10:19 AM \nTo: \nCc: \nSubject: RE: Epstein \nThanks, that would be great. Are you meeting at \nFrom: \nSent: Monday, November 4, 2019 10:17 AM \nTo: \nCc: \nSubject: \nEpstein \n> \n> \noffice, or is he coming to 8? \nHey -- \nwe're meeting with at 4 pm if you are around. \nEFTA00031406",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "rom: \nTo:' \nCc: \nSubject: RE: Epstein \nDate: Mon, 04 Nov 2019 15:19:33 +0"
+      },
+      {
+        "name": "Epstein \nThanks",
+        "role": "extracted",
+        "context": "19 AM \nTo: \nCc: \nSubject: RE: Epstein \nThanks, that would be great. Are you"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-04",
+        "event": "November 4, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.015Z"
+}

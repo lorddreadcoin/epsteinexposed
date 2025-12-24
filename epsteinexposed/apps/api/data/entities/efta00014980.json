@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014980",
+    "filename": "EFTA00014980.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014980.pdf",
+    "text": "\n\n11/28/21, 9:12 PM Mail - (NY) (FBI) - \nOutlook \nCA photos \n(NY) (FBI) < \nTue \n1/26/2021 12:10 PM \nTo: (NY) (FBI) < \nB 4 attachments (61 KB) \nphoto 1jpg; Photo 2jpg; Photo 3jpg; Photo Sjpg; \n« \nphoto \n1.jpg \n»« \nPhoto \n2.jpg »« \nPhoto \n3.jpg » « \nPhoto \n5.jpg » \nSpecial Agent \nFBI New York Field Office \nChild Ex loitation/Human Trafficking \nC: \nhttps://outloolcoffice365.us/mailfiribox/id/AACMOIcw0TA4M2JkLTZjNzYINDAOYy05NTFiLWE3MDM4MDY5NzQxYwAOAK(135fX90k8UtbOwicWxwno... 1/1 \nEFTA00014980",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Photo Sjpg",
+        "role": "extracted",
+        "context": "1jpg; Photo 2jpg; Photo 3jpg; Photo Sjpg; \n« \nphoto \n1.jpg \n»« \nPhoto"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "o \n3.jpg » « \nPhoto \n5.jpg » \nSpecial Agent \nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nChild Ex loitation/Human Tra"
+      },
+      {
+        "name": "Child Ex",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nChild Ex loitation/Human Trafficking"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Ex loitation/Human Trafficking \nC: \nhttps://outloolcoffice36"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-26",
+        "event": "1/26/2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.902Z"
+}

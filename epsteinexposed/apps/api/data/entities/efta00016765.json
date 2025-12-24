@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00016765",
+    "filename": "EFTA00016765.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016765.pdf",
+    "text": "\n\nSubject: RE: Items to Reproduce \nDate: Fri, IS Dee 2020 18:52:43 +0000 \nAttachments: 2020.12.18_MDC_-_Maxwell_MAIN.pdf; 2020.12.18_MDC_-_Maxwell_PASSWORD.pdf \nHere are the two cover letters for MDC, as well —  thank you! \nFrom: \nSent: Friday, December 18, 2020 12:57 PM \nTo: \nCc: \n(USANYS) '4\n>; \nSubject: Re: Items to Reproduce \nThanks you so much for catching that, letting us know, and fixing it so quickly, M. Really appreciate that. Please just \nlet me know when the reproductions are ready to go, and I'll email defense counsel and the MDC. \nOn Dec 18, 2020, at 11:36 AM, \nHi all, \nwrote: \nI was updating the discovery index for Maxwell and unfortunately realized that seven items (two items from the 7th\nProduction, located here; and all five PDFs from the eh Production, located here) will have to be reproduced, as their \nBates numbers were slightly incorrect (missing a digit in the middle of the bates number). I can re-stamp and update \nthem in the shared momentarily —  but my apologies that we're just now catching this! \nThe seven reproduced items will consist of one Excel file and six PDFs, so they'll be small enough to email to defense \ncounsel and small enough to put on a disc to send to Maxwell at MDC. I can draft a cover letter detailing the reproduced \nitems and their updated Bates ranges, and since I'm in the office today I can send the disc out to MDC this afternoon. \nThanks so much for your understanding! \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY \n10007 \nEFTA00016765",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reproduce \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Items to Reproduce \nDate: Fri, IS Dee 2020 18:52:43 +0"
+      },
+      {
+        "name": "Reproduce \nThanks",
+        "role": "extracted",
+        "context": "'4\n>; \nSubject: Re: Items to Reproduce \nThanks you so much for catching that"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "defense counsel and the MDC. \nOn Dec 18, 2020, at 11:36 AM, \nHi al"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "much for your understanding! \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY \n10007 \nEFTA00016765"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Fri, IS",
+        "type": "city"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-18",
+        "event": "December 18, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.334Z"
+}

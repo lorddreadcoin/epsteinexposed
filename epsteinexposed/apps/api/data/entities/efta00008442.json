@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00008442",
+    "filename": "EFTA00008442.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 5\\VOL00005\\IMAGES\\0001\\EFTA00008442.pdf",
+    "text": "\n\n90A\n-NY \n4151227 \n1B42 \n08/2112019 \nNYC023597\n   \nPC \nMASTER \nCC°Y \nOne \nFEllaaned \nMeade \n218 \nMara \nDrat \n0i \nlo3i \nIJPK3EADP09. \nSm \nS9GMOPIF \nParsons; \nthe \nveined \nE01 \nmaces \nNYC023589 \nt1812) \ntr/C02359311816) \nNYC023594 \n!SIN \nAna \nNrC0235g5, \nletat \nEFTA00008442",
+    "pageCount": 1,
+    "dataset": "Dataset 5"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ellaaned \nMeade",
+        "role": "extracted",
+        "context": "7\n   \nPC \nMASTER \nCC°Y \nOne \nFEllaaned \nMeade \n218 \nMara \nDrat \n0i \nlo3i \nI"
+      },
+      {
+        "name": "Mara \nDrat",
+        "role": "extracted",
+        "context": "One \nFEllaaned \nMeade \n218 \nMara \nDrat \n0i \nlo3i \nIJPK3EADP09. \nSm"
+      },
+      {
+        "name": "Ana \nNr",
+        "role": "extracted",
+        "context": "2359311816) \nNYC023594 \n!SIN \nAna \nNrC0235g5, \nletat \nEFTA00008442"
+      }
+    ],
+    "locations": [
+      {
+        "name": "SIN",
+        "type": "airport"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:38.556Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00015285",
+    "filename": "EFTA00015285.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015285.pdf",
+    "text": "\n\nFrom: \"Blase, Nicholas (USANYS)\" \nTo: USANY \nUSANYS \nCc: (USANYS) [Contractor]\" \nSubject \nDate: Tue, 08 Oct 2019 17:02:59 +0000 \nApparently just completed a conference call with the media. In the call, she stated that the FBI has located Ghislaine \nMaxwell and an arrest and/or charges are imminent (citing a looming statutory deadline). \nShe also stated that two meetin s with law enforcement have been held with victims, one in NYC \nand one in Florida. \nNicholas Biase \nPublic Affairs \nUnited States Department of Justice \nEFTA00015285",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subject \nDate",
+        "role": "extracted",
+        "context": "Cc: (USANYS) [Contractor]\" \nSubject \nDate: Tue, 08 Oct 2019 17:02:59 +0"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "ated that the FBI has located Ghislaine \nMaxwell and an arrest and/or charges"
+      },
+      {
+        "name": "Nicholas Biase",
+        "role": "extracted",
+        "context": "in NYC \nand one in Florida. \nNicholas Biase \nPublic Affairs \nUnited State"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "in Florida. \nNicholas Biase \nPublic Affairs \nUnited States Department of"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.371Z"
+}

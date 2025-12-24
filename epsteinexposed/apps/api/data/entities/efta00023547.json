@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023547",
+    "filename": "EFTA00023547.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023547.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n\"> \nSubject: Scanning Project Index \nDate: Mon, 21 Sep 2020 22:27:25 +0000 \nAttachments: Maxwell_Project_Inventory_List.xlsx \nHi, \nsent over a \npreliminary \nindex of the materials. I've attached it here. \n• \nParalegal Specialist \nU.S. Attorney's Office I SONY \nEFTA00023547",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scanning Project",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \n\"> \nSubject: Scanning Project Index \nDate: Mon, 21 Sep 2020"
+      },
+      {
+        "name": "Index \nDate",
+        "role": "extracted",
+        "context": "\"> \nSubject: Scanning Project Index \nDate: Mon, 21 Sep 2020 22:27:25 +0"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "s. I've attached it here. \n• \nParalegal Specialist \nU.S. Attorney's Office I SON"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.149Z"
+}

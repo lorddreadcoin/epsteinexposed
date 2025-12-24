@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013877",
+    "filename": "EFTA00013877.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013877.pdf",
+    "text": "\n\nFrom: \nTo: Roy BLACK <RBLACK@royblack.com>, Jack Goldberger <jgoldberger®agwpa.com> \nCc: \nBce: \nSubject: Jeffrey Epstein \nDate: Thu, 26 Jun 2008 15:16:04 +0000 \nImportance: Normal \nDear Roy and Jack: \nI have been reviewing the deferred prosecution agreement and wanted to remind you that the agreement states: \n\"Epstein shall provide to the U.S. Attorney's Office copies of all proposed agreements with the State Attorney's \nOffice prior to entering into those agreements.\" Please provide me with any proposed agreements at your \nearliest opportunity, and also please provide me with the date and time of the change of plea. \nThank you. \nEFTA00013877",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "rger <jgoldberger®agwpa.com> \nCc: \nBce: \nSubject: Jeffrey Epstein \nDate: Thu, 26 Jun 2008 15:16:04 +0000 \nImportanc"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "BLACK <RBLACK@royblack.com>, Jack Goldberger <jgoldberger®agwpa.com> \nCc:"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "8 15:16:04 +0000 \nImportance: Normal \nDear Roy and Jack: \nI have been re"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "proposed agreements with the State Attorney's \nOffice prior to entering i"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.627Z"
+}

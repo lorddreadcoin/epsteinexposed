@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00015852",
+    "filename": "EFTA00015852.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015852.pdf",
+    "text": "\n\nFrom: ' \nci\nTo: (USANYS)\"  \nSubject: RE: / Epstein \nDate: Wed, 02 Oct 2019 19:57:15 +0000 \nSounds good, thanks. I'll come by then. \nFrom: (USANYS) \nSent: Wednesday, October 2, 2019 3:53 PM \nTo: \nSubject: Re: / Epstein \n415? \nSent from my iPhone \nOn Oct 2, 2019, at 3:52 PM, \nYes, is now a good time for me to swing by? \nFrom: (USANYS) \nSent: Wednesday, October 2, 2019 3:39 PM \nTo: \nSubject: FW: /  Epstein \nHey, can you find me to discuss today? \nFrom: Bourtin, Nicolas \nSent: Wednesday, October 2, 2019 3:10 PM \nTo: \n(USANYS) < \nCc: Levin, Sharon Cohen < \nSubject: RE: / Epstein \nwrote: \nSorry to press. I know you haven't had this long. The AML folks atMare anxious to close these accounts unless the \ngovernment requests that we not do so, and they asked me to check in. If there's someone on the team you'd rather I \nharass, let me know. \nThanks. \nNit \nFrom: Bourtin, Nicolas \nSent: Tuesday, October 01, 2019 9:31 PM \nTo: (USANYS)' \nCc: Levin, Sharon Cohen \nSubject: RE: / Epstein \n> \nMany thanks. \nEFTA00015852\n\nFrom: (USANYS) \nSent: Tuesday, October 01, 2019 7:45 PM \nTo: Bourtin, Nicolas \nCc: Levin, Sharon Cohen\nSubject: [EXTERNAL] Re: / Epstein \nThanks very much, Nic. I will discuss with the team and I or one of them will get back to you. \nBest, \n: \nSent from my iPhone \nOn Oct 1, 2019, at 7:20 PM, Bourtin, Nicolas . \nit> \nwrote: \nAs I mentioned last night, attached is a SAR that filed today in connection with persons \nassociated with Jeffrey Epstein. The bank would like to close all of the accounts of the entities named \nin the SAR as soon as possible. (The current balance on those accounts is approximately $30 million.) \nBefore doing so, the bank wanted to make your office aware of these accounts in case the government \nintends to take any action. \nPlease advise once you've had a chance to consider. \nMany thanks. \nNic \nNicolas Bourtin I Sullivan & Cromwell LLP \n125 Broad Street I New York, NY 10004.2498 \nThis e-mail is sent by a law firm and contains information that may be privileged and \nconfidential. If you are not the intended recipient, please delete the e-mail and notify us \nimmediately. \n<TD Filed SAR 2019-43693.do.pdf> \n**This is an external message from: \n** \nEFTA00015853",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "today in connection with persons \nassociated with Jeffrey Epstein. The bank would like to close all of the accounts"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "o: (USANYS)\"  \nSubject: RE: / Epstein \nDate: Wed, 02 Oct 2019 19:57:15 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Epstein \n415? \nSent from my iPhone \nOn Oct 2, 2019, at 3:52 PM, \nYes"
+      },
+      {
+        "name": "Epstein \nHey",
+        "role": "extracted",
+        "context": "3:39 PM \nTo: \nSubject: FW: /  Epstein \nHey, can you find me to discuss t"
+      },
+      {
+        "name": "Nicolas \nSent",
+        "role": "extracted",
+        "context": "iscuss today? \nFrom: Bourtin, Nicolas \nSent: Wednesday, October 2, 2019 3"
+      },
+      {
+        "name": "Sharon Cohen",
+        "role": "extracted",
+        "context": "To: \n(USANYS) < \nCc: Levin, Sharon Cohen < \nSubject: RE: / Epstein \nwr"
+      },
+      {
+        "name": "Nit \nFrom",
+        "role": "extracted",
+        "context": "arass, let me know. \nThanks. \nNit \nFrom: Bourtin, Nicolas \nSent: Tues"
+      },
+      {
+        "name": "Nicolas \nCc",
+        "role": "extracted",
+        "context": "1, 2019 7:45 PM \nTo: Bourtin, Nicolas \nCc: Levin, Sharon Cohen\nSubject:"
+      },
+      {
+        "name": "Epstein \nThanks",
+        "role": "extracted",
+        "context": "hen\nSubject: [EXTERNAL] Re: / Epstein \nThanks very much, Nic. I will discus"
+      },
+      {
+        "name": "Nic \nNicolas",
+        "role": "extracted",
+        "context": "e to consider. \nMany thanks. \nNic \nNicolas Bourtin I Sullivan & Cromwell"
+      },
+      {
+        "name": "Broad Street",
+        "role": "extracted",
+        "context": "Sullivan & Cromwell LLP \n125 Broad Street I New York, NY 10004.2498 \nTh"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-10-02",
+        "event": "October 2, 2019"
+      },
+      {
+        "date": "2019-10-01",
+        "event": "October 01, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.631Z"
+}

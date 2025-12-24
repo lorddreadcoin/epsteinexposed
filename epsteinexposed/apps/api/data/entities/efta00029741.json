@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029741",
+    "filename": "EFTA00029741.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029741.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \niLeci \nCc: \n'\nble! > ' \nSubject: Fwd: US v Epstein \nDate: Sat, 10 Aug 2019 16:45:31 +0000 \nPlease copy Martin Weinberg and Reid Weingarten as his counsel for any notifications, and their email addresses \nare \nbelow. \nthank you, \nBegin forwarded message: \nFrom: ' \nDate: August 10, 2019 at 11:56:37 EDT \nTo: \"Miller, Michael\" - , \"Martin G. Weinberg\" >, \"Weingarten, \nReid\" \nCc: ' \nSubject: Re: US v Epstein \nEFTA00029741",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Leci \nCc",
+        "role": "extracted",
+        "context": "From: ' \nTo:\" \niLeci \nCc: \n'\nble! > ' \nSubject: Fwd: U"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ble! > ' \nSubject: Fwd: US v Epstein \nDate: Sat, 10 Aug 2019 16:45:31 +0"
+      },
+      {
+        "name": "Martin Weinberg",
+        "role": "extracted",
+        "context": "9 16:45:31 +0000 \nPlease copy Martin Weinberg and Reid Weingarten as his co"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "ease copy Martin Weinberg and Reid Weingarten as his counsel for any notifi"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.106Z"
+}

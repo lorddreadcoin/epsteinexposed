@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00013764",
+    "filename": "EFTA00013764.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013764.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Re: Epstein \nDate: Fri, 07 Dec 2007 22:08:19 +0000 \nImportance: Normal \nHold the letter \nSent from my BlackBerry Wireless Handheld \nOriginal Messa \nFro \nTo: \nSent: Fri Dec 07 17:05:56 2007 \nSubject: Epstein \nHello —  Any word? Am I free to send out the victim notification letter? And, is it alright to send copies of the victim \nnotification letter to Mr. Josefsberg? \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013764",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Josefsberg",
+        "role": "extracted",
+        "context": "ictim \nnotification letter to Mr. Josefsberg? \nAssistant U.S. Attorney"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Re: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Re: Epstein \nDate: Fri, 07 Dec 2007 22:08:19 +0"
+      },
+      {
+        "name": "Normal \nHold",
+        "role": "extracted",
+        "context": "7 22:08:19 +0000 \nImportance: Normal \nHold the letter \nSent from my Blac"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "the letter \nSent from my BlackBerry Wireless Handheld \nOriginal Messa \nFro"
+      },
+      {
+        "name": "Handheld \nOriginal",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \nOriginal Messa \nFro \nTo: \nSent: Fri De"
+      },
+      {
+        "name": "Messa \nFro",
+        "role": "extracted",
+        "context": "y Wireless Handheld \nOriginal Messa \nFro \nTo: \nSent: Fri Dec 07 17:05:"
+      },
+      {
+        "name": "Fri Dec",
+        "role": "extracted",
+        "context": "iginal Messa \nFro \nTo: \nSent: Fri Dec 07 17:05:56 2007 \nSubject: Ep"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "ec 07 17:05:56 2007 \nSubject: Epstein \nHello —  Any word? Am I free to sen"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013764"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.345Z"
+}

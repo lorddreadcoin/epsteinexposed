@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00014655",
+    "filename": "EFTA00014655.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014655.pdf",
+    "text": "\n\nFrom: ' \nTo: Laura Mennin er \n(USANYS)\" < \n, Jeff \nPagliuca \nCc: ' \n(USANYS) [Contractor]\" \nSubject: RE: US v. Maxwell, 20 Cr. 330 (AJN) \nDate: Sat, 20 Nov 2021 21:52:41 +0000 \nAttachments: 2021.11.20_Maxwell_Discovery_Letter_-_Con-ected.pdf \nLaura, \nI'm attaching a corrected cover letter for the discovery production. The letter inadvertently listed SDNY_GM_02774195 \ninstead of SDNY_GM_02774105. We have sent a hard drive to your office in Colorado (the FedEx tracking number is 8166 \n1429 9380). We have also sent a hard drive to your client at the MDC via FedEx. The tracking number for the drive is \n8166 1445 3318, and the tracking number for the password is 8166 1445 3307. We are leaving a hard drive at our office \nfor pickup under Chris's name. \nWe have uploaded the production except for SDNY_GM_02774100-SDNY_GM_02774104 to USAfx. We could not upload \nSDNY_GM_02774100-SDNY_GM_02774104 due to size limitations. The materials have been added to the same USAfx \nproduction folder shared with you earlier today. \nThanks, \nFrom: Laura Menninger 4\nSent: Saturday, November 20, 2021 4:17 PM \nTo: (USANYS) \nPagliuca <=\n> \nCc: \n(USANYS) [Contractor] < \nSubject: [EXTERNAL] RE: US v. Maxwell, 20 Cr. 330 (AJN) \nA second question for you —  the discovery letter appears to skip bates numbers 2774105-2774194. \nJeff \nCan you please confirm whether that was intentional or let us know what additional documents are contained in that \nrange? \nThank you, \nLaura \nFrom: (USANYS) \nSent: Saturday, November 20, 2021 12:53 PM \nTo: Laura Menninger .; Jeff Pagliuca \nCc: \n(USANYS) (Contractor] \nEFTA00014655\n\n> \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) \nCounsel, \nWe have an additional discovery production ready to send to you. Attached please find the accompanying cover letter. \nThat will be produced on a hard drive to you. In addition, a supplemental production of testifying witness and non-\ntestifying witness material and exhibits are also ready to send to you. Attached please find the accompanying cover letter \nand indices. Those materials will be on the hard drive as well. We will also produce the testifying witness and non-\ntestifying witness material and exhibits via USAfx. \nPlease let us know if you would like to pick up the drive today or if you would like us to FedEx it (and if so, to where). \nPlease let us know if you would like us to send today via FedEx a hard drive with these materials to Ms. Maxwell at the \nMDC or bring the hard drive to court on Tuesday. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00014656",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "drive with these materials to Ms. Maxwell at the \nMDC or bring the"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "From: ' \nTo: Laura Mennin er \n(USANYS)\" < \n, Jeff \nPagl"
+      },
+      {
+        "name": "Jeff \nPagliuca",
+        "role": "extracted",
+        "context": "ura Mennin er \n(USANYS)\" < \n, Jeff \nPagliuca \nCc: ' \n(USANYS) [Contractor]"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "arlier today. \nThanks, \nFrom: Laura Menninger 4\nSent: Saturday, November 20"
+      },
+      {
+        "name": "Jeff \nCan",
+        "role": "extracted",
+        "context": "tes numbers 2774105-2774194. \nJeff \nCan you please confirm whether th"
+      },
+      {
+        "name": "Laura \nFrom",
+        "role": "extracted",
+        "context": "in that \nrange? \nThank you, \nLaura \nFrom: (USANYS) \nSent: Saturday, No"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "53 PM \nTo: Laura Menninger .; Jeff Pagliuca \nCc: \n(USANYS) (Contractor]"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "o court on Tuesday. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-20",
+        "event": "November 20, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.290Z"
+}

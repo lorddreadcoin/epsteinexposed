@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00019440",
+    "filename": "EFTA00019440.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019440.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: review project \nDate: Fri, 19 Nov 2021 16:06:47 +0000 \nAttachments: SDNY_GM_00405522.pdf; SDNY_GM_00405330.pdf; SDNY_GM_00405333.pdf; \nSDNY_GM_00405348.pdf; SDNY_GM_0040535 I .pdf \nOur intern MI reviewed these and confirmed that there are no records from the 1990s (all were from 2004 or 2005). \niand \nwere not mentioned, though the attached mentioned a with no last name provided. Let \nme know if you need anything further on this project. \nFrom \nSent: Sunday, November 14, 20217:05 PM \nTo: \nCc \nSubject: review project \nAre you able to ask another paralegal to review the flight records in these folders and let us know if there are any records \nfrom the 1990s? Or if any of the records name \nThanks! \nUsa.doj.gov\\ cloud \\ NYS \\ StAndrews \\Shared \\ USvEpstein-2018R01618 \\ Discovery \\GM Defense Rule 16 \nDisclosures V021.1.1.08 Defense Rule 16 Disclosure \\6. Flight Manifests \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019440",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: review proj"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: review project \nDate: Fr"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ing further on this project. \nFrom \nSent: Sunday, November 14, 20217:0"
+      },
+      {
+        "name": "Defense Rule",
+        "role": "extracted",
+        "context": "in-2018R01618 \\ Discovery \\GM Defense Rule 16 \nDisclosures V021.1.1.08 D"
+      },
+      {
+        "name": "Flight Manifests",
+        "role": "extracted",
+        "context": "efense Rule 16 Disclosure \\6. Flight Manifests \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "closure \\6. Flight Manifests \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t Manifests \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019440"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.896Z"
+}

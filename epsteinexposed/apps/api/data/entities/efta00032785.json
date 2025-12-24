@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00032785",
+    "filename": "EFTA00032785.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032785.pdf",
+    "text": "\n\nFrom: \nTo:' \nSubject: RE: Request for Assistance - United States v. Maxwell \nDate: Fri, 23 Apr 2021 19:35:13 +0000 \nGood afternoon, \nFollowing up on the below, is there a time when you would be available for a call, please? \nThank you, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Monday, April 19, 2021 2:37 PM \nTo: \nSubject: Request for Assistance - United States v. Maxwell \nGood afternoon, \nI am one of the federal prosecutors handling the prosecution of Jeffrey Epstein's co-conspirator, Ghislaine Maxwell, in the \nSouthern District of New York under case caption United States v. Maxwell, 20 Cr. 330 (AJN). and \nfrom the FBI provided me with your contact information and suggested you may be able to assist our team in contacting \ncurrent and former employees of the Palm Beach Police Department who may need to testify at the upcoming trial in our \ncase. In particular, our team expects to introduce evidence gathered during the PBPD's investigation of Epstein in 2005, \nprimarily from the search of Epstein's residence in October 2005, and we will need PBPD witnesses to authenticate that \nevidence. \nWould you be available for a call this week to discuss the particular witnesses we are hoping to contact, please? I can be \nreached any time on my cellphone at and am also happy to schedule a time that is convenient for a call. \nThank you very much for your help. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nSt. Andrew's Plaza \nNew York, NY 10007 \nEFTA00032785\n\nEFTA00032786",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "e federal prosecutors handling the prosecution of Jeffrey Epstein's co-conspirator, Ghislaine Maxwell, in the \nSout"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "prosecution of Jeffrey Epstein's co-conspirator, Ghislaine Maxwell, in the \nSouthern District of New York under case"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Assistance - United States v. Maxwell \nDate: Fri, 23 Apr 2021 19:35:13 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "a call, please? \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent:"
+      },
+      {
+        "name": "Maxwell \nGood",
+        "role": "extracted",
+        "context": "Assistance - United States v. Maxwell \nGood afternoon, \nI am one of the f"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "t and former employees of the Palm Beach Police Department who may nee"
+      },
+      {
+        "name": "Police Department",
+        "role": "extracted",
+        "context": "r employees of the Palm Beach Police Department who may need to testify at th"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-04-19",
+        "event": "April 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.481Z"
+}

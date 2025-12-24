@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029812",
+    "filename": "EFTA00029812.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029812.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\" \nalMIE> \nTo: '1.11 \nUSANYS)\" \nCc: \n(USANYS) \n[Contractor]\" \nSubject: GM \nDate: \nTue, 30 Jun 2020 15:28:21 +0000 \nAttachments: Jeffrey_Epstein_indictment_PR_FINAL.docx \n(USANYS)\" \nlust checking, is a draft release in the works? Let us know if you need any help. Attaching the final JE \nrelease if that's \nhelpful. \nThanks. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office 'Southern District of New York \nEFTA00029812",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "if that's \nhelpful. \nThanks. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office 'Southern District of New York \nEFTA00029812"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.286Z"
+}

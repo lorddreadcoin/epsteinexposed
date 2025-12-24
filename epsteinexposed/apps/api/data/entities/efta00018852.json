@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018852",
+    "filename": "EFTA00018852.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018852.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\"  \nTo: In(USANYS)\"  \nCc: (USANYS) \n[Contractor]\" \nSubject: RE: \nDate: Wed, 06 Oct 2021 20:26:32 +0000 \nAttachments: manifest.xlsx \n)\" \nAs discussed, I sorted the materials into either 3500 folder or 3500 folder. I've attached the manifest \nthat also included in the zip file, for your reference. Would you like that saved anywhere on the shared? \nFrom: (USANYS) [Contractor] \nSent: Wednesday, October 6, 2021 4:00 PM \nTo: \n(USANYS) c \nCc: (USANYS) [Contractor] < \nSubject: RE: \nHey - would you like me to save this on the shared somewhere? Thanks! \nFrom: \nSent: Wednesday, October 6, 2021 3:53 PM \nTo: \nCc: \nSubject: RE: \n(USANYS) \n'; \n(USANYS) [Contractor] \n<\nCan you see if this will open for you? If not, can you send me a link to upload to USAfx? \nThanks, \nFrom: (USANYS) \nSent: Wednesday, October 6, 2021 3:41 PM \nTo: (NY) (FBI) <a; \nCc: \n(NYPD) \nfl; \nSubject: [EXTERNAL EMAIL] - RE: \n(USANYS) [Contractor] <a \nThanks, Unfortunately the zip seems to be empty? I'm copying . Can you try resending to her? Or she can \nset you up with USAfx? Thanks! \nFrom: \nSent: Wednesday, October 6, 2021 2:50 PM \nTo: (USANYS) \nCc: \nSubject: \nlAs you requested are attached. \nEFTA00018852\n\nSpecial Agent \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nEFTA00018853",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "are attached. \nEFTA00018852\n\nSpecial Agent \nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nEFT"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk: \nEFTA00018853"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-06",
+        "event": "October 6, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.809Z"
+}

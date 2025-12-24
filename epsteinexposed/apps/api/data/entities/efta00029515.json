@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00029515",
+    "filename": "EFTA00029515.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029515.pdf",
+    "text": "\n\nSubject: RE: US v. Epstein - Status Hearing Notification \nDate: Thu, 01 Aug 2019 21:24:47 +0000 \nAttachments: JBAGOYO_20190726095441587_DRAFT.pdf; \nJBAGOYO_20190719165055822_DRAFT.pdf \nHi so, I was the one editing the letters... \nAttached are the 2 previous notifications for this case that were sent to the Victims and they both don't those edits you \nrequested. \nFrom: \nSent: Thursday, August 01, 2019 5:01 PM \nTo: \nSubject: RE: US v. Epstein - Status Hearing Notification \n=, \nThanks. has been able to edit the previous letters, so it might be worth checking with her to see how she was able \nto do that. \nThanks, \nFrom: \nSent: Thursday, August 1, 20194:45 PM \nTo: E)'; \nSubject: RE: US v. Epstein - Status Hearing \nNotification \nThanks . Attached is the updated version. I'm sorry but I could only update the hearing information. The other edits \ncan't be done due to the template in VNS which can't be changed. Frustrating I know, but I did my best to make it look \ndecent. Let me know if I can send it out. Thanks and sorry again! \nFrom: \nSent: Thursday, August 01, 2019 4:24 PM \nTo: \nSubject: RE: US v. Epstein - Status Hearing Notification \nM, \nThanks. A few things: \nEFTA00029515\n\n• In the case caption, please delete \"defendant(s),\" so that it does not read \"defendant(s) Jeffrey Epstein\". I'm not \nsure if that's the form language, but it looks like a typo. \n• Regarding the hearing information, there are several other court dates. I'll forward you the scheduling order so \nthat you can add them. \n• Please swap out this language: \nBecause of the Court's schedule, hearing dates could change on very short notice. If you plan on attending, \nyou may want to call the VNS Call Center or check the website to confirm the date and time. Please note, \nthere is a 24-hour delay in information transfer to the website. \nAnd replace it with this language: \nIf you plan on attending, please call me at in case there are any last minute changes. \nThanks! \nFrom: \nSent: Thursday, August 1, 2019 4:11 PM \nTo: \nSubject: US v. Epstein - Status Hearing Notification \nHi there, attached is a status hearing notification which showed up on VNS today for this case. Did you want me to send it \nout? Thank you. \nVictim-Witness Assistant \nU.S. Attorney's Office —  SDNY \n1 St. Andrews Plaza \nNew York, NY 10007 \nOffice: \nEFTA00029516",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ndant(s),\" so that it does not read \"defendant(s) Jeffrey Epstein\". I'm not \nsure if that's the form language, but"
+      },
+      {
+        "name": "Status Hearing",
+        "role": "extracted",
+        "context": "Subject: RE: US v. Epstein - Status Hearing Notification \nDate: Thu, 01 A"
+      },
+      {
+        "name": "Notification \nDate",
+        "role": "extracted",
+        "context": "S v. Epstein - Status Hearing Notification \nDate: Thu, 01 Aug 2019 21:24:47 +0"
+      },
+      {
+        "name": "Notification \nThanks",
+        "role": "extracted",
+        "context": "v. Epstein - Status Hearing \nNotification \nThanks . Attached is the updated ver"
+      },
+      {
+        "name": "Call Center",
+        "role": "extracted",
+        "context": "you may want to call the VNS Call Center or check the website to confi"
+      },
+      {
+        "name": "Notification \nHi",
+        "role": "extracted",
+        "context": "S v. Epstein - Status Hearing Notification \nHi there, attached is a status h"
+      },
+      {
+        "name": "Witness Assistant",
+        "role": "extracted",
+        "context": "d it \nout? Thank you. \nVictim-Witness Assistant \nU.S. Attorney's Office —  SD"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "orney's Office —  SDNY \n1 St. Andrews Plaza \nNew York, NY 10007 \nOffice:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-01",
+        "event": "August 01, 2019"
+      },
+      {
+        "date": "2019-08-01",
+        "event": "August 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.578Z"
+}

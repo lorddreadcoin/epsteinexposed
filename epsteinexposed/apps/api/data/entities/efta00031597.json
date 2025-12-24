@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031597",
+    "filename": "EFTA00031597.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031597.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nalMIE> \nTo: '   II II \n(USANYS)\" \nCc: (USANYS) [Contractor]\" <=1=IMINE> \nSubject: Judge Rules on Redactions to Filing in Ghislaine Maxwell Case \nDate: Fri, 19 Mar 2021 01:41:46 +0000 \nhftps://lawandcrime.corrithigh-profile/judge-rules-some-ghislaine-maxwell-details-are-too-sensational-and-\nimpure-to-be-revealed-to-the-public/ \nSent from my iPhone \nEFTA00031597",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Subject: Judge Rules on Redactions to Filing in Ghislaine Maxwell Case \nDate: Fri, 19 Mar 2021 01:41:46 +0000 \nhftp"
+      },
+      {
+        "name": "Judge Rules",
+        "role": "extracted",
+        "context": "ractor]\" <=1=IMINE> \nSubject: Judge Rules on Redactions to Filing in Gh"
+      },
+      {
+        "name": "Case \nDate",
+        "role": "extracted",
+        "context": "o Filing in Ghislaine Maxwell Case \nDate: Fri, 19 Mar 2021 01:41:46 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.487Z"
+}

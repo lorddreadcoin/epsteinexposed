@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029019",
+    "filename": "EFTA00029019.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029019.pdf",
+    "text": "\n\nFrom: \"I\nTo: \"I\nCc: \"I \n(USANYS)\"  \n)is \nSubject: Re: JE FOIA review in SDNY \n(?) \nDate: Wed, 12 Jun 2019 12:02:20 +0000 \nImportance: Normal \nHow did we find out about this? \nSent from my iPhone \nOn \nJun 11, 2019, at 10:27 PM, (USANYS) > wrote: \nChecking \nSent from my iPhone \nOn Jun \n11, 2019, at 10:14 PM, \n) \n> wrote: \nWe heard second-hand from a colleague that our civil division is processing a FOIA request relating to the Epstein \ninvestigation (but unclear on specifics). Obviously this is the first we've heard of it, and understandable that there \nwouldn't be cross-communication since the criminal investigation is still covert (and not widely known even among \nassistants), but it still is a little puzzling in terms of why such a review would be venued here. Do you who the right \nperson would be in civil to ask about FOIA processes there? We're happy to reach out if that's appropriate, or if you \nprefer to do it at the supervisor level certainly no objection from us. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00029019",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nHow",
+        "role": "extracted",
+        "context": "9 12:02:20 +0000 \nImportance: Normal \nHow did we find out about this?"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ut about this? \nSent from my iPhone \nOn \nJun 11, 2019, at 10:27 PM, ("
+      },
+      {
+        "name": "Checking \nSent",
+        "role": "extracted",
+        "context": "10:27 PM, (USANYS) > wrote: \nChecking \nSent from my iPhone \nOn Jun \n11, 2"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "us. \nthanks, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.630Z"
+}

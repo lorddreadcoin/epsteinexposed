@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027374",
+    "filename": "EFTA00027374.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027374.pdf",
+    "text": "\n\nFrom' \nTo: \nCc\nSubject: Re: SDNY investigation \nDate: Thu, 11 Jul 2019 18:52:58 +0000 \nGood Afternoon Mr. & Ms.= \nWe have never spoke directly. I have been told by my attorney I can speak to you since you are consider law \nenforcement. You emailed my attorney Mr. Robert Lewis. I am writing you to please do not under estimate Mr. \nEpstein's ability to leave the country as he is asking for bail. Mr. Epstein has an apartment in Paris and he has \nfriends that have the private means of getting him out of the country. I am not saying this is going to happen, \nbut I know first hand that Mr. Epstein is like a family member to my former employer. He is the godfather to \ntheir children and they will help him and vice versa. They call him uncle \"F.\" Since this situation is now extreme \nthere is no telling how much pressure Mr. Epstein might put on them to help him. As they say, \"they do favors \nfor each other,\" and this goes as far as giving each other money when needed as well as the use of their private \nplanes and cars. \nEFTA00027374",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Robert Lewis",
+        "role": "extracted",
+        "context": "ment. You emailed my attorney Mr. Robert Lewis. I am writing you to plea"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "please do not under estimate Mr. \nEpstein's ability to leave the c"
+      },
+      {
+        "name": "Cc\nSubject",
+        "role": "extracted",
+        "context": "From' \nTo: \nCc\nSubject: Re: SDNY investigation \nDate"
+      },
+      {
+        "name": "Good Afternoon",
+        "role": "extracted",
+        "context": ", 11 Jul 2019 18:52:58 +0000 \nGood Afternoon Mr. & Ms.= \nWe have never spo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.111Z"
+}

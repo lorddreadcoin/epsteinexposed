@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00019926",
+    "filename": "EFTA00019926.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019926.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo:'\nr \n<1 \nSubject: RE: GM - Letter re Warden \nDate: Tue, 01 Dec 2020 20:15:35 +0000 \nAttachments: 2020-12-01_GMJetter_regarding_defense_request_re_MDC_warden_v1.docx \nPO \nI'm back at my desk. I can send this along to the chiefs. I just added quotes around her statement in the attached. If you \nhave something else in mind, let me know! \nFrom: \nSent: Tuesday, December 01, 2020 1:38 PM \nTo: \n) \nSubject: RE: GM - Letter re Warden \nAgree with your proposal, . Otherwise nothing from me. Thanks very much. \nFrom: \nsc> \nSent: Tuesday, December 1, 2020 1:27 PM \nTo: (USANYS) \nCc: \nSubject: Re: GM - Letter re Warden \nSure, no problem any comments? \nSent from my iPhone \n(USANYS) .ca \nOn Dec 1, 2020, at 1:20 PM, (USANYS) \n< \n> wrote:\nIf you guys want to make any edits you like and then send to the chiefs, that's fine with me. I'm not sure when I'll be \ndone here \nOn Dec 1, 2020, at 12:48 PM, <> wrote: \nHi M, \nThanks so much for drafting — I think my only suggestion would be to tweak the language a little bit to make it more \nobvious that the language from Bobbi is a direct quote from them/ that they wrote it (and that we aren't just \ncharacterizing their view). \nThanks! \nFrom: (USANYS) \nSent: Tuesday, December 1, 202012:45 PM \nTo:I\nSubject: GM - Letter re Warden \n1S; \nHi —  I didn't have as much time to work on this as I had hoped before I have to leave the office, but wanted to get the \ndraft circulating. Sorry about that. Please feel free to edit as much as you like. Saved in the correspondence folder, \nand attached. \nEFTA00019926\n\nThanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00019927",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Warden \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: GM - Letter re Warden \nDate: Tue, 01 Dec 2020 20:15:35 +0"
+      },
+      {
+        "name": "Warden \nAgree",
+        "role": "extracted",
+        "context": "Subject: RE: GM - Letter re Warden \nAgree with your proposal, . Otherwi"
+      },
+      {
+        "name": "Warden \nSure",
+        "role": "extracted",
+        "context": "Subject: Re: GM - Letter re Warden \nSure, no problem any comments? \nSe"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "from my iPhone \n(USANYS) .ca \nOn Dec 1, 2020, at 1:20 PM, (USANYS)"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "d. \nEFTA00019926\n\nThanks, \nM \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-01",
+        "event": "December 01, 2020"
+      },
+      {
+        "date": "2020-12-01",
+        "event": "December 1, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.875Z"
+}

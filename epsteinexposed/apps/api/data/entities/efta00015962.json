@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00015962",
+    "filename": "EFTA00015962.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015962.pdf",
+    "text": "\n\nEvent: Tentative: Epstein NY property \nStart Date: 2020-07-16 17:30:00 +0000 \nEnd Date: 2020-07-16 18:00:00 +0000 \nLocation: Skype Meeting; Conference ID: 612 758 867; \nClass: X-PERSONAL \nComment: \nDate Created: 2020-07-16 16:33:58 +0000 \nDate Modified: 2020-07-16 16:33:58 +0000 \nPriority: 5 \nDTSTAM P: 2020-07-16 15:59:36 +0000 \nAttendee \nEFTA00015962",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "ntative: Epstein NY property \nStart Date: 2020-07-16 17:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-07-16 17:30:00 +0000 \nEnd Date: 2020-07-16 18:00:00 +0000 \nL"
+      },
+      {
+        "name": "Skype Meeting",
+        "role": "extracted",
+        "context": "-16 18:00:00 +0000 \nLocation: Skype Meeting; Conference ID: 612 758 867;"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-07-16 16:33:58 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-07-16 16:33:58 +0000 \nDate Modified: 2020-07-16 16:33:58 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-16",
+        "event": "2020-07-16"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.854Z"
+}

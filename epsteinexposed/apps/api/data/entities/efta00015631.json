@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00015631",
+    "filename": "EFTA00015631.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015631.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Deutsche! \nDate: Thu, 11 Jul 2019 01:50:31 +0000 \nImportance: Normal \nDid I call it or did I call it \nhttps://www.nytimes.com/2019/07/10/business/jeffrey-epstein-net-worth.html \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00015631",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nDid",
+        "role": "extracted",
+        "context": "9 01:50:31 +0000 \nImportance: Normal \nDid I call it or did I call it \nh"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "et-worth.html \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.112Z"
+}

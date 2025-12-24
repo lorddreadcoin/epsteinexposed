@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00016800",
+    "filename": "EFTA00016800.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016800.pdf",
+    "text": "\n\n28 July 2(319 \nVictim/Witness Coordinator \nUnited States Attorney's Office \nOne St. Andrew's Plaza \nNew Y rk N w York \n10007 \nRe: United \nStates vs. Jeffrey Epstein [19 Cr. 490 (RMB)] \nDear Ms. \nEnclosed, \nplease find a photograph I believe may be of Jeffrey Epstein with an underage female. \nI took the photo across from St. Patrick's \nCathedral, on the same corner as the couple. I took the \nphoto because the woman seemed to be underage \nand seemed romantically linked to the older man. \nThe pair were walking closely together \n-he was holding a small Victoria's Secret boutique bag in his \nhand. I was concerned for the well-being of the girl. To me, she seemed to be \nbetween fourteen and \nsixteen years of age. \nAt the time I took the photo, I had not heard of Jeffrey Epstein. On the following Monday, I read \nabout Mr. Epstein's arrest. I am submitting it for your own analysis and review. \nThe photo was \ntaken on the corner of %1st St and stn Ave at \nOlympic Tower on 7 June 2019 at \n6:46PM. \nI hope it may be of help —also in ending trafficking and abuse, especially as pertains to minors. I \napologise for the delay in submitting it —  I was unsure of where to send it. \nSincerely, \nM. Rachel \nZabala \nEFTA00016800\n\nEFTA00016801\n\nEFTA00016802",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "New Y rk N w York \n10007 \nRe: United \nStates vs. Jeffrey Epstein [19 Cr. 490 (RMB)] \nDear Ms. \nEnclosed, \nplease f"
+      },
+      {
+        "name": "Enclosed",
+        "role": "extracted",
+        "context": "tein [19 Cr. 490 (RMB)] \nDear Ms. \nEnclosed, \nplease find a photogra"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "llowing Monday, I read \nabout Mr. Epstein's arrest. I am submitting"
+      },
+      {
+        "name": "Witness Coordinator",
+        "role": "extracted",
+        "context": "28 July 2(319 \nVictim/Witness Coordinator \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nOne",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nOne St. Andrew's Plaza \nNew Y rk"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ey's Office \nOne St. Andrew's Plaza \nNew Y rk N w York \n10007 \nRe: Uni"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "New Y rk N w York \n10007 \nRe: United \nStates vs. Jeffrey Epstein [19 Cr. 4"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "y Epstein [19 Cr. 490 (RMB)] \nDear Ms. \nEnclosed, \nplease find a ph"
+      },
+      {
+        "name": "Olympic Tower",
+        "role": "extracted",
+        "context": "er of %1st St and stn Ave at \nOlympic Tower on 7 June 2019 at \n6:46PM. \nI"
+      },
+      {
+        "name": "Rachel \nZabala",
+        "role": "extracted",
+        "context": "e to send it. \nSincerely, \nM. Rachel \nZabala \nEFTA00016800\n\nEFTA00016801"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-07",
+        "event": "7 June 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.404Z"
+}

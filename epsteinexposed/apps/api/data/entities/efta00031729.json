@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031729",
+    "filename": "EFTA00031729.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031729.pdf",
+    "text": "\n\nFrom: \nSubject: Letter \nDate: Tue, 30 Nov 2021 23:53:25 +0000 \nAttachments: 2021-11-XXSJM   letter re exhibits v2.docx \nHere's the letter due at 9. None of the team has reviewed, since everyone is in preps now. \nI also have witness prep from 7 to 8:30, but I can end it whenever you've had a chance to look at this. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00031729",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "From: \nSubject: Letter \nDate: Tue, 30 Nov 2021 23:53:25 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ce to look at this. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.720Z"
+}

@@ -1,0 +1,118 @@
+{
+  "document": {
+    "id": "efta00005774",
+    "filename": "EFTA00005774.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00005774.pdf",
+    "text": "\n\nNys \nc \n22r \nAtanny \nve.4 \n1-\n11\n7‘ \nat-f\n-\nAimecss\n-\ne7y) \n/A17/ \nN \ns \n.5SAL' \na\num\n. \nEFTA00005774\n\nDMV \nPhoto \nSubject \nInformation \nName: \nClientiD: \nCase Number: SI \nDMV Transaction Number: 1069006 \nDMV Transaction Date/Time: 2019-06-05 18:36:18:690 \nEFTA00005775\n\nLast \nupdated: \n01108/2017 \nRequest \nfor \nNYS \nDMV P \nOTO \nIMAGE \nTo: \nNew \nYork Ops \nCenter \n(NYOC) \n[office: \n212-384-2921; \nfax: 212-384-4073 \nor 4074) \nRequestor Email: \nSq \nt ad: e--; \n1) Name & \nRank of \nRequestor. \nMUST \nbe Special \nAgent or other 3, \n2) Name & \nRank of \nSupervisor: \nMUST be \nSupervisory \nSpecial Agent \nor of \n3) Subject Name: \n4) \nDMV Client ID # (Nine Digits): \nIf nn \nClient \nID \navailable, include Subject's D rB \nrole one): \nant \nInvestigation \nWitness Investigation \n6) Exigent Circums ances (if \napplicable)*: \nComments \nIr***sh*******—Ir \n--n.freevisac \ne support \npersonnel \nMissing Person Investigation \n7) Case \nnumber: \n8) \nPhone number of Requestor: \nThe \nrequestor acknowledges that the \nmquested image cannot be used \nas filjgg in a phot \nin an any if the \nsubject of the DMV photo is \nthe subject in the photo array. \nA new request \nunrelated \ncriminal \ninvestigation. The digital \nimage obtained \nwill not be saved \nin a database \nsubsequent \nuse unrelated to \nthe original investigation. \nI \nhereby certify that the above\n-requested DMV Photo Image b \nrelevant to as a \nmy knowledge, the \nsubject of interest \npossesses a \ndriver's II e, learner's \npermit or non \nNew \nYork \nState \nDA J \nand \nacknowledge \nhat I \nr oat was for an \nhope \nature) \nDate \n*When the \nexigent circumstances exception \napplies, the \"Comments\" section \nmust identify the t \nurgency. In \naddition, the \"Request \nfor DNS/ Photo Imago —  Exigent \nCncwmtances\" form must \nrequesting \nagency. \n1' \nit. \nInvestigation and that, to the best of \n;river \nidenttlleatIon card \nissued the \n1 \n... Me \njurrpose \nI may \nbe \nsubject to \ny, the OW \nphoto may only be used \nr a \nphoto image \nmust be made \nfor any \nstored in \nany manner \nfor \nsecondary or \n/,\nf \ninvestigation and \nexplain the \npitted and \nretained by the \nEFTA00005776\n\nEFTA00005777\n\nEFTA00005778\n\nEFTA00005779\n\nEFTA00005780\n\nEFTA00005781\n\nEFTA00005782",
+    "pageCount": 9,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Photo \nSubject",
+        "role": "extracted",
+        "context": "' \na\num\n. \nEFTA00005774\n\nDMV \nPhoto \nSubject \nInformation \nName: \nClientiD"
+      },
+      {
+        "name": "Information \nName",
+        "role": "extracted",
+        "context": "0005774\n\nDMV \nPhoto \nSubject \nInformation \nName: \nClientiD: \nCase Number: SI"
+      },
+      {
+        "name": "Transaction Number",
+        "role": "extracted",
+        "context": "ientiD: \nCase Number: SI \nDMV Transaction Number: 1069006 \nDMV Transaction Dat"
+      },
+      {
+        "name": "Transaction Date",
+        "role": "extracted",
+        "context": "nsaction Number: 1069006 \nDMV Transaction Date/Time: 2019-06-05 18:36:18:690"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "NYS \nDMV P \nOTO \nIMAGE \nTo: \nNew \nYork Ops \nCenter \n(NYOC) \n[office:"
+      },
+      {
+        "name": "Ops \nCenter",
+        "role": "extracted",
+        "context": "P \nOTO \nIMAGE \nTo: \nNew \nYork Ops \nCenter \n(NYOC) \n[office: \n212-384-29"
+      },
+      {
+        "name": "Requestor Email",
+        "role": "extracted",
+        "context": "fax: 212-384-4073 \nor 4074) \nRequestor Email: \nSq \nt ad: e--; \n1) Name &"
+      },
+      {
+        "name": "Special \nAgent",
+        "role": "extracted",
+        "context": "Rank of \nRequestor. \nMUST \nbe Special \nAgent or other 3, \n2) Name & \nRank"
+      },
+      {
+        "name": "Supervisory \nSpecial",
+        "role": "extracted",
+        "context": "ank of \nSupervisor: \nMUST be \nSupervisory \nSpecial Agent \nor of \n3) Subject Name"
+      },
+      {
+        "name": "Subject Name",
+        "role": "extracted",
+        "context": "ory \nSpecial Agent \nor of \n3) Subject Name: \n4) \nDMV Client ID # (Nine D"
+      },
+      {
+        "name": "Nine Digits",
+        "role": "extracted",
+        "context": "t Name: \n4) \nDMV Client ID # (Nine Digits): \nIf nn \nClient \nID \navailab"
+      },
+      {
+        "name": "Investigation \nWitness",
+        "role": "extracted",
+        "context": "ject's D rB \nrole one): \nant \nInvestigation \nWitness Investigation \n6) Exigent Cir"
+      },
+      {
+        "name": "Exigent Circums",
+        "role": "extracted",
+        "context": "on \nWitness Investigation \n6) Exigent Circums ances (if \napplicable)*: \nCom"
+      },
+      {
+        "name": "Comments \nIr",
+        "role": "extracted",
+        "context": "ums ances (if \napplicable)*: \nComments \nIr***sh*******—Ir \n--n.freevisac"
+      },
+      {
+        "name": "Missing Person",
+        "role": "extracted",
+        "context": "evisac \ne support \npersonnel \nMissing Person Investigation \n7) Case \nnumbe"
+      },
+      {
+        "name": "Photo Image",
+        "role": "extracted",
+        "context": "that the above\n-requested DMV Photo Image b \nrelevant to as a \nmy knowl"
+      },
+      {
+        "name": "Photo Imago",
+        "role": "extracted",
+        "context": "ition, the \"Request \nfor DNS/ Photo Imago —  Exigent \nCncwmtances\" form"
+      },
+      {
+        "name": "Exigent \nCncwmtances",
+        "role": "extracted",
+        "context": "uest \nfor DNS/ Photo Imago —  Exigent \nCncwmtances\" form must \nrequesting \nagenc"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-05",
+        "event": "2019-06-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-384-2921",
+      "212-384-4073"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.165Z"
+}

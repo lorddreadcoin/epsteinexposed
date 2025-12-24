@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00018135",
+    "filename": "EFTA00018135.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018135.pdf",
+    "text": "\n\nFD-302 (Rev. 5-8-101 \n-1 of \nFEDERAL BUREAU OF INVESTIGATION \nDmcormn.  08/28/2019\nOn. August 16, 2019, at the Metropolitan Correctional Center (MCC) 150 \nPark Row, New York, NY, Special Agent (SA) , SA \nTFO \ninterviewed \n, OIG Investigator and MCC Lt. \nMCC Inmate After \nbeing advised of the identities of the agents and the purpose of the \ninterview, provided the following information: \nOn. Friday (August 09, 2019), was housed in. Cell III on \nof the Special Housing Unit within MCC. He received a visit from his \ngirlfriend, that day. He was suspected of receiving \ncontraband at the visit and was placed in the dry room for approximately 25 \nhours. was then moved to I  tier Cell III. \nlast day being housed in was Friday (August 9, 2019) \nprior to his visit. \nremembers that JEFFREY EPSTEIN would be in legal from \napproximately 9am to 9pm and he was housed in cell 220 in L Tier. \nFERNANEZ had no information regarding the death of EPSTEIN. \nimcmigaumicm \n08/16/2019 \nat \nNow \nYork, Now York, Untted Stator. (:n Person) \nFile# \nDatcdrMkd 08/19/2019 \nby  \nThis document contains neither recommendations nor conclusions or the FBI. It is the property of the FB1 and is loaned to your agency; it and its contents are not \nto be distributed outside your agency. \nEFTA00018135",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ust 9, 2019) \nprior to his visit. \nremembers that JEFFREY EPSTEIN would be in legal from \napproximately 9am to 9pm"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "9\nOn. August 16, 2019, at the Metropolitan Correctional Center (MCC) 150 \nPark Row, N"
+      },
+      {
+        "name": "Park Row",
+        "role": "extracted",
+        "context": "orrectional Center (MCC) 150 \nPark Row, New York, NY, Special Agent"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "150 \nPark Row, New York, NY, Special Agent (SA) , SA \nTFO \ninterviewed"
+      },
+      {
+        "name": "Inmate After",
+        "role": "extracted",
+        "context": "Investigator and MCC Lt. \nMCC Inmate After \nbeing advised of the identit"
+      },
+      {
+        "name": "Special Housing",
+        "role": "extracted",
+        "context": "oused in. Cell III on \nof the Special Housing Unit within MCC. He received"
+      },
+      {
+        "name": "Now \nYork",
+        "role": "extracted",
+        "context": "imcmigaumicm \n08/16/2019 \nat \nNow \nYork, Now York, Untted Stator. (:n"
+      },
+      {
+        "name": "Now York",
+        "role": "extracted",
+        "context": "m \n08/16/2019 \nat \nNow \nYork, Now York, Untted Stator. (:n Person)"
+      },
+      {
+        "name": "Untted Stator",
+        "role": "extracted",
+        "context": "019 \nat \nNow \nYork, Now York, Untted Stator. (:n Person) \nFile# \nDatcdrMk"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-28",
+        "event": "08/28/2019"
+      },
+      {
+        "date": "2019-08-16",
+        "event": "08/16/2019"
+      },
+      {
+        "date": "2019-08-19",
+        "event": "08/19/2019"
+      },
+      {
+        "date": "2019-08-16",
+        "event": "August 16, 2019"
+      },
+      {
+        "date": "2019-08-09",
+        "event": "August 09, 2019"
+      },
+      {
+        "date": "2019-08-09",
+        "event": "August 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.250Z"
+}

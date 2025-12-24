@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00028143",
+    "filename": "EFTA00028143.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028143.pdf",
+    "text": "\n\nFrom: \nSubject: 33216 \nEPSTEIN.PDF \nDate: \nWed, 09 Jan 2019 15:03:00 +0000 \nImportance: Normal \nAttachments: 33216 \nEPSTEIN.PDF \nWill \nput this on the share but \nhere is his NY Sex Offender \nRegistration. \nEFTA00028143",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 15:03:00 +0000 \nImportance: Normal \nAttachments: 33216 \nEPSTEIN.PDF \nWill \npu"
+      },
+      {
+        "name": "Sex Offender",
+        "role": "extracted",
+        "context": "the share but \nhere is his NY Sex Offender \nRegistration. \nEFTA00028143"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.711Z"
+}

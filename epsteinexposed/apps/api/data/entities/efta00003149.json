@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00003149",
+    "filename": "EFTA00003149.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003149.pdf",
+    "text": "\n\nOffice \nManager: \nHead \nAccountant: \nLSJE \nAccountant: \nSTC \nAccountant: \nIT \nManager: \nAdministration \nPhone/\nCecile \ndeJongh \nJeanne \nBrennan \nDaphne \nWallace \nUna \nPascal \nJennaine \nRuan \nSTC \nis \nthe \nAdministration \noffice \nfor \nLSJE \nwhich \ncontrols \nPurchasing, \nVendor \npay-\nments, \nExpense \ntracking, \nStaff \npayroll \nand \nContractor(s) \npayments. \nAttorney: \nProject \nManager: \nEstate \nManager: \nExecutive \nAssistant: \nIIBRK \nis... \nPhone \n/-Fax \nDarren \nIndyke. \nEsq. \nRichard \nKahn \nMark \nTollison \nEFTA00003149",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Office \nManager",
+        "role": "extracted",
+        "context": "Office \nManager: \nHead \nAccountant: \nLSJE \nAc"
+      },
+      {
+        "name": "Head \nAccountant",
+        "role": "extracted",
+        "context": "Office \nManager: \nHead \nAccountant: \nLSJE \nAccountant: \nSTC \nAcc"
+      },
+      {
+        "name": "Administration \nPhone",
+        "role": "extracted",
+        "context": "C \nAccountant: \nIT \nManager: \nAdministration \nPhone/\nCecile \ndeJongh \nJeanne \nBre"
+      },
+      {
+        "name": "Jongh \nJeanne",
+        "role": "extracted",
+        "context": "inistration \nPhone/\nCecile \ndeJongh \nJeanne \nBrennan \nDaphne \nWallace \nUn"
+      },
+      {
+        "name": "Brennan \nDaphne",
+        "role": "extracted",
+        "context": "one/\nCecile \ndeJongh \nJeanne \nBrennan \nDaphne \nWallace \nUna \nPascal \nJennai"
+      },
+      {
+        "name": "Wallace \nUna",
+        "role": "extracted",
+        "context": "ngh \nJeanne \nBrennan \nDaphne \nWallace \nUna \nPascal \nJennaine \nRuan \nSTC"
+      },
+      {
+        "name": "Pascal \nJennaine",
+        "role": "extracted",
+        "context": "rennan \nDaphne \nWallace \nUna \nPascal \nJennaine \nRuan \nSTC \nis \nthe \nAdminist"
+      },
+      {
+        "name": "Project \nManager",
+        "role": "extracted",
+        "context": "tor(s) \npayments. \nAttorney: \nProject \nManager: \nEstate \nManager: \nExecutive"
+      },
+      {
+        "name": "Estate \nManager",
+        "role": "extracted",
+        "context": "Attorney: \nProject \nManager: \nEstate \nManager: \nExecutive \nAssistant: \nIIBR"
+      },
+      {
+        "name": "Executive \nAssistant",
+        "role": "extracted",
+        "context": "Manager: \nEstate \nManager: \nExecutive \nAssistant: \nIIBRK \nis... \nPhone \n/-Fax"
+      },
+      {
+        "name": "Fax \nDarren",
+        "role": "extracted",
+        "context": "tant: \nIIBRK \nis... \nPhone \n/-Fax \nDarren \nIndyke. \nEsq. \nRichard \nKahn"
+      },
+      {
+        "name": "Richard \nKahn",
+        "role": "extracted",
+        "context": "/-Fax \nDarren \nIndyke. \nEsq. \nRichard \nKahn \nMark \nTollison \nEFTA00003149"
+      },
+      {
+        "name": "Mark \nTollison",
+        "role": "extracted",
+        "context": "Indyke. \nEsq. \nRichard \nKahn \nMark \nTollison \nEFTA00003149"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.824Z"
+}

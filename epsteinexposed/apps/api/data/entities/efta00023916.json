@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00023916",
+    "filename": "EFTA00023916.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023916.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \nSubject: Priorities 2021 \nDate: Wed, 02 Jun 2021 18:22:35 +0000 \nImportance: Normal \nAttachments: Priorities6.2021.docx \nAttaching a somewhat rudimentary draft; just let me if you think the proposed cases are appropriate, and any I may've \n(very likely) forgotten. Thanks. \nSpokesman \nUnited States Department of Justice \nU.S. Attorney's Office 'Southern District of New York \nMobile: Press Office: \nEFTA00023916",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 18:22:35 +0000 \nImportance: Normal \nAttachments: Priorities6.2021.docx \nAttac"
+      },
+      {
+        "name": "Spokesman \nUnited",
+        "role": "extracted",
+        "context": "y likely) forgotten. Thanks. \nSpokesman \nUnited States Department of Justice"
+      },
+      {
+        "name": "States Department",
+        "role": "extracted",
+        "context": "n. Thanks. \nSpokesman \nUnited States Department of Justice \nU.S. Attorney's O"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office 'Southern District of New York \nMobile: Press Of"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "District of New York \nMobile: Press Office: \nEFTA00023916"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.874Z"
+}

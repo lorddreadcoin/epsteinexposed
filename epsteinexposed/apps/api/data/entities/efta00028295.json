@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028295",
+    "filename": "EFTA00028295.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028295.pdf",
+    "text": "\n\nFrom: '''' \nTo: \nCc: \nSubject: latest memo and redline \nDate: Mon, 08 Jul 2019 13:49:53 +0000 \nImportance: Normal \nAttachments: 2019-07-08,_JEJletention_memo,_draftdocx; detention_memo_redline.pdf \nI'm proofing it now (and will add Judge Berman and defense counsel as cc) and plan to submit it to Judge Pitman, Judge \nBerman, and defense counsel at 10:30 (but let me know if anybody prefers otherwise). \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00028295",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 13:49:53 +0000 \nImportance: Normal \nAttachments: 2019-07-08,_JEJletention_mem"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "proofing it now (and will add Judge Berman and defense counsel as cc) an"
+      },
+      {
+        "name": "Judge Pitman",
+        "role": "extracted",
+        "context": "cc) and plan to submit it to Judge Pitman, Judge \nBerman, and defense c"
+      },
+      {
+        "name": "Judge \nBerman",
+        "role": "extracted",
+        "context": "to submit it to Judge Pitman, Judge \nBerman, and defense counsel at 10:30"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "s otherwise). \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "2019-07-08"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.938Z"
+}

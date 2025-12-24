@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00024498",
+    "filename": "EFTA00024498.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024498.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Sat, 10 Aug 2019 21:58:45 +0000 \n— thanks very much for being in touch, and it turns out that the primary point of \ncontact from our Office will be who is copied here but also her full contact info is: \nAnything at all we can do, please don't hesitate to let us know, and I'll defer to to reach out to follow up separately. \nAnd thanks very much for all of your work today—not how any of us expected to spend this Saturday so we really \nappreciate everybody jumping in right away and making so much progress. \nthanks again, \nFrom \nSent: Saturday, August 10, 2019 17:15 \nTo: \nCc: \nSubject: Epstein \nIt was nice speaking with all of you and I appreciate the offer of assistance on this. \nPlease see the AUSA team copied here and reach out to them for any assistance you may need from SONY. \nThanks, \nSupervisory Special Agent \nFBI/NYPD \nViolent Crimes Task Force \nOn Aug 10, 2019 4:50 PM, \" wrote: \nI am cc'ing our team for you to connect them with the relevant agents on your side. \nThanks very much, \nEFTA00024498",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Sat, 10 Aug 2019 21:58:45 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "uch progress. \nthanks again, \nFrom \nSent: Saturday, August 10, 2019 17"
+      },
+      {
+        "name": "Epstein \nIt",
+        "role": "extracted",
+        "context": "019 17:15 \nTo: \nCc: \nSubject: Epstein \nIt was nice speaking with all of"
+      },
+      {
+        "name": "Supervisory Special",
+        "role": "extracted",
+        "context": "may need from SONY. \nThanks, \nSupervisory Special Agent \nFBI/NYPD \nViolent Crim"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "sory Special Agent \nFBI/NYPD \nViolent Crimes Task Force \nOn Aug 10, 2019 4"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "ent \nFBI/NYPD \nViolent Crimes Task Force \nOn Aug 10, 2019 4:50 PM, \" w"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "D \nViolent Crimes Task Force \nOn Aug 10, 2019 4:50 PM, \" wrote: \nI"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.273Z"
+}

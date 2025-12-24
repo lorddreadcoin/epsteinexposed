@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00011094",
+    "filename": "EFTA00011094.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011094.pdf",
+    "text": "\n\nFral \nSubject: Fwd: SAS: Request 21000415 has been approved \nDate: The, 12 Oct 2021 13:54:27 +0000 \nAttachments: Witness Immunity-2 1000415.pdf \nPlease see below. We will reach out to victim attorneys today or tomorrow. \nBegin forwarded message: \nFrom: OEO Special Approvals System <crm.no-reply@usdoj.gov> \nDate: October 12 2021 at 9:39:04 AM EDT \nSubject: SAS: Request 21000415 has been approved \nTo whom it may concern, \nYour Witness Immunity request (21000415), submitted to us on 09/24/2021 has been approved. \nPlease see attached approval letter for details. \nEFTA00011094",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fral \nSubject",
+        "role": "extracted",
+        "context": "Fral \nSubject: Fwd: SAS: Request 21000415 h"
+      },
+      {
+        "name": "Witness Immunity",
+        "role": "extracted",
+        "context": "13:54:27 +0000 \nAttachments: Witness Immunity-2 1000415.pdf \nPlease see bel"
+      },
+      {
+        "name": "Special Approvals",
+        "role": "extracted",
+        "context": "forwarded message: \nFrom: OEO Special Approvals System <crm.no-reply@usdoj.go"
+      },
+      {
+        "name": "Your Witness",
+        "role": "extracted",
+        "context": "ved \nTo whom it may concern, \nYour Witness Immunity request (21000415),"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-24",
+        "event": "09/24/2021"
+      },
+      {
+        "date": "2021-10-12",
+        "event": "October 12 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.076Z"
+}

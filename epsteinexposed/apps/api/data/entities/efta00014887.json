@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014887",
+    "filename": "EFTA00014887.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014887.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: etter \nDate: Thu, 25 Nov 2021 21:19:59 +0000 \nAttachments: 2021.11..doex \nAttached is a draft letter re I'm hoping to send this to tomorrow morning to review with him so we can \nsend out to the defense tomorrow. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nEFTA00014887",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e defense tomorrow. \nThanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.769Z"
+}

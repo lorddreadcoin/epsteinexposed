@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00028109",
+    "filename": "EFTA00028109.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028109.pdf",
+    "text": "\n\nFrom: \"etravelservices cwtsatotravel.com\" \nSubject: Final Voucher 10810414(1) prepared by a travel arranger is pending your review \nDate: Wed, 20 Nov 2019 15:05:35 \n+0000 \nImportance: Normal \nDe \nFinal voucher 10810414(1) has been prepared by your travel arranger and is ready for your review. Please log \ninto E2 Solutions to review the document. \nTrip ID: 10810414 \nVoucher ID: 1 \nVoucher type: \nTraveler name \nPurpose: R20 - . v. pstem -WitnessInterview \nDestination: Santa Monica, CA, United States \nDates: 2019-11-13 - 2019-11-15 \nCurrent status: Pending Voucher Approval \nVoucher total expenses: 1517.64 \nEstimated trip cost: \n1583.95 \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from \nus. \nReference ID# V0012 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00028109",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Final Voucher",
+        "role": "extracted",
+        "context": "cwtsatotravel.com\" \nSubject: Final Voucher 10810414(1) prepared by a tra"
+      },
+      {
+        "name": "Normal \nDe",
+        "role": "extracted",
+        "context": "15:05:35 \n+0000 \nImportance: Normal \nDe \nFinal voucher 10810414(1) ha"
+      },
+      {
+        "name": "Interview \nDestination",
+        "role": "extracted",
+        "context": "ose: R20 - . v. pstem -WitnessInterview \nDestination: Santa Monica, CA, United Sta"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "itnessInterview \nDestination: Santa Monica, CA, United States \nDates: 20"
+      },
+      {
+        "name": "Pending Voucher",
+        "role": "extracted",
+        "context": "- 2019-11-15 \nCurrent status: Pending Voucher Approval \nVoucher total expen"
+      },
+      {
+        "name": "Approval \nVoucher",
+        "role": "extracted",
+        "context": "rrent status: Pending Voucher Approval \nVoucher total expenses: 1517.64 \nEsti"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "mated trip cost: \n1583.95 \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "ost: \n1583.95 \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Santa Monica, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-13",
+        "event": "2019-11-13"
+      },
+      {
+        "date": "2019-11-15",
+        "event": "2019-11-15"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.644Z"
+}

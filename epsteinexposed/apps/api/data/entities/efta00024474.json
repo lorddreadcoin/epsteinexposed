@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024474",
+    "filename": "EFTA00024474.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024474.pdf",
+    "text": "\n\nFrom \nTo \nSubject: NYTimes: Prince Andrew Sought Washington Lobbyist to Help With Epstein Case \nDate: Sun, 05 Jul 2020 20:53:30 +0000 \nPrince Andrew Sought Washington Lobbyist to Help With Epstein Case \nhttps://vvwvv.nytimes.com/2020/07/05/us/politics/prince-andrew-jeffrey-epstein.html? \nreferringSource=articleShare \nEFTA00024474",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: NYTimes: Prince Andrew Sought Washington Lobbyist to Help With Epstein C"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: NYTimes: Prince And"
+      },
+      {
+        "name": "Sought Washington",
+        "role": "extracted",
+        "context": "bject: NYTimes: Prince Andrew Sought Washington Lobbyist to Help With Epstein"
+      },
+      {
+        "name": "Help With",
+        "role": "extracted",
+        "context": "Sought Washington Lobbyist to Help With Epstein Case \nDate: Sun, 05 J"
+      },
+      {
+        "name": "Epstein Case",
+        "role": "extracted",
+        "context": "hington Lobbyist to Help With Epstein Case \nDate: Sun, 05 Jul 2020 20:53"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.223Z"
+}

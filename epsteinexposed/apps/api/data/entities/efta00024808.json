@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00024808",
+    "filename": "EFTA00024808.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024808.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: Nathan NYSD \nChambers •t:\n> \nCc: \nChristian Everdell • , \"Mark S. Cohen\" \nBOBBI C STERNHEIM \n\"'Laura Menningerm , Jeff Paglitc\nrill...> \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Government Proposed Redactions \nDate: Thu, 20 May 2021 21:01:50 +0000 \nAttachments: 2021-05-20_Govtletter_re_Proposed_Redactions_to_Defense_Exhibit_C.pdf; \nExhibit_C_(proposed_Govemment_redactions).pdf \nGood afternoon, \nAttached please find a letter requesting certain redactions to Exhibit C to the defendant's memorandum in support of her \nsupplemental pre-trial motions, which was just filed on ECF. In addition, attached please find the Government's proposed \nredactions to Exhibit C. \nRespectfully submitted, \nAssistant United States Attorney \nUnited States Attorney's Office \nEFTA00024808",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "an NYSD \nChambers •t:\n> \nCc: \nChristian Everdell • , \"Mark S. Cohen\" \nBOBBI C"
+      },
+      {
+        "name": "Laura Menningerm",
+        "role": "extracted",
+        "context": "Cohen\" \nBOBBI C STERNHEIM \n\"'Laura Menningerm , Jeff Paglitc\nrill...> \nSubj"
+      },
+      {
+        "name": "Jeff Paglitc",
+        "role": "extracted",
+        "context": "ERNHEIM \n\"'Laura Menningerm , Jeff Paglitc\nrill...> \nSubject: US v. Maxw"
+      },
+      {
+        "name": "Government Proposed",
+        "role": "extracted",
+        "context": ". Maxwell, 20 Cr. 330 (AJN) - Government Proposed Redactions \nDate: Thu, 20 May"
+      },
+      {
+        "name": "Redactions \nDate",
+        "role": "extracted",
+        "context": "0 (AJN) - Government Proposed Redactions \nDate: Thu, 20 May 2021 21:01:50 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "C. \nRespectfully submitted, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-20",
+        "event": "20 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.871Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018401",
+    "filename": "EFTA00018401.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018401.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: epstein \nDate: Wed, 10 Jul 2019 10:05:20 +0000 \nImportance: Normal \nFirst I'm hearing about it assuming it's even true -■and \nSent from my iPhone \nOn Jul 9, 2019, at 8:47 PM, \nFYI \nFrom: Goldstein, Matthew \nSent: Tuesday, July 09, 2019 2:44 PM \nTo: \nSubject: epstein \nmay know more. \nwrote: \nhi all \nso we have been told that Deutsche Bank controls several billion in assets belonging to Financial Trust \nCompany on behalf of Epstein's customers. We are told that up until his arrest Epstein was trading currencies \nthrough Deutsche for his client. We are told that Deutsche is considering going into bankruptcy court to take \ncontrol of these assets and is coordinating its efforts with your office. can you give me any guidance on this for \nour \nstory \nmatt \nMatthew Goldstein \nThe New York Times \n(w) \n(c) \nEFTA00018401",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nFirst",
+        "role": "extracted",
+        "context": "9 10:05:20 +0000 \nImportance: Normal \nFirst I'm hearing about it assuming"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ven true -■and \nSent from my iPhone \nOn Jul 9, 2019, at 8:47 PM, \nFYI"
+      },
+      {
+        "name": "Matthew \nSent",
+        "role": "extracted",
+        "context": "47 PM, \nFYI \nFrom: Goldstein, Matthew \nSent: Tuesday, July 09, 2019 2:44"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "ll \nso we have been told that Deutsche Bank controls several billion in a"
+      },
+      {
+        "name": "Financial Trust",
+        "role": "extracted",
+        "context": "illion in assets belonging to Financial Trust \nCompany on behalf of Epstein"
+      },
+      {
+        "name": "Matthew Goldstein",
+        "role": "extracted",
+        "context": "n this for \nour \nstory \nmatt \nMatthew Goldstein \nThe New York Times \n(w) \n(c)"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "ory \nmatt \nMatthew Goldstein \nThe New York Times \n(w) \n(c) \nEFTA000"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "t \nMatthew Goldstein \nThe New York Times \n(w) \n(c) \nEFTA00018401"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 09, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.838Z"
+}

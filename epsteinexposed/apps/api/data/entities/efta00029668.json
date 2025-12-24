@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00029668",
+    "filename": "EFTA00029668.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029668.pdf",
+    "text": "\n\nFrom: ri)' \nTo: \nSubject: Booking Confirmation —  Beverly Hills, Feb 25 \nDate: Thu, 13 Feb 2020 05:34:43 +0000 \nBooking Confirmation \nThank you for making your reservation through our site. \nThis is a no reply mail box. If you need assistance please contact your CWTSatoTravel customer support site. \nThis is a copy of your itinerary only. Please review for accuracy. When your reservation is ticketed, your invoice will \nbe sent in a separate message. The invoice will show your trip details, ticket number, and ticket cost. Please be \nprepared to present your invoice (not this itinerary copy) upon airport check-in as proof your ticket has been issued. \nCONFIRMATION NUMBERS \nSABRE Record Locator #: CCXAXQ \nHotel Confirmation #1: HH-3185860597 (Hilton Hotels) \nNAME(S) OF PEOPLE TRAVELING \nName: \nHOTEL \nName: The Beverly Hilton \nLocation: Beverly Hills, CA \nAddress: 9876 WILSHIRE BLVD, Beverly Hills, CA 90210 USA \nCheck-in: Tuesday, Feb 25 16:00 \nCheck-out: Saturday, Feb 29 12:00 \nHotel Confirmation #: 3185860597 \nNumber of Rooms: 1 \nPhone: 1-310-274-7777 \nFax: 1-310-285-1313 \nAverage Rate before taxes and fees: 181.00 USD (per night/room) \nAverage Rate including taxes and fees: 210.24 USD (per night/room) \nSpecial Requests: king bed, high floor \nAGENCY INFORMATION \nAgency: CWTSato Travel \nWashington, DC, US \nDELIVERY INFORMATION \nDeliver To: \nName: \nAddress: \nEFTA00029668\n\nPhone: \nEmail: \nTRAVEL \nARRANGEMENTS \nTravel \nArranged By: \nTravel Arranged For: \nHAVE A GREAT TRIP \nEFTA00029669",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Booking Confirmation",
+        "role": "extracted",
+        "context": "From: ri)' \nTo: \nSubject: Booking Confirmation —  Beverly Hills, Feb 25 \nDat"
+      },
+      {
+        "name": "Beverly Hills",
+        "role": "extracted",
+        "context": "ject: Booking Confirmation —  Beverly Hills, Feb 25 \nDate: Thu, 13 Feb 20"
+      },
+      {
+        "name": "Record Locator",
+        "role": "extracted",
+        "context": "CONFIRMATION NUMBERS \nSABRE Record Locator #: CCXAXQ \nHotel Confirmation"
+      },
+      {
+        "name": "Hotel Confirmation",
+        "role": "extracted",
+        "context": "BRE Record Locator #: CCXAXQ \nHotel Confirmation #1: HH-3185860597 (Hilton Hot"
+      },
+      {
+        "name": "Hilton Hotels",
+        "role": "extracted",
+        "context": "nfirmation #1: HH-3185860597 (Hilton Hotels) \nNAME(S) OF PEOPLE TRAVELING"
+      },
+      {
+        "name": "The Beverly",
+        "role": "extracted",
+        "context": "RAVELING \nName: \nHOTEL \nName: The Beverly Hilton \nLocation: Beverly Hil"
+      },
+      {
+        "name": "Hilton \nLocation",
+        "role": "extracted",
+        "context": "me: \nHOTEL \nName: The Beverly Hilton \nLocation: Beverly Hills, CA \nAddress:"
+      },
+      {
+        "name": "Average Rate",
+        "role": "extracted",
+        "context": "74-7777 \nFax: 1-310-285-1313 \nAverage Rate before taxes and fees: 181.00"
+      },
+      {
+        "name": "Special Requests",
+        "role": "extracted",
+        "context": "210.24 USD (per night/room) \nSpecial Requests: king bed, high floor \nAGENCY"
+      },
+      {
+        "name": "Sato Travel",
+        "role": "extracted",
+        "context": "GENCY INFORMATION \nAgency: CWTSato Travel \nWashington, DC, US \nDELIVERY"
+      },
+      {
+        "name": "Deliver To",
+        "role": "extracted",
+        "context": "DC, US \nDELIVERY INFORMATION \nDeliver To: \nName: \nAddress: \nEFTA000296"
+      },
+      {
+        "name": "Travel \nArranged",
+        "role": "extracted",
+        "context": "Email: \nTRAVEL \nARRANGEMENTS \nTravel \nArranged By: \nTravel Arranged For: \nHA"
+      },
+      {
+        "name": "Travel Arranged",
+        "role": "extracted",
+        "context": "EMENTS \nTravel \nArranged By: \nTravel Arranged For: \nHAVE A GREAT TRIP \nEFTA"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Beverly Hills, CA",
+        "type": "city"
+      },
+      {
+        "name": "Travel \nWashington, DC",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "3185860597",
+      "310-274-7777",
+      "310-285-1313"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.918Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00020252",
+    "filename": "EFTA00020252.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020252.pdf",
+    "text": "\n\nProperty of \nI= IM - Not For Media Use \n0011339 \nSDNY_GM_02753422 \nCONFIDENTIAL \nEFTA00020252",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Not For",
+        "role": "extracted",
+        "context": "Property of \nI= IM - Not For Media Use \n0011339 \nSDNY_GM_0"
+      },
+      {
+        "name": "Media Use",
+        "role": "extracted",
+        "context": "Property of \nI= IM - Not For Media Use \n0011339 \nSDNY_GM_02753422 \nC"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.486Z"
+}

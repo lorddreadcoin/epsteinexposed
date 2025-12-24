@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020780",
+    "filename": "EFTA00020780.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020780.pdf",
+    "text": "\n\nFrom: ' \n)\"      \nTo: \nCc:\" \n ivity \nDate: Mon, 25 Mar 2019 23:00:23 +0000 \nImportance: Normal \nCould we please load the documents in the following folder into Relativity for US v. Epstein (USAO # 2018R01618): \nWisa.doj.gov\\ cloud\\NYS\\ StAndrews \\ Shared USvEpstein-2018R01618‘InvestigationV*2018 SDNY investigation \\ Subpoena \nReturns\\ Boies Schiller\\ 2019-03-04 Boies Schiller first subpoena response \nIn terms of structure, we'd like to create a folder identified as \"Subpoena Returns\" (at the same level as \"FBI Case File\" is \ncurrently), and in a subfolder within Subpoena Returns, a folder titled \"BSF returns,\" and within that a subfolder identified \nas \"BSF first production\" that the docs in the above link can be deposited into (including any additional subfolders). Does \nthat work? \nPlease let me know if any questions or if any other information would be helpful, and if you could please let us know \nwhen it's all uploaded? \nthanks very much, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00020780",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nCould",
+        "role": "extracted",
+        "context": "9 23:00:23 +0000 \nImportance: Normal \nCould we please load the documents"
+      },
+      {
+        "name": "Subpoena \nReturns",
+        "role": "extracted",
+        "context": "onV*2018 SDNY investigation \\ Subpoena \nReturns\\ Boies Schiller\\ 2019-03-04 B"
+      },
+      {
+        "name": "Boies Schiller",
+        "role": "extracted",
+        "context": "tigation \\ Subpoena \nReturns\\ Boies Schiller\\ 2019-03-04 Boies Schiller fi"
+      },
+      {
+        "name": "Subpoena Returns",
+        "role": "extracted",
+        "context": "reate a folder identified as \"Subpoena Returns\" (at the same level as \"FBI C"
+      },
+      {
+        "name": "Case File",
+        "role": "extracted",
+        "context": "s\" (at the same level as \"FBI Case File\" is \ncurrently), and in a sub"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ks very much, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-03-04",
+        "event": "2019-03-04"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.570Z"
+}

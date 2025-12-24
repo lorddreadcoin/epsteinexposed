@@ -1,0 +1,97 @@
+{
+  "document": {
+    "id": "efta00010417",
+    "filename": "EFTA00010417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010417.pdf",
+    "text": "\n\nFrom: \"I (USANYS)\" \nTo: \" (USANYS)\" \nCc: \" USANYS)\" • \nUSANYS)\" \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nDate: Fri, 02 Jul 2021 19:12:28 +0000 \nThank= \nFrom: (USANYS) \nSent: Friday, July 2, 2021 3:12 PM \nTo: (USANYS) \nCc: USANYS \n(USANYS \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nUSANYS \nHere's the redacted autopsy report, included in the release to the Times. Thanks. \nFrom (USANYS) \nSent: Wednesda June 30, 2021 12:34 PM \nTo (USANYS) \nCc SANYS) \n(USANYS) \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \n(USANYS \nOCME asked whether we could send them a copy of the redacted autopsy report. Could you please send me a copy of it \non Friday so I can forward to them? Thank you! \nSent: lippg.2021 6:46 Pm \nSent: (USANYS)\nTo: (USANYS) \nCc: USANYS) \n(US \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nThanks, Yes, we will ask BOP to redact that photo as well. \nFrom (USANYS) \nSent: Tuesda June 29, 2021 3:45 PM \nTo (USANYS \nCc: USANYS) \n(USANYS) \nSubject: RE: Epstein FOIA - OCME Report of Autopsy \nEind \nUSANYS) \nUSANYS) \nI spoke with the GC of OCME, who appreciated the head's up. One note for you all: the photo of the hyoid bone on page \n12 is in fact Epstein's hyoid bone. To the extent we're redacting the closeup photos from page 13, shouldn't we also \nredact the entire photo on page 12? \nEFTA00010417\n\nThanks, \nFrom: SUSANYS)1111 \nSent: Monday, June 28, 2021 5:02 \nTo: (USANYS) \nCc USANYS) (USANYS) \n(U \nSubject: pstein -Report of Autopsy \nPlease find attached the OCME Report of Autopsy. The boxes show where there will be redactions. \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00010418",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Autopsy \nDate",
+        "role": "extracted",
+        "context": "Epstein FOIA - OCME Report of Autopsy \nDate: Fri, 02 Jul 2021 19:12:28 +0"
+      },
+      {
+        "name": "Wednesda June",
+        "role": "extracted",
+        "context": "Thanks. \nFrom (USANYS) \nSent: Wednesda June 30, 2021 12:34 PM \nTo (USANYS"
+      },
+      {
+        "name": "Pm \nSent",
+        "role": "extracted",
+        "context": "k you! \nSent: lippg.2021 6:46 Pm \nSent: (USANYS)\nTo: (USANYS) \nCc: U"
+      },
+      {
+        "name": "Autopsy \nThanks",
+        "role": "extracted",
+        "context": "Epstein FOIA - OCME Report of Autopsy \nThanks, Yes, we will ask BOP to reda"
+      },
+      {
+        "name": "Tuesda June",
+        "role": "extracted",
+        "context": "s well. \nFrom (USANYS) \nSent: Tuesda June 29, 2021 3:45 PM \nTo (USANYS"
+      },
+      {
+        "name": "Autopsy \nEind",
+        "role": "extracted",
+        "context": "Epstein FOIA - OCME Report of Autopsy \nEind \nUSANYS) \nUSANYS) \nI spoke wi"
+      },
+      {
+        "name": "Autopsy \nPlease",
+        "role": "extracted",
+        "context": "U \nSubject: pstein -Report of Autopsy \nPlease find attached the OCME Report"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "will be redactions. \nThanks, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nEFTA00010418"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-07-02",
+        "event": "July 2, 2021"
+      },
+      {
+        "date": "2021-06-30",
+        "event": "June 30, 2021"
+      },
+      {
+        "date": "2021-06-29",
+        "event": "June 29, 2021"
+      },
+      {
+        "date": "2021-06-28",
+        "event": "June 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.910Z"
+}

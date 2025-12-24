@@ -1,0 +1,72 @@
+{
+  "document": {
+    "id": "efta00024822",
+    "filename": "EFTA00024822.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024822.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: calls re: Epstein \nDate: Wed, 10 Jul 2019 18:58:21 +0000 \nImportance: Normal \nI am taking care of it. \nFrom: \nSent: Wednesday, July 10, 2019 2:56 PM \nTo: \nCc: \nSubject: RE: calls re: Epstein \nLooping in Ed too since he just mentioned this to me also \nFrom: \nSent: Wednesday, July 10, 2019 14:51 \nTo: \nCc: \nSubject: calls re: Epstein \nHi M, \nIt seems like a fair number of Epstein related calls are coming in through the main SDNY line, and we've set up a particular \nline internally for those to be forwarded to. Would it be possible to let the CSOs to know that they should transfer any \nincoming calls to the following extension, where they can leave a message? It's been set up so that those messages will \nauto-forward to our whole team. The number is 212-637-1030. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00024822",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: \nSubject: RE: calls re: Epstein \nDate: Wed, 10 Jul 2019 18:58:21 +0"
+      },
+      {
+        "name": "Epstein \nLooping",
+        "role": "extracted",
+        "context": "Cc: \nSubject: RE: calls re: Epstein \nLooping in Ed too since he just menti"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: calls re: Epstein \nHi M, \nIt seems like a fair numb"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "er is 212-637-1030. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "0. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00024822"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-10",
+        "event": "July 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-637-1030"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.901Z"
+}

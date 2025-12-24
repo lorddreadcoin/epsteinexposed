@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00020685",
+    "filename": "EFTA00020685.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020685.pdf",
+    "text": "\n\nFrom: \nTo: \"Moyne, Parvin\" \nCc: Andrew Stemmer I>, \"Moyer, Thomas\" <I \n\"DiPiero, Joseph\"  \nSubject: RE: \nDate: Thu, 05 Sep 2019 21:59:03 +0000 \nReceived, thanks. And yes, if you could please send the other payments you've identified to those individuals and/or \nentities, as well as any made to \"MM'' or'''' (in addition to \"M'') that would be very \nhelpful. We're working through the returns but the volume is obviously significant. \nthanks again, \nFrom: Moyne, Parvin \nSent: Wednesday, September 04, 2019 22:31 \nTo: \nCc: Andrew Stemmer \nSubject: \n; Moyer, \nThomas ; DiPiero, Joseph \nThe wire transfer records are located at DB-SDNY-0000478. Here is the relevant information for the requested \ntransfers: \nDATE RECIPIES I AMOUNI BANK ROUTING # \n„ \nACCOUNT # \nWIRE DETAILS / \nINSTRUCTIONS \n1/28/2015 $50,000 JP Morgan \n021000021 \n- \nN/A\n4/22/2015 $50,000 JP Morgan \n021000021 \nN/A\n9/24/2015 $23,625 JP Morgan \n021000021 \nN/A\n11/30/2018 \nAviloop \nLLC \n$100,000 TD Bank 011400071 N/A\n12/3/2018 $250,000 Bank of\nAmerica 026009593 \nN/A \nWe have identif ed other payments to the same individuals and entities, which we can also send I  helpful. \nBest, \nParvin \nOriginal message -------\nFrom: \nEFTA00020685\n\nDate: 9/4/19 8:52 PM GMT-05:00 \nTo: \"Moyne, Parvin\" \nCc: \"Mo \ner, Thomas\" \nSubject: RE: SDNY production, follow up \n**EXTERNAL Email** \nParvin, Andrew, \nAndrew Stemmer \nIn connection with part of Deutsche Bank's production, we have a follow-up request regarding certain wire \ntransfer records, specifically from the Butterfly Trust Account, as reflected in the attached. We're looking to get \nthe wire detail information for case numbers: \n2021929, 12/03/18, $250,000, to \n2021539, 11/30/18, $100,000, to Aviloop LLC \n1385874, 04/22/15, $50,000, to \n1339985, 01/28/15, $50,000, to \n1462811, 09/24/15, $23,625.44, to \nIn particular, we're requesting the receiving bank name and account number information for each of the above \ntransactions, as well as any other associated details. Could you please provide that information? Or if you \nalready have, could you please point us in the right direction—I've looked through the production index to try to \ntrack it down but wasn't successful. \nthanks, \nThe information contained in this e-mail message is intended only for the personal and confidential use of the \nrecipient(s) named above. If you have received this communication in error, please notify us immediately by e-\nmail, and delete the original message. \nEFTA00020686",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Stemmer",
+        "role": "extracted",
+        "context": "om: \nTo: \"Moyne, Parvin\" \nCc: Andrew Stemmer I>, \"Moyer, Thomas\" <I \n\"DiPi"
+      },
+      {
+        "name": "Parvin \nSent",
+        "role": "extracted",
+        "context": "thanks again, \nFrom: Moyne, Parvin \nSent: Wednesday, September 04, 201"
+      },
+      {
+        "name": "Joseph \nThe",
+        "role": "extracted",
+        "context": "; Moyer, \nThomas ; DiPiero, Joseph \nThe wire transfer records are loc"
+      },
+      {
+        "name": "Parvin \nOriginal",
+        "role": "extracted",
+        "context": "also send I  helpful. \nBest, \nParvin \nOriginal message -------\nFrom: \nEFTA00"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "r \nIn connection with part of Deutsche Bank's production, we have a follo"
+      },
+      {
+        "name": "Butterfly Trust",
+        "role": "extracted",
+        "context": "ecords, specifically from the Butterfly Trust Account, as reflected in the"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2015-01-28",
+        "event": "1/28/2015"
+      },
+      {
+        "date": "2015-04-22",
+        "event": "4/22/2015"
+      },
+      {
+        "date": "2015-09-24",
+        "event": "9/24/2015"
+      },
+      {
+        "date": "2018-11-30",
+        "event": "11/30/2018"
+      },
+      {
+        "date": "2018-12-03",
+        "event": "12/3/2018"
+      },
+      {
+        "date": "2019-09-04",
+        "event": "September 04, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.349Z"
+}

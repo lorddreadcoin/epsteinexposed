@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019649",
+    "filename": "EFTA00019649.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019649.pdf",
+    "text": "\n\nFrom: (USANYS)\" czi \nTo:\" \n  \" \nSubject: DAILY MAIL: Jeffrey Epstein 'befriended' first victim, 13, at Michigan arts camp \nDate: Mon, 19 Jul 2021 12:36:23 +0000 \nJeffrey Epstein 'befriended' first victim, 13, at Michigan arts camp \nJeffrey Epstein and his associate, Ghislaine Maxwell, 'befriended' the young girl at Interlochen Center for the \nArts, located in secluded woods of north Michigan. Claim was made in a new book (inset). \nRead in Daily Mail: https://apple.news/AJhye _JwrTQCd8KUtO5mj&v\nEFTA00019649",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "m: (USANYS)\" czi \nTo:\" \n  \" \nSubject: DAILY MAIL: Jeffrey Epstein 'befriended' first victim, 13, at Michigan arts c"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "gan arts camp \nJeffrey Epstein and his associate, Ghislaine Maxwell, 'befriended' the young girl at Interlochen Cente"
+      },
+      {
+        "name": "Interlochen Center",
+        "role": "extracted",
+        "context": "befriended' the young girl at Interlochen Center for the \nArts, located in sec"
+      },
+      {
+        "name": "Daily Mail",
+        "role": "extracted",
+        "context": "a new book (inset). \nRead in Daily Mail: https://apple.news/AJhye _Jw"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.315Z"
+}

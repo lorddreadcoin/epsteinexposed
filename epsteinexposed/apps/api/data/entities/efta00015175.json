@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015175",
+    "filename": "EFTA00015175.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015175.pdf",
+    "text": "\n\nFrom: \n\" alMME' \nTo: M\"EN (NY) (FBI)\" •IMINIMM>, ' \nti \nCc: ' \nSANYa, ' ye \nSubject: Palm Beach \nDate: Thu, 07 Oct 2021 21:01:34 +0000 \nAttachments: Pages_from_PB_76-2.pdf; 2021.10.07_Subpoena_to_PBPD.pdf \nwand \nThe report we discussed is attached. The first four pages concern activities in 2001-2002, but the reports that follow \nappear to have similar reference numbers through 2004, so I'm including for context in case that assists you in sorting this \nout tomorrow. The contact to reach out to is Sgt. . His work number is but if he said if you can't \nreach him on that number please call his personal number: \nWe recognize you're still working out logistics for travel tomorrow morning, but whenever you have a sense of timing and \nwhich one of you will by flying out, please let us know when you can. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00015175",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Cc: ' \nSANYa, ' ye \nSubject: Palm Beach \nDate: Thu, 07 Oct 2021 21:01"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "know when you can. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "n. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00015175"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.138Z"
+}

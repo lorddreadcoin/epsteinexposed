@@ -1,0 +1,57 @@
+{
+  "document": {
+    "id": "efta00028039",
+    "filename": "EFTA00028039.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028039.pdf",
+    "text": "\n\nFrom: \nSubject: Epstein \nDate: Tue, 29 Jan 2019 22:55:18 +0000 \nImportance: Normal \n\\\\ Usa.doj.gov\\cloud\\NYS \\StAndrews\\Shared \\ USvEpstein-2018801618 \\ InvestigationWlorida Scans\\Jeffrey Epstein\\GJ\\GJ \nTranscripts \n\\\\ Usa.doj.gov\\cloud\\NYS \\StAndrews\\Shared \\ USvEpstein-2018801618 \\ InvestigationWlorida Scans\\Jeffrey Epstein\\Juan \nAlessi Statement \n\\\\ Usa.doj.gov\\cloud\\NYS \\StAndrews\\Shared \\ USvEpstein-2018801618 \\ Investigation VIFlorida Scans\\Jeffrey \nEpstein \\Victims —  but only portions of each pdf that reflect statements/interviews of witnesses \n\\\\ Usa.doj.gov\\cloud\\NYS \\StAndrews\\Shared \\ USvEpstein-2018801618 \\ Investigation \\FBI materials (reports, FOIA, etc)\\72 \nCase, obstruction, materials (file, 302s)\\302s \nEpstein universe spreadsheet in Investigation folder \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nt. \nEFTA00028039",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "SvEpstein-2018801618 \\ InvestigationWlorida Scans\\Jeffrey Epstein\\GJ\\GJ \nTranscripts \n\\\\ Usa.doj.gov\\cloud\\NYS \\StA"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nSubject: Epstein \nDate: Tue, 29 Jan 2019 22:55:18 +0"
+      },
+      {
+        "name": "Wlorida Scans",
+        "role": "extracted",
+        "context": "ein-2018801618 \\ InvestigationWlorida Scans\\Jeffrey Epstein\\GJ\\GJ \nTransc"
+      },
+      {
+        "name": "Juan \nAlessi",
+        "role": "extracted",
+        "context": "Wlorida Scans\\Jeffrey Epstein\\Juan \nAlessi Statement \n\\\\ Usa.doj.gov\\clo"
+      },
+      {
+        "name": "Florida Scans",
+        "role": "extracted",
+        "context": "-2018801618 \\ Investigation VIFlorida Scans\\Jeffrey \nEpstein \\Victims —"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "Investigation VIFlorida Scans\\Jeffrey \nEpstein \\Victims —  but only portions"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "2018801618"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.509Z"
+}

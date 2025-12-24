@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00022535",
+    "filename": "EFTA00022535.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022535.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nc \nTo: ' (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Wed, 24 Jul 2019 21:48:55 +0000 \nThanks for the report. \nFrom: (USANYS) c \nSent: Wednesday, July 24, 2019 5:25 PM \nTo: Berman, Geoffrey (USANYS) \n(USANYS) \nCc \nSubject: Epstein \n(USANYS) \n<> \n(USANYS)\nThe team spoke this afternoon with some of Epstein's attorneys. It sounds like one of the defense attorneys (albeit not \none who joined this call) visited Epstein yesterday, and they were thus familiar with much of the basic information we \nlearned last evening. While they were somewhat circumspect, they seemed to acknowledge that it sounded like any \ninjury was self-inflicted. They did not suggest that they thought Epstein had been attacked, nor did they ask us to take any \nsteps to investigate or protect him. They did ask if it was possible for us to find a way to get him out of the SHU which \nthey thought would be better for his mental health, and our team told them they would look into that and also directed \nthem to a contact at the MCC. \nDefense counsel also said they plan to visit Epstein next Monday (before their meeting with our team that afternoon), so \nwe may learn more at that point. \nEFTA00022535",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "' (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Wed, 24 Jul 2019 21:48:55 +0"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "Geoffrey (USANYS) \n(USANYS) \nCc \nSubject: Epstein \n(USANYS) \n<> \n(USAN"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-24",
+        "event": "July 24, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.098Z"
+}

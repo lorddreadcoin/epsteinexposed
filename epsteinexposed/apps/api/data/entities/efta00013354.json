@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013354",
+    "filename": "EFTA00013354.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013354.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nalMIE> \nTo: Ir.\n \n11 \nCc: \n(USANYS)\" \n<MIMIMME> \nSubject: Epstein \nDate: Fri, 26 Apr 2019 15:34:59 +0000 \nImportance: Normal \ns going to meet with Brad Weinshiemer on Monday - can you guys put together an update memo this \nafternoon on where we are, what we've done since the last update memo, and next steps? This just for \nfor now, not for sending down to DC. \nSent from my iPhone \nEFTA00013354",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "USANYS)\" \n<MIMIMME> \nSubject: Epstein \nDate: Fri, 26 Apr 2019 15:34:59 +0"
+      },
+      {
+        "name": "Brad Weinshiemer",
+        "role": "extracted",
+        "context": "Normal \ns going to meet with Brad Weinshiemer on Monday - can you guys put"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.395Z"
+}

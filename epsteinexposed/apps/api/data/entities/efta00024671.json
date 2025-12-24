@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00024671",
+    "filename": "EFTA00024671.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024671.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Call with Katya Jestin \nDate: Wed, 12 May 2021 01:04:17 +0000 \nToday I spoke with Katya Jestin. Katya had previously indicated that she represents a wealthy, anonymous client who \nwishes to provide financial assistance to victims of Jeffrey Epstein. Katya had asked whether our office could connect her \nwith attorneys who represent Epstein victims. Previously, I had told Katya I would get back to her. \nDuring today's call, I indicated that our team could not and would not play any role in connecting Katya's client with \nEpstein victims. I indicated that we could not provide any information regarding the names or contact information of any \nvictim attorneys. I explained that we could not be involved in any way in conveying funding from Katya's client to any \npotential witnesses in our case. To date, I have not conveyed any information about Katya's request to any witnesses or \nwitness counsel in this case. \nKatya indicated that she understood our position and appreciated our team's consideration. \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew% Plaza \nNew York, NY 10007 \nEFTA00024671",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "hes to provide financial assistance to victims of Jeffrey Epstein. Katya had asked whether our office could connect"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Call with Katya Je"
+      },
+      {
+        "name": "Katya Jestin",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Call with Katya Jestin \nDate: Wed, 12 May 2021 01:04"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ed our team's consideration. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sideration. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew% Pl"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ct of New York \n1 St. Andrew% Plaza \nNew York, NY 10007 \nEFTA00024671"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-12",
+        "event": "12 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.611Z"
+}

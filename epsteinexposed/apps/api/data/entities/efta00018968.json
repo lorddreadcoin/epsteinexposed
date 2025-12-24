@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018968",
+    "filename": "EFTA00018968.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018968.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: \"Berman, Geoffrey \n(USANYS)\" \nSubject: https://www.washingtonexaminercorninews/epstein-accuser-angry-about-financiers-death-and-\nwants-his-accomplices-and-enablers-prosecuted \nDate: Sat, 10 Aug 2019 16:12:48 +0000 \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nI \nMobile: ( \nPress Office: ME \nEFTA00018968",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": ", 10 Aug 2019 16:12:48 +0000 \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nI \nMobile: ( \nPr"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "ct of New York \nI \nMobile: ( \nPress Office: ME \nEFTA00018968"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.034Z"
+}

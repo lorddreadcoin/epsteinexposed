@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013842",
+    "filename": "EFTA00013842.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013842.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Read: Epstein Press Coverage \nDate: Fri, 10 Oct 2008 18:23:44 +0000 \nImportance: Normal \nEFTA00013842",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Press",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Read: Epstein Press Coverage \nDate: Fri, 10 Oct 2"
+      },
+      {
+        "name": "Coverage \nDate",
+        "role": "extracted",
+        "context": "Subject: Read: Epstein Press Coverage \nDate: Fri, 10 Oct 2008 18:23:44 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.560Z"
+}

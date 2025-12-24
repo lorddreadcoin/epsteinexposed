@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032553",
+    "filename": "EFTA00032553.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032553.pdf",
+    "text": "\n\nFrom: ' \n\"  \nTo:' \n\" \": \n> \nSubject: DAG Visit \nDate: Wed, 15 Jan 2020 18:25:28 +0000 \n• EDNY, SDNY, JTTF: 9:30-11:30 \n• SDNY \no Meet senior management team \no \nEpstein \nI Counsel to the U.S. Attorney \nU.S. Attorneys Office for the Southern District of New York \nOne St. Andrew's Plaza, New York. New York 10007 \nDesk: \nEFTA00032553",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Visit \nDate",
+        "role": "extracted",
+        "context": "To:' \n\" \": \n> \nSubject: DAG Visit \nDate: Wed, 15 Jan 2020 18:25:28 +0"
+      },
+      {
+        "name": "Attorneys Office",
+        "role": "extracted",
+        "context": "el to the U.S. Attorney \nU.S. Attorneys Office for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "U.S. Attorneys Office for the Southern District of New York \nOne St. Andrew's"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza, New York. Ne"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.911Z"
+}

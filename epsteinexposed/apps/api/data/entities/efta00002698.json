@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00002698",
+    "filename": "EFTA00002698.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002698.pdf",
+    "text": "\n\nLittle \nSt. \nJames \nIsland \nCabanas, \nPavilions, \nPool & \nScreening Room \nms\ns\n-\n - • \n!ice\n!'\" \n06/04/2009 \nY.' \nc- Development Progress Package \nant' part \nselection & \nplanting plan \nRon -n r, niShCS \ne, \nre'r \n• , \nit \n—.oak \nmei \nCA 90405 \nEFTA00002698",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Little \nSt",
+        "role": "extracted",
+        "context": "Little \nSt. \nJames \nIsland \nCabanas, \nPa"
+      },
+      {
+        "name": "James \nIsland",
+        "role": "extracted",
+        "context": "Little \nSt. \nJames \nIsland \nCabanas, \nPavilions, \nPool &"
+      },
+      {
+        "name": "Screening Room",
+        "role": "extracted",
+        "context": "Cabanas, \nPavilions, \nPool & \nScreening Room \nms\ns\n-\n - • \n!ice\n!'\" \n06/04"
+      },
+      {
+        "name": "Development Progress",
+        "role": "extracted",
+        "context": "!ice\n!'\" \n06/04/2009 \nY.' \nc- Development Progress Package \nant' part \nselection"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2009-06-04",
+        "event": "06/04/2009"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:27.956Z"
+}

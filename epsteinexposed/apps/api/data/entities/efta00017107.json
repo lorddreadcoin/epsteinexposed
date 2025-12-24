@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00017107",
+    "filename": "EFTA00017107.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017107.pdf",
+    "text": "\n\nFrom: ' \nTo: Zach Jones \nCc: Clara Moran \nSubject: RE: Continued investigation into possible collaborators of Jeffrey Epstein \nDate: Tue, 17 Sep 2019 21:18:41 +0000 \nReceived, thank you very much. \nAssistant United States Attorney \nSouthern District of New York \nI St. Andrew's Plaza \nNew York, NY 10007 \nFrom \nSent: Tuesday, September 17,  2019 2:05 PM \nTo:  \nI \n<  \nCc: Clara Moran \nSubject: Continued investigation into possible collaborators of Jeffrey Epstein \nMs. \nPlease see the attached correspondence from Chief Deputy Attorney General Clara Moran. \nYou can access the materials referenced in the letter by following this link and entering this password: \n• \nNMAG \nLies \n•  Password (without quotes) -- \"7e4DzyfvYC\" \nNote that this link will expire on October 16, 2019. \nA CD containing this correspondence and the attached materials will also be arriving shortly via U.S. Mail. \nHave a good day. \nAssistant Attorney General \nEFTA00017107",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "nued investigation into possible collaborators of Jeffrey Epstein \nDate: Tue, 17 Sep 2019 21:18:41 +0000 \nReceived,"
+      },
+      {
+        "name": "Please",
+        "role": "extracted",
+        "context": "aborators of Jeffrey Epstein \nMs. \nPlease see the attached corresp"
+      },
+      {
+        "name": "Zach Jones",
+        "role": "extracted",
+        "context": "From: ' \nTo: Zach Jones \nCc: Clara Moran \nSubject: RE"
+      },
+      {
+        "name": "Clara Moran",
+        "role": "extracted",
+        "context": "From: ' \nTo: Zach Jones \nCc: Clara Moran \nSubject: RE: Continued inves"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ceived, thank you very much. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \nI St. Andrew's Plaza \nNew York, NY 10007 \nFrom \nSent: T"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "'s Plaza \nNew York, NY 10007 \nFrom \nSent: Tuesday, September 17,  2019"
+      },
+      {
+        "name": "Chief Deputy",
+        "role": "extracted",
+        "context": "attached correspondence from Chief Deputy Attorney General Clara Moran."
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "respondence from Chief Deputy Attorney General Clara Moran. \nYou can access"
+      },
+      {
+        "name": "Assistant Attorney",
+        "role": "extracted",
+        "context": "U.S. Mail. \nHave a good day. \nAssistant Attorney General \nEFTA00017107"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-17",
+        "event": "September 17,  2019"
+      },
+      {
+        "date": "2019-10-16",
+        "event": "October 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:54.026Z"
+}

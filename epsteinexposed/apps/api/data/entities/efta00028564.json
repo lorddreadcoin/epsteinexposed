@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028564",
+    "filename": "EFTA00028564.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028564.pdf",
+    "text": "\n\nFrom: \"postmaster( usdo. \nov\" < tmaster usdoj.gov> \nTo: \nSubject: SecureMail Encryption Response \nDate: Mon, 29 Jun 2020 13:33:43 +0000 \nYour message was successfully encrypted. \nMessage Details: \nTForiMIEN: \nSubject: RE: Epstein \nEFTA00028564",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mail Encryption",
+        "role": "extracted",
+        "context": "doj.gov> \nTo: \nSubject: SecureMail Encryption Response \nDate: Mon, 29 Jun 2"
+      },
+      {
+        "name": "Response \nDate",
+        "role": "extracted",
+        "context": "ubject: SecureMail Encryption Response \nDate: Mon, 29 Jun 2020 13:33:43 +0"
+      },
+      {
+        "name": "Message Details",
+        "role": "extracted",
+        "context": "was successfully encrypted. \nMessage Details: \nTForiMIEN: \nSubject: RE: Ep"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.483Z"
+}

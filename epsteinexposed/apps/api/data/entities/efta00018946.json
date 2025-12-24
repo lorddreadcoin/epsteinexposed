@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018946",
+    "filename": "EFTA00018946.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018946.pdf",
+    "text": "\n\nFrom: ' \nUSANYS)\" \nTo: ' )\" \" \" \nCc: a\" 1*,alril.> \n(USANYS) [Contractor]\" \nSubject: Epstein \nDate: Wed, 11 Dec 2019 15:34:32 +0000 \nFWIW/FYI — Julie Brown is hearing that \nwe're unsealing four indictments against co-conspirators next week. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office [ Southern District of New York \nI Mobile: \nI \nPress Office: \nEFTA00018946",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ANYS) [Contractor]\" \nSubject: Epstein \nDate: Wed, 11 Dec 2019 15:34:32 +0"
+      },
+      {
+        "name": "Julie Brown",
+        "role": "extracted",
+        "context": "19 15:34:32 +0000 \nFWIW/FYI — Julie Brown is hearing that \nwe're unseal"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "t co-conspirators next week. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office [ Southern District of New York \nI Mobile: \nI \nPr"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "ct of New York \nI Mobile: \nI \nPress Office: \nEFTA00018946"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.985Z"
+}

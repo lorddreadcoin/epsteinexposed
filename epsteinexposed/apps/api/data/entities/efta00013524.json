@@ -1,0 +1,87 @@
+{
+  "document": {
+    "id": "efta00013524",
+    "filename": "EFTA00013524.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013524.pdf",
+    "text": "\n\nFrom: \n\"aUSAFLS)\" c/O=USA/OU=FLS/CN=RECIPIENTS/CN=, \nTo: \nCc: \n(USAFLS)\" \nSubject: RE: Epstein settlement agreement \nDate: Fri, 02 Nov 2007 13:50:32 +0000 \nImportance: Normal \nDealing \nI  was just informed that a case disposition conference has been set in the Epstein case on January 7, 2008. Our \nagreement with Mr. Epstein contemplated a simultaneous plea and sentencing for October (or, as we later agreed, \nNovember), followed by Mr. Epstein self-surrendering to begin serving his sentence not later than January 4, \n2008. From your last e-mail, it appeared that the judge was under the impression that Mr. Epstein could not be \nsentenced before January 2008. We are hoping that Judge McSorley would consider conducting the \nsimultaneous plea and sentencing some time before January 4, 2008, so that Mr. Epstein can comply with the \nterms of our agreement and begin serving his sentence on January 4, 2008. \nI  also would appreciate it if you could send me a copy of the plea agreement, the Information that you plan to file \n(if it hasn't been filed already), and any factual proffer or other documents related to the plea. Please also let me \nknow the date and time of the plea and sentencing so that someone from our office can attend and insure Mr. \nEpstein's compliance with the terms of his federal non-prosecution agreement. \nIf you need any information regarding the federal investigation, or if you have any questions about the terms of \nthe federal non-prosecution agreement, please do not hesitate to contact me at the number below or in the \nWest Palm Beach office. \nThank you, \nFirst Assistant United States Attorney \nAssistant U.S. Attorney \nFrom: \nSent \nMonde , October 29, 2007 9:22 PM \nTo: (USAFLS) \nSubject: Epstein settlement agreement \nEFTA00013524\n\nGood evening. I am the ASA with the Epstein case in Palm Beach County. The negotiated settlement is a \ndefinite go. A difficulty arose last week at a conference with the judge on the case. She wants the plea and \nsentence to occur concurrently; not a plea with a sentencing at a later date. Therefore, the case was set for the \nfirst week of January, but the plea and sentence will definitely occur before the January 4th date that was agreed \non by all for the sentencing. \nIf you have any questions, please contact me at \nEFTA00013525",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "7, 2008. Our \nagreement with Mr. Epstein contemplated a simultaneo"
+      },
+      {
+        "name": "Normal \nDealing",
+        "role": "extracted",
+        "context": "7 13:50:32 +0000 \nImportance: Normal \nDealing \nI  was just informed that a"
+      },
+      {
+        "name": "Judge Mc",
+        "role": "extracted",
+        "context": "uary 2008. We are hoping that Judge McSorley would consider conducti"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "t the number below or in the \nWest Palm Beach office. \nThank you, \nFi"
+      },
+      {
+        "name": "First Assistant",
+        "role": "extracted",
+        "context": "lm Beach office. \nThank you, \nFirst Assistant United States Attorney \nAssis"
+      },
+      {
+        "name": "Attorney \nAssistant",
+        "role": "extracted",
+        "context": "First Assistant United States Attorney \nAssistant U.S. Attorney \nFrom: \nSent \nM"
+      },
+      {
+        "name": "Attorney \nFrom",
+        "role": "extracted",
+        "context": "ates Attorney \nAssistant U.S. Attorney \nFrom: \nSent \nMonde , October 29, 2"
+      },
+      {
+        "name": "Sent \nMonde",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \nFrom: \nSent \nMonde , October 29, 2007 9:22 PM \nT"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ASA with the Epstein case in Palm Beach County. The negotiated settle"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-01-07",
+        "event": "January 7, 2008"
+      },
+      {
+        "date": "2008-01-04",
+        "event": "January 4, \n2008"
+      },
+      {
+        "date": "2008-01-04",
+        "event": "January 4, 2008"
+      },
+      {
+        "date": "2007-10-29",
+        "event": "October 29, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.779Z"
+}

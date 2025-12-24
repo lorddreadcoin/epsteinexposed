@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00021419",
+    "filename": "EFTA00021419.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021419.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\" \nTo: \"Mallaii  i,.\\IYS\" \n(USANYS)\" , \" (USANYS)\" \nSubject: RE: call from attorney for \nDate: Tue, 16 Jul 2019 17:13:42 +0000 \nImportance: Normal \nKate Cassidy, from Hafetz & Necheles \nrepresents pilot for Epstein \n- \nserved with a  subpoena \nCassidy has not yet spoken substantively with \nAsked for his status in the investigation; I said we would follow up with an email and also circle back in the next few days. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021419",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nKate",
+        "role": "extracted",
+        "context": "9 17:13:42 +0000 \nImportance: Normal \nKate Cassidy, from Hafetz & Nechel"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ext few days. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.631Z"
+}

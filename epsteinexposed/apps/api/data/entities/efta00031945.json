@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031945",
+    "filename": "EFTA00031945.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031945.pdf",
+    "text": "\n\nFrom: (USANYS)\" < \nTo:' \nSubject: Meeting Forward Notification: Call re: Epstein FOIA \nDate: Fri, 19 Mar 2021 13:09:22 +0000 \nYour \nmeeting was forwarded \n(USANYS)\n  has forwarded your meeting request to additional recipients. \nMeeting \nCall re: Epstein FOIA \nMeeting Time \nFriday, March 19, 2021 9:00 AM-9:30 AM. \nRecipients \nIM=OGC)IFBI) \nAll times listed are in the following time zone: (UTC-05:00) Eastern Time (US & Canada) \nSent by Microsoft Exchange Server \nEFTA00031945",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Meeting Forward",
+        "role": "extracted",
+        "context": ": (USANYS)\" < \nTo:' \nSubject: Meeting Forward Notification: Call re: Epstei"
+      },
+      {
+        "name": "Meeting \nCall",
+        "role": "extracted",
+        "context": "st to additional recipients. \nMeeting \nCall re: Epstein FOIA \nMeeting Tim"
+      },
+      {
+        "name": "Meeting Time",
+        "role": "extracted",
+        "context": "eting \nCall re: Epstein FOIA \nMeeting Time \nFriday, March 19, 2021 9:00"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "lowing time zone: (UTC-05:00) Eastern Time (US & Canada) \nSent by Micros"
+      },
+      {
+        "name": "Microsoft Exchange",
+        "role": "extracted",
+        "context": "n Time (US & Canada) \nSent by Microsoft Exchange Server \nEFTA00031945"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-19",
+        "event": "March 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.272Z"
+}

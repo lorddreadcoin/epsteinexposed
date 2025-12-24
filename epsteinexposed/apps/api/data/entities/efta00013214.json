@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00013214",
+    "filename": "EFTA00013214.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013214.pdf",
+    "text": "\n\nSubject: FW: Computer Report \nDate: Wed, 25 Sep 2019 13:22:17 +0000 \nAttachments: Copy_of 2019-010614_Summary_Timeline_Analysis.xlsx \nI'm underwhelmed. We should get copies of the documents that Thomas opened at the beginning of his shift. \nSubject: Computer Report \nAttached is a timeline report of the digital forensic report conducted by the DOJ OIG Cyber team of the two computers \nretrieved from the SHU. \nU.S. Department of Justice \nOffice of the Inspector General \nNew York Field Office \nOne Battery Park Plaza, 29th Floor \nNew York, NY 10004 \nEFTA00013214",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Computer Report",
+        "role": "extracted",
+        "context": "Subject: FW: Computer Report \nDate: Wed, 25 Sep 2019 13:22"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "the SHU. \nU.S. Department of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice \nOffice of the Inspector General \nNew York Field Office \nOne B"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nOne Battery Park Plaza, 29th"
+      },
+      {
+        "name": "One Battery",
+        "role": "extracted",
+        "context": "neral \nNew York Field Office \nOne Battery Park Plaza, 29th Floor \nNew Y"
+      },
+      {
+        "name": "Park Plaza",
+        "role": "extracted",
+        "context": "ork Field Office \nOne Battery Park Plaza, 29th Floor \nNew York, NY 100"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "One Battery Park Plaza, 29th Floor \nNew York, NY 10004 \nEFTA00013214"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.093Z"
+}

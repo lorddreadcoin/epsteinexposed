@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022090",
+    "filename": "EFTA00022090.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022090.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: FW: Opinion on Maxwell Motions \nDate: Mon, 26 Apr 2021 13:54:07 +0000 \nAttachments: Maxwell_Opinion_MTD.pdf \nHere's the Order in Maxwell. \nFrom: \nSent: Friday, April 16, 2021 6:10 PM \nTo: \nSubject: Opinion on Maxwell Motions \nJudge Nathan's opinion on the majority of Maxwell's pretrial motions is attached. She granted Maxwell's motion to sever \nthe perjury counts but denied the remaining motions, except for the suppression motions with respect to the Boies \nSchiller materials, which she did not address (they will be decided \"in due course\"). \nEFTA00022090",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Motions",
+        "role": "extracted",
+        "context": "To: \nSubject: FW: Opinion on Maxwell Motions \nDate: Mon, 26 Apr 2021 13:54"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": ": Opinion on Maxwell Motions \nJudge Nathan's opinion on the majority of"
+      },
+      {
+        "name": "Boies \nSchiller",
+        "role": "extracted",
+        "context": "n motions with respect to the Boies \nSchiller materials, which she did not"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-16",
+        "event": "April 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.995Z"
+}

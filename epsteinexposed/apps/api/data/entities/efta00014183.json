@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00014183",
+    "filename": "EFTA00014183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014183.pdf",
+    "text": "\n\nEvent: Telephone Conference re: Epstein \nStart Date: 2008-12-03 19:00:00 +0000 \nEnd Date: 2008-12-03 19:30:00 +0000 \nOrganizer•\nLocation: My office \nClass: X-PERSONAL \nDate Created: 2008-11-26 19:37:53 +0000 \nDate Modified: 2022-10-02 08:11:14 +0000 \nPriority: 5 \nDTSTAMP: 2008-11-26 19:32:25 +0000 \nAttendee: \nWhen: Wednesday, December 03, 2008 2:00 PM-2:30 PM (GMT-05:00) Eastern Time (US & \nCanada). \nWhere: My office \n*     * * * * * * * \n*  * \nEFTA00014183",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Telephone Conference",
+        "role": "extracted",
+        "context": "Event: Telephone Conference re: Epstein \nStart Date: 2008"
+      },
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "ent: Telephone Conference re: Epstein \nStart Date: 2008-12-03 19:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2008-12-03 19:00:00 +0000 \nEnd Date: 2008-12-03 19:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "My office \nClass: X-PERSONAL \nDate Created: 2008-11-26 19:37:53 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2008-11-26 19:37:53 +0000 \nDate Modified: 2022-10-02 08:11:14 +0000 \nP"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "8 2:00 PM-2:30 PM (GMT-05:00) Eastern Time (US & \nCanada). \nWhere: My of"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-12-03",
+        "event": "2008-12-03"
+      },
+      {
+        "date": "2008-11-26",
+        "event": "2008-11-26"
+      },
+      {
+        "date": "2022-10-02",
+        "event": "2022-10-02"
+      },
+      {
+        "date": "2008-12-03",
+        "event": "December 03, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.339Z"
+}

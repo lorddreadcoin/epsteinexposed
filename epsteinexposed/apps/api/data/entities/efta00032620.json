@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00032620",
+    "filename": "EFTA00032620.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032620.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nci\nTo: 'USANYS)\" , \" \" \nSubject: RE: Proposed Budget -- USA v. Maxwell \nDate: Tue, 31 Aug 2021 00:35:57 +0000 \nAttachments: USA47_Request_form.pdf; Lit_Consultant_SOWJTaylor_Trial_Consulting).docx; \nBudget_Proposal_for Jury_Consulting_Services_fordoex \nPlease see attached. I didn't fill out the TIN on the USA47 request form. Please let us know if you need anything further. \nThanks! \nFrom: \n(USANYS) < \nSent: Thursday, August 26, 2021 11:26 AM \nTo: \n(USANYS) < \n< \nSubject: FW Proposed Budget -- USA v. Maxwell \nI found the vendor in UFMS. No need for the vendor form. \nFrom: (USANYS) \nSent: Thursday, August 26, 2021 11:14 AM \nTo: \n<>;\n>; \nSubject: FW: Proposed Budget -- USA v. Maxwell \nHi —\nPlease complete the USA4 request form, SOW, and have the vendor complete the payment info form. Return to me to \nprocess. \nFrom: (USANYS) \nSent: Thursday, August 26, 2021 11:03 AM \nTo: (USANYS) \nCc: (USANYS) <> \nSubject: FW: Proposed Budget -- USA v. Maxwell \nWe are going to go ahead with this litigation consultant. Please work with and \non it. \nThanks, \nEFTA00032620\n\nFrom: Paulette Taylor < \nSent: Wednesday, July 21, 2021 7:16 PM \nTo: (USANYS) <> \nSubject: Proposed Budget -- USA v. Maxwell \nN-\nHere is the budget for the focus group, pretrial juror questionnaire, and feedback on the opening statement and closing \nargument. \nThe proposal does not assume we would review and grade the completed juror questionnaires. As I noted in the \nproposal, the cost is approximately $8,000 per 100 questionnaires as we can grade only 5 or 6 an hour. We have not \nprovided this service in recent cases, e.g., Silver and Skelos. However, we have provided it in earlier cases, e.g., Martha \nStewart, where we were also present in court during jury selection. \nI am suggesting we hold the focus group on Friday, October 1, subject to consensus among the team. I can be available on \nother dates as necessary. \nLet me know what questions you have. \n—Paulette \nTaylor'd Trial Consulting \nPaulette Taylor, President \nEFTA00032621",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proposed Budget",
+        "role": "extracted",
+        "context": "'USANYS)\" , \" \" \nSubject: RE: Proposed Budget -- USA v. Maxwell \nDate: Tue,"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "RE: Proposed Budget -- USA v. Maxwell \nDate: Tue, 31 Aug 2021 00:35:57 +0"
+      },
+      {
+        "name": "Maxwell \nHi",
+        "role": "extracted",
+        "context": "FW: Proposed Budget -- USA v. Maxwell \nHi —\nPlease complete the USA4 re"
+      },
+      {
+        "name": "Maxwell \nWe",
+        "role": "extracted",
+        "context": "FW: Proposed Budget -- USA v. Maxwell \nWe are going to go ahead with th"
+      },
+      {
+        "name": "Paulette Taylor",
+        "role": "extracted",
+        "context": "Thanks, \nEFTA00032620\n\nFrom: Paulette Taylor < \nSent: Wednesday, July 21,"
+      },
+      {
+        "name": "Martha \nStewart",
+        "role": "extracted",
+        "context": "ed it in earlier cases, e.g., Martha \nStewart, where we were also present i"
+      },
+      {
+        "name": "Paulette \nTaylor",
+        "role": "extracted",
+        "context": "ow what questions you have. \n—Paulette \nTaylor'd Trial Consulting \nPaulette"
+      },
+      {
+        "name": "Trial Consulting",
+        "role": "extracted",
+        "context": "ou have. \n—Paulette \nTaylor'd Trial Consulting \nPaulette Taylor, President"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-08-26",
+        "event": "August 26, 2021"
+      },
+      {
+        "date": "2021-07-21",
+        "event": "July 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.062Z"
+}

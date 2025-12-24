@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026716",
+    "filename": "EFTA00026716.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026716.pdf",
+    "text": "\n\nFrom: \nTo: \n(NY) \n(FBI)\" <Ma \nCc \n\"MM1=MIIIIMIlr czas \nSubject: Message pad scans \nDate: Wed, 12 Jun 2019 21:52:47 +0000 \nAttachments: MP_scan_guest_house_office desk.pdf; MP_scan_item_2_book_l.pdf; \nMP_scan_item_2_book_2.pdf; MP_scan_item_2_book_3.pdf; MP_scan_item_16.pdf; \nMP_scan_item_17.pdf; MP_scan_kitchen.pdf \nHey all, \nAttached are the message pad scans. Let me know if you have questions. \nThanks, \nSpecial Agent \nFBI New York \nVCAC/Human Trafficking \nC: \nO: \nEFTA00026716",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ma \nCc",
+        "role": "extracted",
+        "context": "From: \nTo: \n(NY) \n(FBI)\" <Ma \nCc \n\"MM1=MIIIIMIlr czas \nSubject"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "you have questions. \nThanks, \nSpecial Agent \nFBI New York \nVCAC/Human Tra"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ial Agent \nFBI New York \nVCAC/Human Trafficking \nC: \nO: \nEFTA00026716"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.887Z"
+}

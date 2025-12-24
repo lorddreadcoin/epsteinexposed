@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016461",
+    "filename": "EFTA00016461.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016461.pdf",
+    "text": "\n\nFrom: ' \nTo: Nathan NYSD Chambers <I \nCc: \nSubject: US v. \nMaxwell, 20 Cr. 330 (AJN) - Letter from MDC Legal Counsel \nDate: Fri, 04 Dec 2020 22:35:56 +0000 \nAttachments: Ltr to_Hon_Nathan_12.04.20.pdf \nSANYS \nGood evening, \nAttached for Judge Nathan's review please find a letter from MDC legal counsel regarding the above-referenced case. \nBecause the MDC is not a party to this case, this letter has not been filed on ECF, but the Government has no objection to \nthe public docketing of this letter. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016461",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Legal Counsel",
+        "role": "extracted",
+        "context": ". 330 (AJN) - Letter from MDC Legal Counsel \nDate: Fri, 04 Dec 2020 22:35"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "Good evening, \nAttached for Judge Nathan's review please find a letter"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "er. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016461"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.719Z"
+}

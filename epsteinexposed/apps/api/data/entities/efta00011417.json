@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011417",
+    "filename": "EFTA00011417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011417.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Letter \nDate: Wed, 14 Oct 2020 13:26:14 +0000 \nAttachments: 2020.10.13_Letter_to_Government_re_Rule_16_and_Brady_Requests.PDF \nInline-Images: image005.jpg; image006.jpg \nFYI \nFrom: Christian Everdell \nSent: Tuesday, October 13, 2020 11:38 PM \nCc: Mark \nS. Cohen \nBOBBI C \nSTERNHEIM \nSubject: Letter \nPlease see the attached letter. \nRegards, \nChris \nChristian \nEverdell \nCOHEN & GRESSER LLP \n'N \nYork I  Paris I  Washington DC \n•  Laura \nMenninger \nCONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended to be reviewed initially by only \nthe individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient. you are hereby notified that any \nreview. dissemination or copying of this e-mail or the information contained herein is prohibited. If you have received this e-mail in error. please immediately notify \nthe sender by telephone and permanently delete this e-mail. Thank you. \nPRIVACY: A complete copy of our privacy policy can be viewed al: https:/Avww.cohengresser.com/privacy-policy.\nEFTA00011417",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Letter \nDate: Wed, 14 Oct 2020 13:26:14 +0"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "jpg; image006.jpg \nFYI \nFrom: Christian Everdell \nSent: Tuesday, October 13, 2"
+      },
+      {
+        "name": "Letter \nPlease",
+        "role": "extracted",
+        "context": "BOBBI C \nSTERNHEIM \nSubject: Letter \nPlease see the attached letter. \nReg"
+      },
+      {
+        "name": "Chris \nChristian",
+        "role": "extracted",
+        "context": "e attached letter. \nRegards, \nChris \nChristian \nEverdell \nCOHEN & GRESSER LL"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "I  Paris I  Washington DC \n•  Laura \nMenninger \nCONFIDENTIALITY NOTICE: The"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-13",
+        "event": "October 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.577Z"
+}

@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00020663",
+    "filename": "EFTA00020663.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020663.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \"I \nSubject: FW: Ghislaine Maxwell (USMS No. 02879-509) - Legal Calls \nDate: Tue, 14 Jul 2020 13:48:51 +0000 \nPO \nThis seems worth having in your outline just in case Mark misrepresents this during the hearing. \nFrom: \nSent: Tuesday, July 14, 2020 7:45 AM \nTo: \nCc: \nSubject: Ghislaine Maxwell (USMS No. 02879-509) - Legal Calls \nGood morning, \nAs discussed yesterday, this is the list of legal calls Ms. Maxwell has had: \n(1) 7/6/20 - at approximately 8:30 pm to Christian Everdell. \n(2) 7/7/20 - after 2 pm to Christian Everdell \n(3) 7/8/20 - 10 am to Christian Everdell \n(4) 7/9/20 - 12:00 pm 1.5 hours with Christian Everdell & Mark Cohen and 1:30 pm 1 hour with Laura Menninger & Jeff \nPagliuca \n(5) 7/10/20 - 10 am to Christian Everdell and 1 pm 1 hour call with Jeff Pagliuca and 2 pm 1 hour call with Mark Cohen, \nChristian Everdell, and Lea Harmon (Pretrial services) \n(6) 7/13/20 - 10 am to Christian Everdell and 2:30 pm to Christian Everdell \n(7) 7/14/20 - 10 am to Christian Everdell \nTimes are approximate. Calls were approximately 30 minutes unless otherwise indicated. \nUnder current protocols, attorney calls are 30 minutes unless otherwise specified. \nThanks, \nEFTA00020663",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: ' \nTo: ' \"I \nSubject: FW: Ghislaine Maxwell (USMS No. 02879-509) - Legal Calls \nDate: Tue, 14"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "is is the list of legal calls Ms. Maxwell has had: \n(1) 7/6/20 - at"
+      },
+      {
+        "name": "Legal Calls",
+        "role": "extracted",
+        "context": "axwell (USMS No. 02879-509) - Legal Calls \nDate: Tue, 14 Jul 2020 13:48"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "- at approximately 8:30 pm to Christian Everdell. \n(2) 7/7/20 - after 2 pm to"
+      },
+      {
+        "name": "Mark Cohen",
+        "role": "extracted",
+        "context": "urs with Christian Everdell & Mark Cohen and 1:30 pm 1 hour with Laura"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "Cohen and 1:30 pm 1 hour with Laura Menninger & Jeff \nPagliuca \n(5) 7/10/20"
+      },
+      {
+        "name": "Jeff \nPagliuca",
+        "role": "extracted",
+        "context": "1 hour with Laura Menninger & Jeff \nPagliuca \n(5) 7/10/20 - 10 am to Chris"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "ell and 1 pm 1 hour call with Jeff Pagliuca and 2 pm 1 hour call with Mar"
+      },
+      {
+        "name": "Lea Harmon",
+        "role": "extracted",
+        "context": "hen, \nChristian Everdell, and Lea Harmon (Pretrial services) \n(6) 7/13"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-14",
+        "event": "July 14, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.301Z"
+}

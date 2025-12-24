@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00007769",
+    "filename": "EFTA00007769.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007769.pdf",
+    "text": "\n\nVIDENCIL \nRAL \nBUREAU \nOF \nINVESTIGATION \nF \nDER \nL \nBU \nAU \nOF \nI \nEFTA00007769\n\n• \n•, \n,g.\n1 \n• \n• \n:4: • \n‘, \n..\"...:•”4 \n• \nEFTA00007770\n\nAll \ndocuments \nand \nphotographs \nenclosed \nhave \nbeen \ndigitized. \nNegatives \nand/or \nmedia \nhave \nnot \nbeen \ncaptured. \nEFTA00007771\n\n023659 \n\"w4*-\n4•7•••••cra.ta. \nTown \nof Palm \nBeach \nPolice \nDepartment \nteal\n.\nEVIDENCE \nCASE # \nOc- \n3 672  PROPERTY 0V' \nC I  \n/  °9U \nt/c1( \nCONTENTS \nPry' \nItem Quantity \nDescription \nSuspect: \nOfficer: \nKL-231 \nmiCeu \nSkin. \n• \nDate: \ngiltrOf \n:J.\n.\n1 \na . \n• \n• \n• \n• \n:ft \n;:tel \n%:\n....tre \n• \n\".. \n(ft \n• \n: \nEFTA00007772\n\nITEM \nWAS NOT \nSCANNED \nDESCRIPTION \nEFTA00007773\n\nEFTA00007774",
+    "pageCount": 6,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "4*-\n4•7•••••cra.ta. \nTown \nof Palm \nBeach \nPolice \nDepartment \nteal\n.\nE"
+      },
+      {
+        "name": "Police \nDepartment",
+        "role": "extracted",
+        "context": "ra.ta. \nTown \nof Palm \nBeach \nPolice \nDepartment \nteal\n.\nEVIDENCE \nCASE # \nOc-"
+      },
+      {
+        "name": "Item Quantity",
+        "role": "extracted",
+        "context": "°9U \nt/c1( \nCONTENTS \nPry' \nItem Quantity \nDescription \nSuspect: \nOffic"
+      },
+      {
+        "name": "Description \nSuspect",
+        "role": "extracted",
+        "context": "ONTENTS \nPry' \nItem Quantity \nDescription \nSuspect: \nOfficer: \nKL-231 \nmiCeu \nSk"
+      },
+      {
+        "name": "Ceu \nSkin",
+        "role": "extracted",
+        "context": "Suspect: \nOfficer: \nKL-231 \nmiCeu \nSkin. \n• \nDate: \ngiltrOf \n:J.\n.\n1"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.271Z"
+}

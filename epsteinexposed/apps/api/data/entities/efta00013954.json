@@ -1,0 +1,114 @@
+{
+  "document": {
+    "id": "efta00013954",
+    "filename": "EFTA00013954.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013954.pdf",
+    "text": "\n\nFrom: \"KATHERINE W. EZELL\" <I \nTo: ' (USAFLS)\" <I \nSubject: RE: Epstein Items \nDate: Wed, 17 Sep 2008 22:09:11 +0000 \nImportance: Normal \nThank you, We are actually going Friday, but we will give them your regards and those of the agents. I wanted to let \nyou know that Bob heard your voice message and forwarded it to me. I had already told him that we had spoken, that you \nwere writing a letter, which I would mirror, etc. To my knowledge he has not heard from Roy Black and Tien. Thanks for all \nthe help. Kathy \nFrom: \n(USAFLS) [mailto \nSent: Wednesday, September 17, 2008 4:29 PM \nTo: KATHERINE W. EZELL; MERCEDES C. ESTRADA \nSubject: Epstein Items \nHi Katherine and Mercy: \nI have attached a draft letter to the Florida Bar for your review along with the Non-Prosecution Agreement and \nAddendum. \nCan you let Amy know that Special Agent is sending the unredacted documents that she \nrequested by Federal Express tonight. They will be addressed to Katherine and will arrive tomorrow. \nPlease let me know if you need anything else. (I will turn my attention to the Victim Notification Log right now \nand get that to you in a half-hour.) And please give my regards, and the regards of and =, to the \nvictims with whom you are meeting tomorrow. \nThank you. \n«Epstein NonProsecution Agrmt w Addendum.pdf>> \n<<Florida Bar Ltr re Ethics Opinion.pdf>> \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013954",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Items",
+        "role": "extracted",
+        "context": "' (USAFLS)\" <I \nSubject: RE: Epstein Items \nDate: Wed, 17 Sep 2008 22:09"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 22:09:11 +0000 \nImportance: Normal \nThank you, We are actually going Fr"
+      },
+      {
+        "name": "Roy Black",
+        "role": "extracted",
+        "context": "owledge he has not heard from Roy Black and Tien. Thanks for all \nthe"
+      },
+      {
+        "name": "Kathy \nFrom",
+        "role": "extracted",
+        "context": "en. Thanks for all \nthe help. Kathy \nFrom: \n(USAFLS) [mailto \nSent: Wed"
+      },
+      {
+        "name": "Hi Katherine",
+        "role": "extracted",
+        "context": "RADA \nSubject: Epstein Items \nHi Katherine and Mercy: \nI have attached a"
+      },
+      {
+        "name": "Florida Bar",
+        "role": "extracted",
+        "context": "ttached a draft letter to the Florida Bar for your review along with th"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "our review along with the Non-Prosecution Agreement and \nAddendum. \nCan you let A"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "m. \nCan you let Amy know that Special Agent is sending the unredacted doc"
+      },
+      {
+        "name": "Federal Express",
+        "role": "extracted",
+        "context": "uments that she \nrequested by Federal Express tonight. They will be address"
+      },
+      {
+        "name": "Victim Notification",
+        "role": "extracted",
+        "context": "will turn my attention to the Victim Notification Log right now \nand get that t"
+      },
+      {
+        "name": "Epstein Non",
+        "role": "extracted",
+        "context": "eting tomorrow. \nThank you. \n«Epstein NonProsecution Agrmt w Addendum.p"
+      },
+      {
+        "name": "Prosecution Agrmt",
+        "role": "extracted",
+        "context": "row. \nThank you. \n«Epstein NonProsecution Agrmt w Addendum.pdf>> \n<<Florida B"
+      },
+      {
+        "name": "Ethics Opinion",
+        "role": "extracted",
+        "context": "m.pdf>> \n<<Florida Bar Ltr re Ethics Opinion.pdf>> \nAssistant U.S. Attorne"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "Opinion.pdf>> \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013954"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-09-17",
+        "event": "September 17, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.817Z"
+}

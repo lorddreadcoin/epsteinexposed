@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021355",
+    "filename": "EFTA00021355.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021355.pdf",
+    "text": "\n\nFrom: \n(USAWS)\" clIMI> \nTo: \"McNeil, M (CRM)\" \nCc: \n• 0 <SNIMIN>, \"SO \nSubject: Ghislaine Maxwell renewed bail application \nDate: Wed, 24 Feb 2021 01:10:34 +0000 \nAttachments: MAXWELL_BAIL_APPLICATION_with_EXHIBIT_2-23-17.pdf \nM, \nI hope all is well. Ghislaine Maxwell's attorneys filed a third bail application earlier today. As part of that application, they \nproposed that she will renounce her French and British citizenship, claiming that such a renunciation obviates the Court's \nconcerns about the validity of waivers of extradition. I have attached their application here. We have not yet been \nordered to reply, but would be grateful for your thoughts when you have a chance. \nThanks very much, \nM \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00021355",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "cNeil, M (CRM)\" \nCc: \n• 0 <SNIMIN>, \"SO \nSubject: Ghislaine Maxwell renewed bail application \nDate: Wed, 24 Feb 2021"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hance. \nThanks very much, \nM \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ry much, \nM \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.492Z"
+}

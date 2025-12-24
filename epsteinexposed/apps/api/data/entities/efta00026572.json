@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026572",
+    "filename": "EFTA00026572.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026572.pdf",
+    "text": "\n\nFrom: (USANYS)\" .:\nIMIIM> \nTo: \n(USANYS)\" \naNIMIN> \nCc: \n(USANYS)\"\nSubject: PC \nUpdates \nDate: Fri, 02 Oct 2020 20:40:57 +0000 \nAttachments: PC_Unitr_Short_Form_Update.10.2.20.docx \n= -  See attached. \nChief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00026572",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Updates \nDate",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\"\nSubject: PC \nUpdates \nDate: Fri, 02 Oct 2020 20:40:57 +0"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "x \n= -  See attached. \nChief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00026572"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.589Z"
+}

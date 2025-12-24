@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026811",
+    "filename": "EFTA00026811.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026811.pdf",
+    "text": "\n\nFrom: ' \n<MMINIF \nTo: \n<mmimm>,\nCc: ' \n\"\n(USANYS)\" \nSubject: Re: \nDate: Thu, 08 Oct 2020 20:38:03 +0000 \nAttachments: (U \n. (NY) (FBI)\" \npdf \nSee attached: \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking \nTask Force \nOffice: \nCell: \nFax: \nFrom: \nSent: Thursday, October 8, 2020 4:29 PM \nTo: \nCc: \nSubject: \nS; \n(NY) \n(FBI) ‹\n> \n(USANYS) \n<U \nHi IM and \nCould you please send us the notes and 302 from the most recent interview of =? \nThanks, \nEFTA00026811",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "ched: \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking \nTask Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human Trafficking \nTask Force \nOffice: \nCell:"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "ploitation Human Trafficking \nTask Force \nOffice: \nCell: \nFax: \nFrom:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-08",
+        "event": "October 8, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.888Z"
+}

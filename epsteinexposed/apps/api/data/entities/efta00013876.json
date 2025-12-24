@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00013876",
+    "filename": "EFTA00013876.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013876.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Letter re Epstein \nDate: Wed, 29 Oct 2008 18:14:12 +0000 \nImportance: Normal \nI would construe the request as one under the FOIA, and route it to \nnot sent it out, since I was on military leave on Oct 22-26. I will get it out this week. \nAs to the letter, I have \nFrom• \nSent: Wednesday, October 29, 2008 2:08 PM \nTo:\nCc: \nSubject: Letter re Epstein \nHi=n- I received a letter addressed to the \"Records Custodian\" for the U.S. Attorney's Office making a \n\"public records request for the entire file.\" FOIA is not referenced in the letter. Should I do anything with this \nletter or respond in any way? \nAlso, have you heard anything back from Mr. Edwards regarding your latest correspondence? \nThank you. \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhonel \nFax \nEFTA00013876",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Edwards",
+        "role": "extracted",
+        "context": "you heard anything back from Mr. Edwards regarding your latest cor"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: \nSubject: RE: Letter re Epstein \nDate: Wed, 29 Oct 2008 18:14:12 +0"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "To:\nCc: \nSubject: Letter re Epstein \nHi=n- I received a letter addres"
+      },
+      {
+        "name": "Records Custodian",
+        "role": "extracted",
+        "context": "ed a letter addressed to the \"Records Custodian\" for the U.S. Attorney's Offi"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "Thank you. \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhonel"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhonel \nFax \nEFTA0"
+      },
+      {
+        "name": "Phonel \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhonel \nFax \nEFTA00013876"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-10-29",
+        "event": "October 29, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.625Z"
+}

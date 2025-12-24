@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00032373",
+    "filename": "EFTA00032373.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032373.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Miller, Michael\" •cl \nCc: \"Martin G. \nWeinbe \n\"Weingarten, Reid\" \nSubject: Re: US v Epstein \nDate: Wed, 14 Aug 2019 21:05:36 +0000 \n )\"   \n\"Gilbert, Sara\" \nThanks very much. \nSent from my iPhone \nOn Aug 14, 2019, at 4:53 PM, Miller, Michael \n< \nAlison — \nWhy don't we use the following dial-in for tomorrow at 9:30? \n80943# \nMike \nMichael C. Miller \nPartner \nStept )C \nSteptoe & Johnson \nLLP \nwww.steptoe.com \nI \nNew York, NY 10036 \n> wrote: \nThis message and any attached documents contain information from the law firm Steptoe & Johnson LLP that may be confidential and/or privileged. If \nyou are not the intended recipient. please do not read. copy, distribute. or use this information. If you have received this transmission in error, please \nnotify the sender immediately by reply e-mail and then delete this message. \nFrom: \nSent: Wednesday, August 14, 2019 4:42 PM \nTo: Martin G. Weinberg \nCc: \nMiller, Michael < \nSubject: Re: US v Epstein \nMarty, \nThat time works for us, thanks. Could you please circulate a dial-in? \nThanks. \nSent from my iPhone \n>; \nWeingarten, Reid \nEFTA00032373\n\nOn Aug 14, 2019, at 11:23 AM, Martin G. Weinberg <> wrote: \nAlex, Mike and I are authorized to continue the discussion of potential civil forfeiture issues with you. Are you \navailable at 930 tomorrow morning? Thanks \nMartin G. Weinberg, Esq. \nBoston, MA 02116 \n This Electronic Message contains information from the Law \nOffice of Martin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the \naddressee only. If you are not the addressee, please note that any disclosure, copying, distribution, or use of \nthe contents of this message is prohibited. \nEFTA00032374",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ten, Reid\" \nSubject: Re: US v Epstein \nDate: Wed, 14 Aug 2019 21:05:36 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "nks very much. \nSent from my iPhone \nOn Aug 14, 2019, at 4:53 PM, Mil"
+      },
+      {
+        "name": "Mike \nMichael",
+        "role": "extracted",
+        "context": "or tomorrow at 9:30? \n80943# \nMike \nMichael C. Miller \nPartner \nStept )C"
+      },
+      {
+        "name": "Miller \nPartner",
+        "role": "extracted",
+        "context": "30? \n80943# \nMike \nMichael C. Miller \nPartner \nStept )C \nSteptoe & Johnson"
+      },
+      {
+        "name": "Weinberg \nCc",
+        "role": "extracted",
+        "context": ", 2019 4:42 PM \nTo: Martin G. Weinberg \nCc: \nMiller, Michael < \nSubject:"
+      },
+      {
+        "name": "Epstein \nMarty",
+        "role": "extracted",
+        "context": "Michael < \nSubject: Re: US v Epstein \nMarty, \nThat time works for us, tha"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "ingarten, Reid \nEFTA00032373\n\nOn Aug 14, 2019, at 11:23 AM, Martin"
+      },
+      {
+        "name": "Thanks \nMartin",
+        "role": "extracted",
+        "context": "able at 930 tomorrow morning? Thanks \nMartin G. Weinberg, Esq. \nBoston, MA"
+      },
+      {
+        "name": "This Electronic",
+        "role": "extracted",
+        "context": "erg, Esq. \nBoston, MA 02116 \n This Electronic Message contains information"
+      },
+      {
+        "name": "Law \nOffice",
+        "role": "extracted",
+        "context": "contains information from the Law \nOffice of Martin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      },
+      {
+        "name": "Boston, MA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.483Z"
+}

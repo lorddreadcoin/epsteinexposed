@@ -1,0 +1,77 @@
+{
+  "document": {
+    "id": "efta00015355",
+    "filename": "EFTA00015355.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015355.pdf",
+    "text": "\n\nUnited States Attorney \nSouthern District of New \nYork \nThere will be a press conference today at XX:00 a.m. to announce charges against Ghislaine \nMaxwell for her role in the sexual exploitation and abuse of multiple minor girls by Jeffrey Epstein. \nThe press conference will be livestreamed on Facebook @USAOSDNY.  Relevant documents \nare attached. \nWHO: Audrey Strauss, Acting United States Attorney for the Southern District of New \nYork \n., Assistant Director-in-Charge of the New York Office of \nthe Federal Bureau of Investigation \nWHAT: Press Conference \nWHEN: Wednesday, July, 1, 2020 \nxx:00 \np.m. \nWHERE: U.S. Attorne 's Office, Southern District of New York \nCONTACT: \nNOTE: Please silence all cell phones, PDAs, and pagers before start of press conference. \nMANDATORY COVID-19 PROTOCOLS WILL BE IN PLACE. \nCLICK HERE FOR GUIDANCE. \nDO NOT REPLY TO THIS MESSAGE. IF YOU HAVE QUESTIONS, PLEASE CALL THE \nPRESS OFFICE AT (212) 637-2600 \nEFTA00015355",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "exploitation and abuse of multiple minor girls by Jeffrey Epstein. \nThe press conference will be livestreamed on Fa"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "United States Attorney \nSouthern District of New \nYork \nThere"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ttorney \nSouthern District of New \nYork \nThere will be a press confer"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": ". to announce charges against Ghislaine \nMaxwell for her role in the sexual ex"
+      },
+      {
+        "name": "Audrey Strauss",
+        "role": "extracted",
+        "context": "ocuments \nare attached. \nWHO: Audrey Strauss, Acting United States Attorne"
+      },
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "tached. \nWHO: Audrey Strauss, Acting United States Attorney for the South"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Audrey Strauss, Acting United States Attorney for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "nited States Attorney for the Southern District of New \nYork \n., Assistant Di"
+      },
+      {
+        "name": "Assistant Director",
+        "role": "extracted",
+        "context": "ern District of New \nYork \n., Assistant Director-in-Charge of the New York Off"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "f the New York Office of \nthe Federal Bureau of Investigation \nWHAT: Press"
+      },
+      {
+        "name": "Press Conference",
+        "role": "extracted",
+        "context": "ureau of Investigation \nWHAT: Press Conference \nWHEN: Wednesday, July, 1, 20"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-2600"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.512Z"
+}

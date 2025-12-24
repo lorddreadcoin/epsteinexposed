@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029466",
+    "filename": "EFTA00029466.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029466.pdf",
+    "text": "\n\nFrom \nTo \nSubject: Epstein Oral Argument-- Second \nCircuit \nDate: The, 05 Feb 2019 16:57:01 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00029466",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Epstein Oral Argume"
+      },
+      {
+        "name": "Epstein Oral",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Epstein Oral Argument-- Second \nCircuit \nD"
+      },
+      {
+        "name": "Second \nCircuit",
+        "role": "extracted",
+        "context": "ject: Epstein Oral Argument-- Second \nCircuit \nDate: The, 05 Feb 2019 16:57"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 16:57:01 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00029466"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.478Z"
+}

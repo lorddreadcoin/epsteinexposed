@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023253",
+    "filename": "EFTA00023253.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023253.pdf",
+    "text": "\n\nFrom: \nY. \na \nTo: \na\" aNIMIE> \nBcc: \nSubject: Tentative: Maxwell - Discuss Images from \nEpstein Devices \nDate: Fri, 16 Oct 2020 13:05:26 +0000 \nEmbedded: Tentative: Maxwell_ Discuss Images from Epstein \nDevices.msg \nSender: \nSubject: Tentative: Maxwell - Discuss Images from Epstein Devices \nMessage-Id: \n<BN3P110MB0292293860DBB98AF47DA83184030®BN3P110MB0292.NAMP110.PROD.OUTLOOK.COM \nTo: \nEFTA00023253",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Discuss Images",
+        "role": "extracted",
+        "context": "Subject: Tentative: Maxwell - Discuss Images from \nEpstein Devices \nDate:"
+      },
+      {
+        "name": "Epstein Devices",
+        "role": "extracted",
+        "context": "axwell - Discuss Images from \nEpstein Devices \nDate: Fri, 16 Oct 2020 13:05"
+      },
+      {
+        "name": "Epstein \nDevices",
+        "role": "extracted",
+        "context": "Maxwell_ Discuss Images from Epstein \nDevices.msg \nSender: \nSubject: Tentat"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.558Z"
+}

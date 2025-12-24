@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00010374",
+    "filename": "EFTA00010374.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010374.pdf",
+    "text": "\n\nCase 1:20-mj-00132-AJ \nDocument 5 Filed 07/06/20 Page 1  of 2 \nUSDCNH-96 (Rev. 7/14) Appearance of Counsel \nUNITED STATES DISTRICT COURT \nfor the \nDistrict of New Hampshire \nUnited States of America \nPlaintiff \nV. \n    Ghislaine Maxwell \nDefendant \nCase \nNo. \n20-cr-330 \nAPPEARANCE OF \nCOUNSEL \nTo: The clerk of court and all parties of record \nI  am admitted or otherwise authorized to practice in this court, and I appear in this case as counsel for: \nGhislaine Maxwell \nDate: \n07/06/2020 /s/Lawrence A. Vogelman \nAttorney's signature \nLawrence A. Vogelman #10280 \nPrinted name and bar number \nAddress \nE-mail address \nt \nTelephone number \nFAX number \nEFTA00010374\n\nCase 1:20-mj-00132-AJ Document 5 Filed 07/06/20 Page 2 of 2 \nYou need not complete a certificate of service for any party served electronically using the court's CM/ECF system. \nCERTIFICATE OF SERVICE \nI  hereby certify that this Appearance was served on the following persons on this date and in the \nmanner specified herein: \nElectronically Served Through ECF: \nNI counsel of record \nConventionally Served: \n07/06/2020 \n/s/Lawrence A. Vogelman \nDate Signature \nEFTA00010375",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ire \nUnited States of America \nPlaintiff \nV. \n    Ghislaine Maxwell \nDefendant \nCase \nNo. \n20-cr-330 \nAPPEARANCE OF"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "T COURT \nfor the \nDistrict of New Hampshire \nUnited States of America \nPl"
+      },
+      {
+        "name": "America \nPlaintiff",
+        "role": "extracted",
+        "context": "w Hampshire \nUnited States of America \nPlaintiff \nV. \n    Ghislaine Maxwell \nD"
+      },
+      {
+        "name": "Defendant \nCase",
+        "role": "extracted",
+        "context": "f \nV. \n    Ghislaine Maxwell \nDefendant \nCase \nNo. \n20-cr-330 \nAPPEARANCE O"
+      },
+      {
+        "name": "Vogelman \nAttorney",
+        "role": "extracted",
+        "context": "e: \n07/06/2020 /s/Lawrence A. Vogelman \nAttorney's signature \nLawrence A. Voge"
+      },
+      {
+        "name": "Electronically Served",
+        "role": "extracted",
+        "context": "he \nmanner specified herein: \nElectronically Served Through ECF: \nNI counsel of r"
+      },
+      {
+        "name": "Conventionally Served",
+        "role": "extracted",
+        "context": "h ECF: \nNI counsel of record \nConventionally Served: \n07/06/2020 \n/s/Lawrence A."
+      },
+      {
+        "name": "Vogelman \nDate",
+        "role": "extracted",
+        "context": ": \n07/06/2020 \n/s/Lawrence A. Vogelman \nDate Signature \nEFTA00010375"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-06",
+        "event": "07/06/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.841Z"
+}

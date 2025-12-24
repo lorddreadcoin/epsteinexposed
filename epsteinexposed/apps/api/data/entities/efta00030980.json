@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030980",
+    "filename": "EFTA00030980.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030980.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Contact in NM re: Epstein \nDate: Thu, 29 Aug 2019 13:50:23 +0000 \nAsset Forfeiture AUSa \nfrom New Mexico reached out to EOUSA about seizing Epstein's \nproperty in New Mexico. I advised EOUSA that SDNY is handling this case and that things need to be \ncoordinated with your office. Please seeM information below. \nNational Coordinator for Child Exploitation Prevention & Interdiction \nOffice of the De \nut Attorney General \nEFTA00030980",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ": \nSubject: Contact in NM re: Epstein \nDate: Thu, 29 Aug 2019 13:50:23 +0"
+      },
+      {
+        "name": "Asset Forfeiture",
+        "role": "extracted",
+        "context": ", 29 Aug 2019 13:50:23 +0000 \nAsset Forfeiture AUSa \nfrom New Mexico reached"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "Asset Forfeiture AUSa \nfrom New Mexico reached out to EOUSA about se"
+      },
+      {
+        "name": "National Coordinator",
+        "role": "extracted",
+        "context": "ease seeM information below. \nNational Coordinator for Child Exploitation Preven"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "ow. \nNational Coordinator for Child Exploitation Prevention & Interdiction \nOf"
+      },
+      {
+        "name": "Interdiction \nOffice",
+        "role": "extracted",
+        "context": "ild Exploitation Prevention & Interdiction \nOffice of the De \nut Attorney Genera"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "diction \nOffice of the De \nut Attorney General \nEFTA00030980"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.164Z"
+}

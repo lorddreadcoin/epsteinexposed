@@ -1,0 +1,139 @@
+{
+  "document": {
+    "id": "efta00023970",
+    "filename": "EFTA00023970.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023970.pdf",
+    "text": "\n\n90A-NY-3151227 Serial 6 \nFD-I087 (Rev. 5-8-I0) \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submission of \nCART Evidence \nDate: 08/14/2019 \nNYC023580 \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nCollected From: (U) MCC-NY \nReceipt Given?: No \nHolding Office: NEW YORK \nDetails: \nSubmission of CART Evidence NYC023580: One (1) Seagate Barracuda 500GB \nHDD, ST500DM002, \nS/N 23T6CF5X, from MCC Nice \nVision DVR2 \nSurveillance \nSystem (3 of \n18). \nItem Type Description \nlb Digital (U) NYC023580: One (1) \nSeagate Barracuda 500GB HDD, \nST500DM002, S/N \n23T6CF5X, from MCC Nice Vision DVR2 \nSurveillance System (3 of 18). \nCollected On: 08/10/2019 \n04:30 PM EDT \nSeizing \nIndividual: \nLocated By: \nDevice Type: Hard Drive \nDesignation: Original \nNumber of Devices Collected: 1 \n.• \nUNCLASSIFIED \nThis document contains neither recommendations nor conclusions of the FBI. Ins the property of the FBI and is loaned to your agency; it and its \ncontents arc not to be distributed outside your agency. \nEFTA00023970",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ed By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nCollected From: ("
+      },
+      {
+        "name": "Collected Item",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submiss"
+      },
+      {
+        "name": "Log \nEvent",
+        "role": "extracted",
+        "context": "INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submission of \nCAR"
+      },
+      {
+        "name": "Evidence \nDate",
+        "role": "extracted",
+        "context": "itle: (U) Submission of \nCART Evidence \nDate: 08/14/2019 \nNYC023580 \nAppro"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "Date: 08/14/2019 \nNYC023580 \nApproved By: \nDrafted By: \nCase ID #: 90A"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "019 \nNYC023580 \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227"
+      },
+      {
+        "name": "Collected From",
+        "role": "extracted",
+        "context": "VICTIM; \nDEATH INVESTIGATION \nCollected From: (U) MCC-NY \nReceipt Given?:"
+      },
+      {
+        "name": "Receipt Given",
+        "role": "extracted",
+        "context": "Collected From: (U) MCC-NY \nReceipt Given?: No \nHolding Office: NEW YOR"
+      },
+      {
+        "name": "No \nHolding",
+        "role": "extracted",
+        "context": ": (U) MCC-NY \nReceipt Given?: No \nHolding Office: NEW YORK \nDetails: \nS"
+      },
+      {
+        "name": "Seagate Barracuda",
+        "role": "extracted",
+        "context": "T Evidence NYC023580: One (1) Seagate Barracuda 500GB \nHDD, ST500DM002, \nS/N"
+      },
+      {
+        "name": "Nice \nVision",
+        "role": "extracted",
+        "context": "M002, \nS/N 23T6CF5X, from MCC Nice \nVision DVR2 \nSurveillance \nSystem (3"
+      },
+      {
+        "name": "Surveillance \nSystem",
+        "role": "extracted",
+        "context": ", from MCC Nice \nVision DVR2 \nSurveillance \nSystem (3 of \n18). \nItem Type Descri"
+      },
+      {
+        "name": "Item Type",
+        "role": "extracted",
+        "context": "eillance \nSystem (3 of \n18). \nItem Type Description \nlb Digital (U) N"
+      },
+      {
+        "name": "Nice Vision",
+        "role": "extracted",
+        "context": "M002, S/N \n23T6CF5X, from MCC Nice Vision DVR2 \nSurveillance System (3"
+      },
+      {
+        "name": "Surveillance System",
+        "role": "extracted",
+        "context": "X, from MCC Nice Vision DVR2 \nSurveillance System (3 of 18). \nCollected On: 08/"
+      },
+      {
+        "name": "Collected On",
+        "role": "extracted",
+        "context": "rveillance System (3 of 18). \nCollected On: 08/10/2019 \n04:30 PM EDT \nSe"
+      },
+      {
+        "name": "Seizing \nIndividual",
+        "role": "extracted",
+        "context": "On: 08/10/2019 \n04:30 PM EDT \nSeizing \nIndividual: \nLocated By: \nDevice Type: H"
+      },
+      {
+        "name": "Located By",
+        "role": "extracted",
+        "context": "PM EDT \nSeizing \nIndividual: \nLocated By: \nDevice Type: Hard Drive \nDe"
+      },
+      {
+        "name": "Device Type",
+        "role": "extracted",
+        "context": "ng \nIndividual: \nLocated By: \nDevice Type: Hard Drive \nDesignation: Ori"
+      },
+      {
+        "name": "Hard Drive",
+        "role": "extracted",
+        "context": "l: \nLocated By: \nDevice Type: Hard Drive \nDesignation: Original \nNumbe"
+      },
+      {
+        "name": "Original \nNumber",
+        "role": "extracted",
+        "context": "ype: Hard Drive \nDesignation: Original \nNumber of Devices Collected: 1 \n.•"
+      },
+      {
+        "name": "Devices Collected",
+        "role": "extracted",
+        "context": "ignation: Original \nNumber of Devices Collected: 1 \n.• \nUNCLASSIFIED \nThis do"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "08/14/2019"
+      },
+      {
+        "date": "2019-08-10",
+        "event": "08/10/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.993Z"
+}

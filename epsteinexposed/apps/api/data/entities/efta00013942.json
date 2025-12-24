@@ -1,0 +1,99 @@
+{
+  "document": {
+    "id": "efta00013942",
+    "filename": "EFTA00013942.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013942.pdf",
+    "text": "\n\nFrom: '   (USAFLS)\" \nC \nTo: (USAFLS)\"\nBcc: ' (USAFLS)\" \nC \nSubject: FW: Draft Protective Order \nDate: Fri, 15 Aug 2008 16:10:04 +0000 \nImportance: Normal \nAttachments: Protective Order.Final.doc \nHey —  I  am going to leave this to you, if that is alright. I  know it is difficult when too many cooks get \ninvolved. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: Brad Edwards [mailto \nSent: Frida August 15, 2008 11:59 AM \nTo: USAFLS \nCc: . (USAFLS); Paul Cassell \nSubject: RE: Draft Protective Order \nThis is my proposed Order. I think it comports with the Judge's order from yesterday and I think it is slightly more \nthorough. It is very similar to your Motion. If you are more satisfied with your wording or layout for the motion, then please \nincorporate the additional points made in my proposed order. \nMy only real problem with your proposed Order is paragraph C. This just further delays us from getting the agreement, and \nI do not believe the Judge placed this burden on us. I think, as I wrote in my proposed order, that it is my duty to instruct \nmy clients on the protective order and its function and to otherwise ensure that it is not violated by my clients. Getting my \nclients to \"acknowledge receipt of the order and agree to its terms\" could take awhile and cause unnecessary delay. I plan \nto talk to my clients about \"the agreement\" and at the same time instruct them as to the rules outlined in the protective \norder. That is all the Judge indicated as needed to be done. \nFrom: (USAFLS) [mailto: \nSent: Friday, August 15, 2008 11:41 AM \nTo: Brad Edwards \nCc: .(USAFLS) \nSubject: Draft Protective Order \nBrad, \nAttached please find a draft protective order regarding the disclosure of the non-prosecution agreement to you \nand Jane Does 1 and 2. Please let us know if there are any changes you wish to make. Thanks. \n<<Protective Order.doc» \nEFTA00013942",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Draft Protective",
+        "role": "extracted",
+        "context": "' (USAFLS)\" \nC \nSubject: FW: Draft Protective Order \nDate: Fri, 15 Aug 2008"
+      },
+      {
+        "name": "Order \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: Draft Protective Order \nDate: Fri, 15 Aug 2008 16:10:04 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 16:10:04 +0000 \nImportance: Normal \nAttachments: Protective Order.Final.doc"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "ortance: Normal \nAttachments: Protective Order.Final.doc \nHey —  I  am going"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "et \ninvolved. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom:"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: Brad Edwards [mailto"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": ", FL 33401 \nPhone \nFax \nFrom: Brad Edwards [mailto \nSent: Frida August 1"
+      },
+      {
+        "name": "Frida August",
+        "role": "extracted",
+        "context": ": Brad Edwards [mailto \nSent: Frida August 15, 2008 11:59 AM \nTo: USAFLS"
+      },
+      {
+        "name": "Paul Cassell",
+        "role": "extracted",
+        "context": "To: USAFLS \nCc: . (USAFLS); Paul Cassell \nSubject: RE: Draft Protectiv"
+      },
+      {
+        "name": "Order \nThis",
+        "role": "extracted",
+        "context": "Subject: RE: Draft Protective Order \nThis is my proposed Order. I think"
+      },
+      {
+        "name": "Order \nBrad",
+        "role": "extracted",
+        "context": "S) \nSubject: Draft Protective Order \nBrad, \nAttached please find a draf"
+      },
+      {
+        "name": "Jane Does",
+        "role": "extracted",
+        "context": "ecution agreement to you \nand Jane Does 1 and 2. Please let us know i"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-08-15",
+        "event": "August 15, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.787Z"
+}

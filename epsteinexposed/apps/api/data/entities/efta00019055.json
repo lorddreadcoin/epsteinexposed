@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00019055",
+    "filename": "EFTA00019055.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019055.pdf",
+    "text": "\n\nFrom: (USANYS)\" <I \nTo:\" )\" ctl \nSubject: RE: set \nbook \nDate: Wed, 29 Sep 2021 19:54:13 +0000 \nImportance: Normal \nAttachments: Epstein_Photo_Book_6.16.21.docx \nAttached. It is in the 18th production, FYI, and saved here: W.Usa.doj.gov \\ cloud NYS\\ StAndrews Shared USvEpstein-\n2018R01618Wiscovery \\ GM \\27 Eighteenth Production (2021-07-28)\\IOriginals \nFrom: \nSent: Wednesday, September 29, 2021 3:49 PM \nTo: (USANYS) \nSubject: set book \nDo you have a copy you could email me? \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019055",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 19:54:13 +0000 \nImportance: Normal \nAttachments: Epstein_Photo_Book_6.16.21.d"
+      },
+      {
+        "name": "Andrews Shared",
+        "role": "extracted",
+        "context": "W.Usa.doj.gov \\ cloud NYS\\ StAndrews Shared USvEpstein-\n2018R01618Wiscove"
+      },
+      {
+        "name": "Eighteenth Production",
+        "role": "extracted",
+        "context": "2018R01618Wiscovery \\ GM \\27 Eighteenth Production (2021-07-28)\\IOriginals \nFrom"
+      },
+      {
+        "name": "Originals \nFrom",
+        "role": "extracted",
+        "context": "enth Production (2021-07-28)\\IOriginals \nFrom: \nSent: Wednesday, September"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e a copy you could email me? \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d email me? \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00019055"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-07-28",
+        "event": "2021-07-28"
+      },
+      {
+        "date": "2021-09-29",
+        "event": "September 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.196Z"
+}

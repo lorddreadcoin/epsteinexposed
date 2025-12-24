@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011184",
+    "filename": "EFTA00011184.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011184.pdf",
+    "text": "\n\nExhibit R \nEFTA00011184\n\nTimeline of Discussions \nwith SDNY Prosecutors \nEFTA00011185\n\nMaxwell's Attorneys Were In Regular Contact With SDNY Prosecutors \nPagliuca and \nSDNY prosecutors \nPagliuca and \nSDNY prosecutors \nt o July \n15 \nEverdell and \nSDNY prosecutors \nJuly \n15 - 16 \nEverdell and \nSDNY prosecutors \nCohen, Everdell, \nand SDNY \nprosecutors meet \nat SDNY offices \nIU4 Jul 31 -  Aug 2 \nEverdell and \nSDNY prosecutors \nEverdell and \nSDNY prosecutors \na  August 14 - 15 \nEverdell and \nSDNY prosecutors \nt o    August 15 \nCohen, Everdell \nand SDNY \nprosecutors \nr \nSeptember 3-5 \nEverdell and \nSDNY prosecutors \nt o September 5 \nCohen, Everdell, \nPagliuca, and \nSDNY prosecutors \nSeptember 10 - 11 \nEverdell and \nSDNY prosecutors \nPhone Calls \nOctober 2 \nEverdell and \nSDNY prosecutors \nCohen, Everdell, \nPagliuca, and \nSDNY prosecutors \nmeet at SDNY \noffices \nEmafls Meetings \nCohen, Everdell, \nand SDNY \nprosecutors \nCohen, Everdell, \nand SDNY \nprosecutors \n2 0 1 9 2020 \nEFTA00011186",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorneys Were",
+        "role": "extracted",
+        "context": "tors \nEFTA00011185\n\nMaxwell's Attorneys Were In Regular Contact With SDNY"
+      },
+      {
+        "name": "In Regular",
+        "role": "extracted",
+        "context": "185\n\nMaxwell's Attorneys Were In Regular Contact With SDNY Prosecutors"
+      },
+      {
+        "name": "Contact With",
+        "role": "extracted",
+        "context": "l's Attorneys Were In Regular Contact With SDNY Prosecutors \nPagliuca an"
+      },
+      {
+        "name": "Prosecutors \nPagliuca",
+        "role": "extracted",
+        "context": "In Regular Contact With SDNY Prosecutors \nPagliuca and \nSDNY prosecutors \nPagliu"
+      },
+      {
+        "name": "Phone Calls",
+        "role": "extracted",
+        "context": "erdell and \nSDNY prosecutors \nPhone Calls \nOctober 2 \nEverdell and \nSDN"
+      },
+      {
+        "name": "Emafls Meetings",
+        "role": "extracted",
+        "context": "utors \nmeet at SDNY \noffices \nEmafls Meetings \nCohen, Everdell, \nand SDNY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.272Z"
+}

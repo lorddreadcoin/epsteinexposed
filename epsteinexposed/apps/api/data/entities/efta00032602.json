@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00032602",
+    "filename": "EFTA00032602.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032602.pdf",
+    "text": "\n\nFrom: \"a\" alMIE> \nTo: Nathan NYSD Chambers <\n1.> \nCc: \nChristian Everdell \nSANYS \nJeff \nPagliuca Laura Menninger \nSubject: US v. Maxwell - Government Reply regarding GX 52 \nDate: Sun, 21 Nov 2021 16:50:42 +0000 \nAttachments: 2021-11-20_GM_reply_re_GX-52_final.pdf \nChambers, \nAttached please find the Government's reply brief regarding Government Exhibit 52, which the Government submits \ntemporarily under \nseal. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00032602",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "han NYSD Chambers <\n1.> \nCc: \nChristian Everdell \nSANYS \nJeff \nPagliuca Laura"
+      },
+      {
+        "name": "Jeff \nPagliuca",
+        "role": "extracted",
+        "context": ": \nChristian Everdell \nSANYS \nJeff \nPagliuca Laura Menninger \nSubject: US"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "erdell \nSANYS \nJeff \nPagliuca Laura Menninger \nSubject: US v. Maxwell - Gov"
+      },
+      {
+        "name": "Government Reply",
+        "role": "extracted",
+        "context": "ger \nSubject: US v. Maxwell - Government Reply regarding GX 52 \nDate: Sun, 2"
+      },
+      {
+        "name": "Government Exhibit",
+        "role": "extracted",
+        "context": "nment's reply brief regarding Government Exhibit 52, which the Government subm"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.049Z"
+}

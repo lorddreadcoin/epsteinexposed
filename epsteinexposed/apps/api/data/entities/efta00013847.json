@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013847",
+    "filename": "EFTA00013847.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013847.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Read: Emailing: Villafana Supplemental Declaration.wpd re Epstein \nDate: Fri, 19 Dec 2008 22:04:30 +0000 \nImportance: Normal \nEFTA00013847",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Villafana Supplemental",
+        "role": "extracted",
+        "context": "To: \nSubject: Read: Emailing: Villafana Supplemental Declaration.wpd re Epstein \nD"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "pplemental Declaration.wpd re Epstein \nDate: Fri, 19 Dec 2008 22:04:30 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.568Z"
+}

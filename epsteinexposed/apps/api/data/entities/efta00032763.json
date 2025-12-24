@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032763",
+    "filename": "EFTA00032763.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032763.pdf",
+    "text": "\n\nFrom: \"Kristina.L.Hendrickson \nTo: .cj \nSubject: Invitation to view the folder \"Epstein (Kristina Hendrickson)\" \nDate: Sat, 13 Jul 2019 17:57:09 +0000 \nInline-Images: ATT00001.png \n.\\r,IFF\"iKAN \nEXPRESS \nAMEXDRIVE \nInvitation to view shared folder \nKristina \nHendrickson used AmexDrive to share a folder with you. To view the \nshared folder, click on the button below. \nI \n111.1\"; ET \nSharing expires on Jul 12, 2020 \nWe will be happy to answer any questions you may have. \nThe AmexDrive Team \nhttps://square.americanexpress.comfoommunity/toolscrocramsfamexclrive \nEFTA00032763\n\nAmerican Express made the following annotations \n\"This message and any attachments are solely for the intended recipient and may contain confidential or privileged \ninformation. If you are not the intended recipient, any disclosure, copying, use, or distribution of the information \nincluded in this message and any attachments is prohibited. If you have received this communication in error, \nplease notify us by reply e-mail and immediately and permanently delete this message and any attachments. Thank \nyou.\" \nAmerican Express a ajoute le commentaire suivant le \nCe courrier et toute \npiece jointe qu'il contient sont reserves au seul destinataire indique et peuvent renfermer des \nrenseignements confidentiels et privilegies. Si vous n'etes pas le destinataire ptevu, toute divulgation, duplication, \nutilisation ou distribution du courrier ou de toute piece jointe est interdite. Si vous avez recu cette communication \npar erreur, veuillez nous en aviser par courrier et detruire immediatement le courrier et les pieces jointes. Merci. \nEFTA00032764",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hendrickson \nTo",
+        "role": "extracted",
+        "context": "From: \"Kristina.L.Hendrickson \nTo: .cj \nSubject: Invitation to"
+      },
+      {
+        "name": "Kristina Hendrickson",
+        "role": "extracted",
+        "context": "to view the folder \"Epstein (Kristina Hendrickson)\" \nDate: Sat, 13 Jul 2019 17:"
+      },
+      {
+        "name": "Kristina \nHendrickson",
+        "role": "extracted",
+        "context": "tation to view shared folder \nKristina \nHendrickson used AmexDrive to share a fol"
+      },
+      {
+        "name": "The Amex",
+        "role": "extracted",
+        "context": "any questions you may have. \nThe AmexDrive Team \nhttps://square.ame"
+      },
+      {
+        "name": "Drive Team",
+        "role": "extracted",
+        "context": "stions you may have. \nThe AmexDrive Team \nhttps://square.americanexpre"
+      },
+      {
+        "name": "American Express",
+        "role": "extracted",
+        "context": "amsfamexclrive \nEFTA00032763\n\nAmerican Express made the following annotation"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.443Z"
+}

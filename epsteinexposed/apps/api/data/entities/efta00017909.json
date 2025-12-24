@@ -1,0 +1,57 @@
+{
+  "document": {
+    "id": "efta00017909",
+    "filename": "EFTA00017909.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017909.pdf",
+    "text": "\n\nFrom: \"Berman. Geoffrey (USANYS)\"  \nTo: a\"\nilkNYSr  \nSubject: Fwd: Epstein Ranch \nDate: Thu, 21 Nov 2019 21:00:10 +0000 \n(USANYS)\" \nWe should subpoena the estate and executors for all videos and pictures from surveillance cameras from his \nestates. \nBegin forwarded \nmessage: \nFrom: ' \n(USANYS)\" \nDate: No\\ \ncinhcr \n21 2019 at 10:15:05 AM EST \nTo: ' \n  \n(USANYS)\" < \n, \"Berman Geoffre USANYS \nCc: (USANYS) \nSubject: Epstein Ranch \nSending a link so you can see the photos. https://www.dailymail.co.uldnews/article-7703257/New-photos-Jeffrey-\nEpsteins-New-Mexico-ranch-pedophiles-eight-person-party-showechtml \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office [Southern District of New York \nII \nI  Press Office: (212) 637-1020 \nEFTA00017909",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sr  \nSubject",
+        "role": "extracted",
+        "context": "ffrey (USANYS)\"  \nTo: a\"\nilkNYSr  \nSubject: Fwd: Epstein Ranch \nDate: Th"
+      },
+      {
+        "name": "Epstein Ranch",
+        "role": "extracted",
+        "context": "o: a\"\nilkNYSr  \nSubject: Fwd: Epstein Ranch \nDate: Thu, 21 Nov 2019 21:00"
+      },
+      {
+        "name": "Berman Geoffre",
+        "role": "extracted",
+        "context": "ST \nTo: ' \n  \n(USANYS)\" < \n, \"Berman Geoffre USANYS \nCc: (USANYS) \nSubject"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ight-person-party-showechtml \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office [Southern District of New York \nII \nI  Press Off"
+      },
+      {
+        "name": "New York \nII",
+        "role": "extracted",
+        "context": "Office [Southern District of New York \nII \nI  Press Office: (212) 637-1"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "District of New York \nII \nI  Press Office: (212) 637-1020 \nEFTA00017909"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-1020"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.844Z"
+}

@@ -1,0 +1,34 @@
+{
+  "document": {
+    "id": "efta00028192",
+    "filename": "EFTA00028192.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028192.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: FW: Read: Jail where Epstein died has history of security breaches \nDate: Mon, 09 Sep 2019 18:31:19 +0000 \nFrom \nSent: Monday, September 9, 2019 2:29 PM \nTo: \nSubject: FW: Read: Jail where Epstein died has history of security breaches \nFrom \nSent: Friday, September 06, 2019 5:38 PM \nTo: \nSubject: Read: Jail where Epstein died has history of security breaches \nRead the below article for references \nhttps://nypost.com/2019/09/05/jail-where-jeffrey-epstein-died-has-egregious-history-of-security-breaches/ \nEFTA00028192",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": ", 09 Sep 2019 18:31:19 +0000 \nFrom \nSent: Monday, September 9, 2019 2:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-09",
+        "event": "September 9, 2019"
+      },
+      {
+        "date": "2019-09-06",
+        "event": "September 06, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.798Z"
+}

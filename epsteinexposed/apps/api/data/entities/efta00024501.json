@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00024501",
+    "filename": "EFTA00024501.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024501.pdf",
+    "text": "\n\nFrom: \"Weinstein. t\\1arc A.\" \nTo: \n, Andrew Tomback \nSubject: Epstein NY property \nDate: Thu, 16 Jul 2020 14:27:18 +0000 \nImportance: Normal \nAttachments: unnamed \nInline-Images: ATT46538_1.jpg \nHEM \nOrdineMeetingCenter \nDial-In Information (for meetings with no presentations or video) \nDial-In Number: \nConference ID: 612758867 \nOne touch dial-in from mobile  phone  (via \ncellular service) \nAdditional Dial-In Numbers \nBrazil \nCanada \nChina \nFrance \nGermany + \nIndia \nIreland \nIsrael \nJapan \nKorea (Seoul) \nSingapore \nUnited Kingdom \nUnited States \nFull list of dial-in numbers \nMeetings with a presentation or video \nConnect from computer or mobile device (via network/internet \nconnection) \nHelp \nTry Skype Web App if you are having  trouble  joining \nJoining from a computer using the \"Connect from computer or mobile device\" link provides additional \ncapabilities, however you can simply call in from your telephone using the number provided above if your \nmeeting will not include video or a presentation. Click the \"Help\" link for additional information if you are a \nguest joining a Skype for Business meeting from your computer or mobile device for the first time. \nFor meeting organizers: Reset your dial-in PIN? \nEFTA00024501",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "Weinstein. t\\1arc A.\" \nTo: \n, Andrew Tomback \nSubject: Epstein NY property"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 14:27:18 +0000 \nImportance: Normal \nAttachments: unnamed \nInline-Images: ATT4"
+      },
+      {
+        "name": "Center \nDial",
+        "role": "extracted",
+        "context": "6538_1.jpg \nHEM \nOrdineMeetingCenter \nDial-In Information (for meetings"
+      },
+      {
+        "name": "In Information",
+        "role": "extracted",
+        "context": "EM \nOrdineMeetingCenter \nDial-In Information (for meetings with no present"
+      },
+      {
+        "name": "In Number",
+        "role": "extracted",
+        "context": "presentations or video) \nDial-In Number: \nConference ID: 612758867 \nO"
+      },
+      {
+        "name": "Additional Dial",
+        "role": "extracted",
+        "context": "one  (via \ncellular service) \nAdditional Dial-In Numbers \nBrazil \nCanada \nC"
+      },
+      {
+        "name": "In Numbers",
+        "role": "extracted",
+        "context": "lar service) \nAdditional Dial-In Numbers \nBrazil \nCanada \nChina \nFranc"
+      },
+      {
+        "name": "Brazil \nCanada",
+        "role": "extracted",
+        "context": "Additional Dial-In Numbers \nBrazil \nCanada \nChina \nFrance \nGermany + \nIn"
+      },
+      {
+        "name": "China \nFrance",
+        "role": "extracted",
+        "context": "l-In Numbers \nBrazil \nCanada \nChina \nFrance \nGermany + \nIndia \nIreland \nI"
+      },
+      {
+        "name": "India \nIreland",
+        "role": "extracted",
+        "context": "da \nChina \nFrance \nGermany + \nIndia \nIreland \nIsrael \nJapan \nKorea (Seoul)"
+      },
+      {
+        "name": "Israel \nJapan",
+        "role": "extracted",
+        "context": "e \nGermany + \nIndia \nIreland \nIsrael \nJapan \nKorea (Seoul) \nSingapore \nUn"
+      },
+      {
+        "name": "Singapore \nUnited",
+        "role": "extracted",
+        "context": "Israel \nJapan \nKorea (Seoul) \nSingapore \nUnited Kingdom \nUnited States \nFull"
+      },
+      {
+        "name": "Kingdom \nUnited",
+        "role": "extracted",
+        "context": "ea (Seoul) \nSingapore \nUnited Kingdom \nUnited States \nFull list of dial-in"
+      },
+      {
+        "name": "States \nFull",
+        "role": "extracted",
+        "context": "apore \nUnited Kingdom \nUnited States \nFull list of dial-in numbers \nMeet"
+      },
+      {
+        "name": "Help \nTry",
+        "role": "extracted",
+        "context": "etwork/internet \nconnection) \nHelp \nTry Skype Web App if you are havi"
+      },
+      {
+        "name": "Skype Web",
+        "role": "extracted",
+        "context": "ernet \nconnection) \nHelp \nTry Skype Web App if you are having  troubl"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.280Z"
+}

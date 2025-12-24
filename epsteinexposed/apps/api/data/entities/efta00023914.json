@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023914",
+    "filename": "EFTA00023914.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023914.pdf",
+    "text": "\n\nFrom: \nTo: M'n \n<a'\n,\nSubject: Epstein Documents from BOP without Green Watermark \nDate: Sun, 11 Apr 2021 16:26:42 +0000 \n(USANYS)\" \nand \nI recall that at some point you requested a version of the Epstein FOIA documents from BOP without the translucent \ngreen watermark they put on the withheld documents. Do you have those saved down somewhere? Although the Court \nhas not put in a specific order yet, I think it's likely that we'll need to produce documents without the translucent green \nmarking to the Court. I have versions without the watermark for some of the docs, but it looks like not all. Do you have a \ncomprehensive set somewhere? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00023914",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Documents",
+        "role": "extracted",
+        "context": "rom: \nTo: M'n \n<a'\n,\nSubject: Epstein Documents from BOP without Green Waterm"
+      },
+      {
+        "name": "Green Watermark",
+        "role": "extracted",
+        "context": "in Documents from BOP without Green Watermark \nDate: Sun, 11 Apr 2021 16:26"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "sive set somewhere? \nThanks, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTele"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.870Z"
+}

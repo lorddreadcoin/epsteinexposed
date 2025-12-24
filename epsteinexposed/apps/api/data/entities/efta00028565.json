@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00028565",
+    "filename": "EFTA00028565.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028565.pdf",
+    "text": "\n\nFrom: \nTo:' \n(USANYS)\" czi \n r \n-zI \nSubject: RE: Epstein victim notification \nDate: Thu, 25 Jun 2020 16:36:24 +0000 \nI am sitting at my desk. 1028 anytime. \nFrom: \nSent: Thursday, June 25, 2020 12:31 PM \nTo: (USANYS) ‹> \nSubject: Epstein victim notification \nI \n•c> \nHi \nI hope you're doing well. Do you have a minute this afternoon for a short call about victim notification in this case? I'm \nfree anytime this afternoon except for 3, if you have a moment to discuss. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00028565",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "moment to discuss. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00028565"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-25",
+        "event": "June 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.485Z"
+}

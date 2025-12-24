@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00030245",
+    "filename": "EFTA00030245.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030245.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: FW: US v. Jeffrey Epstein / 2O18R01618 / Docket: 19-CR-00490 \nDate: Fri, 12 Jul 2019 17:24:57 +0000 \nImportance: Normal \nThey (she) knows. I sent this to all three just in case. \nFrom: \nSent: Friday, July 12, 2019 1:23 PM \nTo: \nCc \nSubject: US v. Jeffrey Epstein / 2018R01618 / Docket: 19-CR-00490 \nThe above captioned case has been indicted by the USAO in SDNY and is pending in Federal District Court Southern \nDistrict of New York. All notifications will be going out to the victims from the USAO SDNY. If you require a copy of the \nAttorney General Guidelines in which it specifically notes when the USAO sends out notifications I can provide it. \nRegards, \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nEFTA00030245",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: FW: US v. Jeffrey Epstein / 2O18R01618 / Docket: 19-CR-00490 \nDate: Fri, 12"
+      },
+      {
+        "name": "Normal \nThey",
+        "role": "extracted",
+        "context": "9 17:24:57 +0000 \nImportance: Normal \nThey (she) knows. I sent this to a"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": ", July 12, 2019 1:23 PM \nTo: \nCc \nSubject: US v. Jeffrey Epstein / 2018"
+      },
+      {
+        "name": "Federal District",
+        "role": "extracted",
+        "context": "SAO in SDNY and is pending in Federal District Court Southern \nDistrict of N"
+      },
+      {
+        "name": "Court Southern",
+        "role": "extracted",
+        "context": "s pending in Federal District Court Southern \nDistrict of New York. All no"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "If you require a copy of the \nAttorney General Guidelines in which it specif"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "I can provide it. \nRegards, \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "it. \nRegards, \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "n District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.365Z"
+}

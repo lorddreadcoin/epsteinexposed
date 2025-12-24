@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00023177",
+    "filename": "EFTA00023177.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023177.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nSubject: RE: Maxwell Investigation - Friendly Subpoena to Real Estate Attorney \nDate: Wed, 08 Jul 2020 13:09:01 +0000 \nThanks very much. \nFrom: \nSent: Wednesday, July 8, 2020 9:05 AM \nTo: >; \nCc: a' \nSubject: RE: Maxwell Investigation - Friendly Subpoena to Real Estate Attorney \nhas approved this \"friendly subpoena\" to \nThanks, \nFrom: \nSent: Tuesday, July 7, 2020 5:04 PM \nTo: \nCc: \nSubject: Maxwell Investigation - Friendly Subpoena to Real Estate Attorney \nThe Maxwell team would like to send a \"friendly subpoena\" to real estate attorne), who handled the \npurchase of Maxwell's New Hampshire property in 2019. reached out to the FBI following Maxwell's arrest and \noffered her assistance. She requested via email the forma ity o a subpoena before providing us non-privileged \ndocuments from her file. As such, we do not need PSEU's approval, but we do need approval to issue the \nsubpoena. The proposed subpoena is attached to this email. In short, we are seeking any non-privileged documents and \nrecords regarding the purchase of Maxwell's New Hampshire property. These records are relevant to our ongoing \ninvestigation into Maxwell's finances, including any financial ties to Epstein and any efforts Epstein may have made to buy \nMaxwell's silence. \nPlease let us know if you have any questions or would like to discuss. \nThanks, \nEFTA00023177",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Investigation",
+        "role": "extracted",
+        "context": "From: \nTo:'\nCc: \nSubject: RE: Maxwell Investigation - Friendly Subpoena to Real E"
+      },
+      {
+        "name": "Friendly Subpoena",
+        "role": "extracted",
+        "context": ": RE: Maxwell Investigation - Friendly Subpoena to Real Estate Attorney \nDate"
+      },
+      {
+        "name": "Real Estate",
+        "role": "extracted",
+        "context": "gation - Friendly Subpoena to Real Estate Attorney \nDate: Wed, 08 Jul 2"
+      },
+      {
+        "name": "Attorney \nDate",
+        "role": "extracted",
+        "context": "endly Subpoena to Real Estate Attorney \nDate: Wed, 08 Jul 2020 13:09:01 +0"
+      },
+      {
+        "name": "Attorney \nThe",
+        "role": "extracted",
+        "context": "endly Subpoena to Real Estate Attorney \nThe Maxwell team would like to se"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "ed the \npurchase of Maxwell's New Hampshire property in 2019. reached out"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-08",
+        "event": "July 8, 2020"
+      },
+      {
+        "date": "2020-07-07",
+        "event": "July 7, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.406Z"
+}

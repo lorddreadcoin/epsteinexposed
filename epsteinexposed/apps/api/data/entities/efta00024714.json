@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00024714",
+    "filename": "EFTA00024714.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024714.pdf",
+    "text": "\n\nFrom: \n(USANYS)\"\nTo:' \n)\" \n' \" \n(USANYS)\" \nCc: ' (USANYS)\" \nI \nSubject: Fwd: New Epstein Ruling \nDate: Thu, 21 Feb 2019 20:04:41 +0000 \nImportance: Normal \nSent from my iPhone \nBegin forwarded message: \nFrom: ' (USANYS) [Contractor)\" .< \nDate: February 21, 2019 at 3:01:04 PM EST \nTo: \"Berman, Geoffrey (USANYS)\" \nSANYS)\" \n(USANYS)\" \nSubject: New Epstein Ruling \n(USANYS)\" \nhttps://www.miamiherald.corninewsistate/floridatarticle226577419.html \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, \nSDNY \n(USANYS \nIt \nEFTA00024714",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Epstein",
+        "role": "extracted",
+        "context": "' (USANYS)\" \nI \nSubject: Fwd: New Epstein Ruling \nDate: Thu, 21 Feb 201"
+      },
+      {
+        "name": "Ruling \nDate",
+        "role": "extracted",
+        "context": "I \nSubject: Fwd: New Epstein Ruling \nDate: Thu, 21 Feb 2019 20:04:41 +0"
+      },
+      {
+        "name": "Normal \nSent",
+        "role": "extracted",
+        "context": "9 20:04:41 +0000 \nImportance: Normal \nSent from my iPhone \nBegin forward"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "rtance: Normal \nSent from my iPhone \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "loridatarticle226577419.html \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, \nSD"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, \nSDNY \n(USANYS \nIt"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-02-21",
+        "event": "February 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.681Z"
+}

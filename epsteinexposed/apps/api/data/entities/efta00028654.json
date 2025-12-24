@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028654",
+    "filename": "EFTA00028654.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028654.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: FW: Disclosures for Robert Adams \nDate: Thu, 12 Nov 2020 16:09:17 +0000 \nAttachments: \nAdams_Disclosuressd.docx \nMy \nedits attached. \nFrom: \nSent: Thursday, November 12, 2020 10:52 AM \nTo: \nSubject: Disclosures for Robert Adams \nHey \nChiefs: \nWe \nhave our discovery deadline tomorrow in the Adams case. Nick and I have gone through the \nwitness interviews and propose making the attached disclosures, which we'll incorporate into the \ndiscovery cover letter. We'd be grateful if you could take a look. \nWe've also checked in with the agents to get their views on these disclosures, and to make sure we are \nnot missing anything. \nAttorney \nUnited States Attorney's Office for the Southern District of New York \nNew York NY \n10007 \nTel: \nEFTA00028654",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Robert Adams",
+        "role": "extracted",
+        "context": "Subject: FW: Disclosures for Robert Adams \nDate: Thu, 12 Nov 2020 16:09"
+      },
+      {
+        "name": "Hey \nChiefs",
+        "role": "extracted",
+        "context": "Disclosures for Robert Adams \nHey \nChiefs: \nWe \nhave our discovery dead"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "e are \nnot missing anything. \nAttorney \nUnited States Attorney's Office for"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "g anything. \nAttorney \nUnited States Attorney's Office for the Southern Dis"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tes Attorney's Office for the Southern District of New York \nNew York NY \n100"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-12",
+        "event": "November 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.657Z"
+}

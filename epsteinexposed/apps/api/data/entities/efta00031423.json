@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031423",
+    "filename": "EFTA00031423.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031423.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: (USANYS)\"  \nSubject: FW: Reminder -- Monthly Updates \nDate: Tue, 07 Jul 2020 01:18:04 +0000 \nAttachments: PC Unit -- Short Fonn Update.7.6.20.doex \nSee attached for PCU. \nFrom: (USANYS) <=> \nSent: Monday, July 6, 2020 7:56 AM \nTo (USANYS); USANYS) \n(USANYS)  \n>; \n(USANYS) 1\n(USANYS)  >,;(USANYS)<>; < \nciMe \nIMMISANS (USANYS) \n(USANYS) \n< \n; \n(USANYS) 6 \n>; (USANYS) (USANYS) \n(USANYS) 3 , 1 \n< \n>;USANYS) \nSubject: Reminder — Monthly Updates \nGood morning! \nIf anyone has not sent John their monthly updates, please do so today. Thanks very much. \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \n(USANYS) \nEFTA00031423",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monthly Updates",
+        "role": "extracted",
+        "context": ")\"  \nSubject: FW: Reminder -- Monthly Updates \nDate: Tue, 07 Jul 2020 01:18"
+      },
+      {
+        "name": "Short Fonn",
+        "role": "extracted",
+        "context": "0000 \nAttachments: PC Unit -- Short Fonn Update.7.6.20.doex \nSee attac"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "ay. Thanks very much. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-06",
+        "event": "July 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.052Z"
+}

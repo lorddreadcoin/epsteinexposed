@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00020859",
+    "filename": "EFTA00020859.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020859.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: \nUSAEO-Foreign Travel -1 \nCc: \nSm\n,'  \nSubject: ECC package \n- AUSA \nDate: Fri, 24 Jan 2020 15:42:24 +0000 \nImportance: High \nAttachments: _ECC_package_2.3.20.pdf \nECC \nackage \n(USANYS)\" \nHi RMP, Please see the attached ECC request package for \nIf required, please inform the traveler how to determine who the POC is for this trip. \nHi Please let EOUSA know if you have checked to see if a visa is required for your destination. \nView the state dept. link for the country you are traveling to visa link for the count'', you are traveling to. \nPisa policies may be found on the Department of State's website or on the website hosted by each countryX embassy. \nhttps://travelstate.govicontent/pasoorts/enkountryhtml \nTravels; Consult EOUSA taaeoloreign.traveesdojgcs, mailbox to obtain a visa for you. \nTo provide sufficient time for the State Dept. to issue the authorization letter and for the foreign government to process the visa \nrequest, it is recommended that visa request package be submitted to EOUSAX RMP Travel. \nStaff IS business days prior to the proposed date of departure. \nThank you \nFrom: \nSent: Friday, January 24, 2020 10:39 AM \nTo: (USANYS) \nCc: (USANYS) ‹> \nSubject: RE: Sorry One more thing - EOUSA also needs your OIA approval \nemail. Thanks \nC \nWe have reached out to OIA and are awaiting their approval. We'll send it as soon as we have it. \nFrom: \n(USANYS) \nSent: Friday, January 24, 2020 10:39 AM \nTo: \n; \nCc: (USANYS) <IM=> \nSubject: Sorry One more thing - EOUSA also needs your OIA approval email. Thanks \nSorry, One more thing - EOUSA also needs your OIA approval email. Thanks \nFrom: \nSent: Friday, January 24, 2020 10:39 AM \nTo: (USANYS) \nCc: (USANYS) \nSubject: RE: Sorry One more thing - EOUSA also needs your OIA approval \nemail. Thanks \nWe have reached out to OIA and are awaiting their approval. We'll send it as soon as we have it. \nEFTA00020859\n\nFrom: (USANYS) \nSent: Friday, January 24, 2020 10:39 AM \nTo: \nCc: (USANYS) \nSubject: Sorry One more thing - EOUSA also needs your OIA approval email. Thanks \n>; \nSorry, One more thing - EOUSA also needs your OIA approval email. Thanks \nFrom: \nSent: Friday, January 24, 2020 10:33 AM \nTo: (USANYS) \n< \nSubject: RE: Questionnaire - Hi We also need this one ASAP. Thanks \nAttached is my questionairre \nFrom: (USANYS) \nSent: Friday, January 24, 2020 10:32 AM \nTo: \n>; \nSubject: Questionnaire - Hi We also need this one ASAP. Thanks \nImportance: High \nEFTA00020860",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Foreign Travel",
+        "role": "extracted",
+        "context": "rom: ' (USANYS)\"  \nTo: \nUSAEO-Foreign Travel -1 \nCc: \nSm\n,'  \nSubject: ECC"
+      },
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "0 15:42:24 +0000 \nImportance: High \nAttachments: _ECC_package_2.3.20.pdf \nECC"
+      },
+      {
+        "name": "Hi Please",
+        "role": "extracted",
+        "context": "ho the POC is for this trip. \nHi Please let EOUSA know if you have ch"
+      },
+      {
+        "name": "State Dept",
+        "role": "extracted",
+        "context": "ovide sufficient time for the State Dept. to issue the authorization l"
+      },
+      {
+        "name": "Sorry One",
+        "role": "extracted",
+        "context": "Cc: (USANYS) ‹> \nSubject: RE: Sorry One more thing - EOUSA also needs"
+      },
+      {
+        "name": "Thanks \nSorry",
+        "role": "extracted",
+        "context": "eeds your OIA approval email. Thanks \nSorry, One more thing - EOUSA also"
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "eeds your OIA approval email. Thanks \nFrom: \nSent: Friday, January 24, 2"
+      },
+      {
+        "name": "Thanks \nWe",
+        "role": "extracted",
+        "context": "eds your OIA approval \nemail. Thanks \nWe have reached out to OIA and a"
+      },
+      {
+        "name": "Hi We",
+        "role": "extracted",
+        "context": "Subject: RE: Questionnaire - Hi We also need this one ASAP. Than"
+      },
+      {
+        "name": "Thanks \nAttached",
+        "role": "extracted",
+        "context": "i We also need this one ASAP. Thanks \nAttached is my questionairre \nFrom: (U"
+      },
+      {
+        "name": "Thanks \nImportance",
+        "role": "extracted",
+        "context": "i We also need this one ASAP. Thanks \nImportance: High \nEFTA00020860"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-24",
+        "event": "January 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.501Z"
+}

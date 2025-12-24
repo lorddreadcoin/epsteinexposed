@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00032721",
+    "filename": "EFTA00032721.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032721.pdf",
+    "text": "\n\nFrom: in\" alMIE> \nTo: 'SS)\" a, (USANYS)\" \nCc: ir \nI\nSubject: MIL opps - \nDaubert \nDate: Fri, 22 Oct 2021 19:39:14 +0000 \nAttachments: \nDaubert_v3.docx \n(USANYS)\" \nHad \nAttached is a draft response to their Daubert motion. You'll see some blue highlighting where we're waiting for \ninformation from our expert. \nAs we mentioned earlier, we're planning to get you additional motions in trenches in the next few days, but this is the \nmost complicated one and we need lead time before we can talk to our expert (if needed), so we wanted to get your \ncomments on this first. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00032721",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Daubert \nDate",
+        "role": "extracted",
+        "context": "c: ir \nI\nSubject: MIL opps - \nDaubert \nDate: Fri, 22 Oct 2021 19:39:14 +0"
+      },
+      {
+        "name": "Had \nAttached",
+        "role": "extracted",
+        "context": "Daubert_v3.docx \n(USANYS)\" \nHad \nAttached is a draft response to their"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ents on this first. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.324Z"
+}

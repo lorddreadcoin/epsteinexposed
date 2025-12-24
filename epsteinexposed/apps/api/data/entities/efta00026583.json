@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00026583",
+    "filename": "EFTA00026583.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026583.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: SANYS \n(USANYS)\" \n(USANYS)\" \nCc: (USANYS)\"  \nSubject: RE: Brief for Bank \nDate: Tue, 06 Oct 2020 13:16:41 +0000 \nAttachments: Government's Brief as Filed.pdf _     _ \nUSANYS1 6 \nSame \nFrom: (USANYS). \nSent: Tuesday, October 06, 2020 8:56 AM \nTo: \n(USANYS)\n; \n(USANYS) < \n(USANYS)\nCc: (USANYS) < \n(USANYS) \nSubject: RE: Brief for Bank \nrum \nAttached is a brief filed today for the bank. Thank you! \nFrom: \n(USANYS) \nSent: Tuesday, September 29, 2020 1:16 PM \nTo: \n(USANYS) \nCc: (USANYS) \n(USANYS) \nSubject: RE: Brief for \nBank \nHere's another. Thanks. \nFrom: (USANYS) \nSent: Tuesday, September 29, 2020 12:46 PM \nTo: (USANYS) <Ma \nCc: (USANYS) \n(USANYS) <M> (USANYS) < \nSubject: Brief for \nBank \n>; \nHere is one we filed today. Thanks, IM \nAssistant United States Attorney \nSouthern District of New York \nOffice: \nCell: \nEmail: \n(USANYS) \n(USANYS) \n(USANYS) < \n>; \nEFTA00026583\n\nEFTA00026584",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bank \nDate",
+        "role": "extracted",
+        "context": "YS)\"  \nSubject: RE: Brief for Bank \nDate: Tue, 06 Oct 2020 13:16:41 +0"
+      },
+      {
+        "name": "Same \nFrom",
+        "role": "extracted",
+        "context": "Filed.pdf _     _ \nUSANYS1 6 \nSame \nFrom: (USANYS). \nSent: Tuesday, Oc"
+      },
+      {
+        "name": "Bank \nHere",
+        "role": "extracted",
+        "context": "NYS) \nSubject: RE: Brief for \nBank \nHere's another. Thanks. \nFrom: (US"
+      },
+      {
+        "name": "Ma \nCc",
+        "role": "extracted",
+        "context": "2020 12:46 PM \nTo: (USANYS) <Ma \nCc: (USANYS) \n(USANYS) <M> (USAN"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e we filed today. Thanks, IM \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thanks, IM \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOffice: \nCell:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thanks, IM",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-06",
+        "event": "October 06, 2020"
+      },
+      {
+        "date": "2020-09-29",
+        "event": "September 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.612Z"
+}

@@ -1,0 +1,256 @@
+{
+  "document": {
+    "id": "efta00021183",
+    "filename": "EFTA00021183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021183.pdf",
+    "text": "\n\n09/21/2021 11:35 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland Security \nTECS - \nPerson Encounter List \nGenerated \nBy: \nPage 1 \nof 2 \nLast Name First Name DOB Doc Document Date.Thm \nType \nNumber (Eastern) \nCarrie \nr \nCode \nCarrier \nNum. \nVO Site insp Type Status Updated \nStatus \nRef An \nLot \nDep \nLoc \nEPSTEIN JEFFREY 01/21/2000 \n23:35 \n00 5051.5 I A523 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 12/18/1999 \n16:25 \nPV 1 I A511 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 12/11/1999 \n17:09 \nPV 1 I A511 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 08/14/1999 \n19:25 \nPV 908JE I A511 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 01/29/1999 \n09:40 \nBA 1 I 4701 APIS JFK LHR \nEPSTEIN JEFFREY P 11/06/1998 \n17:59 \nBA 3 I 4701 APIS JFK LHR \nEPSTEIN JEFFREY \n■ \n10/01/1998 \n14:00 \n00 1 I A523 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY 05/30/1998 \n00:00 \nAF 8 I 4701 APIS JFK CDG \nEPSTEIN JEFFREY P 03/20/1998 \n00:00 \nBA 1 I 4701 APIS JFK LHR \nEPSTEIN JEFFREY P 02/28/1998 \n20:30 \n00 90 I A523 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 01/18/1998 \n09:31 \nBA 1 I 4701 APIS JFK LHR \nEPSTEIN JEFFREY P 12/25/1997 \n18:13 \n00 1 I A523 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 12/23/1997 \n17:34 \n00 908G I A523 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY \n■ \n12/06/1997 \n18:33 \nRG 0000868 I A472 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 06/19/1997 \n09:19 \nBA 1 I A472 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 06/19/1997 \n00:00 \nBA 1 I 4701 APIS JFK LHR \nEPSTEIN JEFFREY 05/31/1997 \n18:52 \n523 AIRLINE \n(NOT \nAPI) \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00021183\n\nU.S. Customs and Border Protection \nU.S. Department of Homeland Security \nTECS - Person Encounter List \n09/21/2021 \n11:35 \nEDT \nGenerated \nBy \nPage \n2 of \n2 \nLast Name First Name DOB Doc \nType \nDocument \nNumber \nDate - Time \n(Eastern) \nCarrie \nr \nCode \nCarrier \nNum. \nI  O Site nsp \nType \nStatus Updated \nStatus \nRef I An \nLoc \nDsp \nLoc \nEPSTEIN JEFFREY 05/24/1997 \n09:20 \nI A472 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY \n■ \n03/17/1997 \n18:37 \nI A523 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY P 02/06/1997 \n18:03 \nBA 3 I A472 AIRLINE \n(NOT \nAPI) \nEPSTEIN JEFFREY \n01/25/1997 \n18:56 \nI A523 AIRLINE \n(NOT \nAP: \nI \nTotal Number of Re ords: 21 \nCodes Value \n—I LONDON / HEATHROW INTL \nCD PARIS, CH. DE GAULLE \nJFK JOHN F KENNEDY INTL \nP - PASSPORT \nCodes \nValue \nA472 A472 - NEW YORK, JFK AIRPORT, TERM 7 \nAS11 AS11 - CBP-CYRIL E KING, INTL AIRPORT \nA523 AS23 - CBP-PALM BEACH, INTERNATIONAL \n4701 4701 - 4701 \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00021184",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border \nProtection",
+        "role": "extracted",
+        "context": "1 11:35 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nTECS - \nPerson Encounter Lis"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "of Homeland Security \nTECS - \nPerson Encounter List \nGenerated \nBy: \nPage 1"
+      },
+      {
+        "name": "List \nGenerated",
+        "role": "extracted",
+        "context": "ity \nTECS - \nPerson Encounter List \nGenerated \nBy: \nPage 1 \nof 2 \nLast Name"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "Generated \nBy: \nPage 1 \nof 2 \nLast Name First Name DOB Doc Document D"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "By: \nPage 1 \nof 2 \nLast Name First Name DOB Doc Document Date.Thm \nTy"
+      },
+      {
+        "name": "Doc Document",
+        "role": "extracted",
+        "context": "f 2 \nLast Name First Name DOB Doc Document Date.Thm \nType \nNumber (Easte"
+      },
+      {
+        "name": "Thm \nType",
+        "role": "extracted",
+        "context": "st Name DOB Doc Document Date.Thm \nType \nNumber (Eastern) \nCarrie \nr"
+      },
+      {
+        "name": "Code \nCarrier",
+        "role": "extracted",
+        "context": "Number (Eastern) \nCarrie \nr \nCode \nCarrier \nNum. \nVO Site insp Type Stat"
+      },
+      {
+        "name": "Type Status",
+        "role": "extracted",
+        "context": "Carrier \nNum. \nVO Site insp Type Status Updated \nStatus \nRef An \nLot"
+      },
+      {
+        "name": "Updated \nStatus",
+        "role": "extracted",
+        "context": "um. \nVO Site insp Type Status Updated \nStatus \nRef An \nLot \nDep \nLoc \nEPSTE"
+      },
+      {
+        "name": "Ref An",
+        "role": "extracted",
+        "context": "Type Status Updated \nStatus \nRef An \nLot \nDep \nLoc \nEPSTEIN JEFFR"
+      },
+      {
+        "name": "Lot \nDep",
+        "role": "extracted",
+        "context": "atus Updated \nStatus \nRef An \nLot \nDep \nLoc \nEPSTEIN JEFFREY 01/21/2"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": ":52 \n523 AIRLINE \n(NOT \nAPI) \nFor Official Use Only / Law Enforcement Se"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "INE \n(NOT \nAPI) \nFor Official Use Only / Law Enforcement Sensitive"
+      },
+      {
+        "name": "Law Enforcement",
+        "role": "extracted",
+        "context": "API) \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00021183\n\nU.S."
+      },
+      {
+        "name": "Border Protection",
+        "role": "extracted",
+        "context": "FTA00021183\n\nU.S. Customs and Border Protection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Generated \nBy",
+        "role": "extracted",
+        "context": "List \n09/21/2021 \n11:35 \nEDT \nGenerated \nBy \nPage \n2 of \n2 \nLast Name Fir"
+      },
+      {
+        "name": "Doc \nType",
+        "role": "extracted",
+        "context": "2 \nLast Name First Name DOB Doc \nType \nDocument \nNumber \nDate - Tim"
+      },
+      {
+        "name": "Document \nNumber",
+        "role": "extracted",
+        "context": "ame First Name DOB Doc \nType \nDocument \nNumber \nDate - Time \n(Eastern) \nCarr"
+      },
+      {
+        "name": "Type \nStatus",
+        "role": "extracted",
+        "context": "Carrier \nNum. \nI  O Site nsp \nType \nStatus Updated \nStatus \nRef I An \nLo"
+      },
+      {
+        "name": "An \nLoc",
+        "role": "extracted",
+        "context": "Status Updated \nStatus \nRef I An \nLoc \nDsp \nLoc \nEPSTEIN JEFFREY 05"
+      },
+      {
+        "name": "Dsp \nLoc",
+        "role": "extracted",
+        "context": "dated \nStatus \nRef I An \nLoc \nDsp \nLoc \nEPSTEIN JEFFREY 05/24/1997"
+      },
+      {
+        "name": "Total Number",
+        "role": "extracted",
+        "context": "I A523 AIRLINE \n(NOT \nAP: \nI \nTotal Number of Re ords: 21 \nCodes Value"
+      },
+      {
+        "name": "Codes Value",
+        "role": "extracted",
+        "context": "Total Number of Re ords: 21 \nCodes Value \n—I LONDON / HEATHROW INTL \nC"
+      },
+      {
+        "name": "Codes \nValue",
+        "role": "extracted",
+        "context": "F KENNEDY INTL \nP - PASSPORT \nCodes \nValue \nA472 A472 - NEW YORK, JFK AI"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      },
+      {
+        "name": "LHR",
+        "type": "airport"
+      },
+      {
+        "name": "CDG",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-21",
+        "event": "09/21/2021"
+      },
+      {
+        "date": "2000-01-21",
+        "event": "01/21/2000"
+      },
+      {
+        "date": "1999-12-18",
+        "event": "12/18/1999"
+      },
+      {
+        "date": "1999-12-11",
+        "event": "12/11/1999"
+      },
+      {
+        "date": "1999-08-14",
+        "event": "08/14/1999"
+      },
+      {
+        "date": "1999-01-29",
+        "event": "01/29/1999"
+      },
+      {
+        "date": "1998-11-06",
+        "event": "11/06/1998"
+      },
+      {
+        "date": "1998-10-01",
+        "event": "10/01/1998"
+      },
+      {
+        "date": "1998-05-30",
+        "event": "05/30/1998"
+      },
+      {
+        "date": "1998-03-20",
+        "event": "03/20/1998"
+      },
+      {
+        "date": "1998-02-28",
+        "event": "02/28/1998"
+      },
+      {
+        "date": "1998-01-18",
+        "event": "01/18/1998"
+      },
+      {
+        "date": "1997-12-25",
+        "event": "12/25/1997"
+      },
+      {
+        "date": "1997-12-23",
+        "event": "12/23/1997"
+      },
+      {
+        "date": "1997-12-06",
+        "event": "12/06/1997"
+      },
+      {
+        "date": "1997-06-19",
+        "event": "06/19/1997"
+      },
+      {
+        "date": "1997-05-31",
+        "event": "05/31/1997"
+      },
+      {
+        "date": "1997-05-24",
+        "event": "05/24/1997"
+      },
+      {
+        "date": "1997-03-17",
+        "event": "03/17/1997"
+      },
+      {
+        "date": "1997-02-06",
+        "event": "02/06/1997"
+      },
+      {
+        "date": "1997-01-25",
+        "event": "01/25/1997"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.158Z"
+}

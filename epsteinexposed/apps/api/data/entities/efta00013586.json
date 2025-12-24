@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00013586",
+    "filename": "EFTA00013586.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013586.pdf",
+    "text": "\n\nFrom: \" \n)\" \n</O=USA/OUrFLS/CN=RECIPIENTS/CN. \n> \nTo: \"Acosta, Alex (USAFLS)\" >,'<\nSubject: Tein's Reply Brief in the Epstein civil litigation \nDate: Tue, 12 Aug 2008 19:18:35 +0000 \nImportance: Normal \nAttachments: DE38_080812_Reply_re_Motnio_Stay.pdf \nThe clerk's office finally unsealed Tein's reply brief in the Epstein civil litigation. While the agreement was not \nfiled with the court, Tein quotes extensively from the agreement. He also describes the agreement as \"a highly \nunusual and unprecedented deferred-prosecution agreement.\" \nI still have not heard back from Roy Black regarding the agreement that the defense filed with the state court. \nAssistant U.S. Attorney \n500 S. Australian Ave, \nWest Palm Beach, FL 33401 \nPhone \nEFTA00013586",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reply Brief",
+        "role": "extracted",
+        "context": "USAFLS)\" >,'<\nSubject: Tein's Reply Brief in the Epstein civil litigati"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 19:18:35 +0000 \nImportance: Normal \nAttachments: DE38_080812_Reply_re_Motnio_"
+      },
+      {
+        "name": "Roy Black",
+        "role": "extracted",
+        "context": "till have not heard back from Roy Black regarding the agreement that"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, \nWest Palm Beach, FL 33401"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "rney \n500 S. Australian Ave, \nWest Palm Beach, FL 33401 \nPhone \nEFTA0"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.918Z"
+}

@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00019426",
+    "filename": "EFTA00019426.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019426.pdf",
+    "text": "\n\nEvent: Meet re: Epstein Investigation \nStart Date: 2018-12-06 21:30:00 +0000 \nEnd Date: 2018-12-06 22:30:00 +0000 \nOrganizer: \nLocation: Conference Room 646 \nClass: X-PERSONAL \nDate Created: 2018-12-05 00:29:41 +0000 \nDate Modified: 2018-12-05 00:29:41 +0000 \nPriority: 5 \nDTSTAMP: 2018-12-05 00:22:07 +0000 \nAttendee: \n> \nAlarm: Display the following message 15m before start \nReminder \nEFTA00019426",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "Event: Meet re: Epstein Investigation \nStart Date: 2018-12-06 21:30"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "et re: Epstein Investigation \nStart Date: 2018-12-06 21:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2018-12-06 21:30:00 +0000 \nEnd Date: 2018-12-06 22:30:00 +0000 \nO"
+      },
+      {
+        "name": "Conference Room",
+        "role": "extracted",
+        "context": "+0000 \nOrganizer: \nLocation: Conference Room 646 \nClass: X-PERSONAL \nDate"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Room 646 \nClass: X-PERSONAL \nDate Created: 2018-12-05 00:29:41 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2018-12-05 00:29:41 +0000 \nDate Modified: 2018-12-05 00:29:41 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-06",
+        "event": "2018-12-06"
+      },
+      {
+        "date": "2018-12-05",
+        "event": "2018-12-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.865Z"
+}

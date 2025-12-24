@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017827",
+    "filename": "EFTA00017827.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017827.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Efrain \nReyes \nDate: Mon, 30 Nov 2020 15:26:33 +0000 \nYes, I agree. \nFrom: \nSent: Monday, November 30, 2020 10:26 AM \nTo \nSubject: RE: Efrain Reyes \nThat's really sad. \nEFTA00017827",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Efrain \nReyes",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Efrain \nReyes \nDate: Mon, 30 Nov 2020 15:26"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": ", November 30, 2020 10:26 AM \nTo \nSubject: RE: Efrain Reyes \nThat's rea"
+      },
+      {
+        "name": "Efrain Reyes",
+        "role": "extracted",
+        "context": "20 10:26 AM \nTo \nSubject: RE: Efrain Reyes \nThat's really sad. \nEFTA0001"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-30",
+        "event": "November 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.681Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023036",
+    "filename": "EFTA00023036.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023036.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: RE: [EXTERNAL] Ghislaine Maxwell- 02879-509 \nDate: Tue, 12 Oct 2021 14:50:28 +0000 \nThanks. \nFrom: \nSent: Tuesday, October 12, 2021 10:49 AM \nTo: \nSubject: FW: [EXTERNAL] Ghislaine Maxwell- 02879-509 \nFYI \nFrom: BOBBI C STERNHEIM \nSent: Tuesday, October 12, 2021 10:25 AM \nTo: \nSubject: [EXTERNAL] Ghislaine Maxwell- 02879-509 \nGood morning-\nThe government has sent a hard drive to the MDC via Federal Express for Ms. Maxwell. \nUpon arrival, it must IMMEDIATELY be given to Ms. Maxwell. \nTime is of the essence. \nPlease inform me when it arrives. \nThank you-\nBobbi \nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n225 Broadway, Suite 715 \nNew York, NY 10007 \nMain: \nCell: \nFax: \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim that may be \nconfidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this \nmessage. Thank you. \nEFTA00023036",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: RE: [EXTERNAL] Ghislaine Maxwell- 02879-509 \nDate: Tue, 12 Oct 2021 14:50:28 +0000"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "e MDC via Federal Express for Ms. Maxwell. \nUpon arrival, it must I"
+      },
+      {
+        "name": "Federal Express",
+        "role": "extracted",
+        "context": "t a hard drive to the MDC via Federal Express for Ms. Maxwell. \nUpon arriva"
+      },
+      {
+        "name": "Bobbi \nPlease",
+        "role": "extracted",
+        "context": "when it arrives. \nThank you-\nBobbi \nPlease note my new office address an"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "s: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n225 Br"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-12",
+        "event": "October 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.122Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032601",
+    "filename": "EFTA00032601.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032601.pdf",
+    "text": "\n\nFrom: \n\" \naNIMIE> \nTo: ' )\" \n, ' \" \nSubject: RE: Jury instructions letter \nDate: Sat, 20 Nov 2021 23:56:31 +0000 \nAttachments: 2021-11-20 _ GM _ edits_ to _limiting_instructions_v3i.)).docx \nThanks so much, My thoughts and edits attached. This goes to next, I think. \nFrom: \n) w\n> \nSent: Saturday, November 20, 20215:35 PM \nTo: \nc>; \nSubject: Jury instructions letter \nHey team, \nJury instructions letter attached. Comments welcome. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00032601",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": ". Comments welcome. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-20",
+        "event": "2021-11-20"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.047Z"
+}

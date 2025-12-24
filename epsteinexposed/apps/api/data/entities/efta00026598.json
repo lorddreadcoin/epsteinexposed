@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00026598",
+    "filename": "EFTA00026598.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026598.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: \"Kramer, Amanda K\" \nCc: \nBcc: \nSubject: RE: Call \nDate: Tue, 23 Feb 2021 02:11:00 +0000 \nEmbedded: RE:_Call.msg \nSender: \nSubject: RE: Call \nMessage-Id: \n<BN3P110MB025788831F68E871C6FFFC448A809@BN3P110MB0257.NAMP110.PROD.OUTLOOK.COM \nCc: \nEFTA00026598",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Call \nDate",
+        "role": "extracted",
+        "context": "a K\" \nCc: \nBcc: \nSubject: RE: Call \nDate: Tue, 23 Feb 2021 02:11:00 +0"
+      },
+      {
+        "name": "Call \nMessage",
+        "role": "extracted",
+        "context": "ll.msg \nSender: \nSubject: RE: Call \nMessage-Id: \n<BN3P110MB025788831F68E8"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.639Z"
+}

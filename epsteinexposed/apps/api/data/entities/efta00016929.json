@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016929",
+    "filename": "EFTA00016929.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016929.pdf",
+    "text": "\n\nEvent: Accepted roller (re abuse) \nStart Date: 2019-12-04 20:00:00 +0000 \nEnd Date: 2019-12-04 23:00:00 +0000 \nLocation: Winston & Strawn offices, 200 Park Ave \nClass: X-PERSONAL \nComment: \nDate Created: 2019-12-04 21:01:44 +0000 \nDate Modified: 2019-12-04 21:01:44 +0000 \nPriority: 5 \nDTSTAMP: 2019-12-04 17:27:29 +0000 \nAttendee \nEFTA00016929",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": ": Accepted roller (re abuse) \nStart Date: 2019-12-04 20:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-12-04 20:00:00 +0000 \nEnd Date: 2019-12-04 23:00:00 +0000 \nL"
+      },
+      {
+        "name": "Park Ave",
+        "role": "extracted",
+        "context": "Winston & Strawn offices, 200 Park Ave \nClass: X-PERSONAL \nComment:"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-12-04 21:01:44 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-12-04 21:01:44 +0000 \nDate Modified: 2019-12-04 21:01:44 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-04",
+        "event": "2019-12-04"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.702Z"
+}

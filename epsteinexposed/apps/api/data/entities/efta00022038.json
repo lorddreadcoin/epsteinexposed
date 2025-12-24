@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00022038",
+    "filename": "EFTA00022038.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022038.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: signature card \nDate: Wed, 23 Jun 2021 14:42:07 +0000 \nAttachments: October 1999 FTC Stmt.pdf \nAttached is the FTC October 1999 account statement. The $18,300,000 transfer to Maxwell is shown on bates number \n36868. On that same page, a deposit of $18,300,000 is made sourced from the sale of JP Morgan Institutional Prime \nMoney Market Fund. \nIf you have any questions, please contact me. \nBest \nFrom: \nSent: Wednesday, June 23, 2021 10:14 AM \nTo: \nSubject: [EXTERNAL EMAIL] - FW: signature card \nThanks for sending. For this account, could you please send us the account statements surrounding the 10/19/99 transfer \nto Maxwell that we discussed? It would be helpful to understand what the source is of the funds for the transfer. In \naddition, could you please let me know the bates range for the account documents for this account? I'm having difficulty \nlocating them in the production. If you're able to flag any other KYC documents in the file, that would be extremely \nhelpful. \nThanks, \nFrom: \nSent: e  nes ay, une , :  4 AM \nTo: \nCc: \nSubject: RE: signature card \nEFTA00022038\n\nAttached are the account documents for the Financial Trust Company. In the production, I did not see a signature card for \nthese accounts. However, there is a J.P. Morgan Entity Resolution form which schedules authorized signers (bates ii 1934). \nIf you have any questions, please contact me. \nBest \nFrom: \nSent: Tuesday, June 22, 2021 3:14 PM \nTo: \nSubje signs ure car \nHi Mark, \nWhen you have a moment, could you please send me the signature card for the JP Morgan account ending in 5001? It's \nthe Financial Trust Co. account. I wasn't able to easily locate it in the production, so wanted to check with you. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nEFTA00022039",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Morgan Institutional",
+        "role": "extracted",
+        "context": "e sourced from the sale of JP Morgan Institutional Prime \nMoney Market Fund. \nIf"
+      },
+      {
+        "name": "Prime \nMoney",
+        "role": "extracted",
+        "context": "le of JP Morgan Institutional Prime \nMoney Market Fund. \nIf you have any"
+      },
+      {
+        "name": "Market Fund",
+        "role": "extracted",
+        "context": "an Institutional Prime \nMoney Market Fund. \nIf you have any questions,"
+      },
+      {
+        "name": "Best \nFrom",
+        "role": "extracted",
+        "context": "uestions, please contact me. \nBest \nFrom: \nSent: Wednesday, June 23, 2"
+      },
+      {
+        "name": "Financial Trust",
+        "role": "extracted",
+        "context": "the account documents for the Financial Trust Company. In the production, I"
+      },
+      {
+        "name": "Morgan Entity",
+        "role": "extracted",
+        "context": "nts. However, there is a J.P. Morgan Entity Resolution form which schedul"
+      },
+      {
+        "name": "Hi Mark",
+        "role": "extracted",
+        "context": "PM \nTo: \nSubje signs ure car \nHi Mark, \nWhen you have a moment, cou"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to check with you. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "u. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00022039"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-06-23",
+        "event": "June 23, 2021"
+      },
+      {
+        "date": "2021-06-22",
+        "event": "June 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.898Z"
+}

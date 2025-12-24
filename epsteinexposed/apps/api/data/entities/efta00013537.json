@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013537",
+    "filename": "EFTA00013537.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013537.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Tue, 11 Dec 2007 22:20:55 +0000 \nImportance: Normal \nAttachments: 071211 tr_to_Lefkowitz.pdf \nI  am out today, but I  will start pulling everything together tomorrow. We don't have transcripts of all of the state \ninterviews, but we have audio or videotapes of all of them. \nI  drafted the attached letter, which I  would like to send to Jay. \nFra \nSe • • M \nTo: \nCc: \nSubje :Epstein \nIn light of the recent Kirkland & Ellis correspondence asked o conduct a de novo review of the evidence \nunderlying the proposed indictment. I've provided =with the proposed indictment package but can you make copies of \nthe 302s , state al and interview transcripts, and any other underlying investigative information thatEcan review \na.s.a.p.? Thanks, \nEFTA00013537",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Tue, 11 Dec 2007 22:20:55 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 22:20:55 +0000 \nImportance: Normal \nAttachments: 071211 tr_to_Lefkowitz.pdf"
+      },
+      {
+        "name": "Fra \nSe",
+        "role": "extracted",
+        "context": "would like to send to Jay. \nFra \nSe • • M \nTo: \nCc: \nSubje :Epste"
+      },
+      {
+        "name": "Epstein \nIn",
+        "role": "extracted",
+        "context": "a \nSe • • M \nTo: \nCc: \nSubje :Epstein \nIn light of the recent Kirkland"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.807Z"
+}

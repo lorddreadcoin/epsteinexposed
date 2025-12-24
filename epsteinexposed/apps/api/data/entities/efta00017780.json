@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00017780",
+    "filename": "EFTA00017780.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017780.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n)' \n>, \nM\nSubject: FW: Continued investigation into possible collaborators of Jeffrey Epstein \nDate: Tue, 17 Sep 2019 21:19:18 +0000 \nAttachments: 9-17-19 Letter to AUSAare_Epstein.pdf \nHi guys, \nWould one of you please download the files referenced in the below email and save them on the Epstein share? \nThanks, \nFrom \nSent: Tuesday, September 17, 2019 2:05 PM \nTo: \n) \nCc: Clara Moran \nSubject: Continued investigation into possible collaborators of Jeffrey Epstein \nMs. \nPlease see the attached correspondence from Chief Deputy Attorney General Clara Moran. \nYou can access the materials referenced in the letter by following this link and entering this password: \n• \nNMAG \nfiles \n•  Password (without quotes) -- \"7e4DzyfvYC\" \nNote that this link will expire on October 16, 2019. \nA CD containing this correspondence and the attached materials will also be arriving shortly via U.S. Mail. \nHave a good day. \nsis an orney General \nEFTA00017780",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "nued investigation into possible collaborators of Jeffrey Epstein \nDate: Tue, 17 Sep 2019 21:19:18 +0000 \nAttachmen"
+      },
+      {
+        "name": "Please",
+        "role": "extracted",
+        "context": "aborators of Jeffrey Epstein \nMs. \nPlease see the attached corresp"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "the Epstein share? \nThanks, \nFrom \nSent: Tuesday, September 17, 2019"
+      },
+      {
+        "name": "Clara Moran",
+        "role": "extracted",
+        "context": "17, 2019 2:05 PM \nTo: \n) \nCc: Clara Moran \nSubject: Continued investiga"
+      },
+      {
+        "name": "Chief Deputy",
+        "role": "extracted",
+        "context": "attached correspondence from Chief Deputy Attorney General Clara Moran."
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "respondence from Chief Deputy Attorney General Clara Moran. \nYou can access"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-17",
+        "event": "September 17, 2019"
+      },
+      {
+        "date": "2019-10-16",
+        "event": "October 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.575Z"
+}

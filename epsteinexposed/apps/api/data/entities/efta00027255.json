@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027255",
+    "filename": "EFTA00027255.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027255.pdf",
+    "text": "\n\nFrom: \"''' \nTo:'\nCr: \"IMMa> \nSubject: Draft OCME Letter \nDate: Tue, 27 Aug 2019 23:27:10 +0000 \nAttachments: 2019.08.28 Letter to OCME.docx \n• \nPlease see attached for your review. We tried to keep this as brief as possible while still accurately describing the contents \nof their file that we do not want disclosed, and the circumstances under which they were disclosed. Let us know if you \nhave any thoughts. Our call is at 10 tomorrow morning and we'd like to send this after the fact. I also spoke with the GC \nby phone tonight to give her a head's up that this was coming, and she did not have any issues with it. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00027255",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": ": \"IMMa> \nSubject: Draft OCME Letter \nDate: Tue, 27 Aug 2019 23:27:10 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "any issues with it. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000272"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.859Z"
+}

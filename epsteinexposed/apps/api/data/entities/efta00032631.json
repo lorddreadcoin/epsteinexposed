@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032631",
+    "filename": "EFTA00032631.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032631.pdf",
+    "text": "\n\nFrom: )\" \nTo: ' \n1.1 <lEMIM> \nSubject: FW: [encrypt] \nDate: Mon, 05 Apr 2021 15:50:52 +0000 \nAttachments: SNYNY.03-29-21.PB.gjg.pdf \nHeys, \nWould you please save the attached in the witness folders for \nDavid Rodgers, Larry Visoski, S and \ntheir respective 3500 sections later, but I don't want to forget about it. \nThanks, \nFrom: \nSent: Monday, April 5, 2021 11:46 AM \nTo: \n) ‹> \nSubject: [encrypt] \nBest, \nFarida Dawkins \nGrand Jury Clerk \nJuan Alessi, \n?  We'll need to break this apart into \nEFTA00032631",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "David Rodgers",
+        "role": "extracted",
+        "context": "d in the witness folders for \nDavid Rodgers, Larry Visoski, S and \ntheir"
+      },
+      {
+        "name": "Larry Visoski",
+        "role": "extracted",
+        "context": "s folders for \nDavid Rodgers, Larry Visoski, S and \ntheir respective 3500"
+      },
+      {
+        "name": "Farida Dawkins",
+        "role": "extracted",
+        "context": "> \nSubject: [encrypt] \nBest, \nFarida Dawkins \nGrand Jury Clerk \nJuan Aless"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "rypt] \nBest, \nFarida Dawkins \nGrand Jury Clerk \nJuan Alessi, \n?  We'll"
+      },
+      {
+        "name": "Clerk \nJuan",
+        "role": "extracted",
+        "context": ", \nFarida Dawkins \nGrand Jury Clerk \nJuan Alessi, \n?  We'll need to bre"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-05",
+        "event": "April 5, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.094Z"
+}

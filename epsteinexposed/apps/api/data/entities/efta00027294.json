@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00027294",
+    "filename": "EFTA00027294.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027294.pdf",
+    "text": "\n\nFrom \nSubject: RE: Upcoming Nineteenth Production \nDate: Wed, 04 Aug 2021 19:50:02 +0000 \nAttachments: US _ v _Maxwell_Discovery_Index.xlsx; 2021.08.04_Maxwell_Discovery_Letter.docx \nGreat, thank you! \nThe entire production has now been stamped and is ready for your review. With the exception of the FBI Recovered \nMetadata (which is on a hard drive; we will ask to make us an internal copy of the stamped version), the rest of \nthe production is saved here on the shared. The index is also attached and saved here. Finally, I attached a draft cover \nletter for defense counsel (also saved here). I'm happy to make any changes to the production, index, or cover letter as \nneeded. \nIf it looks good to go, we can start loading the materials once the hard drives from defense arrive. Thanks so much! \nFrom: \nSent: Wednesday, August 4, 2021 3:26 PM \nTo: \nCc \nSubject: RE: Upcoming Nineteenth Production \nHi M, \nThanks! That proposal for the stamp makes sense to me. \nFrom: \nSent: Wednesday, August 4, 2021 11:08 AM \nTo: \nCc \nSubject: RE: Upcoming Nineteenth Production \nThanks, We can definitely use the same protective order stamp for this production. \nM, please let me know what you prefer for stamping the JPMC returns. I'm happy to coordinate! \nThanks, \nFrom: \nSent: Wednesday, August 4, 2021 9:56 AM \nEFTA00027294\n\nTo: \nCc: Drescher, Sunny (USANYS) [Contractor] < \nSubject: RE: Upcoming Nineteenth Production \nThanks \nI'm going to defer to on how to stamp the JPMC returns. \n>; Bohrer, William (USANYS) [Contractor] \nMy preference would be to use the same stamp we used in our most recent productions, but please let me know if that \nlabel is too long to be workable, in which case we'll figure out an alternative. \nFrom: \nSent: Wednesday, August 4, 2021 9:53 AM \nTo: \nCc \nSubject: Upcoming Nineteenth Production \nHi all, \n>; \nhas finished pulling the FBI Recovered Metadata from the shared, so we will be able to stamp those materials soon. \nThey are 217 GB in size, so we should ask defense counsel for a  500GB drive for us to load the entire Nineteenth \nProduction onto. In the meantime, I had a couple questions regarding the remaining materials in the pending production: \n1. \n2. How would you like us to stamp the materials so that they comply with the correct protective order designation? \nWe can use \"SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17,\" as we did in the most recent \n3500 production, but I wanted to confirm with you all first. \nI'm happy to chat further if anything's unclear. Thanks very much, all! \nParalegal Specialist \nU.S. Attorney's Office \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00027295",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "From \nSubject: RE: Upcoming Nineteenth Prod"
+      },
+      {
+        "name": "Upcoming Nineteenth",
+        "role": "extracted",
+        "context": "From \nSubject: RE: Upcoming Nineteenth Production \nDate: Wed, 04 Aug"
+      },
+      {
+        "name": "Production \nDate",
+        "role": "extracted",
+        "context": "ject: RE: Upcoming Nineteenth Production \nDate: Wed, 04 Aug 2021 19:50:02 +0"
+      },
+      {
+        "name": "Recovered \nMetadata",
+        "role": "extracted",
+        "context": "With the exception of the FBI Recovered \nMetadata (which is on a hard drive; we"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "August 4, 2021 3:26 PM \nTo: \nCc \nSubject: RE: Upcoming Nineteenth Prod"
+      },
+      {
+        "name": "Production \nHi",
+        "role": "extracted",
+        "context": "ject: RE: Upcoming Nineteenth Production \nHi M, \nThanks! That proposal for"
+      },
+      {
+        "name": "Production \nThanks",
+        "role": "extracted",
+        "context": "ject: RE: Upcoming Nineteenth Production \nThanks, We can definitely use the sa"
+      },
+      {
+        "name": "Recovered Metadata",
+        "role": "extracted",
+        "context": "has finished pulling the FBI Recovered Metadata from the shared, so we will b"
+      },
+      {
+        "name": "Nineteenth \nProduction",
+        "role": "extracted",
+        "context": "ive for us to load the entire Nineteenth \nProduction onto. In the meantime, I had"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "lear. Thanks very much, all! \nParalegal Specialist \nU.S. Attorney's Office \nSDNY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Office \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00027295"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-08-04",
+        "event": "August 4, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.942Z"
+}

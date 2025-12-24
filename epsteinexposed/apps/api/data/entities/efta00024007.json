@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024007",
+    "filename": "EFTA00024007.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024007.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nTo: \"Berman Geoffre USANYS)\" ctIMII%ElEitNYS)\" \n\"Stewart, Craig (USANYS)\" \n(USANYS)\" \nCc: (USANYS)\" <MINIM> \nSubject: Epstein OCME \nDate: Fri, 16 Aug 2019 18:48:14 +0000 \nThe team has just learned from the City Medical Examiner that OCME has officially concluded Epstein's cause of death \nwas hanging and the manner of death was suicide. \nOCME plans to issue a press release and the official death certificate indicating as much later this afternoon. \nEFTA00024007",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Berman Geoffre",
+        "role": "extracted",
+        "context": "From: ' (USANYS)\" \nTo: \"Berman Geoffre USANYS)\" ctIMII%ElEitNYS)\" \n\""
+      },
+      {
+        "name": "City Medical",
+        "role": "extracted",
+        "context": "eam has just learned from the City Medical Examiner that OCME has offici"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.080Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026667",
+    "filename": "EFTA00026667.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026667.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: \nChecks \nDate: Tue, 02 Jul 2019 19:41:20 +0000 \nImportance: Normal \nAttachments: jeffreyepsteinorg.Accountlnfo.txt; jeeitunes.AccotmtInfo.txt; jeevacation.Accountlnfo.txt \nFollowing up on this, not sure if you guys have had time to check this yet, but attached is the subscriber info I have—but \nworth checking on your end to see if you have returns from Yahoo as well. Can we discuss later this afternoon whether a \nGPS or pen makes sense? Thanks. \nFrom: \nSent: Monday, July 1, 2019 9:16 PM \nTo: \nN. (NY) (FBI) \nSubject: RE: Checks \nThanks, we'll take a look—if you could send over a summary of her flights with him over the past 6 months, that would be \nhelpful. Have you guys looked at the phone numbers associated with the email accounts we got subscriber info for? Let us \nknow if you think any of those numbers are live. \nThanks, \nFrom: \n='ci> \nSent: Monday, July 1, 2019 8:53 PM \nTo: \nN. \n(NY) \n(FBI) <\nMI>, \nSubject: Checks \n>; \n< \n>; \nSee attached phone records for .  As per our conversation her cell phone number may be \nrelevant to her recent travels with Epstein. \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00026667",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Checks \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: \nChecks \nDate: Tue, 02 Jul 2019 19:41:20 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 19:41:20 +0000 \nImportance: Normal \nAttachments: jeffreyepsteinorg.Accountlnf"
+      },
+      {
+        "name": "Checks \nThanks",
+        "role": "extracted",
+        "context": "N. (NY) (FBI) \nSubject: RE: Checks \nThanks, we'll take a look—if you cou"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "ein. \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "PD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-01",
+        "event": "July 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.781Z"
+}

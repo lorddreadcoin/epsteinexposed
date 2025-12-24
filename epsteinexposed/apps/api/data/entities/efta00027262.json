@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027262",
+    "filename": "EFTA00027262.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027262.pdf",
+    "text": "\n\nFrom: '   (NY) (FBI)\"  \nTo: \n\" \n(USANYS)\"  \nCc: \n(USANYS)\" <I \nSubject: Re: Requested Documentation \nDate: Sun, 11 Aug 2019 15:01:03 +0000 \nSure - M, sending now \nOn \nAug 11, 2019 10:59 AM, ' (USANYS)\" < wrote: \n., would you mind forwarding the emails you sent me? I'm having trouble forwarding from my \nphone given the file size. Thank you. \nOn Aug 11, 2019, at 10:37 AM, \nFrom:\nDate: Aug 10, 2019 10:57 PM \nSubject: \nRequested Documentation\nTo: ' \n. \n(NY) \n(FBI)\" < \nCc: \n(NY) (FBI) < \n> \nI \nPlease let me know if you need anything else. \n<Epstein Investigative Reports.pdf> \n<Additional Psychology Notes.pdf' \nwrote: \nEFTA00027262",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Requested Documentation",
+        "role": "extracted",
+        "context": ": \n(USANYS)\" <I \nSubject: Re: Requested Documentation \nDate: Sun, 11 Aug 2019 15:01"
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": "+0000 \nSure - M, sending now \nOn \nAug 11, 2019 10:59 AM, ' (USANYS)"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "en the file size. Thank you. \nOn Aug 11, 2019, at 10:37 AM, \nFrom:"
+      },
+      {
+        "name": "Epstein Investigative",
+        "role": "extracted",
+        "context": "if you need anything else. \n<Epstein Investigative Reports.pdf> \n<Additional Psy"
+      },
+      {
+        "name": "Additional Psychology",
+        "role": "extracted",
+        "context": "Investigative Reports.pdf> \n<Additional Psychology Notes.pdf' \nwrote: \nEFTA00027"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.873Z"
+}

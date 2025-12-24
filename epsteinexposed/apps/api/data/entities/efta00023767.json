@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00023767",
+    "filename": "EFTA00023767.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023767.pdf",
+    "text": "\n\nFrom: \nTo:'\nBee: \nSubject: Potential Request for Material Relating to Jeffrey Epstein \nDate: Wed, 17 Feb 2021 22:39:00 +0000 \nAttachments: Searola_Touhy_Ltr.pdf \nMr. Scarola, \nI understand that you may wish to submit a request to the Department of Justice for material relating to Jeffrey \nEpstein. I am attaching a letter to assist you with that process. Please feel free to give me a call if you have any \nquestions. \nTake good care. \nChief, Civil Division \nU.S. Attorney's Office, SDNY \nEFTA00023767",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "bject: Potential Request for Material Relating to Jeffrey Epstein \nDate: Wed, 17 Feb 2021 22:39:00 +0000 \nAttachmen"
+      },
+      {
+        "name": "Scarola",
+        "role": "extracted",
+        "context": "ments: Searola_Touhy_Ltr.pdf \nMr. Scarola, \nI understand that you m"
+      },
+      {
+        "name": "Potential Request",
+        "role": "extracted",
+        "context": "From: \nTo:'\nBee: \nSubject: Potential Request for Material Relating to Jeff"
+      },
+      {
+        "name": "Material Relating",
+        "role": "extracted",
+        "context": "ubject: Potential Request for Material Relating to Jeffrey Epstein \nDate: Wed"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "tice for material relating to Jeffrey \nEpstein. I am attaching a letter to a"
+      },
+      {
+        "name": "Civil Division",
+        "role": "extracted",
+        "context": "ons. \nTake good care. \nChief, Civil Division \nU.S. Attorney's Office, SDNY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.581Z"
+}

@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00017101",
+    "filename": "EFTA00017101.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017101.pdf",
+    "text": "\n\nFrom: ' \ny, \nTo: 'MMIII6Y) (FBI)\" , \n,,\nCc: ' )\"  \nSubject: FW: Potential interview \nDate: Tue, 10 Sep 2019 23:16:45 +0000 \nAttachments: Statement of Jane Doe pdf _ _ Jane_ Doe\nimage005.png; image006.jpg \nFYI. I told her yes. \nFrom: Gloria Allred \n<=1 ) \nSent: Tuesday, September 10, 2019 7:00 PM \nTo: \nan; \nSubject: Potential interview \nI have another victim who is willing to speak to you while I'm in New York, as she is located in New York. \nAttached here is her statement which I read in court. \nCould you meet her on Thursday 9/12 at 5:00 pm at the Lotte, and then at 6 pm we can meet with \nfor as long as you need? \nPlease let me know so we can schedule. \nThank you. \nGloria \nAllred \nAllred, Maroko & Goldberg \n6300 Wilshire Blvd., Suite 1500 \nLos Angeles, CA 90048 \n323-653-6530 \nwww.amglaw. corn \nwww.gloriaallred.corn \nmanindalc\n, Hubbell* \nMARCO. MAROKO 8  GOLOBERG 2018 \nPep Rated \nf0 Koss, \nLevel \nOf \nPoYetton8 Extoreoc• \nBest \nLawyers \nThis message is CONFIDENTIAL and may contain legally privileged information intended only for the addressee. If you are not the \naddressee you may not use, forward, copy or disclose to anyone any information contained in this message. IF YOU RECEIVED THIS \nCOMMUNICATION IN ERROR, PLEASE NOTIFY ALLRED, MAROKO & GOLDBERG IMMEDIATELY BY TELEPHONING THE SENDER NAMED \nABOVE AT 323-653-6530. Thank you. \nEFTA00017101",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "00 \nAttachments: Statement of Jane Doe pdf _ _ Jane_ Doe\nimage005.pn"
+      },
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "FYI. I told her yes. \nFrom: Gloria Allred \n<=1 ) \nSent: Tuesday, Septem"
+      },
+      {
+        "name": "Gloria \nAllred",
+        "role": "extracted",
+        "context": "we can schedule. \nThank you. \nGloria \nAllred \nAllred, Maroko & Goldberg \n6"
+      },
+      {
+        "name": "Wilshire Blvd",
+        "role": "extracted",
+        "context": "lred, Maroko & Goldberg \n6300 Wilshire Blvd., Suite 1500 \nLos Angeles, CA"
+      },
+      {
+        "name": "Pep Rated",
+        "role": "extracted",
+        "context": "RCO. MAROKO 8  GOLOBERG 2018 \nPep Rated \nf0 Koss, \nLevel \nOf \nPoYetto"
+      },
+      {
+        "name": "Level \nOf",
+        "role": "extracted",
+        "context": "RG 2018 \nPep Rated \nf0 Koss, \nLevel \nOf \nPoYetton8 Extoreoc• \nBest \nL"
+      },
+      {
+        "name": "Best \nLawyers",
+        "role": "extracted",
+        "context": "vel \nOf \nPoYetton8 Extoreoc• \nBest \nLawyers \nThis message is CONFIDENTIAL"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-10",
+        "event": "September 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "323-653-6530"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:54.015Z"
+}

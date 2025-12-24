@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016297",
+    "filename": "EFTA00016297.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016297.pdf",
+    "text": "\n\nFrom: ' \n)\"  \nTo: ' (USANYS) [Contractor)\" -1 \nCc: ' Contractor]\" ,  \" \nSubject: RE: US v. Epstein \nDate: Tue, 12 Nov 2019 19:48:40 +0000 \nOkay that makes sense, thanks — I'll circle back on Monday. \nFrom: (USANYS) [Contractor] \nSent: Tuesday, November 12, 2019 14:48 \nTo: \nCc: ) [Contractor] ; \nSubject: RE: US v. Epstein \nI'll give the DVD's to= but everything is on a hard drive and you would need to be at a computer to view the data. This \ncan wait until you are back in the office. \nFrom: \nSent: Tuesday, November 12, 2019 2:41 PM \nTo: (USANYS) [Contractor] \n<\nCc: ) [Contractor] \nSubject: RE: US v. Epstein \ncS; \nThanks very much — if you could please give the DVDs to (cc'd here) for case file storage, that would be \ngreat. \nAnd on the work product, I think it probably would make sense to take a look before it all gets uploaded to Relativity —\nwhat's the easiest way to do that? The entire team is unfortunately traveling from tomorrow through Friday, but we can \ntalk / meet early next week if that's the most convenient. \nthanks, \nFrom: (USANYS) [Contractor] \nSent: Tuesday, November 12, 2019 11:16 \nTo: \nSubject: US v. Epstein \nHello M, \nThe vendor has finished the document unitization and coding of the data from the 56 DVD files. Please let me know when \nyou are in your office and I will return the DVD's to you, and also please let me know if you wish to review the vendor's \nwork. \nThank you. \nEFTA00016297",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "or]\" ,  \" \nSubject: RE: US v. Epstein \nDate: Tue, 12 Nov 2019 19:48:40 +0"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "19 11:16 \nTo: \nSubject: US v. Epstein \nHello M, \nThe vendor has finished t"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-12",
+        "event": "November 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.420Z"
+}

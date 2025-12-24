@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020834",
+    "filename": "EFTA00020834.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020834.pdf",
+    "text": "\n\nFrom: \nTo:'\n(USANYS)\" \nBcc: \"USAHUB-USAJournal111\" \nSubject: FW: Please see annexed Epstein Victim Letter \nDate: Tue, 10 Nov 2020 18:00:37 +0000 \nEmbedded: FW:_Please_see_annexed_Epstein_Victim_Letter.msg \nSender: \nSubject: FW: Please see annexed Epstein Victim Letter \nMessage-Id: \n<BN3P110MB0484CB6606278B42FB83E645EDE90@BN3P110MB0484.NAMP110.PROD.OUTLOOK.COM \nTo: \nTo: \nTo: \nEFTA00020834",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Victim",
+        "role": "extracted",
+        "context": "bject: FW: Please see annexed Epstein Victim Letter \nDate: Tue, 10 Nov 202"
+      },
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "se see annexed Epstein Victim Letter \nDate: Tue, 10 Nov 2020 18:00:37 +0"
+      },
+      {
+        "name": "Letter \nMessage",
+        "role": "extracted",
+        "context": "se see annexed Epstein Victim Letter \nMessage-Id: \n<BN3P110MB0484CB6606278B"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.447Z"
+}

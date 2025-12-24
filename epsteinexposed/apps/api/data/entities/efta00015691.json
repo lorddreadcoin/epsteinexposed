@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015691",
+    "filename": "EFTA00015691.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015691.pdf",
+    "text": "\n\nFrom: \nTo: \"Strauss, Audrey (USANYS)\" \nSubject: FW: GM Press Materials \nDate: Sun, 28 Jun 2020 00:19:03 +0000 \nAttachments: Ghislaine Maxwell_Press_Remarks_v3_(ig_edits).docx \nI have some thoughts and edits on the draft remarks for your consideration in the attached version. As you'll see, they're \nprincipally geared toward simplifying some of the language and shortening sentences. Thanks. \nFrom: Strauss, Audrey (USANYS) \nSent: Saturda , June 27, 2020 8:39 AM \nTo: \nCc: \nSubject: Re: GM Press Materials \nMany thanks. \nSent from my iPhone \nOn Jun 26, 2020, at 6:45 PM, Nrote: \nAudrey —  We've put together some draft remarks and a Q&A for a potential press conference next week. The team is \nalso working with the press office to put together a visual. Happy to discuss further after you've had a chance to review. \nThanks, \n<Ghislaine Maxwell Press Remarks v3.docx> \n<Maxwell possible QA v2.docx> \nEFTA00015691",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "te: Sun, 28 Jun 2020 00:19:03 +0000 \nAttachments: Ghislaine Maxwell_Press_Remarks_v3_(ig_edits).docx \nI have some tho"
+      },
+      {
+        "name": "Press Materials",
+        "role": "extracted",
+        "context": "ey (USANYS)\" \nSubject: FW: GM Press Materials \nDate: Sun, 28 Jun 2020 00:19"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Many thanks. \nSent from my iPhone \nOn Jun 26, 2020, at 6:45 PM, Nro"
+      },
+      {
+        "name": "Press Remarks",
+        "role": "extracted",
+        "context": "Thanks, \n<Ghislaine Maxwell Press Remarks v3.docx> \n<Maxwell possible Q"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-27",
+        "event": "June 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.242Z"
+}

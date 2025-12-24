@@ -1,0 +1,112 @@
+{
+  "document": {
+    "id": "efta00005717",
+    "filename": "EFTA00005717.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00005717.pdf",
+    "text": "\n\nFEDERAL BUREAU OF INVESTIGATION \nTitle: (U) DELTA SERIAL: \nDrafted By: \nMissing \nCase ID #:  31E-MM-108062 (U) EPSTEIN, JEFFREY \nDate: 11/25/2010 \nDetails: UNCLASSIFIED FEDERAL BUREAU OF INVESTIGATION CHS REPORTING \nDOCUMENT Form \nClassification: UNCLASSIFIED Source Id: Date: \n2010-11-26 Case \nAgent Name: \nField \nOffice: \nJacksonvill\nSquad: 10 Date of Contact: 2010-11-12 Participants/Witnesses: SA \nType of Contact: \nIn \nPerson Location Country: \nUNITED STATES City: \nJacksonville State: Florida Date of Report 2010-11-26 Substantive Case \nFile Number: 31E-MM-108062 \nSource Reporting: Source information received \nto date on \nreferred to Miami Division re 31E-MM-108062 on \n11/26/2010. \nUNCLASSIFIED \n.• \nEFTA00005717",
+    "pageCount": 1,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "ON \nTitle: (U) DELTA SERIAL: \nDrafted By: \nMissing \nCase ID #:  31E-MM"
+      },
+      {
+        "name": "Missing \nCase",
+        "role": "extracted",
+        "context": ") DELTA SERIAL: \nDrafted By: \nMissing \nCase ID #:  31E-MM-108062 (U) EPST"
+      },
+      {
+        "name": "Form \nClassification",
+        "role": "extracted",
+        "context": "ATION CHS REPORTING \nDOCUMENT Form \nClassification: UNCLASSIFIED Source Id: Date"
+      },
+      {
+        "name": "Source Id",
+        "role": "extracted",
+        "context": "Classification: UNCLASSIFIED Source Id: Date: \n2010-11-26 Case \nAgen"
+      },
+      {
+        "name": "Case \nAgent",
+        "role": "extracted",
+        "context": "Source Id: Date: \n2010-11-26 Case \nAgent Name: \nField \nOffice: \nJackso"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "2010-11-26 Case \nAgent Name: \nField \nOffice: \nJacksonvill\nSquad: 10 Date"
+      },
+      {
+        "name": "Jacksonvill\nSquad",
+        "role": "extracted",
+        "context": "Agent Name: \nField \nOffice: \nJacksonvill\nSquad: 10 Date of Contact: 2010-11-"
+      },
+      {
+        "name": "In \nPerson",
+        "role": "extracted",
+        "context": "nesses: SA \nType of Contact: \nIn \nPerson Location Country: \nUNITED STA"
+      },
+      {
+        "name": "Location Country",
+        "role": "extracted",
+        "context": "Type of Contact: \nIn \nPerson Location Country: \nUNITED STATES City: \nJackso"
+      },
+      {
+        "name": "Jacksonville State",
+        "role": "extracted",
+        "context": "ountry: \nUNITED STATES City: \nJacksonville State: Florida Date of Report 2010-"
+      },
+      {
+        "name": "Florida Date",
+        "role": "extracted",
+        "context": "ES City: \nJacksonville State: Florida Date of Report 2010-11-26 Substant"
+      },
+      {
+        "name": "Substantive Case",
+        "role": "extracted",
+        "context": "ida Date of Report 2010-11-26 Substantive Case \nFile Number: 31E-MM-108062"
+      },
+      {
+        "name": "Source Reporting",
+        "role": "extracted",
+        "context": "File Number: 31E-MM-108062 \nSource Reporting: Source information received"
+      },
+      {
+        "name": "Miami Division",
+        "role": "extracted",
+        "context": "ived \nto date on \nreferred to Miami Division re 31E-MM-108062 on \n11/26/20"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2010-11-25",
+        "event": "11/25/2010"
+      },
+      {
+        "date": "2010-11-26",
+        "event": "11/26/2010"
+      },
+      {
+        "date": "2010-11-26",
+        "event": "2010-11-26"
+      },
+      {
+        "date": "2010-11-12",
+        "event": "2010-11-12"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.135Z"
+}

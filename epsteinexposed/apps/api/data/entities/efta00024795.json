@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00024795",
+    "filename": "EFTA00024795.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024795.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \n(USANYS) [Contractor]\" -1 \n(USANYS) [Contractor]\"  \nSubject: RE: US v. Epstein \nDate: Mon, 02 Nov 2020 20:55:55 +0000 \nGot it, thank you! \nFrom: (USANYS) [Contractor] cta \nSent: Monday, November 2, 2020 3:43 PM \nTo: \nCc: (USANYS) [Contractor] <> \nSubject: US v. Epstein \nHello, \nThe password to the hard drive is \nEFTA00024795",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ractor]\"  \nSubject: RE: US v. Epstein \nDate: Mon, 02 Nov 2020 20:55:55 +0"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "ontractor] <> \nSubject: US v. Epstein \nHello, \nThe password to the hard dr"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-02",
+        "event": "November 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.857Z"
+}

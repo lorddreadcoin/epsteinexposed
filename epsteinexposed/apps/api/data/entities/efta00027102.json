@@ -1,0 +1,157 @@
+{
+  "document": {
+    "id": "efta00027102",
+    "filename": "EFTA00027102.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027102.pdf",
+    "text": "\n\nDate: 08/11/2019 \nTime: 07:22 AM \nFederal Bureau of Prisons \nTRUVIEW \nInmate Detail Report \nSensitive But Unclassified \nLocation: DC \nUser ID: GOV0100 \nReg #: 76318054 \nInmate Last Name: EPSTEIN \nInmate First \nName: \nJEFFREY \nDOB: 1/20/1953 \nSex: \nRace: \nEthnicity: \nAlpha \nCode: \nNYM \nUnit: NYM-Z-A \nQuarters: \nZ04-206LAD \nStatus: \nInactive \nLocation \nCode: NYM \nAccount Creation \nDate: \n7/6/2019 \nTRUFACS Balance: $566.27 \nTRUFONE \nBalance: $0.00 \nTRULINCS \nBalance: $0.00 \nPage 1 of 2 \nEFTA00027102\n\nDate: 08/13/2019 Location: DC \nTime: 07:22 AM \nFederal Bureau of Prisons \nTRUVIEW \nInmate Detail Report \nSensitive But Unclassified \nAKAs/Nicknames Security Threat Groups \nName Type Last Name First Name Assignment Description \nNo Data No Data \nCurrent Charges \nCharge \nNo Data \nARS History \nFacility Assignment \nNo Data \nAssignment Description Stan Date Stop Date \nUser ID: GOV0100 Page 2 of 2 \nEFTA00027103",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": ": 08/11/2019 \nTime: 07:22 AM \nFederal Bureau of Prisons \nTRUVIEW \nInmate D"
+      },
+      {
+        "name": "Inmate Detail",
+        "role": "extracted",
+        "context": "l Bureau of Prisons \nTRUVIEW \nInmate Detail Report \nSensitive But Unclass"
+      },
+      {
+        "name": "Report \nSensitive",
+        "role": "extracted",
+        "context": "isons \nTRUVIEW \nInmate Detail Report \nSensitive But Unclassified \nLocation: D"
+      },
+      {
+        "name": "But Unclassified",
+        "role": "extracted",
+        "context": "mate Detail Report \nSensitive But Unclassified \nLocation: DC \nUser ID: GOV01"
+      },
+      {
+        "name": "Inmate Last",
+        "role": "extracted",
+        "context": "ID: GOV0100 \nReg #: 76318054 \nInmate Last Name: EPSTEIN \nInmate First"
+      },
+      {
+        "name": "Inmate First",
+        "role": "extracted",
+        "context": "4 \nInmate Last Name: EPSTEIN \nInmate First \nName: \nJEFFREY \nDOB: 1/20/19"
+      },
+      {
+        "name": "Alpha \nCode",
+        "role": "extracted",
+        "context": "953 \nSex: \nRace: \nEthnicity: \nAlpha \nCode: \nNYM \nUnit: NYM-Z-A \nQuarter"
+      },
+      {
+        "name": "Inactive \nLocation",
+        "role": "extracted",
+        "context": "arters: \nZ04-206LAD \nStatus: \nInactive \nLocation \nCode: NYM \nAccount Creation"
+      },
+      {
+        "name": "Account Creation",
+        "role": "extracted",
+        "context": "nactive \nLocation \nCode: NYM \nAccount Creation \nDate: \n7/6/2019 \nTRUFACS Bal"
+      },
+      {
+        "name": "Nicknames Security",
+        "role": "extracted",
+        "context": "sitive But Unclassified \nAKAs/Nicknames Security Threat Groups \nName Type Last"
+      },
+      {
+        "name": "Threat Groups",
+        "role": "extracted",
+        "context": "fied \nAKAs/Nicknames Security Threat Groups \nName Type Last Name First Na"
+      },
+      {
+        "name": "Name Type",
+        "role": "extracted",
+        "context": "names Security Threat Groups \nName Type Last Name First Name Assignme"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "rity Threat Groups \nName Type Last Name First Name Assignment Descrip"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "t Groups \nName Type Last Name First Name Assignment Description \nNo Da"
+      },
+      {
+        "name": "Assignment Description",
+        "role": "extracted",
+        "context": "ame Type Last Name First Name Assignment Description \nNo Data No Data \nCurrent Cha"
+      },
+      {
+        "name": "No Data",
+        "role": "extracted",
+        "context": "Name Assignment Description \nNo Data No Data \nCurrent Charges \nCha"
+      },
+      {
+        "name": "Current Charges",
+        "role": "extracted",
+        "context": "Description \nNo Data No Data \nCurrent Charges \nCharge \nNo Data \nARS History"
+      },
+      {
+        "name": "Charge \nNo",
+        "role": "extracted",
+        "context": "ata No Data \nCurrent Charges \nCharge \nNo Data \nARS History \nFacility A"
+      },
+      {
+        "name": "History \nFacility",
+        "role": "extracted",
+        "context": "Charges \nCharge \nNo Data \nARS History \nFacility Assignment \nNo Data \nAssignme"
+      },
+      {
+        "name": "Assignment \nNo",
+        "role": "extracted",
+        "context": "o Data \nARS History \nFacility Assignment \nNo Data \nAssignment Description"
+      },
+      {
+        "name": "Data \nAssignment",
+        "role": "extracted",
+        "context": "tory \nFacility Assignment \nNo Data \nAssignment Description Stan Date Stop Da"
+      },
+      {
+        "name": "Description Stan",
+        "role": "extracted",
+        "context": "signment \nNo Data \nAssignment Description Stan Date Stop Date \nUser ID: GOV0"
+      },
+      {
+        "name": "Date Stop",
+        "role": "extracted",
+        "context": "Assignment Description Stan Date Stop Date \nUser ID: GOV0100 Page 2"
+      },
+      {
+        "name": "Date \nUser",
+        "role": "extracted",
+        "context": "nt Description Stan Date Stop Date \nUser ID: GOV0100 Page 2 of 2 \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-11",
+        "event": "08/11/2019"
+      },
+      {
+        "date": "1953-01-20",
+        "event": "1/20/1953"
+      },
+      {
+        "date": "2019-07-06",
+        "event": "7/6/2019"
+      },
+      {
+        "date": "2019-08-13",
+        "event": "08/13/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.546Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016792",
+    "filename": "EFTA00016792.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016792.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Maxwell discovery \nproduction \nDate: Fri, 18 Dec 2020 21:29:05 +0000 \nAttachments: 2020.12.18_MDC_-_Maxwell_MAIN.pdf; 2020.12.18_MDC_-_Maxwell_PASSWORD.pdf \nH \nToday we are sending via FedEx another CD containing a small corrected production of discovery to Maxwell. Attached \nplease find copies of the accompanying cover letters. \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016792",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "letters. \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016792"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.389Z"
+}

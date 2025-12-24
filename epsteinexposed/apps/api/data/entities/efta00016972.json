@@ -1,0 +1,120 @@
+{
+  "document": {
+    "id": "efta00016972",
+    "filename": "EFTA00016972.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016972.pdf",
+    "text": "\n\nFrom: \"spamcontrolgusdoj.gov\" t.spamcontrolgusdoj.gov> \nTo: \nSubject: End User Digest: 1 New Message \nDate: Tue, 25 Aug 2020 10:10:30 +0000 \nInline-Images: logo.jpeg \nrC.L‘\nDr PA RIME NT. ./'JUSTICE \nEnd User Digest: 1 New Message \nFor \nThe emails listed below have been placed in your personal Quarantine since you received your last End User Digest. They will \nbe deleted after 14 days. To deliver an e-mail to your inbox, click on Release. To deliver an e-mail to your inbox and add the e-\nmail sender to your Safe Senders List, click on Release and Allow Sender. This ensures that no emails from that sender will be \nblocked in the future. To report messages that are not spam but are reported in the digest, click on Not Spam. \nRequest New End User Digest   Request Safe/Blocked Senders List   Manage My Account   Questions about digesting? \nThe emails listed in this section have been placed in your personal Quarantine. Click Release to deliver the email to your inbox. \nTo continue to receive future emails from the sender, click Allow Sender. To report messages that are not spam but are included \nin the Spam - Quarantined section, click Not Spam. \nSpam - Quarantined \nScore 'From 'Subject IDate 'Action \n100 srs0=e1mvhd=cc=moraloutrage.org=chris@srs.bis7.eu.blackberry.com Epstein's 2020-\nRelease \nBuddy 08-24 anti \nNot \nClinton \n13:50:36Release   Alio \nSpam \nSender \nparn \nSender \nFor more information contact your System Administrator. \nPowered by Proofpoiot Protection Server \nEFTA00016972",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "End User",
+        "role": "extracted",
+        "context": "rolgusdoj.gov> \nTo: \nSubject: End User Digest: 1 New Message \nDate:"
+      },
+      {
+        "name": "New Message",
+        "role": "extracted",
+        "context": "Subject: End User Digest: 1 New Message \nDate: Tue, 25 Aug 2020 10:10"
+      },
+      {
+        "name": "For \nThe",
+        "role": "extracted",
+        "context": "d User Digest: 1 New Message \nFor \nThe emails listed below have been"
+      },
+      {
+        "name": "Safe Senders",
+        "role": "extracted",
+        "context": "dd the e-\nmail sender to your Safe Senders List, click on Release and Al"
+      },
+      {
+        "name": "Allow Sender",
+        "role": "extracted",
+        "context": "rs List, click on Release and Allow Sender. This ensures that no emails"
+      },
+      {
+        "name": "Not Spam",
+        "role": "extracted",
+        "context": "orted in the digest, click on Not Spam. \nRequest New End User Digest"
+      },
+      {
+        "name": "Request New",
+        "role": "extracted",
+        "context": "e digest, click on Not Spam. \nRequest New End User Digest   Request Saf"
+      },
+      {
+        "name": "Digest   Request",
+        "role": "extracted",
+        "context": "t Spam. \nRequest New End User Digest   Request Safe/Blocked Senders List   M"
+      },
+      {
+        "name": "Blocked Senders",
+        "role": "extracted",
+        "context": "nd User Digest   Request Safe/Blocked Senders List   Manage My Account   Qu"
+      },
+      {
+        "name": "List   Manage",
+        "role": "extracted",
+        "context": "Request Safe/Blocked Senders List   Manage My Account   Questions about"
+      },
+      {
+        "name": "My Account",
+        "role": "extracted",
+        "context": "Blocked Senders List   Manage My Account   Questions about digesting?"
+      },
+      {
+        "name": "Click Release",
+        "role": "extracted",
+        "context": "in your personal Quarantine. Click Release to deliver the email to your"
+      },
+      {
+        "name": "Quarantined \nScore",
+        "role": "extracted",
+        "context": "tion, click Not Spam. \nSpam - Quarantined \nScore 'From 'Subject IDate 'Action"
+      },
+      {
+        "name": "Release \nBuddy",
+        "role": "extracted",
+        "context": "lackberry.com Epstein's 2020-\nRelease \nBuddy 08-24 anti \nNot \nClinton \n13:"
+      },
+      {
+        "name": "Not \nClinton",
+        "role": "extracted",
+        "context": "0-\nRelease \nBuddy 08-24 anti \nNot \nClinton \n13:50:36Release   Alio \nSpam"
+      },
+      {
+        "name": "Release   Alio",
+        "role": "extracted",
+        "context": "4 anti \nNot \nClinton \n13:50:36Release   Alio \nSpam \nSender \nparn \nSender"
+      },
+      {
+        "name": "Spam \nSender",
+        "role": "extracted",
+        "context": "nton \n13:50:36Release   Alio \nSpam \nSender \nparn \nSender \nFor more infor"
+      },
+      {
+        "name": "Sender \nFor",
+        "role": "extracted",
+        "context": "e   Alio \nSpam \nSender \nparn \nSender \nFor more information contact your"
+      },
+      {
+        "name": "System Administrator",
+        "role": "extracted",
+        "context": "more information contact your System Administrator. \nPowered by Proofpoiot Prote"
+      },
+      {
+        "name": "Proofpoiot Protection",
+        "role": "extracted",
+        "context": "em Administrator. \nPowered by Proofpoiot Protection Server \nEFTA00016972"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.784Z"
+}

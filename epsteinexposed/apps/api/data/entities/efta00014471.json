@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00014471",
+    "filename": "EFTA00014471.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014471.pdf",
+    "text": "\n\nFrom:   \n)\" \nTo: a(USANYS)“  \nCc: a'y  \" \nSubject: RE: photos \nDate: Tue, 16 Jul 2019 18:01:38 +0000 \nImportance: Normal \nAttachments: 2019-07-16, JE,detentionsubmission.doex \n(USANYS)\" \nand El—\nThe letter is attached for your review—the team has discussed. Thanks. \nFrom: \nSent: Tuesday, July 16, 2019 1:46 PM \nTo: \nCc: \n(USANYS) \nSubject: Re: photos \nI can look now too \nSent from my iPhone \nOn Jul 16, 2019, at 13:41, \n) \nc› \n(USANYS) < \nJust finished reviewing and discussing my thoughts with now. \nFrom: (USANYS) \nSent: Tuesday, July 16, 2019 1:39 PM \nTo: (USANYS) \nCc: \nSubject: RE: photos \n> \nwrote: \nAre IM and able to look now? If it will be a while, we will review the interim version. \nFrom: \ndc> \nSent: Tuesday, July 16, 2019 1:32 PM \nTo: (USANYS) \nCc: (USANYS) < \nSubject: RE: photos \nJust sent to \n>; \n•fl \nand for a first look, and will circulate shortly after I input their comments. Thanks. \nFrom: (USANYS) < \nSent: Tuesday, July 16, 2019 1:19 PM \nTo: \nEFTA00014471\n\nCc: (USANYS) \n< \nSubject: Re: photos \nOkay. What is timing on a draft? \nSent from my iPhone \nOn Jul 16, 2019, at 12:07 PM, \n> \nwrote: \nFYI, I spoke with Judge Berman's chambers and the clerk told me the Judge does not want to see photographs (he did \nnot explain), so we are not going to bring them to chambers. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00014472",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:01:38 +0000 \nImportance: Normal \nAttachments: 2019-07-16, JE,detentionsubm"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "n look now too \nSent from my iPhone \nOn Jul 16, 2019, at 13:41, \n) \nc"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "> \nwrote: \nFYI, I spoke with Judge Berman's chambers and the clerk told"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "g to bring them to chambers. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "o chambers. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-16",
+        "event": "2019-07-16"
+      },
+      {
+        "date": "2019-07-16",
+        "event": "July 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.916Z"
+}

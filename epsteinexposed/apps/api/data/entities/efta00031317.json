@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031317",
+    "filename": "EFTA00031317.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031317.pdf",
+    "text": "\n\nFrom \nTo \nSubject: 2019-02-07, JE, letter re all writs act application.docx \nDate: Fri, 22 Feb 2019 17:44:57 +0000 \nImportance: Normal \nAttachments: 2019-02-07,_JE,_letter re_all_writs_act_application.docx \ndraft \nEFTA00031317",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: 2019-02-07, JE, let"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 17:44:57 +0000 \nImportance: Normal \nAttachments: 2019-02-07,_JE,_letter re_al"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-07",
+        "event": "2019-02-07"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.809Z"
+}

@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00030518",
+    "filename": "EFTA00030518.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030518.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: US v Epstein \nDate: Thu, 25 Jul 2019 20:54:19 +0000 \nHaven't had the chance to connect with Andy yet, but yes, goal is to produce before the conference. \nFrom: \nSent: Thursday, July 25, 2019 4:38 PM \nTo: \nCc: \nSubject: FW: US v Epstein \nHey Maurene, not sure if you've connect with Andy or whether he has a  projection on when the materials will be ready. I \nthink we're aiming to have this produced before the conference, right? \nFrom: Martin G. Weinberg a> \nSent: Thursday, July 25, 2019 9:54 AM \nTo: \nCc: Reid Weingarten ca>; 'Miller, Michael' \nSubject: US v Epstein \nI intend to sign the Protective Order on behalf of the Epstein defense team. You will have a scanned version by \nnoon. Let me know when we can expect the first wave of discovery and if you can in what format it will be produced. \nThanks, Marty \nMartin G. Weinberg, Esq. \nBoston, MA 02116 \n- Office \n- Cell \n This Electronic Message contains information from the Law Office \nof Marlin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the addressee \nonly. If you are not the addressee, please note that any disclosure, copying, distribution, or use of the contents \nof this message is prohibited. \nEFTA00030518",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: RE: US v Epstein \nDate: Thu, 25 Jul 2019 20:54:19 +0"
+      },
+      {
+        "name": "Epstein \nHey",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: FW: US v Epstein \nHey Maurene, not sure if you've c"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "ly 25, 2019 9:54 AM \nTo: \nCc: Reid Weingarten ca>; 'Miller, Michael' \nSubje"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "Epstein \nI intend to sign the Protective Order on behalf of the Epstein defe"
+      },
+      {
+        "name": "Marty \nMartin",
+        "role": "extracted",
+        "context": "it will be produced. \nThanks, Marty \nMartin G. Weinberg, Esq. \nBoston, MA"
+      },
+      {
+        "name": "Cell \n This",
+        "role": "extracted",
+        "context": "Boston, MA 02116 \n- Office \n- Cell \n This Electronic Message contains i"
+      },
+      {
+        "name": "Electronic Message",
+        "role": "extracted",
+        "context": "2116 \n- Office \n- Cell \n This Electronic Message contains information from the"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "contains information from the Law Office \nof Marlin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Boston, MA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-25",
+        "event": "July 25, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.044Z"
+}

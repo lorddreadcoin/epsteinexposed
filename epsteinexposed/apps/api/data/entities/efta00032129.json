@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00032129",
+    "filename": "EFTA00032129.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032129.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nCRM)\" \nANYS \nSubject: Revised MLA request: Material Witness PA \nDate: Mon, 30 Mar 2020 21:11:32 +0000 \nAttachments: Material_Witness_PA_3.30_DRAFT_UK_MLAT_request.docx \nHere are some proposed revisions. Please take a look and let me know what you think. I think \nwe can get by without the complete set of direct exam questions for now. \nBest, \nU.S. Department ofJustice Attaché \nUnited States Embassy -  London \n(primary email address) \nsecondary) \nEFTA00032129",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Material Witness",
+        "role": "extracted",
+        "context": "Subject: Revised MLA request: Material Witness PA \nDate: Mon, 30 Mar 2020 21"
+      },
+      {
+        "name": "Justice Attach",
+        "role": "extracted",
+        "context": "ow. \nBest, \nU.S. Department ofJustice Attaché \nUnited States Embassy -  Lo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.699Z"
+}

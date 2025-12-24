@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020792",
+    "filename": "EFTA00020792.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020792.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: (USANYS)\"  \nSubject: RE: Chief of Staff \nDate: Tue, 12 Mar 2019 17:33:36 +0000 \nImportance: Normal \nFrom: (USANYS) \nSent: Tuesday, March 12, 2019 1:14 PM \nTo: (USANYS) \nSubject: Chief of Staff \n> \n—  can you remind me of his name, so I can put on Epstein memo? \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nt. \nEFTA00020792",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Staff \nDate",
+        "role": "extracted",
+        "context": "NYS)\"  \nSubject: RE: Chief of Staff \nDate: Tue, 12 Mar 2019 17:33:36 +0"
+      },
+      {
+        "name": "Normal \nFrom",
+        "role": "extracted",
+        "context": "9 17:33:36 +0000 \nImportance: Normal \nFrom: (USANYS) \nSent: Tuesday, Mar"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "o I can put on Epstein memo? \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "n Epstein memo? \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-03-12",
+        "event": "March 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.603Z"
+}

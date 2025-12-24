@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031434",
+    "filename": "EFTA00031434.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031434.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: U. S. v. Thomas, No. 19 Cr 830 - Discovery Production 7 \nDate: Wed, 14 Apr 2021 13:44:41 +0000 \nAttachments: 2021.04.14_Thomas_Discovety_Letter -_Production_7.pdf; SDNY_00018025-\nSDNY 00018025 JAEO).pdf \nCounsel, \nPlease find attached a letter regarding the Government's production in this case. We are uploading a zip file containing \nthe discovery materials to USAfx. Additionally, please find attached one additional page of discovery, which has been \nmarked attorney's eyes only. Please contact us with any questions or if you have any difficulty accessing the production. \nRegards, \nParalegal \npecia ist \nU.S. Attorney's Office \nI \nSONY \n1 St. Andrew's Plaza \nNew York, \nNY \n10007 \nEFTA00031434",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Discovery Production",
+        "role": "extracted",
+        "context": "S. v. Thomas, No. 19 Cr 830 - Discovery Production 7 \nDate: Wed, 14 Apr 2021 13:"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "fice \nI \nSONY \n1 St. Andrew's Plaza \nNew York, \nNY \n10007 \nEFTA0003143"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.078Z"
+}

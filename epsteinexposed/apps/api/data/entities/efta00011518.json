@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00011518",
+    "filename": "EFTA00011518.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011518.pdf",
+    "text": "\n\nFrom: \n'\n:3' \nTo: Nathan NYSD Chambers\nCc: \nChristian Everdell \nBobbi Sternheim ,'Laura \nMenninger' \"Jeff Pagliuca\" \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Government Opposition to Defense Motions \nDate: Sat, 27 Feb 2021 04:20:19 +0000 \nAttachments: Brief Exhibits.zip; 2021-02-26_GM_Government_pre-\ntrial_opposition_cover_letter (final).pdf; PROPOSED_REDACTIONS_-\n2021.02.26 Government Omnibus_Opposition_to_Maxwell_Defense_Motions_FINAL.pd \n2021.02.26_Govemment_Omnibus_Opposition_to_Maxwell_Defense_Motions_FINAL_U \nNREDACTED.pdf \nGood evening, \nAttached please find the Government's omnibus memorandum of law in opposition to the defense's pretrial motions in \nthe above-referenced case. Also attached is a zip file containing the exhibits to the memorandum, as well as a cover \nletter. The cover letter has been filed on ECF, and the Government requests that the remaining filings be accepted \ntemporarily under seal. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00011518",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers\nCc",
+        "role": "extracted",
+        "context": "From: \n'\n:3' \nTo: Nathan NYSD Chambers\nCc: \nChristian Everdell \nBobbi S"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "To: Nathan NYSD Chambers\nCc: \nChristian Everdell \nBobbi Sternheim ,'Laura \nMen"
+      },
+      {
+        "name": "Bobbi Sternheim",
+        "role": "extracted",
+        "context": "bers\nCc: \nChristian Everdell \nBobbi Sternheim ,'Laura \nMenninger' \"Jeff Pag"
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "n Everdell \nBobbi Sternheim ,'Laura \nMenninger' \"Jeff Pagliuca\" \nSubject: US"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "ternheim ,'Laura \nMenninger' \"Jeff Pagliuca\" \nSubject: US v. Maxwell, 20"
+      },
+      {
+        "name": "Government Opposition",
+        "role": "extracted",
+        "context": ". Maxwell, 20 Cr. 330 (AJN) - Government Opposition to Defense Motions \nDate: Sat"
+      },
+      {
+        "name": "Defense Motions",
+        "role": "extracted",
+        "context": "N) - Government Opposition to Defense Motions \nDate: Sat, 27 Feb 2021 04:20"
+      },
+      {
+        "name": "Brief Exhibits",
+        "role": "extracted",
+        "context": "04:20:19 +0000 \nAttachments: Brief Exhibits.zip; 2021-02-26_GM_Government"
+      },
+      {
+        "name": "Government Omnibus",
+        "role": "extracted",
+        "context": "POSED_REDACTIONS_-\n2021.02.26 Government Omnibus_Opposition_to_Maxwell_Defense"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.808Z"
+}

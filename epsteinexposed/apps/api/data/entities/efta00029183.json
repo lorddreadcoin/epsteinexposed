@@ -1,0 +1,76 @@
+{
+  "document": {
+    "id": "efta00029183",
+    "filename": "EFTA00029183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029183.pdf",
+    "text": "\n\nFrom: ' \nTo: \n\"• \nSubject: RE: \n(NY) (FBI)\" <I \n• \n- Epstein \nDate: Tue, 18 May 2021 14:31:16 +0000 \nNo worries at all —  thanks for sending. \nFrom: \nc>\nSent: Tuesday, May 18, 2021 10:26 AM \nTo: \nSubject: RE: - Epstein \nI apologize. Sent the wrong attachment. The correct one is now attached. \nFrom: \nSent: Monday, May 17, 2021 8:36 PM \nTo: (NY) (FBI) \n<a> \nSubject: (EXTERNAL EMAIL) - RE: - Epstein \nI think these are the notes for the 302? \nFrom: \nSent: Monday, May 17, 2021 7:26 PM \nTo: \nSubject: RE: - Epstein \nSigned. \nFrom: \nSent: Friday, May 14, 2021 3:27 PM \nTo: (NY) (FBI) <a> \nSubject: [EXTERNAL EMAIL] - FW: - Epstein \nHi \nWhen you have a chance, could you please initial the proffer agreement and send it back to me? Thanks! \nFrom: Joe Nascimento A \nSent: Friday, May 14, 2021 2:56 PM \nTo: \nc>\nCc: \nSubject: Re: \n(USANTS) \n- Epstein \nThanks again for your time today. Attached, please find a copy of the proffer agreement with updated initials. \nHave a nice weekend, \nJoe \nEFTA00029183\n\nJoseph E. Nascimento, Esq. \nROSS AMSEL RABEN NASCIMENTO, PLLC \nLawyer's Plaza I  4th Floor \n2250 S.W. 3rd Avenue \nMiami, FL 33129 \nf. \ne. \nwww.crimlawfirm.com \nEFTA00029184",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ct: RE: \n(NY) (FBI)\" <I \n• \n- Epstein \nDate: Tue, 18 May 2021 14:31:16 +0"
+      },
+      {
+        "name": "Epstein \nSigned",
+        "role": "extracted",
+        "context": "7:26 PM \nTo: \nSubject: RE: - Epstein \nSigned. \nFrom: \nSent: Friday, May 14"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "ect: [EXTERNAL EMAIL] - FW: - Epstein \nHi \nWhen you have a chance, coul"
+      },
+      {
+        "name": "Joe Nascimento",
+        "role": "extracted",
+        "context": "it back to me? Thanks! \nFrom: Joe Nascimento A \nSent: Friday, May 14, 2021"
+      },
+      {
+        "name": "Epstein \nThanks",
+        "role": "extracted",
+        "context": "c: \nSubject: Re: \n(USANTS) \n- Epstein \nThanks again for your time today. At"
+      },
+      {
+        "name": "Avenue \nMiami",
+        "role": "extracted",
+        "context": "a I  4th Floor \n2250 S.W. 3rd Avenue \nMiami, FL 33129 \nf. \ne. \nwww.crimla"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Avenue \nMiami, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-18",
+        "event": "May 18, 2021"
+      },
+      {
+        "date": "2021-05-17",
+        "event": "May 17, 2021"
+      },
+      {
+        "date": "2021-05-14",
+        "event": "May 14, 2021"
+      },
+      {
+        "date": "2021-05-18",
+        "event": "18 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.932Z"
+}

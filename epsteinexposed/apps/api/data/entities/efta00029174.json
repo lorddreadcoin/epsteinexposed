@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029174",
+    "filename": "EFTA00029174.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029174.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Accepted: Epstein Brass Meet \nDate: Fri, 05 Apr 2019 22:53:35 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00029174",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Brass",
+        "role": "extracted",
+        "context": "rom: \nTo: \nSubject: Accepted: Epstein Brass Meet \nDate: Fri, 05 Apr 2019"
+      },
+      {
+        "name": "Meet \nDate",
+        "role": "extracted",
+        "context": "ject: Accepted: Epstein Brass Meet \nDate: Fri, 05 Apr 2019 22:53:35 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 22:53:35 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00029174"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.909Z"
+}

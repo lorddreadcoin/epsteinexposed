@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00015632",
+    "filename": "EFTA00015632.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015632.pdf",
+    "text": "\n\nFrom: \nTo: \nr. \nSubject: Fwd: Epstein \nDate: Thu, 11 Jul 2019 13:47:47 +0000 \nImportance: Normal \nNothing on today, right? \nSent from my iPhone \nBegin forwarded message: \nFrom: Juliet Papa <papa@wins.com>\nDate: July 11, 2019 at 9:38:53 AM EDT \nTo: \n\"-\nSubject: Re: Epstein \nThank you for confirming. I  told my desk that and they were insisting he had a court appearance. Either they \nare reading something incorrectly or wires have it wrong . \nJuliet Papa \nReporter \n1010 WINS Radio \n1010WINS.com \nEntercom \nTwitter: ®winsjuliet \nSent from my iPhone \nOn Jul \n11, 2019, at 8:45 AM, \n> \nwrote: \nNope. Monday at 10:00 am, Judge Berman. The defense brief is due today and our response is due tomorrow. \nSent from my iPhone \nOn Jul 11, 2019, at 8:12 AM, Juliet Papa <papaOwins.com> wrote: \nHi -does he have a court appearance today? Thanks-\nJuliet Papa \nEFTA00015632\n\nReporter \n1010 WINS \nRadio \n1010WINS.com \nEntercom \nTwitter: \n@winsjuliet \nSent \nfrom my \niPhone \nEFTA00015633",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nr. \nSubject: Fwd: Epstein \nDate: Thu, 11 Jul 2019 13:47:47 +0"
+      },
+      {
+        "name": "Normal \nNothing",
+        "role": "extracted",
+        "context": "9 13:47:47 +0000 \nImportance: Normal \nNothing on today, right? \nSent from m"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "today, right? \nSent from my iPhone \nBegin forwarded message: \nFrom: Jul"
+      },
+      {
+        "name": "Juliet Papa",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Juliet Papa <papa@wins.com>\nDate: July 11"
+      },
+      {
+        "name": "Epstein \nThank",
+        "role": "extracted",
+        "context": "AM EDT \nTo: \n\"-\nSubject: Re: Epstein \nThank you for confirming. I  told m"
+      },
+      {
+        "name": "Entercom \nTwitter",
+        "role": "extracted",
+        "context": "010 WINS Radio \n1010WINS.com \nEntercom \nTwitter: ®winsjuliet \nSent from my iP"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "r: ®winsjuliet \nSent from my iPhone \nOn Jul \n11, 2019, at 8:45 AM, \n>"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "e: \nNope. Monday at 10:00 am, Judge Berman. The defense brief is due tod"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-11",
+        "event": "July 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.115Z"
+}

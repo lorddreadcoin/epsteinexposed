@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00003054",
+    "filename": "EFTA00003054.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003054.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nI \nlook \nQuarters \nSuite \nB\n-S \nSt. \nThomas, \nVI \n00802 \nTel: \n(:ontact \nurm \nDate: \n03/20/18 \nEmployee \nName: \n(Amy \nl \nitre \nAddress: \n:A \n!homes \nVI \n00802 \nD\nate\n \no\nf \nBirth: \nStart \nDate: \nPhone: \nCell \nE\n-Mail: \nn/a \nTitle \n/ \nPosition: \nMathtenat.ce \nMarital \nStatus: \nMarried \nLicense: \nIllr4nergency \nInformation: \nAllergies \nor \nHealth \nConcerns. \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nitc.: \nIl,,s \nI \naiiiily \nPhone: \nDoctor's \nName: \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact: \nNavin \nValerie \nRelationship \nwife \nPhone \n/\nSane \nCierrycia \nRelationship \nDaughter \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003054",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "JE, \nLLC \n6100 \nRed \nI \nlook \nQuarters \nSuite \nB\n-S \nSt. \nThomas, \nVI \n0080"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "ontact \nurm \nDate: \n03/20/18 \nEmployee \nName: \n(Amy \nl \nitre \nAddress: \n:A"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "00802 \nD\nate\n \no\nf \nBirth: \nStart \nDate: \nPhone: \nCell \nE\n-Mail: \nn/a"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "/ \nPosition: \nMathtenat.ce \nMarital \nStatus: \nMarried \nLicense: \nIllr4ner"
+      },
+      {
+        "name": "Married \nLicense",
+        "role": "extracted",
+        "context": "thtenat.ce \nMarital \nStatus: \nMarried \nLicense: \nIllr4nergency \nInformation:"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Information: \nAllergies \nor \nHealth \nConcerns. \nBlood \nType: \nCurrent \nMedi"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns. \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nConcerns. \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nitc.: \nIl,"
+      },
+      {
+        "name": "Navin \nValerie",
+        "role": "extracted",
+        "context": "Emergency, \nPlease \ncontact: \nNavin \nValerie \nRelationship \nwife \nPhone \n/"
+      },
+      {
+        "name": "Sane \nCierrycia",
+        "role": "extracted",
+        "context": "Relationship \nwife \nPhone \n/\nSane \nCierrycia \nRelationship \nDaughter \nPhon"
+      },
+      {
+        "name": "Relationship \nDaughter",
+        "role": "extracted",
+        "context": "fe \nPhone \n/\nSane \nCierrycia \nRelationship \nDaughter \nPhone \nThis \nInformation \nis"
+      },
+      {
+        "name": "Phone \nThis",
+        "role": "extracted",
+        "context": "ycia \nRelationship \nDaughter \nPhone \nThis \nInformation \nis \nfor \nyour"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.615Z"
+}

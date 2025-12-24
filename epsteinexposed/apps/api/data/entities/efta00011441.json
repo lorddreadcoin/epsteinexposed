@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011441",
+    "filename": "EFTA00011441.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011441.pdf",
+    "text": "\n\nFrom: \"The Invisible Man\" <aace@dial.pipex.com> \nTo: \"'G. Max'\" <gmaxl@mindspring.com> \nSubject: RE: \nSent: Sun, 3 Mar 2002 15:27:59 -0000 \nGot it I will ring him today if I can. \nLove you A xxx \n Original Message \nFrom: G. Max (mailto:gmax1@mindspring.com) \nSent: 03 March 2002 05:36 \nTo: The Invisible Man \nSubject: \nThought you would like to see what I sent \n- Have a great time \nGx \nI just gave Andrew your telephone no. He is interested in seeing the \nNazca \nLines. He can ride but it is not his favorite sport ie pass on the \nhorses. \nSome sight seeing some 2 legged sight seeing (read intelligent pretty \nfun \nand from good families) and he will be very happy. I know I can rely on \nyou \nto show him a wonderful time and that you will only introduce him to \nfriends that you can trust and rely on to be friendly and discreet and \nfun. \nHe does not want to read about any trip in the papers whom or what he \nsaw. \nCall me if you have any questions - otherwise you can expect a very \nEnglish \nsounding gentleman on the phone to call up and say hi. I told him it \nwould \nbe best if he made his plans directly with you. \nThe only part that I am jealous about is that he will get to see you and \nthat he will be in Peru and have you as his tour guide for a day \nBesos \nGx \nEFTA00011441",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Invisible",
+        "role": "extracted",
+        "context": "From: \"The Invisible Man\" <aace@dial.pipex.com> \nT"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "y if I can. \nLove you A xxx \n Original Message \nFrom: G. Max (mailto:gmax1@m"
+      },
+      {
+        "name": "Man \nSubject",
+        "role": "extracted",
+        "context": "2002 05:36 \nTo: The Invisible Man \nSubject: \nThought you would like to s"
+      },
+      {
+        "name": "Nazca \nLines",
+        "role": "extracted",
+        "context": "is interested in seeing the \nNazca \nLines. He can ride but it is not hi"
+      },
+      {
+        "name": "Besos \nGx",
+        "role": "extracted",
+        "context": "as his tour guide for a day \nBesos \nGx \nEFTA00011441"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2002-03-03",
+        "event": "03 March 2002"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.630Z"
+}

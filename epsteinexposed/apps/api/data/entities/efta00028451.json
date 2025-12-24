@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028451",
+    "filename": "EFTA00028451.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028451.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: il=.11111r \nSubject: SW for devices \nDate: Mon, 15 Jul 2019 12:20:29 +0000 \nImportance: Normal \nAttachments: SW for JE Phone iPad Suitcases v2docx.docx \nHi \nAttached is the affidavit seeking a search warrant for Epstein's phone and ipad, as well as the electronic media seized from \nthe suitcases at the house. Please review it and give me a call if you have any concerns or edits. Hope is to swear this out \nafter the bail hearing. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00028451",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 12:20:29 +0000 \nImportance: Normal \nAttachments: SW for JE Phone iPad Suitcas"
+      },
+      {
+        "name": "Pad Suitcases",
+        "role": "extracted",
+        "context": "Attachments: SW for JE Phone iPad Suitcases v2docx.docx \nHi \nAttached is"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "e iPad Suitcases v2docx.docx \nHi \nAttached is the affidavit seeking a se"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "r the bail hearing. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "g. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00028451"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.265Z"
+}

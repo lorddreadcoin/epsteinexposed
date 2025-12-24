@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026928",
+    "filename": "EFTA00026928.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026928.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Letter to PAE in Epstein FOIA \nDate: Wed, 14 Apr 2021 12:42:30 +0000 \nAttachments: 041321_Times_v_BOP_20cv833_Govt_Letter v2.docx \nAll, \nIn advance of the 10:00 call, please find attached a letter to Judge Engelmayer re: Noel and next steps in the Epstein FOIA. \nPlease let me know if you have any edits or concerns, or we can discuss on the call. \nThanks, \nAssistant United States Attorney \nEFTA00026928",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Engelmayer",
+        "role": "extracted",
+        "context": "ase find attached a letter to Judge Engelmayer re: Noel and next steps in th"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "iscuss on the call. \nThanks, \nAssistant United States Attorney \nEFTA00026928"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l. \nThanks, \nAssistant United States Attorney \nEFTA00026928"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.166Z"
+}

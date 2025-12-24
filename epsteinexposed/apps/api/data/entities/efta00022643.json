@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00022643",
+    "filename": "EFTA00022643.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022643.pdf",
+    "text": "\n\nFrom: \"\" \nTo:'\nSubject: Fwd: Attending the Upcoming Maxwell Trial \nDate: Fri, 08 Oct 2021 20:49:10 +0000 \nInline-Images: Outlook-NCVBA.png \nHaving some struggles with email on my phone still, but looks like I  also forwarded his second email, in May. \nThose two that I  sent along are the only communications I have from him. \nSent from my iPhone \nBegin forwarded message: \nFrom: \")\" <O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE \nBOHF23SPDLTYCN=RECIPIENTS/CN=D0812B3F0D874F78AF13D43961863FE4-\nDate: May 10, 2021 at 13:34:00 PDT \nSubject: FW: Attending the Upcoming Maxwell Trial \nHey \nteam, similar email as what I got from him on April 20, just FYI. \nFrom: Robert Y. Lewis \nSent: Monday, May 10, 2021 16:27 \nTo: \nI e> \nSubject: Attending the Upcoming Maxwell Trial \nDear \nI represent one of the victims of Jeffrey Epstein and his lieutenant Ghislaine Maxwell. \nwould like to attend the upcoming trial of Ms. Maxwell. She will be coming from England, \nwhere she lives. \ns not asking the government to pay for any travel expenses, but would like to be given priority \n(along with other victims of course) in getting into the trial as a spectator. Given the keen public interest in \nthe case, she is afraid that without priority she will not be able to get into the courtroom. Would you let us \nknow what your office is doing to ensure that victims like scan attend the trial? \nThank you for all your hard work in bringing Ms. Maxwell to justice. \nRobert Y. Lewis \nThe Marsh Law Firm PLLC \nEFTA00022643\n\nTi \nNATIONA1 \nCRIME VIC I IM \nBAR ASSOCIATION \nCONFIDENTIALITY NOTICE: The information contained in this message and any attachment is confidential and may be \nsubject to the attorney-client privilege, or otherwise protected from disclosure by applicable law. Any disclosure, distribution, \ncopying, or use of the information contained in this message or any attachment by anyone other than the intended recipient, \nregardless of address or routing, is strictly prohibited. If you are not the intended recipient, please telephone or email the \nsender and delete this message and any attachment from your system. \nCONFIDENTIALITY NOTICE: The information contained in this message and any attachment is confidential and \nmay be subject to the attorney-client privilege, or otherwise protected from disclosure by applicable law. Any \ndisclosure, distribution, copying, or use of the information contained in this message or any attachment by \nanyone other than the intended recipient, regardless of address or routing, is strictly prohibited. If you are not \nthe intended recipient, please telephone or email the sender and delete this message and any attachment from \nyour system. \nIF YOU ARE NOT A CLIENT: This material is general information of an educational nature and is not legal \nadvice. This communication does not establish or constitute the retention of Marsh Law Finn PLLC for the \nprovision of legal services, unless explicitly so stated herein. Any attached items, including the content of this e-\nmail, are offered \"as is\" with no guarantee as to their accuracy, timeliness, or completeness. \nEFTA00022644",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ll Trial \nDear \nI represent one of the victims of Jeffrey Epstein and his lieutenant Ghislaine Maxwell. \nwould like"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "the victims of Jeffrey Epstein and his lieutenant Ghislaine Maxwell. \nwould like to attend the upcoming trial of Ms."
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "attend the upcoming trial of Ms. Maxwell. She will be coming from"
+      },
+      {
+        "name": "Upcoming Maxwell",
+        "role": "extracted",
+        "context": "'\nSubject: Fwd: Attending the Upcoming Maxwell Trial \nDate: Fri, 08 Oct 2021"
+      },
+      {
+        "name": "Trial \nDate",
+        "role": "extracted",
+        "context": "ttending the Upcoming Maxwell Trial \nDate: Fri, 08 Oct 2021 20:49:10 +0"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "have from him. \nSent from my iPhone \nBegin forwarded message: \nFrom: \")\""
+      },
+      {
+        "name": "Trial \nHey",
+        "role": "extracted",
+        "context": "ttending the Upcoming Maxwell Trial \nHey \nteam, similar email as what"
+      },
+      {
+        "name": "Lewis \nSent",
+        "role": "extracted",
+        "context": "0, just FYI. \nFrom: Robert Y. Lewis \nSent: Monday, May 10, 2021 16:27"
+      },
+      {
+        "name": "Trial \nDear",
+        "role": "extracted",
+        "context": "ttending the Upcoming Maxwell Trial \nDear \nI represent one of the victi"
+      },
+      {
+        "name": "Lewis \nThe",
+        "role": "extracted",
+        "context": "axwell to justice. \nRobert Y. Lewis \nThe Marsh Law Firm PLLC \nEFTA0002"
+      },
+      {
+        "name": "Marsh Law",
+        "role": "extracted",
+        "context": "ustice. \nRobert Y. Lewis \nThe Marsh Law Firm PLLC \nEFTA00022643\n\nTi"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-10",
+        "event": "May 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.318Z"
+}

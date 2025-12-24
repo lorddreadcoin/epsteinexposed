@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00025555",
+    "filename": "EFTA00025555.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025555.pdf",
+    "text": "\n\nFrom: Sigrid McCawley  \nTo: \n)\"  \nSubject: Filing \nDate: Wed, 13 May 2020 22:22:52 +0000 \nAttachments: 2020-05-13 J00068-000LLETTER_MOTION _for Conference_addressed_to_Magistr....pdf \nFYI -  Maxwell is seeking a stay based on the investigation. \nSigrid McCawley \nPartner \nBOIES \nSCHILLER FLEXNER LLP \nwww.bsfllp.com\nThe information contained in this electronic message is confidential information intended only for the use of the named recipient(s) and may contain information that. \namong other \nprotections, \nis the subject of attomey-client privilege, attorney work product or exempt from disclosure under applicable law. If the reader of this \nelectronic message is not the named recipient. or the employee or agent responsible to deliver it to the named recipient. you are hereby notified that any \ndissemination. distribution. copying or other use of this communication is strictly prohibited and no privilege is waived. If you have received this communication in \nerror, \nplease immediately notify the sender by replying to this electronic message and then deleting this electronic message from your computer. (v.1 082018318SP] \nEFTA00025555",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "From: Sigrid McCawley  \nTo: \n)\"  \nSubject: Fi"
+      },
+      {
+        "name": "Cawley  \nTo",
+        "role": "extracted",
+        "context": "From: Sigrid McCawley  \nTo: \n)\"  \nSubject: Filing \nDate:"
+      },
+      {
+        "name": "Filing \nDate",
+        "role": "extracted",
+        "context": "McCawley  \nTo: \n)\"  \nSubject: Filing \nDate: Wed, 13 May 2020 22:22:52 +0"
+      },
+      {
+        "name": "Cawley \nPartner",
+        "role": "extracted",
+        "context": "the investigation. \nSigrid McCawley \nPartner \nBOIES \nSCHILLER FLEXNER LLP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-13",
+        "event": "2020-05-13"
+      },
+      {
+        "date": "2020-05-13",
+        "event": "13 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.422Z"
+}

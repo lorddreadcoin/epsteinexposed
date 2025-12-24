@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028713",
+    "filename": "EFTA00028713.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028713.pdf",
+    "text": "\n\nFrom: (USANYS)\" \naNIMIE> \nTo: 'dAN.\nraYS)\" \n(USANYS)\" \nSubject: Draft 2d Cir Motion \nOpp \nDate: Tue, 25 May 2021 02:19:45 +0000 \nAttachments: Maxwell_2d_Circuit_Renewed_Bail_Application_Opposition_v 1 .docx \nHi team, \nciiii Attached is a draft oppo •  ' to Maxwell's renewed motion for release in the Circuit. Please let me know if you have any \nedits before I send up t This is due Thursday, so I'd like to get this tcMay early afternoon tomorrow if possible. \nEFTA00028713",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cir Motion",
+        "role": "extracted",
+        "context": "(USANYS)\" \nSubject: Draft 2d Cir Motion \nOpp \nDate: Tue, 25 May 2021"
+      },
+      {
+        "name": "Opp \nDate",
+        "role": "extracted",
+        "context": "Subject: Draft 2d Cir Motion \nOpp \nDate: Tue, 25 May 2021 02:19:45 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-25",
+        "event": "25 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.788Z"
+}

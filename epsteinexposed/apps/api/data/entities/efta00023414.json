@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00023414",
+    "filename": "EFTA00023414.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023414.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Second Daubert Motion \nDate: Mon, 15 Nov 2021 04:43:33 +0000 \nAttachments: Motion_to_preclude_Hall_et_al_v3.docx \nI should have noted —=did the vast majority of the heavy lifting on this one, and we're really grateful to him for \nputting in so much work over the last few days to help us keep out Dr. Hall. \nFrom: \nSent: Sunda November 14, 2021 11:41 PM \nTo: \nCc: \nSubject: Second Daubert Motion \nHi Chiefs, \nI hope you had a nice weekend! Attached is our second Doubert motion for your review. It is due tomorrow. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00023414",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hall",
+        "role": "extracted",
+        "context": "few days to help us keep out Dr. Hall. \nFrom: \nSent: Sunda Nove"
+      },
+      {
+        "name": "Second Daubert",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Second Daubert Motion \nDate: Mon, 15 Nov 202"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Second Daubert Motion \nDate: Mon, 15 Nov 2021 04:43:33 +0"
+      },
+      {
+        "name": "Sunda November",
+        "role": "extracted",
+        "context": "p out Dr. Hall. \nFrom: \nSent: Sunda November 14, 2021 11:41 PM \nTo: \nCc:"
+      },
+      {
+        "name": "Motion \nHi",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Second Daubert Motion \nHi Chiefs, \nI hope you had a nic"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "It is due tomorrow. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-14",
+        "event": "November 14, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.915Z"
+}

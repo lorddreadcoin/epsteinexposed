@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00019465",
+    "filename": "EFTA00019465.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019465.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: can you make sure the Maxwell case is a victim case \n20 Cr 330 \nDate: Tue, 07 Jul 2020 15:06:53 +0000 \nThanks \nFrom: \nSent: Tuesday, July 07, 2020 10:53 AM \nTo: \nSubject: RE: can you make sure the Maxwell case is a victim case 20 Cr 330 \nNo problem —  it's under the Epstein investigation USAO, which is 2018R01618 \nAnd all good with me so far, thanks, and hope the same for you! \nFrom: \nSent: Tuesday, July 07, 2020 10:51 \nTo: \nSubject: FW: can you make sure the Maxwell case is a victim case 20 Cr 330 \nHello \nHope all is well. \nDo you have USAOtt for this case? \nThanks, \nFrom: \nSent: Monday, July 06, 2020 11:19 AM \nTo: \nSubject: can you make sure the Maxwell case is a victim case 20 Cr 330 \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nTel. \nEFTA00019465",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": ", 07 Jul 2020 15:06:53 +0000 \nThanks \nFrom: \nSent: Tuesday, July 07, 202"
+      },
+      {
+        "name": "Hello \nHope",
+        "role": "extracted",
+        "context": "e is a victim case 20 Cr 330 \nHello \nHope all is well. \nDo you have USA"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "e is a victim case 20 Cr 330 \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "ase 20 Cr 330 \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "n District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nTe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-07",
+        "event": "July 07, 2020"
+      },
+      {
+        "date": "2020-07-06",
+        "event": "July 06, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.953Z"
+}

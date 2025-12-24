@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018158",
+    "filename": "EFTA00018158.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018158.pdf",
+    "text": "\n\nFro \nTo: \nCc: \nSubject: Epstein \nupdates \nDate: Mon, 08 Jul 2019 17:22:20 +0000 \nImportance: Normal \nEpstein's presentment proceeding has just started. \nThanks, \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00018158",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fro \nTo",
+        "role": "extracted",
+        "context": "Fro \nTo: \nCc: \nSubject: Epstein \nupda"
+      },
+      {
+        "name": "Normal \nEpstein",
+        "role": "extracted",
+        "context": "9 17:22:20 +0000 \nImportance: Normal \nEpstein's presentment proceeding has"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "g has just started. \nThanks, \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00018158"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.299Z"
+}

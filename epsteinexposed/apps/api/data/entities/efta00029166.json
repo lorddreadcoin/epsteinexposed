@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029166",
+    "filename": "EFTA00029166.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029166.pdf",
+    "text": "\n\nFrom: \"M=En \nTo: \"Huffier, Florence (OCHE)\" \nSubject: Automatic reply: Epstein FOIA Release \nDate: Mon, 23 Aug 2021 13:44:08 +0000 \nI  am away from the office and will be checking email only periodically. If this is a matter requiring urgent assistance, \nplease contact the other AUSA assigned to the case. \nEFTA00029166",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "En \nTo",
+        "role": "extracted",
+        "context": "From: \"M=En \nTo: \"Huffier, Florence (OCHE)\""
+      },
+      {
+        "name": "Release \nDate",
+        "role": "extracted",
+        "context": "Automatic reply: Epstein FOIA Release \nDate: Mon, 23 Aug 2021 13:44:08 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.893Z"
+}

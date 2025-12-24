@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023455",
+    "filename": "EFTA00023455.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023455.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: (USANYS)\" \nSubject: \nDate: Sun, 03 Oct 2021 21:39:21 +0000 \nEmbedded: FW: .msg \nHi \nThanks) \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00023455",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nThanks",
+        "role": "extracted",
+        "context": "21 +0000 \nEmbedded: FW: .msg \nHi \nThanks) \nAssistant United States Att"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "edded: FW: .msg \nHi \nThanks) \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Hi \nThanks) \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00023455"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.994Z"
+}

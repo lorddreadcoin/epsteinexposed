@@ -1,0 +1,445 @@
+{
+  "document": {
+    "id": "efta00030207",
+    "filename": "EFTA00030207.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030207.pdf",
+    "text": "\n\nTo: Law Enforcement Agent Requesting SAR Backup Documentation \nFrom: Raymond Duncan, Vice President —  Financial Intelligence Unit \nCc: Scott McFarland, Director —  Financial Intelligence Unit \nSubject: Supporting Documentation for Cardholder/Merchant Data Prepared for \nLaw Enforcement \n*Disclaimer: the information provided in the accompanying spreadsheets and described below is \nprovided solely for aiding investigation purposes and does not represent official American \nExpress data from the respective systems of record. Official documents are maintained and have \nbeen/will be provided upon request. \nI) TABLE OF CONTENTS \nAmerican Express Card Account Organization 1 \nCard Data Format  2 \nPrepaid Card Account \nOrganization 3 \nReloadable Card Data Format  \n3 \nPrepaid Gift Card Data Format  \n5 \nMerchant Account Organization  6 \nMerchant Data Format  6 \nPersonal Savings Account Organization 8 \nPersonal Savings Account Data Format  8 \n2) AMERICAN EXPRESS CARD ACCOUNT ORGANIZATION \nEvery American Express credit and charge card has a unique fifteen-digit number (\"Card \nNumber\"). The first eleven digits of this number identify the credit card account (\"Card Member \nAccount\") to which this card belongs. For each Card Member Account there is a primary card \nmember who is responsible for paying the balance on all of the supplemental cards associated \n5/14/2019 AXP Restricted Page 1  of 9 \nEFTA00030207\n\nwith the account. Up to 99 supplemental cards may be associated with a single account. If a \nprimary card member has 10 supplemental cards, all II cards would have the same first 11 \nnumbers. The last four digits of the 11 respective card accounts would be different. \n3) CARD DATA FORMAT (EXCEL SPREADSHEET TABS) \nFor investigation purposes only, the Financial Intelligence Unit divides internal data on card \nmembers into several major categories: Demographic Information (\"Demo\"), Address, \nTelephone, Record of Charges (\"ROC\"), Payment, Wire Payments, Returned Payment, Airline, \nand IP Address. This data is displayed in the accompanying Excel spreadsheets with each \ncategory occupying its own tab. Within each tab, the relevant information is organized by \nlabeled columns. If there is no information to report in a particular category, the tab will simply \nnot appear on the spreadsheet. A general overview of the information within each tab is provided \nbelow. \nA. DEMO \nThe Demo tab identifies account details and demographic information for both charge and/or \ncredit card accounts, listing (where available) the cardholder's name, date of birth, and social \nsecurity number as well as information about the particular credit card product (Gold, Platinum, \netc.). \nB. \nADDRESS \nThe Address tab identifies all the addresses that have been associated with each credit card and \nidentifies the type of address (home, \nbusiness, etc.). \nC. TELEPHONE \nThe Telephone tab identifies all the telephone numbers that have been associated with each \ncredit card and identifies the type of number (Home, Business, ANI). An ANI number is a \nphone number from which the card member or another individual called an American Express \ncustomer service center about the subject account. The number is captured automatically and the \ndate on which the call was made is provided. \nD. ROC (Record of Charges or Spend) \nThe ROC tab identifies all completed charges (including credits/retums) a credit card has made \nover the past five years. The tab identifies the date and amount, in U.S. Dollars, of the charge. \nIn addition, the tab identifies the merchant at which the charge was made (the unique merchant \naccount number, legal and d/b/a name as well as address and industry type). \nE. AUTHORIZATION \nREQUEST (\"CAS\") \nThe CAS tab identifies all the credit requests a credit card has made over the past one year. \nEvery time a card is swiped or keyed into a card reader, a request for credit is sent to American \nExpress and an approval code is returned. The request may be approved, denied, or pended. It is \nimportant to remember that while 90% of all credit requests are charged exactly as requested, \nsome credit requests are not charged in the same amount or on the same day. For example, when \nbooking a hotel room for four nights, your credit card is swiped and the amount of a four-night \n5/14/2019 AXP Restricted Page 2 of 9 \nEFTA00030208\n\nstay is requested; however, your card is not charged at that time but rather at the time of check-\nout, at which time your bill might be for more or less than the original credit request. This tab \nalso identifies whether the payment attempt was made by swiping or keying the card (keying \nincludes internet and phone charges). \nF. PAYMENT \nThe Payment tab identifies all the payments that have been made against a credit card balance, \nincluding dates and amounts, and (where available) information on the bank account on which \nthe payment was drawn. \nG. RETURNED PAYMENT \nThe Returned Payment tab identifies payments that have been posted against a credit card \nbalance and subsequently returned to the payment source. \nH. AIRLINE \nThe Airline tab identifies airline ticket charges incurred on a credit card account and contains \ninformation provided at the time of purchase, including the passenger's name, departure date, \norigin airport, and destination airport. Connecting flight information, if applicable, is generally \navailable in the \"Itinerary\" column. \nI. IP \nADDRESS \nThe IP Address tab identifies intemet protocol address information captured by American \nExpress systems during online account activity (including some purchases, payments, and \naccount changes). If an e-mail was sent through the American Express website, the e-mail and \nthe IP address from which the customer logged in may have been captured. If a customer \npurchased an item online using an American Express card and provided the merchant with an e-\nmail address as the point of contact, that address may also appear in this tab. \n4) PREPAID CARD ACCOUNT ORGANIZATION \nEvery American Express prepaid card has a unique fifteen-digit number (\"Card Number\" or \n\"CM15\"). Reloadable prepaid card products allow a cardholder to add funds to the account, and \nsome may be used to make ATM withdrawals, transfer money, and write checks. Prepaid card \nproducts also include gift cards, which are predenominated and not reloadable. Some prepaid \nproducts offer sub-accounts, which are established under the primarily, or \"master\" account for \nanother person age 13 or older. The sub-account is linked to, funded by, and controlled by the \nmaster accountholder. \n5) RELOADABLE PREPAID DATA FORMAT (EXCEL SPREADSHEET TABS) \nFor investigation purposes only, the Financial Intelligence Unit divides internal data on prepaid \nmembers into several major categories: Demographic Information (\"Demo\"), Address, \nTelephone, Peer to Peer Transactions (\"P2P\"), IP Address, Card Transactions, BillPay \nTransactions, Airline Transactions, Funds Load, Withdrawals, Disputes, and Customer Service \nNotes. \n5/14/2019 AXP Restricted Page 3 of 9 \nEFTA00030209\n\nThe Financial Intelligence Unit divides internal data on other prepaid card members into several \nmajor categories: Sale Info, Demographic Information (\"Demo\"), Redemptions (\"OR REDE\"), \nAuthorizations (\"OR_AUTH\"), Web Balance Inquiry (\"OR_WEBBAL\"), Direct Deposits, IVR \nInquiry, and Airlines. \nThis data is displayed in the accompanying Excel spreadsheets with each category occupying its \nown tab. Within each tab, the relevant information is organized by labeled columns. If there is no \ninformation to report in a particular category, the tab will either be blank or not appear on the \nspreadsheet. A general overview of the information within each tab is provided below. \nA. DEMO \nThe Demo tab for prepaid accounts associates an account with an individual, listing (where \navailable) their name, date of birth, social security number, and email address, as well as \ninformation about the specific product, account status, and account type (Master, Sub, or \nPurposeDriven (a savings account, which is linked to a master account)). \nB. ADDRESS \nThe Address tab identifies all addresses that have been associated with each account, and \nidentifies the type of address (home, business, etc.). \nC. TELEPHONE \nThe Telephone tab identifies all telephone numbers that have been associated with each account, \nand identifies the type of number (Home, Mobile, Business, ANI, etc.). An ANI number is a \nphone number from which the card member called an American Express customer service center. \nThe number is captured automatically and the date on which the call was made is provided. \nD. P2P \nThe P2P tab provides information on all P2P transfers (transfers between prepaid accounts) sent \nand received by a particular prepaid account, including account information for all senders and \nrecipients. \nE. IP \nThe IP Address tab identifies intemet protocol address information captured by American \nExpress systems during online account activity. \nF. CARD \nTRANSACTIONS \nThe Card Transactions tab provides information (amount, date, time, and location) on all \ntransactions conducted using a prepaid account, including purchases, refunds, and ATM \nwithdrawals. For purchases, the tab identifies the merchant where the card was redeemed. \nG. BILLPAY TRANSACTIONS \nThe BillPay tab provides information on bills (e.g. credit cards, utilities, rent, etc.) paid by a \ncustomer using their prepaid account, including the date, transaction amount, and payee name. \n5/14/2019 AXP Restricted Page 4 of 9 \nEFTA00030210\n\nH. AIRLINE \nTRANSACTIONS \nThe Airline tab identifies airline ticket charges and contains information provided at the time of \npurchase relating to the departure date, originating airport, destination airport, and passenger \nnames. \nI. FUNDS LOAD \nThe Funds Load tab provides information on when, where, and how a prepaid account was \nfunded \n(e.g. cash, direct deposit, credit/debit card load, etc.). Note —  because in some instances \nthe data is maintained by a third party, some credits labeled \"cash\" may not actually have been \nmade via cash payment. For additional questions, please reach out to the Financial Intelligence \nUnit. \nJ. WITHDRAWALS \nThe Withdrawals tab provides information on money withdrawn from a prepaid account via \ncheck or ACH transfer, including the date, transaction amount, and transaction status, as well as \nthe bank name, account number, and routing number (where applicable). \nK. DISPUTES \nThe Disputes tab includes information on transactions disputed by the prepaid accountholder, \nincluding the dispute date, amount, reason, and resolution. \nL. CUSTOMER SERVICE NOTES \nThe Customer Service Notes tab consists of notes recorded by customer service representatives, \nand often includes information regarding customer phone calls, promotional offers, changes to \ndemographic information, and changes in account status. \n6) PREPAID GIFT CARDS DATA FORMAT (EXCEL SPREADSHEET TABS) \nA. DEMO \nThe Demo tab for prepaid gift cards associates a prepaid card with an individual, and may, in \nlimited circumstances, list their name, date of birth, social security number, address, phone \nnumber, and email address, as well as information about the product type (e.g. reloadable or \nsingle load) and the card status. \nB. SALE INFO \nThe Sale Info tab explains when and where each prepaid card was purchased, as well the original \nload value. \nC. TRANSACTIONS \nThe Transactions tab identifies transactions conducted using a prepaid card, including purchases, \nrefunds, value loads, promotional credits, and maintenance fees. When money is added to a \nprepaid card, the amount will appear under \"redeem amount\" as a negative number (for example, \na value load of $500.00 would be notated as -$500.00). \n5/14/2019 AXP Restricted Page 5 of 9 \nEFTA00030211\n\nD. AUTHORIZATIONS \nThe Authorizations tab identifies authorization requests submitted by prepaid cards, and whether \nthese requests were approved or denied (due to insufficient funds, for example). This tab also \nidentifies whether the payment attempt was made by swiping or keying the card (keying includes \nintemet and phone charges). \nE. DIRECT DEPOSIT \nThe Direct Deposit tab provides additional information regarding value loads to the account \nmade via direct deposit, including the business name and the employee name associated with the \ndeposit. \nF. WEB BALANCE INQUIRY AND IVR INQUIRY \nThe Web Balance and IVR (\"Interactive Voice Response\") Inquiry tabs indicate when a \ncustomer logs in online to review their account and when customer calls in to review their \naccount, respectively. \nG. AIRLINES \nThe Airline tab identifies airline ticket charges and contains information provided at the time of \npurchase relating to the departure date, originating airport, destination airport, and passenger \nnames. \n7) AMERICAN EXPRESS MERCHANT ACCOUNT ORGANIZATION \nMerchant accounts are established for businesses that accept American Express cards, and each \nestablished merchant account is issued a unique ten-digit number (\"merchant account number\" or \n\"SE10\"). Please note that \"SE\" is frequently used as a synonym for \"merchant\"; SE stands for \n\"Service Establishment.\" Merchant accounts are associated with an authorized signer and a \ncorresponding bank account. The authorized signer serves as the point of contact for the \nmerchant account, and that individual's identifying information is stored in internal American \nExpress systems, along with the bank account number provided to American Express at account \nopening.' \n8) MERCHANT DATA FORMAT (EXCEL SPREADSHEET TABS \nFor investigation purposes only, the Financial Intelligence Unit divides internal data on merchant \naccounts into several major categories: Demographic Information (\"SE Demo\"), Record of \nCharges (\"SE ROC\"), Authorization Request (\"SE CAS\"), Merchant Fraud (\"SE Fraud\"), \nMerchant Billed ROC (\"SE Billed Roc\"), Merchant IP (\"SE IP\"), and Merchant Disputes (\"SE \nDisputes\"). This data is displayed in the accompanying Excel spreadsheet with each category \noccupying its own tab. Within each tab, the relevant information is organized by labeled \ncolumns. If there is no information to report in a particular category, then the tab will simply not \nappear on the spreadsheet. A general overview of the information within each tab is provided \nbelow. \nI The availability of bank account information varies for international merchants. \n5/14/2019 AXP Restricted Page 6 of 9 \nEFTA00030212\n\nA. MERCHANT DEMO (SE \nDEMO) \nThe Merchant Demo tab lists the unique merchant account number, the legal name of the \nbusiness, as well as a Doing Business As name (where available). In cases where the merchant \nrelationship is not proprietary (i.e., a Seller or Location merchant), additional merchant data will \nbe provided in the tab. If the merchant is a Seller Merchant (that is, a third-party merchant \naccount that contracts with an \"aggregator merchant\" that contracts directly with American \nExpress to bring merchants to the American Express network), then \"Seller\" will appear under \nthe \"Searched Merchant Type\" field. If the merchant is a sub-merchant (i.e., acquired under a \nthird party payment processor such as Paypal or Square), then \"Location\" will appear under the \n\"Searched Merchant Type.\" The Merchant Demo tab also provides the reported address and \ntelephone number for the business, as well as the name and social security number of the \nauthorized signer(s) on the account. This tab further provides a correspondence address for the \nbusiness, a general industry description of the business, and an indication of whether the account \nis open or closed.' Finally, the bank account number (if available based on merchant type) and \ncorresponding routing number for each merchant account is listed in the last column to the right \nin the Merchant Demo tab of each spreadsheet. \nB. \nMERCHANT \nROC (SE \nROC — \nRECORD OF \nCHARGES OR \nSPEND AT THE \nMERCHANT) \nThe Merchant ROC (\"Record of Charge\") tab identifies all completed American Express charges \nprocessed by the merchant. The tab identifies the timestamp and amount, in U.S. dollars as well \nas the local amount (if outside of the U.S.) of each charge processed by the merchant. In \naddition, the tab lists the card number and the name of the cardholder that made the purchase, as \nwell as some demographic information regarding that cardholder and card (including, but not \nlimited to, the cardholder's name, the card type and issuer). \nC. MERCHANT AUTHORIZATION \nREQUEST (SE CAS) \nThis tab lists all credit authorizations sent by the merchant over the past two years. Every time a \ncard is swiped or keyed into a card reader, a request for credit is sent to American Express and an \napproval code is returned. The request may be approved, denied, or pended. This tab identifies \nwhether the merchant processed the transaction by swiping or keying the card (keying includes \nintemet and phone charges, while swiping typically indicates that the cardholder was physically \npresent at the merchant at the time of the transaction). \nD. MERCHANT FRAUD (SE FRAUD) \nThis tab identifies all transactions processed by the merchant that were ultimately reported as \nfraudulent by a respective American Express cardholder. \nE. \nDISPUTES (SE DISPUTES) \nThe Disputes tab identifies all initiated charge disputes against a given merchant and the status of \nindividual disputes. \nF. MERCHANT BILLED ROC \n(SE BILLED ROC) \n2  In the case of Seller and Location merchants, the status information reflects that of the Submitting merchant, and \nnot the sub-merchants. \n3  Bank account information is not available for Seller and Location merchants. \n5/14/2019 AXP Restricted Page 7 of 9 \nEFTA00030213\n\nThe Merchant Billed ROC tab identifies all completed American Express charges processed by \nthe merchant over the past five years. The tab identifies the date and amount, in U.S. dollars, of \neach charge processed by the merchant. In addition, the tab identifies the date and amount of the \ntransaction, the card number and the name of the cardholder that made the purchase, as well as \ninformation regarding that cardholder (In the case of the merchant accounts pulled for the Texas \nAttorney General's Office, please note that due to the size of some of the spreadsheets, the \nBILLED ROC tab was not included. The majority of transactions will appear in the ROC tab). \nG. IP \nADDRESS (SE IP) \nThe IP tab identifies Internet protocol address information captured by American Express \nsystems during online account activity. \n9) \nPERSONAL \nSAVINGS ACCOUNT \nORGANIZATION \nAmerican Express National Bank issues High-Yield Savings accounts (\"HYSAs\") and \nCertificates of Deposit (\"CDs\") to individuals. HYSAs and CDs are both referred to as Personal \nSavings Accounts (\"PSAs\"). Every PSA has a unique ten-digit or twelve-digit account number \nand may have up to two account holders —  a primary account holder and a secondary account \nholder. Each account holder has a unique customer identification number (\"Customer ID\") and \nhas equal access to the PSA. \n10) PERSONAL SAVINGS ACCOUNT DATA FORMAT (EXCEL SPREADSHEET \nTABSI \nFor investigation purposes only, the Financial Intelligence Unit divides internal data on PSA \naccount holders into several major categories: Demographic Information (\"Demo\"), Address, \nNotes, Stop-Holds, Transactions, IP Address, and Linked Accounts. \nThis data is displayed in the accompanying Excel spreadsheets with each category occupying its \nown tab. Within each tab, the relevant information is organized by labeled columns. If there is no \ninformation to report in a particular category, the tab will either be blank or not appear on the \nspreadsheet. A general overview of the information within each tab is provided below. \nA. DEMO \nThe Demo tab for PSAs associates an account holder with the Customer ID, account number, \naccount type, name, date of birth, social security number, employer, job title, income, as well as \nthe account status, open and close dates, and maturity or renewal dates for CDs, as applicable. \nB. \nADDRESS \nThe Address tab lists all addresses, phone numbers, and email addresses that have been \nassociated with each account holder, and identifies the types of addresses (e.g., mailing, \npermanent, etc.) and phone numbers (e.g., home, cell, etc.). \n5/14/2019 AXP Restricted Page 8 of 9 \nEFTA00030214\n\nC. \nNOTES \nThe Notes tab consists of notes recorded by customer service representatives, and often includes \ninformation regarding customer phone calls, changes to demographic information or account \nstatus, information regarding wire transfers, and returned transactions. \nD. STOP-HOLDS \nThe Stop-Holds tab identifies deposits made to a PSA and their applicable hold period before the \nfunds are available for withdrawal. \nE. \nTRANSACTIONS \nThe Transactions tab provides information and dates for deposits, withdrawals, earned interest, \ninternal transfers, account balance of the PSA(s), the method used to make the transactions, and \nexternal account numbers where available. \nF. IP \nThe IP Address tab identifies intemet protocol address information captured by American \nExpress systems during online account activity. \nG. LINKED \nACCOUNTS \nThe Linked Accounts tab includes information for external bank accounts currently or previously \nlinked to the PSA(s), including the routing number and bank account number. Each account \nholder is authorized to link up to three external bank accounts to their PSA(s). Of note the \ncolumn \"Expiration Date\" identifies the date any test transactions are to be conducted for \nverification purposes. Further, the column \"Bank Name\" displays the account name as chosen \nby the account holder for their own recordkeeping purposes. \n5/14/2019 AXP Restricted Page 9 of 9 \nEFTA00030215",
+    "pageCount": 9,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Law Enforcement",
+        "role": "extracted",
+        "context": "To: Law Enforcement Agent Requesting SAR Backup D"
+      },
+      {
+        "name": "Agent Requesting",
+        "role": "extracted",
+        "context": "To: Law Enforcement Agent Requesting SAR Backup Documentation \nFro"
+      },
+      {
+        "name": "Backup Documentation",
+        "role": "extracted",
+        "context": "orcement Agent Requesting SAR Backup Documentation \nFrom: Raymond Duncan, Vice P"
+      },
+      {
+        "name": "Raymond Duncan",
+        "role": "extracted",
+        "context": "R Backup Documentation \nFrom: Raymond Duncan, Vice President —  Financial"
+      },
+      {
+        "name": "Vice President",
+        "role": "extracted",
+        "context": "tation \nFrom: Raymond Duncan, Vice President —  Financial Intelligence Uni"
+      },
+      {
+        "name": "Financial Intelligence",
+        "role": "extracted",
+        "context": "ond Duncan, Vice President —  Financial Intelligence Unit \nCc: Scott McFarland, Di"
+      },
+      {
+        "name": "Unit \nCc",
+        "role": "extracted",
+        "context": "ent —  Financial Intelligence Unit \nCc: Scott McFarland, Director —"
+      },
+      {
+        "name": "Scott Mc",
+        "role": "extracted",
+        "context": "ancial Intelligence Unit \nCc: Scott McFarland, Director —  Financial"
+      },
+      {
+        "name": "Unit \nSubject",
+        "role": "extracted",
+        "context": "tor —  Financial Intelligence Unit \nSubject: Supporting Documentation for"
+      },
+      {
+        "name": "Supporting Documentation",
+        "role": "extracted",
+        "context": "l Intelligence Unit \nSubject: Supporting Documentation for Cardholder/Merchant Data"
+      },
+      {
+        "name": "Merchant Data",
+        "role": "extracted",
+        "context": "Documentation for Cardholder/Merchant Data Prepared for \nLaw Enforcement"
+      },
+      {
+        "name": "American \nExpress",
+        "role": "extracted",
+        "context": "d does not represent official American \nExpress data from the respective syst"
+      },
+      {
+        "name": "American Express",
+        "role": "extracted",
+        "context": "quest. \nI) TABLE OF CONTENTS \nAmerican Express Card Account Organization 1"
+      },
+      {
+        "name": "Card Account",
+        "role": "extracted",
+        "context": "OF CONTENTS \nAmerican Express Card Account Organization 1 \nCard Data For"
+      },
+      {
+        "name": "Card Data",
+        "role": "extracted",
+        "context": "Card Account Organization 1 \nCard Data Format  2 \nPrepaid Card Accou"
+      },
+      {
+        "name": "Prepaid Card",
+        "role": "extracted",
+        "context": "ation 1 \nCard Data Format  2 \nPrepaid Card Account \nOrganization 3 \nRelo"
+      },
+      {
+        "name": "Account \nOrganization",
+        "role": "extracted",
+        "context": "Data Format  2 \nPrepaid Card Account \nOrganization 3 \nReloadable Card Data Forma"
+      },
+      {
+        "name": "Reloadable Card",
+        "role": "extracted",
+        "context": "Card Account \nOrganization 3 \nReloadable Card Data Format  \n3 \nPrepaid Gift"
+      },
+      {
+        "name": "Data Format",
+        "role": "extracted",
+        "context": "ganization 3 \nReloadable Card Data Format  \n3 \nPrepaid Gift Card Data F"
+      },
+      {
+        "name": "Prepaid Gift",
+        "role": "extracted",
+        "context": "oadable Card Data Format  \n3 \nPrepaid Gift Card Data Format  \n5 \nMerchan"
+      },
+      {
+        "name": "Merchant Account",
+        "role": "extracted",
+        "context": "id Gift Card Data Format  \n5 \nMerchant Account Organization  6 \nMerchant Dat"
+      },
+      {
+        "name": "Personal Savings",
+        "role": "extracted",
+        "context": "6 \nMerchant Data Format  6 \nPersonal Savings Account Organization 8 \nPerso"
+      },
+      {
+        "name": "Account Organization",
+        "role": "extracted",
+        "context": "a Format  6 \nPersonal Savings Account Organization 8 \nPersonal Savings Account D"
+      },
+      {
+        "name": "Account Data",
+        "role": "extracted",
+        "context": "anization 8 \nPersonal Savings Account Data Format  8 \n2) AMERICAN EXPRES"
+      },
+      {
+        "name": "Every American",
+        "role": "extracted",
+        "context": "SS CARD ACCOUNT ORGANIZATION \nEvery American Express credit and charge car"
+      },
+      {
+        "name": "Card \nNumber",
+        "role": "extracted",
+        "context": "unique fifteen-digit number (\"Card \nNumber\"). The first eleven digits of"
+      },
+      {
+        "name": "Card Member",
+        "role": "extracted",
+        "context": "ify the credit card account (\"Card Member \nAccount\") to which this card"
+      },
+      {
+        "name": "Restricted Page",
+        "role": "extracted",
+        "context": "rds associated \n5/14/2019 AXP Restricted Page 1  of 9 \nEFTA00030207\n\nwith t"
+      },
+      {
+        "name": "Demographic Information",
+        "role": "extracted",
+        "context": "nto several major categories: Demographic Information (\"Demo\"), Address, \nTelephone"
+      },
+      {
+        "name": "Wire Payments",
+        "role": "extracted",
+        "context": "of Charges (\"ROC\"), Payment, Wire Payments, Returned Payment, Airline,"
+      },
+      {
+        "name": "Returned Payment",
+        "role": "extracted",
+        "context": "OC\"), Payment, Wire Payments, Returned Payment, Airline, \nand IP Address. Th"
+      },
+      {
+        "name": "The Demo",
+        "role": "extracted",
+        "context": "is provided \nbelow. \nA. DEMO \nThe Demo tab identifies account detail"
+      },
+      {
+        "name": "The Address",
+        "role": "extracted",
+        "context": "atinum, \netc.). \nB. \nADDRESS \nThe Address tab identifies all the addres"
+      },
+      {
+        "name": "The Telephone",
+        "role": "extracted",
+        "context": "siness, etc.). \nC. TELEPHONE \nThe Telephone tab identifies all the teleph"
+      },
+      {
+        "name": "The Payment",
+        "role": "extracted",
+        "context": "phone charges). \nF. PAYMENT \nThe Payment tab identifies all the paymen"
+      },
+      {
+        "name": "The Returned",
+        "role": "extracted",
+        "context": "drawn. \nG. RETURNED PAYMENT \nThe Returned Payment tab identifies paymen"
+      },
+      {
+        "name": "The Airline",
+        "role": "extracted",
+        "context": "payment source. \nH. AIRLINE \nThe Airline tab identifies airline ticket"
+      },
+      {
+        "name": "Card Number",
+        "role": "extracted",
+        "context": "unique fifteen-digit number (\"Card Number\" or \n\"CM15\"). Reloadable prep"
+      },
+      {
+        "name": "Peer Transactions",
+        "role": "extracted",
+        "context": "Address, \nTelephone, Peer to Peer Transactions (\"P2P\"), IP Address, Card Tra"
+      },
+      {
+        "name": "Card Transactions",
+        "role": "extracted",
+        "context": "sactions (\"P2P\"), IP Address, Card Transactions, BillPay \nTransactions, Airli"
+      },
+      {
+        "name": "Pay \nTransactions",
+        "role": "extracted",
+        "context": "dress, Card Transactions, BillPay \nTransactions, Airline Transactions, Funds"
+      },
+      {
+        "name": "Airline Transactions",
+        "role": "extracted",
+        "context": "tions, BillPay \nTransactions, Airline Transactions, Funds Load, Withdrawals, Dis"
+      },
+      {
+        "name": "Funds Load",
+        "role": "extracted",
+        "context": "ctions, Airline Transactions, Funds Load, Withdrawals, Disputes, and C"
+      },
+      {
+        "name": "Customer Service",
+        "role": "extracted",
+        "context": "d, Withdrawals, Disputes, and Customer Service \nNotes. \n5/14/2019 AXP Restri"
+      },
+      {
+        "name": "The Financial",
+        "role": "extracted",
+        "context": "ed Page 3 of 9 \nEFTA00030209\n\nThe Financial Intelligence Unit divides int"
+      },
+      {
+        "name": "Intelligence Unit",
+        "role": "extracted",
+        "context": "EFTA00030209\n\nThe Financial Intelligence Unit divides internal data on othe"
+      },
+      {
+        "name": "Sale Info",
+        "role": "extracted",
+        "context": "to several \nmajor categories: Sale Info, Demographic Information (\"De"
+      },
+      {
+        "name": "Web Balance",
+        "role": "extracted",
+        "context": "Authorizations (\"OR_AUTH\"), Web Balance Inquiry (\"OR_WEBBAL\"), Direct"
+      },
+      {
+        "name": "Direct Deposits",
+        "role": "extracted",
+        "context": "alance Inquiry (\"OR_WEBBAL\"), Direct Deposits, IVR \nInquiry, and Airlines."
+      },
+      {
+        "name": "The Card",
+        "role": "extracted",
+        "context": "vity. \nF. CARD \nTRANSACTIONS \nThe Card Transactions tab provides inf"
+      },
+      {
+        "name": "The Bill",
+        "role": "extracted",
+        "context": "ed. \nG. BILLPAY TRANSACTIONS \nThe BillPay tab provides information o"
+      },
+      {
+        "name": "The Funds",
+        "role": "extracted",
+        "context": "enger \nnames. \nI. FUNDS LOAD \nThe Funds Load tab provides information"
+      },
+      {
+        "name": "The Withdrawals",
+        "role": "extracted",
+        "context": "gence \nUnit. \nJ. WITHDRAWALS \nThe Withdrawals tab provides information on m"
+      },
+      {
+        "name": "The Disputes",
+        "role": "extracted",
+        "context": "re applicable). \nK. DISPUTES \nThe Disputes tab includes information on t"
+      },
+      {
+        "name": "The Customer",
+        "role": "extracted",
+        "context": ". \nL. CUSTOMER SERVICE NOTES \nThe Customer Service Notes tab consists of"
+      },
+      {
+        "name": "Service Notes",
+        "role": "extracted",
+        "context": "R SERVICE NOTES \nThe Customer Service Notes tab consists of notes recorde"
+      },
+      {
+        "name": "The Sale",
+        "role": "extracted",
+        "context": "e card status. \nB. SALE INFO \nThe Sale Info tab explains when and wh"
+      },
+      {
+        "name": "The Transactions",
+        "role": "extracted",
+        "context": "load value. \nC. TRANSACTIONS \nThe Transactions tab identifies transactions c"
+      },
+      {
+        "name": "The Authorizations",
+        "role": "extracted",
+        "context": "A00030211\n\nD. AUTHORIZATIONS \nThe Authorizations tab identifies authorization"
+      },
+      {
+        "name": "The Direct",
+        "role": "extracted",
+        "context": "charges). \nE. DIRECT DEPOSIT \nThe Direct Deposit tab provides addition"
+      },
+      {
+        "name": "The Web",
+        "role": "extracted",
+        "context": "ANCE INQUIRY AND IVR INQUIRY \nThe Web Balance and IVR (\"Interactive"
+      },
+      {
+        "name": "Interactive Voice",
+        "role": "extracted",
+        "context": "RY \nThe Web Balance and IVR (\"Interactive Voice Response\") Inquiry tabs indic"
+      },
+      {
+        "name": "Service Establishment",
+        "role": "extracted",
+        "context": "r \"merchant\"; SE stands for \n\"Service Establishment.\" Merchant accounts are assoc"
+      },
+      {
+        "name": "Authorization Request",
+        "role": "extracted",
+        "context": "ecord of \nCharges (\"SE ROC\"), Authorization Request (\"SE CAS\"), Merchant Fraud (\""
+      },
+      {
+        "name": "Merchant Fraud",
+        "role": "extracted",
+        "context": "orization Request (\"SE CAS\"), Merchant Fraud (\"SE Fraud\"), \nMerchant Bille"
+      },
+      {
+        "name": "Merchant Billed",
+        "role": "extracted",
+        "context": "Merchant Fraud (\"SE Fraud\"), \nMerchant Billed ROC (\"SE Billed Roc\"), Mercha"
+      },
+      {
+        "name": "Billed Roc",
+        "role": "extracted",
+        "context": "\"), \nMerchant Billed ROC (\"SE Billed Roc\"), Merchant IP (\"SE IP\"), and"
+      },
+      {
+        "name": "Merchant Disputes",
+        "role": "extracted",
+        "context": "), Merchant IP (\"SE IP\"), and Merchant Disputes (\"SE \nDisputes\"). This data i"
+      },
+      {
+        "name": "The Merchant",
+        "role": "extracted",
+        "context": "A. MERCHANT DEMO (SE \nDEMO) \nThe Merchant Demo tab lists the unique mer"
+      },
+      {
+        "name": "Doing Business",
+        "role": "extracted",
+        "context": "f the \nbusiness, as well as a Doing Business As name (where available). In"
+      },
+      {
+        "name": "Seller Merchant",
+        "role": "extracted",
+        "context": "the tab. If the merchant is a Seller Merchant (that is, a third-party merch"
+      },
+      {
+        "name": "Searched Merchant",
+        "role": "extracted",
+        "context": "ller\" will appear under \nthe \"Searched Merchant Type\" field. If the merchant"
+      },
+      {
+        "name": "Merchant Demo",
+        "role": "extracted",
+        "context": "t column to the right \nin the Merchant Demo tab of each spreadsheet. \nB."
+      },
+      {
+        "name": "Texas \nAttorney",
+        "role": "extracted",
+        "context": "chant accounts pulled for the Texas \nAttorney General's Office, please note"
+      },
+      {
+        "name": "National Bank",
+        "role": "extracted",
+        "context": "RGANIZATION \nAmerican Express National Bank issues High-Yield Savings acc"
+      },
+      {
+        "name": "Yield Savings",
+        "role": "extracted",
+        "context": "ess National Bank issues High-Yield Savings accounts (\"HYSAs\") and \nCerti"
+      },
+      {
+        "name": "Personal \nSavings",
+        "role": "extracted",
+        "context": "d CDs are both referred to as Personal \nSavings Accounts (\"PSAs\"). Every PSA"
+      },
+      {
+        "name": "Linked Accounts",
+        "role": "extracted",
+        "context": "Transactions, IP Address, and Linked Accounts. \nThis data is displayed in t"
+      },
+      {
+        "name": "The Notes",
+        "role": "extracted",
+        "context": "f 9 \nEFTA00030214\n\nC. \nNOTES \nThe Notes tab consists of notes recorde"
+      },
+      {
+        "name": "The Stop",
+        "role": "extracted",
+        "context": "transactions. \nD. STOP-HOLDS \nThe Stop-Holds tab identifies deposits"
+      },
+      {
+        "name": "The Linked",
+        "role": "extracted",
+        "context": "tivity. \nG. LINKED \nACCOUNTS \nThe Linked Accounts tab includes informa"
+      },
+      {
+        "name": "Expiration Date",
+        "role": "extracted",
+        "context": "PSA(s). Of note the \ncolumn \"Expiration Date\" identifies the date any test"
+      },
+      {
+        "name": "Bank Name",
+        "role": "extracted",
+        "context": "urposes. Further, the column \"Bank Name\" displays the account name as"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Transactions, IP",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-05-14",
+        "event": "5/14/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.289Z"
+}

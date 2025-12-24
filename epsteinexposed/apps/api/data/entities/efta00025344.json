@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00025344",
+    "filename": "EFTA00025344.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025344.pdf",
+    "text": "\n\nFrom: \nTo: 1.\n(IJSANYS)\" \nSubject: RE: You May disregard Re: Voucher for Trip 10643456-2 is late \nDate: Tue, 08 Oct 2019 15:10:38 +0000 \nGot it, thanks! \n Original Messa e \nFrom: \n(USANYS) \nSent: \nTuesday. \nOctober \n08.2019 \n08:14 \nTo: \nCc: \n(USANYS) \nSubject: \nYou May disregard Re: Voucher for Irip 10643456-2 is late \nSent from my iPhone \n> On Oct 7, 2019, at 12:03 AM, \"etravelservices@cwtsatotravel.com\" <etravelservices@cwtsatotravel.com> \nwrote: \n> \nDear \n> Your travel voucher for the trip below is now late based on your customer settings. Please submit your voucher \nfor this trip and mark it as Final if you have no additional expenses to claim. \n> \nTrip ID: 10643456-2 \n> Traveler name: \n> Destination: Santa Monica \n> Purpose: R19NYS 13842 - U.S. v. Epstein - Witness Interviews Trip \n> Dates: 2019-09-17 - 2019-09-20 Current status: Authorization Approved \n> E2 Single Sign On Login (within DOJ Network Only): \n> https://dojnet.doj.gov/jmd/fs/e2-redirect.html \n> E2 Manual Login (User ID and Password): \n> https://e2.gov.cwtsatotravel.com \n> Thank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \n> Please note: Replies to this mailbox are not monitored. \n> Some E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change \nyour email settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \n> Reference ID# V0013 \n> This e-mail and any attachments may contain confidential and/or proprietary information. If you received this \ne-mail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00025344",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "You May",
+        "role": "extracted",
+        "context": ": 1.\n(IJSANYS)\" \nSubject: RE: You May disregard Re: Voucher for Tri"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "0:38 +0000 \nGot it, thanks! \n Original Messa e \nFrom: \n(USANYS) \nSent: \nTu"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "late \nSent from my iPhone \n> On Oct 7, 2019, at 12:03 AM, \"etrave"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "raveler name: \n> Destination: Santa Monica \n> Purpose: R19NYS 13842 - U."
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "NYS 13842 - U.S. v. Epstein - Witness Interviews Trip \n> Dates: 2019-09-17 - 2"
+      },
+      {
+        "name": "Authorization Approved",
+        "role": "extracted",
+        "context": "- 2019-09-20 Current status: Authorization Approved \n> E2 Single Sign On Login (w"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "Authorization Approved \n> E2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "on Approved \n> E2 Single Sign On Login (within DOJ Network Only): \n>"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \n> https://dojnet.doj.gov/j"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "jmd/fs/e2-redirect.html \n> E2 Manual Login (User ID and Password): \n> ht"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \n> Please note: Replie"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-17",
+        "event": "2019-09-17"
+      },
+      {
+        "date": "2019-09-20",
+        "event": "2019-09-20"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.984Z"
+}

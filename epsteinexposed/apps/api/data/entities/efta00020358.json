@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020358",
+    "filename": "EFTA00020358.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020358.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: SDNY indictment \nDate: Thu, 02 Jul 2020 13:06:44 +0000 \nAttachments: Maxwell_Indictment,_20_Cr._330.pdf; ATT00001.htm; Maxwell_Arrest_Warrant.pdf; \nATT00002.htm \nChris, Mark, and Jeff, \nWe are writing to let you know that the FBI arrested your client this morning in Bradford, New Hampshire. I have \nattached the indictment and arrest warrant, which we are providing to you as a courtesy while we seek the formal \nunsealing of the indictment at SDNY this morning. We will let you know when a district judge is assigned at SONY. The \ndefendant is currently being transported for arrest processing by the FBI, and our current expectation is that she will be \npresented this afternoon in the District of New Hampshire, via remote proceedings. We will update you as we learn more. \nand =Ind I are available for a call later this morning, if that would be useful. Please let us know what time \nwould be convenient for you. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nEFTA00020358",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "ent this morning in Bradford, New Hampshire. I have \nattached the indictm"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "convenient for you. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "u. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nEFTA00020358"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.698Z"
+}

@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00029443",
+    "filename": "EFTA00029443.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029443.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Victims' Rights \nDate: Fri, 22 Feb 2019 23:59:24 +0000 \nImportance: Normal \nAttachments: Epstein_OpinioniCVRAU2019-02-21).pdf \nFrom: \nSent: Friday, February 22, 2019 2:29 PM \nTo: \nCc: \nSubject: Victims' Rights \nAs a reminder, the Crime Victims' Rights Act applies in many if not most of our cases. \nWe most often deal with the CVRA by making sure that victims know about court appearances and are allowed to be \nheard at sentencing, but the CVRA also provides inter alia, that victims have \"(t]he right to be informed in a timely \nmanner of any plea bargain or deferred prosecution agreement.\" 18 U.S.C. § 3771(a)(9). \nIn the attached opinion, a district judge in Miami found that victims' rights were violated when the U.S. Attorney's Office \nentered into a non-prosecution agreement without notifying them. (See pp. 25, et seq.) \nThis case is outside our Circuit, involved some unusual facts —  including, arguably, actual deception of the victims, rather \nthan mere failure to notify —  and it does not order a remedy. \nThat said, it is a case of some notoriety (Jeffrey Epstein's trafficking and sexual abuse of minors), so it is getting press \nattention and is likely to be on the minds of our judges. Please be mindful of the CVRA as you negotiate pleas, and talk to \nyour supervisors about whether, how and when to inform victims. They don't get to determine how we dispose of cases, \nbut they're generally entitled to notice. \nThanks, \nAssistant U.S. Attorney \nDeputy Chief, Criminal Division \nEastern District of New York \nBrooklyn, NY 11201 \nEFTA00029443",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "medy. \nThat said, it is a case of some notoriety (Jeffrey Epstein's trafficking and sexual abuse of minors), so it"
+      },
+      {
+        "name": "Rights \nDate",
+        "role": "extracted",
+        "context": ": \nTo: \nSubject: FW: Victims' Rights \nDate: Fri, 22 Feb 2019 23:59:24 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 23:59:24 +0000 \nImportance: Normal \nAttachments: Epstein_OpinioniCVRAU2019-02"
+      },
+      {
+        "name": "Rights \nAs",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: Victims' Rights \nAs a reminder, the Crime Victims"
+      },
+      {
+        "name": "Crime Victims",
+        "role": "extracted",
+        "context": "s' Rights \nAs a reminder, the Crime Victims' Rights Act applies in many i"
+      },
+      {
+        "name": "Rights Act",
+        "role": "extracted",
+        "context": "reminder, the Crime Victims' Rights Act applies in many if not most o"
+      },
+      {
+        "name": "Attorney \nDeputy",
+        "role": "extracted",
+        "context": "ice. \nThanks, \nAssistant U.S. Attorney \nDeputy Chief, Criminal Division \nEas"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "U.S. Attorney \nDeputy Chief, Criminal Division \nEastern District of New York"
+      },
+      {
+        "name": "Eastern District",
+        "role": "extracted",
+        "context": "uty Chief, Criminal Division \nEastern District of New York \nBrooklyn, NY 112"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "York \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-02-22",
+        "event": "February 22, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.432Z"
+}

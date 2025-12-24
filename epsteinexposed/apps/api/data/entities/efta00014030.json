@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00014030",
+    "filename": "EFTA00014030.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014030.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Mon, 15 Dec 2008 15:54:44 +0000 \nImportance: Normal \nThanks \nFrom: \nSent: Monday, \nDecember 15, 2008 10:46 AM \nTo: \nCc: \nSubject: Epstein \nI  saw the PB Police Chief this morning and he told me about these articles in Saturday's Palm Beach Daily \nNews. One is an article and the other is an editorial. \nOne of them makes clear that our office was not informed of the release until well after the fact. \nI told the Chief that we had written a letter to the Sheriff's Office and he said he would use a public records \nrequest to \nget a copy. \n.c< File: 081213 PB Daily News Editorial.pdf >> << File: 081213 PB Daily News Article.pdf >> \nAssistant U.S. Attorney \nPhone \nFax \nEFTA00014030",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Mon, 15 Dec 2008 15:54:44 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "8 15:54:44 +0000 \nImportance: Normal \nThanks \nFrom: \nSent: Monday, \nDecemb"
+      },
+      {
+        "name": "Police Chief",
+        "role": "extracted",
+        "context": "bject: Epstein \nI  saw the PB Police Chief this morning and he told me a"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "these articles in Saturday's Palm Beach Daily \nNews. One is an articl"
+      },
+      {
+        "name": "Daily \nNews",
+        "role": "extracted",
+        "context": "cles in Saturday's Palm Beach Daily \nNews. One is an article and the ot"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "a copy. \n.c< File: 081213 PB Daily News Editorial.pdf >> << File: 081"
+      },
+      {
+        "name": "Attorney \nPhone",
+        "role": "extracted",
+        "context": "rticle.pdf >> \nAssistant U.S. Attorney \nPhone \nFax \nEFTA00014030"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-12-15",
+        "event": "December 15, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.974Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017751",
+    "filename": "EFTA00017751.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017751.pdf",
+    "text": "\n\nFrom: \"S USANYS)\"  \nTo: s (USANYS)\"  \nSubject: RE: Epstein 6(e) app .docx \nDate: Wed, 29 Jan 2020 14:54:16 +0000 \nAttachments: \n2019.12.19_Epstein_6(e)_App_&_Ordendocx \nHere you \ngo \nFrom: (USANYS) \nc\nSent: Wednesday, January 29, 2020 9:33 AM \nTo: \nANYS) \nSubject: Epstein \nWill come by in a second. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00017751",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ordendocx \nHere",
+        "role": "extracted",
+        "context": "2019.12.19_Epstein_6(e)_App_&_Ordendocx \nHere you \ngo \nFrom: (USANYS) \nc\nSe"
+      },
+      {
+        "name": "Epstein \nWill",
+        "role": "extracted",
+        "context": "9:33 AM \nTo: \nANYS) \nSubject: Epstein \nWill come by in a second. \nCo-Chie"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "me by in a second. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00017751"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-29",
+        "event": "January 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.518Z"
+}

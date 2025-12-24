@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00010152",
+    "filename": "EFTA00010152.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010152.pdf",
+    "text": "\n\nFrom: 'a \nTo: Nathan NYSD Chambers <\nM> \nCc:' \n\"ceverdell@cohengresser.com\" \n<ceverdell@cohengresser.com>, Laura Menninger \n<Imenninger@hmflaw.com>, \"Jeff Pagliuca\" <jpagliuca@hmflaw.com>, \n\"bcsstemheim@mac.com\" <bcsstemheim@mac.com> \nSubject: United States v. Maxwell, 20 Cr. 330, list of names and places \nDate: Mon, 15 Nov 2021 03:33:46 +0000 \nAttachments: 2021-11-14 joint_letter regarding_names_and_places.pdf \nChambers, \nThe parties respectfully submit the attached letter providing a list of names and places for voir dire. \nThank you. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 100. \nEFTA00010152",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "<ceverdell@cohengresser.com>, Laura Menninger \n<Imenninger@hmflaw.com>, \"Je"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "er \n<Imenninger@hmflaw.com>, \"Jeff Pagliuca\" <jpagliuca@hmflaw.com>, \n\"bc"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "s for voir dire. \nThank you. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 100. \nEFTA00010152"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-14",
+        "event": "2021-11-14"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.394Z"
+}

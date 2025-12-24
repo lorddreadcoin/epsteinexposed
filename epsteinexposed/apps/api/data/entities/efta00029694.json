@@ -1,0 +1,63 @@
+{
+  "document": {
+    "id": "efta00029694",
+    "filename": "EFTA00029694.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029694.pdf",
+    "text": "\n\nFrom: ' \nTo: \n\"U \nSubject: FW: \nr   < \n(NY) (FBI)\"  \nU) - Epstein \nDate: Fri, 14 May 2021 19:26:46 +0000 \nAttachments: M_Proffer_Letter.PDF \nHi \nWhen you have a chance, could you please initial the proffer agreement and send it back to me? Thanks! \nFrom: Joe Nascimento \nSent: Friday, May 14, 2021 2:56 PM \nTo: \nCc: (USANYS) \nSubject: Re: - Epstein \n< \nThanks again for your time today. Attached, please find a copy of the proffer agreement with updated initials. \nHave a nice weekend, \nJoe \nJoseph E. Nascimento, Esq. \nROSS AMSEL RABEN NASCIMENTO, PLLC \nLawyer's Plaza I  4th Floor \n2250 S.W. 3rd Avenue \nMiami, FL 33129 \np. \nf. \ne. \nwww.crimlawfirm.com \nEFTA00029694",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "W: \nr   < \n(NY) (FBI)\"  \nU) - Epstein \nDate: Fri, 14 May 2021 19:26:46 +0"
+      },
+      {
+        "name": "Hi \nWhen",
+        "role": "extracted",
+        "context": "hments: M_Proffer_Letter.PDF \nHi \nWhen you have a chance, could you"
+      },
+      {
+        "name": "Joe Nascimento",
+        "role": "extracted",
+        "context": "it back to me? Thanks! \nFrom: Joe Nascimento \nSent: Friday, May 14, 2021 2"
+      },
+      {
+        "name": "Joe \nJoseph",
+        "role": "extracted",
+        "context": "tials. \nHave a nice weekend, \nJoe \nJoseph E. Nascimento, Esq. \nROSS AMS"
+      },
+      {
+        "name": "Avenue \nMiami",
+        "role": "extracted",
+        "context": "a I  4th Floor \n2250 S.W. 3rd Avenue \nMiami, FL 33129 \np. \nf. \ne. \nwww.cr"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Avenue \nMiami, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-14",
+        "event": "May 14, 2021"
+      },
+      {
+        "date": "2021-05-14",
+        "event": "14 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.986Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013693",
+    "filename": "EFTA00013693.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013693.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Press Coverage \nDate: Mon, 14 May 2007 22:13:17 +0000 \nImportance: Normal \nHi This is not meant as pestering. I just know that the Miami paper hasn't covered Epstein like \nthey have up here. This is a link to a site that, for some unknown reason, has compiled most of the \"legitimate\" \nnewspaper stories about Epstein. It does not contain the recent story in the London newspapers about Epstein's \nlink to Prince Andrew. If you want a link to that story, let me know. [As an aside about the London article/leak \nissue, the day after we put a key witness in the grand jury, a London reporter called the witness' attorney to ask \nwhether his client had appeared before the grand jury yet. So wherever the leak is, it is of international \nproportions.] \nhttp://www.theawarenesscenter.org/Epstein_Jeffrey.html \nAssistant U.S. Attome \nPhone \nFax \nEFTA00013693",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "in the London newspapers about Epstein's \nlink to Prince Andrew. If you want a link to that story, let me know. ["
+      },
+      {
+        "name": "Press Coverage",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Press Coverage \nDate: Mon, 14 May 2007 22:13"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "7 22:13:17 +0000 \nImportance: Normal \nHi This is not meant as pesterin"
+      },
+      {
+        "name": "Attome \nPhone",
+        "role": "extracted",
+        "context": "_Jeffrey.html \nAssistant U.S. Attome \nPhone \nFax \nEFTA00013693"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-05-14",
+        "event": "14 May 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.177Z"
+}

@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00030781",
+    "filename": "EFTA00030781.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030781.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: Thu, 09 Jan 2020 20:44:55 +0000 \nutomanc rep \ny: \npstein \nI am out of the office and can \nrespond \nto e end of the day. Should you need assistance regarding a Human Trafficking \nmatter, please contact AUSA at For all other assistance, please contact AUSA at \nThank you, \nEFTA00030781",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "u need assistance regarding a Human Trafficking \nmatter, please contact AUSA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.660Z"
+}

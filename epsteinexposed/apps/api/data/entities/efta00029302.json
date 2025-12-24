@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029302",
+    "filename": "EFTA00029302.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029302.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nSubject: prevailing party \nDate: Fri, 15 Oct 2021 03:30:23 +0000 \nAttachments: prevailing_party.docx \n.., \nHey \nHere's a short/rough drop in on this. If you could please add the citations to the respective dockets, that would be great, \nthanks. The complaints are in their 3500 folders if you're looking for docket numbers. brought the suit under her \nreal name, and the Victim-1 case is Doe v. Indyke. \nThanks so much for all the great work you're doing on the motions, really appreciate it. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029302",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nHere",
+        "role": "extracted",
+        "context": ": prevailing_party.docx \n.., \nHey \nHere's a short/rough drop in on th"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tions, really appreciate it. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "reciate it. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029302"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.193Z"
+}

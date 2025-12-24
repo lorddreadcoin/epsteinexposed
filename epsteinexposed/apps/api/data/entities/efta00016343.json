@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016343",
+    "filename": "EFTA00016343.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016343.pdf",
+    "text": "\n\nFrom: \n\"a\" <IMIIM> \nTo: \n(NY) \n(FBI)\" ala> \nCc: FBI \nSubject: RE: Maxwell's Credit Cards \nDate: Mon, 29 Jun 2020 16:12:11 +0000 \nAttachments: MAXWELL_CREDIT_CARD_SUMMARY_V1.pdf \nOalMINE>\nM, \nI spoke with a representative from Amex in connection with the attached, and they said all Amex account \nnumbers start with 37, but the Amex number you sent starts with 34. Do we have returns from that card \ncurrently, or is this an entirely new card request? \nNo problem either way, but I wanted to check since you said the closing date of the last statement was 12/18/19 \nso that made me think we might have some returns from that account already. Though looking at the returns we \nreceived from Amex previously, I don't see it. Please let us know? Thanks very much. \n Ori final Messa e \nFrom: \n(NY) (FBI) \nalME> \nSent: Monday. J uric 22, 2020 11:41 \nTo: \nCc: \nSubject: Maxwell's Credit Cards \nPer your request, attached is an analysis of Maxwell's credit cards included in the financial productions I \nreceived. \nThe attached draft analysis is to be used for discussion purposes only and is subject to change. \nBest \nForensic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA00016343",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Credit Cards",
+        "role": "extracted",
+        "context": ": FBI \nSubject: RE: Maxwell's Credit Cards \nDate: Mon, 29 Jun 2020 16:12"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "ly and is subject to change. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "BI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.504Z"
+}

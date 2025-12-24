@@ -1,0 +1,43 @@
+{
+  "document": {
+    "id": "efta00019895",
+    "filename": "EFTA00019895.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019895.pdf",
+    "text": "\n\nFrom: \nSubject: FW: Epstein Update \nDate: Wed, 15 May 2019 14:33:41 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE status memo for ODAG.finaldocx.pdf \nFYI, \nThis was delayed a day or two—I was waiting to hear back from Iris on addressees and she finally answered by email this \nmorning. \nFrom: \nSent: Wednesday, May 15, 2019 10:32 AM \nTo: \nSubject: Epstein Update \nAttached is an update on the progress of the Epstein investigation. Please keep this memo on close hold given the \nsensitivity of the matter and our effort remain covert. \nFeel free to let us know if you have any questions. \nRegards, \nEFTA00019895",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Update",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: Epstein Update \nDate: Wed, 15 May 2019 14:33"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 14:33:41 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE status memo fo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-10",
+        "event": "2019-05-10"
+      },
+      {
+        "date": "2019-05-15",
+        "event": "May 15, 2019"
+      },
+      {
+        "date": "2019-05-15",
+        "event": "15 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.801Z"
+}

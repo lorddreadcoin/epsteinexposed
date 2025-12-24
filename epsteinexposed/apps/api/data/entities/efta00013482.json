@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "efta00013482",
+    "filename": "EFTA00013482.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013482.pdf",
+    "text": "\n\nEvent: Epstein/call in from John Roth \nStart Date: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nOrganizer: \nLocationMDfc. \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:21:51 +0000 \nDate Modified: 2015-07-22 20:34:54 +0000 \nPriority: 5 \nDTSTAMP: 2008-06-11 15:27:38 +0000 \nAttendee \nEFTA00013482",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "John Roth",
+        "role": "extracted",
+        "context": "Event: Epstein/call in from John Roth \nStart Date: 2008-06-13 14:00"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "stein/call in from John Roth \nStart Date: 2008-06-13 14:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "tionMDfc. \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:21:51 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2015-04-04 00:21:51 +0000 \nDate Modified: 2015-07-22 20:34:54 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-06-13",
+        "event": "2008-06-13"
+      },
+      {
+        "date": "2015-04-04",
+        "event": "2015-04-04"
+      },
+      {
+        "date": "2015-07-22",
+        "event": "2015-07-22"
+      },
+      {
+        "date": "2008-06-11",
+        "event": "2008-06-11"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.683Z"
+}

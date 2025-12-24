@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020366",
+    "filename": "EFTA00020366.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020366.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein estate \nDate: Wed, 08 Jul 2020 15:00:44 +0000 \nWe're all available then — if you could please send a dial-in, we'll join at 1:00. Thanks. \nFrom: \nSent: Wednesday, July 08, 2020 10:44 \nTo: \nCc: \nSubject: Epstein estate \nWould \nyou have time for a relatively quick call today around 1:00? \nThanks, \nI Partner \nChair. White Collar Defense \nHughes Hubbard & Reed LLP \nYork, NY 10004-1482 \nI  Fax \nThis message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not \ndisseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-\nmail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, \ndestroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this \nmessage, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. \nEFTA00020366",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Partner \nChair",
+        "role": "extracted",
+        "context": "oday around 1:00? \nThanks, \nI Partner \nChair. White Collar Defense \nHughes"
+      },
+      {
+        "name": "White Collar",
+        "role": "extracted",
+        "context": "? \nThanks, \nI Partner \nChair. White Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "Partner \nChair. White Collar Defense \nHughes Hubbard & Reed LLP \nYork, NY"
+      },
+      {
+        "name": "Fax \nThis",
+        "role": "extracted",
+        "context": "LLP \nYork, NY 10004-1482 \nI  Fax \nThis message contains confidential"
+      }
+    ],
+    "locations": [
+      {
+        "name": "York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-08",
+        "event": "July 08, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.715Z"
+}

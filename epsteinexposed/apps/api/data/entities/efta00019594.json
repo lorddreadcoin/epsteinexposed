@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019594",
+    "filename": "EFTA00019594.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019594.pdf",
+    "text": "\n\nFrom: USANYS)\" cza \nTo: USANYS)\" \n' \nCc: \" \n(USANYS)\" \naNIMIN> \nSANYS)\" \nSubject: Tova Noel DP Application \nDate: Sun, 28 Mar 2021 14:08:39 +0000 \nAttachments: 2021.03.28_Noel_DP_Memo.docx; \nTova_Noel_Deferred_Prosecution_Submission_(Final).pdf; Tova_Noelt  Exhibits.pdf; \nExhibit_Ajexpired_EMT_certificate).pdf; Tova_Cover_Page.pdf; 3-\n8  collateral_consequences_letterpdf \nChiefs — \nAttached is our revised memorandum on Tova Noel's deferred prosecution application. Thank you. \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00019594",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tova Noel",
+        "role": "extracted",
+        "context": "\" \naNIMIN> \nSANYS)\" \nSubject: Tova Noel DP Application \nDate: Sun, 28"
+      },
+      {
+        "name": "Application \nDate",
+        "role": "extracted",
+        "context": "ANYS)\" \nSubject: Tova Noel DP Application \nDate: Sun, 28 Mar 2021 14:08:39 +0"
+      },
+      {
+        "name": "Noelt  Exhibits",
+        "role": "extracted",
+        "context": "_Submission_(Final).pdf; Tova_Noelt  Exhibits.pdf; \nExhibit_Ajexpired_EMT_c"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tion application. Thank you. \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you. \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.225Z"
+}

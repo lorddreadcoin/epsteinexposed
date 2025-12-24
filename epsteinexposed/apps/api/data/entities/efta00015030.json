@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00015030",
+    "filename": "EFTA00015030.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015030.pdf",
+    "text": "\n\nFrom: )\" < \nTo: (NY) (FBI)\" < \nCc: ' (USANYS)\" \nSubject: RE: Epstein Account Documents \nDate: Wed, 06 Oct 2021 20:12:16 +0000 \nHi =, \nThanks very much. Could you please send us the account statements for a few months after these documents were \nexecuted? It would be helpful to see the balances. \nThanks! \nFrom: \nSent: Monday, October 4, 2021 8:27 AM \nTo: \n) < \nSubject: Epstein Account Documents \n> \nAs a follow up to our conversation regarding Epstein accounts where Ghislaine Maxwell was a signer on the account, I \nhave compiled the attached documents for your review. \nIf you have any question, please contact me. \nBest \nForensic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA00015030",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "our conversation regarding Epstein accounts where Ghislaine Maxwell was a signer on the account, I \nhave compiled the"
+      },
+      {
+        "name": "Epstein Account",
+        "role": "extracted",
+        "context": "Cc: ' (USANYS)\" \nSubject: RE: Epstein Account Documents \nDate: Wed, 06 Oct"
+      },
+      {
+        "name": "Documents \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein Account Documents \nDate: Wed, 06 Oct 2021 20:12:16 +0"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "question, please contact me. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "FBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-04",
+        "event": "October 4, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.993Z"
+}

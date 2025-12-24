@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00015572",
+    "filename": "EFTA00015572.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015572.pdf",
+    "text": "\n\nFrom: \" \n\" \nalIMIE> \nTo:'\nC: \n'MaIMINII.M \nSubject: draft search warrant \nDate: Sun, 07 Jul 2019 03:14:23 +0000 \nImportance: Normal \nAttachments: Second_New_York_Residence_SW.v3.docx \nis \nhaving some computer issues so I'm sending — please see attached. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00015572",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 03:14:23 +0000 \nImportance: Normal \nAttachments: Second_New_York_Residence_SW"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.001Z"
+}

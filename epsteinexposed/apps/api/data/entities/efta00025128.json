@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00025128",
+    "filename": "EFTA00025128.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025128.pdf",
+    "text": "\n\nSubject: RE: Epstein - Subpoena Tracker \nDate: Fri, 05 Jun 2020 18:46:02 +0000 \nThanks very much for this — we'll take a look as circle back as needed. \nthanks, \nFrom: \nSent: Tuesday, June 02, 2020 08:13 \nTo: \nCc: \n); \nSubject: Epstein - Subpoena Tracker \nAs a follow up to our conversation, I have attached a copy of my subpoena tracker. The tracker only includes \nsubpoenas that were served by the FBI. As an example, the Epstein Deutsche Bank production is not included \nin this list. \nIf you are missing any productions, please have contact me and I will provide it to him. \nYou mentioned that is it is possible to set up a Dal virtual drive that we can share. That sounds great. \nBest \nForensic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA00025128",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena Tracker",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein - Subpoena Tracker \nDate: Fri, 05 Jun 2020 18:46"
+      },
+      {
+        "name": "Epstein Deutsche",
+        "role": "extracted",
+        "context": "y the FBI. As an example, the Epstein Deutsche Bank production is not includ"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "an share. That sounds great. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "FBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-02",
+        "event": "June 02, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.523Z"
+}

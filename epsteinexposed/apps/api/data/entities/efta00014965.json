@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014965",
+    "filename": "EFTA00014965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014965.pdf",
+    "text": "\n\n11/26/21, 7:11 PM \nMail - Meder, Kimberly R. (NY) (FBI) - Outlook \nAccepted: GM Physical Evidence Review \nFri \n4/9,.±-21 ' 2  88 •, :vr1 \nTo: \nhtlps://outlook.office365.usimail/deeplink7popouN2=1&version=20211025002.13 \n1/1 \nEFTA00014965",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Outlook \nAccepted",
+        "role": "extracted",
+        "context": "der, Kimberly R. (NY) (FBI) - Outlook \nAccepted: GM Physical Evidence Review"
+      },
+      {
+        "name": "Physical Evidence",
+        "role": "extracted",
+        "context": "(FBI) - Outlook \nAccepted: GM Physical Evidence Review \nFri \n4/9,.±-21 ' 2  8"
+      },
+      {
+        "name": "Review \nFri",
+        "role": "extracted",
+        "context": "ccepted: GM Physical Evidence Review \nFri \n4/9,.±-21 ' 2  88 •, :vr1 \nT"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.873Z"
+}

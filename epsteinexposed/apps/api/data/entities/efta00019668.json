@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019668",
+    "filename": "EFTA00019668.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019668.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Little St James Search Warrant Items \nDate: Fri, 23 Aug 2019 05:07:08 +0000 \nAttachments: VI_SW_item_list.xlsx; C2O_LSJ_12AUG2019_-_PDF.pdf \nSee attached list of all items recovered from LSJ search warrant. Also see attached search warrant tac plan \nwhich better details what each building was labeled. Hope this helps with drafting the SW for those \nitems. \nPlease let us know if you have any questions. \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00019668",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Little St",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Little St James Search Warrant Items \nD"
+      },
+      {
+        "name": "James Search",
+        "role": "extracted",
+        "context": "rom: \nTo: \nSubject: Little St James Search Warrant Items \nDate: Fri, 23"
+      },
+      {
+        "name": "Warrant Items",
+        "role": "extracted",
+        "context": "bject: Little St James Search Warrant Items \nDate: Fri, 23 Aug 2019 05:07"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "ions. \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.362Z"
+}

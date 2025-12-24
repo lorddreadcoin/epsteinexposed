@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00020624",
+    "filename": "EFTA00020624.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020624.pdf",
+    "text": "\n\nEvent: /Epstein Meet \nStart Date: 2019-07-25 14:30:00 +0000 \nEnd Date: 2019-07-25 15:00:00 +0000 \nOrganizer: (USANYS) ‹> \nLocation: First Floor Conference Room \nClass: X-PERSONAL \nDate Created: 2019-07-24 23:52:51 +0000 \nDate Modified: 2019-07-24 23:52:51 +0000 \nPriority: 5 \nDTSTAMP: 2019-07-24 21:11:52 +0000 \nAttendee: (USANYS) \n< \n>.; \n>; \n) < \nAlarm: Display the following message 15m before start \nReminder \nEFTA00020624",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Meet",
+        "role": "extracted",
+        "context": "Event: /Epstein Meet \nStart Date: 2019-07-25 14:30"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: /Epstein Meet \nStart Date: 2019-07-25 14:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-07-25 14:30:00 +0000 \nEnd Date: 2019-07-25 15:00:00 +0000 \nO"
+      },
+      {
+        "name": "First Floor",
+        "role": "extracted",
+        "context": "nizer: (USANYS) ‹> \nLocation: First Floor Conference Room \nClass: X-PER"
+      },
+      {
+        "name": "Conference Room",
+        "role": "extracted",
+        "context": "YS) ‹> \nLocation: First Floor Conference Room \nClass: X-PERSONAL \nDate Crea"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "ence Room \nClass: X-PERSONAL \nDate Created: 2019-07-24 23:52:51 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-07-24 23:52:51 +0000 \nDate Modified: 2019-07-24 23:52:51 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-25",
+        "event": "2019-07-25"
+      },
+      {
+        "date": "2019-07-24",
+        "event": "2019-07-24"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.246Z"
+}

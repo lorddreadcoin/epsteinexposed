@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019057",
+    "filename": "EFTA00019057.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019057.pdf",
+    "text": "\n\nSubject: US v. Maxwell - Government Opposition to Rule 412 Motion \nDate: Tue, 02 Nov 2021 03:52:07 +0000 \nAttachments: Government 412 Opp [final].pdf \nDear \nAttached please find the Government's opposition to the defendant's Rule 412 motion. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00019057",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Government Opposition",
+        "role": "extracted",
+        "context": "Subject: US v. Maxwell - Government Opposition to Rule 412 Motion \nDate: Tue"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "rnment Opposition to Rule 412 Motion \nDate: Tue, 02 Nov 2021 03:52:07 +0"
+      },
+      {
+        "name": "Dear \nAttached",
+        "role": "extracted",
+        "context": "vernment 412 Opp [final].pdf \nDear \nAttached please find the Government's"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "on. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.200Z"
+}

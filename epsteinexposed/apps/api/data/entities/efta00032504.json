@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032504",
+    "filename": "EFTA00032504.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032504.pdf",
+    "text": "\n\nEvent: Meet re: Epstein \nStart Date: 2019-06-28 19:30:00 +0000 \nEnd Date: 2019-06-28 20:00:00 +0000 \nOrganizer: \n) < \nLocation: Office \nClass: X-PERSONAL \nDate Created: 2019-06-28 17:40:32 +0000 \nDate Modified: 2019-06-28 17:40:32 +0000 \nPriority: 5 \nDTSTAMP: 2019-06-28 17:32:16 +0000 \nAttendee: (USANYS) < >; \n>; Adams, ) 1 > \nAlarm: Display the following message 15m before start \nReminder \nEFTA00032504",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "Event: Meet re: Epstein \nStart Date: 2019-06-28 19:30:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-06-28 19:30:00 +0000 \nEnd Date: 2019-06-28 20:00:00 +0000 \nO"
+      },
+      {
+        "name": "Office \nClass",
+        "role": "extracted",
+        "context": "0 \nOrganizer: \n) < \nLocation: Office \nClass: X-PERSONAL \nDate Created: 20"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "n: Office \nClass: X-PERSONAL \nDate Created: 2019-06-28 17:40:32 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-06-28 17:40:32 +0000 \nDate Modified: 2019-06-28 17:40:32 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-28",
+        "event": "2019-06-28"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.800Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014907",
+    "filename": "EFTA00014907.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014907.pdf",
+    "text": "\n\nFrom: \nSubject: FW: Fan Club Request \nDate: Tue, 30 Nov 2021 12:44:56 +0000 \nAttachments: 2021.11.29_Openings,_Visoskiipublie).PDF \nfan club is requesting a  transcript of the opening. Can you please let me know whether it's okay to send Martin the \npublic transcript from yesterday, attached? \nFrom: \nSent: Tuesday, November 30, 2021 1:37 AM \nTo: \nSubject: (EXTERNAL] Fan Club Request \nHope you're doing well. I am having a good time although I miss you and the Office, and I am still trying to figure out \nwhat to do with my brunches now that Heights Café / Giulia's is for-real gone. \nI have a special request. I am a massive fan, having done the retrial with her back in the \nday. And my partner and former Office guy is one of her mentors and counts himself a massive fan also. We \nweren't able to be there for the opening yesterday. We'd love a transcript. Can you get us one? \nThanks, \nm \nMartin S. Bell \n(bio)\nSim pson Thacher & Bartlett LLP \nEFTA00014907",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fan Club",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: Fan Club Request \nDate: Tue, 30 Nov 20"
+      },
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: Fan Club Request \nDate: Tue, 30 Nov 2021 12:44:56 +0"
+      },
+      {
+        "name": "Request \nHope",
+        "role": "extracted",
+        "context": "Subject: (EXTERNAL] Fan Club Request \nHope you're doing well. I am havin"
+      },
+      {
+        "name": "Heights Caf",
+        "role": "extracted",
+        "context": "do with my brunches now that Heights Café / Giulia's is for-real gone."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-30",
+        "event": "November 30, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.817Z"
+}

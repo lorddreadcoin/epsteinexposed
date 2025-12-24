@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019666",
+    "filename": "EFTA00019666.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019666.pdf",
+    "text": "\n\nFrom: \"Miller. Michael\" < \nTo: \nCc: ' ' , \"Weingarten, Reid\" \n\"Lucas, Morgan\" , \"Scavelli, Michael\"\nSubject: Epstein \nDate: Tue, 20 Aug 2019 20:37:54 +0000 \nAttachments: 18_2019.08.20_Stipulation_to_Withdraw_Appeal-c2.pdf \nDear \nPlease see the attached that we filed a few minutes ago. \nMike \nMichael C. Miller \nPartner \nwww.steptoe.com/mmiller \nSteptoe \ndirect Steptoe & Johnson LLP \nfax 1114 Avenue of the Americas \ncell \nNew York, NY 10036 \nwww.steptoe.com \nThis message and any attached documents contain information from the law firm Steptoe & Johnson LLP that may be confidential andfor privileged. If you \nare not the intended recipient, please do not read. copy, distribute, or use this information. If you have received this transmission in error, please notify the \nsender immediately by reply e-mail and then delete this message. \nEFTA00019666",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\"Scavelli, Michael\"\nSubject: Epstein \nDate: Tue, 20 Aug 2019 20:37:54 +0"
+      },
+      {
+        "name": "Dear \nPlease",
+        "role": "extracted",
+        "context": "on_to_Withdraw_Appeal-c2.pdf \nDear \nPlease see the attached that we file"
+      },
+      {
+        "name": "Mike \nMichael",
+        "role": "extracted",
+        "context": "we filed a few minutes ago. \nMike \nMichael C. Miller \nPartner \nwww.stept"
+      },
+      {
+        "name": "Miller \nPartner",
+        "role": "extracted",
+        "context": "inutes ago. \nMike \nMichael C. Miller \nPartner \nwww.steptoe.com/mmiller \nSte"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.357Z"
+}

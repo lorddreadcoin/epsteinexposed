@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00016244",
+    "filename": "EFTA00016244.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016244.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Material Witness PA \nDate: Fri, 03 Apr 2020 23:30:56 +0000 \nAttachments: Material_Witness_PA_4.02_Final signed.pdf; ATT00001.htm \nI've attached the r uest. \nI will follow this up next week with an email explaining the process which usually follows after the Home Office \nreceives an MLA request. \nHave a great weekend. \nita \nEFTA00016244",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Material Witness",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Material Witness PA \nDate: Fri, 03 Apr 2020 23"
+      },
+      {
+        "name": "Home Office",
+        "role": "extracted",
+        "context": "ich usually follows after the Home Office \nreceives an MLA request. \nHa"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.290Z"
+}

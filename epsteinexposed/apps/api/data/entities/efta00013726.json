@@ -1,0 +1,37 @@
+{
+  "document": {
+    "id": "efta00013726",
+    "filename": "EFTA00013726.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013726.pdf",
+    "text": "\n\nFrom: ' (USAFIS)\" \nTo: \"-(USAFLS)\" ' (USAFLS)\" \nCc: ' \n(USAFLS)\" \n<\n>9 \n(USAFLS)\" \nSubject: Epstein \nDate: Sun, 23 Mar 2008 00:51:02 +0000 \nImportance: Normal \nHi all —  So sorry to bother you on a Saturdatt I am hoping that I  can persuade you to reach out to about \nEpstein's investigators harassing the girls. received a frantic call today about Epstein's investigators \nbothering the parents of one of the victims. According to the victim, he demanded to see the victim and when he \nsaw her, he told the victim that they had video of the girl and warinning to put it on the intemet. We don't \nbelieve that Epstein actually has video of any of the girls, and has calmed the girl down, but this activity \nseems to be getting more aggressive. Remember also that Epstein is using the state criminal case to subpoena \ndepositions of victims in the federal case (who are not part of the state indictment) to get information about our \ninvestigation. These actions do not seem consistent with what Epstein's attorneys are supposed to be trying to \nwork out with in DC. Any chance will ask Epstein's people to call off their dogs until he makes his \ndecision? \nAssistant U.S. Attorney \nFax 561 820-8777 \nEFTA00013726",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ")\" \n<\n>9 \n(USAFLS)\" \nSubject: Epstein \nDate: Sun, 23 Mar 2008 00:51:02 +0"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 00:51:02 +0000 \nImportance: Normal \nHi all —  So sorry to bother you"
+      },
+      {
+        "name": "Attorney \nFax",
+        "role": "extracted",
+        "context": "is \ndecision? \nAssistant U.S. Attorney \nFax 561 820-8777 \nEFTA00013726"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.256Z"
+}

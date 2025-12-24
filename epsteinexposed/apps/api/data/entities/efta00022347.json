@@ -1,0 +1,71 @@
+{
+  "document": {
+    "id": "efta00022347",
+    "filename": "EFTA00022347.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022347.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Marshals Intake Form \nDate: Fri. 26 Jul 2019 23:56:12 +0000 \nPlease process the following: \nRequestor's Phone Number: (212) 637-2324 \nName /  Alias(es): Jeffrey Epstein \nCourt Number: 19 Cr. 490 (RMB) \nUSAO Number: 2018R01618 \nUSMS Number: 76318-054 \nArrest Date: 7/6/2019 \nDate of Birth: 1/20/1953 \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA00022347",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Phone Number: (212) 637-2324 \nName /  Alias(es): Jeffrey Epstein \nCourt Number: 19 Cr. 490 (RMB) \nUSAO Number: 201"
+      },
+      {
+        "name": "Marshals Intake",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Marshals Intake Form \nDate: Fri. 26 Jul 2019"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: Marshals Intake Form \nDate: Fri. 26 Jul 2019 23:56:12 +0"
+      },
+      {
+        "name": "Phone Number",
+        "role": "extracted",
+        "context": "s the following: \nRequestor's Phone Number: (212) 637-2324 \nName /  Alia"
+      },
+      {
+        "name": "Court Number",
+        "role": "extracted",
+        "context": "Alias(es): Jeffrey Epstein \nCourt Number: 19 Cr. 490 (RMB) \nUSAO Numbe"
+      },
+      {
+        "name": "Arrest Date",
+        "role": "extracted",
+        "context": "1618 \nUSMS Number: 76318-054 \nArrest Date: 7/6/2019 \nDate of Birth: 1/2"
+      },
+      {
+        "name": "Email \nPhoto",
+        "role": "extracted",
+        "context": "Birth: 1/20/1953 \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA0002234"
+      },
+      {
+        "name": "Email \nRemarks",
+        "role": "extracted",
+        "context": "953 \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA00022347"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "7/6/2019"
+      },
+      {
+        "date": "1953-01-20",
+        "event": "1/20/1953"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-2324"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.666Z"
+}

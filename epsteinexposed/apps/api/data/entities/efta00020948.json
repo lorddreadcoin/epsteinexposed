@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00020948",
+    "filename": "EFTA00020948.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020948.pdf",
+    "text": "\n\nFrom: \" \nTo:' \nCc: \" \n(NY) \n(CON)\" \naMIMM> \n\"\n(NY) \n(FBI)\" <Ma> \nSubject: Epstein - Palm Beach real property \nDate: Fri, 19 Jul 2019 16:33:56 +0000 \nAttachments: nv 162 I 8854529_img_12232011_Deed_Epstein_to_Laurelinc.pdf \nFYI \nPalm Beach, FL 33480 \nLast Deed of Record attached. \nWill do due diligence on Laurel, Inc \nSquad C-40 (FAST) \nSenior Financial Investigator (SFI) \nEFTA00020948",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "BI)\" <Ma> \nSubject: Epstein - Palm Beach real property \nDate: Fri, 19"
+      },
+      {
+        "name": "Last Deed",
+        "role": "extracted",
+        "context": "f \nFYI \nPalm Beach, FL 33480 \nLast Deed of Record attached. \nWill do"
+      },
+      {
+        "name": "Inc \nSquad",
+        "role": "extracted",
+        "context": "l do due diligence on Laurel, Inc \nSquad C-40 (FAST) \nSenior Financial"
+      },
+      {
+        "name": "Senior Financial",
+        "role": "extracted",
+        "context": "urel, Inc \nSquad C-40 (FAST) \nSenior Financial Investigator (SFI) \nEFTA00020"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.681Z"
+}

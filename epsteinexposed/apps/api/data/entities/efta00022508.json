@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00022508",
+    "filename": "EFTA00022508.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022508.pdf",
+    "text": "\n\nFrom: \nalMIE> \nTo: \nMI\nINIen \nc=mmim>, \nSubject: Quick Epstein FOIA question \nDate: Sun, 02 May 2021 15:47:11 +0000 \nAttachments: Pages_from_19-0556_New_York_Times_-\n_Epstein_Records_Unmasking_Remaining_WIF_2-A_(050121_845_pm).pdf \nHi Jason and Maurene, \nThe attached got marked as a Tartaglione withheld in full, but I don't think that's right. This \ncan be released with no \nTartaglione concerns, right? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00022508",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Quick Epstein",
+        "role": "extracted",
+        "context": "MI\nINIen \nc=mmim>, \nSubject: Quick Epstein FOIA question \nDate: Sun, 02"
+      },
+      {
+        "name": "Hi Jason",
+        "role": "extracted",
+        "context": "_WIF_2-A_(050121_845_pm).pdf \nHi Jason and Maurene, \nThe attached go"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ne concerns, right? \nThanks, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t? \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTele"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \nEFTA00"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-02",
+        "event": "02 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.045Z"
+}

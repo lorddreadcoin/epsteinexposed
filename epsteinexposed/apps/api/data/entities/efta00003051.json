@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00003051",
+    "filename": "EFTA00003051.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003051.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas. \nVI \n00802 \nTel: \nFax: \nEmergency \nContact \nForm \nDate: \n04:10/18 \nEmployee \nName: \nDorn \nB. \nDonissaint \nAddress: \nTomas. \nVI \n00802 \nPhone. \nScslt‘Oi \nnereency \nAllergies \nor \nHealth \nCOMIKIll% \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's \nName: \nStart \nDate: \n04/10/18 \nDate \nof \nBirth: \nE\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \n8;cod \ntype \nnot \nspecified \nPhone: \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact \n: \nRelationship \nRelationship \nPhone \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003051",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas. \nVI \n00802"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "omas. \nVI \n00802 \nTel: \nFax: \nEmergency \nContact \nForm \nDate: \n04:10/18 \nEmplo"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "l: \nFax: \nEmergency \nContact \nForm \nDate: \n04:10/18 \nEmployee \nName:"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "ntact \nForm \nDate: \n04:10/18 \nEmployee \nName: \nDorn \nB. \nDonissaint \nAddre"
+      },
+      {
+        "name": "Donissaint \nAddress",
+        "role": "extracted",
+        "context": "8 \nEmployee \nName: \nDorn \nB. \nDonissaint \nAddress: \nTomas. \nVI \n00802 \nPhone."
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nCOMIKIll% \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nCOMIKIll% \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "or's \nName: \nDoctor's \nName: \nStart \nDate: \n04/10/18 \nDate \nof \nBirth:"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "Date \nof \nBirth: \nE\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \n8;cod \nt"
+      },
+      {
+        "name": "Married \nLicense",
+        "role": "extracted",
+        "context": "E\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \n8;cod \ntype \nnot \nspecified"
+      },
+      {
+        "name": "Relationship \nRelationship",
+        "role": "extracted",
+        "context": "ergency, \nPlease \ncontact \n: \nRelationship \nRelationship \nPhone \nPhone \nThis \nInformat"
+      },
+      {
+        "name": "Phone \nPhone",
+        "role": "extracted",
+        "context": "Relationship \nRelationship \nPhone \nPhone \nThis \nInformation \nis \nfor"
+      },
+      {
+        "name": "This \nInformation",
+        "role": "extracted",
+        "context": "Relationship \nPhone \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.607Z"
+}

@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00015690",
+    "filename": "EFTA00015690.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015690.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n< \n(USANYS (USANYS)\" \n(USANYS)\"\n> \n\"-\nSubject: RE: Revised Maxwell Indictment \nDate: Thu, 25 Jun 2020 19:51:09 +0000 \nAttachments: 2020-06-25 Maxwell_drattindictment_v2.docx \nAll, \nAttached please find a slightly revised draft, incorporating edits from \nThanks, \nFrom: \nSent: Thursday, June 25, 2020 9:43 AM \nTo: (USANYS) <->; Craig \nA. \nCa; \n(USANYS) \n>: (USANYS) \n< \n \n(USANYS) \nCc: \n) <\nM> \nSubject: Revised \nMaxwell Indictment \nAll, \nAttached please find the most recent draft of the Maxwell indictment, which incorporates the most recent round of edits \nwe \nreceived. \nThanks, \nEFTA00015690",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Revised Maxwell",
+        "role": "extracted",
+        "context": "(USANYS)\"\n> \n\"-\nSubject: RE: Revised Maxwell Indictment \nDate: Thu, 25 Jun"
+      },
+      {
+        "name": "Indictment \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Revised Maxwell Indictment \nDate: Thu, 25 Jun 2020 19:51:09 +0"
+      },
+      {
+        "name": "Revised \nMaxwell",
+        "role": "extracted",
+        "context": "SANYS) \nCc: \n) <\nM> \nSubject: Revised \nMaxwell Indictment \nAll, \nAttached pl"
+      },
+      {
+        "name": "Indictment \nAll",
+        "role": "extracted",
+        "context": "M> \nSubject: Revised \nMaxwell Indictment \nAll, \nAttached please find the mo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-25",
+        "event": "2020-06-25"
+      },
+      {
+        "date": "2020-06-25",
+        "event": "June 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.239Z"
+}

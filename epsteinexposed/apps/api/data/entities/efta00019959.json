@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00019959",
+    "filename": "EFTA00019959.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019959.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc: \n(FBI \" \n.ce \nSubject: RE: Subpoenas Re \nDate: Fri, 16 Aug 2019 17:13:18 +0000 \nAttachments: 2019-08-16,_subpoena_to_Western_Union.pdf; 2019-08-16,_subpoena_to_Wells_Fargo.pdf; \n2019-08-16,_subpoena_to_Citibank.pdf; 2019-08-16,_subpoena_to_MoneyGram.pdf; 2019-\n08-16,_subpoena_to_Experian.pdf \nSubpoenas attached, thanks. \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York NY 10007 \n Ori inal Messa e \nFrom: . \n(NY) (FBI) alMn'' \nSent: Thursda Au ust 15 2019 5:08 PM \nTo: \nCc: \n• \n, \n, • • , \nSubject: Subpoenas Re \nPlease pre are and return to me subpoenas for Wells Fargo, CITI, MoneyGram, Western Union and Experian \nregarding I have attached the riders for the subpoenas. I  will serve the subpoenas. \nAdditionally, please utilize the following text in the subpoenas: \ni.haaii questions, please contact Forensic Accountant at or Special Agent \nat \nPlease forward the results in an electronic format to Special Agent Federal Bureau of \nInvestigation, 26 Federal Plaza, New York, NY 10278, telephone \nIf you have any questions or comments, please contact me. \nThanks \nEFTA00019959\n\nForensic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA00019960",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoenas Re",
+        "role": "extracted",
+        "context": "c: \n(FBI \" \n.ce \nSubject: RE: Subpoenas Re \nDate: Fri, 16 Aug 2019 17:13"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Subpoenas attached, thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ed, thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York NY 10007 \n Ori inal Mess"
+      },
+      {
+        "name": "Thursda Au",
+        "role": "extracted",
+        "context": ": . \n(NY) (FBI) alMn'' \nSent: Thursda Au ust 15 2019 5:08 PM \nTo: \nCc:"
+      },
+      {
+        "name": "Wells Fargo",
+        "role": "extracted",
+        "context": "nd return to me subpoenas for Wells Fargo, CITI, MoneyGram, Western Uni"
+      },
+      {
+        "name": "Western Union",
+        "role": "extracted",
+        "context": "Wells Fargo, CITI, MoneyGram, Western Union and Experian \nregarding I hav"
+      },
+      {
+        "name": "Forensic Accountant",
+        "role": "extracted",
+        "context": "aii questions, please contact Forensic Accountant at or Special Agent \nat \nPlea"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "act Forensic Accountant at or Special Agent \nat \nPlease forward the resul"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "ronic format to Special Agent Federal Bureau of \nInvestigation, 26 Federal"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "Bureau of \nInvestigation, 26 Federal Plaza, New York, NY 10278, telephon"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-16",
+        "event": "2019-08-16"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.944Z"
+}

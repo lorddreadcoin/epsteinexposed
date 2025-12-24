@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030620",
+    "filename": "EFTA00030620.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030620.pdf",
+    "text": "\n\nCitrix Attachments \nExpires January 15, 2020 \nDB-SDNY-Prod003.zip \n159.5 \nMB \nDownload Attachments \nThomas Moyer uses Citrix Files to share documents securely. \nEFTA00030620",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Citrix Attachments",
+        "role": "extracted",
+        "context": "Citrix Attachments \nExpires January 15, 2020 \nDB"
+      },
+      {
+        "name": "Expires January",
+        "role": "extracted",
+        "context": "Citrix Attachments \nExpires January 15, 2020 \nDB-SDNY-Prod003.zip"
+      },
+      {
+        "name": "Download Attachments",
+        "role": "extracted",
+        "context": "-SDNY-Prod003.zip \n159.5 \nMB \nDownload Attachments \nThomas Moyer uses Citrix Fil"
+      },
+      {
+        "name": "Thomas Moyer",
+        "role": "extracted",
+        "context": ".5 \nMB \nDownload Attachments \nThomas Moyer uses Citrix Files to share do"
+      },
+      {
+        "name": "Citrix Files",
+        "role": "extracted",
+        "context": "ttachments \nThomas Moyer uses Citrix Files to share documents securely."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-15",
+        "event": "January 15, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.293Z"
+}

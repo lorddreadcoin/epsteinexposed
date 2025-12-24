@@ -1,0 +1,102 @@
+{
+  "document": {
+    "id": "efta00015135",
+    "filename": "EFTA00015135.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015135.pdf",
+    "text": "\n\nCVVT \nYour Itinerary \nSatoTravel \nTrip on Aug 26, 2019 Locator: HVDEOP Date: Aug 23, 2019 \nTraveler \nUSA \nALL MCCirS MUST BE MAILED TO. \nEOUSA \nTHIS IS YOUR OFFICIAL RECEIPT FOR TRAVEL \nPLEASE RETAIN FOR VOUCHERING OR \nREIMBURSEMENT PURPOSES. \nCustomer Number 6435R7F \nAgent 3R \n*TICKET PURCHASE WITH \nFEES TOTALING 37.63PP CHARGED IN ADDITION TO TKT PRICE \nFEE-USD37.63PP-AIR DOMESTIC, TRADITIONAL \nMonday, August 26, 2019 \nConfirmation MMRMJA \nFlight JETBLUE \nDEPARTURE \nLOS ANGELES,CA \n11:17 AM, Aug 26, \nAIRWAYS 424 \n2019 \nARRIVAL \nNEW YORK JFK, NY \n8:05 PM, Aug 26, 2019 \nStatus \nClass \nDuration \nEquipment \nMeal Service \nNotes \nTuesday, August 27, 2019 \nConfirmed \nCoach Class •  Y \n05:48 (Non-stop) \n325 \nSnack \nDEP-TERMINAL 5 \nARR-TERMINAL 5 \nCABIN-ECONOMY \nSEAT ASSIGNMENT RESTRICTED TO AIRPORT CHECK-IN \nConfirmation \nMMRMJA \nFlight JETBLUE AIRWAYS 1623 \nDEPARTURE \nNEW YORK JFK, NY \n7:30 PM, Aug 27, 2019 \nARRIVAL \nLOS ANGELES,CA \n11:04 PM, Aug 27, 2019 \nStatus \nClass \nDuration \nEquipment \nMeal Service \nReserved Seats \nNotes \nConfirmed \nCoach Class -  Z \n06:34 (Non-stop) \n325 \nSnack \n22C (Aisle) \nDEP-TERMINAL 5 \nARR-TERMINAL 5 \nCABIN-ECONOMY \nName \nlavoire Tirknt \n/ Flat. \n2706478/000SFCTRF/23AuGt9 \n:706478/2797 393007028/23AuGt9 \nBase \n37.63 \nUSD 393.49 \n1.ax_l 1.ax_2 T.ax_3 IOW \n3743 \n29.S1uS 8.40ZP 20.20XT 451.60 \nEFTA00015135\n\nTotal Amount 489.23 \nForm of Payment: CAXXXXXXXXMCXX8394 \nGENERAL INFORMATION \n****************************************************** \n*******TO BOOK RESERVATIONS ONLINE PLEASE VISIT******* \n*********\"*\"\"*CWISATOTRAVELCOM******************** \n THANK YOU FOR USING CWTSATOTRAVEL \nYOUR REFERENCE CODE IS *** SABRE OV4C \nPLEASE CALL LOCAL OFFICE DURING NORMAL BUSINESS HOURS \nTOLL FREE NUMBER 877-905-9644 MON-FRI 700A-700P CST \nFOR AFTER HOURS EMERGENCY SERVICE IF TRAVEL IS WITHIN \n24 HOURS CALL 1-877.905.9644 AND PRESS OPTION 1 \n****IF INTERNATIONAL 800 NUMBER DOES NOT WORK PLEASE*** \n***** ** CALL COLLECT TO 210-877-3337 ************** \nCONTRACT CARRIER CITY PAIR FARES DO NOT REQUIRE \nADVANCE PURCHASE. ALL OTHER FARES MAY REQUIRE ADVANCE \nPURCHASE AND ARE NOT GUARANTEED UNTIL TICKETED \nTRANSACTION FEES ARE NONREFUNDABLE \nUNUSED PAPER TICKETS MUST BE RETURNED TO CWTSATOTRAVEL \nCONTACT CWTSATOTRAVEL TO REFUND ELECTRONIC TICKETS \nGOVERNMENT ISSUED ID IS REQUIRED \nFOR INFORMATION ON THE TSA SECURE FLIGHT PROGRAM \nPLEASE GO TO WWW.TSA.GOV \n DON*T FORGET TO CALL THE VACATION CENTER \n.... AT 1-877-698-2554 TO BOOK YOUR NEXT VACATION \n   GO TO SATOVACATIONS.COM TODAY \n AND SIGN UP FOR THE VACATION NEWSLETTER \nU.S.CITIZENS AND LAWFUL PERMANENT RESIDENTS WHO TRAVEL \nDIRECTLY BETWEEN PARTS OF THE UNITED STATES, WHICH \nINCLUDES GUAM, PUERTO RICO, U.S. VIRGIN ISLANDS, \nAMERICAN SAMOA, SWAINS ISLAND AND THE COMMONWEALTH \nOF THE NORTHERN MARIANA ISLANDS-CNMI, WITHOUT \nTOUCHING AT A FOREIGN PORT OR PLACE, ARE NOT REQUIRED \nTO PRESENT A VALID U.S. PASSPORT OR U.S. GREEN CARD. \nHOWEVER, IT IS RECOMMENDED THAT TRAVELERS BRING A \nGOVERNMENT ISSUED PHOTO ID AND COPY OF BIRTH \nCERTIFICATE. \nPLEASE VISIT WWW.CARLSONWAGONLIT.COM/AIRLINEBAGGAGEFEES \nFOR BAGGAGE FEE INFORMATION. CHECK OPERATING CARRIER \nFOR ALLOWANCE IF TRAVELING ON CODE SHARE FLIGHT. \nCWTSATOTRAVEL CAN BOOK YOUR HOTEL ACCOMODATIONS. WE CAN ASSIST IN KEEPING COSTS \nWITHIN PER DIEM AT A FEMA APPROVED PROPERTY, GUARANTEE YOUR RESERVATION FOR \nLATE ARRIVAL, AND EVEN CHECK FOR A ROOM AT YOUR FAVORITE HOTEL AT LOW FEDROOM \nOR CWTSATOTRAVEL GOVERNMENT RATES. ALL YOUR RESERVATIONS INCLUDED ON ONE \nITINERARY--AIR, CAR, AND HOTEL \nTHANKS FROM YOUR CWTSATOTRAVEL TEAM!!! \nEFTA00015136",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Your Itinerary",
+        "role": "extracted",
+        "context": "CVVT \nYour Itinerary \nSatoTravel \nTrip on Aug 26,"
+      },
+      {
+        "name": "Travel \nTrip",
+        "role": "extracted",
+        "context": "CVVT \nYour Itinerary \nSatoTravel \nTrip on Aug 26, 2019 Locator: HVDE"
+      },
+      {
+        "name": "Customer Number",
+        "role": "extracted",
+        "context": "OR \nREIMBURSEMENT PURPOSES. \nCustomer Number 6435R7F \nAgent 3R \n*TICKET PU"
+      },
+      {
+        "name": "Status \nClass",
+        "role": "extracted",
+        "context": "K, NY \n8:05 PM, Aug 26, 2019 \nStatus \nClass \nDuration \nEquipment \nMeal Se"
+      },
+      {
+        "name": "Duration \nEquipment",
+        "role": "extracted",
+        "context": "Aug 26, 2019 \nStatus \nClass \nDuration \nEquipment \nMeal Service \nNotes \nTuesday"
+      },
+      {
+        "name": "Meal Service",
+        "role": "extracted",
+        "context": "Class \nDuration \nEquipment \nMeal Service \nNotes \nTuesday, August 27, 2"
+      },
+      {
+        "name": "Notes \nTuesday",
+        "role": "extracted",
+        "context": "ion \nEquipment \nMeal Service \nNotes \nTuesday, August 27, 2019 \nConfirmed"
+      },
+      {
+        "name": "Confirmed \nCoach",
+        "role": "extracted",
+        "context": "es \nTuesday, August 27, 2019 \nConfirmed \nCoach Class •  Y \n05:48 (Non-stop)"
+      },
+      {
+        "name": "Reserved Seats",
+        "role": "extracted",
+        "context": "ion \nEquipment \nMeal Service \nReserved Seats \nNotes \nConfirmed \nCoach Clas"
+      },
+      {
+        "name": "Notes \nConfirmed",
+        "role": "extracted",
+        "context": "Meal Service \nReserved Seats \nNotes \nConfirmed \nCoach Class -  Z \n06:34 (Non"
+      },
+      {
+        "name": "Coach Class",
+        "role": "extracted",
+        "context": "rved Seats \nNotes \nConfirmed \nCoach Class -  Z \n06:34 (Non-stop) \n325"
+      },
+      {
+        "name": "Total Amount",
+        "role": "extracted",
+        "context": "20.20XT 451.60 \nEFTA00015135\n\nTotal Amount 489.23 \nForm of Payment: CAXX"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-26",
+        "event": "August 26, 2019"
+      },
+      {
+        "date": "2019-08-27",
+        "event": "August 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "877-905-9644",
+      "210-877-3337",
+      "877-698-2554"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.098Z"
+}

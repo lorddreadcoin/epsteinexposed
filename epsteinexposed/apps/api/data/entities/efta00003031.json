@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00003031",
+    "filename": "EFTA00003031.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003031.pdf",
+    "text": "\n\nService \nTag: \n8G \nLM0Q2 \nExpress \nService \nCode: 18418016810 \nEFTA00003031",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Service \nTag",
+        "role": "extracted",
+        "context": "Service \nTag: \n8G \nLM0Q2 \nExpress \nService"
+      },
+      {
+        "name": "Express \nService",
+        "role": "extracted",
+        "context": "Service \nTag: \n8G \nLM0Q2 \nExpress \nService \nCode: 18418016810 \nEFTA00003"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.551Z"
+}

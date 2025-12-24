@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019579",
+    "filename": "EFTA00019579.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019579.pdf",
+    "text": "\n\nFrom: \nTo: \"Si\" ‹> \nSubject: In re Application to Unseal Civil Discovery Materials SDNY 19-mc-00179 \nDate: Tue, 16 Apr 2019 18:25:05 +0000 \nAttachments: 19-MC-00179_Sealed_Order 4.15.19_Stamped.pdf \nMr. \nPlease see the attached PDF for an Order that was filed under seal today in \n19-mc-179. \nThank \nou. \nCourtroom Deputy to the Hon. Sarah Netburn \nUnited States District Court \nSouthern District of New York \n40 Foley Square \nNew York, NY 10007 \nEFTA00019579",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Please",
+        "role": "extracted",
+        "context": "ed_Order 4.15.19_Stamped.pdf \nMr. \nPlease see the attached PDF for"
+      },
+      {
+        "name": "Unseal Civil",
+        "role": "extracted",
+        "context": "Subject: In re Application to Unseal Civil Discovery Materials SDNY 19-m"
+      },
+      {
+        "name": "Discovery Materials",
+        "role": "extracted",
+        "context": "e Application to Unseal Civil Discovery Materials SDNY 19-mc-00179 \nDate: Tue,"
+      },
+      {
+        "name": "Courtroom Deputy",
+        "role": "extracted",
+        "context": "y in \n19-mc-179. \nThank \nou. \nCourtroom Deputy to the Hon. Sarah Netburn \nUn"
+      },
+      {
+        "name": "Sarah Netburn",
+        "role": "extracted",
+        "context": "Courtroom Deputy to the Hon. Sarah Netburn \nUnited States District Court"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "Sarah Netburn \nUnited States District Court \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "United States District Court \nSouthern District of New York \n40 Foley Square"
+      },
+      {
+        "name": "Foley Square",
+        "role": "extracted",
+        "context": "hern District of New York \n40 Foley Square \nNew York, NY 10007 \nEFTA0001"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.200Z"
+}

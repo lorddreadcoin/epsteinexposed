@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029015",
+    "filename": "EFTA00029015.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029015.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nSubject: Re: SDNY Opposition to Epstein Bail Motion \nDate: Fri, 12 Jul 2019 22:27:49 +0000 \nImportance: Normal \nThank you. \nEFTA00029015",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Bail",
+        "role": "extracted",
+        "context": "bject: Re: SDNY Opposition to Epstein Bail Motion \nDate: Fri, 12 Jul 201"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "NY Opposition to Epstein Bail Motion \nDate: Fri, 12 Jul 2019 22:27:49 +0"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "9 22:27:49 +0000 \nImportance: Normal \nThank you. \nEFTA00029015"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.619Z"
+}

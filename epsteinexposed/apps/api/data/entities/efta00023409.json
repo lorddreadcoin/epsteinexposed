@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00023409",
+    "filename": "EFTA00023409.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023409.pdf",
+    "text": "\n\nFrom: \" (USANYS)\" \nTo: \"Berman, Geoffrey (USANYS)\" <=> \nSubject: Prince Andrew \nDate: Tue, 25 Feb 2020 15:55:13 +0000 \nEmbedded: FW:_DOJ_ongoing_Investigation..msg; Fwd:_U.S._Department_of Justice_investigation.msg \nThere are two chains that I believe capture everything. The first (Fwd: U.S. Department of Justice Investigation) I believe \ncaptures everything from initial outreach to the last email, which is the second attachment (FW: DOJ ongoing \nInvestigation). \nEFTA00023409",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": ")\" \nTo: \"Berman, Geoffrey (USANYS)\" <=> \nSubject: Prince Andrew \nDate: Tue, 25 Feb 2020 15:55:13 +0000 \nEmbedded:"
+      },
+      {
+        "name": "Justice Investigation",
+        "role": "extracted",
+        "context": "irst (Fwd: U.S. Department of Justice Investigation) I believe \ncaptures everythi"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.902Z"
+}

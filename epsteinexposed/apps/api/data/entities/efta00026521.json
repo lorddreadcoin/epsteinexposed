@@ -1,0 +1,92 @@
+{
+  "document": {
+    "id": "efta00026521",
+    "filename": "EFTA00026521.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026521.pdf",
+    "text": "\n\nFrom: \nTo: \n• \nCc: KHP Warrants NYSD <KHP Warrants@nysd.uscourts.gov>, \" \nSubject: RE: Warrant \nDate: Mon, 29 Jun 2020 18:35:40 +0000 \nAttachments: Maxwell_arrest_warrant_signed.pdf \nDear Judge Parker, \nAttached is the corrected arrest warrant, which Judge Smith's Chambers just sent to us. I can be reached at \nif there are any questions regarding the search warrant. \nThank you, and apologies for the error, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \n(212) 637-2225 \nFrom: \nSent: Monday, June 29, 2020 1:23 PM \nTo: Katharine Parker \nCc: KHP_Warrants NYSD <KHP_Warrants@nysd.uscourts.gov>; \nSubject: RE: Warrant \nDear Judge Parker, \nAttached please find signed copies of the indictment and arrest warrant referenced in the warrant application. AUSA \nwill be available to call the Court at 2pm with the agent on the line to swear out the warrant. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00026521\n\nFrom: \nSent: Monday, June 29, 2020 9:33 AM \nTo: 'Katharine Parker' .<=\n> \nCc: KHP_Warrants NYSD \n<KHP Warrants@nysd.uscourts  \ngoy> \nSubject: RE: Warrant \nDear Judge Parker, \nThank you very much. I will send a pdf of the signed documents as soon as I have them, and I  will \ncall the number \nprovided below with the agent on the line around noon. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: Katharine Parker \nSent: Monday, June 29, 2020 8:29 AM \nTo: \nCc: KHP_Warrants \nNYSD <KHP Warrants@nysd uscourts  pov> \nSubject: \nWarrant \nDear Ms. \nI  have reviewed the warrant. After the Indictment and arrest warrant are signed (around 11:30), please send me a \npdf of the si ed documents. I can then swear out the warrant around noon. Please call me with the agent on the \nline at.\nBest, \nJudge Parker \nUSMJ \nGet \nOutlook for iOS \nEFTA00026522",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Warrant \nDate",
+        "role": "extracted",
+        "context": "scourts.gov>, \" \nSubject: RE: Warrant \nDate: Mon, 29 Jun 2020 18:35:40 +0"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "ll_arrest_warrant_signed.pdf \nDear Judge Parker, \nAttached is the corr"
+      },
+      {
+        "name": "Judge Smith",
+        "role": "extracted",
+        "context": "rrected arrest warrant, which Judge Smith's Chambers just sent to us. I"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "and apologies for the error, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the error, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \n(212) 637-222"
+      },
+      {
+        "name": "Katharine Parker",
+        "role": "extracted",
+        "context": "y, June 29, 2020 1:23 PM \nTo: Katharine Parker \nCc: KHP_Warrants NYSD <KHP_W"
+      },
+      {
+        "name": "Warrant \nDear",
+        "role": "extracted",
+        "context": ".uscourts.gov>; \nSubject: RE: Warrant \nDear Judge Parker, \nAttached pleas"
+      },
+      {
+        "name": "Judge Parker",
+        "role": "extracted",
+        "context": "; \nSubject: RE: Warrant \nDear Judge Parker, \nAttached please find signed"
+      },
+      {
+        "name": "Get \nOutlook",
+        "role": "extracted",
+        "context": "t.\nBest, \nJudge Parker \nUSMJ \nGet \nOutlook for iOS \nEFTA00026522"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-2225"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.491Z"
+}

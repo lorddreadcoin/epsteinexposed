@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00016453",
+    "filename": "EFTA00016453.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016453.pdf",
+    "text": "\n\nFrom: ' \nTo: \n:MIWANYealr' \n(USANYS)\" \nCc: ' (USANYS)\" < \nSubject: RE: Epstein \nDate: Thu, 06 Dec 2018 23:59:48 +0000 \nImportance: Normal \nYeah, we have a Google Alert set up so we're getting a feed of everything Epstein-related. It's a flood this week. \nFrom: (USANYS)\nSent: Thursday, December 06, 2018 18:55 \nTo: \n(USANYS) \nCc: (USANYS)\nSubject: RE: Epstein \nSorry, hit send too soon: \n<a; \nhttps://www.nbcnews.com/news/us-news/lawmakers-demand-probe-sex-offender-jeffrey-epstein-s-sweetheart-deal-\nn944516 \nFrom: (USANYS) \nSent: Thursday, December 6, 2018 6:55 PM \nTo: \n) \n< \n>; \n(USANYS) \nCc: (USANYS)\nSubject: RE: Epstein \nThanks. Unrelated, did you see this: \nFrom: \n< \nSent: Thursday, December 6, 2018 6:52 PM \nTo: (USANYS) cla ; \nsca; \n(USANYS) \nCc: (USANYS) .<M> \nSubject: RE: Epstein \nYes, it's 2018R01618 \nFrom: \n(USANYS) \nSent: Thursday, December 06, 2018 18:51 \nTo: \n(USANYS) \nEFTA00016453\n\nCc: \nSubject: Epstein \n(USANYS) \nDo \nyou guys have a USAO It yet? \nDeputy Chief, Public Corruption \nUnit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00016454",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ": ' (USANYS)\" < \nSubject: RE: Epstein \nDate: Thu, 06 Dec 2018 23:59:48 +0"
+      },
+      {
+        "name": "Normal \nYeah",
+        "role": "extracted",
+        "context": "8 23:59:48 +0000 \nImportance: Normal \nYeah, we have a Google Alert set u"
+      },
+      {
+        "name": "Google Alert",
+        "role": "extracted",
+        "context": "ance: Normal \nYeah, we have a Google Alert set up so we're getting a fee"
+      },
+      {
+        "name": "Epstein \nSorry",
+        "role": "extracted",
+        "context": "S) \nCc: (USANYS)\nSubject: RE: Epstein \nSorry, hit send too soon: \n<a; \nhtt"
+      },
+      {
+        "name": "Epstein \nThanks",
+        "role": "extracted",
+        "context": "S) \nCc: (USANYS)\nSubject: RE: Epstein \nThanks. Unrelated, did you see this:"
+      },
+      {
+        "name": "Epstein \nYes",
+        "role": "extracted",
+        "context": ": (USANYS) .<M> \nSubject: RE: Epstein \nYes, it's 2018R01618 \nFrom: \n(USA"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "you guys have a USAO It yet? \nDeputy Chief, Public Corruption \nUnit \nU.S"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "a USAO It yet? \nDeputy Chief, Public Corruption \nUnit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000164"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-06",
+        "event": "December 06, 2018"
+      },
+      {
+        "date": "2018-12-06",
+        "event": "December 6, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.709Z"
+}

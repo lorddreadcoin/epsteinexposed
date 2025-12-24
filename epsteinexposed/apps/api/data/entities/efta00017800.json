@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00017800",
+    "filename": "EFTA00017800.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017800.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Application for Amended SW \nDate: Thu, 22 Oct 2020 17:22:54 +0000 \nOn this same subject, since I spoke with you this morning, I have also had a call with about this, so our agents are \nnow aware of the issue. I think you also asked about the status of the image review: said it's underway and they \nunderstand it needs to be completed by the deadline. \nThanks very much for your guidance on this —  if you have any other questions before you speak with.or if any \nadditional information would be useful, please let us know. \nThanks, \nFrom \nSent: Thursday, October 22, 2020 1:07 PM \nTo \nCc• \nSubject: Application for Amended SW \nChiefs, \nThanks very much for talking this morning. As discussed, attached is a draft application for an amended search warrant \ncorrecting the FBI barcode numbers for 3 devices that were seized from Epstein's NY residence. In case it's useful, I'm also \nattaching the exhibits that are referenced in the draft application. \nThanks, \nEFTA00017800",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "please let us know. \nThanks, \nFrom \nSent: Thursday, October 22, 2020 1"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "ay, October 22, 2020 1:07 PM \nTo \nCc• \nSubject: Application for Am"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-22",
+        "event": "October 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.613Z"
+}

@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00025008",
+    "filename": "EFTA00025008.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025008.pdf",
+    "text": "\n\nVictim Services Division Documentation of Services \nDownload Date: 04-SEP-20 \nFrom: 01-APR-20 \nTo: 30-JUN-20 \nVictim Name: \nFBI Case Number: 31E-NY-3027571 \nDownloaded By: \nService Type Number of Services \nFollow Up Contact Phone Call 1 \nFollow Up Contact Text 1 \nResource / Referral Provided Federal Agency 1 \nResource / Referral Provided Local Agency 1 \nAdditional Notes and Services: \n\"This document will become a permanent record in the case file and is discoverable. Please limit comments to logistical or service referral information. Do not reference \nmental health information or personal opinion. \n1 \nEFTA00025008",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Victim Services",
+        "role": "extracted",
+        "context": "Victim Services Division Documentation of Ser"
+      },
+      {
+        "name": "Division Documentation",
+        "role": "extracted",
+        "context": "Victim Services Division Documentation of Services \nDownload Date: 0"
+      },
+      {
+        "name": "Services \nDownload",
+        "role": "extracted",
+        "context": "ces Division Documentation of Services \nDownload Date: 04-SEP-20 \nFrom: 01-APR"
+      },
+      {
+        "name": "Victim Name",
+        "role": "extracted",
+        "context": "om: 01-APR-20 \nTo: 30-JUN-20 \nVictim Name: \nFBI Case Number: 31E-NY-302"
+      },
+      {
+        "name": "Downloaded By",
+        "role": "extracted",
+        "context": "Case Number: 31E-NY-3027571 \nDownloaded By: \nService Type Number of Serv"
+      },
+      {
+        "name": "Service Type",
+        "role": "extracted",
+        "context": "E-NY-3027571 \nDownloaded By: \nService Type Number of Services \nFollow Up"
+      },
+      {
+        "name": "Services \nFollow",
+        "role": "extracted",
+        "context": "d By: \nService Type Number of Services \nFollow Up Contact Phone Call 1 \nFoll"
+      },
+      {
+        "name": "Up Contact",
+        "role": "extracted",
+        "context": "pe Number of Services \nFollow Up Contact Phone Call 1 \nFollow Up Conta"
+      },
+      {
+        "name": "Phone Call",
+        "role": "extracted",
+        "context": "f Services \nFollow Up Contact Phone Call 1 \nFollow Up Contact Text 1"
+      },
+      {
+        "name": "Follow Up",
+        "role": "extracted",
+        "context": "llow Up Contact Phone Call 1 \nFollow Up Contact Text 1 \nResource / Re"
+      },
+      {
+        "name": "Contact Text",
+        "role": "extracted",
+        "context": "ntact Phone Call 1 \nFollow Up Contact Text 1 \nResource / Referral Provid"
+      },
+      {
+        "name": "Referral Provided",
+        "role": "extracted",
+        "context": "Up Contact Text 1 \nResource / Referral Provided Federal Agency 1 \nResource /"
+      },
+      {
+        "name": "Federal Agency",
+        "role": "extracted",
+        "context": "Resource / Referral Provided Federal Agency 1 \nResource / Referral Provid"
+      },
+      {
+        "name": "Local Agency",
+        "role": "extracted",
+        "context": "Resource / Referral Provided Local Agency 1 \nAdditional Notes and Servi"
+      },
+      {
+        "name": "Additional Notes",
+        "role": "extracted",
+        "context": "rral Provided Local Agency 1 \nAdditional Notes and Services: \n\"This document"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.292Z"
+}

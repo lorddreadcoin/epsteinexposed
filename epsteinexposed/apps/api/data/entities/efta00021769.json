@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00021769",
+    "filename": "EFTA00021769.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021769.pdf",
+    "text": "\n\nFrom: ' \nTo:'\n< \n< \n>, ' \nSubject: FW: Protective Order \nDate: Thu, 23 Jul 2020 03:19:51 +0000 \nAttachments: 2020-07-\n03GM_protective_order_for_discovery JAJN)_Revised_Defense_Edits_07.22.2020.docx; \n2020-07-\n03_GM_protective_order_for_discoveryJAJN)_Revised_Defense_Edits_07.22.2020)_Clea \nn_Copy.docx \nInline-Images: image001.png; image003.jpg \nAm I losing my mind, or are these the exact same document? I don't see the redline. \nFrom: Christian Everdell < \nSent: Wednesday, July 22, 2020 8:13 PM \nTo: \n<> \nCc: Mark S. Cohen ; Jeff Pagliuca <:,; 'Laura Menninger' \nSubject: Protective Order \nAttached is a revised draft of the defense's proposed Protective Order (including a redline against the government's \noriginal draft and a clean version). We did our best to incorporate the points we discussed on our last call on Monday, July \n20 and to find points of common ground and agreement. Please let us know by 5pm tomorrow whether the attached \ndraft is acceptable to the Government. \nRegards, \nChris \nChristian Everdell \nCOHEN & GRESSER LLP \n800 Third Avenue \nNew York, NY W022 \nI \nview \nbio \nwww.cohengresser.com \nNew York I  Seoul I  Paris I  Washington DC I  London \nCONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or ptivileged. This e-mail is intended to be reviewed initially by only \nthe individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient. you are hereby notified that any \nreview dissemination or copying of this e-mail or the information contained herein is prohibited. If you have received this e-mail in \nerror. \nplease immediately notify \nthe sender by telephone and permanently delete this e-mail. Thank you. \nPRIVACY: A complete copy of our privacy policy can be viewed al MoslAvww.cohenqressercom/privackpolicx\nEFTA00021769\n\nEFTA00021770",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "To:'\n< \n< \n>, ' \nSubject: FW: Protective Order \nDate: Thu, 23 Jul 2020 03:19"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "don't see the redline. \nFrom: Christian Everdell < \nSent: Wednesday, July 22,"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "To: \n<> \nCc: Mark S. Cohen ; Jeff Pagliuca <:,; 'Laura Menninger' \nSubje"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": ". Cohen ; Jeff Pagliuca <:,; 'Laura Menninger' \nSubject: Protective Order"
+      },
+      {
+        "name": "Chris \nChristian",
+        "role": "extracted",
+        "context": "to the Government. \nRegards, \nChris \nChristian Everdell \nCOHEN & GRESSER LLP"
+      },
+      {
+        "name": "Third Avenue",
+        "role": "extracted",
+        "context": "ell \nCOHEN & GRESSER LLP \n800 Third Avenue \nNew York, NY W022 \nI \nview"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-22",
+        "event": "July 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.369Z"
+}

@@ -1,0 +1,159 @@
+{
+  "document": {
+    "id": "efta00014019",
+    "filename": "EFTA00014019.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014019.pdf",
+    "text": "\n\nU.S. \nDepartment ofJustiee \nUnited States Attorney \nSouthern District of Florida \n[Victim name and address] \nWest Palm Beach, FL 33401 \nFacsimile: \n[DATE] \nRe: IDefendantl/lVietiml: NOTIFICATION OF IDENTIFIED \nVICTIM \nDear Ms. [Victim]: \nBy virtue of this letter, the United States Attorney's Office for the Southern District \nof Florida provides you with the following notice because you are an identified victim of a \nfederal offense. \nOn June 30, 2008, [Defendant] entered a plea of guilty to violations of Florida Statutes \nSections \n[insert case information] and was sentenced to a term of twelve months' \nimprisonment to be followed by an additional six months' imprisonment, followed by twelve \nmonths of Community Control 1, with conditions of community confinement imposed by the \nCourt. \nIn light of the entry of the guilty plea and sentence, the \nUnited States has agreed to \ndefer federal prosecution in favor of this state plea and sentence, subject to certain \nconditions, including the following: \n1. An independent Special Master was assigned the task of selecting an \nattorney representative to represent the victims, including you, in \nconnection with civil actions between the victims and [Defendant.] The \nSpecial Master selected Robert Josefsberg, Esq. \nof the firm Podhurst \nOrseck, \nP.A., \na highly-respected and \nexperienced attorney. You are not \nobligated to use Mr. Josefsberg as your \ncivil attorney, but, as explained \nin greater detail below, Mr. Josefsberg's services will be provided at no \ncost to you because [Defendant] is obligated to pay the costs and \nfees \nof the attorney-representative. Also, [Defendant] and his attorneys can \nonly \ncontact you via Mr. Josefsberg, assuming that you would like Mr. \nJosefsberg to serve as \nyour attorney. \nEFTA00014019\n\n[VICTIM'S NAME] \nNOTIFICATION OF IDENTIFIED VICTIM \n[DATE] \nPAGE 2 OF 3 \n2. If you elect to file suit against [Defendant] pursuant to Title 18, United \nStates Code, Section \n2255, [Defendant] will not contest the jurisdiction \nof the United \nStates District Court for the Southern District of Florida \nover his person \nand/or the subject matter, and [Defendant] waives his \nright to contest liability and also waives his right to \ncontest damages up \nto an amount as agreed to between \nyou and [Defendant], so long as you \nelect to proceed exclusively under 18 \nU.S.C. § 2255, and you waive \nany other claim for damages, whether pursuant to state, federal, or \ncommon law. Notwithstanding this waiver, [Defendant's] agreement \nwith the United States, his waivers and failure to contest liability and \nsuch \ndamages in any suit are not to be construed as an admission of any \ncriminal or civil liability. \n3. As stated above, [Defendant] has agreed to pay the fees of the attorney \nrepresentative selected by the independent third party. This provision, \nhowever, shall not obligate [Defendant] to pay \nthe fees and costs of \ncontested litigation filed against him. Thus, if after consideration of \npotential settlements, you and Mr. \nJosefsberg elect to file a contested \nlawsuit pursuant to 18 U.S.C. § \n2255 or you elect to pursue any other \ncontested remedy, the obligation to \npay the costs of the attorney \nrepresentative, as opposed to any statutory or other obligations to pay \nreasonable attorneys fees and costs \nsuch as those contained in Section \n2255, shall \ncease. \nMr. Josefsberg will be contacting you within the next two weeks to explain these \nterms. If you would like to contact Mr. \nJosefsberg directly, he can be reached at \nIf you have already \nselected other counsel to represent you, or if you do so in the \nfuture, and you decide to file a claim against [Defendant], [Defendant's] attorney, [attorney \nname], asks that you have your attorney contact him at [firm name and address]. \nIn addition, there has been litigation between the United States and two other victims \nregarding the disclosure of the entire agreement between the United States and [defendant]. \nMr. Josefsberg can provide further guidance on \nthis issue, or if you select another attorney \nto \nrepresent you, that attorney can review the Court's order in the matter of In re Jane Does \nI and 2, United States District Court for the Southern District of Florida Court File No. \n08-\nEFTA00014020\n\n[VICTIM'S NAME] \nNOTIFICATION OF IDENTIFIED VICTIM \n[DATE] \nPAGE 3 OF 3 \n80736-CIV-MARRA. \nPlease understand that neither the U.S. Attorney's Office nor the \nFederal Bureau of \nInvestigation can take part in or otherwise assist in civil litigation. Thank you for all of your \nassistance during the course of the federal and state investi ations and lease accept the \nheartfelt regards of myself and Special Agents for \nyour \nhealth and well-being. \nSincerely, \nR. Alexander \nAcosta \nUnited \nStates Attorney \nBy: \nAssistant United States \nAttorney \ncc: Robert \nJosefsberg, Esq. \n[Defendant's \nattorney] \nEFTA00014021",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Josefsberg",
+        "role": "extracted",
+        "context": "You are not \nobligated to use Mr. Josefsberg as your \ncivil attorney,"
+      },
+      {
+        "name": "Justiee \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment ofJustiee \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department ofJustiee \nUnited States Attorney \nSouthern District of Florida"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tiee \nUnited States Attorney \nSouthern District of Florida \n[Victim name and"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "a \n[Victim name and address] \nWest Palm Beach, FL 33401 \nFacsimile:"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "CATION OF IDENTIFIED \nVICTIM \nDear Ms. [Victim]: \nBy virtue of this"
+      },
+      {
+        "name": "On June",
+        "role": "extracted",
+        "context": "ictim of a \nfederal offense. \nOn June 30, 2008, [Defendant] entered"
+      },
+      {
+        "name": "Florida Statutes",
+        "role": "extracted",
+        "context": "ea of guilty to violations of Florida Statutes \nSections \n[insert case infor"
+      },
+      {
+        "name": "Community Control",
+        "role": "extracted",
+        "context": "followed by twelve \nmonths of Community Control 1, with conditions of communi"
+      },
+      {
+        "name": "Special Master",
+        "role": "extracted",
+        "context": "following: \n1. An independent Special Master was assigned the task of sele"
+      },
+      {
+        "name": "The \nSpecial",
+        "role": "extracted",
+        "context": "the victims and [Defendant.] The \nSpecial Master selected Robert Josefs"
+      },
+      {
+        "name": "Robert Josefsberg",
+        "role": "extracted",
+        "context": "The \nSpecial Master selected Robert Josefsberg, Esq. \nof the firm Podhurst"
+      },
+      {
+        "name": "Podhurst \nOrseck",
+        "role": "extracted",
+        "context": "Josefsberg, Esq. \nof the firm Podhurst \nOrseck, \nP.A., \na highly-respected a"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "endant] pursuant to Title 18, United \nStates Code, Section \n2255, [Defenda"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "iction \nof the United \nStates District Court for the Southern District of"
+      },
+      {
+        "name": "Jane Does",
+        "role": "extracted",
+        "context": "order in the matter of In re Jane Does \nI and 2, United States Distr"
+      },
+      {
+        "name": "Florida Court",
+        "role": "extracted",
+        "context": "for the Southern District of Florida Court File No. \n08-\nEFTA00014020\n\n["
+      },
+      {
+        "name": "File No",
+        "role": "extracted",
+        "context": "ern District of Florida Court File No. \n08-\nEFTA00014020\n\n[VICTIM'S"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "S. Attorney's Office nor the \nFederal Bureau of \nInvestigation can take pa"
+      },
+      {
+        "name": "Special Agents",
+        "role": "extracted",
+        "context": "artfelt regards of myself and Special Agents for \nyour \nhealth and well-be"
+      },
+      {
+        "name": "Alexander \nAcosta",
+        "role": "extracted",
+        "context": "d well-being. \nSincerely, \nR. Alexander \nAcosta \nUnited \nStates Attorney \nBy:"
+      },
+      {
+        "name": "Attorney \nBy",
+        "role": "extracted",
+        "context": "ander \nAcosta \nUnited \nStates Attorney \nBy: \nAssistant United States \nAt"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "United \nStates Attorney \nBy: \nAssistant United States \nAttorney \ncc: Robert"
+      },
+      {
+        "name": "States \nAttorney",
+        "role": "extracted",
+        "context": "torney \nBy: \nAssistant United States \nAttorney \ncc: Robert \nJosefsberg, Esq."
+      },
+      {
+        "name": "Robert \nJosefsberg",
+        "role": "extracted",
+        "context": "United States \nAttorney \ncc: Robert \nJosefsberg, Esq. \n[Defendant's \nattorney"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.953Z"
+}

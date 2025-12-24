@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00019482",
+    "filename": "EFTA00019482.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019482.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: RE: Jane Doe 43 v. Epstein, et al., 17 Civ. 616 (JGK)(SN) \nDate: Thu, 14 Mar 2019 18:56:17 +0000 \nImportance: Normal \nAttachments: 2019-03-14, JE,_unsealing_proposed_orderias_submitted_2019-02-05).doex \nYes of course —  please see the attached, and please let me know if any additional information would be useful. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nFrom: \nSent: Thursday, March 14, 2019 14:29 \nTo: \nSubject: Jane Doe 43 v. Epstein, et al., 17 Civ. 616 (JGK)(SN) \nMr. \nJudge Netburn was wondering if you have a Word version of the Sealed Order that you can email? \nLet me know when you get the chance. \nThan \nCourtroom Deputy to the Hon. Sarah Netburn \nUnited States District Court \nSouthern District of New York \n40 Foley Square \nNew York, NY 10007 \nEFTA00019482",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Netburn",
+        "role": "extracted",
+        "context": "t al., 17 Civ. 616 (JGK)(SN) \nMr. \nJudge Netburn was wondering if you hav"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "From: ' \nTo: ' \nSubject: RE: Jane Doe 43 v. Epstein, et al., 17 Civ"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:56:17 +0000 \nImportance: Normal \nAttachments: 2019-03-14, JE,_unsealing_pr"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nFrom:"
+      },
+      {
+        "name": "Sealed Order",
+        "role": "extracted",
+        "context": "ou have a Word version of the Sealed Order that you can email? \nLet me k"
+      },
+      {
+        "name": "Than \nCourtroom",
+        "role": "extracted",
+        "context": "now when you get the chance. \nThan \nCourtroom Deputy to the Hon. Sarah Netb"
+      },
+      {
+        "name": "Sarah Netburn",
+        "role": "extracted",
+        "context": "Courtroom Deputy to the Hon. Sarah Netburn \nUnited States District Court"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "Sarah Netburn \nUnited States District Court \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "United States District Court \nSouthern District of New York \n40 Foley Square"
+      },
+      {
+        "name": "Foley Square",
+        "role": "extracted",
+        "context": "hern District of New York \n40 Foley Square \nNew York, NY 10007 \nEFTA0001"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-03-14",
+        "event": "2019-03-14"
+      },
+      {
+        "date": "2019-03-14",
+        "event": "March 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.993Z"
+}

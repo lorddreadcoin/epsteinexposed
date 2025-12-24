@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00026978",
+    "filename": "EFTA00026978.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026978.pdf",
+    "text": "\n\nFrom: ' \nTo:15jocics®sondeeracine.com\" Cjjocks@sondeeracine.com> \nCc:'\nSubject: Subpoena to Interlochen Center for the Arts \nDate: Thu, 06 Feb 2020 18:50:39 +0000 \nAttachments: 2020-02-06,subpoenajointerlochenifor_donor records).pdf \n> \nJeff, \nAs discussed, attached please find a subpoena addressed to Interlochen seeking information regarding Jeffrey Epstein and \nGhislaine Maxwell. Per our conversation, we understand that Interlochen will keep this request confidential. \nPlease let me know if you have any questions or would like to discuss further. \nBest, \nMaurene \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \n212-637-2324 \nEFTA00026978",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ssed to Interlochen seeking information regarding Jeffrey Epstein and \nGhislaine Maxwell. Per our conversation, we"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "eeking information regarding Jeffrey Epstein and \nGhislaine Maxwell. Per our conversation, we understand that Interlo"
+      },
+      {
+        "name": "Interlochen Center",
+        "role": "extracted",
+        "context": "m> \nCc:'\nSubject: Subpoena to Interlochen Center for the Arts \nDate: Thu, 06 F"
+      },
+      {
+        "name": "Arts \nDate",
+        "role": "extracted",
+        "context": "to Interlochen Center for the Arts \nDate: Thu, 06 Feb 2020 18:50:39 +0"
+      },
+      {
+        "name": "Maurene \nAssistant",
+        "role": "extracted",
+        "context": "e to discuss further. \nBest, \nMaurene \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "rene \nAssistant United States Attorney \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \n212-637-2324"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-06",
+        "event": "2020-02-06"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-637-2324"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.288Z"
+}

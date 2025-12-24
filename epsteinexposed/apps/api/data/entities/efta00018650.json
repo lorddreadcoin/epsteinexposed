@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018650",
+    "filename": "EFTA00018650.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018650.pdf",
+    "text": "\n\nFrom \nTo• \nCc \nSubject: Re: Jeffrey Epstein: About the sex trafficking case & accusations I  Miami Herald \nDate: Sat, 01 Dec 2018 00:05:54 +0000 \nImportance: Normal \nYes. As of today. On the d/I for now. \nSent from my iPhone \n> On \nNov 30, 2018, at 6:56 PM, \n> Are we open on this? Can we be? \n> https://www.miamiherald.com/news/locallarticle220097825.html \nwrote: \nEFTA00018650",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From \nTo• \nCc \nSubject: Re: Jeffrey Epstein: About the sex trafficking case & accusations I"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo• \nCc \nSubject: Re: Jeffrey Ep"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo• \nCc \nSubject: Re: Jeffrey Epstein: About t"
+      },
+      {
+        "name": "Miami Herald",
+        "role": "extracted",
+        "context": "ficking case & accusations I  Miami Herald \nDate: Sat, 01 Dec 2018 00:05"
+      },
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "8 00:05:54 +0000 \nImportance: Normal \nYes. As of today. On the d/I for"
+      },
+      {
+        "name": "On \nNov",
+        "role": "extracted",
+        "context": "now. \nSent from my iPhone \n> On \nNov 30, 2018, at 6:56 PM, \n> Are"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.386Z"
+}

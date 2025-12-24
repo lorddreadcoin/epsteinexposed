@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00023748",
+    "filename": "EFTA00023748.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023748.pdf",
+    "text": "\n\nFrom: ' \nTo: (USANYS)\"\nSubject: FW: US v. Maxwell Case No. 20-3061, [Unredacted Opening Brief & Sealed Appendix Vol. \n2] \nDate: Fri, 25 Sep 2020 00:17:10 +0000 \nAttachments: 2020.09.24_Opening_Brief (Unredacted).pdf; Appendix_Vol._2_(124-314)_SEALED.pdf; \n2020.09.24_Motionfor \nLeave_to_File_Under_Seal.pdf \nInline-Images: image001.jpg \nFrom: Nicole Simmons \nSent: Thursday, September 24, 2020 7:58 PM \nTo: 'newcases@ca2.uscourts.govi \nCc: Adam Mueller ;Ty Gee <>; \n(USANYS) <>; ) \nc>; \n(USANYS) \nSubject: US v. Maxwell Case No. 20-3061, [Unredacted Opening Brief & Sealed Appendix Vol. 2] \nTo Whom It May Concern: \nAt the request of Adam Mueller, please see attached the Unredacted version of Ms. Maxwell's Opening Brief and the \nSealed Appendix Vol. 2 in the above referenced matter. Please let me know if you have any questions or concerns. \nRegards, \nNicole \nNicole \nSimmons \nHaddon, Morgan and \nForeman, P.C. \nWWW \nhmflaw c om \nEFTA00023748",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "hed the Unredacted version of Ms. Maxwell's Opening Brief and the"
+      },
+      {
+        "name": "Maxwell Case",
+        "role": "extracted",
+        "context": "(USANYS)\"\nSubject: FW: US v. Maxwell Case No. 20-3061, [Unredacted Open"
+      },
+      {
+        "name": "Unredacted Opening",
+        "role": "extracted",
+        "context": "v. Maxwell Case No. 20-3061, [Unredacted Opening Brief & Sealed Appendix Vol."
+      },
+      {
+        "name": "Sealed Appendix",
+        "role": "extracted",
+        "context": ", [Unredacted Opening Brief & Sealed Appendix Vol. \n2] \nDate: Fri, 25 Sep 2"
+      },
+      {
+        "name": "Motionfor \nLeave",
+        "role": "extracted",
+        "context": "-314)_SEALED.pdf; \n2020.09.24_Motionfor \nLeave_to_File_Under_Seal.pdf \nInlin"
+      },
+      {
+        "name": "Nicole Simmons",
+        "role": "extracted",
+        "context": "e-Images: image001.jpg \nFrom: Nicole Simmons \nSent: Thursday, September 24"
+      },
+      {
+        "name": "Adam Mueller",
+        "role": "extracted",
+        "context": "wcases@ca2.uscourts.govi \nCc: Adam Mueller ;Ty Gee <>; \n(USANYS) <>; )"
+      },
+      {
+        "name": "Ty Gee",
+        "role": "extracted",
+        "context": "ourts.govi \nCc: Adam Mueller ;Ty Gee <>; \n(USANYS) <>; ) \nc>; \n(US"
+      },
+      {
+        "name": "To Whom",
+        "role": "extracted",
+        "context": "ef & Sealed Appendix Vol. 2] \nTo Whom It May Concern: \nAt the reque"
+      },
+      {
+        "name": "It May",
+        "role": "extracted",
+        "context": "led Appendix Vol. 2] \nTo Whom It May Concern: \nAt the request of A"
+      },
+      {
+        "name": "Opening Brief",
+        "role": "extracted",
+        "context": "cted version of Ms. Maxwell's Opening Brief and the \nSealed Appendix Vol."
+      },
+      {
+        "name": "Nicole \nNicole",
+        "role": "extracted",
+        "context": "tions or concerns. \nRegards, \nNicole \nNicole \nSimmons \nHaddon, Morgan and"
+      },
+      {
+        "name": "Simmons \nHaddon",
+        "role": "extracted",
+        "context": "s. \nRegards, \nNicole \nNicole \nSimmons \nHaddon, Morgan and \nForeman, P.C. \nW"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-24",
+        "event": "September 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.541Z"
+}

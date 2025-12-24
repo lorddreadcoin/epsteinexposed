@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00022364",
+    "filename": "EFTA00022364.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022364.pdf",
+    "text": "\n\nGhislaine Maxwell \nP.O. \nBox 308 \nTeaneck, NJ \n07666-0308 \nNovember 23, \n2016 \nScott Stackman \nand Lyle Casriel \nUBS Private \nWealth Management \n1285 Avenue of the Americas, \n38th Floor \nNew York, NY 10019 \nRE: Transfers to Angara Trust \nDear Scott and Lyle: \nPlease use this letter \nas authorization to transfer \n$14,200,000 (PSDYX \nand \ncash) from \naccount EM, titled \nGhislaine Maxwell to account \ntitled Angara Trust. \nAlso, please also \ncomplete \nthe following \ntransfers \nTransfer Entire Account Balance \n(Cash & \nSecurities): \nFROM. \ntitled Ghislaine \nMaxwell \nTO: tiled Angara Trust \nFROM: \nTO: \ntitled Ghislaine Maxwell \ntitled Angara Trust \nFROM: tilled Ghislaine Maxwell \nTO: \ntitled \nAngara Trust \nSincerely. \nGhislainc Max 'ell \nEFTA00022364",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Ghislaine Maxwell \nP.O. \nBox 308 \nTeaneck, NJ \n07666-0308 \nNovember"
+      },
+      {
+        "name": "Scott Stackman",
+        "role": "extracted",
+        "context": "666-0308 \nNovember 23, \n2016 \nScott Stackman \nand Lyle Casriel \nUBS Privat"
+      },
+      {
+        "name": "Lyle Casriel",
+        "role": "extracted",
+        "context": "3, \n2016 \nScott Stackman \nand Lyle Casriel \nUBS Private \nWealth Manageme"
+      },
+      {
+        "name": "Private \nWealth",
+        "role": "extracted",
+        "context": "ackman \nand Lyle Casriel \nUBS Private \nWealth Management \n1285 Avenue of th"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "Avenue of the Americas, \n38th Floor \nNew York, NY 10019 \nRE: Transfers"
+      },
+      {
+        "name": "Angara Trust",
+        "role": "extracted",
+        "context": "k, NY 10019 \nRE: Transfers to Angara Trust \nDear Scott and Lyle: \nPlease"
+      },
+      {
+        "name": "Dear Scott",
+        "role": "extracted",
+        "context": "E: Transfers to Angara Trust \nDear Scott and Lyle: \nPlease use this le"
+      },
+      {
+        "name": "Transfer Entire",
+        "role": "extracted",
+        "context": "te \nthe following \ntransfers \nTransfer Entire Account Balance \n(Cash & \nSec"
+      },
+      {
+        "name": "Account Balance",
+        "role": "extracted",
+        "context": "g \ntransfers \nTransfer Entire Account Balance \n(Cash & \nSecurities): \nFROM."
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "Securities): \nFROM. \ntitled Ghislaine \nMaxwell \nTO: tiled Angara Trust \nFROM"
+      },
+      {
+        "name": "Ghislainc Max",
+        "role": "extracted",
+        "context": "ed \nAngara Trust \nSincerely. \nGhislainc Max 'ell \nEFTA00022364"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Teaneck, NJ",
+        "type": "city"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2016-11-23",
+        "event": "November 23, \n2016"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.701Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00017786",
+    "filename": "EFTA00017786.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017786.pdf",
+    "text": "\n\nFrom: '\n(USANYS)\" \na> \nTo: l\"\naireS)\" \na \n' \nCc: \n(USANYS)\" \ncza \nSubject: \nWSJ \nDate: Wed, 14 Aug 2019 18:19:35 +0000 \n(USANYS)\" \nWill report that federal prosecutors and investigators are probing whether the two staffers guarding Jeffrey Epstein's unit \nthe night of his death falsified records that logged how often they were checking on him. \nIf the staffers are found to have falsified records, they could face criminal charges in the Southern District of New York. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nEFTA00017786",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ors are probing whether the two staffers guarding Jeffrey Epstein's unit \nthe night of his death falsified records"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "face criminal charges in the Southern District of New York. \nPublic Affairs"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "uthern District of New York. \nPublic Affairs \nUnited States Department of"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.587Z"
+}

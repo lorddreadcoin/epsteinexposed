@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00014087",
+    "filename": "EFTA00014087.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014087.pdf",
+    "text": "\n\nFrom: \nTo: \nBee: \nSubject: : news a \nlc e \nDate: Mon, 30 Jun 2008 21:20:56 +0000 \nI \nmportance: Normal \nYes. The detail that wasn't included is that he has to pay damages to the girls —  a minimum of $150,000 to each \nof \n31 girls. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nFrom: \nSen \nTo: \nSubje : news \nDoes this resolve your case, too? \nBillionaire pleads to Fla. prostitution charge \nTHE ASSOCIATED PRESS \nWEST PALM BEACH, Ha. -- New York billionaire Jeffrey Epstein has pleaded guilty to soliciting prostitution \nfrom underage girls in South Florida. \nCircuit Judge Deborah Dale Pucillo sentenced the 55-year-old money manager Monday to 18 months in the \nPalm Beach County jail, followed by a year of house arrest. He will also be designated a sex offender. \nEpstein was arrested two years ago. Authorities allege he paid several girls under the age of 18 $200 to $300 \neach in return for naked massages at his Palm Beach home that sometimes became sexual. \nHe also faces state and federal lawsuits filed by several women over similar allegations. \nEFTA00014087",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ESS \nWEST PALM BEACH, Ha. -- New York billionaire Jeffrey Epstein has pleaded guilty to soliciting prostitution \nfr"
+      },
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "21:20:56 +0000 \nI \nmportance: Normal \nYes. The detail that wasn't inclu"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nFrom: \nSen \nTo"
+      },
+      {
+        "name": "Sen \nTo",
+        "role": "extracted",
+        "context": "ne \nFax 561 \n820-8777 \nFrom: \nSen \nTo: \nSubje : news \nDoes this res"
+      },
+      {
+        "name": "South Florida",
+        "role": "extracted",
+        "context": "ution \nfrom underage girls in South Florida. \nCircuit Judge Deborah Dale"
+      },
+      {
+        "name": "Circuit Judge",
+        "role": "extracted",
+        "context": "rage girls in South Florida. \nCircuit Judge Deborah Dale Pucillo sentence"
+      },
+      {
+        "name": "Deborah Dale",
+        "role": "extracted",
+        "context": "South Florida. \nCircuit Judge Deborah Dale Pucillo sentenced the 55-year"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "r Monday to 18 months in the \nPalm Beach County jail, followed by a ye"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.094Z"
+}

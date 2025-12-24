@@ -1,0 +1,99 @@
+{
+  "document": {
+    "id": "efta00014041",
+    "filename": "EFTA00014041.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014041.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nBcc: ' \n(USAFLS)\" < \n(FBI)\" \n(USAFLS)\" < \nSubject: RE: Epstein Work Release \nCase File \nDate: Tue, 25 Nov 2008 20:04:36 +0000 \nImportance: Normal \nI am glad to hear that your paranoia hasn't faded. Mine hasn't either. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: (FBI) \nSent Tuesday, \nNovember 25, 2008 3:00 PM \nTo: .(USAFLS) \nSubject: Re: Epstein Work Release Case File \nI got the truck # for comcast I thought about tracking down the driver and showing him a lineup to c if Epstein was there:) \nanyways have a great Thanksgiving. Let me know if u hear from the Col. \nFrom: \n(USAFLS) \nTo: \nSent: \nThe Nov 25 14:57:47 2008 \nSubject: RE: Epstein Work Release Case File \nNope. That's okay. I  told to let me know if he hears about the planes going anywhere. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: (FBI) \nSent Tuesday, November 25, 2008 \n2:55 PM \nTo: \n. (USAFLS) \nSubject: Re: Epstein Work Release Case File \nI went by the house friday. The surburban and the escalade were in the driveway. Comcast truck was there as well. If u \nwould like I can ask to go by the house on a reg basis. \nFrom: \n(USAFLS) \nTo: \nSent: Tue Nov 25 14:50:02 2008 \nSubject: RE: Epstein Work Release Case File \nEFTA00014041\n\nJust talked to Have you heard anything from lately? I  talked to the Captain yesterday and he said \nwas planning to check out E's house. I really think if E is going to run it will be in the next few days. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: \n(FBI) \nSent: Tuesday, November 25, 2008 2:46 PM \nTo:  \n. (USAFLS) \nSubject: Re: Epstein Work Release Case File \nHey, sorry I have not heard back maybe u will have better luck. Ask if he could contact the jail's records dept and \nmaybe he would have luck that way. I am surprise we did not hear back from them when u left a# for them to contact u or I. \nI have the col's direct # if we need to I could have get it off my desk. Let me know and good luck. \nFrom: \n(USAFLS) \nTo: a erritairmlbso.o \nCc: \nr \nSent: Tue Nov 25 14:35:51 2008 \nSubject: Epstein Work Release Case File \nHi \nI know that asked to get a copy of the Epstein work release case file before she went out of town. Can I \nstop by to pick it up? I can even make the copies if everyone else has left on vacation. \nThank \nyou. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014042",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Work",
+        "role": "extracted",
+        "context": ")\" \n(USAFLS)\" < \nSubject: RE: Epstein Work Release \nCase File \nDate: Tue"
+      },
+      {
+        "name": "Release \nCase",
+        "role": "extracted",
+        "context": "< \nSubject: RE: Epstein Work Release \nCase File \nDate: Tue, 25 Nov 2008"
+      },
+      {
+        "name": "File \nDate",
+        "role": "extracted",
+        "context": "E: Epstein Work Release \nCase File \nDate: Tue, 25 Nov 2008 20:04:36 +0"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "asn't either. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom:"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: (FBI) \nSent Tuesday,"
+      },
+      {
+        "name": "Sent Tuesday",
+        "role": "extracted",
+        "context": "401 \nPhone \nFax \nFrom: (FBI) \nSent Tuesday, \nNovember 25, 2008 3:00 PM"
+      },
+      {
+        "name": "Release Case",
+        "role": "extracted",
+        "context": "S) \nSubject: Re: Epstein Work Release Case File \nI got the truck # for c"
+      },
+      {
+        "name": "The Nov",
+        "role": "extracted",
+        "context": "From: \n(USAFLS) \nTo: \nSent: \nThe Nov 25 14:57:47 2008 \nSubject: RE"
+      },
+      {
+        "name": "File \nNope",
+        "role": "extracted",
+        "context": "RE: Epstein Work Release Case File \nNope. That's okay. I  told to let"
+      },
+      {
+        "name": "Tue Nov",
+        "role": "extracted",
+        "context": "From: \n(USAFLS) \nTo: \nSent: Tue Nov 25 14:50:02 2008 \nSubject: RE"
+      },
+      {
+        "name": "File \nHey",
+        "role": "extracted",
+        "context": "Re: Epstein Work Release Case File \nHey, sorry I have not heard back"
+      },
+      {
+        "name": "File \nHi",
+        "role": "extracted",
+        "context": "ct: Epstein Work Release Case File \nHi \nI know that asked to get a c"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-11-25",
+        "event": "November 25, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.000Z"
+}

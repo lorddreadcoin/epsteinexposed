@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00011530",
+    "filename": "EFTA00011530.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011530.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" <1 \nTo: (USANYS)\" <1 \nCc: ' (USANYS)\" \nSubject: RE: Unit Update \nReports \nDate: Fri, 10 Sep 2021 18:31:10 +0000 \nAttachments: Public_Corruption_Unit_Septembet_2021.docx \nHere \nis the PC update. \nFrom \nSent: Friday, September 10, 2021 10:23 AM \nTo: \nSubject: Unit Update Reports \nLast month I sent you all a new template for monthly reports. With apologies for those who have sent in their \nreports without using that template, please kindly resubmit using the new template. The new template also \nincludes a section on specially allocated FTE. Here is the specially allocated FTE report for the last two months. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \n(0) \n(m \nEFTA00011530",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Unit Update",
+        "role": "extracted",
+        "context": "Cc: ' (USANYS)\" \nSubject: RE: Unit Update \nReports \nDate: Fri, 10 Sep 2"
+      },
+      {
+        "name": "Reports \nDate",
+        "role": "extracted",
+        "context": ")\" \nSubject: RE: Unit Update \nReports \nDate: Fri, 10 Sep 2021 18:31:10 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ocx \nHere \nis the PC update. \nFrom \nSent: Friday, September 10, 2021 1"
+      },
+      {
+        "name": "Reports \nLast",
+        "role": "extracted",
+        "context": "AM \nTo: \nSubject: Unit Update Reports \nLast month I sent you all a new te"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "t two months. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \n(0) \n(m"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-10",
+        "event": "September 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.843Z"
+}

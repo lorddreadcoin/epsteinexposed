@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029434",
+    "filename": "EFTA00029434.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029434.pdf",
+    "text": "\n\nFrom: Jeffrey Epstein < \nTo: \nJes Staley < \nSent: 9/28/2010 9:22:17 PM \nSubject: \nprince \nAndrew would like much more to represent casanov in china than tim collins \n*********************************************************** \nThe information contained in this \ncommunication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJeffrey Epstein \nUnauthorized use, disclosure or copying of this \ncommunication or ally part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please noti us \nimmediate) \nby \nreturn e-mail or by e-mail to , and \ndestroy this communication and all copies thereof, \nincluding all attachments. \nConfidential \nTreatment Requested by JPMorgan Chase JPM-SDNY-00001091 \nEFTA00029434",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: Jeffrey Epstein < \nTo: \nJes Staley < \nSent: 9/28/2010 9:22:17 PM"
+      },
+      {
+        "name": "Jes Staley",
+        "role": "extracted",
+        "context": "From: Jeffrey Epstein < \nTo: \nJes Staley < \nSent: 9/28/2010 9:22:17 PM"
+      },
+      {
+        "name": "Confidential \nTreatment",
+        "role": "extracted",
+        "context": "including all attachments. \nConfidential \nTreatment Requested by JPMorgan Chase J"
+      },
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "ial \nTreatment Requested by JPMorgan Chase JPM-SDNY-00001091 \nEFTA000294"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2010-09-28",
+        "event": "9/28/2010"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.412Z"
+}

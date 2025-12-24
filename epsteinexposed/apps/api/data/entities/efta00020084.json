@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020084",
+    "filename": "EFTA00020084.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020084.pdf",
+    "text": "\n\nFrom: ''(USANYS)\" .T\nIMIE> \nTo: (USANYS)\" \nalMIE> \nSubject: Lengthy Letter \nDate: Wed, 28 Aug 2019 22:03:33 +0000 \nAttachments: 2019.08.29_Letter_to_RMB_v2.docx \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00020084",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Lengthy Letter",
+        "role": "extracted",
+        "context": ": (USANYS)\" \nalMIE> \nSubject: Lengthy Letter \nDate: Wed, 28 Aug 2019 22:03"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": ".08.29_Letter_to_RMB_v2.docx \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "RMB_v2.docx \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000200"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.158Z"
+}

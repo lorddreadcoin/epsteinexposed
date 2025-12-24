@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00017794",
+    "filename": "EFTA00017794.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017794.pdf",
+    "text": "\n\nPursuant to 28 U.S.C. § 1746, I declare \nunder penalty of perjury that the foregoing is true \nand correct to the best of my knowledge and belief. \nExecuted this 5 day of August \n2020. \nCounsel to the Acting United States Attorney \nUnited States Attorney's Office for the \nSouthern District of New York \n1 \nEFTA00017794",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "August \n2020. \nCounsel to the Acting United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Counsel to the Acting United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 \nEFTA00017794"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.600Z"
+}

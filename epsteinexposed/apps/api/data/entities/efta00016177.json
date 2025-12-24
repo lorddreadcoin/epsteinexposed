@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00016177",
+    "filename": "EFTA00016177.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016177.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: Fri, 03 Jul 2020 14:42:10 +0000 \nFYI \nFrom: \nSent: Friday, July 3, 2020 5:24  AM \nTo: \nSubject: Fwd: Prince Andrew \nI'll robably get a complete round up of the U.K. news a  little lat k  it  more than a little weird that \nached out again right before this arrest. (I don't haw email on this system, so please forward \nto him and others.) \nHope you have a  a great 4th of July. I'll be back on EDT starting Tuesday morning. \nBest, \nUS \nDOJ Attaché - London \nFrom: \nSent: Friday, July 3, 2020 7:12:26 AM \nSubject: Prince \nAndrew \nThe Daily Mirror, Daily Telegraph, The Guardian, Daily Mail, Metro, and Daily Express all lead with articles on the \narrest of Ghislaine Maxwell and the implications of this case for Prince Andrew. i and FT have smaller stories. \nDaily Mail: \nPrince Andrew is 'bewildered' over lack of response from US justice officials as he and Royal Family brace for \nnew revelations after arrest of Jeffrey Epstein 'pimp' Maxwell \nGhislaine Maxwell, 58, arrested in US for allegedly helping to lure underage girls \nGirls were allegedly abused by paedophile Jeffrey Epstein, who died last August \nArrest will now intensify calls for Andrew to be questioned over any involvement \nAndrew has previously claimed he has offered three times to be a  witness in case \nBut US prosecutors say he has declined their request to schedule an interview \nFull story: \nhups://www.dailymail.co.uk/news/article-8483875/Prince-Andrews-six-month-standoff-FBI-deepens.html \nBest, \nEFTA00016177\n\nEFTA00016178",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Family brace for \nnew revelations after arrest of Jeffrey Epstein 'pimp' Maxwell \nGhislaine Maxwell, 58, arrested i"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Express all lead with articles on the \narrest of Ghislaine Maxwell and the implications of this case for Prince Andr"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "Friday, July 3, 2020 5:24  AM \nTo: \nSubject: Fwd: Prince Andrew \nI'll robably get a complete round up of the U.K."
+      },
+      {
+        "name": "London \nFrom",
+        "role": "extracted",
+        "context": "ng. \nBest, \nUS \nDOJ Attaché - London \nFrom: \nSent: Friday, July 3, 2020"
+      },
+      {
+        "name": "Prince \nAndrew",
+        "role": "extracted",
+        "context": "3, 2020 7:12:26 AM \nSubject: Prince \nAndrew \nThe Daily Mirror, Daily Tele"
+      },
+      {
+        "name": "The Daily",
+        "role": "extracted",
+        "context": "AM \nSubject: Prince \nAndrew \nThe Daily Mirror, Daily Telegraph, The"
+      },
+      {
+        "name": "Daily Telegraph",
+        "role": "extracted",
+        "context": "ce \nAndrew \nThe Daily Mirror, Daily Telegraph, The Guardian, Daily Mail, Me"
+      },
+      {
+        "name": "The Guardian",
+        "role": "extracted",
+        "context": "aily Mirror, Daily Telegraph, The Guardian, Daily Mail, Metro, and Daily"
+      },
+      {
+        "name": "Daily Mail",
+        "role": "extracted",
+        "context": "aily Telegraph, The Guardian, Daily Mail, Metro, and Daily Express all"
+      },
+      {
+        "name": "Daily Express",
+        "role": "extracted",
+        "context": "rdian, Daily Mail, Metro, and Daily Express all lead with articles on the"
+      },
+      {
+        "name": "Royal Family",
+        "role": "extracted",
+        "context": "S justice officials as he and Royal Family brace for \nnew revelations af"
+      },
+      {
+        "name": "Maxwell \nGhislaine",
+        "role": "extracted",
+        "context": "est of Jeffrey Epstein 'pimp' Maxwell \nGhislaine Maxwell, 58, arrested in US f"
+      },
+      {
+        "name": "August \nArrest",
+        "role": "extracted",
+        "context": "effrey Epstein, who died last August \nArrest will now intensify calls for"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Best, US",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-03",
+        "event": "July 3, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.169Z"
+}

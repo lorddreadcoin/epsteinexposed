@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00020932",
+    "filename": "EFTA00020932.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020932.pdf",
+    "text": "\n\nFrom: \nTo:' \nSubject: Re: post-arrest statements \nDate: Fri, 19 Jul 2019 19:14:58 +0000 \nInline-Images: Outlook-1510171437.png; Outlook-1510171974.jpg \nReceived, thank you. \nSent from my iPhone \nOn Jul 19, 2019, at 3:09 PM, \n> \nwrote: \nDetective \nNYPD Detective Bureau Child Exploitation/ Human Trafficking Task Force \nN.Y. FBI Squad C20 \nOffia \nDesk \nFax \nCell \n<Outlook-1510171437.png><Outlook-1510171974.jpg> \nFrom: \nI < \nSent: Friday, July 19, 2019 12:46:53 PM \nTo: \nCc: \n> \nSubject: post-arrest statements \nEFTA00020932\n\nCould you please email me your notes and report of Epstein's post-arrest statements? Thanks. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \n<Photocopy of working copy Epstein Arrest Folder.pdf> \nEFTA00020933",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ed, thank you. \nSent from my iPhone \nOn Jul 19, 2019, at 3:09 PM, \n>"
+      },
+      {
+        "name": "Detective Bureau",
+        "role": "extracted",
+        "context": ", \n> \nwrote: \nDetective \nNYPD Detective Bureau Child Exploitation/ Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "ective \nNYPD Detective Bureau Child Exploitation/ Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ve Bureau Child Exploitation/ Human Trafficking Task Force \nN.Y. FBI Squad C2"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "ploitation/ Human Trafficking Task Force \nN.Y. FBI Squad C20 \nOffia \nD"
+      },
+      {
+        "name": "Offia \nDesk",
+        "role": "extracted",
+        "context": "sk Force \nN.Y. FBI Squad C20 \nOffia \nDesk \nFax \nCell \n<Outlook-15101714"
+      },
+      {
+        "name": "Fax \nCell",
+        "role": "extracted",
+        "context": ". FBI Squad C20 \nOffia \nDesk \nFax \nCell \n<Outlook-1510171437.png><Out"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "t-arrest statements? Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ts? Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \n<Photocopy of"
+      },
+      {
+        "name": "Epstein Arrest",
+        "role": "extracted",
+        "context": "7 \n<Photocopy of working copy Epstein Arrest Folder.pdf> \nEFTA00020933"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-19",
+        "event": "July 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "1510171437",
+      "1510171974"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.646Z"
+}

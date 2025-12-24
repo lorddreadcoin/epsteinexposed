@@ -1,0 +1,32 @@
+{
+  "document": {
+    "id": "efta00023109",
+    "filename": "EFTA00023109.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023109.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Referral of MLAT Request from France \nDate: Wed, 30 Dec 2020 10:57:39 +0000 \nAttachments: 2020002015-Depi_En.pdf; 2020002015-Depi_Fr.pdf; \nReferral_LetteriSDNYUDecernber_2020).pdf \nDear \nI hope you are both doing well, and have been enjoying the end of year festivities. \nI am referring for your attention an MLAT request from the French in relation to their investigation of \n(who was recently arrested and placed under examination here in Paris). Since I have been in touch anyway with \nand about the Maxwell bail proceedings, I took the opportunity to mention that this might be \ncoming their way. \nThanks in advance, and happy new year! \nDOJ Anache/Magistrat de liaison anthicain \nU.S. Embassy, Paris \nMob \nEFTA00023109",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "France \nDate",
+        "role": "extracted",
+        "context": "Referral of MLAT Request from France \nDate: Wed, 30 Dec 2020 10:57:39 +0"
+      },
+      {
+        "name": "Paris \nMob",
+        "role": "extracted",
+        "context": "ison anthicain \nU.S. Embassy, Paris \nMob \nEFTA00023109"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "2020002015"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.276Z"
+}

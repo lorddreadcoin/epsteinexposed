@@ -1,0 +1,103 @@
+{
+  "document": {
+    "id": "efta00029221",
+    "filename": "EFTA00029221.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029221.pdf",
+    "text": "\n\nSent Mon, 14 Jan 2013 16:06:26 +0000 \nFrom: \"Amazon.com\" <ship-confirm@amazon.com> \nTo: \"jeeproject@yahoo.com\" <jeeproject@yahoo.com> \nSubject: Your Amazon.com order of 2x \"USB lightning cable for...\" has shipped! \nKindle Store \nYour Orders Amazon.com \nShipping Confirmation \nOrder #109-6782579-8474625 \nHello Jeffrey Epstein, \nThank you for shopping with us. We thought you'd like to know that LWZTech shipped your items, and that this completes your order. Your \norder is on its way, and can no longer be changed. If you need to return an item from this shipment or manage other orders, please visit Your \nOrders on Amazon.com. \nYour estimated delivery date is: \nThursday, February 7, 2013 -\nTuesday, February 26, 2013 \nYour order was sent to: \njeffrey epstein \nNEW YORK, NEW YORK 10021-4102 \nUnited States \nYour package is being shipped by ec-firstclass and the tracking number is UEE1301130KK000413. Depending on the ship speed \nyou chose, it may take 24 hours for your tracking number to return any information. \nShipment Details \n2x USB lightning cable for iphone 5 \nSold by LWZTech \nCondition: new \nReturns are easy. Visit our Online Return Center. \nIf you need further assistance with your order, please contact the seller. \nWe hope to see you again soon! \nAmazon.com \n$5.10 \nItem Subtotal: $5.10 \nShipping & Handling: $0.00 \nTotal Before Tax: $5.10 \nShipment Total: $5.10 \nPaid by Amex: $5.10 \nhttol/www.amazon.com:80/gotredirect.html/ref=pe 175190 21431760 M3T1 LM DVD/175.5776878-\nEFTA00029221\n\n0882260? encoding=UTF8&location=htto,03A%2PA2Pwamazon.com%2Fb%3Fnode%3D2625373011&token=3A0F170E7CEFE27BDC730D: \n3445128C1296B83&of rd m=ATVPDKIKXODER&pf rd s=email-center-\n1&pf rd r=0S69388CWKSVFJSGTVZO&pf rd t=4018O rd_p=1450634562&pf rd i=contentsymphonyslot \nUnless otherwise noted, items sold by Amazon.com LLC are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains \none or more items from a seller other than Amazon.com LLC. it may be subject to state and local sales tax. depending upon the sellers business policies and the location of \ntheir operations. Learn more about tax and seller information. \nThis email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message. \nEFTA00029222",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "g Confirmation \nOrder #109-6782579-8474625 \nHello Jeffrey Epstein, \nThank you for shopping with us. We thought you'"
+      },
+      {
+        "name": "Sent Mon",
+        "role": "extracted",
+        "context": "Sent Mon, 14 Jan 2013 16:06:26 +0000"
+      },
+      {
+        "name": "Your Amazon",
+        "role": "extracted",
+        "context": "eproject@yahoo.com> \nSubject: Your Amazon.com order of 2x \"USB lightnin"
+      },
+      {
+        "name": "Kindle Store",
+        "role": "extracted",
+        "context": "g cable for...\" has shipped! \nKindle Store \nYour Orders Amazon.com \nShip"
+      },
+      {
+        "name": "Your Orders",
+        "role": "extracted",
+        "context": "\" has shipped! \nKindle Store \nYour Orders Amazon.com \nShipping Confirma"
+      },
+      {
+        "name": "Shipping Confirmation",
+        "role": "extracted",
+        "context": "tore \nYour Orders Amazon.com \nShipping Confirmation \nOrder #109-6782579-8474625"
+      },
+      {
+        "name": "Hello Jeffrey",
+        "role": "extracted",
+        "context": "Order #109-6782579-8474625 \nHello Jeffrey Epstein, \nThank you for shopp"
+      },
+      {
+        "name": "Your \nOrders",
+        "role": "extracted",
+        "context": "ge other orders, please visit Your \nOrders on Amazon.com. \nYour estimate"
+      },
+      {
+        "name": "Shipment Details",
+        "role": "extracted",
+        "context": "r to return any information. \nShipment Details \n2x USB lightning cable for i"
+      },
+      {
+        "name": "Tech \nCondition",
+        "role": "extracted",
+        "context": "able for iphone 5 \nSold by LWZTech \nCondition: new \nReturns are easy. Visit"
+      },
+      {
+        "name": "Online Return",
+        "role": "extracted",
+        "context": "Returns are easy. Visit our Online Return Center. \nIf you need further"
+      },
+      {
+        "name": "Item Subtotal",
+        "role": "extracted",
+        "context": "ain soon! \nAmazon.com \n$5.10 \nItem Subtotal: $5.10 \nShipping & Handling:"
+      },
+      {
+        "name": "Total Before",
+        "role": "extracted",
+        "context": "Shipping & Handling: $0.00 \nTotal Before Tax: $5.10 \nShipment Total: $"
+      },
+      {
+        "name": "Shipment Total",
+        "role": "extracted",
+        "context": ".00 \nTotal Before Tax: $5.10 \nShipment Total: $5.10 \nPaid by Amex: $5.10"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2013-02-07",
+        "event": "February 7, 2013"
+      },
+      {
+        "date": "2013-02-26",
+        "event": "February 26, 2013"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "109-6782579",
+      "175.5776878",
+      "1450634562"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.037Z"
+}

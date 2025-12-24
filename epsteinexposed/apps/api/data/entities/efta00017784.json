@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00017784",
+    "filename": "EFTA00017784.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017784.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Taint Review \nDate: Sat, 21 Sep 2019 21:01:53 +0000 \nEmbedded: \nRE:_US_v._Epstein.msg \nThe agents on the Epstein case have asked, below, about the status of the taint review of the materials seized \nfrom his Manhattan residence, which were made available on September 10 (see attached). I know that you had \ndealt directly with Epstein's attorneys regarding search terms, etc., so we haven't had visibility on that, but could \nyou please let us know the current status, and when you expect we'll be able to get access to the materials? \nthanks very much, \n Original Messa e \nFrom: \nSent: Tuesda Se tember 17, 2019 17:17 \nTo: \nu  ject: amt eview \nHey \nguys, \nOur supervisors are requesting a status update on the taint review process on your end. I simple percentage \ncomplete is fine, they just want to know before tomorrow they have a meeting with the ADIC about the case. \nThanks \nEFTA00017784",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Taint Review",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Taint Review \nDate: Sat, 21 Sep 2019 21:01"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "terials? \nthanks very much, \n Original Messa e \nFrom: \nSent: Tuesda Se tem"
+      },
+      {
+        "name": "Tuesda Se",
+        "role": "extracted",
+        "context": "riginal Messa e \nFrom: \nSent: Tuesda Se tember 17, 2019 17:17 \nTo: \nu"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.583Z"
+}

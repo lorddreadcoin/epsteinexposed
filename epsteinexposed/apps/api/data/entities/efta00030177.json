@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030177",
+    "filename": "EFTA00030177.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030177.pdf",
+    "text": "\n\nFrom: ' SANYS)\"  \nTo:' \n)\" ctl \nSubject: Re: updates \nDate: Sat, 06 Jul 2019 15:35:51 +0000 \nImportance: Normal \nThanks \nSent from my iPhone \nOn Jul \n6, 2019, at 11:10AM, \nGood morning all—\n I>\n \nwrote: \nasked me to pass along two quick updates. First, Judge Moses signed the search warrant this morning. Second, \nour case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are Epstein and two \npilots. Of course, that is subject to change, and I'm told that FBI will try to get confirmation of the passengers after the \nflight takes off. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030177",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 15:35:51 +0000 \nImportance: Normal \nThanks \nSent from my iPhone \nOn Jul"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Normal \nThanks \nSent from my iPhone \nOn Jul \n6, 2019, at 11:10AM, \nGo"
+      },
+      {
+        "name": "Judge Moses",
+        "role": "extracted",
+        "context": "ong two quick updates. First, Judge Moses signed the search warrant thi"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "after the \nflight takes off. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "takes off. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030177"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.189Z"
+}

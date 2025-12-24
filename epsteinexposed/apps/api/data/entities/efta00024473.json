@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024473",
+    "filename": "EFTA00024473.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024473.pdf",
+    "text": "\n\nFrom: \" )\" < \nTo: '  (USAFLS)\" < \nCc: a)\" < >, \" (USANYS)\" \nSubject: RE: Question re SDFL Epstein file \nDate: Thu, 17 Dec 2020 20:14:17 +0000 \nThanks very much. \nFrom: (USAFLS) \nSent: Thursday, December 17, 2020 2:36 PM \nTo: \nCc: (USANYS) \nSubject: RE: Question re SDFL Epstein file \nI'll look \ninto it. \nFrom: \nSent: Thursday, December 17, 2020 12:47 PM \nTo: (USAFLS) \nCc: \n1<.>; \n(USANYS) < \nSubject: Question re SDFL Epstein file \nHi \nHope you're doing well. As we continue our review of materials from the prior Florida investigation into Epstein, we've \nrealized that the SDFL team assigned what appears to be a unique Jane Doe number (e.g., Jane Doe #1, Jane Doe #2) to \neach of the victims SDFL identified. We have not been able to find a key matching up each Jane Doe number with the \ncorresponding victim name. Any chance you would be able to help us track that down, please? In order to figure out \nwhether a document refers to one of our witnesses, we need to know the names that go with each Jane Doe number. \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00024473",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nHope",
+        "role": "extracted",
+        "context": "uestion re SDFL Epstein file \nHi \nHope you're doing well. As we cont"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "d what appears to be a unique Jane Doe number (e.g., Jane Doe #1, Ja"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e number. \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-17",
+        "event": "December 17, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.221Z"
+}

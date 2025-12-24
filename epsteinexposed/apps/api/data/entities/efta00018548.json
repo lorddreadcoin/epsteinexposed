@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018548",
+    "filename": "EFTA00018548.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018548.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Additional discovery requests \nDate: Mon, 02 Mar 2020 19:21:25 +0000 \nAttachments: Response_to_1-24-20 Jetter_from_the_Government.pdf \nHello \nAttached is a letter from Noel's counsel requesting additional discovery. Take a look at items 1-13. Does the FBI \nCURRENTLY have any notes, reports, or information of any sort responsive to those items? We are NOT asking you to do \nany additional investigation. Give me a call to discuss. \nThanks \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nFax \nEFTA00018548",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hello \nAttached",
+        "role": "extracted",
+        "context": "tter_from_the_Government.pdf \nHello \nAttached is a letter from Noel's couns"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": ". Give me a call to discuss. \nThanks \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "anks \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.162Z"
+}

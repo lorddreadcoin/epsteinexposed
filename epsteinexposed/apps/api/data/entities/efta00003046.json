@@ -1,0 +1,103 @@
+{
+  "document": {
+    "id": "efta00003046",
+    "filename": "EFTA00003046.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003046.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \n8-3 \nSt. \nThomas, \nVI \n00802 \nTel: \n340-775-8100 \nFax: \n340-775-8108 \nEmergency \nContact \nForm \nDate: \nOS \nis \nStart \nDate: \nEmployee \nName: \nCristobal \nHidalgo \nHerrera \nAddress: \nDate \nof \nBirth: \nPhone \nTitle \n/ \nPosition: \nMill\nikt.nergency \nInformation: \nCell: \nE\n-Mail: \nMarital \nStatus \nLicen\n,\nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication \nDoctor's \nName: \nDoctor's \nName: \nSone \n8:..xio \ntype \nunspecified \nPhone: Phone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact \n: \nRelationship \n&other \nPhone \nRelationship \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003046",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \n8-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \n8-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "775-8100 \nFax: \n340-775-8108 \nEmergency \nContact \nForm \nDate: \nOS \nis \nStart"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "775-8108 \nEmergency \nContact \nForm \nDate: \nOS \nis \nStart \nDate: \nEmplo"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "Contact \nForm \nDate: \nOS \nis \nStart \nDate: \nEmployee \nName: \nCristobal"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "Date: \nOS \nis \nStart \nDate: \nEmployee \nName: \nCristobal \nHidalgo \nHerrera"
+      },
+      {
+        "name": "Cristobal \nHidalgo",
+        "role": "extracted",
+        "context": "tart \nDate: \nEmployee \nName: \nCristobal \nHidalgo \nHerrera \nAddress: \nDate \nof"
+      },
+      {
+        "name": "Herrera \nAddress",
+        "role": "extracted",
+        "context": "e \nName: \nCristobal \nHidalgo \nHerrera \nAddress: \nDate \nof \nBirth: \nPhone \nTi"
+      },
+      {
+        "name": "Phone \nTitle",
+        "role": "extracted",
+        "context": "Address: \nDate \nof \nBirth: \nPhone \nTitle \n/ \nPosition: \nMill\nikt.nerge"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "nformation: \nCell: \nE\n-Mail: \nMarital \nStatus \nLicen\n,\nAllergies \nor \nHealt"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "tatus \nLicen\n,\nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedi"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication \nDoctor"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nConcerns: \nBlood \nType: \nCurrent \nMedication \nDoctor's \nName: \nDoctor's \nN"
+      },
+      {
+        "name": "Phone \nRelationship",
+        "role": "extracted",
+        "context": "act \n: \nRelationship \n&other \nPhone \nRelationship \nPhone \nThis \nInformation \nis"
+      },
+      {
+        "name": "Phone \nThis",
+        "role": "extracted",
+        "context": "&other \nPhone \nRelationship \nPhone \nThis \nInformation \nis \nfor \nyour"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "340-775-8100",
+      "340-775-8108"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.593Z"
+}

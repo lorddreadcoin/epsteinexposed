@@ -1,0 +1,150 @@
+{
+  "document": {
+    "id": "efta00031364",
+    "filename": "EFTA00031364.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031364.pdf",
+    "text": "\n\nExecuted: 12/10/2018 14:25 Executed b \nNew York City Police Department \n911 \nJob Number: \nOccurence Precinct: \nCreate Time: \nAddress \nStreet Number: I \nStreet Name: \n13090419545 Date: \n9/4/2013 \nPriority: \n019 Assigned Precinct: 19 \n19:21 Disposition Time: \n9/4/201319:35 \nApartment: \nCross Street: 5 AVE \nPlace: \nIntersecting Street: MADISON AVE \nNarrative \n{09/04/2013 19:21:1SA • MO 8006356840 OPT4 I MANHATTAN COS:WPH2 LAT. 040.771669 LON:. \n073.966184 OPER \n{09/04/2013 19:21:59) AIDED FEM HAVING DIFF BREATHING 60 YO CB \nDetails \nCurrent Radio Code: 54S1 - AMBULANCE CASE: SERIOUS/INSIDE Orig. Radio Code: 54S1 - AMBULANCE CASE: SERIOUS/INSIDE \nResource Count: 0 HSE Property Indicator: N \nCaller Name: FIXED ATTMO Caller Phone: \n8006356840 OPT4 \nCaller Address: \nComment: \nTransit Indicator: \nCaller City: \nN \nResources \nTime Agency Resource \nDispositions \nTime \n9/4/2013199:08 \n9/4/2013 \n19:35:15 \nAgency \nEMS \nAMBULANCE \nPATROL \nCD) \nDisposition \nCANCELEV \nCANCELEV \nResource Active \ntf\n43\n4 \nkrist4s,\nLose\nc'4._ \nPage I  of 2 \nEFTA00031364\n\nPage 2 of 2 \nEFTA00031365",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "City Police",
+        "role": "extracted",
+        "context": "18 14:25 Executed b \nNew York City Police Department \n911 \nJob Number:"
+      },
+      {
+        "name": "Job Number",
+        "role": "extracted",
+        "context": "City Police Department \n911 \nJob Number: \nOccurence Precinct: \nCreate"
+      },
+      {
+        "name": "Occurence Precinct",
+        "role": "extracted",
+        "context": "Department \n911 \nJob Number: \nOccurence Precinct: \nCreate Time: \nAddress \nStre"
+      },
+      {
+        "name": "Create Time",
+        "role": "extracted",
+        "context": "Number: \nOccurence Precinct: \nCreate Time: \nAddress \nStreet Number: I"
+      },
+      {
+        "name": "Address \nStreet",
+        "role": "extracted",
+        "context": "ence Precinct: \nCreate Time: \nAddress \nStreet Number: I \nStreet Name: \n1309"
+      },
+      {
+        "name": "Street Name",
+        "role": "extracted",
+        "context": ": \nAddress \nStreet Number: I \nStreet Name: \n13090419545 Date: \n9/4/2013"
+      },
+      {
+        "name": "Assigned Precinct",
+        "role": "extracted",
+        "context": "te: \n9/4/2013 \nPriority: \n019 Assigned Precinct: 19 \n19:21 Disposition Time:"
+      },
+      {
+        "name": "Disposition Time",
+        "role": "extracted",
+        "context": "Assigned Precinct: 19 \n19:21 Disposition Time: \n9/4/201319:35 \nApartment:"
+      },
+      {
+        "name": "Cross Street",
+        "role": "extracted",
+        "context": ": \n9/4/201319:35 \nApartment: \nCross Street: 5 AVE \nPlace: \nIntersecting"
+      },
+      {
+        "name": "Intersecting Street",
+        "role": "extracted",
+        "context": "Cross Street: 5 AVE \nPlace: \nIntersecting Street: MADISON AVE \nNarrative \n{09/"
+      },
+      {
+        "name": "Details \nCurrent",
+        "role": "extracted",
+        "context": "VING DIFF BREATHING 60 YO CB \nDetails \nCurrent Radio Code: 54S1 - AMBULANCE"
+      },
+      {
+        "name": "Radio Code",
+        "role": "extracted",
+        "context": "NG 60 YO CB \nDetails \nCurrent Radio Code: 54S1 - AMBULANCE CASE: SERIO"
+      },
+      {
+        "name": "Resource Count",
+        "role": "extracted",
+        "context": "BULANCE CASE: SERIOUS/INSIDE \nResource Count: 0 HSE Property Indicator: N"
+      },
+      {
+        "name": "Property Indicator",
+        "role": "extracted",
+        "context": "INSIDE \nResource Count: 0 HSE Property Indicator: N \nCaller Name: FIXED ATTMO"
+      },
+      {
+        "name": "Caller Name",
+        "role": "extracted",
+        "context": "0 HSE Property Indicator: N \nCaller Name: FIXED ATTMO Caller Phone: \n8"
+      },
+      {
+        "name": "Caller Phone",
+        "role": "extracted",
+        "context": ": N \nCaller Name: FIXED ATTMO Caller Phone: \n8006356840 OPT4 \nCaller Add"
+      },
+      {
+        "name": "Caller Address",
+        "role": "extracted",
+        "context": "ller Phone: \n8006356840 OPT4 \nCaller Address: \nComment: \nTransit Indicator"
+      },
+      {
+        "name": "Transit Indicator",
+        "role": "extracted",
+        "context": "4 \nCaller Address: \nComment: \nTransit Indicator: \nCaller City: \nN \nResources"
+      },
+      {
+        "name": "Caller City",
+        "role": "extracted",
+        "context": "Comment: \nTransit Indicator: \nCaller City: \nN \nResources \nTime Agency R"
+      },
+      {
+        "name": "Resources \nTime",
+        "role": "extracted",
+        "context": "Indicator: \nCaller City: \nN \nResources \nTime Agency Resource \nDispositions"
+      },
+      {
+        "name": "Agency Resource",
+        "role": "extracted",
+        "context": "ler City: \nN \nResources \nTime Agency Resource \nDispositions \nTime \n9/4/2013"
+      },
+      {
+        "name": "Dispositions \nTime",
+        "role": "extracted",
+        "context": "ources \nTime Agency Resource \nDispositions \nTime \n9/4/2013199:08 \n9/4/2013 \n19"
+      },
+      {
+        "name": "Resource Active",
+        "role": "extracted",
+        "context": "position \nCANCELEV \nCANCELEV \nResource Active \ntf\n43\n4 \nkrist4s,\nLose\nc'4._"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-10",
+        "event": "12/10/2018"
+      },
+      {
+        "date": "2013-09-04",
+        "event": "9/4/2013"
+      },
+      {
+        "date": "2013-09-04",
+        "event": "09/04/2013"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "8006356840"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.941Z"
+}

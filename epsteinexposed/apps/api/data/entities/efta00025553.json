@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00025553",
+    "filename": "EFTA00025553.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025553.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: GM photo on Bannon phone \nDate: Mon, 14 Jun 2021 18:43:45 +0000 \nThanks very much for flagging —  no need to do anything with this one, but thanks for letting me know, and do let me know \nif anything else pops up. \nFrom: \nSent: Frida June 11 2021 12:31 PM \nTo \nCc \nSubject: GM photo on Bannon phone \nI hope you're well! I'm helping out with the responsiveness review for WBTW and I've been looking through Steve \nBannon's iPhone 7 on Cellebrite. As I was going through the images from that phone, I found an image of Trump and \nGhislaine Maxwell on Bannon's phone (see screenshot from Cellebrite, attached). I discussed with Sunny and we wanted \nto flag this for you, in case it was of any importance to you, since you are on both cases. \nPlease let me know if you'd like anything further done with this. Thanks so much! \nEFTA00025553",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "s from that phone, I found an image of Trump and \nGhislaine Maxwell on Bannon's phone (see screenshot from Cellebrite"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: GM photo on"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: GM photo on Bannon phone"
+      },
+      {
+        "name": "Frida June",
+        "role": "extracted",
+        "context": "g else pops up. \nFrom: \nSent: Frida June 11 2021 12:31 PM \nTo \nCc \nSub"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "Frida June 11 2021 12:31 PM \nTo \nCc \nSubject: GM photo on Bannon"
+      },
+      {
+        "name": "Steve \nBannon",
+        "role": "extracted",
+        "context": "and I've been looking through Steve \nBannon's iPhone 7 on Cellebrite. As"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-06-11",
+        "event": "June 11 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.417Z"
+}

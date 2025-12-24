@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00015567",
+    "filename": "EFTA00015567.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015567.pdf",
+    "text": "\n\nFrom: 'a' \nTo:'\nSubject: FW: CONFIDENTIAL \nDate: Sun, 07 Jul 2019 00:37:35 +0000 \nImportance: Normal \nFrom: Martin G. Weinberg < \nSent: Saturday, July 6, 2019 8:31 PM \nTo: \nCc: 'Martin Weinberg' <> \nSubject: CONFIDENTIAL \nplease send a copy of the sealed Indictment of Mr. Epstein to this email address. I will maintain its \nconfidentiality. \nI would also request a copy of any Warrant that has or will be issued to search Mr. Epstein's residence or property and at \nthe conclusion of any such search the Inventory/s. As I stated, he has been actively legally represented by myself and a \nnumber of other attorneys so to the extent there are any seizures of documents, electronic devices, computers, phones I \nwould request again that there be no review of their contents until we can discuss meaningful ways to protect the \nprivileged communications that such documents, devices, computers, phones would contain. \nThank you. \nMarty \nMartin G. Weinberg, Esq. \n20 Park Plaza \nBoston, \nMA 02116 \n This Electronic Message contains information from the Law Office \nof Martin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the addressee \nonly. If you are not the addressee, please note that any disclosure, copying, distribution, or use of the contents \nof this message is prohibited. \nEFTA00015567",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "y of the sealed Indictment of Mr. Epstein to this email address. I"
+      },
+      {
+        "name": "Normal \nFrom",
+        "role": "extracted",
+        "context": "9 00:37:35 +0000 \nImportance: Normal \nFrom: Martin G. Weinberg < \nSent:"
+      },
+      {
+        "name": "Martin Weinberg",
+        "role": "extracted",
+        "context": "ly 6, 2019 8:31 PM \nTo: \nCc: 'Martin Weinberg' <> \nSubject: CONFIDENTIAL \np"
+      },
+      {
+        "name": "Marty \nMartin",
+        "role": "extracted",
+        "context": "s would contain. \nThank you. \nMarty \nMartin G. Weinberg, Esq. \n20 Park Pl"
+      },
+      {
+        "name": "Park Plaza",
+        "role": "extracted",
+        "context": "Martin G. Weinberg, Esq. \n20 Park Plaza \nBoston, \nMA 02116 \n This Ele"
+      },
+      {
+        "name": "This Electronic",
+        "role": "extracted",
+        "context": "rk Plaza \nBoston, \nMA 02116 \n This Electronic Message contains information"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "contains information from the Law Office \nof Martin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Plaza \nBoston, MA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "July 6, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.991Z"
+}

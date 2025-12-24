@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00010019",
+    "filename": "EFTA00010019.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010019.pdf",
+    "text": "\n\nFrom \nTo \nSubject: 20cr330, US v. Maxwell \nDate: Thu, 11 Nov 2021 02:45:04 +0000 \nAttachments: 20cr330_Order 11.10.21.pdf \nCounsel: \nJudge Nathan has granted the parties additional time on two sets of supplemental briefing. Please see the \nattached order, which will be docketed \ntomorrow morning. \nSincerely, \nChambers of the Hon. \nAlison J. Nathan \nEFTA00010019",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: 20cr330, US v. Maxw"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "To \nSubject: 20cr330, US v. Maxwell \nDate: Thu, 11 Nov 2021 02:45:04 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "Order 11.10.21.pdf \nCounsel: \nJudge Nathan has granted the parties addit"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.108Z"
+}

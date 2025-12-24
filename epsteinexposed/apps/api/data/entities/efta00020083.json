@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020083",
+    "filename": "EFTA00020083.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020083.pdf",
+    "text": "\n\nFrom: ' \nTo: \", \nCc: \" \n ) \n[Contractor]\"  \n r \n<I \nSubject: Re: proffer agreement \nDate: Thu, 29 Aug 2019 17:28:32 +0000 \nI'm happy to pick it up if you want to leave it on your chair, I \nknow you're busy. \nSent from my iPhone \nOn \nAug 29, 2019, at 1:27 PM, \n \n) [Contractor] \nc \nYep, I  will bring it \nby your office now. \nFrom: \nc> \nSent: Thursday, August 29, 2019 1:12 PM \nTo: I, ) [Contractor]\nCc: \nSubject: ME proffer agreement \nHi =—\n> wrote: \nSo sorry to bug you while you're on trial. We are flying to Florida on Tuesday morning for a proffer with \nand I think you have the original proffer agreement in your files for the Epstein investigation. Any chance \nwe could please grab that from you by tomorrow? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00020083",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "w you're busy. \nSent from my iPhone \nOn \nAug 29, 2019, at 1:27 PM,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "om you by tomorrow? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00020083"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-29",
+        "event": "August 29, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.156Z"
+}

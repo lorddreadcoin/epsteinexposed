@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028288",
+    "filename": "EFTA00028288.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028288.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Mark Epstein \nDate: Thu, 24 Oct 2019 15:12:27 +0000 \nThank you so very \nvery much \nSent from my iPhone \nOn \nOct 24, 2019, at 10:56 AM, wrote: \nWe are confirmed for a meeting at 3:00 p.m. on Monday at .  See you then. \nThanks. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00028288",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Re: Mark Epstein \nDate: Thu, 24 Oct 2019 15:12"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ery \nvery much \nSent from my iPhone \nOn \nOct 24, 2019, at 10:56 AM, w"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "at .  See you then. \nThanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "n. \nThanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00028288"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.925Z"
+}

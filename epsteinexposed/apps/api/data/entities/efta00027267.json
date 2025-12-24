@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00027267",
+    "filename": "EFTA00027267.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027267.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 198 Filed 04/08/21 Page 1 of 1 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY FILED \nDOC //: \nDATE \nFILED: \n4/8/21 \n20-CR-330 (MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Defendant's request to adjourn the arraignment on the S2 Superseding Indictment is \nGRANTED. Dkt. No. 194. The arraignment is RE-SCHEDULED to occur on April 23, 2021 at \n2:30 p.m. It will take place at the Daniel Patrick Moynihan Courthouse, 500 Pearl Street, \nCourtroom 24B, New York, NY 10007. \nIt is ORDERED that the parties ensure that all participants comply with the Southern \nDistrict of New York's COVID-19-related orders that govern entry into and behavior within \nSDNY courthouses. These materials may be found at: https://www.nysd.uscourts.govkovid-19-\ncoronavirus. \nCourt staff are working on the logistical arrangements related to public access (including \na public dial-in number), and as soon as that information is available it will be provided in a \npublic order. \nSO ORDERED. \nDated: April 8, 2021 \nNew York, New York ALISON J. NATHAN \nUnited States District Judge \nEFTA00027267",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Defendant's request to"
+      },
+      {
+        "name": "Superseding Indictment",
+        "role": "extracted",
+        "context": "urn the arraignment on the S2 Superseding Indictment is \nGRANTED. Dkt. No. 194. Th"
+      },
+      {
+        "name": "Daniel Patrick",
+        "role": "extracted",
+        "context": ".m. It will take place at the Daniel Patrick Moynihan Courthouse, 500 Pear"
+      },
+      {
+        "name": "Moynihan Courthouse",
+        "role": "extracted",
+        "context": "e place at the Daniel Patrick Moynihan Courthouse, 500 Pearl Street, \nCourtroom"
+      },
+      {
+        "name": "Pearl Street",
+        "role": "extracted",
+        "context": "rick Moynihan Courthouse, 500 Pearl Street, \nCourtroom 24B, New York, NY"
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": "participants comply with the Southern \nDistrict of New York's COVID-19-relate"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-04-23",
+        "event": "April 23, 2021"
+      },
+      {
+        "date": "2021-04-08",
+        "event": "April 8, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.885Z"
+}

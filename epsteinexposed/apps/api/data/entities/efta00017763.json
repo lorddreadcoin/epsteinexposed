@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00017763",
+    "filename": "EFTA00017763.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017763.pdf",
+    "text": "\n\nFrom: \n'\n''' \nTo:'\nSubject: Accepted: Brass Meeting re Epstein \nDate: Wed, 14 Aug 2019 16:30:17 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00017763",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brass Meeting",
+        "role": "extracted",
+        "context": "''' \nTo:'\nSubject: Accepted: Brass Meeting re Epstein \nDate: Wed, 14 Aug"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "t: Accepted: Brass Meeting re Epstein \nDate: Wed, 14 Aug 2019 16:30:17 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 16:30:17 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00017763"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.539Z"
+}

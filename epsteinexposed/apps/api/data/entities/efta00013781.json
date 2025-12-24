@@ -1,0 +1,41 @@
+{
+  "document": {
+    "id": "efta00013781",
+    "filename": "EFTA00013781.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013781.pdf",
+    "text": "\n\nFrom: \" (USAFLS)\" \nTo: \"-(USAFLS)' \nSubject: RE: Any word on Epstein? \nDate: Fri, 28 Mar 2008 18:38:04 +0000 \nImportance: Normal \nI  heard you had knee surgery. Hope everything is okay. \nI explained to that our grand jury will not have a quorum on April 8th, so if we do not indict on April 1st we \nhave to wait until the 15'h. \nAssistant U.S. Attorney \nFax 561 820-8777 \nFrom: \n(USAFLS) \nSent: Friday, March 28, 2008 10:25 AM \nTo: \n. (USAFLS) \nSubject: RE: Any word on Epstein? \nNo but I'll see what I can find out. \nFrom: \n(USAFLS) \nSent: Thursda March 27, 2008 2:20 PM \nTo: \nUSAFLS); \nCc: \n(USAFLS) \nSubject: Any word on Epstein? \n(USAFLS) \nHi all —  I am finally home from the hospital. I was wondering whether you have heard anything. \nThank you. \nAssistant U.S. Attorney \nFax 561 \n820-8777 \nEFTA00013781",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nFax",
+        "role": "extracted",
+        "context": "til the 15'h. \nAssistant U.S. Attorney \nFax 561 820-8777 \nFrom: \n(USAFLS)"
+      },
+      {
+        "name": "Thursda March",
+        "role": "extracted",
+        "context": "out. \nFrom: \n(USAFLS) \nSent: Thursda March 27, 2008 2:20 PM \nTo: \nUSAFLS"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-03-28",
+        "event": "March 28, 2008"
+      },
+      {
+        "date": "2008-03-27",
+        "event": "March 27, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.390Z"
+}

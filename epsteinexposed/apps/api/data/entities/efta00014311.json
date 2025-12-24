@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014311",
+    "filename": "EFTA00014311.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014311.pdf",
+    "text": "\n\nFrom: \"NYSReportServer@usa.doj.gov\" <NYSReportServer(Iusa.doj.gov> \nTo: , \nSubject: Child Exploitation & Porn Update Report III \nDate: \nThe, 23 Jul 2019 20:48:58 +0000 \nAttachments: Child_Exploitation_&_Pom_Update_Report_111.pdf \nAttached is the Child Exploitation & Porn Update Report III for Project Safe Childhood. \nChiefs and Project Safe Childhood Coordinator, please remind the assigned AUSA to make updates in their \ncases. Thanks! \nEFTA00014311",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "usa.doj.gov> \nTo: , \nSubject: Child Exploitation & Porn Update Report III \nDat"
+      },
+      {
+        "name": "Porn Update",
+        "role": "extracted",
+        "context": "Subject: Child Exploitation & Porn Update Report III \nDate: \nThe, 23 Ju"
+      },
+      {
+        "name": "Project Safe",
+        "role": "extracted",
+        "context": "& Porn Update Report III for Project Safe Childhood. \nChiefs and Projec"
+      },
+      {
+        "name": "Childhood Coordinator",
+        "role": "extracted",
+        "context": "ood. \nChiefs and Project Safe Childhood Coordinator, please remind the assigned A"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.604Z"
+}

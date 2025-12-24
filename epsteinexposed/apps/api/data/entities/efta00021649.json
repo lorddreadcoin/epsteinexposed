@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00021649",
+    "filename": "EFTA00021649.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021649.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Urgent - Epstein \nDate: Tue, 23 Jul 2019 21:22:59 +0000 \nAre either of you able to call my cell regarding Epstein as soon as possible, please? \nThanks, \nEFTA00021649",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: Urgent - Epstein \nDate: Tue, 23 Jul 2019 21:22:59 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.120Z"
+}

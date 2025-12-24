@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00021635",
+    "filename": "EFTA00021635.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021635.pdf",
+    "text": "\n\nFrom: ISH\nTo:\n alMIE>, \nSubject: RE: US v Epstein \nDate: Fri, 19 Jul 2019 20:50:48 +0000 \nAgree, and I can do anytime on Tuesday. \n Original Messa e \nFrom:\nSent: Friday, July 19 2019 16:45 \nTo: \nSubject: FW: US v Epstein \nI would propose we just schedule a call for Tuesday, which will give us time to sort out a  few things. \n Original Message---\nFrom: Martin Weinberg \nSent: Frida , Jul 19 2011.1” \nTo: \nCc: Martin Weinbe \nSubject: US v Epstet \nShould we talk about any case management issues? Protective Order? Discovery rollout? \nThanks \nMarty \nSent from my iPhone \nEFTA00021635",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ":\n alMIE>, \nSubject: RE: US v Epstein \nDate: Fri, 19 Jul 2019 20:50:48 +0"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "can do anytime on Tuesday. \n Original Messa e \nFrom:\nSent: Friday, July 1"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "to sort out a  few things. \n Original Message---\nFrom: Martin Weinberg \nSen"
+      },
+      {
+        "name": "Martin Weinberg",
+        "role": "extracted",
+        "context": ". \n Original Message---\nFrom: Martin Weinberg \nSent: Frida , Jul 19 2011.1”"
+      },
+      {
+        "name": "Martin Weinbe",
+        "role": "extracted",
+        "context": "da , Jul 19 2011.1” \nTo: \nCc: Martin Weinbe \nSubject: US v Epstet \nShould"
+      },
+      {
+        "name": "Epstet \nShould",
+        "role": "extracted",
+        "context": "Martin Weinbe \nSubject: US v Epstet \nShould we talk about any case manage"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "t any case management issues? Protective Order? Discovery rollout? \nThanks"
+      },
+      {
+        "name": "Thanks \nMarty",
+        "role": "extracted",
+        "context": "ve Order? Discovery rollout? \nThanks \nMarty \nSent from my iPhone \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-19",
+        "event": "July 19 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.091Z"
+}

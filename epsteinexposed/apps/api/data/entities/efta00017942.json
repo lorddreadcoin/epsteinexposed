@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017942",
+    "filename": "EFTA00017942.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017942.pdf",
+    "text": "\n\nFrom: \nCc: ' \nSubject: \"Epstein Murder Evidence\" \nDate: Mon, 19 Oct 2020 16:37:35 +0000 \nsent me a CD he received, which is called \"Epstein Murder Evidence.\" I saved the contents here: \n\\\\usa.doj.gov\\cloud\\nys\\StAndrews\\Shared\\InReEpsteinDeath-2019R01059\\CD sent by mail \nIt appears to us to be materials from a crazy person and, as such, does not need to be produced. That said, there's likely \nno harm in producing it to the defense. We are inclined to not produce it, but we wanted to run it by you first. Thoughts? \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00017942",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Murder",
+        "role": "extracted",
+        "context": "From: \nCc: ' \nSubject: \"Epstein Murder Evidence\" \nDate: Mon, 19 Oct"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ou first. Thoughts? \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s? \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.906Z"
+}

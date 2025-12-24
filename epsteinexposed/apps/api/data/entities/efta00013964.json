@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00013964",
+    "filename": "EFTA00013964.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013964.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nBcc: ' \n(USAFLS)\" \n(USAFLS)\" \n(USAFLS)\" \nSubject: FW: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 17:41:33 +0000 \nImportance: Normal \nFYI -- I  was going to respond that it relates to the performance of the Non-Prosecution Agreement. What do you think? \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message---\nFrom: Roy BLACK [mailto: \nSent: Wednesday, July 30, 2008 1:18 PM \nTo: (USAFLS) \nSubject: Re: Jeffrey Epstein \nI am out of town. What is it about? \n>>> ' (USAFLS)\" < \n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this afternoon to discuss the Epstein \nmatter? Please let me know what time works best for you. \nThank you. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013964",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "' \n(USAFLS)\" \n(USAFLS)\" \n(USAFLS)\" \nSubject: FW: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 17:41:33 +0000 \nImportanc"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "to the performance of the Non-Prosecution Agreement. What do you think? \nAssistan"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message---\nFrom"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ch, FL 33401 \nPhone \nFax \n----Original Message---\nFrom: Roy BLACK [mailto:"
+      },
+      {
+        "name": "Dear Roy",
+        "role": "extracted",
+        "context": "S)\" < \n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this after"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-30",
+        "event": "July 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.835Z"
+}

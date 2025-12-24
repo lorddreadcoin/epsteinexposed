@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00030217",
+    "filename": "EFTA00030217.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030217.pdf",
+    "text": "\n\n—\"American Express Encrypted Email \nClick to \nRead Message \n(New users may need to verify their email address) \n;1 Help \nIf you do not see or cannot click /tap the Read Secure Message button: \nDesktop \nForward your original message and its attachment to \nUsers: \nSecureMailProxy@aexp.com and check your inbox for a link to view it. \nMobile \nInstall the mobile application. \nUsers: \nPersonal \nSecurity \nImage \nYour personalized image for: \nEmail Security Zone: This personal security image will always appear on these \nencrypted emails from American Express. If you do not see this image on an email \nfrom us, please contact the sender to confirm they sent this email. \nAbout Encrypted Email Copyright 2019 American Express, Inc. All rights reserved \nYou will be able to access this email for 30 days. After this time, it may not be available. \nEFTA00030217",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "American Express",
+        "role": "extracted",
+        "context": "—\"American Express Encrypted Email \nClick to \nRe"
+      },
+      {
+        "name": "Encrypted Email",
+        "role": "extracted",
+        "context": "—\"American Express Encrypted Email \nClick to \nRead Message \n(New"
+      },
+      {
+        "name": "Read Message",
+        "role": "extracted",
+        "context": "ss Encrypted Email \nClick to \nRead Message \n(New users may need to verif"
+      },
+      {
+        "name": "Help \nIf",
+        "role": "extracted",
+        "context": "rify their email address) \n;1 Help \nIf you do not see or cannot clic"
+      },
+      {
+        "name": "Read Secure",
+        "role": "extracted",
+        "context": "see or cannot click /tap the Read Secure Message button: \nDesktop \nFor"
+      },
+      {
+        "name": "Desktop \nForward",
+        "role": "extracted",
+        "context": "Read Secure Message button: \nDesktop \nForward your original message and its"
+      },
+      {
+        "name": "Mobile \nInstall",
+        "role": "extracted",
+        "context": "inbox for a link to view it. \nMobile \nInstall the mobile application. \nUser"
+      },
+      {
+        "name": "Personal \nSecurity",
+        "role": "extracted",
+        "context": "mobile application. \nUsers: \nPersonal \nSecurity \nImage \nYour personalized ima"
+      },
+      {
+        "name": "Image \nYour",
+        "role": "extracted",
+        "context": "Users: \nPersonal \nSecurity \nImage \nYour personalized image for: \nEmai"
+      },
+      {
+        "name": "Email Security",
+        "role": "extracted",
+        "context": "Your personalized image for: \nEmail Security Zone: This personal security"
+      },
+      {
+        "name": "About Encrypted",
+        "role": "extracted",
+        "context": "onfirm they sent this email. \nAbout Encrypted Email Copyright 2019 American"
+      },
+      {
+        "name": "Email Copyright",
+        "role": "extracted",
+        "context": "this email. \nAbout Encrypted Email Copyright 2019 American Express, Inc. A"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.296Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023225",
+    "filename": "EFTA00023225.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023225.pdf",
+    "text": "\n\nFrom: SANYS)\" \nTo: (ODAG) (JMD)\"' \nSubject: \nUpdate \nDate: Tue, 03 Sep 2019 22:32:38 +0000 \nImportance: Normal \n• \nNot much to report. \nIn Epstein, interviews planned for today in Florida were postponed due to weather. \nIn MCC, two inmates across from Epstein's cell were supposed to be interviewed. One declined the interview and the \nother had nothing of interest to contribute. He slept through the night and only saw the activities in the morning after \nEpstein was found in his cell. \nFeel free to call me if you have any questions. \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00023225",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update \nDate",
+        "role": "extracted",
+        "context": "To: (ODAG) (JMD)\"' \nSubject: \nUpdate \nDate: Tue, 03 Sep 2019 22:32:38 +0"
+      },
+      {
+        "name": "In Epstein",
+        "role": "extracted",
+        "context": "rmal \n• \nNot much to report. \nIn Epstein, interviews planned for today"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ns. \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.500Z"
+}

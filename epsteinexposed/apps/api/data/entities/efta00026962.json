@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026962",
+    "filename": "EFTA00026962.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026962.pdf",
+    "text": "\n\nFrom: 'S \nTo: ' USANYS \n[Contractor (USANYS)\" \nBee: \n(USANYS) \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Letter Motion \nDate: Fri, 08 Jan 2021 22:07:13 +0000 \nEmbedded: FW:_Activity_in_Case_1:20-cr-00330-AJN_USA_v._Maxwell_Letter Motion.msg \nSender: \nSubject: FW: Activity in Case 1:20-cr-00330-AJN USA v. Maxwell Letter Motion \nMessage-Id: <846e4254018e4242ac I 52d I c6dcf0ebb®SNIPII0MB0205.NAMP110.PROD.OUTLOOK.COM> \nTo: \nTo: \nTo: \nEFTA00026962",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Letter",
+        "role": "extracted",
+        "context": "Case 1:20-cr-00330-AJN USA v. Maxwell Letter Motion \nDate: Fri, 08 Jan 202"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "330-AJN USA v. Maxwell Letter Motion \nDate: Fri, 08 Jan 2021 22:07:13 +0"
+      },
+      {
+        "name": "Letter Motion",
+        "role": "extracted",
+        "context": "0-cr-00330-AJN_USA_v._Maxwell_Letter Motion.msg \nSender: \nSubject: FW: Ac"
+      },
+      {
+        "name": "Motion \nMessage",
+        "role": "extracted",
+        "context": "330-AJN USA v. Maxwell Letter Motion \nMessage-Id: <846e4254018e4242ac I 52d"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.255Z"
+}

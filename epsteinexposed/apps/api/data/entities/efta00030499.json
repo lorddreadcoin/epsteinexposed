@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030499",
+    "filename": "EFTA00030499.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030499.pdf",
+    "text": "\n\nFrom: \" \nTo: \" \n(USANYS)\"  \nUSANYS \nSubject: RE: Here's the Thing w/Alec Baldwin \nDate: Tue, 18 Jun 2019 22:03:47 +0000 \nImportance: Normal \nEmbedded: \nRE:_Epstein_investigation,_prosecution_memo.msg \n(USANYS)\" \nThanks) \nAnd if you're curious about the million legal issues we've been diving into, attached is the prosecution memo we just sent \nto the front office folks . . . \nFrom: (USANYS) \nSent: Tuesday, June 18, 2019 17:15 \nTo: (USANYS) \nSubject: Here's the Thing w/Alec Baldwin \nhttps://www.wnycstudios.org/story/how-julie-brown-broke-open-jeffrey-epstein-story\nPublic Affairs \nU.S. Attorney's Office for the Southern District of New York \n(office) \ndirect \nEmail: \nWebsite: unww.juStiCe.gov\nFacebook: \nhttps://www.facebook.comiusansdny\nFollow \nus on Twitter: @SDNYnews \nEFTA00030499",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Alec Baldwin",
+        "role": "extracted",
+        "context": "bject: RE: Here's the Thing w/Alec Baldwin \nDate: Tue, 18 Jun 2019 22:03"
+      },
+      {
+        "name": "Normal \nEmbedded",
+        "role": "extracted",
+        "context": "9 22:03:47 +0000 \nImportance: Normal \nEmbedded: \nRE:_Epstein_investigation,_"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ke-open-jeffrey-epstein-story\nPublic Affairs \nU.S. Attorney's Office for t"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": ".S. Attorney's Office for the Southern District of New York \n(office) \ndirect"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-18",
+        "event": "June 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.993Z"
+}

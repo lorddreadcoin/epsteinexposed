@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022616",
+    "filename": "EFTA00022616.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022616.pdf",
+    "text": "\n\nPursuant to 28 U.S.C. § 1746. I  declare under penalty of \nperjury that the foregoing is true \nand correct to the best of my \nknowledge and belief. \nExecuted this 5 day of August 2020. \nCounsel to to the Acting United States Attorney \nUnited \nStates Attorney's Office for the \nSouthern District of New York \n13 \nEFTA00022616",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "gust 2020. \nCounsel to to the Acting United States Attorney \nUnited \nStat"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "unsel to to the Acting United States Attorney \nUnited \nStates Attorney's Of"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "cting United States Attorney \nUnited \nStates Attorney's Office for the \nSo"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n13 \nEFTA00022616"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.259Z"
+}

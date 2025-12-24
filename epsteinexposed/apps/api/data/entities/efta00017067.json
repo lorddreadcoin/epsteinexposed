@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00017067",
+    "filename": "EFTA00017067.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017067.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: envelope \nDate: Tue, 04 Aug 2020 01:26:30 +0000 \nGot it, thanks —  I put it in one of the hard-copy folders that the paralegals have for the case. \nFrom: \nSent: Monday, August 03, 2020 13:16 \nTo \nCc \nSubject: envelope \nFor whenever you're reviewing the paralegal file: I dropped off an envelope that can go in the para file. I didn't want to go \ninto your office, so I put it in the doorway. \nIt's the discovery drive that Epstein's attorney's returned to us (consistent with the terms of the protective order) \nfollowing his death. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00017067",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "onday, August 03, 2020 13:16 \nTo \nCc \nSubject: envelope \nFor whene"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ollowing his death. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "h. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00017067"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-08-03",
+        "event": "August 03, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.938Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021833",
+    "filename": "EFTA00021833.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021833.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Ghislaine Maxwell (USMS No. \n02879-509) (Out Of Office) \nDate: Mon, 06 Jul 2020 23:48:44 +0000 \nI will be out of the office until Tuesday, July 7, 2020, with limited access to email. \nIf this is an urgent matter, please call the institution at MM. and ask for the relevant department. \nYou may also email ith any urgent legal matters. \nThank you! \nEFTA00021833",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Re: Ghislaine Maxwell (USMS No. \n02879-509) (Out Of Office) \nDate: Mon,"
+      },
+      {
+        "name": "Out Of",
+        "role": "extracted",
+        "context": "axwell (USMS No. \n02879-509) (Out Of Office) \nDate: Mon, 06 Jul 20"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-07",
+        "event": "July 7, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.515Z"
+}

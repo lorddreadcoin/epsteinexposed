@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00013695",
+    "filename": "EFTA00013695.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013695.pdf",
+    "text": "\n\nFrom: \" (USAFLS)\" </O=USA/OU=FLS/CN=RECIPIENTS/CN= \nTo: \"Acosta, Alex (USAFLS)\" < \nSubject: FW: Epstein \nDate: Mon, 15 Oct 2007 13:43:29 +0000 \nImportance: Normal \nAttachments: 071015_Specia I_Master_Letter.wpd \nAlex. \nHere's proposed letter to Judge Davis. Let me know what you think. \nSent from my GoodLink synchronized handheld (www.good.com) \nFrom: (USAFLS) \nSent: Monde , October 15, 2007 09:38 AM Eastern Standard Time \nTo: (USAFLS) \nSubject: Epstein \nHi M— I have prepared this as a letter from you to Judge Davis. I am going to call to see if we have nailed down \nthe final number of victims so that you can include the information in the letter. You can get me on my cell phone. \nThank you! \n<<071015 Special Master Letterwpd» \nAssistant U.S. Attorney \nFax 561 820-8777 \nEFTA00013695",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "lex (USAFLS)\" < \nSubject: FW: Epstein \nDate: Mon, 15 Oct 2007 13:43:29 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 13:43:29 +0000 \nImportance: Normal \nAttachments: 071015_Specia I_Master_Lette"
+      },
+      {
+        "name": "Judge Davis",
+        "role": "extracted",
+        "context": "x. \nHere's proposed letter to Judge Davis. Let me know what you think."
+      },
+      {
+        "name": "Eastern Standard",
+        "role": "extracted",
+        "context": "e , October 15, 2007 09:38 AM Eastern Standard Time \nTo: (USAFLS) \nSubject:"
+      },
+      {
+        "name": "Time \nTo",
+        "role": "extracted",
+        "context": "007 09:38 AM Eastern Standard Time \nTo: (USAFLS) \nSubject: Epstein"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "Time \nTo: (USAFLS) \nSubject: Epstein \nHi M— I have prepared this as a"
+      },
+      {
+        "name": "Special Master",
+        "role": "extracted",
+        "context": "phone. \nThank you! \n<<071015 Special Master Letterwpd» \nAssistant U.S. At"
+      },
+      {
+        "name": "Attorney \nFax",
+        "role": "extracted",
+        "context": "er Letterwpd» \nAssistant U.S. Attorney \nFax 561 820-8777 \nEFTA00013695"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-10-15",
+        "event": "October 15, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.181Z"
+}

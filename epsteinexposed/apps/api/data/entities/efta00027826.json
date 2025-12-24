@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00027826",
+    "filename": "EFTA00027826.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027826.pdf",
+    "text": "\n\nFrom: \"etravelsen,ices cwtsatotravel.com\" <etravelservices®cwtsatotravel.com> \nTo: < \n, \nSubject: Travel Authorization 11062816 has received final approval \nDate: Wed, 19 Feb 2020 19:15:57 +0000 \nImportance: Normal \nDea \nTravel authorization 11062816 has received final approval. \nTrip ID: 11062816 \nTraveler name: \nMinor Customer \nname: OBD-USA-USANYS-NEW YORK SOUTHERN \n(UNYS) \n(JO2104) \nPurpose: R20NYS 13401 - Epstein Investigation - Witness interview \nDestination: Pensacola, FL, United States \nDates: 2020-02-19 - 2020-02-20 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# T0006 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00027826",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Authorization",
+        "role": "extracted",
+        "context": "avel.com> \nTo: < \n, \nSubject: Travel Authorization 11062816 has received final a"
+      },
+      {
+        "name": "Normal \nDea",
+        "role": "extracted",
+        "context": "0 19:15:57 +0000 \nImportance: Normal \nDea \nTravel authorization 1106281"
+      },
+      {
+        "name": "Minor Customer",
+        "role": "extracted",
+        "context": "ID: 11062816 \nTraveler name: \nMinor Customer \nname: OBD-USA-USANYS-NEW YOR"
+      },
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "104) \nPurpose: R20NYS 13401 - Epstein Investigation - Witness interview \nDestinat"
+      },
+      {
+        "name": "Authorization Approved",
+        "role": "extracted",
+        "context": "- 2020-02-20 \nCurrent status: Authorization Approved \nE2 Single Sign On Login (wit"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "s: Authorization Approved \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "tion Approved \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Pensacola, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-19",
+        "event": "2020-02-19"
+      },
+      {
+        "date": "2020-02-20",
+        "event": "2020-02-20"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.055Z"
+}

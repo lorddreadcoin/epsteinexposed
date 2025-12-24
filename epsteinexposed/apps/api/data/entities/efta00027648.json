@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00027648",
+    "filename": "EFTA00027648.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027648.pdf",
+    "text": "\n\nFrom: Christian Everdell < \nTo: \nCc: Jeff Pagliuca <IIIMMIS-, Laura Menninger < \nBOBBI C STERNHEIM < \nSubject: [EXTERNAL] FW: 20cr330, US v. Maxwell \nDate: Tue, 09 Nov 2021 18:38:47 +0000 \nAttachments: 20cr330_Order_docketed_11.8.21.pdf \nAll — \nOur understanding was that the government was going to handle victim notifications and report to the Court. Please let \nus know ASAP if that is not the case. \nThanks, \nChris \nFrom: \nSent: ues ay, ovem er , : \nTo: Jeff Pa liuca ;  Laura Menninger \nSubject: 20cr330, US v. \nMaxwell \nCounsel: \nThe attached Order was filed yesterday, which ordered a response by 12:00 p.m. today. See Dkt. No. 421. The \nCourt is not in receipt of the parties' response. \n; Christian Everdell \nSincerely, \nChambers of the Hon. \nAlison J. Nathan \nEFTA00027648",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: Christian Everdell < \nTo: \nCc: Jeff Pagliuca <II"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "hristian Everdell < \nTo: \nCc: Jeff Pagliuca <IIIMMIS-, Laura Menninger <"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "Cc: Jeff Pagliuca <IIIMMIS-, Laura Menninger < \nBOBBI C STERNHEIM < \nSubje"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "[EXTERNAL] FW: 20cr330, US v. Maxwell \nDate: Tue, 09 Nov 2021 18:38:47 +0"
+      },
+      {
+        "name": "Chris \nFrom",
+        "role": "extracted",
+        "context": "at is not the case. \nThanks, \nChris \nFrom: \nSent: ues ay, ovem er , :"
+      },
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": "ent: ues ay, ovem er , : \nTo: Jeff Pa liuca ;  Laura Menninger \nSub"
+      },
+      {
+        "name": "Maxwell \nCounsel",
+        "role": "extracted",
+        "context": "ger \nSubject: 20cr330, US v. \nMaxwell \nCounsel: \nThe attached Order was file"
+      },
+      {
+        "name": "See Dkt",
+        "role": "extracted",
+        "context": "response by 12:00 p.m. today. See Dkt. No. 421. The \nCourt is not i"
+      },
+      {
+        "name": "The \nCourt",
+        "role": "extracted",
+        "context": "p.m. today. See Dkt. No. 421. The \nCourt is not in receipt of the part"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.694Z"
+}

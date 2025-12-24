@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031987",
+    "filename": "EFTA00031987.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031987.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" \ncza. \n(OGA \nFBI \n(FBI \n. (OIG)\" \nCc: \nSubject: Sign in \nSHU \nDate: Mon, 27 Jul 2020 03:11:29 +0000 \nAttachments: Pages_from_Assoc_Ward_Part4.pdf \nH \n(USANYS)\" alEIMIN\n>\n• (NY) \nHi folks, \nI have a recollection that when we were interviewing employees at the MCC, one or more individuals told us there was a \nsign posted in the SHU that said to do your checks on Epstein. If memory serves, we never recovered the document. But \nlast week we got a production of records from the BOP as part of FOIA litigation that included the attached. Can you \nremind us (a) if there was in fact some employee who told us about this sign — I haven't looked at all the 302s and MOls, \nand (b) of anything we did to try to get this sign previously (if we did in fact make inquiries). \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nCell: \nEFTA00031987",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ct make inquiries). \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "). \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nC"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.360Z"
+}

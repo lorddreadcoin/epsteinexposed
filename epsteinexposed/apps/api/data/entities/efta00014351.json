@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014351",
+    "filename": "EFTA00014351.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014351.pdf",
+    "text": "\n\nFrom: \n\" alMliff' \nTo:' \n\" alMliff' \nSubject: sw \nDate: Wed, 07 Aug 2019 20:52:41 +0000 \nAttachments: USV1_SW.v2.docx \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00014351",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Attachments: USV1_SW.v2.docx \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "_SW.v2.docx \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.675Z"
+}

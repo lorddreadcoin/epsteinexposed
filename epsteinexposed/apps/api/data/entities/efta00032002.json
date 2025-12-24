@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00032002",
+    "filename": "EFTA00032002.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032002.pdf",
+    "text": "\n\nU.S. Department ofJustice \nUnited States Attorney \nSouthern District of New York \nThe Silvio.1. MoNo Building \nOne Saint Andrew's Plaza \nNew York New York 10007 \nJune \n10, 2021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the disc containing discovery materials pertinent to Ghislaine Maxwe0 \n(02879-509) \nby: \nVery truly yours, \nAUDREY \nSTRAUSS \nUnited States \nAttorney \nAssistant United States Attorneys \nEFTA00032002",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the disc cont"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department ofJustice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department ofJustice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio.1. Mo"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio.1. MoNo Building \nOne Saint A"
+      },
+      {
+        "name": "No Building",
+        "role": "extracted",
+        "context": "of New York \nThe Silvio.1. MoNo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Silvio.1. MoNo Building \nOne Saint Andrew's Plaza \nNew York New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York New York 10007 \nJune \n10"
+      },
+      {
+        "name": "York New",
+        "role": "extracted",
+        "context": "One Saint Andrew's Plaza \nNew York New York 10007 \nJune \n10, 2021 \nV"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "021 \nVIA FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Ghislaine Maxwe",
+        "role": "extracted",
+        "context": "covery materials pertinent to Ghislaine Maxwe0 \n(02879-509) \nby: \nVery trul"
+      },
+      {
+        "name": "Attorney \nAssistant",
+        "role": "extracted",
+        "context": "DREY \nSTRAUSS \nUnited States \nAttorney \nAssistant United States Attorneys \nEFTA"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-10",
+        "event": "June \n10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.399Z"
+}

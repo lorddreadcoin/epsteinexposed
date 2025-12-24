@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00025543",
+    "filename": "EFTA00025543.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025543.pdf",
+    "text": "\n\nFrom: \n(USANYS)\"\nTo: 'aYS)\" -1>, \"I(USANYS)\" \nCc: \"MI(USANYS) \n[Contractor] \n‹> \nSubject: MCC \nLetter \nDate: Fri, 06 Mar 2020 17:03:40 +0000 \nAttachments: Re_AP_Exclusiye_loaded_gunfound_injail_where_Epstein_killed_himselfjpeg \nJust FYSA. \nPublic \nAffairs \nUnited States Department of Justice \nU.S. Attorney's Office [ Southern District of New York \nEFTA00025543",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "ontractor] \n‹> \nSubject: MCC \nLetter \nDate: Fri, 06 Mar 2020 17:03:40 +0"
+      },
+      {
+        "name": "Public \nAffairs",
+        "role": "extracted",
+        "context": "lled_himselfjpeg \nJust FYSA. \nPublic \nAffairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office [ Southern District of New York \nEFTA00025543"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.391Z"
+}

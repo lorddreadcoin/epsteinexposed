@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028319",
+    "filename": "EFTA00028319.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028319.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\" \n'IMIIE' \nTo: a\"\nllia.YS)\" \n<a, \n\"-\nSubject: Fwd: Mark Epstein Threats (Possible Media) \nDate: Fri, 26 Jun 2020 23:41:57 +0000 \n(USANYS)\" \nPoor \nBegin forwarded message: \nFrom: ' (USANYS)\" •t:IMINE> \nDate: June 26 2020 at 5:37:22 PM EDT \nTo: \" USANYS)\" <IMIIM>, ' \nCc: ' \n(USANYS)\" \nSubject: Mark Epstein Threats (Possible Media) \nPardon the interruption: \n(USANYS)\" \nII \nA quick update on the Mark Epstein threats, in case this affects anyone. For those not previously involved with this, a \nfraudster in Iran has been tormenting Mark Epstein by email and text, pretending to be about 15 different people using \nfake email addresses and some spoofing. These personalities are variously offering to sell (Mark) Epstein money about \nhis brother's \"murder,\" extorting him for money by threatening to kill his kids, etc. The principal unifying thread is an \nattempt to get Epstein to send \"them\" $25K in bitcoin. Despite the now-obvious fact that the source is a fraud (which \nEpstein's attorney knows and has repeatedly told him), Epstein keeps emailing with him, which only eggs the guy on. \nI'm writing now just to advise you that the latest threat is to provide media outlets information that Mark Epstein was \ninvolved in his brother's sex crimes. This too is almost certainly a bluff. Nonetheless, in case the perpetrator actually \ndoes try to pass something off to the media, I wanted to give everyone a heads up where it was coming from. If you \nwant more information, let me know. \nThanks, \nEFTA00028319",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "a.YS)\" \n<a, \n\"-\nSubject: Fwd: Mark Epstein Threats (Possible Media) \nDat"
+      },
+      {
+        "name": "Possible Media",
+        "role": "extracted",
+        "context": "t: Fwd: Mark Epstein Threats (Possible Media) \nDate: Fri, 26 Jun 2020 23:4"
+      },
+      {
+        "name": "Poor \nBegin",
+        "role": "extracted",
+        "context": "20 23:41:57 +0000 \n(USANYS)\" \nPoor \nBegin forwarded message: \nFrom: ' ("
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-26",
+        "event": "June 26 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.001Z"
+}

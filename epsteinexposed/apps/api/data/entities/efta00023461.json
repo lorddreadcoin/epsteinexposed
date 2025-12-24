@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00023461",
+    "filename": "EFTA00023461.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023461.pdf",
+    "text": "\n\nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY \nFILED \nDOC 0: \nDATE FILED: 10/29/21 \n20-CR-330 (MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is in receipt of Defendant's letter regarding delivery of Defendant's legal mail \nat MDC. Dkt. No. 381. The Government is hereby ORDERED to respond by Tuesday, \nNovember 2, 2021 at 12:00 p.m. \nSO \nORDERED. \nDated: October 29, 2021 \nNew York, New York \nAL \n1 \nALISON J. NATHAN \nUnited States District Judge \nEFTA00023461",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDNY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "MN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is in receipt of"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "l mail \nat MDC. Dkt. No. 381. The Government is hereby ORDERED to respond"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-02",
+        "event": "November 2, 2021"
+      },
+      {
+        "date": "2021-10-29",
+        "event": "October 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.006Z"
+}

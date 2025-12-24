@@ -1,0 +1,129 @@
+{
+  "document": {
+    "id": "efta00025404",
+    "filename": "EFTA00025404.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025404.pdf",
+    "text": "\n\n90A-NY-3151227 Serial 34 \nFD-I087 (Rev. 5-8-I0) \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submission of CART \nDerivative \nDate: \n08/16/2019 \nEvidence NYCO27707 \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nCollected From: (U) CART-NY \nReceipt Given?: No \nHolding Office: NEW YORK \nDetails: \nSubmission of CART Derivative Evidence NYCO27707: One (1) Western Digital \n1TB hard drive, WD1DEADS-00L5B1, \nS/N WCAU45803950, containing the Clone \nCopy of 1B8 hard drive (Western Digital 500GB \nHDD, WD5000AVDS-6307B1, S/N \nWCAV92911026), \ncollected via Tableau TD3-B, S/N \n01D3407C-1222. \nRequest \nID \n112048. \nDerivative Copy. \nItem Type Description \n1B Digital \n(U) \nNYCO27707: One (1) Western Digital 1TB hard drive, \nWD10EADS-00L5B1, S/N \nWCAU45803950, containing the Clone \nCopy of 1B8 hard drive \n(Western Digital 500GB HDD, \nWD5000AVDS-6313781, S/N \nWCAV9Z911026), collected via \nTableau \nTD3-B, S/N \n01D3407C-1222. \nRequest ID \n112048. \nDerivative Copy. \nCollected On: 08/12/2019 \n07:00 PM EDT \nSeizing Individual: \nLocated By: \nDevice Type: Hard Drive \nDesignation: Derivative \nUNCLASSIFIED \nThis document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and is loaned to your agency; it and its \ncontents arc not to be distributed outside your agency. \nEFTA00025404\n\n90A-NY-3151227 Serial 34 \nUNCLASSIFIED \nTitle: (U) Submission of CART Derivative Evidence NYCO27707 \nRe: 90A-NY-3151227, 08/16/2019 \nNumber of Devices Collected: 1 \n.• \nUNCLASSIFIED \n2 \nEFTA00025405",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ed By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nCollected From: ("
+      },
+      {
+        "name": "Collected Item",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submiss"
+      },
+      {
+        "name": "Log \nEvent",
+        "role": "extracted",
+        "context": "INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submission of CART"
+      },
+      {
+        "name": "Derivative \nDate",
+        "role": "extracted",
+        "context": "itle: (U) Submission of CART \nDerivative \nDate: \n08/16/2019 \nEvidence NYCO27"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "/16/2019 \nEvidence NYCO27707 \nApproved By: \nDrafted By: \nCase ID #: 90A"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "ence NYCO27707 \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227"
+      },
+      {
+        "name": "Collected From",
+        "role": "extracted",
+        "context": "VICTIM; \nDEATH INVESTIGATION \nCollected From: (U) CART-NY \nReceipt Given?:"
+      },
+      {
+        "name": "Receipt Given",
+        "role": "extracted",
+        "context": "Collected From: (U) CART-NY \nReceipt Given?: No \nHolding Office: NEW YOR"
+      },
+      {
+        "name": "No \nHolding",
+        "role": "extracted",
+        "context": "(U) CART-NY \nReceipt Given?: No \nHolding Office: NEW YORK \nDetails: \nS"
+      },
+      {
+        "name": "Derivative Evidence",
+        "role": "extracted",
+        "context": "Details: \nSubmission of CART Derivative Evidence NYCO27707: One (1) Western Di"
+      },
+      {
+        "name": "Western Digital",
+        "role": "extracted",
+        "context": "e Evidence NYCO27707: One (1) Western Digital \n1TB hard drive, WD1DEADS-00L"
+      },
+      {
+        "name": "Clone \nCopy",
+        "role": "extracted",
+        "context": "WCAU45803950, containing the Clone \nCopy of 1B8 hard drive (Western Di"
+      },
+      {
+        "name": "Derivative Copy",
+        "role": "extracted",
+        "context": "-1222. \nRequest \nID \n112048. \nDerivative Copy. \nItem Type Description \n1B D"
+      },
+      {
+        "name": "Item Type",
+        "role": "extracted",
+        "context": "D \n112048. \nDerivative Copy. \nItem Type Description \n1B Digital \n(U)"
+      },
+      {
+        "name": "Collected On",
+        "role": "extracted",
+        "context": "D \n112048. \nDerivative Copy. \nCollected On: 08/12/2019 \n07:00 PM EDT \nSe"
+      },
+      {
+        "name": "Seizing Individual",
+        "role": "extracted",
+        "context": "On: 08/12/2019 \n07:00 PM EDT \nSeizing Individual: \nLocated By: \nDevice Type: H"
+      },
+      {
+        "name": "Located By",
+        "role": "extracted",
+        "context": "PM EDT \nSeizing Individual: \nLocated By: \nDevice Type: Hard Drive \nDe"
+      },
+      {
+        "name": "Device Type",
+        "role": "extracted",
+        "context": "ing Individual: \nLocated By: \nDevice Type: Hard Drive \nDesignation: Der"
+      },
+      {
+        "name": "Hard Drive",
+        "role": "extracted",
+        "context": "l: \nLocated By: \nDevice Type: Hard Drive \nDesignation: Derivative \nUNC"
+      },
+      {
+        "name": "Devices Collected",
+        "role": "extracted",
+        "context": "151227, 08/16/2019 \nNumber of Devices Collected: 1 \n.• \nUNCLASSIFIED \n2 \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-16",
+        "event": "08/16/2019"
+      },
+      {
+        "date": "2019-08-12",
+        "event": "08/12/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.100Z"
+}

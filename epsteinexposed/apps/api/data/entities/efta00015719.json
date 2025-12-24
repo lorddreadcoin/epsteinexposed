@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00015719",
+    "filename": "EFTA00015719.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015719.pdf",
+    "text": "\n\nFrom: \n1JSANYS)\" \nTo: ' SANYISaYS\" \nCc: \n(USANYS)\" \nSubject: Justice Department opens probe into Jeffrey Epstein plea deal \nDate: Wed, 06 Feb 2019 22:09:17 +0000 \nImportance: Normal \nSANYS[Contractor]\"\n, \nJustice Department opens probe into Jeffrey Epstein plea deal \nMiami Herald \nBy Julie K. Brown \n2/6/19 \nThe Department of Justice has opened an investigation into Secretary of Labor Alex Acosta's role in negotiating \na controversial plea deal with a wealthy New York investor accused of molesting more than 100 underage girls in \nPalm \nBeach. \nThe probe is in response to a request by Sen. Ben Sasse, a a Nebraska Republican and member of the Senate \nJudiciary Committee, who raised questions about the case following a series of stories in the Miami Herald. The \nHerald articles detailed how Acosta, then the U.S. attorney for the Southern District of Florida, and other DOJ \nattorneys worked hand-in-hand with defense attorneys to cut a lenient plea deal with multimillionaire Jeffrey \nEpstein in 2008. \nThe Herald's three-part series, Perversion of Justice,' was cited by Assistant Attorney General Stephen E. Boyd \nin his letter to Sasse. DOJ's Office of Professional Responsibility will head the investigation, he said. \n\"OPR has now opened an investigation into allegations that Department attorneys may have committed \nprofessional misconduct in the manner in which the Epstein criminal matter was resolved,\" wrote Boyd in the \nletter dated Wednesday. \nEFTA00015719",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "S)\" \nSubject: Justice Department opens probe into Jeffrey Epstein plea deal \nDate: Wed, 06 Feb 2019 22:09:17 +0000"
+      },
+      {
+        "name": "Justice Department",
+        "role": "extracted",
+        "context": "YS\" \nCc: \n(USANYS)\" \nSubject: Justice Department opens probe into Jeffrey Epst"
+      },
+      {
+        "name": "Miami Herald",
+        "role": "extracted",
+        "context": "to Jeffrey Epstein plea deal \nMiami Herald \nBy Julie K. Brown \n2/6/19 \nT"
+      },
+      {
+        "name": "By Julie",
+        "role": "extracted",
+        "context": "tein plea deal \nMiami Herald \nBy Julie K. Brown \n2/6/19 \nThe Departm"
+      },
+      {
+        "name": "The Department",
+        "role": "extracted",
+        "context": "d \nBy Julie K. Brown \n2/6/19 \nThe Department of Justice has opened an inve"
+      },
+      {
+        "name": "Labor Alex",
+        "role": "extracted",
+        "context": "vestigation into Secretary of Labor Alex Acosta's role in negotiating"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "e than 100 underage girls in \nPalm \nBeach. \nThe probe is in response to"
+      },
+      {
+        "name": "Ben Sasse",
+        "role": "extracted",
+        "context": "response to a request by Sen. Ben Sasse, a a Nebraska Republican and"
+      },
+      {
+        "name": "Nebraska Republican",
+        "role": "extracted",
+        "context": "equest by Sen. Ben Sasse, a a Nebraska Republican and member of the Senate \nJud"
+      },
+      {
+        "name": "Senate \nJudiciary",
+        "role": "extracted",
+        "context": "Republican and member of the Senate \nJudiciary Committee, who raised questio"
+      },
+      {
+        "name": "The \nHerald",
+        "role": "extracted",
+        "context": "stories in the Miami Herald. The \nHerald articles detailed how Acosta,"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "hen the U.S. attorney for the Southern District of Florida, and other DOJ \nat"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "ea deal with multimillionaire Jeffrey \nEpstein in 2008. \nThe Herald's three-"
+      },
+      {
+        "name": "The Herald",
+        "role": "extracted",
+        "context": "re Jeffrey \nEpstein in 2008. \nThe Herald's three-part series, Perversi"
+      },
+      {
+        "name": "Assistant Attorney",
+        "role": "extracted",
+        "context": "ion of Justice,' was cited by Assistant Attorney General Stephen E. Boyd \nin h"
+      },
+      {
+        "name": "General Stephen",
+        "role": "extracted",
+        "context": "s cited by Assistant Attorney General Stephen E. Boyd \nin his letter to Sas"
+      },
+      {
+        "name": "Professional Responsibility",
+        "role": "extracted",
+        "context": "ter to Sasse. DOJ's Office of Professional Responsibility will head the investigation,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.296Z"
+}

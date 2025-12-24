@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027373",
+    "filename": "EFTA00027373.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027373.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: \nDate: Mon, 05 Apr 2021 16:09:06 +0000 \nAttachments:aTranscript_(06-10-16).pdf \nEmbedded: Re:_SDNY _inyestigation.msg; Epstein_-\nHiMg\nCould you please create a potential testifying witness folder for \nThanks \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nand include the attached items? \nEFTA00027373",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mg\nCould",
+        "role": "extracted",
+        "context": "nyestigation.msg; Epstein_-\nHiMg\nCould you please create a potential"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "estifying witness folder for \nThanks \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "anks \nAssistant United States Attorney \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.108Z"
+}

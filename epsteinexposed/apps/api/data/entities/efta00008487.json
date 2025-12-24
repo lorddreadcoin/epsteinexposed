@@ -1,0 +1,135 @@
+{
+  "document": {
+    "id": "efta00008487",
+    "filename": "EFTA00008487.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 5\\VOL00005\\IMAGES\\0001\\EFTA00008487.pdf",
+    "text": "\n\nOras\n.\n4t \nEvidence \nEnvelope \nEnclosure: \nel \nOriginal \n0 \nDuplicate \n0 \nEnhanced \nOriginal \nMedium: \n0 \nMagnetic \nTape \n0 \nComputer \nDisk \n0 \nPrinted \nMaterial \nCase \nFilers \n1X\n-\nMS1\n-   \ntnIa\n-\n7 \n \nIDA \n \nit \n4 \nCast \nAgt. \nTape/Disk*: \nAgt. \nSupervising \nTitle \nIII \nIntercepts: \n \nO \nCourt \nAuthorized \nIntercept \nSource/SymboIN: \n \n• \nConsensual \nMonitoring \nIntercept- \nCMN \n(if \nassigned): \n \nCrtii \n,64P \npiSe \nTelephonic \n(TCM) \n0 \nNontelephonic \n(NTCM) \nIf \nNTCM \nSpecify \nDevice \nUsed: \n \nq \nRecording \nof \nan \nInterview \nq \nVolunteered/Subpoenaed \nMedium \n- \nNot \nFBI \nELSUR \nO \nOther \nType \nof \nRecordin \nInterception, \nSpecify: \n \nIntercept \nDate: \nPlace: \nData \nTransferred \nfor \nPermanent \nStorage \nDate; \n• \nConsensual: \nList \nInterceptees \nBelow \nOM \nre \nA \nhm \nibeA( \nA\nz\n  \nFL \n1110 \n3 \n/0 \n9 \n   \nTime: \n(P. \n5 \nipm \n0 \nCourt \nAuthorized: \nEnter\" \nSee \nLog\" \nBelow \nSignatu \nDate: \nit \nented \nCustody \n',pleated\nSignature: \nrustodv \njul \n10\\ \nTime: \nDate: \n)4../#1\n. \n \nReason: \nLvrr \njit4Gf4 \nReason: \n/C \n03 \nAO \n-1-\n1\n•\n1\nSignature \nDate: \nReason: \nNOLLVOI1S3ANI \n30 \nSignature: \nDate: \nReason: \n1.1 \n01.1t\n,\nI'll \nHI \nMIMI° \nE02782876 \nEFTA00008487",
+    "pageCount": 1,
+    "dataset": "Dataset 5"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Evidence \nEnvelope",
+        "role": "extracted",
+        "context": "Oras\n.\n4t \nEvidence \nEnvelope \nEnclosure: \nel \nOriginal \n0"
+      },
+      {
+        "name": "Enhanced \nOriginal",
+        "role": "extracted",
+        "context": "l \nOriginal \n0 \nDuplicate \n0 \nEnhanced \nOriginal \nMedium: \n0 \nMagnetic \nTape"
+      },
+      {
+        "name": "Magnetic \nTape",
+        "role": "extracted",
+        "context": "hanced \nOriginal \nMedium: \n0 \nMagnetic \nTape \n0 \nComputer \nDisk \n0 \nPrinte"
+      },
+      {
+        "name": "Computer \nDisk",
+        "role": "extracted",
+        "context": "edium: \n0 \nMagnetic \nTape \n0 \nComputer \nDisk \n0 \nPrinted \nMaterial \nCase"
+      },
+      {
+        "name": "Printed \nMaterial",
+        "role": "extracted",
+        "context": "Tape \n0 \nComputer \nDisk \n0 \nPrinted \nMaterial \nCase \nFilers \n1X\n-\nMS1\n-"
+      },
+      {
+        "name": "Case \nFilers",
+        "role": "extracted",
+        "context": "Disk \n0 \nPrinted \nMaterial \nCase \nFilers \n1X\n-\nMS1\n-   \ntnIa\n-\n7 \n \nID"
+      },
+      {
+        "name": "Cast \nAgt",
+        "role": "extracted",
+        "context": "tnIa\n-\n7 \n \nIDA \n \nit \n4 \nCast \nAgt. \nTape/Disk*: \nAgt. \nSupervis"
+      },
+      {
+        "name": "Supervising \nTitle \nIII",
+        "role": "extracted",
+        "context": "ast \nAgt. \nTape/Disk*: \nAgt. \nSupervising \nTitle \nIII \nIntercepts: \n \nO \nCourt \nAut"
+      },
+      {
+        "name": "Court \nAuthorized",
+        "role": "extracted",
+        "context": "Title \nIII \nIntercepts: \n \nO \nCourt \nAuthorized \nIntercept \nSource/SymboIN:"
+      },
+      {
+        "name": "Intercept \nSource",
+        "role": "extracted",
+        "context": "pts: \n \nO \nCourt \nAuthorized \nIntercept \nSource/SymboIN: \n \n• \nConsensual \nMo"
+      },
+      {
+        "name": "Consensual \nMonitoring",
+        "role": "extracted",
+        "context": "ercept \nSource/SymboIN: \n \n• \nConsensual \nMonitoring \nIntercept- \nCMN \n(if \nassign"
+      },
+      {
+        "name": "Se \nTelephonic",
+        "role": "extracted",
+        "context": "assigned): \n \nCrtii \n,64P \npiSe \nTelephonic \n(TCM) \n0 \nNontelephonic \n(NT"
+      },
+      {
+        "name": "Specify \nDevice",
+        "role": "extracted",
+        "context": "telephonic \n(NTCM) \nIf \nNTCM \nSpecify \nDevice \nUsed: \n \nq \nRecording \nof \na"
+      },
+      {
+        "name": "Subpoenaed \nMedium",
+        "role": "extracted",
+        "context": "an \nInterview \nq \nVolunteered/Subpoenaed \nMedium \n- \nNot \nFBI \nELSUR \nO \nOther"
+      },
+      {
+        "name": "Other \nType",
+        "role": "extracted",
+        "context": "edium \n- \nNot \nFBI \nELSUR \nO \nOther \nType \nof \nRecordin \nInterception,"
+      },
+      {
+        "name": "Recordin \nInterception",
+        "role": "extracted",
+        "context": "I \nELSUR \nO \nOther \nType \nof \nRecordin \nInterception, \nSpecify: \n \nIntercept \nDate"
+      },
+      {
+        "name": "Intercept \nDate",
+        "role": "extracted",
+        "context": "n \nInterception, \nSpecify: \n \nIntercept \nDate: \nPlace: \nData \nTransferred"
+      },
+      {
+        "name": "Data \nTransferred",
+        "role": "extracted",
+        "context": "Intercept \nDate: \nPlace: \nData \nTransferred \nfor \nPermanent \nStorage \nDat"
+      },
+      {
+        "name": "Permanent \nStorage",
+        "role": "extracted",
+        "context": "ace: \nData \nTransferred \nfor \nPermanent \nStorage \nDate; \n• \nConsensual: \nList"
+      },
+      {
+        "name": "List \nInterceptees",
+        "role": "extracted",
+        "context": "orage \nDate; \n• \nConsensual: \nList \nInterceptees \nBelow \nOM \nre \nA \nhm \nibeA("
+      },
+      {
+        "name": "See \nLog",
+        "role": "extracted",
+        "context": "Court \nAuthorized: \nEnter\" \nSee \nLog\" \nBelow \nSignatu \nDate: \nit"
+      },
+      {
+        "name": "Below \nSignatu",
+        "role": "extracted",
+        "context": "thorized: \nEnter\" \nSee \nLog\" \nBelow \nSignatu \nDate: \nit \nented \nCustody \n'"
+      },
+      {
+        "name": "Signature \nDate",
+        "role": "extracted",
+        "context": "eason: \n/C \n03 \nAO \n-1-\n1\n•\n1\nSignature \nDate: \nReason: \nNOLLVOI1S3ANI \n30"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:38.666Z"
+}

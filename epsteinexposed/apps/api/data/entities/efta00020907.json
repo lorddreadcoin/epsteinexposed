@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020907",
+    "filename": "EFTA00020907.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020907.pdf",
+    "text": "\n\nFrom: \n\"-\nTo: \n\"-\nCc: \n\"-\nSubject: Re: Epstein catch up \nDate: \nSun, 17 Nov 2019 17:25:41 +0000 \nr   \nI'm in White Plains all day Wednesday. Monday 5:30 would work for me. \nOn \nNov 17, 2019, at 11:47 AM, \nWednesday morning okay for you both? \nSent from my iPhone \nBegin forwarded message: \nFrom: \" (USANYS)\" \nc \nDate: November 16 2019 at 21:18:48 EST \nTo:' \nCc: (USANYS)\" \nSubject: Epstein catch up \n> wrote: \nCan we find a time in the near future to catch a few things, including hearing more about your \ninterview last week? Unfortunately both and I have to be out portions of Monday/Tuesday. Would \nMonday at 530 work for you guys? If not, can we aim for Wednesday morning. Thanks \nSent from my iPhone \nEFTA00020907",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "9 17:25:41 +0000 \nr   \nI'm in White Plains all day Wednesday. Monday 5:3"
+      },
+      {
+        "name": "On \nNov",
+        "role": "extracted",
+        "context": "nday 5:30 would work for me. \nOn \nNov 17, 2019, at 11:47 AM, \nWedne"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "for you both? \nSent from my iPhone \nBegin forwarded message: \nFrom: \" ("
+      },
+      {
+        "name": "Would \nMonday",
+        "role": "extracted",
+        "context": "t portions of Monday/Tuesday. Would \nMonday at 530 work for you guys? If"
+      },
+      {
+        "name": "Thanks \nSent",
+        "role": "extracted",
+        "context": "we aim for Wednesday morning. Thanks \nSent from my iPhone \nEFTA00020907"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-16",
+        "event": "November 16 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.593Z"
+}

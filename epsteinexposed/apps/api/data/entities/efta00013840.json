@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013840",
+    "filename": "EFTA00013840.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013840.pdf",
+    "text": "\n\nFrom: \n(USAFLS)\" \nalMIN> \nSubject: Read: Petition for Enforcement of Crime Victim's Rights Act.pdf re Epstein \nDate: Mon, 07 Jul 2008 19:39:16 +0000 \nImportance: High \nPriority: Urgent \nEFTA00013840",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Crime Victim",
+        "role": "extracted",
+        "context": ": Petition for Enforcement of Crime Victim's Rights Act.pdf re Epstein"
+      },
+      {
+        "name": "Rights Act",
+        "role": "extracted",
+        "context": "Enforcement of Crime Victim's Rights Act.pdf re Epstein \nDate: Mon, 07"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "me Victim's Rights Act.pdf re Epstein \nDate: Mon, 07 Jul 2008 19:39:16 +0"
+      },
+      {
+        "name": "High \nPriority",
+        "role": "extracted",
+        "context": "8 19:39:16 +0000 \nImportance: High \nPriority: Urgent \nEFTA00013840"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.556Z"
+}

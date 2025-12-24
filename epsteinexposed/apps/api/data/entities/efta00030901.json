@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00030901",
+    "filename": "EFTA00030901.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030901.pdf",
+    "text": "\n\nFrom:  \nTo:  \nCc: 'in> \nSubject: RE: Voicemails from Civilian in Australia, possibly about Epstein \nDate: Mon, 10 Aug 2020 15:42:28 +0000 \nReceived, thanks. \nFrom: \nSent: Monday, August 10, 2020 10:01 \nTo: \n> \nSubject: FW: Voicemails from Civilian in Australia, possibly about Epstein \n>; \nFYI, these voicemails came into direct line. They are from someone named \nin Australia. She knows to call by name. She is talking about \ncrimes committed against her. She claims to be a prisoner. She references Lisa Marie \nPresley, the British Royal Family, President Trump, and Jeffrey Epstein. We are passing \nthese along to you for review and follow up if appropriate or nothing if not. We will be \nblocking the number from calling again and otherwise doing nothing further on our end \nbecause the caller is from a foreign country and because of international comity, we \ncan't respond. Let me know if you have any questions. \nFrom: \nSent: Sunday, August 9, 2020 7:44 PM \nTo: \nSubject: Voicemails \n> \nThe attached are 3 voicemails that received this morning at 9:22, 9:26, and 9:54 respectively. \nThey are from someone named in Australia. She knows to call by name. She is talking about crimes \ncommitted against her. She claims to be a prisoner. She references Lisa Marie Presley, the British Royal Family, President \nTrump, and Jeffrey Epstein. \nLet me know what other actions I should take. \nThank you! \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00030901",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "y, the British Royal Family, President Trump, and Jeffrey Epstein. We are passing \nthese along to you for review an"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "in Australia, possibly about Epstein \nDate: Mon, 10 Aug 2020 15:42:28 +0"
+      },
+      {
+        "name": "Lisa Marie",
+        "role": "extracted",
+        "context": "be a prisoner. She references Lisa Marie \nPresley, the British Royal F"
+      },
+      {
+        "name": "British Royal",
+        "role": "extracted",
+        "context": "nces Lisa Marie \nPresley, the British Royal Family, President Trump, and"
+      },
+      {
+        "name": "President Trump",
+        "role": "extracted",
+        "context": "ey, the British Royal Family, President Trump, and Jeffrey Epstein. We are"
+      },
+      {
+        "name": "President \nTrump",
+        "role": "extracted",
+        "context": "ey, the British Royal Family, President \nTrump, and Jeffrey Epstein. \nLet me"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "s I should take. \nThank you! \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00030901"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-10",
+        "event": "August 10, 2020"
+      },
+      {
+        "date": "2020-08-09",
+        "event": "August 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.968Z"
+}

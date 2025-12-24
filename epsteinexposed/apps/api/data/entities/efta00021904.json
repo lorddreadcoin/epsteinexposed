@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021904",
+    "filename": "EFTA00021904.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021904.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: \nAttachments: \nKey \ndoes \nFri, 14 Aug 2020 20:56:58 +0000 \n2019-06-17, JE,_prosecution_memo.docx; 2019.12.19_memo_re_co-\nconeanvestigation.pdf; 2020-04-10_GM_prosecution_memo..pdf; 2020-05- \n22, and_petjsturnent.docx; 2020-04- \n16,_prosecution_memo \ndocx; Palm Beach_Police_Reports.pdf \nThese should get you started. I've attached: \n• The original Epstein pros memo \n• A December 2019 update memo on the status of our co-conspirator investigation \n• The Maxwell pros memo \n• A supplement to the Maxwell pros memo evaluating perjury counts \n• The pros memo \n• The original Palm Beach Police Department reports from the very first investigation into Epstein (to give you a \nsense of how this all started) \nEFTA00021904",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "16,_prosecution_memo \ndocx; Palm Beach_Police_Reports.pdf \nThese sho"
+      },
+      {
+        "name": "The Maxwell",
+        "role": "extracted",
+        "context": "-conspirator investigation \n• The Maxwell pros memo \n• A supplement to"
+      },
+      {
+        "name": "Police Department",
+        "role": "extracted",
+        "context": "mo \n• The original Palm Beach Police Department reports from the very first i"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-06-17",
+        "event": "2019-06-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.659Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013557",
+    "filename": "EFTA00013557.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013557.pdf",
+    "text": "\n\nFrom \nTo: \"Acosta, Alex (USAFLS)\" <AAcosta@usa.doj.gov>, \nSubject: Letter received from Epstein's counsel \nDate: Tue, 08 Jul 2008 20:57:56 +0000 \nImportance: Normal \nHi all —  I received one line from Jack Goldberger, which reads: \"I am out of the office today. I will response [sic] to your \nfax of July 8, 2008 by return of fax tomorrow.\" \nEFTA00013557",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \"Acosta, Alex (USAFLS)\" <AAc"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 20:57:56 +0000 \nImportance: Normal \nHi all —  I received one line fr"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "l —  I received one line from Jack Goldberger, which reads: \"I am out of th"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-07-08",
+        "event": "July 8, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.864Z"
+}

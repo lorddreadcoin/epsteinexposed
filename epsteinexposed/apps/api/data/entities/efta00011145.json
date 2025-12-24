@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011145",
+    "filename": "EFTA00011145.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011145.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" < \nTo: (USANYS)\" \nSubject: FW: Press Conference at \nEpstein's \nDate: Mon, 27 Jan 2020 21:14:27 +0000 \nFrom FBI \nTeam unhappy also getting calls. I guess Geoff did mention the location to some people but need to figure out how to \nkeep everyone in loop for anything like this going forward. \nFrom: \nSent: Monday, January 27, 2020 4:11 PM \nTo: \nCc: \nSubject: Fwd: Press Conference at Epstein's \n(USANYS) \n(USANYS) \nPlease see the below email from \n. Could \nsomebody above the line level connect with to \ndiscuss? We \nalso do not know what the office would like us to convey to the victims. Thanks. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \nDate: Janua 27 2020 at 3:27:49 PM EST \nTo: \" \n(NY) (FBI)\" < \nCc: ' (FBI)\" \nSubject: Press Conference at Epstein's \nAll, \nI have been getting some questions about the press conference that occurred today at Epstein's mansion, do any \nof you know that was about? Our media affairs department has been getting questions. In addition, our Victim \nSpecialists have been fielding calls from irate victims who weren't notified. \nhttps://twittercom/AaronKatersky/status/1221833096686903299/photon \nthanks, \nSSA-\nSquad C-20 \nCrimes Against Children/Human Trafficking \nFBI New York \noffice \nmobile \nEFTA00011145",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Press Conference",
+        "role": "extracted",
+        "context": "To: (USANYS)\" \nSubject: FW: Press Conference at \nEpstein's \nDate: Mon, 27"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "ctims. Thanks. \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Victim \nSpecialists",
+        "role": "extracted",
+        "context": "g questions. In addition, our Victim \nSpecialists have been fielding calls from"
+      },
+      {
+        "name": "Crimes Against",
+        "role": "extracted",
+        "context": "on \nthanks, \nSSA-\nSquad C-20 \nCrimes Against Children/Human Trafficking \nF"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "C-20 \nCrimes Against Children/Human Trafficking \nFBI New York \noffice \nmobile"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-27",
+        "event": "January 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.185Z"
+}

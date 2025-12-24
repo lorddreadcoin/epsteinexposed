@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014535",
+    "filename": "EFTA00014535.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014535.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Martin G. Weinber \n, \"'Miller, Michael\" \nSubject: RE: US v Epstein \nDate: Fri, 26 Jul 2019 22:23:57 +0000 \n>, \nReceived, thanks. \nFrom: Martin G. Weinberg <> \nSent: Friday, July 26, 2019 15:36 \nTo: \nCc: \nSubject: US v Epstein \n; Reid Weingarten ; 'Miller, Michael' \nM, a more formal preservation/production request for NPA-related materials that have been the subject of our email \nexchange up to now. If there are questions, let me know. \nThanks \nMarty \nMartin G. Weinberg, Esq. \nThis Electronic Message contains information from the Law Office \nof Martin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the addressee \nonly. If you are not the addressee, please note that any disclosure, copying, distribution, or use of the contents \nof this message is prohibited. \nEFTA00014535",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ", Michael\" \nSubject: RE: US v Epstein \nDate: Fri, 26 Jul 2019 22:23:57 +0"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "Cc: \nSubject: US v Epstein \n; Reid Weingarten ; 'Miller, Michael' \nM, a mor"
+      },
+      {
+        "name": "Thanks \nMarty",
+        "role": "extracted",
+        "context": "are questions, let me know. \nThanks \nMarty \nMartin G. Weinberg, Esq. \nTh"
+      },
+      {
+        "name": "This Electronic",
+        "role": "extracted",
+        "context": "ty \nMartin G. Weinberg, Esq. \nThis Electronic Message contains information"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "contains information from the Law Office \nof Martin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-26",
+        "event": "July 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.043Z"
+}

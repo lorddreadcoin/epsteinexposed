@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00027731",
+    "filename": "EFTA00027731.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027731.pdf",
+    "text": "\n\nFrom: \nTo: Jason Foy -4 \nCc: \n(USANYS)\"  \n(USANYS (USANYS) [Contractor]\" \nSubject: RE: U.S. v. Noel, No. 19 Cr. 830 - Discovery Production \nDate: Tue, 31 Dec 2019 17:30:35 +0000 \nAttachments: SDNY_00008123_(AEO).pdf; 2019.12.3I_Noel_Discovety_LetternProduction_l.pdf \nHi Jason, \nApologies, please use the attached version of SDNY_00008123 and destroy the version that I previously sent you. Thanks \nand happy New Years. \nBest, \nME \nFrom: (USANYS) \nSent: Tuesday, December 31, 2019 12:23 PM \nTo: 'Jason Foy' 4\nCc: (USANYS) \n(USANYS) [Contractor] < \nSubject: U.S. v. Noel, No. 19 Cr. 830 - Discovery Production \nCounsel: \n(USANYS)\nPlease find attached a letter regarding the Government's discovery production in this case. We are sending a hard drive \ncontaining the discovery materials to you. The password on the drive is Additionally, please find \nattached one additional page of discovery, which has been marked attorney's eyes only. Please contact us with any \nquestions. Thank you. \nRegards, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00027731",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jason Foy",
+        "role": "extracted",
+        "context": "From: \nTo: Jason Foy -4 \nCc: \n(USANYS)\"  \n(USANYS"
+      },
+      {
+        "name": "Discovery Production",
+        "role": "extracted",
+        "context": ".S. v. Noel, No. 19 Cr. 830 - Discovery Production \nDate: Tue, 31 Dec 2019 17:30"
+      },
+      {
+        "name": "Hi Jason",
+        "role": "extracted",
+        "context": "vety_LetternProduction_l.pdf \nHi Jason, \nApologies, please use the a"
+      },
+      {
+        "name": "New Years",
+        "role": "extracted",
+        "context": "y sent you. Thanks \nand happy New Years. \nBest, \nME \nFrom: (USANYS)"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "stions. Thank you. \nRegards, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": ". \nRegards, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Best, ME",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-31",
+        "event": "December 31, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.868Z"
+}

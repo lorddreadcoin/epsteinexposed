@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00022455",
+    "filename": "EFTA00022455.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022455.pdf",
+    "text": "\n\nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n\"Covid-19 Notice: The West 19th Street office is currently closed but we continue to work remotely. \nPlease use entail or fax, instead of regular mail, for all correspondence during this time. \nWe continue to work regular business hours throughout this situation. \nThank you for your consideration. Our best wishes for your good health and well being. \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00022455",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "BOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n\"Covid"
+      },
+      {
+        "name": "The West",
+        "role": "extracted",
+        "context": "Sternheim \n\"Covid-19 Notice: The West 19th Street office is current"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.898Z"
+}

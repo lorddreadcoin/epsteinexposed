@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00013545",
+    "filename": "EFTA00013545.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013545.pdf",
+    "text": "\n\nFrom \nTo: (USAFLS)\" \nSubject: Article today about Epstein plea \nDate: Thu, 03 Jan 2008 16:06:34 +0000 \nImportance: Normal \nAttachments: Jan_3_2008_Palm_Beach_Daily_News_Article.pdf \nHi Nand-- FYI \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013545",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: (USAFLS)\" \nSubject: Article"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 16:06:34 +0000 \nImportance: Normal \nAttachments: Jan_3_2008_Palm_Beach_Daily_"
+      },
+      {
+        "name": "Hi Nand",
+        "role": "extracted",
+        "context": "Beach_Daily_News_Article.pdf \nHi Nand-- FYI \nAssistant U.S. Attorne"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013545"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.835Z"
+}

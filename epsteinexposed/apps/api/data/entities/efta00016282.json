@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016282",
+    "filename": "EFTA00016282.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016282.pdf",
+    "text": "\n\nMaterials Provided for Review: \nDocuments: \nI. Summons and Complaint — CMA v. JEISK \n(2.25.08) \n2. First Amended Complaint — CMA \nv. JE/SK (2.9.09) \n3. Affidavit of Dr. Hall (SDNY_GM_01986418) \n3500 Materials: \n3505-001 \n3505-005 \n3505-026 \n3505-027 \n3505-028 \n3505-030 \n3505-031 \n3505-034 \n3505-035 \n3505-036 \n3505-043 \n3505-044 \n3505-058 \n3505-059 \n3505-068 \n3505-074 \n3505-076 \n3505-079 \n3505-081 \n3505-088 \n3505-089 \n3505-090 \n3505-091 \n3505-092 \n3505-097 \n3505-100 \nEXHIBIT F \nEFTA00016282",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hall",
+        "role": "extracted",
+        "context": "/SK (2.9.09) \n3. Affidavit of Dr. Hall (SDNY_GM_01986418) \n3500"
+      },
+      {
+        "name": "Materials Provided",
+        "role": "extracted",
+        "context": "Materials Provided for Review: \nDocuments: \nI. S"
+      },
+      {
+        "name": "First Amended",
+        "role": "extracted",
+        "context": "— CMA v. JEISK \n(2.25.08) \n2. First Amended Complaint — CMA \nv. JE/SK (2."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.383Z"
+}

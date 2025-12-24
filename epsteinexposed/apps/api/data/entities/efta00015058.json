@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00015058",
+    "filename": "EFTA00015058.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015058.pdf",
+    "text": "\n\nFrom: jeffrey epstein <Wevarationl@gmail corn> \nDate: 9 May 2011 at 17:09:53 GMT-7 \nTo: \nSubject: Re: NYC \nI'm in Paris \nSent from my iPad \nOn May 10, 2011, at 1:20 AM, \nwrote: \nHey J, \nI'm coming to NYC this Thurs and leaving Mon, I wondered if \nthere was any chance you had a corner I could stay in? \nTotally cool if not, either way I want to see you if you are \ngoing to be there. \nLet me know \nEFTA00015058\n\nEFTA00015059",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: jeffrey epstein <Wevarationl@gmail corn> \nDate: 9 May 2011 at 17:"
+      },
+      {
+        "name": "Paris \nSent",
+        "role": "extracted",
+        "context": "To: \nSubject: Re: NYC \nI'm in Paris \nSent from my iPad \nOn May 10, 2011"
+      },
+      {
+        "name": "Pad \nOn",
+        "role": "extracted",
+        "context": "I'm in Paris \nSent from my iPad \nOn May 10, 2011, at 1:20 AM, \nwr"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2011-05-10",
+        "event": "May 10, 2011"
+      },
+      {
+        "date": "2011-05-09",
+        "event": "9 May 2011"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.012Z"
+}

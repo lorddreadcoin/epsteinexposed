@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00011509",
+    "filename": "EFTA00011509.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011509.pdf",
+    "text": "\n\nFrom: \nTo \nSubject: Fwd: EPSTEIN, Jeffrey, reg. no. 76318-054 \nDate: Sat, 10 Aug 2019 18:18:14 +0000 \nAttachments: mltC634.pdf; ATT00001.htm \nFYI \nSent from my iPhone \nBegin forwarded message: \nFrom \nDate: \nCc: \nSubject: EPSTEIN, Jeffrey, reg. no. 76318-054 \nGood \nafternoon, \nEnclosed please find official notification from Warden regarding Mr. Epstein's passing. As the \ninvestigation is ongoing, we have no further details at this time. We will continue to keep you updated as more \ninformation is available. \nSi \nyou, \nSupervisory Staff Attorney \nCLC New York \n11111' \" ter \nEFTA00011509",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ication from Warden regarding Mr. Epstein's passing. As the \ninvest"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo \nSubject: Fwd: EPSTEIN, Jeffrey, reg."
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "00001.htm \nFYI \nSent from my iPhone \nBegin forwarded message: \nFrom \nDat"
+      },
+      {
+        "name": "From \nDate",
+        "role": "extracted",
+        "context": "ne \nBegin forwarded message: \nFrom \nDate: \nCc: \nSubject: EPSTEIN, Jeff"
+      },
+      {
+        "name": "Supervisory Staff",
+        "role": "extracted",
+        "context": "tion is available. \nSi \nyou, \nSupervisory Staff Attorney \nCLC New York \n11111"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.788Z"
+}

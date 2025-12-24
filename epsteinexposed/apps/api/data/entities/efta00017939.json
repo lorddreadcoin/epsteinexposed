@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00017939",
+    "filename": "EFTA00017939.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017939.pdf",
+    "text": "\n\nFrom: \"Boyd, Stephen E. (OLA)\" \nTo: \n'• \n(USANYS)\" \nCc: \n\"-(USANYS)\" \nSubject: \nRE: MCC Indictment \nDate: Tue, 19 Nov \n2019 16:36:12 +0000 \nThank you — much appreciated.\nFrom: (USANYS)\nSent: Tuesday, November 19, 2019 11:36 AM \nTo: Boyd, Stephen E. (OLA) < \nCc: Strauss, Audrey (USANYS) \nSubject: MCC Indictment \nStephen —Attached please find a copy of the Indictment obtained this morning charging two correctional officers at MCC \nin connection with their failures to perform their duties on the night of the suicide of Jeffrey Epstein. The attached has \nalso now been filed with the court and is thus a public document. Please let us know if we can pass on anything else that \nmight be of use. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00017939",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "rform their duties on the night of the suicide of Jeffrey Epstein. The attached has \nalso now been filed with the c"
+      },
+      {
+        "name": "Indictment \nDate",
+        "role": "extracted",
+        "context": "-(USANYS)\" \nSubject: \nRE: MCC Indictment \nDate: Tue, 19 Nov \n2019 16:36:12 +"
+      },
+      {
+        "name": "Indictment \nStephen",
+        "role": "extracted",
+        "context": "Audrey (USANYS) \nSubject: MCC Indictment \nStephen —Attached please find a copy"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "might be of use. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00017939"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-19",
+        "event": "November 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.900Z"
+}

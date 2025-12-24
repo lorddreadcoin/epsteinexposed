@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00016609",
+    "filename": "EFTA00016609.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016609.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" cz\nIMME> \n(USANYS)\" <\nIMIIM> \nSubject: Accepted: CalUMeeting on Epstein \nDate: Fri, 07 Dec 2018 11:31:35 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00016609",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ect: Accepted: CalUMeeting on Epstein \nDate: Fri, 07 Dec 2018 11:31:35 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 11:31:35 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00016609"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.084Z"
+}

@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00019063",
+    "filename": "EFTA00019063.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019063.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\" \nausa.doj.gov> \nTo: '==(USANYS)\"\nSubject: Fwd: update \nDate: Mon, 24 Feb 2020 18:29:57 +0000 \nWe can get back to him after we talk to Bobbi. \nSent from my iPhone \nBegin forwarded message: \nFrom: Bruce Barket <bbarket@barketepstein.com>\nDate: February 24, 2020 at 1:19:43 PM EST \nTo: \n\"a,ttdoj,m\"' \nSubject: update \nGood afternoon, \np_.,usdoLgoi>\nI am writing because my trial which was supposed to begin today has been moved to March 3rd.  I asked the Court \n(EDNY) for March 4th off so I would be able to attend the status conference for Mr. Tartaglione and I explained briefly \nthat there was a Curcio issue. That application was denied. \nSo, I am wondering if you will be requesting more time to continue to review material and presumably get input from \nour firm. If so, then it may make sense to adjourn the conference. If you don't need more time, then I may make \nanother request or ask Judge Karas to help. I don't think there is much else that will be done next week other than \naddress the Curcio issue. \nThank you. \nBruce A. Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP \n666 Old Country Road , Ste. 700 \nGarden City, NY 11530 \n(516) 745 1500 [P] (516) 745 1245 [F] \nwww.barketepstein.com \nThis transmittal may be a confidential attorney client communication or may otherwise be privileged or confidential. If it is not clear \nthat you are the intended recipient, you are hereby notified that you have received this transmittal in error; any review, \ndissemination, distribution or copying of this transmittal is strictly prohibited. If you suspect that you have received this \ncommunication in error, please notify us immediately by telephone or email and immediately delete this message and all its \nattachments \nEFTA00019063",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tartaglione",
+        "role": "extracted",
+        "context": "end the status conference for Mr. Tartaglione and I explained briefly"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "talk to Bobbi. \nSent from my iPhone \nBegin forwarded message: \nFrom: Bru"
+      },
+      {
+        "name": "Bruce Barket",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Bruce Barket <bbarket@barketepstein.com>\nD"
+      },
+      {
+        "name": "Judge Karas",
+        "role": "extracted",
+        "context": "make \nanother request or ask Judge Karas to help. I don't think there"
+      },
+      {
+        "name": "Barket Epstein",
+        "role": "extracted",
+        "context": "you. \nBruce A. Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP"
+      },
+      {
+        "name": "Kearon Aldea",
+        "role": "extracted",
+        "context": "Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP \n666 Old Count"
+      },
+      {
+        "name": "Old Country",
+        "role": "extracted",
+        "context": "ron Aldea & LoTurco, LLP \n666 Old Country Road , Ste. 700 \nGarden City,"
+      },
+      {
+        "name": "Garden City",
+        "role": "extracted",
+        "context": "Old Country Road , Ste. 700 \nGarden City, NY 11530 \n(516) 745 1500 [P]"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Garden City, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-24",
+        "event": "February 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(516) 745 1500",
+      "(516) 745 1245"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.214Z"
+}

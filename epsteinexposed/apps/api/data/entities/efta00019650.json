@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019650",
+    "filename": "EFTA00019650.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019650.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject trial prep \nDate: Mon, 19 Jul 2021 13:09:06 +0000 \nAttachments: \n2021.07.19_Court_Subpoena_ \nHi \nGood to see you the other day. As I mentioned, our team is planning to call as a witness at the trial scheduled \nto begin on November 29, 2021. For your records, attached please find a trial subpoena. We expect \nwill \ntestify relatively early in the trial, and may even get on the stand on \nIn terms of trial preparation, I'd like to schedule an initial meeting over WebEx, at which point we can pick a time in \nAugust forto meet with our team in person for further prep at our office. For the WebEx, would you ands \nne available the morning of 7/26, the afternoon of 7/27, or the morning of 7/30? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew% Plaza \nNew York, NY 10007 \nEFTA00019650",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject trial prep \nDate"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject trial prep \nDate: Mon, 19 Jul"
+      },
+      {
+        "name": "Hi \nGood",
+        "role": "extracted",
+        "context": "2021.07.19_Court_Subpoena_ \nHi \nGood to see you the other day. As"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "he morning of 7/30? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "0? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew% Pl"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ct of New York \n1 St. Andrew% Plaza \nNew York, NY 10007 \nEFTA00019650"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.317Z"
+}

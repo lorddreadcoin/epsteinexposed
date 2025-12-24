@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021981",
+    "filename": "EFTA00021981.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021981.pdf",
+    "text": "\n\nFrom \nTo \nSubject: PC Unit -- Short Form Update.12.6.18.docx \nDate: Fri, 07 Dec 2018 14:58:16 +0000 \nImportance: Normal \nAttachments: PC_Unitr_Short_Form_Update.12.6.18.docx \nAlso saved in shared. \nEFTA00021981",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: PC Unit -- Short Fo"
+      },
+      {
+        "name": "Short Form",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: PC Unit -- Short Form Update.12.6.18.docx \nDate: Fr"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 14:58:16 +0000 \nImportance: Normal \nAttachments: PC_Unitr_Short_Form_Update.1"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.789Z"
+}

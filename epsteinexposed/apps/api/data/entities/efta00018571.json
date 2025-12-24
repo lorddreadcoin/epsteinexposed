@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018571",
+    "filename": "EFTA00018571.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018571.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: GM Recent Letters \nDate: The, 11 Aug 2020 15:31:31 +0000 \nAttachments: 2020-08-10,_GM,_defense_motionfor victim_identities_and_prison_privileges.pdf; 2020-\n08-10,_GM,_defense_affidavit_re_victim_identities_and_prison_privileges.pdf; 2020-08-\n10 J01100-00OLLETTER addressed_toiudge_Loretta_A._Preska_from_....pdf; \nletter_to_USA_re_protective_order (002)_(002)final.pdf \nPer your request, attached are the recent letters we received. Judge Nathan gave us until Thursday to respond (and any \nreply Monday). We are meeting with the team later today to discuss. \nEFTA00018571",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Recent Letters",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: GM Recent Letters \nDate: The, 11 Aug 2020 15:31"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "e recent letters we received. Judge Nathan gave us until Thursday to res"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-10",
+        "event": "2020-08-10"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.210Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00027977",
+    "filename": "EFTA00027977.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027977.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: \"Martin G. Weinberg\" <1 \nk  1 \n(USANYS)\"  \nCc: \"'Miller, Michael\"' •rcl  >, Reid Weingarten  \nSubject: RE: Confidential - Epstein \nDate: Fri, 16 Aug 2019 21:15:45 +0000 \nThank you for reaching out. We are not able to share that information at this time. If there is anything that you believe \nwould be useful for us to know as we continue our investigation, please let us know. \nFrom: Martin G. Weinberg c \nSent: Thursday, August 15, 2019 4:53 PM \nTo: (USANYS) •c:3; (USANYS)\nCc: 'Miller, Michael' <>; 'Martin G. Weinberg' <>; Reid Weingarten \nSubject: Confidential - Epstein \nprovided us with your contact info. As the prior criminal defense attorneys for Mr \nEpstein, and with the approval of the attorney for his Estate, we would ask for you to consider allowing one or more of us \nto view any videos showing his jail cell at the MCC or the hallway leading to the entry to his jail cell from midnight-7 AM \non Aug 10, 2019. We would appreciate your consideration of this request. \nIf we can otherwise help, let us know. \nThanks \nMarty \nMartin \nG. Weinberg, Esq. \nThis Electronic Message contains information from the Law Office \nof Martin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the addressee \nonly. If you are not the addressee, please note that any disclosure, copying, distribution, or use of the contents \nof this message is prohibited. \nEFTA00027977",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "\"'Miller, Michael\"' •rcl  >, Reid Weingarten  \nSubject: RE: Confidential -"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Confidential - Epstein \nDate: Fri, 16 Aug 2019 21:15:45 +0"
+      },
+      {
+        "name": "Mr \nEpstein",
+        "role": "extracted",
+        "context": "riminal defense attorneys for Mr \nEpstein, and with the approval of the"
+      },
+      {
+        "name": "Thanks \nMarty",
+        "role": "extracted",
+        "context": "otherwise help, let us know. \nThanks \nMarty \nMartin \nG. Weinberg, Esq. \nT"
+      },
+      {
+        "name": "This Electronic",
+        "role": "extracted",
+        "context": "y \nMartin \nG. Weinberg, Esq. \nThis Electronic Message contains information"
+      },
+      {
+        "name": "Law Office",
+        "role": "extracted",
+        "context": "contains information from the Law Office \nof Martin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-15",
+        "event": "August 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.382Z"
+}

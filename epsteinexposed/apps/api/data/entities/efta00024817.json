@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024817",
+    "filename": "EFTA00024817.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024817.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \"IMIlff' \nTo: '\nllaiSNYS)\" \n'aNIMIE>, 1 \n(USANYS)\" \nCc: (USANYS)\" ‹\n> \nSubject: PCU Monthly Update \nDate: Fri, 06 Nov 2020 19:34:27 +0000 \nAttachments: PC_Unitr_Short_Form_Update.11.6.20.docx \nMonthly update is attached, thanks. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nCell \nEFTA00024817",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monthly Update",
+        "role": "extracted",
+        "context": ": (USANYS)\" ‹\n> \nSubject: PCU Monthly Update \nDate: Fri, 06 Nov 2020 19:34"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "update is attached, thanks. \nDeputy Chief, Public Corruption Unit \nU.S."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "ached, thanks. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nC"
+      },
+      {
+        "name": "Desk \nCell",
+        "role": "extracted",
+        "context": "outhern District of New York \nDesk \nCell \nEFTA00024817"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.888Z"
+}

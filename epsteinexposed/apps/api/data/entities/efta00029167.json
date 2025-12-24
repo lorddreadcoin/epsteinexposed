@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00029167",
+    "filename": "EFTA00029167.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029167.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \nSubject: RE: \nDate: Tue, 24 Aug 2021 19:55:14 +0000 \nAttachments: \n2021.08.24_Court_Subpoena_-\nAttached. Thanks. \nFrom: \nSent: Tuesday, August 24, 2021 12:41 PM \nTo: \nCc \nSubject: \nRe: \nYes I think that's appropriate. Could you send that along and we were cut a  lead. \nOn Aug 24, 2021, at 12:38, wrote: \nThanks for the update. We would issue a trial subpoena— let me know if you need one. \nOn Aug 23, 2021, at 4:02 PM, wrote: \nI just got in touch with him on his home phone (IMI). He did not seem all that excited to speak \nabout the case and told me maybe he could speak next week. I am not confident that he will agree to a \nconversation. Is this someone you would like to subpoena if he refuses? \nDetective \nNYFD /  FBI \nChild E loitation Human Trafficking Task Force \nO\nf\nfice: \nFrom: \nSent: Friday, August 20, 2021 5:41 PM \nTo: \nCc: \nSubject: \nCAUTION! EXTERNAL SENDER \nSTOP WHEN UNSURE. Never click on links or open attachments if sender is unknown, and never provide \nuser ID or password. Suspicious? Please report to this email address: reportphishing@ny.pd.org \nEFTA00029167\n\nHi M, \nSending this email as a reminder, as we discussed. Thanks for looking into this. Have a great weekend! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029168",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "ugust 24, 2021 12:41 PM \nTo: \nCc \nSubject: \nRe: \nYes I think that's app"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "ong and we were cut a  lead. \nOn Aug 24, 2021, at 12:38, wrote: \nT"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YFD /  FBI \nChild E loitation Human Trafficking Task Force \nO\nf\nfice: \nFrom:"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "E loitation Human Trafficking Task Force \nO\nf\nfice: \nFrom: \nSent: Frid"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "this. Have a great weekend! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "at weekend! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029168"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-08-24",
+        "event": "August 24, 2021"
+      },
+      {
+        "date": "2021-08-20",
+        "event": "August 20, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.896Z"
+}

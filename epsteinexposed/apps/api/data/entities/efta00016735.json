@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016735",
+    "filename": "EFTA00016735.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016735.pdf",
+    "text": "\n\nSubject: Tartaglione Motion \nDate: Tue, 14 Jan 2020 15:59:33 +0000 \nAttachments: 2020.01.13nDef Mot_for_Hearing.pdf \nAll —  Attached is the motion that Barket filed last night seeking a hearing on the MCC video. We are working on a \nresponse and will send \naround. \nCo-Chief, Narcotics Unit \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00016735",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tartaglione Motion",
+        "role": "extracted",
+        "context": "Subject: Tartaglione Motion \nDate: Tue, 14 Jan 2020 15:59"
+      },
+      {
+        "name": "Def Mot",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2020.01.13nDef Mot_for_Hearing.pdf \nAll —  Attac"
+      },
+      {
+        "name": "Narcotics Unit",
+        "role": "extracted",
+        "context": "will send \naround. \nCo-Chief, Narcotics Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "nit \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.260Z"
+}

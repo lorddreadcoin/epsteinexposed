@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00023405",
+    "filename": "EFTA00023405.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023405.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: Re: gloria allred purchases prince andrew 'wanted' poster \nDate: Fri, 21 Feb 2020 14:46:13 +0000 \nInline-Images: image001.jpg \nChief Public Information Officer \nU.S. Attorney's Office, SDNY \nOn Feb 21, 2020, at 9:04 AM, \n> \nwrote: \nSent from my iPhone \nBegin forwarded message: \nFront: \"Katersky, Aaron\" <Aaron.Katersky@abc.com>\nDate: Februa 21, 2020 at 9:00:21 AM EST \nTo:'\nSubject: FW: gloria allred purchases prince andrew 'wanted' poster \nAttorney Gloria Allred said she placed an ad on a  school bus that circled Buckingham Palace this morning, calling for \nhim to talk to the FBI about the Jeffrey Epstein case. \nThe bus carried a large picture of the prince accompanied by the message -- \"If you see this man please ask him to call \nthe FBI to answer their questions.\" \nAllred just discussed her stunt outside criminal court in Lower Manhattan, where she is attending the Harvey \nWeinstein trial. \nAllred who represents some of Epstein's victims. \nAllred displayed a photo of the bus on her computer and a photo from the Press Association is below \nEFTA00023405\n\n<imageooi.jpg> \nThe message on the bus was from US lawyer Gloria Allred. Photograph: Stefan Rousseau/PA \nEFTA00023406",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ng, calling for \nhim to talk to the FBI about the Jeffrey Epstein case. \nThe bus carried a large picture of the pri"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "To:' \nCc: ' \nSubject: Re: gloria allred purchases prince andrew 'wanted' poster \nDate: Fri, 21 Feb 2020 14:46:13"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "Inline-Images: image001.jpg \nChief Public Information Officer \nU.S. Att"
+      },
+      {
+        "name": "Information Officer",
+        "role": "extracted",
+        "context": "s: image001.jpg \nChief Public Information Officer \nU.S. Attorney's Office, SDNY"
+      },
+      {
+        "name": "On Feb",
+        "role": "extracted",
+        "context": "U.S. Attorney's Office, SDNY \nOn Feb 21, 2020, at 9:04 AM, \n> \nwro"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "AM, \n> \nwrote: \nSent from my iPhone \nBegin forwarded message: \nFront: \"K"
+      },
+      {
+        "name": "Attorney Gloria",
+        "role": "extracted",
+        "context": "rince andrew 'wanted' poster \nAttorney Gloria Allred said she placed an ad"
+      },
+      {
+        "name": "Buckingham Palace",
+        "role": "extracted",
+        "context": "on a  school bus that circled Buckingham Palace this morning, calling for \nhi"
+      },
+      {
+        "name": "Lower Manhattan",
+        "role": "extracted",
+        "context": "unt outside criminal court in Lower Manhattan, where she is attending the H"
+      },
+      {
+        "name": "Harvey \nWeinstein",
+        "role": "extracted",
+        "context": "n, where she is attending the Harvey \nWeinstein trial. \nAllred who represents"
+      },
+      {
+        "name": "Press Association",
+        "role": "extracted",
+        "context": "computer and a photo from the Press Association is below \nEFTA00023405\n\n<imag"
+      },
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "on the bus was from US lawyer Gloria Allred. Photograph: Stefan Rousseau/"
+      },
+      {
+        "name": "Stefan Rousseau",
+        "role": "extracted",
+        "context": "er Gloria Allred. Photograph: Stefan Rousseau/PA \nEFTA00023406"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.896Z"
+}

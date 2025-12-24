@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020988",
+    "filename": "EFTA00020988.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020988.pdf",
+    "text": "\n\nFrom: \n)\" \nTo: \nr or> \nSubject: t/c with Sigrid McCawley, counsel t \nDate: Tue, 26 Nov 2019 01:13:55 +0000 \nSigrid, t/c November 2 pproximately 16:55 to 17:00 \n- got a call from contacted by Patrick Stupfel (ph), contacted through social networking site \nreceived messages from him saying that he had information on Epstein case \nwanted to pass along the information \nI advised that she could send them to the case team and we would pass along the communications to the FBI \n- subsequent to the phone conversation, I received an email with the communications and sent them to FBI \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00020988",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "To: \nr or> \nSubject: t/c with Sigrid McCawley, counsel t \nDate: Tue,"
+      },
+      {
+        "name": "Patrick Stupfel",
+        "role": "extracted",
+        "context": "got a call from contacted by Patrick Stupfel (ph), contacted through socia"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "t them to FBI \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.773Z"
+}

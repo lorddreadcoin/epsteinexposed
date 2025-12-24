@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023457",
+    "filename": "EFTA00023457.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023457.pdf",
+    "text": "\n\nEvent: Accepted: Re: [EXTERNAL] RE: Touhy Request in United States v. \nGhislaine Maxwell, S2 20 Cr. 330 (AJN) \nStart Date: 2021-10-29 13:30:00 +0000 \nEnd Date: 2021-10-29 14:00:00 +0000 \nClass: X-PERSONAL \nComment: \nDate Created: 2021-10-29 13:23:34 +0000 \nDate Modified: 2021-10-29 13:23:34 +0000 \nPriority: 5 \nDTSTAM P: 2021-10-29 13:18:46 +0000 \nAttendee: \nEFTA00023457",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "[EXTERNAL] RE: Touhy Request in United States v. \nGhislaine Maxwell, S2 20 Cr. 330 (AJN) \nStart Date: 2021-10-29 13:3"
+      },
+      {
+        "name": "Touhy Request",
+        "role": "extracted",
+        "context": "Accepted: Re: [EXTERNAL] RE: Touhy Request in United States v. \nGhislain"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Maxwell, S2 20 Cr. 330 (AJN) \nStart Date: 2021-10-29 13:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-10-29 13:30:00 +0000 \nEnd Date: 2021-10-29 14:00:00 +0000 \nC"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-10-29 13:23:34 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-10-29 13:23:34 +0000 \nDate Modified: 2021-10-29 13:23:34 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-29",
+        "event": "2021-10-29"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.997Z"
+}

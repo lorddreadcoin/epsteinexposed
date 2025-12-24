@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00030229",
+    "filename": "EFTA00030229.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030229.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n' \nSubject: Epstein case/NYPD Sex Offender Monitoring Unit \nDate: Tue, 09 Jul 2019 16:21:47 +0000 \nAttachments: jeprofile.pdf \nMr. \nThank you very much for taking the time today to speak to me regarding the Epstein case. As I mentioned Mr. \nEpstein is a registered Level 3 sex offender in the State Of New York and should he be released and establish \nresidence in NYC he is legally obligated to appear at my office ever 90 days. In addition, he is required to have a \nnew photo taken every 3 years (his current photo is 9 years old). If he is released his immediate appearance at \nmy office should be mandatory. Please feel free to reach out to me should you have any additional questions or \nconcerns in this matter. \nNew York City Police Department \nSpecial Victims Division \nCommanding Officer \nSex Offender Monitoring Unit \n, N.Y, N.Y. \nEFTA00030229",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thank",
+        "role": "extracted",
+        "context": "Attachments: jeprofile.pdf \nMr. \nThank you very much for taking"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "Epstein case. As I mentioned Mr. \nEpstein is a registered Level 3"
+      },
+      {
+        "name": "Sex Offender",
+        "role": "extracted",
+        "context": "' \nSubject: Epstein case/NYPD Sex Offender Monitoring Unit \nDate: Tue, 0"
+      },
+      {
+        "name": "Monitoring Unit",
+        "role": "extracted",
+        "context": "pstein case/NYPD Sex Offender Monitoring Unit \nDate: Tue, 09 Jul 2019 16:21"
+      },
+      {
+        "name": "State Of",
+        "role": "extracted",
+        "context": "d Level 3 sex offender in the State Of New York and should he be rel"
+      },
+      {
+        "name": "City Police",
+        "role": "extracted",
+        "context": "rns in this matter. \nNew York City Police Department \nSpecial Victims D"
+      },
+      {
+        "name": "Department \nSpecial",
+        "role": "extracted",
+        "context": "matter. \nNew York City Police Department \nSpecial Victims Division \nCommanding"
+      },
+      {
+        "name": "Victims Division",
+        "role": "extracted",
+        "context": "ty Police Department \nSpecial Victims Division \nCommanding Officer \nSex Offe"
+      },
+      {
+        "name": "Commanding Officer",
+        "role": "extracted",
+        "context": "nt \nSpecial Victims Division \nCommanding Officer \nSex Offender Monitoring Unit"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.331Z"
+}

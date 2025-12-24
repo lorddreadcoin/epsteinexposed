@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00015524",
+    "filename": "EFTA00015524.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015524.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Mark Epstein \nDate: Thu, 24 Oct 2019 16:32:29 +0000 \nNo problem, and of course if she wants us instead we'll reach out. \nFrom \nSe t: Thursday. October 24. 2019 11:56\nTo: \nCc: \nSubject: RE: Mark Epstein \nThanks. Good call — I had those guys reach out. \nFrom: \nSent: Thursday, October 24, 2019 9:31 AM \nTo: \nCc: \nSubject: RE: Mark Epstein \nI think it's possible she may be reaching out in connection with the death investigation—do you have a sense of what she \nwants? Happy to call her back in the first instance, just wanted to flag it in case you'd rather have the other team respond \ninitially—whatever you prefer. \nFrom: \nSent: Thursda October 24 2019 09:29 \nTo: \nSu ject: Mar Epstein \nI forgot to convey to you last week that Stacey Richman had left me a vm re her client Mark Epstein. She left me another \nvm this morning. Could you guys call her back? \nEFTA00015524",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Mark Epstein \nDate: Thu, 24 Oct 2019 16:32"
+      },
+      {
+        "name": "From \nSe",
+        "role": "extracted",
+        "context": "us instead we'll reach out. \nFrom \nSe t: Thursday. October 24. 2019"
+      },
+      {
+        "name": "Thursda October",
+        "role": "extracted",
+        "context": "ver you prefer. \nFrom: \nSent: Thursda October 24 2019 09:29 \nTo: \nSu ject:"
+      },
+      {
+        "name": "Mar Epstein",
+        "role": "extracted",
+        "context": "24 2019 09:29 \nTo: \nSu ject: Mar Epstein \nI forgot to convey to you la"
+      },
+      {
+        "name": "Stacey Richman",
+        "role": "extracted",
+        "context": "convey to you last week that Stacey Richman had left me a vm re her clien"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-24",
+        "event": "October 24, 2019"
+      },
+      {
+        "date": "2019-10-24",
+        "event": "October 24 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.869Z"
+}

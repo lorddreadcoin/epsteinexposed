@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030013",
+    "filename": "EFTA00030013.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030013.pdf",
+    "text": "\n\nFrom: \nSubject: Jeffrey Epstein's Ex, Ghislaine Maxwell, Sues His Estate for Legal Fees \nDate: Wed, 18 Mar 2020 18:12:20 +0000 \nhttps://www.nytimes.corn/2020/03/18/business/jeffrey-epstein-ghislaine-maxwell-lawsuit.html \nSent from my iPhone \nEFTA00030013",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nSubject: Jeffrey Epstein's Ex, Ghislaine Maxwell, Sues His Estate for Lega"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nSubject: Jeffrey Epstein's Ex, Ghislaine Maxwell, Sues His Estate for Legal Fees \nDate: Wed, 18 Ma"
+      },
+      {
+        "name": "Sues His",
+        "role": "extracted",
+        "context": "tein's Ex, Ghislaine Maxwell, Sues His Estate for Legal Fees \nDate:"
+      },
+      {
+        "name": "Legal Fees",
+        "role": "extracted",
+        "context": "Maxwell, Sues His Estate for Legal Fees \nDate: Wed, 18 Mar 2020 18:12"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.775Z"
+}

@@ -1,0 +1,66 @@
+{
+  "document": {
+    "id": "efta00014611",
+    "filename": "EFTA00014611.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014611.pdf",
+    "text": "\n\nFrom: ' \n),, \nTo: M\"IMS (FBI)\" \nCc: \"I \nSubject: RE: financial documents (Epstein) \nDate: Thu, 18 Jul 2019 22:55:47 +0000 \nFrom: \nSent: Thursday, July 18, 2019 16:49 \nTo \nCc: \ngreat to have you onboard, welcome —  and as of now I don't have anything scheduled for Tuesday. \n>; \nSubject: Re: financial documents (Epstein) \n(NY) (FBI) \nI've CC'd the forensic accountant in our squad who will be assisting in this investigation. Let's try and plan a \nday next week to meet briefly and discuss a game plan. Are you guys around Tuesday to chat? \nOn Jul 18, 2019, at 11:17, \n> \nwrote: \nI have the discs, where should I bring them? \nFrom: \n< \nSent: Wednesday, July 17, 2019 8:47 PM \nTo: Hamilton, ) [Contractor] <AHamilton@usa.doLgov>\nCc: . (NY) (FBI) c:>; \n<M\n>; \nSubject: RE: financial documents (Epstein) \ncc> \nTomorrow morning could you please burn the following folders to a disc: \nUsa.doj.gov\\ clouaNYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationUt 2018 SDNY \ninvestigation \\Subpoena Returns \\American Express \nUsa.doj.gov\\ clouaNYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationVI 2018 SDNY \ninvestigation \\Subpoena Returns\\Deutsche Bank \nand put the disc in an envelope addressed to: \nSpecial Agent \nDetective • \nIf it's possible to get the disc by 11:30, we'll give the disc to at the conference, or if not, if you could put \nthe envelope with security and reply all that it's ready, they can pick up when convenient. \nEFTA00014611\n\nthanks, \nM \nAssistant U.S. Attorney \nSouthern District of New York \n212.637.2415 \nEFTA00014612",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "hursday, July 18, 2019 16:49 \nTo \nCc: \ngreat to have you onboard,"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "guys around Tuesday to chat? \nOn Jul 18, 2019, at 11:17, \n> \nwrote"
+      },
+      {
+        "name": "Subpoena Returns",
+        "role": "extracted",
+        "context": "nUt 2018 SDNY \ninvestigation \\Subpoena Returns \\American Express \nUsa.doj.go"
+      },
+      {
+        "name": "American Express",
+        "role": "extracted",
+        "context": "estigation \\Subpoena Returns \\American Express \nUsa.doj.gov\\ clouaNYS StAndr"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "vestigation \\Subpoena Returns\\Deutsche Bank \nand put the disc in an envel"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "in an envelope addressed to: \nSpecial Agent \nDetective • \nIf it's possibl"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "1\n\nthanks, \nM \nAssistant U.S. Attorney \nSouthern District of New York \n212.637"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-18",
+        "event": "July 18, 2019"
+      },
+      {
+        "date": "2019-07-17",
+        "event": "July 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212.637.2415"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.193Z"
+}

@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00027158",
+    "filename": "EFTA00027158.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027158.pdf",
+    "text": "\n\nFrom: \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Wed, 21 Apr 2021 19:13:39 +0000 \nDear Judge Nathan, \nThe Government writes in response to the Court's April 19, 2021 scheduling Order, which directed the Government to \ninform the Court by email regarding victim attendance at the upcoming arraignment in this matter. \nThe Government has conferred with the attorneys who represent all four victims referenced in the Superseding \nIndictment, and reports the following: \n•  Victim-1, Victim-3, Victim-4, and their respective counsel will not be attending the conference. \n•  Victim-2 plans to attend the conference by phone. Her counsel have asked whether she should dial into the public \naccess line, or whether the Court will provide a separate access line for victims. \n•  Victim-2's attorneys, David Boies and Sigrid McCawley, plan to attend the conference in person. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00027158",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Wed, 21 Apr 2021 19:13:3"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": ", 21 Apr 2021 19:13:39 +0000 \nDear Judge Nathan, \nThe Government write"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "39 +0000 \nDear Judge Nathan, \nThe Government writes in response to the Cou"
+      },
+      {
+        "name": "Superseding \nIndictment",
+        "role": "extracted",
+        "context": "our victims referenced in the Superseding \nIndictment, and reports the following:"
+      },
+      {
+        "name": "David Boies",
+        "role": "extracted",
+        "context": "ms. \n•  Victim-2's attorneys, David Boies and Sigrid McCawley, plan to"
+      },
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "'s attorneys, David Boies and Sigrid McCawley, plan to attend the con"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ce in person. \nRespectfully, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00027158"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-04-19",
+        "event": "April 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.649Z"
+}

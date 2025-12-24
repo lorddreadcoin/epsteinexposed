@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00010284",
+    "filename": "EFTA00010284.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010284.pdf",
+    "text": "\n\nFrom: \nSubject: RE: Epstein Trust Analysis \nDate: Thu, 30 Jan 2020 00:07:31 +0000 \nOk. Thanks. \nFrom \nSent: Wednesday, January 29, 2020 7:07 PM \nTo: \nSubject: RE: Epstein Trust Analysis \nPlease ignore this version, I will be circulating a revised version with some additional content tomorrow morning. \nFrom \nSent: Wednesday, January 29, 2020 5:51 PM \nTo: \n`> \nSubject: Epstein Trust Analysis \nHi everyone, \nI've attached a summary/analysis of the Epstein trust documents we received. This document incorporates the analysis of \nthe trusts from 2019 I did previously. \nOn the bottom, you'll see each trust has a tab and then further amendments to the trust (if any) go chronologically to the \nright. There's also key and summary tabs at the beginning of the document. \nPlease let me know if you have any questions, or if you'd like me to walk you through how to use the document, in case it \nisn't clear. \nThanks, \np.s. I wouldn't recommend printing the document, just due to the size of the excel tables. \nEFTA00010284",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Trust",
+        "role": "extracted",
+        "context": "From: \nSubject: RE: Epstein Trust Analysis \nDate: Thu, 30 Jan 2"
+      },
+      {
+        "name": "Analysis \nDate",
+        "role": "extracted",
+        "context": ": \nSubject: RE: Epstein Trust Analysis \nDate: Thu, 30 Jan 2020 00:07:31 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "00:07:31 +0000 \nOk. Thanks. \nFrom \nSent: Wednesday, January 29, 2020"
+      },
+      {
+        "name": "Analysis \nPlease",
+        "role": "extracted",
+        "context": ": \nSubject: RE: Epstein Trust Analysis \nPlease ignore this version, I will b"
+      },
+      {
+        "name": "Analysis \nHi",
+        "role": "extracted",
+        "context": ": \n`> \nSubject: Epstein Trust Analysis \nHi everyone, \nI've attached a su"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-29",
+        "event": "January 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.662Z"
+}

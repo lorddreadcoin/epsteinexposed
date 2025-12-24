@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014893",
+    "filename": "EFTA00014893.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014893.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM  \nTo: \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject: [EXTERNAL] US v. Maxwell S2 20 Cr. \n330 (MN) \nDate: Sun, 28 Nov 2021 03:02:36 +0000 \nAttachments: Letter_regarding_trial_document_procedure.pdf \nCourtesy copy of tonights ECF filing-\nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nLaw \nOffices of Robb' C. Sternheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00014893",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "BOBBI C STERNHEIM  \nTo: \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pag"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "To: \nCc: Christian Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject:"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "Everdell , Laura Mennin er \n, Jeff Pagliuca \nSubject: [EXTERNAL] US v. Ma"
+      },
+      {
+        "name": "Law \nOffices",
+        "role": "extracted",
+        "context": "s: \nBOBBI C. STERNHEIM, ESQ. \nLaw \nOffices of Robb' C. Sternheim \nThis m"
+      },
+      {
+        "name": "Sternheim \nThis",
+        "role": "extracted",
+        "context": "SQ. \nLaw \nOffices of Robb' C. Sternheim \nThis message and any attached docu"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contain information from the Law Offices of Bobbi C. Stemheim \nthat ma"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.781Z"
+}

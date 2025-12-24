@@ -1,0 +1,86 @@
+{
+  "document": {
+    "id": "efta00013914",
+    "filename": "EFTA00013914.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013914.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBcc: \nSubject: Non-Prosecution Agreement in Epstein Case \nDate: Tue, 01 Jul 2008 15:50:45 +0000 \nImportance: Normal \nAttachments: Epstein_Agnnt001.pdf \nHi -  I am attaching the agreement, with addenda, for filing with the Court under seal. \nWe also noticed a couple of \"misstatements\" during the change of plea and wanted to call them to your \nattention. First, the Division of Corporations' documents show that the Florida Science Foundation was \nincorporated in November 2007, not a \"couple of years ago\" as reported by Mr. Epstein. The address provided \nfor the \"office\" of the Florida Science Foundation is Jack Goldberger's office suite, and neither the office \nbuilding directory nor the office suite door reflects that such a business is located there, and neither the security \nguard nor any building tenant that FBI questioned knows of the existence of such a business. And, of course, \nMr. Epstein could not have been working there \"every day\" when he hasn't been in Palm Beach County in the \npast six months. \nWe will leave it to your discretion as to whether this should be brought to the Court's attention. \n<<Epstein Agrml001.pdf>> \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00013914",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "of years ago\" as reported by Mr. Epstein. The address provided \nfo"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "To: \nCc: \nBcc: \nSubject: Non-Prosecution Agreement in Epstein Case \nDate: Tue, 0"
+      },
+      {
+        "name": "Epstein Case",
+        "role": "extracted",
+        "context": "Non-Prosecution Agreement in Epstein Case \nDate: Tue, 01 Jul 2008 15:50"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 15:50:45 +0000 \nImportance: Normal \nAttachments: Epstein_Agnnt001.pdf \nHi -"
+      },
+      {
+        "name": "Florida Science",
+        "role": "extracted",
+        "context": "ions' documents show that the Florida Science Foundation was \nincorporated"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "Florida Science Foundation is Jack Goldberger's office suite, and neither t"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "y day\" when he hasn't been in Palm Beach County in the \npast six month"
+      },
+      {
+        "name": "Epstein Agrml",
+        "role": "extracted",
+        "context": "to the Court's attention. \n<<Epstein Agrml001.pdf>> \nAssistant U.S. Atto"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00013914"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.726Z"
+}

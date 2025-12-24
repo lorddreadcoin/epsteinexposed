@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019581",
+    "filename": "EFTA00019581.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019581.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Fri, 18 Jan 2019 14:07:42 +0000 \nImportance: Normal \n.I am likely not in Monday (MLK day) -- are you around at any point today for at least a brief update? \nBrass is also interested in how things wen . \n Original Messa e \nFrom:\nSent: Frida , Janu 18, 2019 9:05 AM \nTo: \n(USANYS \nCc: \nSubject: Re: Epstein \n(USANYS) \nI'm traveling back today, could we set a time for Monday? Once I get in later I'm slammed with stuff that has \ncome up the past few days in other cases. \nSent from my iPhone \n> \nOn Jan 18, 2019, at 08:51, rote: \n> You guys back? Can we circle up this morning? Definitely want to hear more about the trip. Mt and I have \nsomething at 11:30 but I at least am free before/after. \n> Sent from my iPhone \nEFTA00019581",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Fri, 18 Jan 2019 14:07:42 +0"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "erested in how things wen . \n Original Messa e \nFrom:\nSent: Frida , Janu 1"
+      },
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "ses. \nSent from my iPhone \n> \nOn Jan 18, 2019, at 08:51, rote: \n>"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.204Z"
+}

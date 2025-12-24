@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00020986",
+    "filename": "EFTA00020986.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020986.pdf",
+    "text": "\n\nFrom: \"etravelservices®cwtsatotravel.com\" <etravelservices \nTo: \nSubject: Final Voucher 10777198(1) approved b \nDate: Mon, 18 Nov 2019 22:37:43 +0000 \nI \nmportance: Normal \ncwtsatotravel.com> \n, now awaiting further approval \nDear \nFinal voucher 10777198(1) has been approved by ow awaiting further approval. \nTrip ID: \n10777198 \nVoucher ID: 1 \nVoucher type: \nTraveler name \nPurpose: R20NYS13144 - Epstein investigation - Witness Interviews \nDestination: West Palm Beach, FL, United States \nDates: 2019-11-04 - 2019-11-05 \nCurrent status: Pending Voucher Approval \nVoucher total expenses: 548.87 \nEstimated trip cost: \n985.44 \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# V0010 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00020986",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Final Voucher",
+        "role": "extracted",
+        "context": "travelservices \nTo: \nSubject: Final Voucher 10777198(1) approved b \nDate:"
+      },
+      {
+        "name": "Dear \nFinal",
+        "role": "extracted",
+        "context": "ow awaiting further approval \nDear \nFinal voucher 10777198(1) has been"
+      },
+      {
+        "name": "Witness Interviews",
+        "role": "extracted",
+        "context": "144 - Epstein investigation - Witness Interviews \nDestination: West Palm Beach"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "ness Interviews \nDestination: West Palm Beach, FL, United States \nDat"
+      },
+      {
+        "name": "Pending Voucher",
+        "role": "extracted",
+        "context": "- 2019-11-05 \nCurrent status: Pending Voucher Approval \nVoucher total expen"
+      },
+      {
+        "name": "Approval \nVoucher",
+        "role": "extracted",
+        "context": "rrent status: Pending Voucher Approval \nVoucher total expenses: 548.87 \nEstim"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "imated trip cost: \n985.44 \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "cost: \n985.44 \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.gov/jmd"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "v/jmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-04",
+        "event": "2019-11-04"
+      },
+      {
+        "date": "2019-11-05",
+        "event": "2019-11-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.767Z"
+}

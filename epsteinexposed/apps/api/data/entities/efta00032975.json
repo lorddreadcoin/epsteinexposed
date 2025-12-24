@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032975",
+    "filename": "EFTA00032975.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032975.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nalMIE> \nTo: \"Strauss, Audrey \n(USANYS)\" <IMINE> \nSubject: RE: Do we have transcript of hearing? \nDate: Thu, 29 Aug 2019 21:09:57 +0000 \nAttachments: J8RpEPSf.pdf \nAttached, \n Original Message \nFrom: Strauss, Audrey (USANYS) \nSent: Thursda Au ust 29, 2019 5:09 \nPM \nTo: (USANYS) alMIE> \nSubject: Re: Do we have transcript of hearing? \nIlf you send transcript now I will get that sent along and then call you. \nSent from my iPhone \n> On \nAug 29, 2019, at 5:07 PM, \n(USANYS) \naMIE> \nwrote: \n> Yes, will send. And I'm ready to do updates now if you're free. Am at my desk. \n> Original Message \n> From: Strauss, Audrey \n(USANYS) \n> Sent: \nThursda Au ust 29, 2019 5:05 PM \n> \nTo: \n(USANYS) \n> \nSubject: \nDo we have transcript of hearing? \n> IN \nis asking for it. \n> Sent from my iPhone \nEFTA00032975",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ts: J8RpEPSf.pdf \nAttached, \n Original Message \nFrom: Strauss, Audrey (USANY"
+      },
+      {
+        "name": "Thursda Au",
+        "role": "extracted",
+        "context": "rauss, Audrey (USANYS) \nSent: Thursda Au ust 29, 2019 5:09 \nPM \nTo: (U"
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": "you. \nSent from my iPhone \n> On \nAug 29, 2019, at 5:07 PM, \n(USANY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.948Z"
+}

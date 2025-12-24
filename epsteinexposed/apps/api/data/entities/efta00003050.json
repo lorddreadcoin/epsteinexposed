@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00003050",
+    "filename": "EFTA00003050.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003050.pdf",
+    "text": "\n\nToday's \nDate: \nEmployee \nName \nPhysical \nAddress: \nIsia:Eng \nAddress: \nL \nCell \nPhone \nE-mail: \nTitle/Position: \nLSJE, \nLLC \n( \net's. \nSuite \nB-3. \nSt. \nThomas. \nVI \n00802-1348 \nPilot \nE-mail: \nthesaintjames.group@,gmaiI.com \nEmergency \nContact \nForm \n10/18/18 \nDonald \nPo4lon \nStart \nDate: \nDate \nof \nBirth: \nr\nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nAllergies \nor \nHealth \nConcerns:\nBlood \ntyoe: \n7 \nA- \nD \nA+ \n7 \nAB- \nD \nAB+ \nE \nCurrent \nMedications: \nDoctors \nName: \nDoctor's \nName: \nB-\nE \n8+ \n0 \nO\n-\nc \no+ \nE \nUnknown \nin \ncase \nof \nemergency, \nplease \ncontact: \nName: \nName: \nRelationship: \nRelationship: \nDoctor's \nPhone: \nDoctor's \nPhone: \nPhone: \nPhone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers. \nEFTA00003050",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "Today's \nDate: \nEmployee \nName \nPhysical \nAddress: \nIsia:Eng"
+      },
+      {
+        "name": "Physical \nAddress",
+        "role": "extracted",
+        "context": "day's \nDate: \nEmployee \nName \nPhysical \nAddress: \nIsia:Eng \nAddress: \nL \nCell"
+      },
+      {
+        "name": "Eng \nAddress",
+        "role": "extracted",
+        "context": "ame \nPhysical \nAddress: \nIsia:Eng \nAddress: \nL \nCell \nPhone \nE-mail: \nTi"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "ress: \nIsia:Eng \nAddress: \nL \nCell \nPhone \nE-mail: \nTitle/Position: \nLS"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "esaintjames.group@,gmaiI.com \nEmergency \nContact \nForm \n10/18/18 \nDonald \nPo4l"
+      },
+      {
+        "name": "Donald \nPo",
+        "role": "extracted",
+        "context": "ncy \nContact \nForm \n10/18/18 \nDonald \nPo4lon \nStart \nDate: \nDate \nof"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "rm \n10/18/18 \nDonald \nPo4lon \nStart \nDate: \nDate \nof \nBirth: \nr\nPhone"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "f \nBirth: \nr\nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nAll"
+      },
+      {
+        "name": "License \nNo",
+        "role": "extracted",
+        "context": "Marital \nStatus: \nDriver's \nLicense \nNo: \nAllergies \nor \nHealth \nConc"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "License \nNo: \nAllergies \nor \nHealth \nConcerns:\nBlood \ntyoe: \n7 \nA- \nD \nA+"
+      },
+      {
+        "name": "Current \nMedications",
+        "role": "extracted",
+        "context": "A- \nD \nA+ \n7 \nAB- \nD \nAB+ \nE \nCurrent \nMedications: \nDoctors \nName: \nDoctor's \nN"
+      },
+      {
+        "name": "Doctors \nName",
+        "role": "extracted",
+        "context": "B+ \nE \nCurrent \nMedications: \nDoctors \nName: \nDoctor's \nName: \nB-\nE \n8+"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.604Z"
+}

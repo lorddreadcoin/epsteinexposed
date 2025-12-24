@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00009964",
+    "filename": "EFTA00009964.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009964.pdf",
+    "text": "\n\nFrom: \n'• \n(USANYS) [Contractor]\" \nTo: (USANYS)\" < >, \" (USANYS)\" \nSubject: Outstanding requests - update \nDate: Mon, 09 Sep 2019 14:56:03 +0000 \nAttachments: 2019.07.27_Daily_Assignment_Roster.pdf \nI'm working though the outstanding requests, specifically those that we sent last week. \nThe Commissary Reports are in the shared here: \n\\usa.doj.gov\\ clouanys \\StAndrewASharealnReEpsteinDeath-2019R01059 \\ Evidence Epstein General BOP Records \nAdditionally, the records for EM, M, and (no or =) are here as well (in the same document). \nHowever, all they entail is a single truview page and nothing else. The actual receipts are only for Epstein, M, and \nWhat I'm not sure on is the signed SHU post order review sheets. I have looked through the files and can't seem to find \nthem anywhere. Albeit I don't know what they look like but I do think I would have recognized them. I will keep looking. \nLastly, are the post orders for SHU the same as the daily assignment roster? I've attached one of them as an example. If \nso, we are missing several from the time period that we requested (7/1 -  8/10). \nI'm going to continue to work through the spreadsheet as well. \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell: \nEFTA00009964",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Commissary",
+        "role": "extracted",
+        "context": "hose that we sent last week. \nThe Commissary Reports are in the shared her"
+      },
+      {
+        "name": "Evidence Epstein",
+        "role": "extracted",
+        "context": "lnReEpsteinDeath-2019R01059 \\ Evidence Epstein General BOP Records \nAddition"
+      },
+      {
+        "name": "Records \nAdditionally",
+        "role": "extracted",
+        "context": "Evidence Epstein General BOP Records \nAdditionally, the records for EM, M, and ("
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "ugh the spreadsheet as well. \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.009Z"
+}

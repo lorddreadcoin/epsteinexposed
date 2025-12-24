@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00032883",
+    "filename": "EFTA00032883.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032883.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Notice of Contract Award 15JA5419P00000377 \nDate: Thu, 22 Aug 2019 13:28:56 +0000 \nAttachments: contract.pdf \nInline-Images: image001.jpg; image002.jpg \nAttached is a contract for your video/audio services; please retain for your records. \nThe period of performance of this contract is from 8/22/2019 -  11/21/2019. The total estimated value of this \ncontract is $12,262.50. \nIf you have any contract related questions, please don't hesitate to contact me. For service request related \nquestions, please reach out to AUSA \nPlease email all invoices and payment related questions tn \nthe following information on your invoice correspondence: \n• Contract# 15JA5419P00000377 \n• Reference# R19NY518025 \nContract \nSpecialist (FAC-C/COR III) \nU.S. Attorney's Office, Southern District of New York \n86 Chambers St. /New York, N.Y. 10007 \nRemember to include \nEFTA00032883",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Contract Award",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: Notice of Contract Award 15JA5419P00000377 \nDate: Thu,"
+      },
+      {
+        "name": "Contract \nSpecialist",
+        "role": "extracted",
+        "context": "77 \n• Reference# R19NY518025 \nContract \nSpecialist (FAC-C/COR III) \nU.S. Attorne"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "III) \nU.S. Attorney's Office, Southern District of New York \n86 Chambers St."
+      },
+      {
+        "name": "Chambers St",
+        "role": "extracted",
+        "context": "hern District of New York \n86 Chambers St. /New York, N.Y. 10007 \nRemem"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-22",
+        "event": "8/22/2019"
+      },
+      {
+        "date": "2019-11-21",
+        "event": "11/21/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.692Z"
+}

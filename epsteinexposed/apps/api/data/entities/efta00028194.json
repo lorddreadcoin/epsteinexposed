@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028194",
+    "filename": "EFTA00028194.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028194.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: (USANYS)\"  \nSubject: Re: \nrequest \nDate: \nTue, 17 Sep 2019 13:43:13 +0000 \nYes thanks we figured that out yesterday. \nSony \nfor the error. \nSent from my iPhone \nOn Sep 17, \n2019, at 9:35 AM, (USANYS)      wrote: \nI just realized you may have wanted to send to and not me. \nFrom: Strauss, (USANYS) \nSent: Monday, September 16, 2019 3:50 PM \nTo: \n(USANYS)4> (USANYS)\n1 .a) (USANYS) \nSubject: request \nrequests Urgent report on the DB part of Epstein case (or the Epstein part of DB. This could be separate UMR or \ntagged onto the DB/Kushner UMR, depending on how we see it—is it part of pre-existing DB SAR investigation or \nseparate? \nPlease let me know how you plan to proceed. \nThanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel. \nEFTA00028194",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "for the error. \nSent from my iPhone \nOn Sep 17, \n2019, at 9:35 AM, (U"
+      },
+      {
+        "name": "Thanks \nDeputy",
+        "role": "extracted",
+        "context": "now how you plan to proceed. \nThanks \nDeputy United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Thanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel. \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-16",
+        "event": "September 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.803Z"
+}

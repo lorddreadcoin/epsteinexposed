@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020801",
+    "filename": "EFTA00020801.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020801.pdf",
+    "text": "\n\nFrom: \n1. \naMIE> \n'Fo: ' \n\" <IMINc> \n' \n, \nSubject: New Victims Emerge As Epstein Awaits Bail Hearing - Gothamist \nDate: Fri, 12 Jul 2019 22:42:07 +0000 \nImportance: Normal \nhttps://gothamist.corn/2019/07/12/new_victimsjeffrey_epstein.php \nSent from my iPhone \nEFTA00020801",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Victims",
+        "role": "extracted",
+        "context": "' \n\" <IMINc> \n' \n, \nSubject: New Victims Emerge As Epstein Awaits Bail"
+      },
+      {
+        "name": "Emerge As",
+        "role": "extracted",
+        "context": "> \n' \n, \nSubject: New Victims Emerge As Epstein Awaits Bail Hearing -"
+      },
+      {
+        "name": "Epstein Awaits",
+        "role": "extracted",
+        "context": "ubject: New Victims Emerge As Epstein Awaits Bail Hearing - Gothamist \nDat"
+      },
+      {
+        "name": "Bail Hearing",
+        "role": "extracted",
+        "context": "tims Emerge As Epstein Awaits Bail Hearing - Gothamist \nDate: Fri, 12 Ju"
+      },
+      {
+        "name": "Gothamist \nDate",
+        "role": "extracted",
+        "context": "Epstein Awaits Bail Hearing - Gothamist \nDate: Fri, 12 Jul 2019 22:42:07 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.621Z"
+}

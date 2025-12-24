@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014034",
+    "filename": "EFTA00014034.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014034.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Emailing: Work Release Notice \nDate: Fri, 05 Dec 2008 11:12:42 +0000 \nImportance: Normal \nFine \nOri inal Messa e \nFro \nTo: S \nSent: Thu Dec 04 17:24:05 2008 \nSubject: Emailing: Work Release Notice \nI  have attached a draft letter to victims notifying them of Epstein's work release. I will fill in the blank tomorrow. Any objections to the \nlanguage? \nThanks. \nThe message is ready to be sent with the following file or link attachments: \nWork Release Notice — \nNote: To protect against computer viruses, e-mail programs may prevent sending or receiving certain types of file attachments. Check your \ne-mail security settings to determine how attachments are handled. \nEFTA00014034",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Work Release",
+        "role": "extracted",
+        "context": "To: \nSubject: Re: Emailing: Work Release Notice \nDate: Fri, 05 Dec 200"
+      },
+      {
+        "name": "Notice \nDate",
+        "role": "extracted",
+        "context": "t: Re: Emailing: Work Release Notice \nDate: Fri, 05 Dec 2008 11:12:42 +0"
+      },
+      {
+        "name": "Normal \nFine",
+        "role": "extracted",
+        "context": "8 11:12:42 +0000 \nImportance: Normal \nFine \nOri inal Messa e \nFro \nTo: S"
+      },
+      {
+        "name": "Fro \nTo",
+        "role": "extracted",
+        "context": "rmal \nFine \nOri inal Messa e \nFro \nTo: S \nSent: Thu Dec 04 17:24:05"
+      },
+      {
+        "name": "Thu Dec",
+        "role": "extracted",
+        "context": "al Messa e \nFro \nTo: S \nSent: Thu Dec 04 17:24:05 2008 \nSubject: Em"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.983Z"
+}

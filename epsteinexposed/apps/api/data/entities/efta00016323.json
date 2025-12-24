@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016323",
+    "filename": "EFTA00016323.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016323.pdf",
+    "text": "\n\nFrom: \" \nTo:' \nCc:\" \n(NY) \n(FBI)\" alMIE> \nSubject: Maxwell - CapitalOne/SAKS Credit \nCard \nDate: Mon, 22 Jun 2020 13:14:55 +0000 \nAttachments: Experian_8-28-19_ProdnG_Maxwell.pdf \nPer the Maxwell's Experian report (August 2019), Maxwell has an open CapitalOne/SAKS credit card (account \nnumber Per the Experian report, as of the 8/15/19 the card had a zero balance and the last payment \nmade on the card was in May of 2019. I have attached the Experian report for your reference. \nI am preparing a summary of Maxwell's credit cards. I anticipate sending out that summary either today or \ntomorrow. \nBest \nForensic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA00016323",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Credit \nCard",
+        "role": "extracted",
+        "context": "ct: Maxwell - CapitalOne/SAKS Credit \nCard \nDate: Mon, 22 Jun 2020 13:14"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "y either today or \ntomorrow. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "BI New York Field \nOffice \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.476Z"
+}

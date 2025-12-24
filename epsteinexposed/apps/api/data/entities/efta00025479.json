@@ -1,0 +1,102 @@
+{
+  "document": {
+    "id": "efta00025479",
+    "filename": "EFTA00025479.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025479.pdf",
+    "text": "\n\nSubject: RE: Tha Yes Pleas log in & approve \nDate: Mon, 04 May 2020 16:03:37 +0000 \nDone — thank you I I \nSubject: Thank Yes Pleas log in & approve \nDate: May 3, 2020 at 2:41:49 PM EDT \nSubject: FW: Voucher for THp 11164814 is late \nDo I need to do anything for this voucher? Just checking — thanks! \nFrom: etravelservices@cwtsatotravel.con \nSubject: Voucher for Trip 11164814 is late \nDear \nYour travel voucher for the trip below is now late based on your customer settings. Please submit your voucher \nfor this trip and mark it as Final if you have no additional expenses to claim. \nTrip ID: 11164814 \nTraveler name: \nDestination: San \nPurpose: \nR20NYS \n13444 - Epstein Investigation - Witness interview \nTrip Dates: 2019-12-15 - 2019-12-18 \nCurrent status: Authorization Approved \nonica \nE2 Single Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.ggAmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttps://e2.gov.cwtsatotravel.com \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nEFTA00025479\n\nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change \nyour email settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage \nthe emails that you receive from us. \nReference ID# V0013 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this \ne-mail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00025480",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tha Yes",
+        "role": "extracted",
+        "context": "Subject: RE: Tha Yes Pleas log in & approve \nDate:"
+      },
+      {
+        "name": "Thank Yes",
+        "role": "extracted",
+        "context": "one — thank you I I \nSubject: Thank Yes Pleas log in & approve \nDate:"
+      },
+      {
+        "name": "Dear \nYour",
+        "role": "extracted",
+        "context": "er for Trip 11164814 is late \nDear \nYour travel voucher for the trip b"
+      },
+      {
+        "name": "San \nPurpose",
+        "role": "extracted",
+        "context": "Traveler name: \nDestination: San \nPurpose: \nR20NYS \n13444 - Epstein Inv"
+      },
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "an \nPurpose: \nR20NYS \n13444 - Epstein Investigation - Witness interview \nTrip Dat"
+      },
+      {
+        "name": "Trip Dates",
+        "role": "extracted",
+        "context": "tigation - Witness interview \nTrip Dates: 2019-12-15 - 2019-12-18 \nCur"
+      },
+      {
+        "name": "Authorization Approved",
+        "role": "extracted",
+        "context": "- 2019-12-18 \nCurrent status: Authorization Approved \nonica \nE2 Single Sign On Log"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "orization Approved \nonica \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "proved \nonica \nE2 Single Sign On Login (within DOJ Network Only): \nh"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nhttps://dojnet.doj.ggAmd/f"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "ggAmd/fs/e2-redirect.html \nE2 Manual Login (User ID and Password): \nhttp"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-15",
+        "event": "2019-12-15"
+      },
+      {
+        "date": "2019-12-18",
+        "event": "2019-12-18"
+      },
+      {
+        "date": "2020-05-03",
+        "event": "May 3, 2020"
+      },
+      {
+        "date": "2020-05-04",
+        "event": "04 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.246Z"
+}

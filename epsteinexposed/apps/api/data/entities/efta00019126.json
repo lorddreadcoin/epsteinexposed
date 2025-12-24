@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019126",
+    "filename": "EFTA00019126.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019126.pdf",
+    "text": "\n\nFrom: \"Weinstein, Marc A.\" < \nTo: =Mrs' \n<I \nCc: Andrew Tomback  \nSubject: Epstein Estate update \nDate: Mon, 09 Nov 2020 14:49:47 +0000 \nH,' \nand \nWould you have time for a call this afternoon to give you an update on a  new development? \nThanks, \nMarc \nMarc A. Weinstein I Partner \nChair. White Collar Defense \nHughes Hubbard & Reed LLP \nThis message contains confidential information and is intended only (or the individual named. If  you are not the named addressee you should not \ndisseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-\nmail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted. corrupted, lost. \ndestroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this \nmessage. which arise as a result of e-mail transmission. If \nverification \nis required please request a hard-copy version. \nEFTA00019126",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "arc A.\" < \nTo: =Mrs' \n<I \nCc: Andrew Tomback  \nSubject: Epstein Estate upd"
+      },
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "Cc: Andrew Tomback  \nSubject: Epstein Estate update \nDate: Mon, 09 Nov 202"
+      },
+      {
+        "name": "Marc \nMarc",
+        "role": "extracted",
+        "context": "a  new development? \nThanks, \nMarc \nMarc A. Weinstein I Partner \nChair"
+      },
+      {
+        "name": "Partner \nChair",
+        "role": "extracted",
+        "context": "s, \nMarc \nMarc A. Weinstein I Partner \nChair. White Collar Defense \nHughes"
+      },
+      {
+        "name": "White Collar",
+        "role": "extracted",
+        "context": ". Weinstein I Partner \nChair. White Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "Partner \nChair. White Collar Defense \nHughes Hubbard & Reed LLP \nThis mess"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.343Z"
+}

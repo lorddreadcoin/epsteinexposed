@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00023466",
+    "filename": "EFTA00023466.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023466.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Maxwell - RTC \nDate: Thu, 30 Sep 2021 14:50:26 +0000 \nImportance: Normal \nAttachments: Maxwell RTC v 1  I .docx \nHi M, \nI hope all's well! Attached is a draft of our RTC in the Maxwell case. If you have time to look at it, we'd love any \ncomments you might have. \nIn terms of timing, we have to file a  joint proposed RTC on October 27, so we are thinking of sending this to the defense a \nweek or so before that. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00023466",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 14:50:26 +0000 \nImportance: Normal \nAttachments: Maxwell RTC v 1  I .docx \nHi"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "or so before that. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.017Z"
+}

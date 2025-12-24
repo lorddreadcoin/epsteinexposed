@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026833",
+    "filename": "EFTA00026833.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026833.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nCc: al\n1SANYS)\" \nci \nSubject: RE: Epstein SW returns \nDate: Mon, 12 Oct 2020 14:51:23 +0000 \nAttachments: STR SearchTermsReport_2020_10_12.pdf \nThe Goldberger hits have been moved out. \nThanks, \nFrom: \nSent: Sunday, October 11, 2020 5:14 PM \nTo: \nCc: \nSubject: RE: Epstein SW returns \n(USANYS) < \n>; \nThat is Jack Goldberger's email address. I'll ask to have the Goldberger hits pulled now and will let you know when they \nare moved out. \nFrom: \nSent: Sunday, October 11, 2020 12:52 PM \nTo: \n)  < \nCc: (USANYS) \nSubject: Epstein SW returns \nHi \nFor the Epstein search warrant database, I saw an email from the following email address that I wanted to flag for further \nprivilege review, because it may belong to Jack Goldberger, who represented Epstein: \nThanks, \nEFTA00026833",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Goldberger",
+        "role": "extracted",
+        "context": "chTermsReport_2020_10_12.pdf \nThe Goldberger hits have been moved out. \nTh"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "urns \n(USANYS) < \n>; \nThat is Jack Goldberger's email address. I'll ask to"
+      },
+      {
+        "name": "Hi \nFor",
+        "role": "extracted",
+        "context": "Subject: Epstein SW returns \nHi \nFor the Epstein search warrant da"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-11",
+        "event": "October 11, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.939Z"
+}

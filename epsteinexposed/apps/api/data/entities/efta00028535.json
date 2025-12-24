@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00028535",
+    "filename": "EFTA00028535.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028535.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: RE: pros \nmemo \nDate: Thu, 08 Aug 2019 15:38:02 +0000 \nAttachments: 2019-06-17, JE,_prosecution_memo.docx \nSure! I'm honestly not sure exactly where it is on the share at this point, but it's the one that got emailed around a bunch \nof times so whenever I need it I just pull it from those messages. Attached. \nFrom: \nSent: Thursday, August 08, 2019 10:41 \nTo: \nSubject: pros memo \nCould you please send me whatever the final version \nwas? Thanks. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00028535",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "final version \nwas? Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "as? Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00028535"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-17",
+        "event": "2019-06-17"
+      },
+      {
+        "date": "2019-08-08",
+        "event": "August 08, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.423Z"
+}

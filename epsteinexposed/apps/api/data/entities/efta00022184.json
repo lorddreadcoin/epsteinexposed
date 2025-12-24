@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022184",
+    "filename": "EFTA00022184.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022184.pdf",
+    "text": "\n\nSubject: \n[EXTERNAL] US V Maxwell \nFrom: \"M=, (USANYS) [Contractor]\" \n<aMINE> \nTo: allin.11YS)\" <alMIE>, \"a, (USANYS)\" \nSubject: Fwd: [EXTERNAL] US V Maxwell \nDate: Tue, 30 Nov 2021 01:11:31 +0000 \nAttachments: XLBTVMAXF_4PP.PDF; LBTVMAXF_4PP.PDF; LBTVMAXF.PDF; XLBTVMAXF.PDF \nTrial transcripts from today \nSent from my iPhone \nBegin forwarded message: \nFrom: \nc\nl.a> \nDate: November 29 2021 at 6:54:33 PM EST \nTo: \" USANYS Contractor)\" \nUSANYS \nEFTA00022184",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nFrom",
+        "role": "extracted",
+        "context": "Subject: \n[EXTERNAL] US V Maxwell \nFrom: \"M=, (USANYS) [Contractor]\""
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Subject: Fwd: [EXTERNAL] US V Maxwell \nDate: Tue, 30 Nov 2021 01:11:31 +0"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "pts from today \nSent from my iPhone \nBegin forwarded message: \nFrom: \nc"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.195Z"
+}

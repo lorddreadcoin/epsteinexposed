@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032426",
+    "filename": "EFTA00032426.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032426.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: Update? \nDate: Mon, 09 Sep 2019 22:46:31 +0000 \nI am leaving shortly. No major news. \nreturned from her grandfather's funeral. \nEpstein: we interviewed one victim today. \nMCC: We interviewed an inmate. \nIf we don't connect, we can talk in the morning. \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel.: \nEFTA00032426",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Deputy United",
+        "role": "extracted",
+        "context": "we can talk in the morning. \nDeputy United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "n the morning. \nDeputy United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel.:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.601Z"
+}

@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00014007",
+    "filename": "EFTA00014007.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014007.pdf",
+    "text": "\n\nFrom: (USAFLS)\" \nalMIN> \nTo: (USAFLS)\" alMIN> \nCc: \"Acosta, Alex \n(USAFLS)\" ala> \nSubject: Re: Epstein \nDate: Thu, 03 Jul 2008 17:11:33 +0000 \nImportance: Normal \nThanks \nOriginal Message \nFrom: (USAFLS) \nTo: (USAFLS) \nSent: Thu Jul 03 11:36:42 2008 \nSubject: Epstein \nHi M— I just got an earful from the last of the victims' lawyers. He is a former Broward County ASA and he represents three victims. \nHe says that his clients can name many more victims and wanted to know if we can get out of the deal. I  told him that, at this time, \nassuming that Epstein performs the last piece of the agreement, we are bound. He asked that, if there is the slightest hesitation on Epstein's \npart of completing his performance, that he and his clients be allowed to consult with our office before making a decision. \nI also couldn't remember if I told you about our meeting with the Sheriff's Office about the jail. Epstein is out at the stockade, not the jail. \nGoldberger and some psychiatrist have already met with him and have told him that, if he receives any less favorable treatment than others, \nKen Starr and the whole crew will sue. He also told me that Epstein was \"brilliant\" and that he has already offered to teach GED classes. I \nsort of cocked my head at the \"brilliant\" comment and said, you know he only has a high school diploma, right? (I used my best, \"don't \nbelieve the hype\" voice. He was clearly shocked, and I explained that Epstein usually claims to have at least a master's degree, but other \nthan a few college courses, he had no education above a high school diploma, which I  think makes him ineligible to teach a GED course.) \nHe also told us that Epstein is eligible for work release and will be placed on work release —  in direct contradiction to what he told the \nagents a few months ago. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax. \nEFTA00014007",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "(USAFLS)\" ala> \nSubject: Re: Epstein \nDate: Thu, 03 Jul 2008 17:11:33 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "8 17:11:33 +0000 \nImportance: Normal \nThanks \nOriginal Message \nFrom: (USA"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "Importance: Normal \nThanks \nOriginal Message \nFrom: (USAFLS) \nTo: (USAFLS)"
+      },
+      {
+        "name": "Thu Jul",
+        "role": "extracted",
+        "context": "(USAFLS) \nTo: (USAFLS) \nSent: Thu Jul 03 11:36:42 2008 \nSubject: Ep"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "ul 03 11:36:42 2008 \nSubject: Epstein \nHi M— I just got an earful from"
+      },
+      {
+        "name": "Broward County",
+        "role": "extracted",
+        "context": "tims' lawyers. He is a former Broward County ASA and he represents three v"
+      },
+      {
+        "name": "Ken Starr",
+        "role": "extracted",
+        "context": "rable treatment than others, \nKen Starr and the whole crew will sue."
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "w months ago. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax. \nEFTA0"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax. \nEFTA00014007"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.924Z"
+}

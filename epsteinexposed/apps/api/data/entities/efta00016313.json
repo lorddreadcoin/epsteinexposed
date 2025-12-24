@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016313",
+    "filename": "EFTA00016313.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016313.pdf",
+    "text": "\n\nFrom: \" \nTo:'(NY) (FBI)\" (NY) (FBI)\" \nCc: \" \n)\" \n)\" \nSubject: follow-up call \nDate: Fri, 12 Jun 2020 17:12:14 +0000 \nAttachments: 2019-09-25. \nand M, \nAre you available for a call at 10 a.m. on Monday morning? We wanted to follow up on some of the information we've \nbeen emailing about. Below are the topics we'd like to discuss—if you're able to address these topics on the call, we'd \nvery much appreciate it. \n• What current/active financial accounts are we are of for Maxwell, including credit card accounts? \n• What is the connection between Maxwell and UMB bank, and what did we expect to find when we issued the \nsubpoena? \n• We issued a subpoena to Mon 9/25/19 (attached). SDNY does not have returns — have you received them? \n• When was the last time we ran a SAR/CTR check on Maxwell? Have there been any filings in the past year for her \naccounts? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016313",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "for her \naccounts? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016313"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-25",
+        "event": "2019-09-25"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.455Z"
+}

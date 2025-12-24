@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00024793",
+    "filename": "EFTA00024793.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024793.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: Sigrid McCawley \nall==> \nCc: \n\" \nSubject: Rule 412 Motion \nDate: Thu, 28 Oct 2021 23:41:49 +0000 \nAttachments: Del_412_Mot.for BSF_Redacted.pdf; 2021.10.28_order re_November_l_Conference.pdf \nSigrid, \nAttached please find a redacted version of the defense's memorandum of law in support of her Federal Rule of Evidence \n412 motion. This was filed under seal by the defense. Any response is due on November 1, 2021. Likewise, any and all \nresponses will also be filed under seal and will not be docketed. The Court also ordered that any in camera hearing is \ntentatively scheduled for November 5, 2021. We are happy to discuss tomorrow. \nI'm also attaching the Court's Order about the November 1 in-person pretrial conference. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00024793",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "From: \n(USANYS)\" \nTo: Sigrid McCawley \nall==> \nCc: \n\" \nSubjec"
+      },
+      {
+        "name": "Motion \nDate",
+        "role": "extracted",
+        "context": "=> \nCc: \n\" \nSubject: Rule 412 Motion \nDate: Thu, 28 Oct 2021 23:41:49 +0"
+      },
+      {
+        "name": "Federal Rule",
+        "role": "extracted",
+        "context": "ndum of law in support of her Federal Rule of Evidence \n412 motion. This"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "retrial conference. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-01",
+        "event": "November 1, 2021"
+      },
+      {
+        "date": "2021-11-05",
+        "event": "November 5, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.853Z"
+}

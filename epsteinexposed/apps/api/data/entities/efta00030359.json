@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030359",
+    "filename": "EFTA00030359.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030359.pdf",
+    "text": "\n\nFrom: \nII \nTo: \n, \n(NY) \n(FBI)\" \nSubject: detention memo \nDate: Thu, 02 Jul \n2020 16:09:26 +0000 \nAttachments: \n2020-07-02,United_States_y._Maxwel1,20_Cr._330 \nJAJN),detention_memorandum.pdf \nHere's what we filed, FYI. We'll \naddress the circumstances of \nthe arrest orally during the \nargument. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030359",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "orally during the \nargument. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "argument. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030359"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "2020-07-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.671Z"
+}

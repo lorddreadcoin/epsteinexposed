@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00015334",
+    "filename": "EFTA00015334.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015334.pdf",
+    "text": "\n\nFrom: \"Sl\" \nTo: MC.M`.Me \nSubject: RE: Epstein \nDate: Wed, 19 Jun 2019 23:24:58 +0000 \nImportance: Normal \nThanks!! Been an insane pace for months but we're happy with how it's going. \n Original Message \nFrom: (USANYS) 4 \nSent: Wednesda June 19 2019 16:51 \nTo: `:IMIE:>; \nSubject: Epstein \nAmazing work on this case! \nEFTA00015334",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Me \nSubject",
+        "role": "extracted",
+        "context": "From: \"Sl\" \nTo: MC.M`.Me \nSubject: RE: Epstein \nDate: Wed, 19 J"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\" \nTo: MC.M`.Me \nSubject: RE: Epstein \nDate: Wed, 19 Jun 2019 23:24:58 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 23:24:58 +0000 \nImportance: Normal \nThanks!! Been an insane pace for mon"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "happy with how it's going. \n Original Message \nFrom: (USANYS) 4 \nSent: Wedn"
+      },
+      {
+        "name": "Wednesda June",
+        "role": "extracted",
+        "context": "sage \nFrom: (USANYS) 4 \nSent: Wednesda June 19 2019 16:51 \nTo: `:IMIE:>;"
+      },
+      {
+        "name": "Epstein \nAmazing",
+        "role": "extracted",
+        "context": "6:51 \nTo: `:IMIE:>; \nSubject: Epstein \nAmazing work on this case! \nEFTA00015"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-19",
+        "event": "June 19 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.472Z"
+}

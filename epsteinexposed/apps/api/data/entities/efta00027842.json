@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00027842",
+    "filename": "EFTA00027842.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027842.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Epstein -- travel approval form \nDate: Fri, 31 Jan 2020 18:47:05 +0000 \n& thanks for helping with this. \nFrom \nSept: \nFriday January 31 \n2020 1.47 PM \nTo \nSu ject: RE: Epstein -- travel approval form \nAny updates on the signed memo? said I need to email it to EOUSA this afternoon. \nFrom: \nSent: Friday, January 31, 2020 12 53 PM \nTo: \nCc: \nSubject: RE: Epstein -- travel approval form \nAlready signed and sent upstairs . . . . I will do my best to ensure signature immediately. \nRe: this afternoon: it may be best to kick it to next week. If some time develops before 3, I'll let you know, but right now \nit is iffy. \nFrom: \nSent: nay, January 31, 2020 12:21 PM \nTo: \nCc: \nSubject: Epstein -- travel approval form \nWe dropped off the Sweden travel memo for you —  we were unexpectedly significantly delayed in getting OIA approval, \nbut it finally came this morning, so with apologies for the short turnaround, hoping to get Office and final DOJ approval \nthis afternoon. Thank you! \nAnd separately, if you still wanted to meet up today, be around until about 3:00, but I'm also flexible next week if that's \neasier. \nthanks again, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00027842",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSept",
+        "role": "extracted",
+        "context": "hanks for helping with this. \nFrom \nSept: \nFriday January 31 \n2020 1.4"
+      },
+      {
+        "name": "Friday January",
+        "role": "extracted",
+        "context": "ping with this. \nFrom \nSept: \nFriday January 31 \n2020 1.47 PM \nTo \nSu ject"
+      },
+      {
+        "name": "To \nSu",
+        "role": "extracted",
+        "context": "day January 31 \n2020 1.47 PM \nTo \nSu ject: RE: Epstein -- travel a"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "thanks again, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-31",
+        "event": "January 31 \n2020"
+      },
+      {
+        "date": "2020-01-31",
+        "event": "January 31, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.093Z"
+}

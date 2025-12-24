@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00022513",
+    "filename": "EFTA00022513.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022513.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: Memorandum endorsement in 20-cr-330, US v Maxwell \nDate: Mon, 03 May 2021 14:44:52 +0000 \nAttachments: 20cr330_Memo_Endorsement_5.3.21.pdf \nCounsel, \nPlease find attached a memorandum endorsement signed by Judge Nathan, which has been filed on the public \ndocket. \nRespectfully, \nThe Chambers of the Hon. Alison J. Nathan \nEFTA00022513",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: Memorandum endorse"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "ndorsement in 20-cr-330, US v Maxwell \nDate: Mon, 03 May 2021 14:44:52 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "orandum endorsement signed by Judge Nathan, which has been filed on the"
+      },
+      {
+        "name": "The Chambers",
+        "role": "extracted",
+        "context": "blic \ndocket. \nRespectfully, \nThe Chambers of the Hon. Alison J. Nathan"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-03",
+        "event": "03 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.054Z"
+}

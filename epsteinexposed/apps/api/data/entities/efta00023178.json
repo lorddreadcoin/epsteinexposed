@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023178",
+    "filename": "EFTA00023178.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023178.pdf",
+    "text": "\n\nFrom: \nTo: \nCc:\" \nSubject: RE: Epstein \nDate: Thu, 29 Nov 2018 19:32:45 +0000 \nImportance: Normal \nBased on the text of the non-pros, looks like a state indictment. I'm looking for it now. \nFrom:\nSent: Thursday, November 29, 2018 2:24 PM \nTo: \nCc: \nSubject: RE: Epstein \nThis is a particularly intriguing tid-bit: \nFacing a 53-page federal indictment, Epstein could have ended up in federal prison for the \nrest of his life. \nYou may want to see if anything was ever publicly filed. \nFrom:\nSent: Thursday, November 29, 2018 2:13 PM \nTo \nCc: \nSubject: Epstein \nHere's the article: \nhttps://www.miamiherald.corninews/local/article220097825.html \nSent from my iPhone \nEFTA00023178",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc:\" \nSubject: RE: Epstein \nDate: Thu, 29 Nov 2018 19:32:45 +0"
+      },
+      {
+        "name": "Normal \nBased",
+        "role": "extracted",
+        "context": "8 19:32:45 +0000 \nImportance: Normal \nBased on the text of the non-pros,"
+      },
+      {
+        "name": "Epstein \nThis",
+        "role": "extracted",
+        "context": "24 PM \nTo: \nCc: \nSubject: RE: Epstein \nThis is a particularly intriguing"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "y, November 29, 2018 2:13 PM \nTo \nCc: \nSubject: Epstein \nHere's th"
+      },
+      {
+        "name": "Epstein \nHere",
+        "role": "extracted",
+        "context": "18 2:13 PM \nTo \nCc: \nSubject: Epstein \nHere's the article: \nhttps://www.m"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-11-29",
+        "event": "November 29, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.408Z"
+}

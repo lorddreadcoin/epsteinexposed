@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00025481",
+    "filename": "EFTA00025481.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025481.pdf",
+    "text": "\n\nFrom: (USANYS) 1\"\nTo:' \n)\" \nSubject: RE: Sentencing with Berman \nDate: Tue, 05 May 2020 18:48:38 +0000 \nHe is out of control. \nFrom: \nSent: Tuesday, May 5, 2020 12:33 PM \nTo: (USANYS) 1 \nSubject: FW: Sentencing with Berman \nFrom: \nsc> \nSent: Tuesday, May 05, 2020 12:32 \nTo: \nSubject: Fwd: Sentencing with Berman \nSent from my iPhone \nBegin forwarded message: \nFrom: \n\"-(USANYS)\n„\n •cM: \nDate: May 5, 2020 at 12:26:14 PM EDT \nTo: 1 \n)\" \nSubject: Sentencing with Berman \nSua sponte talking right now about how he thinks Barr hasn't done a satisfactory investigation about Epstein's death and \nBOP generally in the wake of his death. \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nEFTA00025481",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Berman \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Sentencing with Berman \nDate: Tue, 05 May 2020 18:48:38 +0"
+      },
+      {
+        "name": "Berman \nFrom",
+        "role": "extracted",
+        "context": "Subject: FW: Sentencing with Berman \nFrom: \nsc> \nSent: Tuesday, May 05,"
+      },
+      {
+        "name": "Berman \nSent",
+        "role": "extracted",
+        "context": "Subject: Fwd: Sentencing with Berman \nSent from my iPhone \nBegin forward"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "ng with Berman \nSent from my iPhone \nBegin forwarded message: \nFrom: \n\"-"
+      },
+      {
+        "name": "Berman \nSua",
+        "role": "extracted",
+        "context": ")\" \nSubject: Sentencing with Berman \nSua sponte talking right now abou"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ly in the wake of his death. \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "his death. \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-05",
+        "event": "May 5, 2020"
+      },
+      {
+        "date": "2020-05-05",
+        "event": "May 05, 2020"
+      },
+      {
+        "date": "2020-05-05",
+        "event": "05 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.248Z"
+}

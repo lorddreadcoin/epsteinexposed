@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030972",
+    "filename": "EFTA00030972.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030972.pdf",
+    "text": "\n\nTo: \nFrom: \nSent: Mon 1/4/2010 8:36:55 PM (UTC) \nSubject: Admissibility of Sex Game \nHello and Happy New Year! \nHere's an issue I haven't seen addressed: CP distribution case arising from multiple reports of uploads to Yahoo photo albums. Four \ncomputers seized from defendant's house. CP-related activity found on all four. Forensics reveal a large compressed file on the root \nof the C drive of the computer most actively used for CP activity. The examiner was able to save and install the file and found it to be \na virtual reality game call Hizashi no nakano real, in which the player uses the mouse to control a virtual hand that molests an \nanimated Asian girl whose age appears to be about 10. The game was accompanied by a detailed \"walk through\" document telling \nthe steps for navigating the game. This document, like the game itself, is very graphic and detailed. The only Local User who has the \ngame loaded is our defendant. Forensics show our Local User had gotten to Level 4 of the game, which involves significant and \nsustained affirmative acts against the virtual girl. \nAdmissible? \nI'd appreciate your thoughts. \nEFTA00030972",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sex Game",
+        "role": "extracted",
+        "context": "C) \nSubject: Admissibility of Sex Game \nHello and Happy New Year! \nH"
+      },
+      {
+        "name": "Happy New",
+        "role": "extracted",
+        "context": "bility of Sex Game \nHello and Happy New Year! \nHere's an issue I have"
+      },
+      {
+        "name": "Local User",
+        "role": "extracted",
+        "context": "raphic and detailed. The only Local User who has the \ngame loaded is o"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2010-01-04",
+        "event": "1/4/2010"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.146Z"
+}

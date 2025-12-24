@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030018",
+    "filename": "EFTA00030018.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030018.pdf",
+    "text": "\n\nFrom: ' \nTo: '\nr1.1MEr, ' \n)\" \nSubject: Report on QAnon \nDate: Thu, 01 Apr 2021 17:58:52 +0000 \nFYI, from the April DOJ Libraries Newsletter, \"Countering QAnon: Understanding the \nRole of Human Trafficking in the Disinformation-Extremist Nexus.\" \nhttps://polarisproject.org/wp-content/uploads/2021/02/Polaris-Report-Countering-\nQAnon.pdf  Epstein gets mentioned, starting at page nine. \nThis also mentions in passing that radicalized people search for QAnon merchandise to \nbuy on the internet. Seems to me that if that is so, that is a path to follow to people \ndoing this to make money. Not for you all, but perhaps for another Unit. Be well. \nEFTA00030018",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Anon \nDate",
+        "role": "extracted",
+        "context": "r, ' \n)\" \nSubject: Report on QAnon \nDate: Thu, 01 Apr 2021 17:58:52 +0"
+      },
+      {
+        "name": "Libraries Newsletter",
+        "role": "extracted",
+        "context": "0000 \nFYI, from the April DOJ Libraries Newsletter, \"Countering QAnon: Understan"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "n: Understanding the \nRole of Human Trafficking in the Disinformation-Extremi"
+      },
+      {
+        "name": "Extremist Nexus",
+        "role": "extracted",
+        "context": "ficking in the Disinformation-Extremist Nexus.\" \nhttps://polarisproject.org"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.788Z"
+}

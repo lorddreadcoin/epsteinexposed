@@ -1,0 +1,56 @@
+{
+  "document": {
+    "id": "efta00026603",
+    "filename": "EFTA00026603.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026603.pdf",
+    "text": "\n\nEvent: Accepted: Epstein Call \nStart Date: 2020-05-22 17:00:00 +0000 \nEnd Date: 2020-05-22 18:00:00 +0000 \nLocation: 877-720-9282 - 8146826 \nClass: X-PERSONAL \nComment: \nDate Created: 2020-05-21 13:52:01 +0000 \nDate Modified: 2020-05-21 13:52:01 +0000 \nPriority: 5 \nDTSTAMP: 2020-05-21 13:34:35 +0000 \nAttendee \nEFTA00026603",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Call",
+        "role": "extracted",
+        "context": "Event: Accepted: Epstein Call \nStart Date: 2020-05-22 17:00"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "vent: Accepted: Epstein Call \nStart Date: 2020-05-22 17:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-05-22 17:00:00 +0000 \nEnd Date: 2020-05-22 18:00:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-05-21 13:52:01 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-05-21 13:52:01 +0000 \nDate Modified: 2020-05-21 13:52:01 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-22",
+        "event": "2020-05-22"
+      },
+      {
+        "date": "2020-05-21",
+        "event": "2020-05-21"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "877-720-9282"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.648Z"
+}

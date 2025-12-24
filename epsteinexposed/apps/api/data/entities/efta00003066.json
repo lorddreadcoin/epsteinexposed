@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00003066",
+    "filename": "EFTA00003066.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003066.pdf",
+    "text": "\n\n3 \nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTcl: \nFax: \nDate: \n03/25/18 \nEmployee \nName: \nPierre \nJules \nAddress: \nPhone \nTitle \n/ \nPosition: \nEmergency \nContact \nForm \nStart \nDate: \nDate \nof \nBirth \nE\n-Mail: \nn \nli\nmergency \nInformation: \nn \na \nAllergies \nor \nHealth \nConcerns: \nBloo0 \ntype \nunspecified \nBlood \nType: \nI \n_ \nCurrent \nMedication: \nDoctor's \nName: \nrVa \nDoctor's \nName: \nn/a \nPhone: \nn/a \nPhone: \nwe \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact: \nRelationship \nBrother \nPhone \nRelationship \nFriend \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003066",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "3 \nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "Tcl: \nFax: \nDate: \n03/25/18 \nEmployee \nName: \nPierre \nJules \nAddress: \nPh"
+      },
+      {
+        "name": "Pierre \nJules",
+        "role": "extracted",
+        "context": ": \n03/25/18 \nEmployee \nName: \nPierre \nJules \nAddress: \nPhone \nTitle \n/ \nP"
+      },
+      {
+        "name": "Phone \nTitle",
+        "role": "extracted",
+        "context": "me: \nPierre \nJules \nAddress: \nPhone \nTitle \n/ \nPosition: \nEmergency \nCon"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "Phone \nTitle \n/ \nPosition: \nEmergency \nContact \nForm \nStart \nDate: \nDate \nof"
+      },
+      {
+        "name": "Form \nStart",
+        "role": "extracted",
+        "context": "osition: \nEmergency \nContact \nForm \nStart \nDate: \nDate \nof \nBirth \nE\n-M"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "mation: \nn \na \nAllergies \nor \nHealth \nConcerns: \nBloo0 \ntype \nunspecified \nB"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "s: \nBloo0 \ntype \nunspecified \nBlood \nType: \nI \n_ \nCurrent \nMedication:"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "pecified \nBlood \nType: \nI \n_ \nCurrent \nMedication: \nDoctor's \nName: \nrVa \nDocto"
+      },
+      {
+        "name": "Va \nDoctor",
+        "role": "extracted",
+        "context": "edication: \nDoctor's \nName: \nrVa \nDoctor's \nName: \nn/a \nPhone: \nn/a \nP"
+      },
+      {
+        "name": "Relationship \nBrother",
+        "role": "extracted",
+        "context": "Emergency, \nPlease \ncontact: \nRelationship \nBrother \nPhone \nRelationship \nFriend"
+      },
+      {
+        "name": "Phone \nRelationship",
+        "role": "extracted",
+        "context": "tact: \nRelationship \nBrother \nPhone \nRelationship \nFriend \nPhone \nThis \nInforma"
+      },
+      {
+        "name": "Friend \nPhone",
+        "role": "extracted",
+        "context": "Brother \nPhone \nRelationship \nFriend \nPhone \nThis \nInformation \nis \nfor"
+      },
+      {
+        "name": "This \nInformation",
+        "role": "extracted",
+        "context": "Relationship \nFriend \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.655Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014480",
+    "filename": "EFTA00014480.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014480.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: 19cr490 \nDate: Wed, 17 Jul 2019 00:54:12 +0000 \nImportance: Normal \nFYI all, this was sent from chambers to defense counsel a short while ago. The relevant provision of their letter reads: \nFifth, in response to the Court's inquiry about Epstein's New Mexico registration status, the \nstate's Public Safety Department formally advised in August 2010 that \"you are not required to \nregister with the State of New Mexico ... for your 2008 Florida conviction of Procuring \nPerson \nUnder 18 for \nProstitution.\" Nonetheless, in an abundance of caution and as an extra precaution, \nEpstein consistently notified the appropriate New Mexico official, Detective \nwhen he spent any time at his residence there. (The underlying documents are available upon \nrequest.) \nPerhaps the issue of bail turns entirely upon whether the defendant notified New Mexico when he was in the state! \nFrom: \nSent: Tuesday, July 16, 2019 20:01 \nTo: \nCc: \nSubject: 19cr490 \nPlease provide by noon tomorrow all the underlying New Mexico documents, including applications and \nrequests, referenced on \npp. 6-7 of your July 16, 2019, letter. \nEFTA00014480",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "urt's inquiry about Epstein's New Mexico registration status, the \nsta"
+      },
+      {
+        "name": "Public Safety",
+        "role": "extracted",
+        "context": "stration status, the \nstate's Public Safety Department formally advised i"
+      },
+      {
+        "name": "Procuring \nPerson",
+        "role": "extracted",
+        "context": "ur 2008 Florida conviction of Procuring \nPerson \nUnder 18 for \nProstitution.\""
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-16",
+        "event": "July 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.935Z"
+}

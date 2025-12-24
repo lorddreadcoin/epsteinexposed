@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021268",
+    "filename": "EFTA00021268.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021268.pdf",
+    "text": "\n\nFrom: \nTo: \"Berman, Geoffrey \n(USANYS)\" \nSubject: Accepted: Epstein Press \nMeeting \nDate: Mon, 01 Jul 2019 02:57:06 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00021268",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Press",
+        "role": "extracted",
+        "context": "(USANYS)\" \nSubject: Accepted: Epstein Press \nMeeting \nDate: Mon, 01 Jul 2"
+      },
+      {
+        "name": "Meeting \nDate",
+        "role": "extracted",
+        "context": "ect: Accepted: Epstein Press \nMeeting \nDate: Mon, 01 Jul 2019 02:57:06 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 02:57:06 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00021268"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.319Z"
+}

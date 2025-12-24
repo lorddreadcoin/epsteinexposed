@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00018099",
+    "filename": "EFTA00018099.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018099.pdf",
+    "text": "\n\n> \nOn Jan 16, 2020, at 9:48 PM, wrote:\n> Hi - I assume, given the news coverage, that your team and the executives have seen the lawsuit filed by \nthe Virgin Islands government against Epstein's estate, the 1953 Trust, and various entities (which seeks, among \nother relief, to void the fraudulent transfer of assets to the trust)? If not, let me know and I can circulate the \ncomplaint and more detail to the broader group. \nEFTA00018099",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "> \nOn Jan 16, 2020, at 9:48 PM, wrote:"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "een the lawsuit filed by \nthe Virgin Islands government against Epstein's"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.171Z"
+}

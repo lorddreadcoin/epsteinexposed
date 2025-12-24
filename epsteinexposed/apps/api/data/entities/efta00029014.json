@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029014",
+    "filename": "EFTA00029014.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029014.pdf",
+    "text": "\n\n(Epstein vic) Subject: FW: Contact info for victim \nDate: Fri, 12 Jul 2019 21:09:00 +0000 \nImportance: Normal \nCan I add this person. I would like to email them and ask who would like to get notification in the case the system will \nonly allow me to put one law firm. \nFrom \nSent: Friday, July 12, 2019 4:45 PM \nTo: =, (USANYS) \nSubject: Contact info for victim (Epstein vic) \nThrough her 3 attorneys. \nI)Daniel Kaiser \nKaiser Saurbom & Mair P.C. \n2) William Kaiser \n111111\nP.C. \n3) Kimberly Lerner \nEFTA00029014",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nCan",
+        "role": "extracted",
+        "context": "9 21:09:00 +0000 \nImportance: Normal \nCan I add this person. I would li"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "llow me to put one law firm. \nFrom \nSent: Friday, July 12, 2019 4:45 P"
+      },
+      {
+        "name": "Daniel Kaiser",
+        "role": "extracted",
+        "context": "Through her 3 attorneys. \nI)Daniel Kaiser \nKaiser Saurbom & Mair P.C."
+      },
+      {
+        "name": "Kaiser Saurbom",
+        "role": "extracted",
+        "context": "attorneys. \nI)Daniel Kaiser \nKaiser Saurbom & Mair P.C. \n2) William Kaise"
+      },
+      {
+        "name": "William Kaiser",
+        "role": "extracted",
+        "context": "aiser Saurbom & Mair P.C. \n2) William Kaiser \n111111\nP.C. \n3) Kimberly Ler"
+      },
+      {
+        "name": "Kimberly Lerner",
+        "role": "extracted",
+        "context": "lliam Kaiser \n111111\nP.C. \n3) Kimberly Lerner \nEFTA00029014"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.618Z"
+}

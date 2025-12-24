@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00010462",
+    "filename": "EFTA00010462.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010462.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Draft Analysis Of 2019 Tax Return \nDate: Fri, 11 Dec 2020 22:15:37 +0000 \nAttachments: 2019_Tax_Retum_Analysis_V1_12-11-20.pdf \nPlease provide me a  time for tomorrow that I can call you to walk you through the analysis. \nBest \nForensic Accountant \nFBI New York Field Office \nNYC, NY 10278 \nOffice: \nEFTA00010462",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Draft Analysis",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Draft Analysis Of 2019 Tax Return \nDate: Fri"
+      },
+      {
+        "name": "Tax Return",
+        "role": "extracted",
+        "context": "bject: Draft Analysis Of 2019 Tax Return \nDate: Fri, 11 Dec 2020 22:15"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "lk you through the analysis. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field Office \nNYC, NY 10278 \nOffice: \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.998Z"
+}

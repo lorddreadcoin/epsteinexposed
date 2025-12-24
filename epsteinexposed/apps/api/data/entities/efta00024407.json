@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024407",
+    "filename": "EFTA00024407.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024407.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Martin G. Weinberg\" <I \nCc: \n, \"Miller, Michael\", Reid Weingarten \nSubject: Re: US v Epstein \nDate: Wed, 14 Aug 2019 20:41:45 +0000 \nMarty, \nThat time works for us, thanks. Could you please circulate a dial-in? \nThanks. \nSent from my iPhone \nOn Aug 14, 2019, at 11:23 AM, Martin O. Weinberg \n.-\nwrote:\nAlex, Mike and I are authorized to continue the discussion of potential civil forfeiture issues with you. Are you available \nat 930 tomorrow morning? Thanks \nMartin G. Weinberg, Esq. \nBoston, MA 02116 \n This Electronic Message contains information from the Law \nOffice of Martin G. Weinberg, P.C., and may be privileged. The information is intended for the use of the \naddressee only. If you are not the addressee, please note that any disclosure, copying, distribution, or use of \nthe contents of this message is prohibited. \nEFTA00024407",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "<I \nCc: \n, \"Miller, Michael\", Reid Weingarten \nSubject: Re: US v Epstein \nD"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Weingarten \nSubject: Re: US v Epstein \nDate: Wed, 14 Aug 2019 20:41:45 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "l-in? \nThanks. \nSent from my iPhone \nOn Aug 14, 2019, at 11:23 AM, Ma"
+      },
+      {
+        "name": "Thanks \nMartin",
+        "role": "extracted",
+        "context": "ble \nat 930 tomorrow morning? Thanks \nMartin G. Weinberg, Esq. \nBoston, MA"
+      },
+      {
+        "name": "This Electronic",
+        "role": "extracted",
+        "context": "erg, Esq. \nBoston, MA 02116 \n This Electronic Message contains information"
+      },
+      {
+        "name": "Law \nOffice",
+        "role": "extracted",
+        "context": "contains information from the Law \nOffice of Martin G. Weinberg, P.C.,"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Boston, MA",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.085Z"
+}

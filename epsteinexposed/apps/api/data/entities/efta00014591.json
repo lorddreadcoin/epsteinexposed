@@ -1,0 +1,48 @@
+{
+  "document": {
+    "id": "efta00014591",
+    "filename": "EFTA00014591.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014591.pdf",
+    "text": "\n\nFrom: \nTo: \n> \nSubject: Emails \nDate: Wed, 07 Oct 2020 21:29:56 +0000 \nAttachments: FBI 0000018415 native.pdf; FBI_0000018635_native.pdf; FBI_0000011921_native.pdf; \nFBI 0000014600 native.pdf \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00014591",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Emails \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \n> \nSubject: Emails \nDate: Wed, 07 Oct 2020 21:29:56 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "; \nFBI 0000014600 native.pdf \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "native.pdf \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "0000018415",
+      "0000014600"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.154Z"
+}

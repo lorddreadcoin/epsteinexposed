@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00013951",
+    "filename": "EFTA00013951.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013951.pdf",
+    "text": "\n\nFrom: (USAFLS)\" alMIN> \nTo: (USAFLS)\" \nBcc: (USAFLS)\" \nalMIN> \nSubject: Immunity \nDate: Thu, 16 Oct 2008 19:47:57 +0000 \nImportance: Normal \nAttachments: US_Response_to_Quash_subpoenas_v3.wpd; Surreply Final.wpd \n<<US Response to Quash subpoenas v3.wpd>> \n<<Surreply Final.wpd» \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013951",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Immunity \nDate",
+        "role": "extracted",
+        "context": ": (USAFLS)\" \nalMIN> \nSubject: Immunity \nDate: Thu, 16 Oct 2008 19:47:57 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 19:47:57 +0000 \nImportance: Normal \nAttachments: US_Response_to_Quash_subpoen"
+      },
+      {
+        "name": "Surreply Final",
+        "role": "extracted",
+        "context": "se_to_Quash_subpoenas_v3.wpd; Surreply Final.wpd \n<<US Response to Quash s"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "ly Final.wpd» \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013951"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.810Z"
+}

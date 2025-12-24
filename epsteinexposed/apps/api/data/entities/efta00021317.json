@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00021317",
+    "filename": "EFTA00021317.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021317.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Human trafficking victims \nDate: Thu, 03 Oct 2019 17:56:05 +0000 \nGot it, thanks. \nOn Oct 3, 2019, at 1:45 PM, wrote: \nI was thinking about that; you should be getting the same email from the PC chiefs, so I'd include Epstein there. \nFrom: \nSent: Thursday, October 3, 2019 1:34 PM \nTo: \nSubject: Re: Human trafficking victims \nDo you want the numbers from Epstein? \nOn Oct 3, 2019, at 1:32 PM, wrote: \nPlease let us know by tomorrow approximately how many victims or potential victims of human trafficking you have \ninterviewed over this past year. Thanks very much. \nAssistant United States Attorney \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nTel: \nCell \nEFTA00021317",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "56:05 +0000 \nGot it, thanks. \nOn Oct 3, 2019, at 1:45 PM, wrote:"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "past year. Thanks very much. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne St. Andrew's"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nTel: \nCell \nE"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-10-03",
+        "event": "October 3, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.415Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028000",
+    "filename": "EFTA00028000.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028000.pdf",
+    "text": "\n\nFrom: \nTo:\" \nCc: ' \nSubject: RE: Draft OCME Letter \nDate: Wed, 28 Aug 2019 01:11:44 +0000 \nAttachments: 2019.08.28 Letter to OCME.ebd.docx \nThanks. I'm operating on the assumption this letter, too, may someday be made public, so I think the less we say about \nspecifics, the better. I would also ask tomorrow morning what exactly they need, since they may not need more than a \nhigh level request (and I would make the request about returning the 302 by phone only unless they push for it in \nwriting). Happy to discuss though if you disagree. \nFrom: \nSent: Tuesday, August 27, 2019 7:27 PM \nTo: \nCc: \nSubject: Draft OCME Letter \n• \nPlease see attached for your review. We tried to keep this as brief as possible while still accurately describing the contents \nof their file that we do not want disclosed, and the circumstances under which they were disclosed. Let us know if you \nhave any thoughts. Our call is at 10 tomorrow morning and we'd like to send this after the fact. I also spoke with the GC \nby phone tonight to give her a head's up that this was coming, and she did not have any issues with it. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00028000",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "c: ' \nSubject: RE: Draft OCME Letter \nDate: Wed, 28 Aug 2019 01:11:44 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "any issues with it. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000280"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-27",
+        "event": "August 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.436Z"
+}

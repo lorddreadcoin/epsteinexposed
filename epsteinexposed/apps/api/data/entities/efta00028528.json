@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028528",
+    "filename": "EFTA00028528.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028528.pdf",
+    "text": "\n\nFrom: \nTo:'\n)11\nSubject: RE: Head over? \nDate: Tue, 30 Jul 2019 17:48:04 +0000 \nOh. 0k. \nFrom: \nSent: Tuesday, July 30, 2019 1:48 PM \nTo: \nSubject: RE: Head over? \n0k if I catch up? I may need to sneak in late and sit in the back, very sorry. Issue came up with Epstein. \nFrom: \n) < \nSent: Tuesday, July 30, 2019 1:46 PM \nTo: \n1 \n< \nSubject: Head over? \nAssistant U.S. Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nPhone: \nFax: \nEFTA00028528",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "t: Head over? \nAssistant U.S. Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nPhone: \nFax:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-30",
+        "event": "July 30, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.405Z"
+}

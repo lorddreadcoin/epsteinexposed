@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00010182",
+    "filename": "EFTA00010182.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010182.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: 20cr330, US v. Maxwell \nDate: Thu, 11 Nov 2021 21:32:39 +0000 \nAttachments: 20cr330_SEALED_Mem._Op_&_Order_11.11.21.pdf \n412 order from Judge Nathan about a new case the defense mentioned at argument. I think the main point of interest is \nthe Court's understanding of our various concessions. \nFrom: Nathan NYSD Chambers ‹\n> \nSent: Thursday, November 11, 2021 4:26 PM \nTo: Jeff Pagliuca <>; Laura Menninger \n>; \nSubject: 20cr330, US v. Maxwell \nCounsel: \nAttached please find a sealed memorandum opinion and order issued by Judge Nathan. It will be docketed \ntomorrow morning after today's holiday. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00010182",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: 20cr330, US v. Maxwell \nDate: Thu, 11 Nov 2021 21:32:39 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "_11.11.21.pdf \n412 order from Judge Nathan about a new case the defense"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "ovember 11, 2021 4:26 PM \nTo: Jeff Pagliuca <>; Laura Menninger \n>; \nSubj"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": ":26 PM \nTo: Jeff Pagliuca <>; Laura Menninger \n>; \nSubject: 20cr330, US v."
+      },
+      {
+        "name": "Maxwell \nCounsel",
+        "role": "extracted",
+        "context": ">; \nSubject: 20cr330, US v. Maxwell \nCounsel: \nAttached please find a seal"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-11",
+        "event": "November 11, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.449Z"
+}

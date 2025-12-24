@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029182",
+    "filename": "EFTA00029182.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029182.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein \nDate: Mon, 28 Jan 2019 16:15:29 +0000 \nImportance: Normal \nIf \nyou have a  minute this morning, can you swing by? \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nYork• • \nEFTA00029182",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein \nDate: Mon, 28 Jan 2019 16:15:29 +0"
+      },
+      {
+        "name": "Normal \nIf",
+        "role": "extracted",
+        "context": "9 16:15:29 +0000 \nImportance: Normal \nIf \nyou have a  minute this morn"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "s morning, can you swing by? \nDeputy Chief, Public Corruption Unit \nU.S."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "you swing by? \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.929Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016758",
+    "filename": "EFTA00016758.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016758.pdf",
+    "text": "\n\nFrom \nTo \nSubject: filed letter \nDate: Wed, 17 Jul 2019 20:46:46 +0000 \nAttachments: 2019-07-17 JE_detention_submission.Final.pdf \nHere's the filed version. \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016758",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: filed letter \nDate:"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "f \nHere's the filed version. \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016758"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-17",
+        "event": "2019-07-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.317Z"
+}

@@ -1,0 +1,104 @@
+{
+  "document": {
+    "id": "efta00014102",
+    "filename": "EFTA00014102.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014102.pdf",
+    "text": "\n\nFrom: \nTo: \nBcc: \nSubject: Fw: Notice of Non-Compliance \nDate: Sat, 28 Jun 2008 21:14:01 +0000 \nImportance: Normal \nJack Goldberger's response below. \n---- Original Message \nFrom: Jack Goldberger \nTo: \nSent: Sat Jun 28 15:38:23 2008 \nSubject: RE: Notice of Non-Compliance \nnot a problem. \nFrom: \nSent: Sat 6/28/2008 11:31 AM \nTo: Jack Goldberger \nCc: \nSubject: Re: Notice of Non-Compliance \nDear Jack: \nI have conferred with a state court practitioner who stated that there is nothing that prohibits you from agreeing to a consecutive six-month \nsentence of incarceration followed by one year of community control as specified in the non-prosecution agreement. \nIf you elect to proceed with the plea agreement as currently drafted, we ask that you insert the word \"imprisoned\" following the words \"six \nmonths\" in the second sentencing paragraph. \nPlease confirm that this change is acceptable. Thank you. \n---- Original Message \nFrom: Jack Goldbe \nTo: \nCc: \nJack \nGoldberger \nSent: Sat Jun 28 08:49:55 2008 \nSubject: RE: Notice of Non-Compliance \nDear Ms \nplease allow this e-mail to confirm our telephone conference of 6:30 pm on June 27 wherein we discussed the Epstein plea agreement and \nwe agreed that the Epstein state plea agreement was in compliance with the September 2007 non-prosecution agreement entered into \nbetween Mr. Epstein and the USAO for the Souhem District of Florida. \nJack Goldberger \nEFTA00014102\n\nFrom: \nSent: n \nTo: Jack Goldbe er; Ro BLACK \nCc: \nSubject: Notice of Non-Compliance \nDear Messrs. Goldberger and Black: \nPlease see the attached Notification Letter. \n<<080627 Goldberger Black notification Ittpdf>> \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone= \nFax 56) 820-8777 \nEFTA00014103",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "reement entered into \nbetween Mr. Epstein and the USAO for the Souh"
+      },
+      {
+        "name": "Compliance \nDate",
+        "role": "extracted",
+        "context": ": \nSubject: Fw: Notice of Non-Compliance \nDate: Sat, 28 Jun 2008 21:14:01 +0"
+      },
+      {
+        "name": "Normal \nJack",
+        "role": "extracted",
+        "context": "8 21:14:01 +0000 \nImportance: Normal \nJack Goldberger's response below."
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "erger's response below. \n---- Original Message \nFrom: Jack Goldberger \nTo:"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "---- Original Message \nFrom: Jack Goldberger \nTo: \nSent: Sat Jun 28 15:38:"
+      },
+      {
+        "name": "Sat Jun",
+        "role": "extracted",
+        "context": ": Jack Goldberger \nTo: \nSent: Sat Jun 28 15:38:23 2008 \nSubject: RE"
+      },
+      {
+        "name": "Compliance \nDear",
+        "role": "extracted",
+        "context": ": \nSubject: Re: Notice of Non-Compliance \nDear Jack: \nI have conferred with"
+      },
+      {
+        "name": "Jack Goldbe",
+        "role": "extracted",
+        "context": "---- Original Message \nFrom: Jack Goldbe \nTo: \nCc: \nJack \nGoldberger"
+      },
+      {
+        "name": "Jack \nGoldberger",
+        "role": "extracted",
+        "context": "From: Jack Goldbe \nTo: \nCc: \nJack \nGoldberger \nSent: Sat Jun 28 08:49:55 20"
+      },
+      {
+        "name": "Souhem District",
+        "role": "extracted",
+        "context": "Epstein and the USAO for the Souhem District of Florida. \nJack Goldberger"
+      },
+      {
+        "name": "Notification Letter",
+        "role": "extracted",
+        "context": "ack: \nPlease see the attached Notification Letter. \n<<080627 Goldberger Black n"
+      },
+      {
+        "name": "Goldberger Black",
+        "role": "extracted",
+        "context": "otification Letter. \n<<080627 Goldberger Black notification Ittpdf>> \nAssist"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone= \nFax"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-28",
+        "event": "6/28/2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.125Z"
+}

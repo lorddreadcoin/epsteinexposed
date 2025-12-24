@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019329",
+    "filename": "EFTA00019329.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019329.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Epstein \nDate: Tue, 23 Jul 2019 21:19:40 +0000 \nImportance: High \nWaPo is hearing that he was found unresponsive is his cell last night, possibly a suicide attempt. I'm here if you want to \nstop in. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nMobile: I  Press Office: \nEFTA00019329",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Epstein \nDate: Tue, 23 Jul 2019 21:19:40 +0"
+      },
+      {
+        "name": "High \nWa",
+        "role": "extracted",
+        "context": "9 21:19:40 +0000 \nImportance: High \nWaPo is hearing that he was foun"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ere if you want to \nstop in. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nMobile: I  Press"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "trict of New York \nMobile: I  Press Office: \nEFTA00019329"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.691Z"
+}

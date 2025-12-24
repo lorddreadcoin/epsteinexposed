@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031307",
+    "filename": "EFTA00031307.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031307.pdf",
+    "text": "\n\nFrom \nTo \nCc: \nSubject: \nRe: United States v. Epstein \nDate: Fri, 30 Aug 2019 20:10:55 +0000 \nThanks! Have a great weekend. \n> On Aug 30, 2019, at 4:07 PM,IINEvrote: \n> We did -- attached. \n> thanks, \n> \n----Ori \n> \nFrom: \n> Sent: Thursda Au ust 29 2019 23:24 \n> \nTo: \n> Cc: \n> Subject: United States v. Epstein \n> \n> Did y'all order a transcript of this week's hearing? If not, will you point us in the right direction to order one? \nMesste \n> \nThanks! \n> \n.c-18RpEPS1pdf> \nEFTA00031307",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc: \nSubject: \nRe: United St"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ubject: \nRe: United States v. Epstein \nDate: Fri, 30 Aug 2019 20:10:55 +0"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "nks! Have a great weekend. \n> On Aug 30, 2019, at 4:07 PM,IINEvrot"
+      },
+      {
+        "name": "Thursda Au",
+        "role": "extracted",
+        "context": "> \n----Ori \n> \nFrom: \n> Sent: Thursda Au ust 29 2019 23:24 \n> \nTo: \n>"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.784Z"
+}

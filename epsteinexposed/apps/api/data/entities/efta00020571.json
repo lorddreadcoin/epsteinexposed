@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020571",
+    "filename": "EFTA00020571.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020571.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nalMIE> \nTo: (USANYS)\" \nSubject: FW: co conspirator question transcript \nDate: Fri, 07 Feb 2020 17:36:20 +0000 \nFrom: \n(USANYS) [Contractor] ‹> \nSent: Friday, February 7, 2020 12:22 PM \nTo: (USANYS) ‹> \nSubject: co conspirator question transcript \nC: When Jeffrey Epstein died, a lot of people asked what's next? Is the government going to hold people who are accused \nof helping him recruit these younger girls, participated in this, can you give us a little bit of an update of where your office \nis in this investigation? \nA: Well, I'll note that the original charges against Jeffrey Epstein contained a conspiracy charge and we alleged that there \nwere conspirators involved. And Jeffrey Epstein couldn't have done what he did without the assistance of others and I can \nassure you that our investigation is moving forward. \nEFTA00020571",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ject: co conspirator question transcript \nC: When Jeffrey Epstein died, a lot of people asked what's next? Is the g"
+      },
+      {
+        "name": "When Jeffrey",
+        "role": "extracted",
+        "context": "rator question transcript \nC: When Jeffrey Epstein died, a lot of people"
+      },
+      {
+        "name": "And Jeffrey",
+        "role": "extracted",
+        "context": "were conspirators involved. And Jeffrey Epstein couldn't have done wh"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-07",
+        "event": "February 7, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.111Z"
+}

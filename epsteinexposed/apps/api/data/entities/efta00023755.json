@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00023755",
+    "filename": "EFTA00023755.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023755.pdf",
+    "text": "\n\nFrom: ' \n> \nTo: Jason Foy \nCc \nSubject: US v. Tova Noel, 19 Cr. 830 (AT) - \nDiscovery \nDate: Mon, 20 Jul 2020 22:04:06 +0000 \nAttachments: 2020.07.20_Response_to_Noeljune_5_Discovery_Requests_FINAL.pdf \nHello Jason, \nWith apologies for the delay, attached please find our response to your recent discovery request. We are also producing \nsome supplemental discovery by USAfx this evening. \nBest, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00023755",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jason Foy",
+        "role": "extracted",
+        "context": "From: ' \n> \nTo: Jason Foy \nCc \nSubject: US v. Tova Noel"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: ' \n> \nTo: Jason Foy \nCc \nSubject: US v. Tova Noel, 19 Cr. 830"
+      },
+      {
+        "name": "Tova Noel",
+        "role": "extracted",
+        "context": "Jason Foy \nCc \nSubject: US v. Tova Noel, 19 Cr. 830 (AT) - \nDiscovery"
+      },
+      {
+        "name": "Discovery \nDate",
+        "role": "extracted",
+        "context": "Tova Noel, 19 Cr. 830 (AT) - \nDiscovery \nDate: Mon, 20 Jul 2020 22:04:06 +0"
+      },
+      {
+        "name": "Hello Jason",
+        "role": "extracted",
+        "context": "Discovery_Requests_FINAL.pdf \nHello Jason, \nWith apologies for the dela"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "y USAfx this evening. \nBest, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ing. \nBest, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.555Z"
+}

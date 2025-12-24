@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00028705",
+    "filename": "EFTA00028705.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028705.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: order of proof meeting \nDate: Wed, 02 Jun 2021 22:32:31 +0000 \nAttachments: 2021.06.02_Maxwell_Scheduling_Orderitrial_schedule).pdf \nAttached is the scheduling order for pretrial filings. \nFrom \nSent: Wednesda June 2  2021 5:28 PM \nTo: \nSubject: Re: order of proof meeting \nGreat.IM and I are doing a brown bag for the summer interns until 1:30 on the 14th, but we should be free that \nafternoon. I'm also free the morning of the 15th. If possible and assuming you're all comfortable with it, could we meet in \nperson? \nOn Jun 2, 2021, at 5:20 PM ote: \nFollowing up on our conversation this morning, the team is free for an order of proof meeting during the following \nwindows: \n•  Anytime after 12 p.m. on June 14th\n•  Anytime before 12 p.m. June 15th\nWe chatted as a team, and we're going to be working on the RTC and a Daubert motion over the summer, as we \ndiscussed. Time permitting, we're likely going to work ahead on a 404(b) motion as well. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00028705",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "order for pretrial filings. \nFrom \nSent: Wednesda June 2  2021 5:28 P"
+      },
+      {
+        "name": "Wednesda June",
+        "role": "extracted",
+        "context": "retrial filings. \nFrom \nSent: Wednesda June 2  2021 5:28 PM \nTo: \nSubject"
+      },
+      {
+        "name": "On Jun",
+        "role": "extracted",
+        "context": "t, could we meet in \nperson? \nOn Jun 2, 2021, at 5:20 PM ote: \nFol"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "(b) motion as well. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York. NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00028705"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-06-02",
+        "event": "June 2  2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.772Z"
+}

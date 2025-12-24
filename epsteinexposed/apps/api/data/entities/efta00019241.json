@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019241",
+    "filename": "EFTA00019241.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019241.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \n'\n=l1M>, \nSubject: REVEALED: We Found Billionaire Pedophile Jeffrey Epstein's Secret Charity \nDate: Tue, 16 Apr 2019 21:38:32 +0000 \nI \nmportance: Normal \nhttps://www.thedailybeast.com/jeffrey-epstein-has-a-secret-charity-heres-who-it-gave-money-to \nEFTA00019241",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Subject: REVEALED: We Found Billionaire Pedophile Jeffrey Epstein's Secret Charity \nDate: Tue, 16 Apr 2019 21:38:32"
+      },
+      {
+        "name": "We Found",
+        "role": "extracted",
+        "context": "'\n=l1M>, \nSubject: REVEALED: We Found Billionaire Pedophile Jeffrey"
+      },
+      {
+        "name": "Billionaire Pedophile",
+        "role": "extracted",
+        "context": "Subject: REVEALED: We Found Billionaire Pedophile Jeffrey Epstein's Secret Char"
+      },
+      {
+        "name": "Secret Charity",
+        "role": "extracted",
+        "context": "e Pedophile Jeffrey Epstein's Secret Charity \nDate: Tue, 16 Apr 2019 21:38"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.570Z"
+}

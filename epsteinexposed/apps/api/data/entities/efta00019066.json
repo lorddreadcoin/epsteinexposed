@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019066",
+    "filename": "EFTA00019066.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019066.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: a, \n(OIG)\"  \nCc: USANYS)\" (USANYS)\" \nSubject: Re: MCC NY - Epstein Matter \nDate: Mon, 12 Aug 2019 12:52:35 +0000 \nJust spoke to \nSent from my iPhone \nOn \nAug 12, 2019, at 8:40 AM, \n(OIG) < \nGood \nMorning, \nwrote: \nI tried calling but his message indicates he is out. Can one of you please call me to briefly \ndiscuss the interviews planned for today? I am currently on my cell phone and my contact information is \nbelow. \nThank you. \nSpecial Agent in Charge \nU.S. \nDepartment of Justice \nOffice of the Inspector General \nNew York Field Office \nNew York,  NY 10004 \n(Office) \nCell \nEFTA00019066",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Matter",
+        "role": "extracted",
+        "context": "ANYS)\" \nSubject: Re: MCC NY - Epstein Matter \nDate: Mon, 12 Aug 2019 12:52"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Just spoke to \nSent from my iPhone \nOn \nAug 12, 2019, at 8:40 AM, \n("
+      },
+      {
+        "name": "Good \nMorning",
+        "role": "extracted",
+        "context": ", 2019, at 8:40 AM, \n(OIG) < \nGood \nMorning, \nwrote: \nI tried calling but"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "ation is \nbelow. \nThank you. \nSpecial Agent in Charge \nU.S. \nDepartment o"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "n Charge \nU.S. \nDepartment of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice \nOffice of the Inspector General \nNew York Field Office \nNew Y"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nNew York,  NY 10004 \n(Office"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.222Z"
+}

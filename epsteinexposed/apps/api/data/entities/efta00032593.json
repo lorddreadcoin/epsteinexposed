@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032593",
+    "filename": "EFTA00032593.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032593.pdf",
+    "text": "\n\nFrom: le alMIE> \nTo: altANI.a),\nII \nSubject: 17(c) letter \nDate Thu, 18 Nov 2021 04:57:14 +0000 \nAttachments: 2021.11.18_Mot_to_quash.pdf; 2021.11.18_Mot_to_quash.docx \nHi all, \n17(c) letter attached. If nobody has a minute to skim or read this between now and voir dire—which is my guess, given \nthe timing—I'll just send to at 8:30. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00032593",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Date Thu",
+        "role": "extracted",
+        "context": "),\nII \nSubject: 17(c) letter \nDate Thu, 18 Nov 2021 04:57:14 +0000"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "st send to at 8:30. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "0. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.029Z"
+}

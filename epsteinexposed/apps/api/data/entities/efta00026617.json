@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026617",
+    "filename": "EFTA00026617.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026617.pdf",
+    "text": "\n\nFrom: (USANYS)\" czi \nTo: \nSubject: RE: \nDate: Wed, 09 Sep 2020 13:49:48 +0000 \nAttachments: PC_Unitr_Short_Form_Update.9.4.20.docx \n(USANYS)\"  \nSure, attached. \nFrom: (USANYS) \nSent: Wednesday, September 9, 2020 9:16 AM \nTo: \nSubject \n(USANYS) \nBecause I  look at all the unit updates to clear others' conflicts, could you make sure that is not included \nin the regular update? If it is included in the one that you just sent me, kindly send me another one without it. \nThanks, sorry for the bother. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00026617",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "r the bother. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-09",
+        "event": "September 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.677Z"
+}

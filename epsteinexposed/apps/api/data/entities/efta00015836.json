@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00015836",
+    "filename": "EFTA00015836.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015836.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \n\" \nSubject: Call on Epstein/Maxwell Documents \nDate: Wed, 22 Jul 2020 20:06:06 +0000 \nImportance: Normal \nAttachments: unnamed \n(USANYS)\" \nEFTA00015836",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Documents",
+        "role": "extracted",
+        "context": "\" \nSubject: Call on Epstein/Maxwell Documents \nDate: Wed, 22 Jul 2020 20:06"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 20:06:06 +0000 \nImportance: Normal \nAttachments: unnamed \n(USANYS)\" \nEFTA0001"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.595Z"
+}

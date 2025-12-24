@@ -1,0 +1,122 @@
+{
+  "document": {
+    "id": "efta00010435",
+    "filename": "EFTA00010435.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010435.pdf",
+    "text": "\n\nU.S. \nDepartment of Justice \nUnited States Attorney \nSouthern District of New York \n86 Chambers Street \nNew York, New York 10007 \nApril 21, 2020 \nBy Electronic Mail \nRoberta A. Kaplan \nKa Ian Hecker & Fink LLP \nNew York, NY 10118 \nRe: Request for Information Relating to Jeffrey Epstein \nDear Ms. Kaplan: \nI write in response to the your letter dated February 25, 2020, seeking documents from \nthe Department of \nJustice (\"DOJ\") \nrelated to Jeffrey Epstein and plaintiff Jane Doe in Doe v. \nEstate of Jeffrey E. Epstein, No. 19-cv-8673 (S.D.N.Y.). As noted in my previous letter dated \nJanuary 6, 2020, DOJ's response to your request is governed by federal regulations, referred to \nas \"Touhy regulations.\" See United States a rel. Touhy v. Ragen, 340 U.S. 462 (1951). Pursuant \nto these regulations, the United States Attorney has authorized DOJ to provide certain documents \nresponsive to your request. Please find electronic versions of these documents enclosed. The \npassword for these documents will be sent to you by separate cover. \nThe enclosed documents are as follows: \n• Pages numbered DO.1_001-005 are a report of service of a grand jury subpoena on \nJane Doe. \n• Pages numbered DO.1_006-007 are a report of service of a grand jury subpoena on \nJane Doe. \n• Pages numbered DOJ_008-009 are a report of service of a grand jury subpoena on \nJane Doe. \n• Pages numbered DO.1_010-076 are a biographical report of Jane Doe. Pages have \nbeen redacted to exclude non-responsive material and references to third parties. \n• Pages numbered DO,1_077-078 are a report of contact between Jane Doe and \nagents of the Federal Bureau of Investigation. \n• Pages numbered DO,1_079-080 are a report of contact between Jane Doe and \nagents of the Federal Bureau of Investigation. \n• Pages numbered DO,1_081-087 are a document retrieved from an electronic \nsearch of a device in Epstein's New York residence in 2019. \n• Pages numbered DO,1_088-091 are pages from a document obtained in \napproximately April 2005 from discarded trash located outside the Palm Beach \nresidence occupied by Jeffrey Epstein. \nPlease contact me once you have had a chance to review this letter if you would like to \ndiscuss the issues herein further. \nEFTA00010435\n\nPage 2 \nSincerely, \nGEOFFREY S. BERMAN \nUnited States Attorney for \nthe \nSouthern District of \nNew York \nAssistant nited \nStates Attorney \nEFTA00010436",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "NY 10118 \nRe: Request for Information Relating to Jeffrey Epstein \nDear Ms. Kaplan: \nI write in response to the you"
+      },
+      {
+        "name": "Kaplan",
+        "role": "extracted",
+        "context": "ting to Jeffrey Epstein \nDear Ms. Kaplan: \nI write in response to"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \n86 Chambers Stre"
+      },
+      {
+        "name": "Chambers Street",
+        "role": "extracted",
+        "context": "hern District of New York \n86 Chambers Street \nNew York, New York 10007 \nAp"
+      },
+      {
+        "name": "By Electronic",
+        "role": "extracted",
+        "context": "w York 10007 \nApril 21, 2020 \nBy Electronic Mail \nRoberta A. Kaplan \nKa I"
+      },
+      {
+        "name": "Mail \nRoberta",
+        "role": "extracted",
+        "context": "April 21, 2020 \nBy Electronic Mail \nRoberta A. Kaplan \nKa Ian Hecker & Fi"
+      },
+      {
+        "name": "Kaplan \nKa",
+        "role": "extracted",
+        "context": "y Electronic Mail \nRoberta A. Kaplan \nKa Ian Hecker & Fink LLP \nNew Yo"
+      },
+      {
+        "name": "Ian Hecker",
+        "role": "extracted",
+        "context": "c Mail \nRoberta A. Kaplan \nKa Ian Hecker & Fink LLP \nNew York, NY 1011"
+      },
+      {
+        "name": "Information Relating",
+        "role": "extracted",
+        "context": "rk, NY 10118 \nRe: Request for Information Relating to Jeffrey Epstein \nDear Ms."
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "Relating to Jeffrey Epstein \nDear Ms. Kaplan: \nI write in response"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "Jeffrey Epstein and plaintiff Jane Doe in Doe v. \nEstate of Jeffrey"
+      },
+      {
+        "name": "See United",
+        "role": "extracted",
+        "context": "d to \nas \"Touhy regulations.\" See United States a rel. Touhy v. Ragen,"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "n Jane Doe and \nagents of the Federal Bureau of Investigation. \n• Pages nu"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ded trash located outside the Palm Beach \nresidence occupied by Jeffre"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-04-21",
+        "event": "April 21, 2020"
+      },
+      {
+        "date": "2020-02-25",
+        "event": "February 25, 2020"
+      },
+      {
+        "date": "2020-01-06",
+        "event": "January 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.945Z"
+}

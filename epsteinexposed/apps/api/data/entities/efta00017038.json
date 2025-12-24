@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017038",
+    "filename": "EFTA00017038.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017038.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Expedia subpoena \nDate: Fri, 24 Jan 2020 17:10:11 +0000 \nAttachments: 2020-01-24,_subpoena_to_Expedia.pdf \nPlease also serve the attached subpoena to Expedia, relating to Maxwell travel. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nEFTA00017038",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to Maxwell travel. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-24",
+        "event": "2020-01-24"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.877Z"
+}

@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00014514",
+    "filename": "EFTA00014514.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014514.pdf",
+    "text": "\n\nFrom: \n\"\nTo: \n(USANYS)\" \n)\"\nSubject: FW: USAO SDNY Prisoner for Court Production Request \nDate: Mon, 15 Jul 2019 20:39:31 +0000 \nImportance: Normal \n(USANYS)\" \n)\" \nAlready on it! \nFrom: \nSent: Monde Jul 15 2019 1:01 PM \nTo: (USANYS) \nSubject: USAO SDNY Prisoner for Court Production Request \nPRISONER PRODUCTION FOR COURT REQUEST \nUse this e-mail only to order defendants for Court. \n(USANYS) \nDATE 7/18/19 TIME 9:30 \nam \nJUDGE Berman COURT \nROOM \n17B \nPRODUCTION TYPE (enter X in box to the right of \ndescription) \nCASE,/ 19 Cr. 490 (RMB) \nArraignment Bond hearing Bond signing Change of plea \nDetention hearing X Fatico hearing Motion hearing Other, describe below \nPreliminary \nhearing \nRevocation hearing Revocation & \nsentencing \nSentencing \nStatus hearing Suppression \nhearing \nTrial Material witness \nDefendant USMS it On writ status \n(indicate Y only) \nUSMS use only/report result to \nCrimSec \nSentence Time served Detainer \n1 Jeffrey Epstein \n76318-\n054 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \nEFTA00014514\n\n10 \nREMARKS (security precautions, separations, violent crime charge, not standard release issues): \nAUSA NAME AUSA \nPHONE \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00014515",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ult to \nCrimSec \nSentence Time served Detainer \n1 Jeffrey Epstein \n76318-\n054 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \nEFTA00014514"
+      },
+      {
+        "name": "Court Production",
+        "role": "extracted",
+        "context": "t: FW: USAO SDNY Prisoner for Court Production Request \nDate: Mon, 15 Jul 20"
+      },
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "Prisoner for Court Production Request \nDate: Mon, 15 Jul 2019 20:39:31 +0"
+      },
+      {
+        "name": "Monde Jul",
+        "role": "extracted",
+        "context": "Already on it! \nFrom: \nSent: Monde Jul 15 2019 1:01 PM \nTo: (USANYS)"
+      },
+      {
+        "name": "Arraignment Bond",
+        "role": "extracted",
+        "context": "on) \nCASE,/ 19 Cr. 490 (RMB) \nArraignment Bond hearing Bond signing Change o"
+      },
+      {
+        "name": "Sentencing \nStatus",
+        "role": "extracted",
+        "context": "ing Revocation & \nsentencing \nSentencing \nStatus hearing Suppression \nhearing"
+      },
+      {
+        "name": "Trial Material",
+        "role": "extracted",
+        "context": "hearing Suppression \nhearing \nTrial Material witness \nDefendant USMS it On"
+      },
+      {
+        "name": "Sec \nSentence",
+        "role": "extracted",
+        "context": "se only/report result to \nCrimSec \nSentence Time served Detainer \n1 Jeffr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ues): \nAUSA NAME AUSA \nPHONE \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "AUSA \nPHONE \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00014515"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.003Z"
+}

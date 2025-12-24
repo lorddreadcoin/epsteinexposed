@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00013549",
+    "filename": "EFTA00013549.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013549.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: Epstein update \nDate: Wed, 19 Mar 2008 18:15:58 +0000 \nImportance: Normal \nHi — I am hoping that you have an update from I  wanted to fill you in on recent events. \nYesterday we did the first half of the grand jury presentation on the indictment. Many of the grand jurors \nexpressed thanks for our return. After a break as I walked into the room, I overheard one juror telling another \nthat he had been concerned that we were going to \"whitewash\" this case and not charge it. \nE 'stein s law ers are usin! the il l 'ts as an excuse to harass a number of the victims. One \ngirl.\nto be served with a \nsubpoena for a deposition. It is scheduled for Monday. \nA national crime victims service organization has received a grant from the Justice Department to provide legal \nrepresentation to victims. They have agreed to provide counsel for our victims. The only problem is that the \nlawyers are located in Maryland. But they will try to find pro bono lawyers here to help out. \nI also told that one of our victims tried to commit suicide last week. The FBI's victim-witness coordinator \nis doing her best to get counseling for all of our needy victims, but I just can't stress enough how important it is \nfor these girls to have a resolution in this case. The \"please be patient\" answer is really wearing thin, especially \nwhen Epstein's group is still on the attack while we are forced to wait on the sidelines. \nThank you. \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013549",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Epstein update"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Epstein update \nDate: Wed, 1"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 18:15:58 +0000 \nImportance: Normal \nHi — I am hoping that you have a"
+      },
+      {
+        "name": "Justice Department",
+        "role": "extracted",
+        "context": "has received a grant from the Justice Department to provide legal \nrepresentat"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "idelines. \nThank you. \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013549"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.845Z"
+}

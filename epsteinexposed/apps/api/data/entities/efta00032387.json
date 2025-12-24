@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032387",
+    "filename": "EFTA00032387.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032387.pdf",
+    "text": "\n\nFrom: \"Miller, Michael\" < \nTo:' \nCc: \nReid\" \n\"Weingarten, \n\"Lucas, Morgan\"\nSubject: United States of America v. Epstein U.S. - 2nd Circuit Docket No. 19-2221 \nDate: Tue, 20 Aug 2019 14:56:58 +0000 \nAttachments: Draft_Stipulation_to_Withdraw_Appeal-c2.DOC \n0 -\nIf you can sign and return the attached stipulation to withdraw appeal we will file this when we get it back from \nyou. \nMany thanks. \nMike \nMichael C. Miller \nPartner \nSteptoe \nSte a toe & Johnson LLP \nwww.steptoe.com \nThis message and any attached documents contain information from the law firm Steptoe & Johnson LLP that may be confidential andfor privileged. If you \nare not the intended recipient, please do not read. copy, distribute, or use this information. If you have received this transmission in error, please notify the \nsender Immediately by reply e-mail and then delete this message. \nEFTA00032387",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Circuit Docket",
+        "role": "extracted",
+        "context": "America v. Epstein U.S. - 2nd Circuit Docket No. 19-2221 \nDate: Tue, 20 Au"
+      },
+      {
+        "name": "Mike \nMichael",
+        "role": "extracted",
+        "context": "ack from \nyou. \nMany thanks. \nMike \nMichael C. Miller \nPartner \nSteptoe"
+      },
+      {
+        "name": "Miller \nPartner",
+        "role": "extracted",
+        "context": "any thanks. \nMike \nMichael C. Miller \nPartner \nSteptoe \nSte a toe & Johnson"
+      },
+      {
+        "name": "Steptoe \nSte",
+        "role": "extracted",
+        "context": "Michael C. Miller \nPartner \nSteptoe \nSte a toe & Johnson LLP \nwww.step"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.509Z"
+}

@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00017037",
+    "filename": "EFTA00017037.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017037.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: FW: use this \nversion \nDate: Thu, 14 May 2020 18:37:57 +0000 \nAttachments: 2020-05-08 \nFrom:\nSent: Thursday, May 14, 2020 14:05 \nTo: \nSubject: use this version \nAll done-this should have everything. Thanks! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nEFTA00017037",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "uld have everything. Thanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ng. Thanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nEFTA00017037"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-08",
+        "event": "2020-05-08"
+      },
+      {
+        "date": "2020-05-14",
+        "event": "May 14, 2020"
+      },
+      {
+        "date": "2020-05-14",
+        "event": "14 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.875Z"
+}

@@ -1,0 +1,130 @@
+{
+  "document": {
+    "id": "efta00028680",
+    "filename": "EFTA00028680.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028680.pdf",
+    "text": "\n\nU.S. \nDepartment of \nJustice \nOffice of Professional Responsibility \n950 Pennsylvania Avenue, N.W., Suite 3266 \nWashington. \nD.0 20530 \nNovember 12, 2020 \nAudrey Strauss \nUnited States Attorney's Office \nActing United States Attorney \nfor the Southern District of New York \n1 St. Andrew's Plaza \nNew York City, \nNY 10007 \nDear Ms. Strauss: \nEnclosed is the Office of \nProfessional Responsibility (OPR) \nReport of Investigation into \nthe U.S. Attorney's Office for the Southern \nDistrict of Florida's Resolution of Its 2006-2008 \nFederal Criminal Investigation \nof Jeffrey Epstein and Its Interactions \n \nwith \nVictims during the \nInvestigation. An Executive Summary appears at the \nbeginning of the report. Although \nOPR's \ninvestigation did not involve your Office, we are providing you with the Report because it may be \nrelevant to ongoing litigation \nbeing handled by your Office. \nIn addition, because this \nmatter has received extraordinary \npublic attention and has been \nthe subject of \nCongressional inquiries, the \nDepartment of Justice is today publicly releasing \nthe \nExecutive Summary. The Department does not plan to publicly release the full report at this time, \nbut will provide it to Congress upon its request. Congress may choose to release the \nfull report to \nthe public. In addition, it is possible that all or parts of the report may \nbecome public through the \nprocessing of Freedom of Information Act requests. \nPlease do not \nhesitate to contact me if you have any questions about this matter. \nSincerely, \nEnclosure \ncc: \nChief, Public Corruption \nUnit \n(w/ \nenclosure) \nDirector and Chief \nCounsel \nEFTA00028680",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Its 2006-2008 \nFederal Criminal Investigation \nof Jeffrey Epstein and Its Interactions \n \nwith \nVictims during the"
+      },
+      {
+        "name": "Strauss",
+        "role": "extracted",
+        "context": "ew York City, \nNY 10007 \nDear Ms. Strauss: \nEnclosed is the Office"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of \nJustice \nOffice of Professional Responsibilit"
+      },
+      {
+        "name": "Professional Responsibility",
+        "role": "extracted",
+        "context": "rtment of \nJustice \nOffice of Professional Responsibility \n950 Pennsylvania Avenue, N.W"
+      },
+      {
+        "name": "Pennsylvania Avenue",
+        "role": "extracted",
+        "context": "fessional Responsibility \n950 Pennsylvania Avenue, N.W., Suite 3266 \nWashington"
+      },
+      {
+        "name": "Audrey Strauss",
+        "role": "extracted",
+        "context": "D.0 20530 \nNovember 12, 2020 \nAudrey Strauss \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nActing",
+        "role": "extracted",
+        "context": "uss \nUnited States Attorney's Office \nActing United States Attorney \nfor t"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ited States Attorney \nfor the Southern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York City, \nNY 10007 \nDear Ms"
+      },
+      {
+        "name": "York City",
+        "role": "extracted",
+        "context": "rk \n1 St. Andrew's Plaza \nNew York City, \nNY 10007 \nDear Ms. Strauss:"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "za \nNew York City, \nNY 10007 \nDear Ms. Strauss: \nEnclosed is the Of"
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": ".S. Attorney's Office for the Southern \nDistrict of Florida's Resolution of It"
+      },
+      {
+        "name": "Federal Criminal",
+        "role": "extracted",
+        "context": "Resolution of Its 2006-2008 \nFederal Criminal Investigation \nof Jeffrey Eps"
+      },
+      {
+        "name": "Its Interactions",
+        "role": "extracted",
+        "context": "ation \nof Jeffrey Epstein and Its Interactions \n \nwith \nVictims during the"
+      },
+      {
+        "name": "An Executive",
+        "role": "extracted",
+        "context": "ms during the \nInvestigation. An Executive Summary appears at the \nbegin"
+      },
+      {
+        "name": "Executive Summary",
+        "role": "extracted",
+        "context": "oday publicly releasing \nthe \nExecutive Summary. The Department does not plan"
+      },
+      {
+        "name": "The Department",
+        "role": "extracted",
+        "context": "sing \nthe \nExecutive Summary. The Department does not plan to publicly rel"
+      },
+      {
+        "name": "Information Act",
+        "role": "extracted",
+        "context": "the \nprocessing of Freedom of Information Act requests. \nPlease do not \nhes"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "rely, \nEnclosure \ncc: \nChief, Public Corruption \nUnit \n(w/ \nenclosure) \nDirec"
+      },
+      {
+        "name": "Chief \nCounsel",
+        "role": "extracted",
+        "context": "(w/ \nenclosure) \nDirector and Chief \nCounsel \nEFTA00028680"
+      }
+    ],
+    "locations": [
+      {
+        "name": "York City, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-11-12",
+        "event": "November 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.722Z"
+}

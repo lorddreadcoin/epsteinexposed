@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016310",
+    "filename": "EFTA00016310.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016310.pdf",
+    "text": "\n\nFrom:  \nTo:' \nSubject: RE: GM appeal \nDate: Sun, 13 Sep 2020 16:34:52 +0000 \nAttachments: Government MTD _ GM _Interlocutory_Appeal_vl.docx \nDriving to go pick Attached is as far as I got with the MTD. If you're able to \nturn to this now, that would be great. I should be back online in a couple hours and can take it back from you then. \nThanks! \nFrom: \nSent: Sunday, September 13, 2020 11:31 AM \nTo: \nSubject: Re: GM appeal \nSounds good thanks \nSent from my iPhone \nOn Sep 13, 2020, at 11:28 AM, wrote: \nNo problem—I've gone ahead and started on the MTD. Will work on it for the next hour or so, then send to you to pick \nup. \nFrom: \nSent: Sunday, September 13, 2020 11:26 AM \nTo: \nSubject: Re: GM appeal \nHi! I ended up just blocking off today to do this (M is gone for the day), so I haven't gotten anywhere yet (sorry about \nthat) but am hopeful to knock this out today. Do you want to split topics, as we discussed, and merge later? Happy to do \nthis any way that works. \nSent from my iPhone \nOn Sep 13, 2020, at 10:36 AM, \n> \nwrote: \nHey—have you started a draft of either document? I'm diving in now, so happy to pickup wherever you left off, or get \nthem started if you haven't had the chance. \nAssistant United States Attorney \nSouthern District of New York \nl  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016310",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ds good thanks \nSent from my iPhone \nOn Sep 13, 2020, at 11:28 AM, wr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "you haven't had the chance. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the chance. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nl  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nl  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016310"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-09-13",
+        "event": "September 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.448Z"
+}

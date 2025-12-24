@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00025059",
+    "filename": "EFTA00025059.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025059.pdf",
+    "text": "\n\nFrom: Nicole Simmons \nTo: 'Nathan NYSD Chambers' < \nCc: Jeff Pa liuca Laura Mennin \nSubject: [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Ms. Maxwell's Response to \nGovernment's Omnibus Motions in Limine] \nDate: The, 26 Oct 2021 03:49:44 +0000 \nAttachments: 2021.10.25_Maxwell's_Respons_to_Government's_Omnibus_Motions_in_Limine.zip \nInline-Images: image00 1 jpg \nDear Judge Nathan: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxwell's Response to the Government's Omnibus Motions in \nLimine and supporting documents. \nRegards, \nNicole Simmons \nNicole Simmons \nHaddon, Morgan and \nForeman. P C. \nDenver, Colorado \nwww.hmflaw.com \nEFTA00025059",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "l, Case No. 20 Cr. 330 (AJN) [Ms. Maxwell's Response to \nGovernment"
+      },
+      {
+        "name": "Nicole Simmons",
+        "role": "extracted",
+        "context": "From: Nicole Simmons \nTo: 'Nathan NYSD Chambers' <"
+      },
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": "'Nathan NYSD Chambers' < \nCc: Jeff Pa liuca Laura Mennin \nSubject:"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "hambers' < \nCc: Jeff Pa liuca Laura Mennin \nSubject: [EXTERNAL] U.S. v."
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": ": [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Ms. Maxwel"
+      },
+      {
+        "name": "Omnibus Motions",
+        "role": "extracted",
+        "context": "l's Response to \nGovernment's Omnibus Motions in Limine] \nDate: The, 26 Oct"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "Inline-Images: image00 1 jpg \nDear Judge Nathan: \nAt the request of Je"
+      },
+      {
+        "name": "Jeffrey Pagliuca",
+        "role": "extracted",
+        "context": "ge Nathan: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxw"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.387Z"
+}

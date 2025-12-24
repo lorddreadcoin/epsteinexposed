@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00026527",
+    "filename": "EFTA00026527.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026527.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Arrest Today \nDate: Thu, 02 Jul 2020 14:32:21 +0000 \nOne caveat: there will be a bail argument in New Hampshire today, and if anyone takes an appeal, that would be to Judge \nNathan \nhere. Presumably remotely. \nFrom: \nSent: Thursday, July 2, 2020 8:52 AM \nTo: \nSubject: Re: Arrest Today \nthank you for the heads up. Hope all is well. \nSent from my BlacicBerry - the most \nsecure mobile device \nFrom: \nSent \nJuly 2, 2020 8:50 AM \nTo: \nSubject: Arrest Today \nEd, \nJust a heads up that we are unsealing an indictment this morning against Ghislane Maxwell, an associate of Jeffrey \nEpstein, charging her with facilitating his abuse of minors. She was arrested in New Hampshire this morning, so the \npresentment will not be in SDNY.  She will not appear in SDNY today. Let me know if you have any issues. \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \nEFTA00026527",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Arrest Today",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Arrest Today \nDate: Thu, 02 Jul 2020 14:32"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "re will be a bail argument in New Hampshire today, and if anyone takes an"
+      },
+      {
+        "name": "Judge \nNathan",
+        "role": "extracted",
+        "context": "s an appeal, that would be to Judge \nNathan \nhere. Presumably remotely."
+      },
+      {
+        "name": "Sent \nJuly",
+        "role": "extracted",
+        "context": "secure mobile device \nFrom: \nSent \nJuly 2, 2020 8:50 AM \nTo: \nSubject"
+      },
+      {
+        "name": "Ghislane Maxwell",
+        "role": "extracted",
+        "context": "dictment this morning against Ghislane Maxwell, an associate of Jeffrey \nEps"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "lane Maxwell, an associate of Jeffrey \nEpstein, charging her with facilitati"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "you have any issues. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-02",
+        "event": "July 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.504Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00022023",
+    "filename": "EFTA00022023.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022023.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo: \nCc: \nChristian Everdell \nLaura Menninger Jeff Pagliuc \nSubject: Re: US v. Maxwell, 20 Cr. 330 (AJN) - MDC Conditions Update \nDate: Tue, 15 Jun 2021 17:45:10 +0000 \nAttachments: Proposed_redactions_2021-06-07_GM _letter update_re_MDC_conditions_final.pdf; \nATT00001.htm \nGood afternoon-\nAttached is the conditions letter with requested redaction highlighted. \nEFTA00022023",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "BOBBI C STERNHEIM \nTo: \nCc: \nChristian Everdell \nLaura Menninger Jeff Pagliuc"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "To: \nCc: \nChristian Everdell \nLaura Menninger Jeff Pagliuc \nSubject: Re: US"
+      },
+      {
+        "name": "Jeff Pagliuc",
+        "role": "extracted",
+        "context": "ian Everdell \nLaura Menninger Jeff Pagliuc \nSubject: Re: US v. Maxwell,"
+      },
+      {
+        "name": "Conditions Update",
+        "role": "extracted",
+        "context": "xwell, 20 Cr. 330 (AJN) - MDC Conditions Update \nDate: Tue, 15 Jun 2021 17:45"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.865Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029987",
+    "filename": "EFTA00029987.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029987.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n(OPR \n(OPCL)\" \n(ODAG)\" \nODAG \n(USANYS)\" \nBee: \"\n:3' \nSubject: RE: Victim Meeting Talking Points \nDate: Mon, 09 Nov 2020 21:27:39 +0000 \nEmbedded: RE: Victim Meeting_Talking_Points.msg \nSAGAN)\" \n(OPR)\" \nSender: \nSubject: RE: Victim Meeting Talking Points \nMessage-Id: \n<BN3P 11 0MB05 1 6D17DFCFF81C332CCF4FB8FEA0@BN3P110MB0516.NAMP110.PROD.OUTLOOK.CO \nEFTA00029987",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Victim Meeting",
+        "role": "extracted",
+        "context": "S)\" \nBee: \"\n:3' \nSubject: RE: Victim Meeting Talking Points \nDate: Mon, 09"
+      },
+      {
+        "name": "Talking Points",
+        "role": "extracted",
+        "context": "Subject: RE: Victim Meeting Talking Points \nDate: Mon, 09 Nov 2020 21:27"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.718Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015325",
+    "filename": "EFTA00015325.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015325.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Update \nDate: The, 27 Aug 2019 14:24:18 +0000 \nAttachments: JeffreyEpstein_update_8.26.19.docx \nThis went up this morning \nBest Regards, \nSpecial Agent in Charge \nCriminal Division \nFlliMe \n( \n( \nEFTA00015325",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update \nDate",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: Update \nDate: The, 27 Aug 2019 14:24:18 +0"
+      },
+      {
+        "name": "Best Regards",
+        "role": "extracted",
+        "context": "x \nThis went up this morning \nBest Regards, \nSpecial Agent in Charge \nCr"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "this morning \nBest Regards, \nSpecial Agent in Charge \nCriminal Division"
+      },
+      {
+        "name": "Charge \nCriminal",
+        "role": "extracted",
+        "context": "st Regards, \nSpecial Agent in Charge \nCriminal Division \nFlliMe \n( \n( \nEFTA0"
+      },
+      {
+        "name": "Division \nFlli",
+        "role": "extracted",
+        "context": "ial Agent in Charge \nCriminal Division \nFlliMe \n( \n( \nEFTA00015325"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.455Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00016201",
+    "filename": "EFTA00016201.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016201.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: •   : ma: sen as \nwee \nDate: Tue, 02 Nov 2021 13:14:14 +0000 \nAttachments: 2021-11-01_GMJetter re_MDC_Iegal_mail_v3.docx \nSorry, take a look at this version \nEFTA00016201\n\nEFTA00016202",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: •   : ma: sen a"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: •   : ma: sen as \nwee \nDate:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.218Z"
+}

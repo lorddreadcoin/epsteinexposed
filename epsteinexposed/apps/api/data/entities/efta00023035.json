@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023035",
+    "filename": "EFTA00023035.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023035.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Thank you \nDate: Thu, 04 Nov 2021 03:28:40 +0000 \nAttachments: 2021.11.03 Maxwell verdict sheet docx _ _ \nHere's the verdict form which is short and I think clean. \nFrom \nSent: Wednesday, November 3, 2021 11:24 PM \nTo: \nSubject: Thank you \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00023035",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "is short and I think clean. \nFrom \nSent: Wednesday, November 3, 2021"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "PM \nTo: \nSubject: Thank you \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": ": Thank you \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-03",
+        "event": "November 3, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.119Z"
+}

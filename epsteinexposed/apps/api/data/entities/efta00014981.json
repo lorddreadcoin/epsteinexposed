@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00014981",
+    "filename": "EFTA00014981.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014981.pdf",
+    "text": "\n\nFrom: \nTo: Nathan NYSD Chambers\nCc: \nMenninger\" \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Def. Expert Notice \nDate: Mon, 08 Nov 2021 15:12:48 +0000 \nAttachments: Def_Expert_Noticelproposed_redactions].pdf \nIc Ii \nPagliuca \nChristian Everdell \n• \n\"Laura \nChambers, \nPursuant to the Court's order at Dkt. No. 409, attached are the Government's proposed redactions to Dkt. No. 406 Ex. A. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00014981",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers\nCc",
+        "role": "extracted",
+        "context": "From: \nTo: Nathan NYSD Chambers\nCc: \nMenninger\" \nSubject: US v."
+      },
+      {
+        "name": "Expert Notice",
+        "role": "extracted",
+        "context": "well, 20 Cr. 330 (AJN) - Def. Expert Notice \nDate: Mon, 08 Nov 2021 15:12"
+      },
+      {
+        "name": "Ic Ii",
+        "role": "extracted",
+        "context": "icelproposed_redactions].pdf \nIc Ii \nPagliuca \nChristian Everdell"
+      },
+      {
+        "name": "Pagliuca \nChristian",
+        "role": "extracted",
+        "context": "posed_redactions].pdf \nIc Ii \nPagliuca \nChristian Everdell \n• \n\"Laura \nChambers"
+      },
+      {
+        "name": "Laura \nChambers",
+        "role": "extracted",
+        "context": "iuca \nChristian Everdell \n• \n\"Laura \nChambers, \nPursuant to the Court's ord"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "A. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.904Z"
+}

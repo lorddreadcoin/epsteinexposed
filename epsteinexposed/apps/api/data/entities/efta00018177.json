@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018177",
+    "filename": "EFTA00018177.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018177.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Following Epstein's Arrest, Spotlight Shifts to Financier's Longtime Associate - WSJ \nDate: Fri, 12 Jul 2019 01:09:06 +0000 \nImportance: Normal \nhttps://vvww.wsj.com/articles/following-epsteins-arrest-spotlight-shifts-to-financiers-longtime-associate-\n11562881299 \nSent from my iPhone \nEFTA00018177",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Following Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Following Epstein's Arrest, Spotlight Shifts to"
+      },
+      {
+        "name": "Spotlight Shifts",
+        "role": "extracted",
+        "context": ": Following Epstein's Arrest, Spotlight Shifts to Financier's Longtime Assoc"
+      },
+      {
+        "name": "Longtime Associate",
+        "role": "extracted",
+        "context": "otlight Shifts to Financier's Longtime Associate - WSJ \nDate: Fri, 12 Jul 2019"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.351Z"
+}

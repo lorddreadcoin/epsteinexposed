@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029800",
+    "filename": "EFTA00029800.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029800.pdf",
+    "text": "\n\nFrom: ' \nTo: 'r\" <I \nSubject: Florida document release \nDate: Thu, 30 Jan 2020 22:10:38 +0000 \nI'm sure you saw this as well from google alerts, but wanted to flag because this may cause issues: \nhttps://www.sun-sentinel.cominewskrimefil-ne-jeffrey-epstein-documents-online-20200130-\notmyje2wujatphbiafop4pom7e-story.html\nsalS.org/stateattorney/NewsRoom/indexPR.htmR.htm \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nEFTA00029800",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ey/NewsRoom/indexPR.htmR.htm \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "PR.htmR.htm \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nEFTA00029800"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.256Z"
+}

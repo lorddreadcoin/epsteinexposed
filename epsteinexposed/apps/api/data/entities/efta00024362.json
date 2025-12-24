@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00024362",
+    "filename": "EFTA00024362.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024362.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: revised search warrant \nDate: Sun, 11 Aug 2019 00:13:48 +0000 \nAttachments: Exhibit_A.pdf; Exhibit_B.pdf; Exhibit_C.pdf; Exhibit_D.pdf; \nUSVI_SW.v6_(highlighted).docx; USVI_SW.v6.docx \nWe talked about the agent's timing, so I wanted to let you know that the plane that will fly the agents down (48 agents in \ntotal) will take off at 9 a.m. tomorrow. If it is at all possible to know from Judge Miller before then whether she is \nprepared to sign the application, our team would be very grateful. \nAs we just discussed, I'm attaching a copy of the application that highlights the paragraphs that were revised. I've also \nattached a slightly updated clean version of the draft, which fixes a small typo I saw (which is also fixed in the highlighted \nversion). \nThanks, \nFrom: \nSent: Saturday, August 10, 2019 7:53 PM \nTo: \nCc: \nSubject: revised search warrant \nThanks again for your help today, and for being flexible while we evaluated how to proceed today. Attached is the revised \napplication. The exhibits are the same as before, but I'm attaching them again just so you have the complete package. I'll \ncall you in a moment to discuss logistics. \nSpecial Agent s copied here. The FBI would greatly appreciate it if we could swear out the warrant first thing in the \nmorning, if at all possible \nThanks \nvery much—\nEFTA00024362",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Miller",
+        "role": "extracted",
+        "context": "at all possible to know from Judge Miller before then whether she is \np"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "moment to discuss logistics. \nSpecial Agent s copied here. The FBI would"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.014Z"
+}

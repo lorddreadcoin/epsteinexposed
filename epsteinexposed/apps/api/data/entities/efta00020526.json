@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00020526",
+    "filename": "EFTA00020526.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020526.pdf",
+    "text": "\n\nFrom: \" \n<1=MMIIM> \nTo: EMS \nCc: \nSubject: RE: Maxwell drive delivery Monday 1/11 \nDate: Tue, 12 Jan 2021 19:10:23 +0000 \nThanks very much for letting us know. \nBest, \n Original Messa e \nFrom:\nSent: Tuesday, January 12, 2021 2:07 PM \nTo: \nCc: \n(USANYS) \n[Contractor]an \n(USANYS) \nSubject: Re: Maxwell drive delivery Monday 1/11 \nJust wanted to give you a heads up that Maxwell will receive the hard drives tomorrow. Our paralegal who logs \nthem was out yesterday and had an a lot of discovery drives to log today. By the time he went to deliver hers, she \nwas already on her VTC and won't be off until 3:30 and he will no longer be here. \nBest, \n>>> \nPM >» \nGood \nafternoon, \n\" \n1/8/2021 2:20 \nThe FBI has very kindly agreed to deliver two new drives from my office to the MDC for Ghislaine Maxwell on \nMonday, January 11th. I've cc'd Special Agent =MI who will be coordinating the delivery. Would you \nplease let us know what time the FBI should plan to make the delivery and who will be available to receive the \ndrives on Monday? \nThank you all very much for your help. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nmailto:\nEFTA00020526",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "iver two new drives from my office to the MDC for Ghislaine Maxwell on \nMonday, January 11th. I've cc'd Special Agent"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "for letting us know. \nBest, \n Original Messa e \nFrom:\nSent: Tuesday, Janua"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "nday, January 11th. I've cc'd Special Agent =MI who will be coordinating"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "y much for your help. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "elp. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nmailto:\nEFTA0"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-01-08",
+        "event": "1/8/2021"
+      },
+      {
+        "date": "2021-01-12",
+        "event": "January 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.008Z"
+}

@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00029508",
+    "filename": "EFTA00029508.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029508.pdf",
+    "text": "\n\nEvent: Accepted: \nStart Date: 2019-06-11 17:00:00 +0000 \nEnd Date: 2019-06-11 18:00:00 +0000 \nOrganizer: \nLocation: Brass meet re Epstein \nClass: X-PERSONAL \nComment: \nDate Created: 2019-06-10 17:55:22 +0000 \nDate Modified: 2019-06-10 17:55:22 +0000 \nPriority: 5 \nDTSTAMP: 2019-06-10 17:38:48 +0000 \nEFTA00029508",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Accepted: \nStart Date: 2019-06-11 17:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-06-11 17:00:00 +0000 \nEnd Date: 2019-06-11 18:00:00 +0000 \nO"
+      },
+      {
+        "name": "Epstein \nClass",
+        "role": "extracted",
+        "context": "zer: \nLocation: Brass meet re Epstein \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-06-10 17:55:22 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-06-10 17:55:22 +0000 \nDate Modified: 2019-06-10 17:55:22 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-11",
+        "event": "2019-06-11"
+      },
+      {
+        "date": "2019-06-10",
+        "event": "2019-06-10"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.566Z"
+}

@@ -1,0 +1,76 @@
+{
+  "document": {
+    "id": "efta00019176",
+    "filename": "EFTA00019176.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019176.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Press Coverage re Op Stolen Globe/Epstein \nDate: Tue, 26 Jan 2010 17:34:37 +0000 \nImportance: Normal \nAttachments: ex-epstein-worker-faces.pdf \nFrom \nFrom: C. (USAFLS) \nSent: Tuesday, \nJanuary \n26. 2010 \n10:20 \nAM \nSubject: Press Coverage re Op Stolen Globe/Epstein \nI have suspicions about who tipped off the press given my recent back and forth with some of the plaintiffs' \nattorneys, but in any event, this appeared in this morning's Palm Beach Post. \nCan we set up the meeting with the AUSAs in California and New Mexico some time soon? \n<<ex-epstein-worker-faces.pdf>> \nssistant torney \n500 E. Broward Blvd, 7th Floor \nFt Lauderdale, FL 33394 \n954-660-5946 \nEFTA00019176",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Press Coverage",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Press Coverage re Op Stolen Globe/Epstein \nD"
+      },
+      {
+        "name": "Op Stolen",
+        "role": "extracted",
+        "context": "ubject: FW: Press Coverage re Op Stolen Globe/Epstein \nDate: Tue, 26"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "s Coverage re Op Stolen Globe/Epstein \nDate: Tue, 26 Jan 2010 17:34:37 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 17:34:37 +0000 \nImportance: Normal \nAttachments: ex-epstein-worker-faces.pdf"
+      },
+      {
+        "name": "From \nFrom",
+        "role": "extracted",
+        "context": "ex-epstein-worker-faces.pdf \nFrom \nFrom: C. (USAFLS) \nSent: Tuesday,"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "is appeared in this morning's Palm Beach Post. \nCan we set up the meet"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "h the AUSAs in California and New Mexico some time soon? \n<<ex-epstein"
+      },
+      {
+        "name": "Broward Blvd",
+        "role": "extracted",
+        "context": "df>> \nssistant torney \n500 E. Broward Blvd, 7th Floor \nFt Lauderdale, FL"
+      },
+      {
+        "name": "Floor \nFt",
+        "role": "extracted",
+        "context": "ney \n500 E. Broward Blvd, 7th Floor \nFt Lauderdale, FL 33394 \n954-660"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Ft Lauderdale, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "954-660-5946"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.441Z"
+}

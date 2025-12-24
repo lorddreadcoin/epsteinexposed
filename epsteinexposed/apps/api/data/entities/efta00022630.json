@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00022630",
+    "filename": "EFTA00022630.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022630.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject Re: MCC Visit Thursday \nDate: Tue, 13 Aug 2019 19:37:41 +0000 \nIt should not be a problem. Does 10 am work for Mr. Berman and the rest of his staff? \nCLC New York \nMetropolitan Correctional Center \n150 Park Row \nNew York. New York 10007 \n>  8/13/2019 2:05 PM >>> \nThe list of visitors from our office is below: \nAs discussed, we would like to see the 2nd floor pscyh observation and suicide watch area; the 9th floor SHU, and Epstein's \ncell, which we understand to still be cordoned off. As discussed, we would appreciate if only MCC legal would escort us, \nand we will not speak to any of the guards present given the ongoing investigations. Please give me a call with any \nquestions, and let us know what time and where we should go, and if it would be easier for us to enter via the 3rd floor \nbridge. \nThanks, \nAssistant United States Attorney \nrk \nEFTA00022630",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Berman",
+        "role": "extracted",
+        "context": "problem. Does 10 am work for Mr. Berman and the rest of his staff"
+      },
+      {
+        "name": "Subject Re",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject Re: MCC Visit Thursday \nDate: Tu"
+      },
+      {
+        "name": "Visit Thursday",
+        "role": "extracted",
+        "context": "m: \nTo: \nCc: \nSubject Re: MCC Visit Thursday \nDate: Tue, 13 Aug 2019 19:37"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "of his staff? \nCLC New York \nMetropolitan Correctional Center \n150 Park Row \nNew Yor"
+      },
+      {
+        "name": "Park Row",
+        "role": "extracted",
+        "context": "itan Correctional Center \n150 Park Row \nNew York. New York 10007 \n>"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "3rd floor \nbridge. \nThanks, \nAssistant United States Attorney \nrk \nEFTA0002"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nrk \nEFTA00022630"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-13",
+        "event": "8/13/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.291Z"
+}

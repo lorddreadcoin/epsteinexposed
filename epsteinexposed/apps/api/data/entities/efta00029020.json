@@ -1,0 +1,168 @@
+{
+  "document": {
+    "id": "efta00029020",
+    "filename": "EFTA00029020.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029020.pdf",
+    "text": "\n\nFrom: a \n(USANYS)\"  \nTo: (USANYS)\"  \nSubject: RE: Maxwell \nDate: Mon, 07 Jun 2021 16:51:03 +0000 \nInline-Images: image003.jpg; image002.jpg \nExcellent. Thanks for your careful handling. \nOn Jun \n7, 2021, at 12:43 PM, \n(USANYS)\n  wrote: \nFrom: (USAEO) \nSent: Monday, June 7, 202112:11 PM \nTo: (USANYS); \nSubject: RE: Maxwell \nThanks M. \nCISSP, CI EH \nAssistant Director & Chief Information Security Officer \nDepartment of Justice \nExecutive Office for the United States Attorneys' \nOffice of the Chief \nInformation Officer, Cybersecurity Services Group \n<image002.jpg> \nFrom: (USANYS) \nc\nSent: Monday, June 7, 2021 11:49 AM \nTo: (USAEO) \nCc: (USAEO) ca. \nSubject: RE: Maxwell \nThe issue as it relates to conduct \nof \ns closed. \nAs to he is leaving CACI's employ this Friday, but it has nothing to do with the transfer of documents. I \nthink \nwe can let it die on Friday. \nThanks, \n(USAEO) \nEFTA00029020\n\nn \nFrom: (USAEO) ‹> \nSent: Monday, June 7, 2021 10:56 AM \nTo: (USANYS) \nCc: (USAEO) \nSubject: RE: Maxwell \nGood morning \nGCO's records show that this matter, as it applies to S was already addressed by GCO back on April 19. \nThose records show that the USAO took necessary steps to mitigate the action and did not wish to proceed with any \ndisciplinary actions given the circumstances. Would you like to discuss the circumstances regarding the new incident \nwith employee who I understand is also a contractor? \nThank you, \nAssistant United States Attorney \nGeneral Counsel's Office (On Detail) \nExecutive Office for U.S. Attorneys \nFrom: (USAEO) \nSent: Friday, June 4, 2021 12:45 PM \nTo: SOC-EOUSA \n .; \nCc: \n(usAms)<I> \n(USAEO) (USAEO) \n(USAEO) (USAEO) \n(USAEO) <> \nSubject: RE: Maxwell \nImportance: High \n< \nSOC, \nPlease complete the following actions with the district: \n•  I've spoken with M, this is not a  classified spill. The data label is based on a protective order issued by the court. \n•  The Information Disclosure will need to be completed as there was a substantial amount of Pll included in the \nupload. \n•  Validate the information was received by the intended recipient. \n•  Insure the data has been removed from and \nI believe the district did speak to the individual on this, not sure if you have any further questions. A summary of the \nincident is below for your reference. \n•  On April 13th, uploaded 5.5 GB of data to \n•  Analysts determined the content of these files were discovery for the Jeffrey Epstein case against Ghislaine \nMaxwell. It contained the under-age victim names among other PII. \n•  The CISO notification was sent May 26th and the SOC notification with the Information Disclosure form sent on \nMay 28th. \nEFTA00029021\n\n•  Contractor stated they chose to use the Sharefile.com instead of USAfx. \n•  In the last 24 hours, another user from the same district, uploaded less than a GB of data to another law firm that \nuses sharefile.com. This user is: \nin \nNYS. \nR/G \nCISSP, C I EH \nAssistant Director & Chief Information Security Officer \nDepartment of Justice \nExecutive Office for the United States Attorneys' \nOffice of the Chief Information Officer, Cybersecurity Services Group \n<image003.jpg> \nFrom: (USANYS) <M> \nSent: Thursday, June 3, 2021 1:59 PM \nTo: (USAEO) <> \nSubject: FW: Maxwell \nFrom: (USANYS) \nSent: Thursday, June 3, 2021 1:49 PM \nTo: (USANYS) <> \nCc: (USANYS) \nSubject: Maxwell \nS \nAttached is the Court ordered protective order, which requires us to mark things as confidential (paragraph 7). \nThe production uploaded was non-testifying witness 3500. An example page is attached, and includes our \n\"confidential\" marking that we applied pursuant to the protective order. Given that this information clearly contains Pll \nfor victims, the designation is necessary. We'd also ask that this page not be widely disseminated outside of those at \nEOUSA who already have access. \nThank you, \nChief, Public Corruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA00029022\n\nTHE EXECUTIVE OFFICE \n'A \nUNITED STATES ATTORNEYS \nCybersecurity Staff \nTHE EXECUTIVE OFFICE \nfir\nUNITED STATES ATTORNEYS \nCybersecurity Staff \nEFTA00029023",
+    "pageCount": 4,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "the content of these files were discovery for the Jeffrey Epstein case against Ghislaine \nMaxwell. It contained the"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "To: (USANYS)\"  \nSubject: RE: Maxwell \nDate: Mon, 07 Jun 2021 16:51:03 +0"
+      },
+      {
+        "name": "On Jun",
+        "role": "extracted",
+        "context": "s for your careful handling. \nOn Jun \n7, 2021, at 12:43 PM, \n(USAN"
+      },
+      {
+        "name": "Maxwell \nThanks",
+        "role": "extracted",
+        "context": "To: (USANYS); \nSubject: RE: Maxwell \nThanks M. \nCISSP, CI EH \nAssistant D"
+      },
+      {
+        "name": "Assistant Director",
+        "role": "extracted",
+        "context": "ell \nThanks M. \nCISSP, CI EH \nAssistant Director & Chief Information Security"
+      },
+      {
+        "name": "Chief Information",
+        "role": "extracted",
+        "context": ", CI EH \nAssistant Director & Chief Information Security Officer \nDepartment"
+      },
+      {
+        "name": "Security Officer",
+        "role": "extracted",
+        "context": "Director & Chief Information Security Officer \nDepartment of Justice \nExecu"
+      },
+      {
+        "name": "Justice \nExecutive",
+        "role": "extracted",
+        "context": "curity Officer \nDepartment of Justice \nExecutive Office for the United States"
+      },
+      {
+        "name": "Chief \nInformation",
+        "role": "extracted",
+        "context": "tes Attorneys' \nOffice of the Chief \nInformation Officer, Cybersecurity Servic"
+      },
+      {
+        "name": "Cybersecurity Services",
+        "role": "extracted",
+        "context": "e Chief \nInformation Officer, Cybersecurity Services Group \n<image002.jpg> \nFrom:"
+      },
+      {
+        "name": "Maxwell \nThe",
+        "role": "extracted",
+        "context": "Cc: (USAEO) ca. \nSubject: RE: Maxwell \nThe issue as it relates to conduc"
+      },
+      {
+        "name": "Maxwell \nGood",
+        "role": "extracted",
+        "context": "S) \nCc: (USAEO) \nSubject: RE: Maxwell \nGood morning \nGCO's records show t"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "so a contractor? \nThank you, \nAssistant United States Attorney \nGeneral Coun"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nGeneral Counsel's Office (On"
+      },
+      {
+        "name": "General Counsel",
+        "role": "extracted",
+        "context": "stant United States Attorney \nGeneral Counsel's Office (On Detail) \nExecuti"
+      },
+      {
+        "name": "On Detail",
+        "role": "extracted",
+        "context": "ey \nGeneral Counsel's Office (On Detail) \nExecutive Office for U.S. A"
+      },
+      {
+        "name": "Executive Office",
+        "role": "extracted",
+        "context": "Counsel's Office (On Detail) \nExecutive Office for U.S. Attorneys \nFrom: (US"
+      },
+      {
+        "name": "Attorneys \nFrom",
+        "role": "extracted",
+        "context": "l) \nExecutive Office for U.S. Attorneys \nFrom: (USAEO) \nSent: Friday, June"
+      },
+      {
+        "name": "Maxwell \nImportance",
+        "role": "extracted",
+        "context": "EO) \n(USAEO) <> \nSubject: RE: Maxwell \nImportance: High \n< \nSOC, \nPlease comple"
+      },
+      {
+        "name": "The Information",
+        "role": "extracted",
+        "context": "rder issued by the court. \n•  The Information Disclosure will need to be co"
+      },
+      {
+        "name": "On April",
+        "role": "extracted",
+        "context": "below for your reference. \n•  On April 13th, uploaded 5.5 GB of data"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "Jeffrey Epstein case against Ghislaine \nMaxwell. It contained the under-age v"
+      },
+      {
+        "name": "Information Disclosure",
+        "role": "extracted",
+        "context": "the SOC notification with the Information Disclosure form sent on \nMay 28th. \nEFTA"
+      },
+      {
+        "name": "Maxwell \nFrom",
+        "role": "extracted",
+        "context": "To: (USAEO) <> \nSubject: FW: Maxwell \nFrom: (USANYS) \nSent: Thursday, Ju"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "e access. \nThank you, \nChief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA000"
+      },
+      {
+        "name": "Cybersecurity Staff",
+        "role": "extracted",
+        "context": "'A \nUNITED STATES ATTORNEYS \nCybersecurity Staff \nTHE EXECUTIVE OFFICE \nfir\nUN"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-06-07",
+        "event": "June 7, 2021"
+      },
+      {
+        "date": "2021-06-04",
+        "event": "June 4, 2021"
+      },
+      {
+        "date": "2021-06-03",
+        "event": "June 3, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.636Z"
+}

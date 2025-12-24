@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00025523",
+    "filename": "EFTA00025523.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025523.pdf",
+    "text": "\n\nFrom \nTo: \nCc: \nSubject Re: Epstein \nDate: Thu, 25 Jul 2019 13:14:11 +0000 \nHe is in psychological observation. It is similar to suicide watch, but more like a step-down from it. It is also used a \ntemporary housing for inmates who have mental health issues that do not arise to the level of suicidality. \nThanks' \n7/25/2019 8:30 AM >>> \nCan you tell me where Epstein is right now? Is he still on suicide watch? \nThanks, \nEFTA00025523",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nCc: \nSubject Re: Epstein \nD"
+      },
+      {
+        "name": "Subject Re",
+        "role": "extracted",
+        "context": "From \nTo: \nCc: \nSubject Re: Epstein \nDate: Thu, 25 Jul 2"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo: \nCc: \nSubject Re: Epstein \nDate: Thu, 25 Jul 2019 13:14:11 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-25",
+        "event": "7/25/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.342Z"
+}

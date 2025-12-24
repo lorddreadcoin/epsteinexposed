@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018269",
+    "filename": "EFTA00018269.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018269.pdf",
+    "text": "\n\nFrom: \nSubject: Re: Jeffrey Epstein's cell is three doors down from El \nChapo \nDate: Fri, 12 Jul 2019 21:59:45 +0000 \nImportance: Normal \nBillionaire (or multi-millionaire's) row... \nSent from my iPhone \n> On \nJul 12, 2019, at 5:57 PM wrote: \n> https://nypost.cotn/2019/07/12/jeffrey-epsteins-cell-is-three-doors-down-from-el-chapo/ \n> Sent from my iPhone \nEFTA00018269",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nSubject: Re: Jeffrey Epstein's cell is three doors down from El \nChapo \nDate:"
+      },
+      {
+        "name": "El \nChapo",
+        "role": "extracted",
+        "context": "cell is three doors down from El \nChapo \nDate: Fri, 12 Jul 2019 21:59"
+      },
+      {
+        "name": "Normal \nBillionaire",
+        "role": "extracted",
+        "context": "9 21:59:45 +0000 \nImportance: Normal \nBillionaire (or multi-millionaire's) row."
+      },
+      {
+        "name": "On \nJul",
+        "role": "extracted",
+        "context": "ow... \nSent from my iPhone \n> On \nJul 12, 2019, at 5:57 PM wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.544Z"
+}

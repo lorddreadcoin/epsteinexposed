@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00010585",
+    "filename": "EFTA00010585.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010585.pdf",
+    "text": "\n\nFrom: (USANYS)\" <\nIMIE> \nTo: \" (USANYS) 4\"\nSubject: 2019.02.15 Agenda Meeting with \nDate: Thu, 14 Feb 2019 22:17:46 +0000 \nImportance: Normal \nAttachments: \nJust waiting to get an update from the team. \nEFTA00010585",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Agenda Meeting",
+        "role": "extracted",
+        "context": "SANYS) 4\"\nSubject: 2019.02.15 Agenda Meeting with \nDate: Thu, 14 Feb 2019"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 22:17:46 +0000 \nImportance: Normal \nAttachments: \nJust waiting to get an upda"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:42.265Z"
+}

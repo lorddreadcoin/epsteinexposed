@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00024235",
+    "filename": "EFTA00024235.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024235.pdf",
+    "text": "\n\nFrom• \nTo: Christian Everdel BOBBI C STERNHEIM \n, Laura Menning' Jeff Pagliuca \nCc \nSubject: US v. Maxwell, 20 Cr. 330 (MN) - discovery and exhibits \nDate: Fri, 29 Oct 2021 00:25:57 +0000 \nAttachments: 2021.10.28_Maxwell_Discovery_Letter.pdf; \n2021.10.28 US v. Maxwell Government Exhibit Index (Defense).pdf \nCounsel, \nwe have an additional discovery production ready to send to you. Attached please find the accompanying cover letter. \nThe production will be made via USAfx. The materials on USAfx will include additional exhibits. Attached please find the \naccompanying index. \nWe will send a CD with the materials to the MDC for Ms. Maxwell. If you would prefer that she receive the production on \na drive, we can either request that the MDC send us one of the drives back to load with the production, or we can load a \nnew drive if you would like to provide us with one. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00024235",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "the materials to the MDC for Ms. Maxwell. If you would prefer that"
+      },
+      {
+        "name": "Christian Everdel",
+        "role": "extracted",
+        "context": "From• \nTo: Christian Everdel BOBBI C STERNHEIM \n, Laura Me"
+      },
+      {
+        "name": "Laura Menning",
+        "role": "extracted",
+        "context": "Everdel BOBBI C STERNHEIM \n, Laura Menning' Jeff Pagliuca \nCc \nSubject:"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "C STERNHEIM \n, Laura Menning' Jeff Pagliuca \nCc \nSubject: US v. Maxwell,"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "Laura Menning' Jeff Pagliuca \nCc \nSubject: US v. Maxwell, 20 Cr. 330 (M"
+      },
+      {
+        "name": "Maxwell Government",
+        "role": "extracted",
+        "context": "Letter.pdf; \n2021.10.28 US v. Maxwell Government Exhibit Index (Defense).pdf"
+      },
+      {
+        "name": "Exhibit Index",
+        "role": "extracted",
+        "context": "0.28 US v. Maxwell Government Exhibit Index (Defense).pdf \nCounsel, \nwe h"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "rovide us with one. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.707Z"
+}

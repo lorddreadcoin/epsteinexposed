@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00029575",
+    "filename": "EFTA00029575.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029575.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: Nathan NYSD Chambers \n<M=IM> \nCc: \nChristian Everdell STERNHEIM \n>, Laura Menninger , Jeff Pagliuca \nSubject: US v. Maxwell, 20 Cr. 330 (MN) - Letter it Defendant's Transportation (Submitted Under \nSeal) \nDate: The, 09 Nov 2021 03:55:48 +0000 \nAttachments: 2021-11-08 GM letter re transportation to courthouse final (sealed).pdf _ _ _ _ _ _ \nGood evening, \nAttached please find the Government's letter regarding the defendant's transportation to the courthouse, which the \nGovernment is submitting under seal as authorized by the Court. \nRespectfully submitted, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00029575",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "n NYSD Chambers \n<M=IM> \nCc: \nChristian Everdell STERNHEIM \n>, Laura Menninger"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "istian Everdell STERNHEIM \n>, Laura Menninger , Jeff Pagliuca \nSubject: US"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "ERNHEIM \n>, Laura Menninger , Jeff Pagliuca \nSubject: US v. Maxwell, 20 C"
+      },
+      {
+        "name": "Submitted Under",
+        "role": "extracted",
+        "context": "t Defendant's Transportation (Submitted Under \nSeal) \nDate: The, 09 Nov 202"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "rt. \nRespectfully submitted, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-08",
+        "event": "2021-11-08"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.708Z"
+}

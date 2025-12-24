@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00019470",
+    "filename": "EFTA00019470.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019470.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: Maxwell \nDate: Mon, 13 Jul 2020 19:12:27 +0000 \nAttachments: 6653181._Maxwell,_Ghislaine.pdf \nGood Afternoon-\nBail report attached for Ms. Maxwell who is scheduled to appear remotely before Your Honor tomorrow. \nopied above completed the Pretrial interview/report and will dial in for this hearing. She can be contacted at \nif needed. \nCounsels-\nIn accordance with Local Rule 57.1, Pretrial Services Reports are made available to \nDefense Counsel and the Government. The Pretrial Reports are not public record, \nare not to be reproduced or disclosed to any other party, and shall remain \nconfidential as provided in Title 18 U.S.C. § 3153(c)(1). Please shred, delete and \nrefrain from forwarding any bail reports received by Pretrial \nServices. \nU.S. Pretrial Services Officer Specialist - Intake Coordinator \nSouthern District of New York \nOffice: \nFax: \nEFTA00019470",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "oon-\nBail report attached for Ms. Maxwell who is scheduled to appea"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Maxwell \nDate:"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Maxwell \nDate: Mon, 13 Jul 2"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Maxwell \nDate: Mon, 13 Jul 2020 19:12:27 +0"
+      },
+      {
+        "name": "Good Afternoon",
+        "role": "extracted",
+        "context": "3181._Maxwell,_Ghislaine.pdf \nGood Afternoon-\nBail report attached for Ms."
+      },
+      {
+        "name": "Local Rule",
+        "role": "extracted",
+        "context": "Counsels-\nIn accordance with Local Rule 57.1, Pretrial Services Repor"
+      },
+      {
+        "name": "Pretrial Services",
+        "role": "extracted",
+        "context": "ordance with Local Rule 57.1, Pretrial Services Reports are made available to"
+      },
+      {
+        "name": "Defense Counsel",
+        "role": "extracted",
+        "context": "eports are made available to \nDefense Counsel and the Government. The Pretr"
+      },
+      {
+        "name": "The Pretrial",
+        "role": "extracted",
+        "context": "e Counsel and the Government. The Pretrial Reports are not public record"
+      },
+      {
+        "name": "Pretrial \nServices",
+        "role": "extracted",
+        "context": "any bail reports received by Pretrial \nServices. \nU.S. Pretrial Services Offi"
+      },
+      {
+        "name": "Officer Specialist",
+        "role": "extracted",
+        "context": "ices. \nU.S. Pretrial Services Officer Specialist - Intake Coordinator \nSouther"
+      },
+      {
+        "name": "Intake Coordinator",
+        "role": "extracted",
+        "context": "Services Officer Specialist - Intake Coordinator \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "cialist - Intake Coordinator \nSouthern District of New York \nOffice: \nFax: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.966Z"
+}

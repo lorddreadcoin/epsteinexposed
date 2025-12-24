@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00027748",
+    "filename": "EFTA00027748.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027748.pdf",
+    "text": "\n\nEvent: Accepted: call with USA of NDGA re: Epstein \nStart Date: 2019-03-07 18:00:00 +0000 \nEnd Date: 2019-03-07 18:30:00 +0000 \nClass: X-PERSONAL \nComment: \nDate Created: 2019-03-05 21:53:36 +0000 \nDate Modified: 2019-03-05 21:53:36 +0000 \nPriority: 5 \nDTSTAMP: 2019-03-05 21:28:44 +0000 \nAttendee: < > \nEFTA00027748",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "ed: call with USA of NDGA re: Epstein \nStart Date: 2019-03-07 18:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-03-07 18:00:00 +0000 \nEnd Date: 2019-03-07 18:30:00 +0000 \nC"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-03-05 21:53:36 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-03-05 21:53:36 +0000 \nDate Modified: 2019-03-05 21:53:36 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-03-07",
+        "event": "2019-03-07"
+      },
+      {
+        "date": "2019-03-05",
+        "event": "2019-03-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.902Z"
+}

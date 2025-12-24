@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00022365",
+    "filename": "EFTA00022365.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022365.pdf",
+    "text": "\n\nGhislaine \nMaxwell \n116E \n65th \nStreet \nNew \nYork, \nNY \n10065-7007 \nMay \n3, \n2016 \nScott \nStackman \nUBS \nFinancial \nServices \nInc. \nPrivate \nWealth \nManagement \n299 \nPark \nAvenue, \n25th \nFloor \nNew \nYork, \nNY \n10171 \nRE: \nWire \nRequest \nDear \nScott: \nalibi\nthis \nletter \nas \nauthorization \nto \nwire \n$2,500,000.00 \nfrom \nmy \nUBS \naccount \ntitled \nGhislaine \nMaxwell, \nto \nthe \ninstructions \nbelow. \nBank \nName: \nCitizens \nBank \nAccount \nName: \nScott \nBo \nerson \nAccount \nNumber \nRouting \nNumber: \nSincerely, \nGhislaine \nMaxwe \nEFTA00022365",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "Ghislaine \nMaxwell \n116E \n65th \nStreet \nNew \nYor"
+      },
+      {
+        "name": "Street \nNew",
+        "role": "extracted",
+        "context": "islaine \nMaxwell \n116E \n65th \nStreet \nNew \nYork, \nNY \n10065-7007 \nMay"
+      },
+      {
+        "name": "Scott \nStackman",
+        "role": "extracted",
+        "context": "Y \n10065-7007 \nMay \n3, \n2016 \nScott \nStackman \nUBS \nFinancial \nServices \nIn"
+      },
+      {
+        "name": "Financial \nServices",
+        "role": "extracted",
+        "context": "2016 \nScott \nStackman \nUBS \nFinancial \nServices \nInc. \nPrivate \nWealth \nManag"
+      },
+      {
+        "name": "Private \nWealth",
+        "role": "extracted",
+        "context": "S \nFinancial \nServices \nInc. \nPrivate \nWealth \nManagement \n299 \nPark \nAvenu"
+      },
+      {
+        "name": "Park \nAvenue",
+        "role": "extracted",
+        "context": "ate \nWealth \nManagement \n299 \nPark \nAvenue, \n25th \nFloor \nNew \nYork, \nNY"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "nt \n299 \nPark \nAvenue, \n25th \nFloor \nNew \nYork, \nNY \n10171 \nRE: \nWire"
+      },
+      {
+        "name": "Wire \nRequest",
+        "role": "extracted",
+        "context": "New \nYork, \nNY \n10171 \nRE: \nWire \nRequest \nDear \nScott: \nalibi\nthis \nle"
+      },
+      {
+        "name": "Dear \nScott",
+        "role": "extracted",
+        "context": "Y \n10171 \nRE: \nWire \nRequest \nDear \nScott: \nalibi\nthis \nletter \nas \naut"
+      },
+      {
+        "name": "Bank \nName",
+        "role": "extracted",
+        "context": "o \nthe \ninstructions \nbelow. \nBank \nName: \nCitizens \nBank \nAccount \nNa"
+      },
+      {
+        "name": "Citizens \nBank",
+        "role": "extracted",
+        "context": "uctions \nbelow. \nBank \nName: \nCitizens \nBank \nAccount \nName: \nScott \nBo \ne"
+      },
+      {
+        "name": "Account \nName",
+        "role": "extracted",
+        "context": "Bank \nName: \nCitizens \nBank \nAccount \nName: \nScott \nBo \nerson \nAccount"
+      },
+      {
+        "name": "Scott \nBo",
+        "role": "extracted",
+        "context": "tizens \nBank \nAccount \nName: \nScott \nBo \nerson \nAccount \nNumber \nRout"
+      },
+      {
+        "name": "Account \nNumber",
+        "role": "extracted",
+        "context": "unt \nName: \nScott \nBo \nerson \nAccount \nNumber \nRouting \nNumber: \nSincerely,"
+      },
+      {
+        "name": "Routing \nNumber",
+        "role": "extracted",
+        "context": "Bo \nerson \nAccount \nNumber \nRouting \nNumber: \nSincerely, \nGhislaine \nMaxw"
+      },
+      {
+        "name": "Ghislaine \nMaxwe",
+        "role": "extracted",
+        "context": "Routing \nNumber: \nSincerely, \nGhislaine \nMaxwe \nEFTA00022365"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New \nYork, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2016-05-03",
+        "event": "May \n3, \n2016"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.703Z"
+}

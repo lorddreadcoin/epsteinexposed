@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030289",
+    "filename": "EFTA00030289.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030289.pdf",
+    "text": "\n\nFrom \nSubject: FYI \nDate: Thu, 13 Jun 2019 23:53:24 +0000 \nImportance: Normal \nAttachments: Agg_Harrass_1996.pdf \nI noticed this in the file. Something to remember for later. \nEFTA00030289",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "From \nSubject: FYI \nDate: Thu, 13 Jun 2019"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 23:53:24 +0000 \nImportance: Normal \nAttachments: Agg_Harrass_1996.pdf \nI noti"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.492Z"
+}

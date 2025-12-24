@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00026659",
+    "filename": "EFTA00026659.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026659.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Fwd: Scanned from a Xerox Multifunction Printer \nDate: Wed, 10 Jul 2019 16:08:16 +0000 \nAttachments: Epstein_USMS_312.pdf; ATT00001.htm \nMore arrest paperwork with his cell phone number listed. \nBegin forwarded message: \nFrom: ' \nDate: Jul \nTo: \" \n< \n10 2019 at 11:33:40 EDT \nSubject: Scanned from a Xerox Multifunction Printer \nReply-To:\nPlease open the attached document. It was scanned and sent to you using a Xerox Multifunction Printer. \nAttachment File Type: pdf, Multi-Page \nMultifunction Printer Location: \nDevice Name: P290BWAY-MSSTF-MFD \nFor more information on Xerox products and solutions, please visit http://www.xerox.com \nEFTA00026659",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Xerox Multifunction",
+        "role": "extracted",
+        "context": "Subject: Fwd: Scanned from a Xerox Multifunction Printer \nDate: Wed, 10 Jul 20"
+      },
+      {
+        "name": "Printer \nDate",
+        "role": "extracted",
+        "context": "ed from a Xerox Multifunction Printer \nDate: Wed, 10 Jul 2019 16:08:16 +0"
+      },
+      {
+        "name": "Jul \nTo",
+        "role": "extracted",
+        "context": "rded message: \nFrom: ' \nDate: Jul \nTo: \" \n< \n10 2019 at 11:33:40 ED"
+      },
+      {
+        "name": "Printer \nReply",
+        "role": "extracted",
+        "context": "ed from a Xerox Multifunction Printer \nReply-To:\nPlease open the attached"
+      },
+      {
+        "name": "Attachment File",
+        "role": "extracted",
+        "context": "Xerox Multifunction Printer. \nAttachment File Type: pdf, Multi-Page \nMultif"
+      },
+      {
+        "name": "Page \nMultifunction",
+        "role": "extracted",
+        "context": "achment File Type: pdf, Multi-Page \nMultifunction Printer Location: \nDevice Nam"
+      },
+      {
+        "name": "Printer Location",
+        "role": "extracted",
+        "context": "df, Multi-Page \nMultifunction Printer Location: \nDevice Name: P290BWAY-MSSTF"
+      },
+      {
+        "name": "Device Name",
+        "role": "extracted",
+        "context": "tifunction Printer Location: \nDevice Name: P290BWAY-MSSTF-MFD \nFor more"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.761Z"
+}

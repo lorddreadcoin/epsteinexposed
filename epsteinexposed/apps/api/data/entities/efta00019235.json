@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00019235",
+    "filename": "EFTA00019235.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019235.pdf",
+    "text": "\n\nFrom:I \nTo: \n\"-\nSubject: RE: Brass Meeting \nDate: Mon, 20 Jul 2020 23:57:07 +0000 \nAttachments: 2020-04-15,_prosectition   memo,. \n     with attachments.pdf \nt>. \nThanks, I'll email her right now, just because we need to set up another meeting, too. \nAnd yes, there is plenty to read on Attached is the team's latest memo along with the latest submission. \nFrom: \nSent: Monday, July 20, 2020 7:24 PM \nTo: \nSubject: RE: Meeting \nYes, all of them work for me. Happy to email back assuming they work for you. \nIs there a pros memo or memo that I could use to get up to speed? \nFrom: \nSent: Monday, July 20, 2020 7:13 PM \nTo: \nSubject: RE: Brass Meeting \nAny of these not work for you? \nFrom: \nSent: Monday, July 20, 2020 5:03 PM \nTo: \nCc: \nSubject: Brass Meeting \nHey guys, \nCould you please let us know which of the following windows next week works for a brass meeting? Monday 11-2:30, \nTuesday 1-2:30, Thursday 11-2. Thanks very much. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA00019235",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brass Meeting",
+        "role": "extracted",
+        "context": "From:I \nTo: \n\"-\nSubject: RE: Brass Meeting \nDate: Mon, 20 Jul 2020 23:57"
+      },
+      {
+        "name": "Meeting \nYes",
+        "role": "extracted",
+        "context": "20 7:24 PM \nTo: \nSubject: RE: Meeting \nYes, all of them work for me. Hap"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "sday 11-2. Thanks very much. \nDeputy Chief, Public Corruption Unit \nU.S."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "nks very much. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-04-15",
+        "event": "2020-04-15"
+      },
+      {
+        "date": "2020-07-20",
+        "event": "July 20, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.557Z"
+}

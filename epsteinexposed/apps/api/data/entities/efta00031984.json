@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00031984",
+    "filename": "EFTA00031984.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031984.pdf",
+    "text": "\n\nUNITED STATES \nDISTRICT COURT \nSOUTHERN DISTRICT OF \nNEW YORK \nJANE \nDOE \nPlaintiff, \nv. \nDARREN INDYKE, et al., \nDefendants. \nDECLARATION OF \nNo. 20 Civ. 484 (JGK) (DCF) \ndeclares under penalty of perjury pursuant to 28 U.S.C. § \n1746 \nas \nfollows: \nI. I submit this declaration in \nresponse to a subpoena dated June 10, 2020, from the \nplaintiff in this action, directing me to produce documents and appear for a deposition. I \nunderstand this declaration is being submitted in lieu of appearing for a deposition. \n2. Beginning in 1991, I  worked as a pilot for Mr. Jeffrey Epstein (\"Epstein\") and \nEpstein\n-affiliated entities. \n3. Through flying for Mr. Epstein, I  met Ms. . I do not \nrecall when or \nwhere specifically I \nmet Ms. \nfor the first time, or the first flight she was on, but it was \nlikely in the mid to \nlate 1990s. \n4. I  have attached as Exhibit A my flight logs from the time period between January \n1, 1994 and \nDecember 31, 1997. I  made these records at or near the time of the flights reflected \ntherein, they reflect my knowledge at that time, and it was my practice to regularly make such \nrecords during the 1994-1997 time period. With respect to the names in the \n\"Remarks, \nEFTA00031984\n\nProcedures, Maneuvers, Endorsements\" column, my general practice \nduring this time was to use \nthis column to record the number of passengers on the \nplane. If I  knew the passenger's name or \nhad learned that name during the course of \nthe trip, my general practice was to record that name. \nIf I did not know or learn the name, I would write down a generic description, for example, \n\"Baby,\" \"Nanny,\" \"1 Male,\" \"1 Female.\" \n5. The first time the name M' appears in my flight logs between \nJanuary 1, \n1994 and December 31, 1997 is on November 11, 1996. This \nentry reflects that a no \nlast name, was on a flight on that date from West Palm Beach, Florida, to Teterboro Airport in \nNew Jersey. \n6. \nalso appears in an entry on May 9, 1997. This entry reflects that a \n`=' no \nlast name, was on a flight on that date from Teterboro Airport to Santa Fe, New \nMexico. \n7. I  have no specific recollection of either of these flights, \nwhich occurred over 23 \nyears ago. In addition to Ms. =, I \nrecall one other individual with the first name `=\" \nwho flew on Mr. Esptein's planes, although my recollection is that this other a did not \nbegin flying until \nthe early 2000s. \n8. I declare under penalty \nof perjury that the foregoing is true and correct to the best \nof \nmy recollection. \nExecuted on July )1 , 2020 \n2 \nEFTA00031985",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ". Beginning in 1991, I  worked as a pilot for Mr. Jeffrey Epstein (\"Epstein\") and \nEpstein\n-affiliated entities. \n3"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ities. \n3. Through flying for Mr. Epstein, I  met Ms. . I do not \nr"
+      },
+      {
+        "name": "Esptein",
+        "role": "extracted",
+        "context": "e first name `=\" \nwho flew on Mr. Esptein's planes, although my rec"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "on a flight on that date from West Palm Beach, Florida, to Teterboro"
+      },
+      {
+        "name": "Teterboro Airport",
+        "role": "extracted",
+        "context": "West Palm Beach, Florida, to Teterboro Airport in \nNew Jersey. \n6. \nalso app"
+      },
+      {
+        "name": "New Jersey",
+        "role": "extracted",
+        "context": "ida, to Teterboro Airport in \nNew Jersey. \n6. \nalso appears in an entr"
+      },
+      {
+        "name": "Santa Fe",
+        "role": "extracted",
+        "context": "ate from Teterboro Airport to Santa Fe, New \nMexico. \n7. I  have no"
+      },
+      {
+        "name": "New \nMexico",
+        "role": "extracted",
+        "context": "eterboro Airport to Santa Fe, New \nMexico. \n7. I  have no specific reco"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Teterboro",
+        "type": "location"
+      },
+      {
+        "name": "Santa Fe",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-10",
+        "event": "June 10, 2020"
+      },
+      {
+        "date": "1994-01-01",
+        "event": "January \n1, 1994"
+      },
+      {
+        "date": "1997-12-31",
+        "event": "December 31, 1997"
+      },
+      {
+        "date": "1994-01-01",
+        "event": "January 1, \n1994"
+      },
+      {
+        "date": "1996-11-11",
+        "event": "November 11, 1996"
+      },
+      {
+        "date": "1997-05-09",
+        "event": "May 9, 1997"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.354Z"
+}

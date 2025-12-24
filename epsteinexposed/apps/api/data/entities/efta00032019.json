@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032019",
+    "filename": "EFTA00032019.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032019.pdf",
+    "text": "\n\nFrom: \"Biase, Nicholas \n(USANYS)\"\nTo: \nCc: \nSubject: https://www.theguardian.corn/boolcs/2021/sep/13/steve-bannon-jeffrey-epstein-cbs-interyiew-\nmichael-wolff-book \nDate: Mon, 13 Sep 2021 15:56:21 +0000 \nThis isn't important, just sending because it's in the category of somewhat interesting/general weirdness. \nNicholas Biase \nSpokesman \nUnited States \nDepartment of Justice \nU.S. \nAttorney's Office \nI \nSouthern District of New York \nEFTA00032019",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nicholas Biase",
+        "role": "extracted",
+        "context": "teresting/general weirdness. \nNicholas Biase \nSpokesman \nUnited States \nDe"
+      },
+      {
+        "name": "Spokesman \nUnited",
+        "role": "extracted",
+        "context": "l weirdness. \nNicholas Biase \nSpokesman \nUnited States \nDepartment of Justice"
+      },
+      {
+        "name": "States \nDepartment",
+        "role": "extracted",
+        "context": "olas Biase \nSpokesman \nUnited States \nDepartment of Justice \nU.S. \nAttorney's"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "U.S. \nAttorney's Office \nI \nSouthern District of New York \nEFTA00032019"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.439Z"
+}

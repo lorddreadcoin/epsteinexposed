@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00027589",
+    "filename": "EFTA00027589.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027589.pdf",
+    "text": "\n\nFrom: \nTo: \nI, \nCc: a) (FBI)\" a, \"I(IJSANYS)\" \nSubject: Court \nSubpoena \nDate: Mon, 04 Oct 2021 18:42:35 +0000 \nAttachments: 2021.08.27_Court_SubpoenanSacramento_County_Clerk.pdf \nGood afternoon, \nI'm reaching out regarding the attached subpoena, which was served on your office in connection with an upcoming \ncriminal trial in the United States District Court for the Southern District of New York. I understand there have been some \nquestions regarding compliance. Could you please let me know your availability for a call? \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00027589",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Court \nSubpoena",
+        "role": "extracted",
+        "context": "I)\" a, \"I(IJSANYS)\" \nSubject: Court \nSubpoena \nDate: Mon, 04 Oct 2021 18:42"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "al trial in the United States District Court for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "States District Court for the Southern District of New York. I understand the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "lity for a call? \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00027589"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.602Z"
+}

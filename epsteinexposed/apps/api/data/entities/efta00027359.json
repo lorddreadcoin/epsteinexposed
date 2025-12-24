@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027359",
+    "filename": "EFTA00027359.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027359.pdf",
+    "text": "\n\nFrom: II=E=MMI >\nTo: IMa \nCc: r \nSubject: Maxwell bail briefing \nDate: Thu, 01 Apr 2021 21:31:33 +0000 \nAttachments: 2021.04.01_GM_bail_appeal_motionfor bail.pdf; \n20cr330_Opinionic_Order 12.28.20.pdf; 2021.03.22_GM_Third_Bail_Denial_Order.pdf; \n2020.07.14,_Maxwell,fin-aignment,initial_conference,_bail_hearing.pdf \nAttached, thanks. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00027359",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ma \nCc",
+        "role": "extracted",
+        "context": "From: II=E=MMI >\nTo: IMa \nCc: r \nSubject: Maxwell bail bri"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "aring.pdf \nAttached, thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ed, thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.077Z"
+}

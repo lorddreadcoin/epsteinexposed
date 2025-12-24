@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018777",
+    "filename": "EFTA00018777.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018777.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: ' )\" .<1 \nSubject: Cross \nDate: Fri, 01 Oct 2021 01:42:48 +0000 \nAttachments: \nHere is an outline of cross riffs for tomorrow. Let me know if any of these are off the mark, or if there is something I \nshould add \nDeputy Chief, Public Corruption Unit \nSouthern District of New York \nOffice: \nCell: \nEmail: \nEFTA00018777",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cross \nDate",
+        "role": "extracted",
+        "context": "YS)\"  \nTo: ' )\" .<1 \nSubject: Cross \nDate: Fri, 01 Oct 2021 01:42:48 +0"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "e is something I \nshould add \nDeputy Chief, Public Corruption Unit \nSout"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "I \nshould add \nDeputy Chief, Public Corruption Unit \nSouthern District of Ne"
+      },
+      {
+        "name": "Unit \nSouthern",
+        "role": "extracted",
+        "context": "puty Chief, Public Corruption Unit \nSouthern District of New York \nOffice:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.652Z"
+}

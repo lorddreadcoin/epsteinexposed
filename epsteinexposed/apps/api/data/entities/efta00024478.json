@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00024478",
+    "filename": "EFTA00024478.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024478.pdf",
+    "text": "\n\nFrom: \n' <MS \nTo: \n:=1111=\" \nSubject: Re: Epstein \nDate: Thu, 16 Jul 2020 18:47:15 +0000 \n(USANYS)\" \nThanks \nMa'am, I'm available anytime most convenient for you via my cell \nSpecial Agent \nDiplomatic Securit Service I New York Field Office \nMobile: \nFollow DSS: Facebook I Flickr I Twitter \nThis email is UNCLASSIFIED in accordance with Executive Order (EO) 13526. \nFrom: (USANYS) < \nSent: Thursday, July 16, 2020 2:25:25 PM \nTo: \n) \nCc: \n-<\nSubject: Epstein \n- as discussed, I  got a call from SA= from State Department regarding information they received of \na person claiming to be an Epstein victim. is copied on this email so you can coordinate next steps. - thanks \nagain for reaching out. \nCo-Chief, Narcotics Unit \nO \nEFTA00024478",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To: \n:=1111=\" \nSubject: Re: Epstein \nDate: Thu, 16 Jul 2020 18:47:15 +0"
+      },
+      {
+        "name": "Thanks \nMa",
+        "role": "extracted",
+        "context": "20 18:47:15 +0000 \n(USANYS)\" \nThanks \nMa'am, I'm available anytime mos"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "nvenient for you via my cell \nSpecial Agent \nDiplomatic Securit Service I"
+      },
+      {
+        "name": "Diplomatic Securit",
+        "role": "extracted",
+        "context": "u via my cell \nSpecial Agent \nDiplomatic Securit Service I New York Field Offi"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "ic Securit Service I New York Field Office \nMobile: \nFollow DSS: Faceboo"
+      },
+      {
+        "name": "Twitter \nThis",
+        "role": "extracted",
+        "context": "llow DSS: Facebook I Flickr I Twitter \nThis email is UNCLASSIFIED in acco"
+      },
+      {
+        "name": "Executive Order",
+        "role": "extracted",
+        "context": "CLASSIFIED in accordance with Executive Order (EO) 13526. \nFrom: (USANYS) <"
+      },
+      {
+        "name": "State Department",
+        "role": "extracted",
+        "context": ", I  got a call from SA= from State Department regarding information they re"
+      },
+      {
+        "name": "Narcotics Unit",
+        "role": "extracted",
+        "context": "for reaching out. \nCo-Chief, Narcotics Unit \nO \nEFTA00024478"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-16",
+        "event": "July 16, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.231Z"
+}

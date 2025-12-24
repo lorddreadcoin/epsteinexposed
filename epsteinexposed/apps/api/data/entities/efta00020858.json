@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020858",
+    "filename": "EFTA00020858.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020858.pdf",
+    "text": "\n\nFrom: ' \n)\"  \nTo: 1=Elfairla>„ \nSANYS\" ' \nSubject: RE: Questionnaire - Hi We also need this one ASAP. Thanks \nDate: Fri, 24 Jan 2020 15:32:58 +0000 \nAttachments: Questionnaire_for_Official_Foreign_Travel_Stockholm_2020a).pdf \nAttached is my questionairre \nFrom: \n(USANYS) \nSent: Friday, January 24, 2020 10:32 AM \nTo:  >; \nSubject: Questionnaire - Hi We also need this one ASAP. Thanks \nImportance: High \nEFTA00020858",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi We",
+        "role": "extracted",
+        "context": "Subject: RE: Questionnaire - Hi We also need this one ASAP. Than"
+      },
+      {
+        "name": "Thanks \nDate",
+        "role": "extracted",
+        "context": "i We also need this one ASAP. Thanks \nDate: Fri, 24 Jan 2020 15:32:58 +0"
+      },
+      {
+        "name": "Thanks \nImportance",
+        "role": "extracted",
+        "context": "i We also need this one ASAP. Thanks \nImportance: High \nEFTA00020858"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-24",
+        "event": "January 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.496Z"
+}

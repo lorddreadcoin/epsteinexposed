@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00021917",
+    "filename": "EFTA00021917.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021917.pdf",
+    "text": "\n\nFrom: ' \nTo: a \nb\"cl \nSubject: RE: draft letter to Netburn \nDate: Wed, 22 Jul 2020 18:12:05 —0000 \nAttachments: 2020-07-22,_GMJetter_to_Judge_Nathan_re_Local_Rule_23.1.docx \nPO \nSorry guys, I'm having bad tech issues today. Attached is the draft letter re 23.1, which is far rougher than I'd hoped to get \nit. I should free back up in an hour or so, at which point I can turn back to this if there's still more to do on it. \nFrom: \nc> \nSent: Wednesday, July 22, 2020 1:57 PM \nTo: \n; \nSubject: RE: draft letter to Netburn \nLooking at this now. \nFrom: \nSent: Wednesday, July 22, 2020 1:55 PM \nTo: \n) \nCc: \nSubject: RE: draft letter to Netburn \nNo problem, totally understand. \nFrom: \nSent: Wednesday, July 22, 2020 13:55 \nTo: \nCc: \nSubject: Re: draft letter to Netburn \nSorry guys I can't. I keep getting kicked off the vpn, and I'm fighting with my computer, so I haven't been able to do nearly \nas much work as I had planned this afternoon. \nOn Jul 22, 2020, at 1:52 PM, wrote: \nSo I obviously had to do this pretty quickly today, and it doesn't help that Westlaw has been down all afternoon, but one \nway or the other we gotta get something filed. Does either of you have a moment to take a look at this in the next hour \nor so? I'm sorry, I know you have something at 2:00! If the answer is no, totally understand, I can just pass it \nup to and .  Thanks either way and talk soon. \n<2020-07-22, JE, letter to Netburn re order on unsealing.docx> \nEFTA00021917",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Netburn \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: draft letter to Netburn \nDate: Wed, 22 Jul 2020 18:12:05 —0"
+      },
+      {
+        "name": "Netburn \nLooking",
+        "role": "extracted",
+        "context": "Subject: RE: draft letter to Netburn \nLooking at this now. \nFrom: \nSent: We"
+      },
+      {
+        "name": "Netburn \nNo",
+        "role": "extracted",
+        "context": "Subject: RE: draft letter to Netburn \nNo problem, totally understand."
+      },
+      {
+        "name": "Netburn \nSorry",
+        "role": "extracted",
+        "context": "Subject: Re: draft letter to Netburn \nSorry guys I can't. I keep getting"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "had planned this afternoon. \nOn Jul 22, 2020, at 1:52 PM, wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-22",
+        "event": "2020-07-22"
+      },
+      {
+        "date": "2020-07-22",
+        "event": "July 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.678Z"
+}

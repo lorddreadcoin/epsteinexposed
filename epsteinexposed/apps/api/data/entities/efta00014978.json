@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014978",
+    "filename": "EFTA00014978.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014978.pdf",
+    "text": "\n\n11/26121. 7:11 PM \nMail \n- (NY) (FBI) - Outlook \nAccepted: GM Physical Evidence Review \n21 '2 \n>8 ,•, r,1 \nTo: \nhtlpswoullookoffice365.us/mailkleeplunlapopouN2=1&veisi0n=20211025002.13 \n1/1 \nEFTA00014978",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Outlook \nAccepted",
+        "role": "extracted",
+        "context": "7:11 PM \nMail \n- (NY) (FBI) - Outlook \nAccepted: GM Physical Evidence Review"
+      },
+      {
+        "name": "Physical Evidence",
+        "role": "extracted",
+        "context": "(FBI) - Outlook \nAccepted: GM Physical Evidence Review \n21 '2 \n>8 ,•, r,1 \nTo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.898Z"
+}

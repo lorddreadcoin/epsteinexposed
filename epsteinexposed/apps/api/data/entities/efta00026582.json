@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026582",
+    "filename": "EFTA00026582.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026582.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: \nAUSA ECC \npackage \nDate: Mon, 05 Oct 2020 20:53:06 +0000 \nImportance: High \nAttachments: London_10.12.20.pdf \nHi RMP, Please see the attached ECC request package for AUSA \nIf required, please inform the traveler how to determine who the POC is for this trip. \nPlease advise the traveler of any additional steps they may need take. \nHi Please let EOUSA know if you have checked to see if a visa is required for your destination. \nView the state dept. link for the country you are traveling to visa link for the country you are traveling to. \nPisa policies may be found on the Department ofState's website or on the weluite hosted by each counftyl embassy \nhttprthravelstate.govicontent/passports/enkormtn,html \nTraveler. Consult EOUSA mailbox to obtain a visa for you. \nTo provide sufficient time for the State Dept. to issue the authorization letter and for the foreign government to process the visa \nrequest, it is recommended that visa request package be submitted to EOUSAX RMP Travel. \nStaff IS business days prior to the proposed date of departure. \nThank you \nEFTA00026582",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "0 20:53:06 +0000 \nImportance: High \nAttachments: London_10.12.20.pdf \nHi RMP,"
+      },
+      {
+        "name": "Hi Please",
+        "role": "extracted",
+        "context": "al steps they may need take. \nHi Please let EOUSA know if you have ch"
+      },
+      {
+        "name": "State Dept",
+        "role": "extracted",
+        "context": "ovide sufficient time for the State Dept. to issue the authorization l"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.609Z"
+}

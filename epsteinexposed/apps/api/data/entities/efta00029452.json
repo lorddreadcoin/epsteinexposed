@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029452",
+    "filename": "EFTA00029452.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029452.pdf",
+    "text": "\n\nSubject: RE: Epstein FOIA \nDate: Thu, 01 Jul 2021 15:14:43 +0000 \nSounds good. Thanks, MI \nFrom: \nSent: Thursday, July 1, 2021 11:14 AM \nSubject: RE: Epstein FOIA \nYes, please. That'd be very helpful. Much appreciated, \nFrom: \nSent: Thursday, July 1, 202111:08 AM \nSubject: RE: Epstein \nFOIA \nThanks, Yes, we will make the production tomorrow. We anticipate it will take the Times at least a few days to get \nthrough it (although we don't know for sure on that front). We can let you know once we've released it tomorrow if that'd \nbe helpful. \nFrom: \nSent: Thursday, July 1, 202111:06 AM \nSubject: Epstein FOIA \nMorning. Just for your awareness, I got a call regarding the FOIA litigation from one of our press counterparts at Main. \nShe asked if it would be okay to refer press inquiries to SDNY, I told her it wasn't a problem. Other than process \nquestions, and I anticipate declining to comment anyway. \nEFTA00029452\n\nDo we have a sense of timing as to when this will happen? (I was having a  hard time hearing during the call, but my \nimpression was tomorrow and it would be voluminous and take the Times a while to get through?) Thanks. \nSpokesman \nUnited States Department of Justice \nU.S. Attorney's Office (Southern District of New York \nEFTA00029453",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Spokesman \nUnited",
+        "role": "extracted",
+        "context": "ile to get through?) Thanks. \nSpokesman \nUnited States Department of Justice"
+      },
+      {
+        "name": "States Department",
+        "role": "extracted",
+        "context": "?) Thanks. \nSpokesman \nUnited States Department of Justice \nU.S. Attorney's O"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office (Southern District of New York \nEFTA00029453"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thanks, MI",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-07-01",
+        "event": "July 1, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.453Z"
+}

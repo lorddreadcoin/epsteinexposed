@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00028579",
+    "filename": "EFTA00028579.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028579.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mollo Building \nNew York, New York 10007 \nMay 21, 2021 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLe al Department \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the disc containing discovery materials pertinent to Ghislaine Maxwell \n(02879-509) is \nVery truly yours, \nAUDREY \nSTRAUSS \nUnited States Attorney \n7..x•-rre- \nAssistant United States Attorneys \nEFTA00028579",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "rtment \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the disc cont"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mo"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio J. Mollo Building \nNew York,"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "ct of New York \nThe Silvio J. Mollo Building \nNew York, New York 10007 \nMa"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "21 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLe al Department \nBro"
+      },
+      {
+        "name": "Center \nLe",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLe al Department \nBrooklyn, NY 1"
+      },
+      {
+        "name": "Department \nBrooklyn",
+        "role": "extracted",
+        "context": "litan Detention Center \nLe al Department \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "States Attorney \n7..x•-rre- \nAssistant United States Attorneys \nEFTA0002857"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "7..x•-rre- \nAssistant United States Attorneys \nEFTA00028579"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Department \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-21",
+        "event": "May 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.516Z"
+}

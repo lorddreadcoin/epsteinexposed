@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031003",
+    "filename": "EFTA00031003.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031003.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \" 1\" \nSubject: Re: Epstein \nDate: Thu, 15 Aug 2019 19:35:54 +0000 \nAll providers have been contacted and are expediting your requests. Just a heads up we may be out of luck with the IPV4s though. \n• \nFrom: \n(\n) \nSent: Thursday, August 15, 2019 2:33 PM \nTo: \n() \nCc: \nSubject: RE: Epstein \nHi team, just letting you know that I asked cc'd here, to help us get expedited subpoena returns from the phone companies, \nwhich he is working on. \nEFTA00031003",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To: \nCc: \" 1\" \nSubject: Re: Epstein \nDate: Thu, 15 Aug 2019 19:35:54 +0"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "M \nTo: \n() \nCc: \nSubject: RE: Epstein \nHi team, just letting you know t"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-15",
+        "event": "August 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.216Z"
+}

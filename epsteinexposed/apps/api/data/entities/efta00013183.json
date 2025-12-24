@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013183",
+    "filename": "EFTA00013183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013183.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: w.: equestei Document \nDate: Sun, 11 Aug 2019 15:01:55 +0000 \nAttachments: 30_MINUTE ROUNDS 8-8-19.pdf; 30_MINUTE_ROUNDS_8-9-19.pdf; \n30 MINUTE- ROUNDS 8-10-19.pdf; PHOTOGRAPHS_OF_EPSTEIN_8-10-2019.pdf; \nTRTU-SCOPCLOGS.pdfi Staff Roster 8-9-I9.pdf; Staff Roster 8-10-19.pdf; \nStaff Emergency_Contacts.pdf; Sentry_Documentation.pdf \n Forwarded messa e \nFrom:\nDate: Aug 10, 2019 10:54 PM \nSub \nTo: \nCc: \nect: Re. uested Docu \nEFTA00013183",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Document \nDate",
+        "role": "extracted",
+        "context": ": \nTo: \nSubject: w.: equestei Document \nDate: Sun, 11 Aug 2019 15:01:55 +0"
+      },
+      {
+        "name": "Staff Roster",
+        "role": "extracted",
+        "context": "019.pdf; \nTRTU-SCOPCLOGS.pdfi Staff Roster 8-9-I9.pdf; Staff Roster 8-10"
+      },
+      {
+        "name": "Staff Emergency",
+        "role": "extracted",
+        "context": "f; Staff Roster 8-10-19.pdf; \nStaff Emergency_Contacts.pdf; Sentry_Document"
+      },
+      {
+        "name": "Sub \nTo",
+        "role": "extracted",
+        "context": "Date: Aug 10, 2019 10:54 PM \nSub \nTo: \nCc: \nect: Re. uested Docu"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.031Z"
+}

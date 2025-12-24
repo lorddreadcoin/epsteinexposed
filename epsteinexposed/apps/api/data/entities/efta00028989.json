@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00028989",
+    "filename": "EFTA00028989.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028989.pdf",
+    "text": "\n\nFrom: '\nr       \nTo:  \nSubject: RE: epstein \nDate: Mon, 08 Jul 2019 16:15:40 +0000 \nImportance: Normal \nAttachments: 19_Cr._490_Epstein_Sealed_Indictment.pdf; \nU.S._v._Epstein,_19_a_490iRMB),Govemment_bail_memorandum.pdf \nOf course — attached. \nFrom: \nSent: Monday, July 08, 2019 12:13 \nTo: \nSubject: epstein \nPls send me the indictment and the Detention Memo. Tx. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028989",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 16:15:40 +0000 \nImportance: Normal \nAttachments: 19_Cr._490_Epstein_Sealed_In"
+      },
+      {
+        "name": "Detention Memo",
+        "role": "extracted",
+        "context": "end me the indictment and the Detention Memo. Tx. \nAssociate U.S. Attorney"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "ion Memo. Tx. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028989"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "July 08, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.565Z"
+}

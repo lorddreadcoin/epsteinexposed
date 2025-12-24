@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020702",
+    "filename": "EFTA00020702.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020702.pdf",
+    "text": "\n\nFrom: \nTo• \nSubject: RE: Jeffrey Epstein \nDate: Tue, 09 Jul 2019 17:01:39 +0000 \nImportance: Normal \nYou are a  mess \nFrom: \nSe \nTo: \nSubject: RE: Jeffrey Epstein \nlol — maybe he can play him in the inevitable lifetime movie \nFrom \nSe \nTo: \nSu \nWell he can pass for his twin because he looks just like him \nFrom: \nSe \nTo: \nSubject: RE: Jeffrey Epstein \nI don't think so! He's a rich finance guy \nFrom: \nSent: ues ay. u \nv\n: \nTo: \nSubject: Jeffrey Epstein \nIs this the guy from NCIS? \nEFTA00020702",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo• \nSubject: RE: Jeffrey Epstein \nDate: Tue, 09 Jul 2019 17:01:39 +0000 \nImportanc"
+      },
+      {
+        "name": "Normal \nYou",
+        "role": "extracted",
+        "context": "9 17:01:39 +0000 \nImportance: Normal \nYou are a  mess \nFrom: \nSe \nTo:"
+      },
+      {
+        "name": "Se \nTo",
+        "role": "extracted",
+        "context": "rmal \nYou are a  mess \nFrom: \nSe \nTo: \nSubject: RE: Jeffrey Epstei"
+      },
+      {
+        "name": "From \nSe",
+        "role": "extracted",
+        "context": "he inevitable lifetime movie \nFrom \nSe \nTo: \nSu \nWell he can pass fo"
+      },
+      {
+        "name": "Su \nWell",
+        "role": "extracted",
+        "context": "ifetime movie \nFrom \nSe \nTo: \nSu \nWell he can pass for his twin beca"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.389Z"
+}

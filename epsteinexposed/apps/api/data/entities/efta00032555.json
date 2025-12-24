@@ -1,0 +1,76 @@
+{
+  "document": {
+    "id": "efta00032555",
+    "filename": "EFTA00032555.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032555.pdf",
+    "text": "\n\nDepartment of Justice \nEXECUTIVE SECRETARIAT \nCONTROL SHEET \nDATE OF DOCUMENT: \nDATE RECEIVED: \nFROM: \nTO: \nMAIL TYPE: \nSUBJECT: \nDATE ASSIGNED \n09/10/2019 \nINFO COMPONENT: \nCOMMENTS: \nFILE CODE: \nEXECSEC POC: \n8/13/2019 \nWORKFLOW \nID: \n4319870 \n8/21/2019 \nDUE DATE: \n9/24/2019 \nArlan Ettinger* \nPresident \nGuernse 's \nAuction House \nAG \nGeneral Mail \nRegarding the property of the late Jeffrey Epstein will be disposed of and, to this \nend, Guernsey's is ideally suited to both maximizing the financial potential of \nsaid property while spreading nationwide messages in support of young women. \nGuernsey's has worked with many of our nation's most prominent museums \nincluding the Smithsonian, and have raised substantial amounts for countless \nnon-profit and charitable organizations. Advising, Guernsey's is capable of \nhandling the property of the late Jeffrey Epstein. Enclosing a Itr from Judge \nBurton regarding the Estate and Trust of Mrs. Rosa. L Parks. \nACTION COMPONENT & ACTION REOUESTED \nEOUSA \nFor appropriate handling. Advise ES of any action taken. \nOAG, ODAG, OASG \n09/10/2019: Per ODAG, assign to EOUSA-SDNY \n09/05/2019: Neither CRM, BOP nor EOUSA will accept assignment of this WF. \nForwarded to for ODAG assignment guidance. \nPRESCOTT Lawanda: \nEFTA00032555",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "General Mail \nRegarding the property of the late Jeffrey Epstein will be disposed of and, to this \nend, Guernsey's"
+      },
+      {
+        "name": "Rosa",
+        "role": "extracted",
+        "context": "rding the Estate and Trust of Mrs. Rosa. L Parks. \nACTION COMPON"
+      },
+      {
+        "name": "Arlan Ettinger",
+        "role": "extracted",
+        "context": "1/2019 \nDUE DATE: \n9/24/2019 \nArlan Ettinger* \nPresident \nGuernse 's \nAuct"
+      },
+      {
+        "name": "President \nGuernse",
+        "role": "extracted",
+        "context": "9/24/2019 \nArlan Ettinger* \nPresident \nGuernse 's \nAuction House \nAG \nGenera"
+      },
+      {
+        "name": "Auction House",
+        "role": "extracted",
+        "context": "nger* \nPresident \nGuernse 's \nAuction House \nAG \nGeneral Mail \nRegarding"
+      },
+      {
+        "name": "General Mail",
+        "role": "extracted",
+        "context": "uernse 's \nAuction House \nAG \nGeneral Mail \nRegarding the property of th"
+      },
+      {
+        "name": "Judge \nBurton",
+        "role": "extracted",
+        "context": "Epstein. Enclosing a Itr from Judge \nBurton regarding the Estate and Trus"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-10",
+        "event": "09/10/2019"
+      },
+      {
+        "date": "2019-08-13",
+        "event": "8/13/2019"
+      },
+      {
+        "date": "2019-08-21",
+        "event": "8/21/2019"
+      },
+      {
+        "date": "2019-09-24",
+        "event": "9/24/2019"
+      },
+      {
+        "date": "2019-09-05",
+        "event": "09/05/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.917Z"
+}

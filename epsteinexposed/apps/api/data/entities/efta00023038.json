@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023038",
+    "filename": "EFTA00023038.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023038.pdf",
+    "text": "\n\nFrom: \nTo:     \nnewyork \n\"washington field\" \nSubject: JEFFREY EPSTEIN \nDate: Tue, 23 Jul 2019 21:49:57 +0000 \nDear Sirs \nA 2019 documentary, currently being shown on Netflix Canada, entitled The Disappearance of \nMadeleine McCann, is about the four year old English girl who disappeared from Portugal in 2007 \nwhile on holiday with her parents and siblings. She has never been found. \nIn Series 1, episode 3, Portuguese journalists refer to a scandal that took place years earlier regarding \nchild abuse in a Portuguese orphanage. It is referred to as the Pact of Silence. In connection with the \norphanage, Casa Pia, a journalist states that it is a known fact that American \nmillionaires were \nflying  \ninto Portugal on private  jets for the purpose of sexually abusing these children. \nThis might be a line of enquiry that you may wish to follow up. \nYours truly, \nEFTA00023038",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ": \nTo:     \nnewyork \n\"washington field\" \nSubject: JEFFREY EPSTEIN \nDate: Tue, 23 Jul 2019 21:49:57 +0000 \nDear Sirs"
+      },
+      {
+        "name": "Dear Sirs",
+        "role": "extracted",
+        "context": ", 23 Jul 2019 21:49:57 +0000 \nDear Sirs \nA 2019 documentary, currentl"
+      },
+      {
+        "name": "Netflix Canada",
+        "role": "extracted",
+        "context": "ary, currently being shown on Netflix Canada, entitled The Disappearance o"
+      },
+      {
+        "name": "The Disappearance",
+        "role": "extracted",
+        "context": "n on Netflix Canada, entitled The Disappearance of \nMadeleine McCann, is abou"
+      },
+      {
+        "name": "Madeleine Mc",
+        "role": "extracted",
+        "context": "ntitled The Disappearance of \nMadeleine McCann, is about the four year o"
+      },
+      {
+        "name": "In Series",
+        "role": "extracted",
+        "context": "s. She has never been found. \nIn Series 1, episode 3, Portuguese jour"
+      },
+      {
+        "name": "Casa Pia",
+        "role": "extracted",
+        "context": "nnection with the \norphanage, Casa Pia, a journalist states that it"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.127Z"
+}

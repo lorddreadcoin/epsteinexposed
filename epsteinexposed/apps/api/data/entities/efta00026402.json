@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00026402",
+    "filename": "EFTA00026402.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026402.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \"a \nBcc: \"\n› \nSubject: RE: Maxwell Financial Report Appendices \nDate: Fri, 11 Dec 2020 14:42:22 +0000 \nEmbedded: RELMaxwell Financial_Report_Appendices.msg \nSender: \nSubject: RE: Maxwell Financial Report Appendices \nMessage-Id: \n<BN3P110MB0260D34AC605D6186FADBA22E3CA0@BN3P110MB0260.NAMP110.PROD.OUTLOOK.CO \nM> \nTo: \nEFTA00026402",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Financial",
+        "role": "extracted",
+        "context": "c: \"a \nBcc: \"\n› \nSubject: RE: Maxwell Financial Report Appendices \nDate: Fri,"
+      },
+      {
+        "name": "Report Appendices",
+        "role": "extracted",
+        "context": "ubject: RE: Maxwell Financial Report Appendices \nDate: Fri, 11 Dec 2020 14:42"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.240Z"
+}

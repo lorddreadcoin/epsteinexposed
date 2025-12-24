@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013532",
+    "filename": "EFTA00013532.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013532.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nEpstein \nDate: Fri, 07 Dec 2007 22:05:56 +0000 \nImportance: \nNormal \n'Acosta, Alex (USAFLS)\" \nHello — Any word? Am I free to send out the victim notification letter? And, is it alright to send copies of the \nvictim notification letter to Mr. Josefsberg? \nAssistant U.S. Attome \nPhone \nFax \nEFTA00013532",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Josefsberg",
+        "role": "extracted",
+        "context": "victim notification letter to Mr. Josefsberg? \nAssistant U.S. Attome"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: \nEpstein \nDate: Fri, 07 Dec 2007 22:05:56 +0"
+      },
+      {
+        "name": "Attome \nPhone",
+        "role": "extracted",
+        "context": ". Josefsberg? \nAssistant U.S. Attome \nPhone \nFax \nEFTA00013532"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.794Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014518",
+    "filename": "EFTA00014518.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014518.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: I Ill \n- - - \nII \nCc: (USANYS)\"  \nSubject: RE: Yesterday's Epstein hearing \nDate: Tue, 25 Jun 2019 14:22:40 +0000 \nImportance: Normal \nThanks. A few things in \nhere to discuss next time we meet. \nFrom: \nc> \nSent: Tuesday, June 25, 2019 10:09 AM \nTo: (USANYS) \n< \nCc: (USANYS) \nSubject: RE: Yesterday's Epstein hearing \nAttached here. \nFrom: (USANYS) \nSent: Tuesday, June 25, 2019 10:04 AM \nTo: \n> \n<> \nCc: \n(USANYS) \nSubject: FW: Yesterday's Epstein \nhearing \nCan you circulate to us the NDGA's papers? \nFrom: Strauss, Audrey (USANYS) \nSent: Tuesday, June 25, 2019 9:55 AM \nTo: (USANYS) >; (USANYS) \ncM> \nSubject: FW: Yesterday's Epstein hearing \nIn case you didn't see: \nFrom: USANYS) (Contractor) < \nSent: Tuesday, June 25, 2019 9:50 AM \nSANYS) \n(USANYS) \nSubject: Yesterday's Epstein \nhearing \n; Berman, Geoffrey (USANYS) \n(USANYS) \n>; \n> \nhttps://www.miamiherald.com/news/state/florida/article231916968.html \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00014518\n\nEFTA00014519",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 14:22:40 +0000 \nImportance: Normal \nThanks. A few things in \nhere to dis"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "lorida/article231916968.html \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00014518"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-06-25",
+        "event": "June 25, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.010Z"
+}

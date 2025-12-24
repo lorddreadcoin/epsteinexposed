@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00025070",
+    "filename": "EFTA00025070.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025070.pdf",
+    "text": "\n\nFrom: \nalMIE> \nTo:' \nalMIN> \nCcaMr\" .ce,\n 11 \nSubject: Re: Ghislaine Maxwell's Asst \nDate: Sun, 25 Jul 2021 01:12:46 +0000 \nHi \nThanks very much for passing this along, we'll take care of this. \nOn \nJul 24, 2021, at 8:44 PM, a \na \nwrote: \nFYI-\nI'll forward \nthe \nvoicemail \nas well, although it doesn't include additional information. \nFrom: \nSent: Friday, July 23, 2021 9:31 PM \nTo: \n) \nSubject: Ghislaine Maxwell's Asst \nHi -\nI may have info that can help this prosecution. Ghislaine's asst., \nher. I just left you a voicemail. \n\"Kindness Matters\" \nlived with me while she was working for \nEFTA00025070",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "MIE> \nTo:' \nalMIN> \nCcaMr\" .ce,\n 11 \nSubject: Re: Ghislaine Maxwell's Asst \nDate: Sun, 25 Jul 2021 01:12:46 +0000 \nHi"
+      },
+      {
+        "name": "Asst \nDate",
+        "role": "extracted",
+        "context": "ject: Re: Ghislaine Maxwell's Asst \nDate: Sun, 25 Jul 2021 01:12:46 +0"
+      },
+      {
+        "name": "Hi \nThanks",
+        "role": "extracted",
+        "context": ", 25 Jul 2021 01:12:46 +0000 \nHi \nThanks very much for passing this al"
+      },
+      {
+        "name": "On \nJul",
+        "role": "extracted",
+        "context": "ng, we'll take care of this. \nOn \nJul 24, 2021, at 8:44 PM, a \na \nw"
+      },
+      {
+        "name": "Asst \nHi",
+        "role": "extracted",
+        "context": "Subject: Ghislaine Maxwell's Asst \nHi -\nI may have info that can he"
+      },
+      {
+        "name": "Kindness Matters",
+        "role": "extracted",
+        "context": "just left you a voicemail. \n\"Kindness Matters\" \nlived with me while she was"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-23",
+        "event": "July 23, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.407Z"
+}

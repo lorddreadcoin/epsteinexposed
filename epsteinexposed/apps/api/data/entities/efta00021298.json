@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00021298",
+    "filename": "EFTA00021298.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021298.pdf",
+    "text": "\n\nNYC \nOffice of Chief \nMedical \nExaminer \n421 East 26'h Street, New York, New York 10016 \nTelephone: 212.323.1900 Fax: 212.323.1920 \nEmail: me.nyc.00v \nOfficial Website: \nhttp://www.nyc.gov/ocme \nRequest for Medical Examiner Records \nDate:  August 19.2019 \nCase Caption:  \nRE: Medical Examiner Case #: -     or Date of Death: 8 \n/10 \n/ \n19 \nName of Decedent: \nJeffrey Epstein \nI am requesting the following: (please request only as needed) \nAutopsy Report \nCI Complete Medical Examiner Case File \nO All Photographs (e.g., autopsy, identification, scene, neuropathology) \nq \nX\n-Rays \nq \nOthers (please specify):  \nShould you have any questions concerning this request, my telephone number is: \nYou can also contact my paralegal,   at  \nSincerely, \nEFTA00021298",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Date of Death: 8 \n/10 \n/ \n19 \nName of Decedent: \nJeffrey Epstein \nI am requesting the following: (please request o"
+      },
+      {
+        "name": "Chief \nMedical",
+        "role": "extracted",
+        "context": "NYC \nOffice of Chief \nMedical \nExaminer \n421 East 26'h Stre"
+      },
+      {
+        "name": "Official Website",
+        "role": "extracted",
+        "context": ".323.1920 \nEmail: me.nyc.00v \nOfficial Website: \nhttp://www.nyc.gov/ocme \nRe"
+      },
+      {
+        "name": "Medical Examiner",
+        "role": "extracted",
+        "context": "www.nyc.gov/ocme \nRequest for Medical Examiner Records \nDate:  August 19.201"
+      },
+      {
+        "name": "Records \nDate",
+        "role": "extracted",
+        "context": "Request for Medical Examiner Records \nDate:  August 19.2019 \nCase Captio"
+      },
+      {
+        "name": "Case Caption",
+        "role": "extracted",
+        "context": "cords \nDate:  August 19.2019 \nCase Caption:  \nRE: Medical Examiner Case"
+      },
+      {
+        "name": "Autopsy Report",
+        "role": "extracted",
+        "context": "ease request only as needed) \nAutopsy Report \nCI Complete Medical Examiner"
+      },
+      {
+        "name": "Complete Medical",
+        "role": "extracted",
+        "context": "s needed) \nAutopsy Report \nCI Complete Medical Examiner Case File \nO All Pho"
+      },
+      {
+        "name": "Examiner Case",
+        "role": "extracted",
+        "context": "y Report \nCI Complete Medical Examiner Case File \nO All Photographs (e.g."
+      },
+      {
+        "name": "All Photographs",
+        "role": "extracted",
+        "context": "Medical Examiner Case File \nO All Photographs (e.g., autopsy, identificatio"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "212.323.1900",
+      "212.323.1920"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.374Z"
+}

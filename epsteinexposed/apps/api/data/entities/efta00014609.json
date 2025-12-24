@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00014609",
+    "filename": "EFTA00014609.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014609.pdf",
+    "text": "\n\nFrom: \nTo:' , \" \nCc: ir \nSubject: FW: Civilian Caller About Epstein Case FW: Voice Message Attached from \nIntake Line \nDate: Thu, 18 Jul 2019 16:45:00 +0000 \nAttachments: .wav \nWould you please forward this to whoever is currently handling the tipline? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n Ori inal Message---\nFrom: \nSent: Thursda \nTo: \nCc: \nSubject: Civilian Caller About Epstein Case FW: Voice Message Attached from \nJul 18, 2019 12:43 PM \n- Intake Line \nhis caller got directed to call the 1-2500 intake line (wrongly, as that is just for law \nenforcement and we are trying to stop whomever is doing that). He should have called the FBI number in your \npress release. Could you please forward this to your FBI agents and let them deal with it? If they get back to you \nand say they know him and he is a crazy, let me know that, and we will figure out his mailing address and send \nhim out the usual form letter from the Civilian Crime Reports Unit, with a form to fill out. And we will deal with \nhim if he continues to be a problem. But before we do that, in case this is useful, let the FBI hear it and let us \nknow whether to process it in the CCR system. Thanks. \n Ori inal Messa e \nFrom: \n. (USANYS) \nSent: Thursda Jul 18, 2019 12:12 PM \nTo: \nSubject: FW: Voice Message Attached from - Intake Line \nEFTA00014609\n\n Original Message \nFrom: postmaster@voip.usa.doj.gov <postmaster@voip.usa.doj.gov> \nSent: Thursday,July 18, 2019 12:11 PM \nTo: \nCc: (USANYS) \nSubject: Voice \nMessage Attached from - Intake Line \nTime: Jul 18, 2019 12:11:02 PM \nClick attachment to listen to Voice Message \nEFTA00014610",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Civilian Caller",
+        "role": "extracted",
+        "context": "o:' , \" \nCc: ir \nSubject: FW: Civilian Caller About Epstein Case FW: Voice"
+      },
+      {
+        "name": "About Epstein",
+        "role": "extracted",
+        "context": "Subject: FW: Civilian Caller About Epstein Case FW: Voice Message Attach"
+      },
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "Caller About Epstein Case FW: Voice Message Attached from \nIntake Line \nD"
+      },
+      {
+        "name": "Intake Line",
+        "role": "extracted",
+        "context": "Voice Message Attached from \nIntake Line \nDate: Thu, 18 Jul 2019 16:45"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ndling the tipline? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n Ori inal Messag"
+      },
+      {
+        "name": "Thursda \nTo",
+        "role": "extracted",
+        "context": "inal Message---\nFrom: \nSent: Thursda \nTo: \nCc: \nSubject: Civilian Call"
+      },
+      {
+        "name": "Civilian Crime",
+        "role": "extracted",
+        "context": "he usual form letter from the Civilian Crime Reports Unit, with a form to"
+      },
+      {
+        "name": "Reports Unit",
+        "role": "extracted",
+        "context": "etter from the Civilian Crime Reports Unit, with a form to fill out. And"
+      },
+      {
+        "name": "Thursda Jul",
+        "role": "extracted",
+        "context": "a e \nFrom: \n. (USANYS) \nSent: Thursda Jul 18, 2019 12:12 PM \nTo: \nSubje"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "- Intake Line \nEFTA00014609\n\n Original Message \nFrom: postmaster@voip.usa.do"
+      },
+      {
+        "name": "Voice \nMessage",
+        "role": "extracted",
+        "context": "To: \nCc: (USANYS) \nSubject: Voice \nMessage Attached from - Intake Line"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-18",
+        "event": "July 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.189Z"
+}

@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00030094",
+    "filename": "EFTA00030094.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030094.pdf",
+    "text": "\n\nU.S. \nDepartment of .1 ustice \nUnited States Attorney \nSouthern District of New York \nlife Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nMarch 16, 2021 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinent to the following inmate: \n• Ghislaine Maxwell: 02879-509 \nPlease allow her access to the materials enclosed. \nby: \nEnclosure \nVery truly yours, \nAUDREY \nSTRAUSS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA00030094",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinen"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "t of .1 ustice \nUnited States Attorney \nSouthern District of New York \nlife Si"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "t of New York \nlife Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "ife Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nMarch 1"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "21 \nVIA FEDERAL \nEXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h Street \nB"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "er \nLegal Department \n80 29'h Street \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Enclosure \nVery",
+        "role": "extracted",
+        "context": "the materials enclosed. \nby: \nEnclosure \nVery truly yours, \nAUDREY \nSTRAUSS"
+      },
+      {
+        "name": "Attorney \nAssistant",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nUnited States Attorney \nAssistant United States Attorneys \nEFTA"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-03-16",
+        "event": "March 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.982Z"
+}

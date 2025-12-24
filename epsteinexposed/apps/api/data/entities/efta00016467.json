@@ -1,0 +1,98 @@
+{
+  "document": {
+    "id": "efta00016467",
+    "filename": "EFTA00016467.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016467.pdf",
+    "text": "\n\nEvent: FW: 227815.002 USA V GHISLAINE MAXWELL 20 CR 330 (AJN) \nStart Date: 2021-11-24 19:00:00 +0000 \nEnd Date: 2021-11-24 19:30:00 +0000 \nOrganizer: testimony O,\nLocation: att prep call \nClass: X-PERSONAL \nDate Created: 2021-11-24 15:45:49 +0000 \nDate Modified: 2021-11-24 15:45:49 +0000 \nPriority: 5 \nDTSTAMP: 2021-11-23 17:41:37 +0000 \nAttendee \nAlarm: Display the following message 15m before start \nReminder \n Original Appointment \nFrom: testimony &It; gt; \nSent: Tuesday, Novem er , 1 1  :43 PM \nTo: testimony; \nSubject: 227815.002 USA V GHISLAINE MAXWELL 20 CR 330 (AJN) \nWhen: Wednesday, November 24, 2021 2:00 PM-2:30 PM (UTC-05:00) Eastern Time (US &amp; \nCanada). \nWhere: att prep call \nMicrosoft Teams meeting \nJoin on your computer or mobile app \nClick here to join the meeting \nJoin with a video conferencing device \natt@m.webex.com \nVideo Conference ID: \nAlternate VTC instructions \nOr call in (audio only) \nUnited States, Houston \nPhone \nConference ID: \nEFTA00016467\n\nFind a local number I Reset PIN \nLearn More I  Help I  Meeting options \nEFTA00016468",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Event: FW: 227815.002 USA V GHISLAINE MAXWELL 20 CR 330 (AJN) \nStart Date: 2021-11-24 19:00:00"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "AINE MAXWELL 20 CR 330 (AJN) \nStart Date: 2021-11-24 19:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-11-24 19:00:00 +0000 \nEnd Date: 2021-11-24 19:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "prep call \nClass: X-PERSONAL \nDate Created: 2021-11-24 15:45:49 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-11-24 15:45:49 +0000 \nDate Modified: 2021-11-24 15:45:49 +0000 \nP"
+      },
+      {
+        "name": "Attendee \nAlarm",
+        "role": "extracted",
+        "context": "P: 2021-11-23 17:41:37 +0000 \nAttendee \nAlarm: Display the following messag"
+      },
+      {
+        "name": "Reminder \n Original",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \n Original Appointment \nFrom: testimony"
+      },
+      {
+        "name": "Appointment \nFrom",
+        "role": "extracted",
+        "context": "re start \nReminder \n Original Appointment \nFrom: testimony &It; gt; \nSent: Tu"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "1 2:00 PM-2:30 PM (UTC-05:00) Eastern Time (US &amp; \nCanada). \nWhere: a"
+      },
+      {
+        "name": "Microsoft Teams",
+        "role": "extracted",
+        "context": "nada). \nWhere: att prep call \nMicrosoft Teams meeting \nJoin on your compute"
+      },
+      {
+        "name": "Video Conference",
+        "role": "extracted",
+        "context": "cing device \natt@m.webex.com \nVideo Conference ID: \nAlternate VTC instructio"
+      },
+      {
+        "name": "Houston \nPhone",
+        "role": "extracted",
+        "context": "(audio only) \nUnited States, Houston \nPhone \nConference ID: \nEFTA00016467"
+      },
+      {
+        "name": "Learn More",
+        "role": "extracted",
+        "context": "d a local number I Reset PIN \nLearn More I  Help I  Meeting options \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-24",
+        "event": "2021-11-24"
+      },
+      {
+        "date": "2021-11-23",
+        "event": "2021-11-23"
+      },
+      {
+        "date": "2021-11-24",
+        "event": "November 24, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.734Z"
+}

@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00009914",
+    "filename": "EFTA00009914.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009914.pdf",
+    "text": "\n\nFrom: \"Weinstein, Marc A.\" \nTo \nSubject: FW: Epstein Estate \nDate: Mon, 09 Nov 2020 21:25:45 +0000 \nImportance: Normal \nAttachments: unnamed \nInline-Images: ATT90747_1.jpg \n----Original Appointment----\nFrom: Weinstein, Marc A. \nSent: Monday, November 9, 2020 10:35 AM \nTo: Weinstein, Marc A. \nSubject: Epstein Estate \nWhen: Monday, November 9, 2020 4:30 PM-5:00 PM (UTC-05:00) Eastern Time (US & Canada). \nWhere: Skype Meeting; \nConference ID: 570 579 045; \nMIR \nOnlineMsetingCenter \nDial-In Information (for meetings with no presentations or video) \nDial-In Number: +1 (201) 630-0824 \nConference ID: 570579045 \nOne touch dial-in from mobile  phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil +55 11 3181-5692 \nCanada +1 647-749-1240 \nChina +86 400 842 8305 \nFrance +33 \n1 73 24 04 53 \nGermany +49 69 \n667737017 \nIndia +91 22 6001 6148 \nIreland +353 1 \n566 1143 \nIsrael +972 3 \n3762055 \nJapan +81 \n3-4510-7259 \nKorea (Seoul) +82 70-7488-2208 \nSingapore +65 3157 0147 \nUnited Kingdom +44 20 3443 6288 \nUnited States +1 (201) 630-0824 \nFull list of dial-in numbers \nAndrew Tomback \nMeetings with a presentation or video \nConnect from computer or mobile device (via network/intemet connection) \nHelp \nTry Skype Web App if you are having  trouble joining \nJoining from a computer using the \"Connect from computer or mobile device\" link provides additional \ncapabilities, however you can simply call in from your telephone using the number provided above if your \nmeeting will not include video or a presentation. Click the \"Help\" link for additional information if you are a \nguest joining a Skype for Business meeting from your computer or mobile device for the first time. \nFor meeting organizers: Reset your dial-in PIN? \nEFTA00009914",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "From: \"Weinstein, Marc A.\" \nTo \nSubject: FW: Epstein Estate \nDate: Mo"
+      },
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "n, Marc A.\" \nTo \nSubject: FW: Epstein Estate \nDate: Mon, 09 Nov 2020 21:25"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 21:25:45 +0000 \nImportance: Normal \nAttachments: unnamed \nInline-Images: ATT9"
+      },
+      {
+        "name": "Original Appointment",
+        "role": "extracted",
+        "context": "e-Images: ATT90747_1.jpg \n----Original Appointment----\nFrom: Weinstein, Marc A."
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "0 4:30 PM-5:00 PM (UTC-05:00) Eastern Time (US & Canada). \nWhere: Skype"
+      },
+      {
+        "name": "Skype Meeting",
+        "role": "extracted",
+        "context": "n Time (US & Canada). \nWhere: Skype Meeting; \nConference ID: 570 579 045;"
+      },
+      {
+        "name": "Center \nDial",
+        "role": "extracted",
+        "context": "0 579 045; \nMIR \nOnlineMsetingCenter \nDial-In Information (for meetings"
+      },
+      {
+        "name": "In Information",
+        "role": "extracted",
+        "context": "IR \nOnlineMsetingCenter \nDial-In Information (for meetings with no present"
+      },
+      {
+        "name": "In Number",
+        "role": "extracted",
+        "context": "presentations or video) \nDial-In Number: +1 (201) 630-0824 \nConferenc"
+      },
+      {
+        "name": "Additional Dial",
+        "role": "extracted",
+        "context": "phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil +55 11 318"
+      },
+      {
+        "name": "In Numbers",
+        "role": "extracted",
+        "context": "lar service) \nAdditional Dial-In Numbers \nBrazil +55 11 3181-5692 \nCan"
+      },
+      {
+        "name": "United Kingdom",
+        "role": "extracted",
+        "context": "208 \nSingapore +65 3157 0147 \nUnited Kingdom +44 20 3443 6288 \nUnited Stat"
+      },
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "Full list of dial-in numbers \nAndrew Tomback \nMeetings with a presentation"
+      },
+      {
+        "name": "Help \nTry",
+        "role": "extracted",
+        "context": "network/intemet connection) \nHelp \nTry Skype Web App if you are havi"
+      },
+      {
+        "name": "Skype Web",
+        "role": "extracted",
+        "context": "ntemet connection) \nHelp \nTry Skype Web App if you are having  troubl"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-09",
+        "event": "November 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "647-749-1240",
+      "400 842 8305",
+      "(201) 630-0824",
+      "+1 647-749-1240"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.901Z"
+}

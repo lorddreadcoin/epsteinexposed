@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024717",
+    "filename": "EFTA00024717.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024717.pdf",
+    "text": "\n\nFrom: \" \nTo:' (USANYS) [Contracted\" <I \nCc: \" \n)\" \nSubject: RE: US v. Epstein \nDate: Sun, 19 Jul 2020 23:13:30 +0000 \nEmbedded: spreadsheet.msg \nA couple questions on this list. First, are you sure that NYCO24392 was provided to us? I ask because as of 7/14 (last \nTuesday), in an email said we didn't have that drive yet —  see the spreadsheet in the attached email —  and I also \nreferred to that number on Wednesday in our call as one we didn't have and CART didn't say anything different. \nThe other question is, do you have any info on NYCO24328 in terms of device, serial number, etc? I ask because looking at \nthe same chart that sent in the attached email last Tuesday, there doesn't appear to be *any* device with that \nidentifier. The list goes 326, 327, 329. \nthanks, \nFrom: (USANYS) [Contractor] \nSent: Thursday, July 16, 2020 15:56 \nTo: \nSubject: RE: US v. Epstein \nThe following folders are being sent out for upload to Relativity: \nNYCO24363 \nNYCO24392 \nNYCO24328 \nNYCO24365 \nNYCO24366 \nNYCO24371 \nNYCO24383 \nThank you. \nFrom: (USANYS) [Contractor] \nSent: Thursday, July 16, 2020 3:00 PM \nTo: \nSubject: US v. Epstein \nHello M, \nI wanted to know if you have a minute to talk. \nEFTA00024717\n\nThank you. \nEFTA00024718",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: \" \n)\" \nSubject: RE: US v. Epstein \nDate: Sun, 19 Jul 2020 23:13:30 +0"
+      },
+      {
+        "name": "Epstein \nThe",
+        "role": "extracted",
+        "context": "5:56 \nTo: \nSubject: RE: US v. Epstein \nThe following folders are being s"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "3:00 PM \nTo: \nSubject: US v. Epstein \nHello M, \nI wanted to know if you h"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-16",
+        "event": "July 16, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.688Z"
+}

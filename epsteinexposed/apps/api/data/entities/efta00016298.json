@@ -1,0 +1,42 @@
+{
+  "document": {
+    "id": "efta00016298",
+    "filename": "EFTA00016298.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016298.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: cd from \nagents \nDate: Thu, 06 Dec 2018 22:43:59 +0000 \nThe files from the disc gave me today are all saved here: \n\\\\Usa.doj.gov\\cloud\\ NYS\\StAndrews \\Shared WSvEpstein-2018801618 \\Investigation \\ Case File_12.4.18 \nAssistant United States Attorney \nSouthern District of New York \nEFTA00016298",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Case File",
+        "role": "extracted",
+        "context": "n-2018801618 \\Investigation \\ Case File_12.4.18 \nAssistant United Sta"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tigation \\ Case File_12.4.18 \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ile_12.4.18 \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00016298"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "2018801618"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.422Z"
+}

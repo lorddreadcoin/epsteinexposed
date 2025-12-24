@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00021785",
+    "filename": "EFTA00021785.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021785.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Ghialame Maxwell \nDate: Tue, 07 Jul 2020 18:39:15 +0000 \nHi \nThanks very much. has connected with us about this issue, so we'll coordinate with her. \nThanks, and hope you're doing well—\nEFTA00021785\n\nEFTA00021786",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghialame Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Ghialame Maxwell \nDate: Tue, 07 Jul 2020 18:39"
+      },
+      {
+        "name": "Hi \nThanks",
+        "role": "extracted",
+        "context": ", 07 Jul 2020 18:39:15 +0000 \nHi \nThanks very much. has connected with"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.407Z"
+}

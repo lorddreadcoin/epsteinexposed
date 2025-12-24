@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019064",
+    "filename": "EFTA00019064.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019064.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Epstein SSN \nDate: Thu, 08 Aug 2019 21:55:57 +0000 \nFrom: \nSent: Thursday, August 8, 2019 5:28 PM \nTo: Roos, Nicolas (USANYS) •rz> \nSubject: RE: Epstein SSN \nFrom \nSent: Thursda , Au ust 08, 2019 17:26 \nTo: \nSubject: Epstein SSN \nCan you send it to me? \nssis an ni ea states Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nEFTA00019064",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "z> \nSubject: RE: Epstein SSN \nFrom \nSent: Thursda , Au ust 08, 2019 17"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "to me? \nssis an ni ea states Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ni ea states Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-08",
+        "event": "August 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.217Z"
+}

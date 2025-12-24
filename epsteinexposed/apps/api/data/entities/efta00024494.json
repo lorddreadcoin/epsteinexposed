@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00024494",
+    "filename": "EFTA00024494.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024494.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Maxwell \nDate: Mon, 13 Jul 2020 20:59:01 +0000 \nAttachments: 6653181._Maxwell,_Ghislaine.pdf \nFrom \nSent: Monday, July 13, 2020 4:29 PM \nTo: \nCc: \nSubject: Maxwell \nGood Afternoon-\nThere was a minor typo with some of the dates. Final report with the changes attached. Please disregard the report \nattached in the prior email. \nU.S. Pretrial Services Officer Specialist - Intake Coordinator \nSouthern District of New York \nOffice: \nFax: \nEFTA00024494",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Maxwell \nDate: Mon, 13 Jul 2020 20:59:01 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "3181._Maxwell,_Ghislaine.pdf \nFrom \nSent: Monday, July 13, 2020 4:29 P"
+      },
+      {
+        "name": "Maxwell \nGood",
+        "role": "extracted",
+        "context": "0 4:29 PM \nTo: \nCc: \nSubject: Maxwell \nGood Afternoon-\nThere was a minor"
+      },
+      {
+        "name": "Pretrial Services",
+        "role": "extracted",
+        "context": "hed in the prior email. \nU.S. Pretrial Services Officer Specialist - Intake C"
+      },
+      {
+        "name": "Officer Specialist",
+        "role": "extracted",
+        "context": "mail. \nU.S. Pretrial Services Officer Specialist - Intake Coordinator \nSouther"
+      },
+      {
+        "name": "Intake Coordinator",
+        "role": "extracted",
+        "context": "Services Officer Specialist - Intake Coordinator \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "cialist - Intake Coordinator \nSouthern District of New York \nOffice: \nFax: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-13",
+        "event": "July 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.264Z"
+}

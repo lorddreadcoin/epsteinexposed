@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00013634",
+    "filename": "EFTA00013634.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013634.pdf",
+    "text": "\n\nFrom: \" \n(USAFLS)\" \nC \nTo: \"Acosta, Alex (USAFLS)\" \nC \n(USAF'S)\" \nSubject: Epstein Press Coverage \nDate: Wed, 02 Jan 2008 18:27:41 +0000 \nImportance: Normal \nAttachments: Leap_Year_Press_Coverage.doc; ABC_Blotter_Article_2.doc; New_York_Epstein_article.doc; \nJeffrey_Epstein_article.doc; Jeffrey_Epstein_Archives.doc; 071116_Epstein_Editorial.pdf \nHere are the documents that I  have electronically. The \"Jeffrey Epstein Archives\" document has several stories \ncontained within it. \nI do not have the letter that the Chief handed out, but some of these stories reference the letter. I do not believe \nthat the letter mentioned any specifics. But, when the State Attorney's Office basically shut down the case, the \nChief deemecilieolice investigation \"closed,\" which meant that the PC affidavits for the arrests of Epstein, \nand \nbecame public. \"The Smoking Gun\" published the redacted PC affidavits and later \npublished a portion of the Incident Report. Here are links to their stories. \nhttp://www.thesmokinggun.corn/archive/0726062epsteinl.html \nhttp://www.thesmokinggun.corn/archive/0727061epsteinl.html \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nEFTA00013634",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "e the documents that I  have electronically. The \"Jeffrey Epstein Archives\" document has several stories \ncontained"
+      },
+      {
+        "name": "Epstein Press",
+        "role": "extracted",
+        "context": "FLS)\" \nC \n(USAF'S)\" \nSubject: Epstein Press Coverage \nDate: Wed, 02 Jan 2"
+      },
+      {
+        "name": "Coverage \nDate",
+        "role": "extracted",
+        "context": "F'S)\" \nSubject: Epstein Press Coverage \nDate: Wed, 02 Jan 2008 18:27:41 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 18:27:41 +0000 \nImportance: Normal \nAttachments: Leap_Year_Press_Coverage.doc"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "any specifics. But, when the State Attorney's Office basically shut down"
+      },
+      {
+        "name": "The Smoking",
+        "role": "extracted",
+        "context": "pstein, \nand \nbecame public. \"The Smoking Gun\" published the redacted P"
+      },
+      {
+        "name": "Incident Report",
+        "role": "extracted",
+        "context": "r \npublished a portion of the Incident Report. Here are links to their stor"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nEFTA00013634"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.036Z"
+}

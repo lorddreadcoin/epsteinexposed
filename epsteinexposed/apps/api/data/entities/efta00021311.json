@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "efta00021311",
+    "filename": "EFTA00021311.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021311.pdf",
+    "text": "\n\nFrom: IlMIE> \nTo: \nCc: \nSubject: RE: grand jury subpoena \nDate: Mon, 30 Sep 2019 23:25:20 +0000 \nAttachments: 2019-08-11,_subpoena_to JD_Ameritrade.pdf \nTo Whom it May Concern: \nFollowing up on the below, which transmitted the attached subpoena, TD Ameritrade is noncompliant with the subpoena, \nwhich required a response by the deadline of August 23, 2019. Additionally, we received a read receipt indicating that the \nemail address ' read the below message the day after it was sent, on Monday, August 12, \n2019. \nPlease advise whether TD Ameritrade intends to remedy its noncompliance and nonresponse to the subpoena or whether \nwe will need to move to compel a response. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nFrom: MMM>\nSent: Sunday, August 11, 2019 20:57 \nTo: \nCc: \nSubject: RE: grand jury subpoena \n> \nPlease see the attached service of legal process, in connection with a criminal grand jury investigation. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021311",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To Whom",
+        "role": "extracted",
+        "context": "ubpoena_to JD_Ameritrade.pdf \nTo Whom it May Concern: \nFollowing up"
+      },
+      {
+        "name": "May Concern",
+        "role": "extracted",
+        "context": "JD_Ameritrade.pdf \nTo Whom it May Concern: \nFollowing up on the below,"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nFrom: M"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-11",
+        "event": "2019-08-11"
+      },
+      {
+        "date": "2019-08-23",
+        "event": "August 23, 2019"
+      },
+      {
+        "date": "2019-08-12",
+        "event": "August 12, \n2019"
+      },
+      {
+        "date": "2019-08-11",
+        "event": "August 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.400Z"
+}

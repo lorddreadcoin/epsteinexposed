@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030504",
+    "filename": "EFTA00030504.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030504.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nTo: ' (USANYS)\" < \nSubject: RE: \nDate: Fri, 26 Jun 2020 15:34:35 +0000 \nI know this is a sensitive subject with the team, but do you think we have enough in the indictment to support the \ninterstate travel component necessary to both sets of charges? We certainly allege that the victims were abused in \nmultiple states which give rise to an inference of travel, but in terms of the enticing/causing to travel, this is about all we \nhave: \nGHISLAINE MAXWELL, the defendant, and Jeffrey Epstein enticed and caused minor \nvictims to travel to Epstein's residences in different states, which MAXWELL knew \nand intended would result in their grooming for and subjection to sexual abuse. \nThat is probably sufficient to survive a motion to dismiss, but do you think it is worth pushing the team to try to add \nmore? \nFrom: (USANYS) \nSent: Friday, June 26, 2020 10:30 AM \nTo: (USANYS) \nSubject: \nShould we actually be including name in the indictment as we do? \nEFTA00030504",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "we \nhave: \nGHISLAINE MAXWELL, the defendant, and Jeffrey Epstein enticed and caused minor \nvictims to travel to Ep"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "g/causing to travel, this is about all we \nhave: \nGHISLAINE MAXWELL, the defendant, and Jeffrey Epstein enticed and c"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-26",
+        "event": "June 26, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.011Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029224",
+    "filename": "EFTA00029224.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029224.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Hard drive for GM \nDate: Tue, 05 Oct 2021 21:41:10 +0000 \nAttachments: 2021.10.05_MDC_-_Maxwell_PASSWORD.docx; 2021.10.05_MDC_-\nMaxwell \nMAIN.docx \nHi all, \nWe received the thumb drive from defense counsel to load the latest discovery production onto it for Maxwell, and the \nproduction has been loaded onto it. Could you please confirm the attached letters are good to go? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I SONY \n1 Saint Andrew's Plaza \nEFTA00029224",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "ers are good to go? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I SON"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": ". Attorney's Office I SONY \n1 Saint Andrew's Plaza \nEFTA00029224"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.042Z"
+}

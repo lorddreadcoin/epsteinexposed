@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00024731",
+    "filename": "EFTA00024731.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024731.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein Image/Video File Review Protocol \nDate: Mon, 19 Oct 2020 20:22:58 +0000 \nThanks, We will send the protocol to the other paras who will be helping with this and let them know to expect \na conference call once the copies start getting completed. \nFrom: \nSent: Monday, October 19, 2020 4:08 PM \nTo: \n<='; \n›; \n). \n1 \n1 \nCc: \n• \nSubject: Epstein Image/Video File Review Protocol \nAll, \nAttached please find the review protocol for the image and video files from Epstein's devices. The protocol asks that all \nreviewers read the warrant and supporting affidavit, which are both attached here as well. I am also attaching a copy of \nthe Maxwell indictment, which contains a photograph of Epstein and Maxwell. \nOnce the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a \ncall with them to talk through the review and answer any questions. \nIn the first instance, we would ask that the FBI team review the following devices: \n• NYC024363 \n• NYC024394 \n• NYC024326 \n• NYC024368 \n• NYC024390 \n• NYC024334 \n• NYC027910 \n• NYC024323 \n• NYC024355 \n• NYC027908 \nDepending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the \nteams. \nThanks very much, \nEFTA00024731\n\nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00024732",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Image",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein Image/Video File Review Protocol \nD"
+      },
+      {
+        "name": "Video File",
+        "role": "extracted",
+        "context": ": \nSubject: RE: Epstein Image/Video File Review Protocol \nDate: Mon, 1"
+      },
+      {
+        "name": "Review Protocol",
+        "role": "extracted",
+        "context": "RE: Epstein Image/Video File Review Protocol \nDate: Mon, 19 Oct 2020 20:22"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nks very much, \nEFTA00024731\n\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "FTA00024731\n\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00024732"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-19",
+        "event": "October 19, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.723Z"
+}

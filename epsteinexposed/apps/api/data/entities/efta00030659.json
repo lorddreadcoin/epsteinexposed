@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030659",
+    "filename": "EFTA00030659.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030659.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: indictment \nDate: Wed, 04 Dec 2019 19:33:06 +0000 \nAttachments: Noel_and_Thomas Indictment_v11.docx _ \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00030659",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thomas Indictment",
+        "role": "extracted",
+        "context": "+0000 \nAttachments: Noel_and_Thomas Indictment_v11.docx _ \nAssistant United"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Thomas Indictment_v11.docx _ \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "_v11.docx _ \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.380Z"
+}

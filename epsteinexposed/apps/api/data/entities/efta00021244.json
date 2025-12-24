@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021244",
+    "filename": "EFTA00021244.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021244.pdf",
+    "text": "\n\nFrom: \" \n)\"  \nTo: ' (USANYS)\"  \nSubject: RE: CVRA opinion \nDate: Wed, 26 Jun 2019 19:47:26 +0000 \nImportance: Normal \nAttachments: SDFL_deeision.pdf \nSure —  attached. \nFrom: (USANYS) \nSent: Wednesday, June 26, 2019 15:42 \nTo: \nSubject: CVRA opinion \nDo you have electronic copy? I want to send it tom and I only have (marked up) hard copy. \nThanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00021244",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 19:47:26 +0000 \nImportance: Normal \nAttachments: SDFL_deeision.pdf \nSure —  a"
+      },
+      {
+        "name": "Thanks \nDeputy",
+        "role": "extracted",
+        "context": "have (marked up) hard copy. \nThanks \nDeputy United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Thanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-26",
+        "event": "June 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.280Z"
+}

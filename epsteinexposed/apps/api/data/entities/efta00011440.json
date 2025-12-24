@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00011440",
+    "filename": "EFTA00011440.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011440.pdf",
+    "text": "\n\nFrom: \"The Invisible Man\" <abx17@dial.pipex.com> \nTo: \"'G. Maxwell'\" <gmaxl@mindspring.com> \nSubject: RE: \nSent Sat, 18 Aug 2001 22:42:18 +0100 \nDistraught! \nYou probably wouldn't know but I lost my valet on Thursday. He died in his \nsleep. He had been with me since I was 2. I am a little off balance as \nnot only has my office been restructured, I have left the RN and now my \nwhole life is in turmoil as I have no one to look after me. He was a real \nrock and almost a part of the family. \nIf you have any good ideas as to how to get my mind back on track I'd be \ngrateful for advice. \nSee you real soon... I hope if you are coming over. \nA xxx \n Original Message \nFrom: G. Maxwell (mailto:gmax1@mindspring.com) \nSent: 16 August 2001 16:32 \nTo: abx17@dial.pipex.com \nSubject: \nSo sorry to dissapoint you, however the truth must be told. I have only \nbeen able to find appropriate friends. Will let you know about some church \nmeetings on those dates \nKisses \nGx \nEFTA00011440",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Invisible",
+        "role": "extracted",
+        "context": "From: \"The Invisible Man\" <abx17@dial.pipex.com>"
+      },
+      {
+        "name": "Sent Sat",
+        "role": "extracted",
+        "context": "indspring.com> \nSubject: RE: \nSent Sat, 18 Aug 2001 22:42:18 +0100"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "you are coming over. \nA xxx \n Original Message \nFrom: G. Maxwell (mailto:gma"
+      },
+      {
+        "name": "Kisses \nGx",
+        "role": "extracted",
+        "context": "rch \nmeetings on those dates \nKisses \nGx \nEFTA00011440"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2001-08-16",
+        "event": "16 August 2001"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.627Z"
+}

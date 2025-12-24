@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027051",
+    "filename": "EFTA00027051.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027051.pdf",
+    "text": "\n\nFrom: ' (USANYS) \n[Contractor]\" \n<I \nTo: MINIIIr jEllr>caUSANYS)\" \nCc: (USANYSCornrir>, ' \n(USANYS) [Contractor]\" \nSubject: US v. Epstein \nDate: Thu, 15 Oct 2020 16:19:07 +0000 \nInline-Images: image002.jpg; image004.jpg \nHello, \nCan you please review the following searches \nUS v. Epstein database: \nQ 01.Produce As Confidential \n-  Q 01.Produce As Highly Confidential \nQ \n01.Produce As Is \nUS v. Epstein (SW) \nQ Epstein - Junk Search Terms \n(From) \nQ Epstein -Junk Search Terms (Keywords) \nPlease let me know if there are any questions. \nThank you. \nEFTA00027051",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "[Contractor]\" \nSubject: US v. Epstein \nDate: Thu, 15 Oct 2020 16:19:07 +0"
+      },
+      {
+        "name": "Produce As",
+        "role": "extracted",
+        "context": "US v. Epstein database: \nQ 01.Produce As Confidential \n-  Q 01.Produce"
+      },
+      {
+        "name": "Highly Confidential",
+        "role": "extracted",
+        "context": "fidential \n-  Q 01.Produce As Highly Confidential \nQ \n01.Produce As Is \nUS v. E"
+      },
+      {
+        "name": "Junk Search",
+        "role": "extracted",
+        "context": "v. Epstein (SW) \nQ Epstein - Junk Search Terms \n(From) \nQ Epstein -Jun"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.456Z"
+}

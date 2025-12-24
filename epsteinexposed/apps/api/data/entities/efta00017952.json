@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017952",
+    "filename": "EFTA00017952.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017952.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: 302 for seized hard drives from MCC \nDate: Mon, 09 Mar 2020 21:29:22 +0000 \nAttachments: Seizure_of_hard_Drives_Associated_with_DVR_2.pdf \nHi \nSorry• or t  e delay... here is the 302. I am going to forward you quite a \nfew \nof email% going back from the beginning concerning the \nDVRs and the video system. \nLet me know if you have any questions regarding anything I send you! \nThanks! \nSpecial Agent \nFBI New York Field Office \nViolent Crimes Task Force \nEFTA00017952",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nSorry",
+        "role": "extracted",
+        "context": "es_Associated_with_DVR_2.pdf \nHi \nSorry• or t  e delay... here is the"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "nything I send you! \nThanks! \nSpecial Agent \nFBI New York Field Office \nV"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nViolent Crimes Task Force \nE"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nViolent Crimes Task Force \nEFTA00017952"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field Office \nViolent Crimes Task Force \nEFTA00017952"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.927Z"
+}

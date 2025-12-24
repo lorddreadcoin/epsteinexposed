@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027569",
+    "filename": "EFTA00027569.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027569.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo:' \nCc: ' \nSubject: RE: US v. Epstein \nDate: Tue, 14 Jul 2020 14:59:47 +0000 \n(USANYS) [Contractor)\" ..tj \n y\nt \nApproved \nFrom: (USANYS) [Contractor) .c.a \nSent: Tuesday, July 14, 2020 10:57 AM \nTo: (USANYS) <M> \nCc: \nSubject: US v. Epstein \nGood Morning, \ncM> \nI received a new set of data from IM (cc'd) for the Epstein matter. The cost for processing and uploading this data to \nRelativity will be approximately $8,000.00. The data should be ready to ship to PAE by Wednesday or Thursday. I wanted \nto know if I have your approval to send this data to the vendor. \nThank you. \nEFTA00027569",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ":' \nCc: ' \nSubject: RE: US v. Epstein \nDate: Tue, 14 Jul 2020 14:59:47 +0"
+      },
+      {
+        "name": "Approved \nFrom",
+        "role": "extracted",
+        "context": "YS) [Contractor)\" ..tj \n y\nt \nApproved \nFrom: (USANYS) [Contractor) .c.a"
+      },
+      {
+        "name": "Epstein \nGood",
+        "role": "extracted",
+        "context": "NYS) <M> \nCc: \nSubject: US v. Epstein \nGood Morning, \ncM> \nI received a n"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-14",
+        "event": "July 14, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.553Z"
+}

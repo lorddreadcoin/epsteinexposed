@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018219",
+    "filename": "EFTA00018219.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018219.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" <I \nTo:\n'\nSubject: FW: Epstein 6(e) Order Signed and Ready to Pick Up \nDate: Mon, 03 Feb 2020 16:25:44 +0000 \nWere you guys able to pick this up? If not, can you send a paralegal over to do so today? Thanks. \nFrom:(USANYS) ctl> \nSent: Friday, January 31, 2020 5:23 PM \nTo: \nCc: \nSubject: Epstein 6(e) Order Signed and Ready to Pick Up \n>; \n(USANYS) \nI just got a call from Judge Nathan's clerk that she signed the order and it's ready to be picked up from her \nchambers, if one of you want to engineer that right now. \nEFTA00018219",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Order Signed",
+        "role": "extracted",
+        "context": ":\n'\nSubject: FW: Epstein 6(e) Order Signed and Ready to Pick Up \nDate: M"
+      },
+      {
+        "name": "Pick Up",
+        "role": "extracted",
+        "context": "(e) Order Signed and Ready to Pick Up \nDate: Mon, 03 Feb 2020 16:25"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "ANYS) \nI just got a call from Judge Nathan's clerk that she signed the o"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-31",
+        "event": "January 31, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.436Z"
+}

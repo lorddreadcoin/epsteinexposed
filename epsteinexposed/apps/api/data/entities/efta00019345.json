@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00019345",
+    "filename": "EFTA00019345.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019345.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject RE: Epstein \nDate: Tue, 13 Aug 2019 17:52:13 +0000 \nThanks \n» \n(USANYS)\" < \nThis is the only contact we have: \nPalm Beach County \nSheriffs Office \nViolent Crimes Division / Homicide \nWe don't have any other documents or \ninformation. \nFrom: \nSent: Tuesday, August 13, 2019 12:19 PM \nTo: (USANYS) \nCc: \nSubject: Epstein \nGood afternoon \n>  8/13/20191:18 PM >» \nI hope all is well. I understand the prosecution team has been walled off from the investigation. Do you have access to his \nrecords from his prior incarceration? If  not, do you have a contact for his prior facility or the USAO in Florida? I have been \nasked to track down certain documentation in reference thereto in relation to the various investigations into the incident this \npast weekend. \nThank you, \nU \nSupervisory Staff Attorney \nCLC New York \nMetropolitan Correctional Center \nEFTA00019345",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject RE: Epstein \nDate: Tue, 13 Aug 2019 17:52:13 +0"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "is the only contact we have: \nPalm Beach County \nSheriffs Office \nViol"
+      },
+      {
+        "name": "County \nSheriffs",
+        "role": "extracted",
+        "context": "contact we have: \nPalm Beach County \nSheriffs Office \nViolent Crimes Divisi"
+      },
+      {
+        "name": "Office \nViolent",
+        "role": "extracted",
+        "context": "Palm Beach County \nSheriffs Office \nViolent Crimes Division / Homicide \nW"
+      },
+      {
+        "name": "Crimes Division",
+        "role": "extracted",
+        "context": "nty \nSheriffs Office \nViolent Crimes Division / Homicide \nWe don't have any"
+      },
+      {
+        "name": "Homicide \nWe",
+        "role": "extracted",
+        "context": "ce \nViolent Crimes Division / Homicide \nWe don't have any other document"
+      },
+      {
+        "name": "Epstein \nGood",
+        "role": "extracted",
+        "context": "To: (USANYS) \nCc: \nSubject: Epstein \nGood afternoon \n>  8/13/20191:18 P"
+      },
+      {
+        "name": "Supervisory Staff",
+        "role": "extracted",
+        "context": "past weekend. \nThank you, \nU \nSupervisory Staff Attorney \nCLC New York \nMetro"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "Staff Attorney \nCLC New York \nMetropolitan Correctional Center \nEFTA00019345"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-13",
+        "event": "August 13, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.726Z"
+}

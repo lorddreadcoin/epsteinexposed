@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00013919",
+    "filename": "EFTA00013919.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013919.pdf",
+    "text": "\n\nFrom: \n(USAFLS)\" \nalMIN> \nTo: (USAFLS)\" alMIN> \nSubject: RE: Epstein \nDate: Tue, 27 May 2008 \n21:08:56 +0000 \nImportance: Normal \nPerfect. Enjoy your trip. We're in good shape (so far). \n-----Original Message \nFrom: (USAFLS) \nSent: Tuesday, May 27, 2008 3:56 PM \nTo: (USAFLS) \nSubject: Re: Epstein \nHi I get back on saturday. I will spend sunday with and monday with you. I will be there by 10:00 unless you need me there \nearlier. \n---- Original Message \nFrom: \n(USAFLS) \nTo: . (USAFLS); .(USAFLS) \nCc: \n(USAFLS) \nSent: Tue May 27 15:24:50 2008 \nSubject: RE: Epstein \n=, are you back ? We need to spend some time together on the indictment. I  was planning on Monday because I  thought you were \nback that day but if you're already back let me know. By the way, Wand Alex have been very clear that we are not negotiating with this \nguy any more in any way. \nThx. • \n-----Original Message \nFrom: (USAFLS) \nSent: Tuesday, May 27, 2008 2:54 PM \nTo: .(USAFLS); \nCc: (USAFLS) \nSubject: Epstein \n(USAFLS) \nsent me an email about epstein wanting to do less time. I  hope that his request will be denied. The original deal was \nsupposed to be 2 years so he has already gotten a big break. Plus we have identified more victims since we agreed to the 18 months. Please \nkeep me posted. Thanks. \nEFTA00013919",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "USAFLS)\" alMIN> \nSubject: RE: Epstein \nDate: Tue, 27 May 2008 \n21:08:56 +"
+      },
+      {
+        "name": "Normal \nPerfect",
+        "role": "extracted",
+        "context": "21:08:56 +0000 \nImportance: Normal \nPerfect. Enjoy your trip. We're in go"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "in good shape (so far). \n-----Original Message \nFrom: (USAFLS) \nSent: Tuesda"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "M \nTo: (USAFLS) \nSubject: Re: Epstein \nHi I get back on saturday. I wil"
+      },
+      {
+        "name": "Tue May",
+        "role": "extracted",
+        "context": "USAFLS) \nCc: \n(USAFLS) \nSent: Tue May 27 15:24:50 2008 \nSubject: RE"
+      },
+      {
+        "name": "Wand Alex",
+        "role": "extracted",
+        "context": "back let me know. By the way, Wand Alex have been very clear that we"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-05-27",
+        "event": "May 27, 2008"
+      },
+      {
+        "date": "2008-05-27",
+        "event": "27 May 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.739Z"
+}

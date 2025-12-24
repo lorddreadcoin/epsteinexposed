@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027380",
+    "filename": "EFTA00027380.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027380.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: I\" MIliCaSN1YS)\" USANYS)\" \n,  \"MMII(USANYS)\" \nSubject: RE: Epstein FOIA Next Steps - Noel Team \nDate: Tue, 13 Apr 2021 17:27:44 +0000 \nRight now I have a call with at OIG about this case at 10, but I can see if I can move that if 10 is the only time \nthat works for everyone. Thanks. \nFrom: (USANYS) \nSent: Tuesday, April 13, 2021 1:27 PM \nTo: (USANYS) \n(USANYS) \nSubject: RE: Epstein FOIA Next Steps - Noel Team \n(USANYS) \nTomorrow morning fairly booked for me, but do have 10-10:30 if that's better for everyone. \nFrom: (USANYS) \nSent: Tuesday, April 13, 2021 1:26 PM \nTo: (USANYS); (USANYS) \n‹> \n(USANYS) \nSubject: RE: Epstein FOIA Next Steps - Noel Team \nThis afternoon isn't ideal. I can do 6pm if absolutely necessary, but I would prefer any time tomorrow morning. \nFrom: (USANYS) < \nSent: Tuesday, April 13, 2021 1:10 PM \nTo: \n(USANYS) < \n(USANYS) \nSubject: RE: Epstein FOIA Next Steps - Noel Team \nDoesn't work for me. Could you do 6pm? \n(USANYS) \n Original Appointment \nFrom: (USANYS) < \nSent: Tuesday, April 13, 2021 1:09 PM \nTo: (USANYS); (USANYS); (USANYS) \nSubject: Epstein FOIA Next Steps - Noel Team \nWhen: Tuesday, April 13, 2021 4:00 PM-4:30 PM (UTC-05:00) Eastern Time (US & Canada). \nWhere: \nplease let me know if this time doesn't work— has availability tomorrow as well. Thanks. \nPlease use dial in with passcode \nEFTA00027380",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Next Steps",
+        "role": "extracted",
+        "context": ")\" \nSubject: RE: Epstein FOIA Next Steps - Noel Team \nDate: Tue, 13 Ap"
+      },
+      {
+        "name": "Noel Team",
+        "role": "extracted",
+        "context": "RE: Epstein FOIA Next Steps - Noel Team \nDate: Tue, 13 Apr 2021 17:27"
+      },
+      {
+        "name": "Original Appointment",
+        "role": "extracted",
+        "context": "Could you do 6pm? \n(USANYS) \n Original Appointment \nFrom: (USANYS) < \nSent: Tues"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "1 4:00 PM-4:30 PM (UTC-05:00) Eastern Time (US & Canada). \nWhere: \npleas"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-13",
+        "event": "April 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.130Z"
+}

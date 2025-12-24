@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00030617",
+    "filename": "EFTA00030617.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030617.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: USAO SDNY Prisoner for Court Production Request \nDate: Wed, 17 Jul 2019 18:04:17 -4)000 \nGood afternoon—\nJudge Berman has rescheduled the below conference for 11:30 a.m. tomorrow, instead of 9:30. Thanks! \nPRISONER PRODUCTION FOR COURT REQUEST \nUse this e-mail only to order defendants for Court. \nDATE 7/18/19 TIME 11:30 am JUDGE Berman COURT ROOM 17B \nPRODUCTION TYPE (enter X in box to the right of description) CASE# 19 Cr. 490 (RMB) \nArraignment \nDetention hearing \nPreliminary hearing \nStatus hearing \nBond hearing \nX Fatico hearing \nRevocation hearing \nSuppression hearing \nDefendant USMS \nBond signing \nMotion hearing \nRevocation & sentencing \nTrial \nChange of plea \nOther, describe below \nSentencing \nMaterial witness \nOn writ status \nUSMS use only/report result to CrimSec \n(indicate Y only) \nSentence \nTime served Detainer \n1 Jeffrey Epstein \n76318-054 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \nREMARKS (security precautions, separations, violent crime charge, not standard release issues): \nAUSA NAME AUSA PHONE \nEFTA00030617\n\nEFTA00030618",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "dicate Y only) \nSentence \nTime served Detainer \n1 Jeffrey Epstein \n76318-054 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \nREMARKS ("
+      },
+      {
+        "name": "Court Production",
+        "role": "extracted",
+        "context": "t: RE: USAO SDNY Prisoner for Court Production Request \nDate: Wed, 17 Jul 20"
+      },
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "Prisoner for Court Production Request \nDate: Wed, 17 Jul 2019 18:04:17 -4"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "04:17 -4)000 \nGood afternoon—\nJudge Berman has rescheduled the below con"
+      },
+      {
+        "name": "Arraignment \nDetention",
+        "role": "extracted",
+        "context": "tion) CASE# 19 Cr. 490 (RMB) \nArraignment \nDetention hearing \nPreliminary hearing"
+      },
+      {
+        "name": "Trial \nChange",
+        "role": "extracted",
+        "context": "ing \nRevocation & sentencing \nTrial \nChange of plea \nOther, describe belo"
+      },
+      {
+        "name": "Sentencing \nMaterial",
+        "role": "extracted",
+        "context": "plea \nOther, describe below \nSentencing \nMaterial witness \nOn writ status \nUSMS"
+      },
+      {
+        "name": "Sentence \nTime",
+        "role": "extracted",
+        "context": "o CrimSec \n(indicate Y only) \nSentence \nTime served Detainer \n1 Jeffrey Ep"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.289Z"
+}

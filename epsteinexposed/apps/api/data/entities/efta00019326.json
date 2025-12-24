@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019326",
+    "filename": "EFTA00019326.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019326.pdf",
+    "text": "\n\nFrom: \"\nINI=a> \nTo:\" \nCc: \nSubject: Epstein Assistance Request \nDate: Mon, 19 Aug 2019 19:59:00 +0000 \nCan anyone advise as to the full names and possibly dates of birth for the following BOP employees?: \n9 \nIf we could have these by 5:30 it would help in piecing together some information for our analyst helping us \nwith the case \nFBI/NYPD Violent Crimes & Joint Bank Robbery Squad C-19 \nEMI \nEFTA00019326",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Assistance",
+        "role": "extracted",
+        "context": "\"\nINI=a> \nTo:\" \nCc: \nSubject: Epstein Assistance Request \nDate: Mon, 19 Aug 20"
+      },
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "Subject: Epstein Assistance Request \nDate: Mon, 19 Aug 2019 19:59:00 +0"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "g us \nwith the case \nFBI/NYPD Violent Crimes & Joint Bank Robbery Squad C-"
+      },
+      {
+        "name": "Joint Bank",
+        "role": "extracted",
+        "context": "se \nFBI/NYPD Violent Crimes & Joint Bank Robbery Squad C-19 \nEMI \nEFTA"
+      },
+      {
+        "name": "Robbery Squad",
+        "role": "extracted",
+        "context": "D Violent Crimes & Joint Bank Robbery Squad C-19 \nEMI \nEFTA00019326"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.686Z"
+}

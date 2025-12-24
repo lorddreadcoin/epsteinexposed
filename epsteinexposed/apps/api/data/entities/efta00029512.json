@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029512",
+    "filename": "EFTA00029512.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029512.pdf",
+    "text": "\n\nFrom: (USANYS)\" <1 \nTo:'\n II    II II \nCc: (USANYS)\"  \nSubject: Fwd: updates \nDate: Sat, 06 Jul 2019 22:27:49 +0000 \nImportance: Normal \nLet us know if/when you hear from defense counsel. My guess is it will be quick. \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Berman, Geoffrey \n(USANYS)\" \nDate: Jul 6 2019 at 5:54:01 PM EDT \nTo: \nCc: \nUS \nSubject: Re: \nupdates \nEpstein is in custody. Search warrants being \nexecuted now. \nGeoff \nOn Jul 6, 2019, at 12:44 PM, Berman, Geoffrey (USANYS) \nells me that he is confirmed on board. Wheels up. Geoff \nOn Jul 6, 2019, at 11:10 AM, \nGood morning all—\nwrote: \nwrote: \nasked me to pass along two quick updates. First, Judge Moses signed the search warrant this morning. \nSecond, our case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are \nEpstein and two pilots. Of course, that is subject to change, and I'm told that FBI will try to get confirmation of the \npassengers after the flight takes off. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00029512\n\nEFTA00029513",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nLet",
+        "role": "extracted",
+        "context": "9 22:27:49 +0000 \nImportance: Normal \nLet us know if/when you hear from"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "will be quick. \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Be"
+      },
+      {
+        "name": "Geoff \nOn",
+        "role": "extracted",
+        "context": "arrants being \nexecuted now. \nGeoff \nOn Jul 6, 2019, at 12:44 PM, Ber"
+      },
+      {
+        "name": "Judge Moses",
+        "role": "extracted",
+        "context": "ong two quick updates. First, Judge Moses signed the search warrant thi"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "after the flight takes off. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "takes off. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00029512\n\nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.571Z"
+}

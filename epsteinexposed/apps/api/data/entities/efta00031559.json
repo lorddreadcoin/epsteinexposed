@@ -1,0 +1,244 @@
+{
+  "document": {
+    "id": "efta00031559",
+    "filename": "EFTA00031559.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031559.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Marshals Service \nReal Property Net Equity Worksheet \nFor All Property Types \nPART I: ASSET INFORMATION \n1. CATS Asset ID: 2. USMS Pre-Seizure No.: \nUSMS-054-00000307 \n3. Court Case No.: 4. District: \nNYS \nS. Full Address: \n9 East 71st Street, New York, NY 10021, New York County \n6. Year Built: \n1910 \n7. Vested Owner(s) per Lien Report: \nMaple, Inc., a U.S. Virginia Islands Corporation \n8. Owner(s) as Identified by IA/USAO: \nMAPLE INC. \n9. Type of Property: \nSingle Family Residence \n10. Stage: \nPre\n-Seizure \n11. Forfeiture Date: \n12. APN or Owner/VIN (if SFD Manufactured Home) \nBLOCK: 1386 LOT: 10 \n13. GPS Coordinates: \n40.771573, -73.966461 \n14. Occupancy: \nUnknown \n15. Additional Information: \nPlease see condition report for property details. \na. Sold at/Pending Tax Sale Date: b. Realtor Name: (if on market) c. Foreclosure Proceeding Bank & Date: \nPART II: VALUATION INFORMATION \n16. Valuation Type: \nBroker Price Opinion (Desktop) \nValuation Date: \n2019-08-22 \nValuation Amount: \n$ \n81,000,000.00 \nPART III: MORTGAGE LIENS/JUDGEMENT EXPENSES \n17. First Mortgage Lienholder: Recorded Date: Lien Amount: \n18. Base Year Real Estate Taxes: \n$ \n345,286.05 \nTaxes Paid: \n$ 345,286.05 \nPrior Years' Delinquent Taxes \n19. Supplemental Liens/ Judgement Expenses: Please see attached report for full lien detail(s). Supplemental Lien Amount: \nPART IV: NET EQUITY SUMMARY \nValuation Amount \nIncome \nTotal Liens \nManagement & 12-month Maintenance Expenses \nSale - Related Expenses \nTotal \nTOTAL NET EQUITY \n81,000,000.00 \n(870,106.00) \n(2,576,098.00) \n77,553,796.00 \n$77,553,796.00 \n95.75% \n\" Management & 12-Month Maintenance Expenses include items such as association dues, grounds work, current & back taxes, \nutilities, cleaning, pre-seizure & custody work, as well as maintenance and repairs. \nEFTA00031559",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Marshals Service \nReal"
+      },
+      {
+        "name": "States Marshals",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Marshals Service \nReal Property Net Eq"
+      },
+      {
+        "name": "Service \nReal",
+        "role": "extracted",
+        "context": "stice \nUnited States Marshals Service \nReal Property Net Equity Worksheet"
+      },
+      {
+        "name": "Property Net",
+        "role": "extracted",
+        "context": "States Marshals Service \nReal Property Net Equity Worksheet \nFor All Pro"
+      },
+      {
+        "name": "Equity Worksheet",
+        "role": "extracted",
+        "context": "ls Service \nReal Property Net Equity Worksheet \nFor All Property Types \nPART"
+      },
+      {
+        "name": "For All",
+        "role": "extracted",
+        "context": "roperty Net Equity Worksheet \nFor All Property Types \nPART I: ASSET"
+      },
+      {
+        "name": "Property Types",
+        "role": "extracted",
+        "context": "Net Equity Worksheet \nFor All Property Types \nPART I: ASSET INFORMATION \n1"
+      },
+      {
+        "name": "Seizure No",
+        "role": "extracted",
+        "context": "1. CATS Asset ID: 2. USMS Pre-Seizure No.: \nUSMS-054-00000307 \n3. Cour"
+      },
+      {
+        "name": "Court Case",
+        "role": "extracted",
+        "context": "e No.: \nUSMS-054-00000307 \n3. Court Case No.: 4. District: \nNYS \nS. Fu"
+      },
+      {
+        "name": "Full Address",
+        "role": "extracted",
+        "context": "se No.: 4. District: \nNYS \nS. Full Address: \n9 East 71st Street, New Yor"
+      },
+      {
+        "name": "Year Built",
+        "role": "extracted",
+        "context": "NY 10021, New York County \n6. Year Built: \n1910 \n7. Vested Owner(s) pe"
+      },
+      {
+        "name": "Vested Owner",
+        "role": "extracted",
+        "context": "nty \n6. Year Built: \n1910 \n7. Vested Owner(s) per Lien Report: \nMaple, I"
+      },
+      {
+        "name": "Lien Report",
+        "role": "extracted",
+        "context": "1910 \n7. Vested Owner(s) per Lien Report: \nMaple, Inc., a U.S. Virgini"
+      },
+      {
+        "name": "Virginia Islands",
+        "role": "extracted",
+        "context": "Report: \nMaple, Inc., a U.S. Virginia Islands Corporation \n8. Owner(s) as I"
+      },
+      {
+        "name": "Single Family",
+        "role": "extracted",
+        "context": "E INC. \n9. Type of Property: \nSingle Family Residence \n10. Stage: \nPre\n-S"
+      },
+      {
+        "name": "Forfeiture Date",
+        "role": "extracted",
+        "context": "10. Stage: \nPre\n-Seizure \n11. Forfeiture Date: \n12. APN or Owner/VIN (if SF"
+      },
+      {
+        "name": "Manufactured Home",
+        "role": "extracted",
+        "context": "12. APN or Owner/VIN (if SFD Manufactured Home) \nBLOCK: 1386 LOT: 10 \n13. GP"
+      },
+      {
+        "name": "Additional Information",
+        "role": "extracted",
+        "context": "14. Occupancy: \nUnknown \n15. Additional Information: \nPlease see condition report"
+      },
+      {
+        "name": "Pending Tax",
+        "role": "extracted",
+        "context": "property details. \na. Sold at/Pending Tax Sale Date: b. Realtor Name: ("
+      },
+      {
+        "name": "Sale Date",
+        "role": "extracted",
+        "context": "ails. \na. Sold at/Pending Tax Sale Date: b. Realtor Name: (if on mark"
+      },
+      {
+        "name": "Realtor Name",
+        "role": "extracted",
+        "context": "at/Pending Tax Sale Date: b. Realtor Name: (if on market) c. Foreclosur"
+      },
+      {
+        "name": "Foreclosure Proceeding",
+        "role": "extracted",
+        "context": "altor Name: (if on market) c. Foreclosure Proceeding Bank & Date: \nPART II: VALUAT"
+      },
+      {
+        "name": "Valuation Type",
+        "role": "extracted",
+        "context": "I: VALUATION INFORMATION \n16. Valuation Type: \nBroker Price Opinion (Deskt"
+      },
+      {
+        "name": "Broker Price",
+        "role": "extracted",
+        "context": "RMATION \n16. Valuation Type: \nBroker Price Opinion (Desktop) \nValuation"
+      },
+      {
+        "name": "Valuation Date",
+        "role": "extracted",
+        "context": "oker Price Opinion (Desktop) \nValuation Date: \n2019-08-22 \nValuation Amoun"
+      },
+      {
+        "name": "Valuation Amount",
+        "role": "extracted",
+        "context": "Valuation Date: \n2019-08-22 \nValuation Amount: \n$ \n81,000,000.00 \nPART III:"
+      },
+      {
+        "name": "First Mortgage",
+        "role": "extracted",
+        "context": "LIENS/JUDGEMENT EXPENSES \n17. First Mortgage Lienholder: Recorded Date: Li"
+      },
+      {
+        "name": "Recorded Date",
+        "role": "extracted",
+        "context": "7. First Mortgage Lienholder: Recorded Date: Lien Amount: \n18. Base Year"
+      },
+      {
+        "name": "Lien Amount",
+        "role": "extracted",
+        "context": "ge Lienholder: Recorded Date: Lien Amount: \n18. Base Year Real Estate T"
+      },
+      {
+        "name": "Base Year",
+        "role": "extracted",
+        "context": "orded Date: Lien Amount: \n18. Base Year Real Estate Taxes: \n$ \n345,28"
+      },
+      {
+        "name": "Real Estate",
+        "role": "extracted",
+        "context": ": Lien Amount: \n18. Base Year Real Estate Taxes: \n$ \n345,286.05 \nTaxes"
+      },
+      {
+        "name": "Taxes Paid",
+        "role": "extracted",
+        "context": "Estate Taxes: \n$ \n345,286.05 \nTaxes Paid: \n$ 345,286.05 \nPrior Years'"
+      },
+      {
+        "name": "Prior Years",
+        "role": "extracted",
+        "context": "5 \nTaxes Paid: \n$ 345,286.05 \nPrior Years' Delinquent Taxes \n19. Supple"
+      },
+      {
+        "name": "Delinquent Taxes",
+        "role": "extracted",
+        "context": ": \n$ 345,286.05 \nPrior Years' Delinquent Taxes \n19. Supplemental Liens/ Judg"
+      },
+      {
+        "name": "Supplemental Liens",
+        "role": "extracted",
+        "context": "Years' Delinquent Taxes \n19. Supplemental Liens/ Judgement Expenses: Please s"
+      },
+      {
+        "name": "Judgement Expenses",
+        "role": "extracted",
+        "context": "axes \n19. Supplemental Liens/ Judgement Expenses: Please see attached report f"
+      },
+      {
+        "name": "Supplemental Lien",
+        "role": "extracted",
+        "context": "port for full lien detail(s). Supplemental Lien Amount: \nPART IV: NET EQUITY"
+      },
+      {
+        "name": "Income \nTotal",
+        "role": "extracted",
+        "context": "TY SUMMARY \nValuation Amount \nIncome \nTotal Liens \nManagement & 12-month"
+      },
+      {
+        "name": "Liens \nManagement",
+        "role": "extracted",
+        "context": "luation Amount \nIncome \nTotal Liens \nManagement & 12-month Maintenance Expens"
+      },
+      {
+        "name": "Maintenance Expenses",
+        "role": "extracted",
+        "context": "Liens \nManagement & 12-month Maintenance Expenses \nSale - Related Expenses \nTot"
+      },
+      {
+        "name": "Related Expenses",
+        "role": "extracted",
+        "context": "Maintenance Expenses \nSale - Related Expenses \nTotal \nTOTAL NET EQUITY \n81,"
+      },
+      {
+        "name": "Month Maintenance",
+        "role": "extracted",
+        "context": "00 \n95.75% \n\" Management & 12-Month Maintenance Expenses include items such a"
+      }
+    ],
+    "locations": [
+      {
+        "name": "9 East 71st Street",
+        "type": "address"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-22",
+        "event": "2019-08-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.407Z"
+}

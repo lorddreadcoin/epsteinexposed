@@ -1,0 +1,88 @@
+{
+  "document": {
+    "id": "efta00017134",
+    "filename": "EFTA00017134.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017134.pdf",
+    "text": "\n\nWIRELINE \n2996479 \n06/17/2020 \nAT&T has queried for records from 03/01/2020 12:00:00am to 06/15/2020 11:59:59pm \nAT&T has queried for records using Eastern Time Zone. AT&T's records are stored and provided in \nUTC. \ne s, \nAT&T \nRun Date: \nRun Time: \nVoice Usage \nItem \n06/17/2020 \nFor: \nSim \nConnDateTime Originating Sec. Orig. Terminating Dialed Elapsed \n(OTC) \nNumber Number Number Time \nCIC Call Code Orig. \nAnn. \n1 03/01/20 19:58:27 0:00 829 601 \n2 03/02/20 16:36:53 \n0:47 \n829 \n3 \n03/02/20 16:43:46 0:04 829 601 \n4 03/02/20 16:44:06 2:06 829 \n5 \n03/03/20 21:36:01 30:41 343 \n6 03/04/20 18:52:26 1:40 827 602 \n7 \n03/04/20 19:46:37 0:05 343 \n8 03/04/20 22:07:25 47:57 343 \n9 \n03/04/20 23:04:25 0:39 343 \n10 03/05/20 00:56:24 0:00 829 \n11 03/05/20 00:58:15 0:25 827 602 \n12 03/05/20 13:22:45 1:13 829 \n13 03/05/20 15:49:48 0:01 829 601 \n14 03/05/20 15:50:04 0:00 829 \n15 03/05/20 17:14:11 0:36 343 \n16 03/05/20 17:15:32 0:00 343 \n17 \n03/05/20 18:27:34 0:05 343 \n18 03/05/20 18:29:16 0:04 343 \n19 03/05/20 18:42:42 0:04 343 \n20 03/05/20 20:38:45 9:05 343 \n21 03/05/20 20:51:31 0:00 343 \n22 03/06/20 15:08:16 1:08 343 \n23 03/06/20 20:02:56 0:05 343 \n24 03/06/20 20:51:23 0:59 343 \n25 03/06/20 21:03:38 0:00 829 \n26 03/06/20 21:04:01 0:00 829 601 \n27 \n03/06/20 21:04:33 0:16 343 \n28 03/07/20 16:17:45 0:00 829 601 \n29 03/07/20 18:21:42 0:04 314 60 11 \n30 03/07/20 18:39:48 0:00 829 601 \n31 03/08/20 00:01:01 0:00 829 \n32 03/08/20 18:09:41 0:00 829 \n33 \n03/08/20 18:23:28 0:00 829 601 \n34 \n03/09/20 00:45:22 0:01 829 601 \n35 \n03/09/20 14:52:35 0:00 829 601 \n36 \n03/09/20 15:46:24 0:00 829 601 \n37 \n03/09/20 18:49:59 0:00 829 \n38 \n03/10/20 17:41:33 0:00 829 601 \nAT&T Proprietary \nThe information contained here is for use by authorized persons only and is not \nfor general distribution. \nPage 1 \nEFTA00017134\n\nEFTA00017135\n\nEFTA00017136\n\nEFTA00017137\n\nEFTA00017138",
+    "pageCount": 5,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "has queried for records using Eastern Time Zone. AT&T's records are stor"
+      },
+      {
+        "name": "Run Date",
+        "role": "extracted",
+        "context": "rovided in \nUTC. \ne s, \nAT&T \nRun Date: \nRun Time: \nVoice Usage \nIte"
+      },
+      {
+        "name": "Run Time",
+        "role": "extracted",
+        "context": "UTC. \ne s, \nAT&T \nRun Date: \nRun Time: \nVoice Usage \nItem \n06/17/20"
+      },
+      {
+        "name": "Voice Usage",
+        "role": "extracted",
+        "context": "AT&T \nRun Date: \nRun Time: \nVoice Usage \nItem \n06/17/2020 \nFor: \nSim"
+      },
+      {
+        "name": "Sim \nConn",
+        "role": "extracted",
+        "context": "sage \nItem \n06/17/2020 \nFor: \nSim \nConnDateTime Originating Sec. Orig"
+      },
+      {
+        "name": "Time Originating",
+        "role": "extracted",
+        "context": "6/17/2020 \nFor: \nSim \nConnDateTime Originating Sec. Orig. Terminating Dialed"
+      },
+      {
+        "name": "Terminating Dialed",
+        "role": "extracted",
+        "context": "teTime Originating Sec. Orig. Terminating Dialed Elapsed \n(OTC) \nNumber Number"
+      },
+      {
+        "name": "Number Number",
+        "role": "extracted",
+        "context": "nating Dialed Elapsed \n(OTC) \nNumber Number Number Time \nCIC Call Code Or"
+      },
+      {
+        "name": "Number Time",
+        "role": "extracted",
+        "context": "Elapsed \n(OTC) \nNumber Number Number Time \nCIC Call Code Orig. \nAnn. \n1"
+      },
+      {
+        "name": "Call Code",
+        "role": "extracted",
+        "context": "umber Number Number Time \nCIC Call Code Orig. \nAnn. \n1 03/01/20 19:58"
+      },
+      {
+        "name": "Proprietary \nThe",
+        "role": "extracted",
+        "context": "0 17:41:33 0:00 829 601 \nAT&T Proprietary \nThe information contained here is"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-17",
+        "event": "06/17/2020"
+      },
+      {
+        "date": "2020-03-01",
+        "event": "03/01/2020"
+      },
+      {
+        "date": "2020-06-15",
+        "event": "06/15/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:54.080Z"
+}

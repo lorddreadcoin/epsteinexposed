@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019818",
+    "filename": "EFTA00019818.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019818.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nSubject: RE: Epstein Pros Memo \nDate: Wed, 14 Aug 2019 17:52:27 +0000 \n(USANYS)\"  \nThanks. And last thing, sorry, can you send me the court dates and what happened at them? \nFrom: \nSent: Wednesday, August 14, 2019 1:48 PM \nTo: (USANYS) \nSubject: RE: Epstein Pros Memo \n19-490 \nFrom: \n(USANYS)\nSent: Wednesday, August 14, 2019 13:48 \nTo: \nSubject: RE: Epstein Pros Memo \nThanks! What was the docket? \nFrom: \nSent: Wednesday, August 14, 2019 1:45 PM \nTo: \n(USANYS) \nCc: \nSubject: RE: Epstein Pros Memo \nSure, attached. Depending on what exactly you're looking for, the ODAG memo and UMR from when we were charging, \nalso attached, may also be useful. \nFrom: \n(USANYS}<> \nSent: Wednesday, August 14, 2019 13:15 \nTo: \nSubject: Epstein Pros \nMemo \nCan you send it to me? \nAssistant United States Attorney \nSouthern District of New York \nTel: \n>; \nEFTA00019818",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Pros",
+        "role": "extracted",
+        "context": "From: ' \nTo:\" \nSubject: RE: Epstein Pros Memo \nDate: Wed, 14 Aug 2019"
+      },
+      {
+        "name": "Memo \nDate",
+        "role": "extracted",
+        "context": ":\" \nSubject: RE: Epstein Pros Memo \nDate: Wed, 14 Aug 2019 17:52:27 +0"
+      },
+      {
+        "name": "Memo \nThanks",
+        "role": "extracted",
+        "context": "o: \nSubject: RE: Epstein Pros Memo \nThanks! What was the docket? \nFrom:"
+      },
+      {
+        "name": "Memo \nSure",
+        "role": "extracted",
+        "context": "c: \nSubject: RE: Epstein Pros Memo \nSure, attached. Depending on what"
+      },
+      {
+        "name": "Memo \nCan",
+        "role": "extracted",
+        "context": "To: \nSubject: Epstein Pros \nMemo \nCan you send it to me? \nAssistant"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Memo \nCan you send it to me? \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d it to me? \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \n>; \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.638Z"
+}

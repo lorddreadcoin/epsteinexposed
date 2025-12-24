@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00003044",
+    "filename": "EFTA00003044.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003044.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \n• \n1 \nsok \nuarters, \nSuite \nB-3, \nSt. \nThomas. \nVI \n00802-1348\nPhone:\nE-mail: \nthesaintjames.group@gmail.com \nEmergency \nContact \nForm \nToday's \nDate: \n110/17/18 \nEmployee \nName: \nBrian \nBates \nStart \nDate: \nDate \nof \nBirth: \nPhysic3! \nAddress: \nMailing \nAddress: \nCell \nPlior \nE-mail. \nTitle/Position: \nIGOntrader \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nSingle \nIM\nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nEl \nA- \nO \nA+ \nlE \nAB- \nEl \nAB+ \nEl \n8\n-\nlit \nO \nO. \nEl \nO+ \nUnknown \nCurrent \nMedications: \nh\nne\nDoctors \nName: \nDoctor's \nName: \nJamie \nReed \nNone \nDoctors \nPhone: \nDoctor's \nPhone: \nIn \ncase \nof \nemergency, \nplease \ncontact: \nName: \nName: \nRelationship: \nRelationship: \nGirlfriend \nPhone: \nPhone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers. \nEFTA00003044",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "hesaintjames.group@gmail.com \nEmergency \nContact \nForm \nToday's \nDate: \n110/17"
+      },
+      {
+        "name": "Form \nToday",
+        "role": "extracted",
+        "context": "mail.com \nEmergency \nContact \nForm \nToday's \nDate: \n110/17/18 \nEmployee"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "m \nToday's \nDate: \n110/17/18 \nEmployee \nName: \nBrian \nBates \nStart \nDate:"
+      },
+      {
+        "name": "Brian \nBates",
+        "role": "extracted",
+        "context": "110/17/18 \nEmployee \nName: \nBrian \nBates \nStart \nDate: \nDate \nof \nBirt"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "mployee \nName: \nBrian \nBates \nStart \nDate: \nDate \nof \nBirth: \nPhysic3!"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "Birth: \nPhysic3! \nAddress: \nMailing \nAddress: \nCell \nPlior \nE-mail. \nTitle"
+      },
+      {
+        "name": "Cell \nPlior",
+        "role": "extracted",
+        "context": "Address: \nMailing \nAddress: \nCell \nPlior \nE-mail. \nTitle/Position: \nIG"
+      },
+      {
+        "name": "Ontrader \nPhone",
+        "role": "extracted",
+        "context": "E-mail. \nTitle/Position: \nIGOntrader \nPhone \n(other): \nMarital \nStatus:"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "IGOntrader \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nSin"
+      },
+      {
+        "name": "License \nNo",
+        "role": "extracted",
+        "context": "Marital \nStatus: \nDriver's \nLicense \nNo: \nSingle \nIM\nAllergies \nor \nH"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "o: \nSingle \nIM\nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nEl \nA- \nO \nA+"
+      },
+      {
+        "name": "Unknown \nCurrent",
+        "role": "extracted",
+        "context": "El \n8\n-\nlit \nO \nO. \nEl \nO+ \nUnknown \nCurrent \nMedications: \nh\nne\nDoctors"
+      },
+      {
+        "name": "Doctors \nName",
+        "role": "extracted",
+        "context": "Current \nMedications: \nh\nne\nDoctors \nName: \nDoctor's \nName: \nJamie \nRee"
+      },
+      {
+        "name": "Jamie \nReed",
+        "role": "extracted",
+        "context": "tors \nName: \nDoctor's \nName: \nJamie \nReed \nNone \nDoctors \nPhone: \nDocto"
+      },
+      {
+        "name": "None \nDoctors",
+        "role": "extracted",
+        "context": "Doctor's \nName: \nJamie \nReed \nNone \nDoctors \nPhone: \nDoctor's \nPhone: \nIn"
+      },
+      {
+        "name": "Girlfriend \nPhone",
+        "role": "extracted",
+        "context": "Relationship: \nRelationship: \nGirlfriend \nPhone: \nPhone: \nThis \ninformation"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.588Z"
+}

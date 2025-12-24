@@ -1,0 +1,125 @@
+{
+  "document": {
+    "id": "efta00032090",
+    "filename": "EFTA00032090.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032090.pdf",
+    "text": "\n\n• \nRequester Information \nCollapse • \nRequester \nOrganization \nRequester Has Account \nEmail Address \nPhone Number \nFax Number \nAddress \nCity \nState/Province \nZip Code/Postal Code \nNo \nNew York \nNY \n10001 \nTracking Number \nEOUSA-2020-003495 \nSubmitted Date 07/08/2020 \nReceived Date 07/08/2020 \nPerfected Date \n07/08/2020 \nLast Assigned Date 07/08/2020 \nAssigned To (Executive Office for United States \nAttorneys) \nLast Assigned By (Executive Office for United States \nAttorneys) \nRequest Track \nSimple \nFee Limit $20.00 \nEFTA00032090",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Requester Information",
+        "role": "extracted",
+        "context": "• \nRequester Information \nCollapse • \nRequester \nOrgan"
+      },
+      {
+        "name": "Requester \nOrganization",
+        "role": "extracted",
+        "context": "ster Information \nCollapse • \nRequester \nOrganization \nRequester Has Account \nEmail"
+      },
+      {
+        "name": "Requester Has",
+        "role": "extracted",
+        "context": "e • \nRequester \nOrganization \nRequester Has Account \nEmail Address \nPhone"
+      },
+      {
+        "name": "Account \nEmail",
+        "role": "extracted",
+        "context": "Organization \nRequester Has Account \nEmail Address \nPhone Number \nFax Nu"
+      },
+      {
+        "name": "Address \nPhone",
+        "role": "extracted",
+        "context": "Requester Has Account \nEmail Address \nPhone Number \nFax Number \nAddress"
+      },
+      {
+        "name": "Number \nFax",
+        "role": "extracted",
+        "context": "Account \nEmail Address \nPhone Number \nFax Number \nAddress \nCity \nState/"
+      },
+      {
+        "name": "Number \nAddress",
+        "role": "extracted",
+        "context": "il Address \nPhone Number \nFax Number \nAddress \nCity \nState/Province \nZip Co"
+      },
+      {
+        "name": "City \nState",
+        "role": "extracted",
+        "context": "Number \nFax Number \nAddress \nCity \nState/Province \nZip Code/Postal Cod"
+      },
+      {
+        "name": "Province \nZip",
+        "role": "extracted",
+        "context": "Number \nAddress \nCity \nState/Province \nZip Code/Postal Code \nNo \nNew Yor"
+      },
+      {
+        "name": "Postal Code",
+        "role": "extracted",
+        "context": "ity \nState/Province \nZip Code/Postal Code \nNo \nNew York \nNY \n10001 \nTra"
+      },
+      {
+        "name": "No \nNew",
+        "role": "extracted",
+        "context": "ovince \nZip Code/Postal Code \nNo \nNew York \nNY \n10001 \nTracking Num"
+      },
+      {
+        "name": "Tracking Number",
+        "role": "extracted",
+        "context": "ode \nNo \nNew York \nNY \n10001 \nTracking Number \nEOUSA-2020-003495 \nSubmitted"
+      },
+      {
+        "name": "Submitted Date",
+        "role": "extracted",
+        "context": "ng Number \nEOUSA-2020-003495 \nSubmitted Date 07/08/2020 \nReceived Date 07/"
+      },
+      {
+        "name": "Received Date",
+        "role": "extracted",
+        "context": "5 \nSubmitted Date 07/08/2020 \nReceived Date 07/08/2020 \nPerfected Date \n0"
+      },
+      {
+        "name": "Perfected Date",
+        "role": "extracted",
+        "context": "20 \nReceived Date 07/08/2020 \nPerfected Date \n07/08/2020 \nLast Assigned Da"
+      },
+      {
+        "name": "Last Assigned",
+        "role": "extracted",
+        "context": "Perfected Date \n07/08/2020 \nLast Assigned Date 07/08/2020 \nAssigned To"
+      },
+      {
+        "name": "Assigned To",
+        "role": "extracted",
+        "context": "ast Assigned Date 07/08/2020 \nAssigned To (Executive Office for United"
+      },
+      {
+        "name": "Executive Office",
+        "role": "extracted",
+        "context": "Date 07/08/2020 \nAssigned To (Executive Office for United States \nAttorneys)"
+      },
+      {
+        "name": "Request Track",
+        "role": "extracted",
+        "context": "or United States \nAttorneys) \nRequest Track \nSimple \nFee Limit $20.00 \nEF"
+      },
+      {
+        "name": "Simple \nFee",
+        "role": "extracted",
+        "context": "s \nAttorneys) \nRequest Track \nSimple \nFee Limit $20.00 \nEFTA00032090"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-08",
+        "event": "07/08/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.607Z"
+}

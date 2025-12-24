@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00032447",
+    "filename": "EFTA00032447.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032447.pdf",
+    "text": "\n\nEvent: Tentative: Call w/ Andy Tomback and Marc Weinstein (Epstein estate) \nStart Date: 2021-04-05 19:30:00 +0000 \nEnd Date: 2021-04-05 20:00:00 +0000 \nLocation \nClass: X-PERSONAL \nComment: \nDate Created: 2021-03-31 20:01:38 +0000 \nDate Modified: 2021-03-31 20:01:38 +0000 \nPriority: 5 \nDTSTAMP: 2021-03-31 19:41:42 +0000 \nAttendee: \n1 \n< \nEFTA00032447",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andy Tomback",
+        "role": "extracted",
+        "context": "Event: Tentative: Call w/ Andy Tomback and Marc Weinstein (Epstein e"
+      },
+      {
+        "name": "Marc Weinstein",
+        "role": "extracted",
+        "context": "ive: Call w/ Andy Tomback and Marc Weinstein (Epstein estate) \nStart Date:"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "c Weinstein (Epstein estate) \nStart Date: 2021-04-05 19:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-04-05 19:30:00 +0000 \nEnd Date: 2021-04-05 20:00:00 +0000 \nL"
+      },
+      {
+        "name": "Location \nClass",
+        "role": "extracted",
+        "context": "e: 2021-04-05 20:00:00 +0000 \nLocation \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2021-03-31 20:01:38 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-03-31 20:01:38 +0000 \nDate Modified: 2021-03-31 20:01:38 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-05",
+        "event": "2021-04-05"
+      },
+      {
+        "date": "2021-03-31",
+        "event": "2021-03-31"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.656Z"
+}

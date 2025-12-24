@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019129",
+    "filename": "EFTA00019129.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019129.pdf",
+    "text": "\n\nFrom: '  \n• \nTo:\" \n     < \nCc: ' \n(USANYS)\" \nSubject: Re: Epstein Estate update \nDate: Mon, 09 Nov 2020 15:09:30 +0000 \nThanks, I can join a call this afternoon, as long as you're ok taking the lead. I'll be continuing to review images \nat a snail's pace during all of my calls today. \nOn \nNov 9, 2020, at 9:55 AM, > wrote: \nGiven that today is the deadline, I would be fine pushing this call to tomorrow to make more time today. Or if \nyou'd prefer I can just deal with this call alone this afternoon. \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Weinstein, Marc A.\" < \nDate: November 9 2020 at 9:49:47 AM EST \nTo:\" \n< \nCc: Andrew Tomback \nSubject: Epstein Estate update \nand \nII \nWould you have time for a call this afternoon to give you an update on a  new development? \nThanks, \nMarc \nMarc A. Weinstein I  Partner \nChair, White Collar Defense \nHughes Hubbard & Reed LLP \nThis message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not \ndisseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this \ne-mail from your system. Email transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost. \ndestroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of \nthis message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. \nEFTA00019129",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "c: ' \n(USANYS)\" \nSubject: Re: Epstein Estate update \nDate: Mon, 09 Nov 202"
+      },
+      {
+        "name": "On \nNov",
+        "role": "extracted",
+        "context": "uring all of my calls today. \nOn \nNov 9, 2020, at 9:55 AM, > wrote:"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "his afternoon. \nSent from my iPhone \nBegin forwarded message: \nFrom: \"We"
+      },
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "9:49:47 AM EST \nTo:\" \n< \nCc: Andrew Tomback \nSubject: Epstein Estate upda"
+      },
+      {
+        "name": "Marc \nMarc",
+        "role": "extracted",
+        "context": "a  new development? \nThanks, \nMarc \nMarc A. Weinstein I  Partner \nChai"
+      },
+      {
+        "name": "Partner \nChair",
+        "role": "extracted",
+        "context": ", \nMarc \nMarc A. Weinstein I  Partner \nChair, White Collar Defense \nHughes"
+      },
+      {
+        "name": "White Collar",
+        "role": "extracted",
+        "context": "Weinstein I  Partner \nChair, White Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "Partner \nChair, White Collar Defense \nHughes Hubbard & Reed LLP \nThis mess"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-09",
+        "event": "November 9 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.351Z"
+}

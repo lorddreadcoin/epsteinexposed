@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00018400",
+    "filename": "EFTA00018400.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018400.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Inside Edition Request \nDate: Tue, 09 Jul 2019 19:21:43 +0000 \nImportance: Normal \nI think this is officially the dumbest Epstein question so far. \nFrom: \nSent: Tuesday, July 9, 2019 3:18 PM \nTo: \nSubject: Inside Edition Request \nHello, \nInside Edition is asking if Anthony Weiner is expected to testify against Jeffrey Epstein? \nOr if Mr. Weiner has cooperated in any way prior to Mr. Epstein's arrest? \nHappy to answer any questions you may have. \nThanks, \nMatt Sutherland \nSr. Booking Producer I I Inside Edition \nEFTA00018400",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "if Anthony Weiner is expected to testify against Jeffrey Epstein? \nOr if Mr. Weiner has cooperated in any way prio"
+      },
+      {
+        "name": "Weiner",
+        "role": "extracted",
+        "context": "ainst Jeffrey Epstein? \nOr if Mr. Weiner has cooperated in any way"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ooperated in any way prior to Mr. Epstein's arrest? \nHappy to answe"
+      },
+      {
+        "name": "Inside Edition",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: FW: Inside Edition Request \nDate: Tue, 09 Jul 20"
+      },
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: Inside Edition Request \nDate: Tue, 09 Jul 2019 19:21:43 +0"
+      },
+      {
+        "name": "Request \nHello",
+        "role": "extracted",
+        "context": "To: \nSubject: Inside Edition Request \nHello, \nInside Edition is asking if"
+      },
+      {
+        "name": "Anthony Weiner",
+        "role": "extracted",
+        "context": "Inside Edition is asking if Anthony Weiner is expected to testify agains"
+      },
+      {
+        "name": "Matt Sutherland \nSr.",
+        "role": "extracted",
+        "context": "tions you may have. \nThanks, \nMatt Sutherland \nSr. Booking Producer I I Inside E"
+      },
+      {
+        "name": "Booking Producer",
+        "role": "extracted",
+        "context": "Thanks, \nMatt Sutherland \nSr. Booking Producer I I Inside Edition \nEFTA00018"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.836Z"
+}

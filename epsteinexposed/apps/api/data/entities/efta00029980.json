@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00029980",
+    "filename": "EFTA00029980.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029980.pdf",
+    "text": "\n\nU.S. \nDepartment \nof .1 ustiee \nUnited States Attorney \nSouthern District of New York \nThe Silvio!. Motto Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nNovember 9, 2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nent \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinent to the following inmate: \n• \nGhislaine Maxwell: 02879-509 \nPlease allow her access to the materials enclosed. \nby: \nEnclosure \nVery \ntruly yours, \nAUDREY \nSTRAUSS \nActing United States Attorney \nAssistant United States Attorneys \nEFTA00029980",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "er \nent \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed is discovery pertinen"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "of .1 ustiee \nUnited States Attorney \nSouthern District of New York \nThe Sil"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio!. Motto Building \nOne Saint A"
+      },
+      {
+        "name": "Motto Building",
+        "role": "extracted",
+        "context": "ict of New York \nThe Silvio!. Motto Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Silvio!. Motto Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nNovembe"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nent \nBrooklyn, NY 112"
+      },
+      {
+        "name": "Enclosure \nVery",
+        "role": "extracted",
+        "context": "the materials enclosed. \nby: \nEnclosure \nVery \ntruly yours, \nAUDREY \nSTRAUS"
+      },
+      {
+        "name": "Acting United",
+        "role": "extracted",
+        "context": "ruly yours, \nAUDREY \nSTRAUSS \nActing United States Attorney \nAssistant Un"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "UDREY \nSTRAUSS \nActing United States Attorney \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "cting United States Attorney \nAssistant United States Attorneys \nEFTA0002998"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "es Attorney \nAssistant United States Attorneys \nEFTA00029980"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Brooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-11-09",
+        "event": "November 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.701Z"
+}

@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00015188",
+    "filename": "EFTA00015188.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015188.pdf",
+    "text": "\n\nFrom: i\nn\" \nTo: \"gtdc@att.com\" <gldc@att.com> \nCc: \nII I II \nSubject: Certification Request \nDate: Thu, 30 Sep 2021 18:59:27 +0000 \nImportance: Normal \nAttachments: 229703-3363-0504.pdfi Scan_l.pdf \nGood afternoon, \nI'm writing to request certification of the attached AT&T record. I have also attached a cover letter that is attached to the \nCD containing the record. The CD itself has a file code of 229703 and a date of 8/23/2006. \nIf you have any questions, or if you have difficulty certifying the record, please give me a call at the below number. \nThank you, \nAndrew \nAssistant United States Attorney \nSouthern District of New York \nEFTA00015188",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Certification Request",
+        "role": "extracted",
+        "context": ".com> \nCc: \nII I II \nSubject: Certification Request \nDate: Thu, 30 Sep 2021 18:59"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 18:59:27 +0000 \nImportance: Normal \nAttachments: 229703-3363-0504.pdfi Scan_l"
+      },
+      {
+        "name": "Andrew \nAssistant",
+        "role": "extracted",
+        "context": "he below number. \nThank you, \nAndrew \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "drew \nAssistant United States Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2006-08-23",
+        "event": "8/23/2006"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "229703-3363"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.169Z"
+}

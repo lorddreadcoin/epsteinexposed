@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00010104",
+    "filename": "EFTA00010104.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010104.pdf",
+    "text": "\n\nFrom \nTo: Nathan NYSD Chambers\nCc: \nbcsternheim_mac.com <bcsternheim@mac.com>, \n\"ceverdell®cohengresser.com\" \n<ceverdell®cohengresser.com>, Laura Menninger tenninger@hmflaw.com>, \"Jeff \nPagliuca\" ipagliuca@hmflaw.com> \nSubject: US v. Maxwell, 20 Cr. 330 (MN) - Birth Certificates \nDate: Fri, 19 Nov 2021 04:04:27 +0000 \nAttachments: 2021.11.18_Mot_to_admit_birth_certificatesjunredacted].pdf; \n2021.11.18_Mot_to_admit_birth_certificatesjproposed_redactions].pdf \nChambers, \nAttached please find a letter motion to determine that the Minor Victims' Birth certificates are self-authenticating, in \nunredacted form and with proposed redactions. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \n10007 \nEFTA00010104",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: Nathan NYSD Chambers\nCc: \nbc"
+      },
+      {
+        "name": "Chambers\nCc",
+        "role": "extracted",
+        "context": "From \nTo: Nathan NYSD Chambers\nCc: \nbcsternheim_mac.com <bcster"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "<ceverdell®cohengresser.com>, Laura Menninger tenninger@hmflaw.com>, \"Jeff"
+      },
+      {
+        "name": "Jeff \nPagliuca",
+        "role": "extracted",
+        "context": "inger tenninger@hmflaw.com>, \"Jeff \nPagliuca\" ipagliuca@hmflaw.com> \nSubje"
+      },
+      {
+        "name": "Birth Certificates",
+        "role": "extracted",
+        "context": "v. Maxwell, 20 Cr. 330 (MN) - Birth Certificates \nDate: Fri, 19 Nov 2021 04:04"
+      },
+      {
+        "name": "Minor Victims",
+        "role": "extracted",
+        "context": "motion to determine that the Minor Victims' Birth certificates are self-"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ns. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \n10007 \nEFTA00010104"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.286Z"
+}

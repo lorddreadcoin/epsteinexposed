@@ -1,0 +1,57 @@
+{
+  "document": {
+    "id": "efta00028560",
+    "filename": "EFTA00028560.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028560.pdf",
+    "text": "\n\nFrom: (USANYS)\" •< \nTo: ' (USANYS) \nSubject: Re: Prince Andrew \nDate: Mon, 08 Jun 2020 18:34:56 +0000 \nGlad to hear that. Things here are fine. No news. \nSent from my iPhone \nOn \nJun 8, 2020, at 2:32 PM, \n(USANYS) [ \n> wrote: \nI'm still good! Nothing new to report! And yourself? \nFrom: \n(USANYS) \nSent: Monday, June 8, 2020 2:29 PM \nTo: \n(USANYS) \nSubject: RE: Prince Andrew \nGreetings. Just checking-in to see how you're doing. \nFrom: (USANYS) \nSent: Monday, June 8, 2020 1:58 PM \nTo: Berman, Geoffrey (USANYS) \nCc: \n(USANYS) \nSubject: RE: \nPrince Andrew \nAll, we can use the following dial in: 877-720-9282 - 8146826 \nFrom: Berman, Geoffrey (USANYS) < \nSent: Monday, June 8, 20201:54 PM \nTo: (USANYS) \nCc: \nSubject: Re: \nPrince Andrew \nLet's set up a  call on this for 2:15 \nSent \nfrom my iPad \nOn Jun 8, 2020, at 1:09 PM, (USANYS)  wrote: \nEFTA00028560\n\nGeoff —As discussed, I've put together a short proposed statement responding to the press release issued by Prince \nAndrew's counsel this morning. If we do issue something in response, as you'll see, I would recommend we keep it \nshort and forward looking, rather than trying to rehash all of the various factual inaccuracies in his account of the \npast. \nToday, Prince Andrew yet again sought to falsely publicly portray himself as eager and willing to cooperate with an \nongoing federal criminal investigation into sex trafficking and related offenses committed by Jeffrey Epstein and his \nassociates, despite the fact that the Prince has never sat for an interview with federal authorities, has repeatedly \ndeclined our request to schedule such an interview, and several months ago informed us unequivocally —through the \nvery same counsel who issued today's release -- that he would not come in for such an interview. If Prince Andrew is, \nin fact, serious about cooperating with a federal investigation, our doors have always been open, and we await word of \nwhen we should expect him. \nEFTA00028561",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "sex trafficking and related offenses committed by Jeffrey Epstein and his \nassociates, despite the fact that the Pr"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From: (USANYS)\" •< \nTo: ' (USANYS) \nSubject: Re: Prince Andrew \nDate: Mon, 08 Jun 2020 18:34:56 +0000 \nGlad to h"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "fine. No news. \nSent from my iPhone \nOn \nJun 8, 2020, at 2:32 PM, \n(U"
+      },
+      {
+        "name": "Pad \nOn",
+        "role": "extracted",
+        "context": "this for 2:15 \nSent \nfrom my iPad \nOn Jun 8, 2020, at 1:09 PM, (USA"
+      },
+      {
+        "name": "Prince \nAndrew",
+        "role": "extracted",
+        "context": "o the press release issued by Prince \nAndrew's counsel this morning. If we"
+      },
+      {
+        "name": "If Prince",
+        "role": "extracted",
+        "context": "ome in for such an interview. If Prince Andrew is, \nin fact, serious"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-08",
+        "event": "June 8, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "877-720-9282"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.476Z"
+}

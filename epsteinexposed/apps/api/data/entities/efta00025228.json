@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00025228",
+    "filename": "EFTA00025228.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025228.pdf",
+    "text": "\n\nFrom: \nSubject: FW: Voice Message Attached from \nUS \nGOVT \nDate: Thu, 26 Sep 2019 17:09:07 +0000 \nFrom: \nSent: Thursda Se tember 26, 2019 1:09:06 PM (UTC-05:00) Eastern Time (US & Canada) \nTo: \nSubject: RE: Voice Message Attached fro \n- \nUS \nGOVT \nIt is happening again. \n Ori inal Messa e \nFro \nSent: \nThursday. \nSeptember 26 2019 1:06 PM \nTo: \nSubject: FW: Voice Message Attached fro \n- \nUS \nGOVT \nFrom: \nSent: Thursda Se tember 26, 2019 1:06:23 PM (UTC-05:00) Eastern Time (US & Canada) \nTo: \nSubject: RE: Voice Message Attached fro \nUS \nGOVT \nIi \nI think I  might be receiving this in error, along with the Epstein team. \n Ori inal Messa e \nFrom: \nSent: Thursda , Se tember 26 2019 1:05 PM \nTo: \nSubject: FW: Voice Message Attached fr \n- \nUS \nGOVT \nEFTA00025228\n\nFrom \nSent: Thursda Se tember 26, 2019 1:05:18 PM (UTC-05:00) Eastern Time (US & Canada) \nTo: \nSubject: RE: Voice Message Attached froj - US \nGOVT \nU \nAre you free at 1:30pm for a call? \n Original Message \nFrom: postmaster@voip.usa.doj.gov <postmaster@voip.usa.doj.gov> \nSent: Thursda , Se tember 26, 2019 11:50 AM \nTo: \nSubject: Voice Message Attached fro \nUS \nGOVT \nTime: Sep 26, 2019 11:50:27 AM \nClick attachment to listen to Voice Message \nEFTA00025229",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "From: \nSubject: FW: Voice Message Attached from \nUS \nGOVT \nDate"
+      },
+      {
+        "name": "Thursda Se",
+        "role": "extracted",
+        "context": "17:09:07 +0000 \nFrom: \nSent: Thursda Se tember 26, 2019 1:09:06 PM (U"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": ", 2019 1:09:06 PM (UTC-05:00) Eastern Time (US & Canada) \nTo: \nSubject:"
+      },
+      {
+        "name": "Fro \nSent",
+        "role": "extracted",
+        "context": "ng again. \n Ori inal Messa e \nFro \nSent: \nThursday. \nSeptember 26 201"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "r \n- \nUS \nGOVT \nEFTA00025228\n\nFrom \nSent: Thursda Se tember 26, 2019 1"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "free at 1:30pm for a call? \n Original Message \nFrom: postmaster@voip.usa.do"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-26",
+        "event": "September 26 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.741Z"
+}

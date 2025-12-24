@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020371",
+    "filename": "EFTA00020371.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020371.pdf",
+    "text": "\n\nFrom: '    \" \nTo:' <1 \nSubject: RE: Korea \nBribery \nSubpoenas \nDate: Fri, 10 Jul 2020 16:27:20 +0000 \nAttachments: 2020.07.08,_subpoena_to Jacqueline_Hudkins_Attomey_at_Lawicorrected).docx \nThanks so much,. I was actually able to scan my version of signature the other day. Attached is a subpoena \nfrom another case with that signature included. Would you please insert it into all of these subpoenas for the Korea case? \nCouple other corrections: \n• All of the riders appear to have a typo in the sentence beginning \"A list of accounts hold, controlled, or accessible \nto the following individual(s) and/or entity(ies),\" which should instead read \"A list of accounts held controlled, or \naccessible to\". Would you please fix that before sending out? \n• There are a couple instances in which the word \"Alaska\" is misspelled (it's written \"Alaksa\" in the riders). Would \nyou please correct those? \n• Some of the riders have highlighting in them—would you please remove that? \nWith those changes, these are good to go out. \nThanks, \nFrom \nSent: Thursday, July 9, 2020 4:29 PM \nTo: \nSubject: Korea Bribery Subpoenas \nHey \nI just took over paralegal duties from for this case. There were a number of riders that sent me and \nwhich I have turned into drafts of subpoenas. All of them are attached and in the drafts folder on the shared. \n• \nEFTA00020371",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Korea \nBribery",
+        "role": "extracted",
+        "context": "'    \" \nTo:' <1 \nSubject: RE: Korea \nBribery \nSubpoenas \nDate: Fri, 10 Jul"
+      },
+      {
+        "name": "Subpoenas \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Korea \nBribery \nSubpoenas \nDate: Fri, 10 Jul 2020 16:27:20 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "are good to go out. \nThanks, \nFrom \nSent: Thursday, July 9, 2020 4:29"
+      },
+      {
+        "name": "Korea Bribery",
+        "role": "extracted",
+        "context": ", 2020 4:29 PM \nTo: \nSubject: Korea Bribery Subpoenas \nHey \nI just took o"
+      },
+      {
+        "name": "Subpoenas \nHey",
+        "role": "extracted",
+        "context": "To: \nSubject: Korea Bribery Subpoenas \nHey \nI just took over paralegal d"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-09",
+        "event": "July 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.726Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028323",
+    "filename": "EFTA00028323.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028323.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: NYT: Jeffrey Epstein's 'Infinite Means' May Be a Mirage \nDate: Thu, 11 Jul 2019 13:57:45 +0000 \nImportance: Normal \nCurious as to the extent this is laying ground work for the bail argument we're going to see... \nhttps://www.nytimes.com/2019/07/10/businessneffrey-epstein-net-worth.html? \nfallback=0&recld=1NryEPEDefJ5pcoNbq69FcaKHd2&locked=0&geoContinent=NA&geoRegion=DC&recAlloc=top conversi \non&geoCountry=Mblockld=most-\npopular&imp id=916858951&action=click&module=trending&pgtype=Article&region=Footer \nEFTA00028323",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: NYT: Jeffrey Epstein's 'Infinite Means' May Be a Mirage \nDate: Thu, 11"
+      },
+      {
+        "name": "Infinite Means",
+        "role": "extracted",
+        "context": "ject: NYT: Jeffrey Epstein's 'Infinite Means' May Be a Mirage \nDate: Thu,"
+      },
+      {
+        "name": "May Be",
+        "role": "extracted",
+        "context": "ey Epstein's 'Infinite Means' May Be a Mirage \nDate: Thu, 11 Jul 2"
+      },
+      {
+        "name": "Mirage \nDate",
+        "role": "extracted",
+        "context": "n's 'Infinite Means' May Be a Mirage \nDate: Thu, 11 Jul 2019 13:57:45 +0"
+      },
+      {
+        "name": "Normal \nCurious",
+        "role": "extracted",
+        "context": "9 13:57:45 +0000 \nImportance: Normal \nCurious as to the extent this is layi"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.012Z"
+}

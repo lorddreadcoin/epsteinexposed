@@ -1,0 +1,76 @@
+{
+  "document": {
+    "id": "efta00013665",
+    "filename": "EFTA00013665.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013665.pdf",
+    "text": "\n\nFrom: \" \n(USAFLS)\" \n</O=USA/OU=FLS/CN=RECIPIENTS/CNz \nTo: \" \n(USAFLS)\" \nC \nCc: \" \n(USAFLS)\" \n(USAFLS)\" \nSubject: RE: New York Post \nDate: Mon, 21 Jul 2008 14:02:15 +0000 \nImportance: Normal \nAttachments: \n080717_Tein_Goldberger_Ltr.pdf \nYes. Sony, I forgot to scan it in. It went to Tein and Goldberger on Friday. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nFrom: (USAFLS) \nSent: Monday, July 21, 2008 9:41 AM \nTo: \n. (USAFLS) \nSubject: RE: New York Post \nThanks. Did you finish the letter to Tein? \nFrom: (USAFLS) \nSent: Monda July 21, 2008 9:37 AM \nTo: (USAFLS); (USAFLS) \nSubject: New York Post \nFYI. This came out this morning. \nhttp://www.nypost.corn/seven/07212008/gossip/pagesix/bid_to_bum_epsteinfilea 120770.htm \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nEFTA00013665",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nz \nTo",
+        "role": "extracted",
+        "context": "</O=USA/OU=FLS/CN=RECIPIENTS/CNz \nTo: \" \n(USAFLS)\" \nC \nCc: \" \n(USA"
+      },
+      {
+        "name": "Post \nDate",
+        "role": "extracted",
+        "context": "AFLS)\" \nSubject: RE: New York Post \nDate: Mon, 21 Jul 2008 14:02:15 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 14:02:15 +0000 \nImportance: Normal \nAttachments: \n080717_Tein_Goldberger_Ltr."
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nFrom: (USAFLS)"
+      },
+      {
+        "name": "Post \nThanks",
+        "role": "extracted",
+        "context": "SAFLS) \nSubject: RE: New York Post \nThanks. Did you finish the letter to"
+      },
+      {
+        "name": "Monda July",
+        "role": "extracted",
+        "context": "Tein? \nFrom: (USAFLS) \nSent: Monda July 21, 2008 9:37 AM \nTo: (USAFLS"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-21",
+        "event": "July 21, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.124Z"
+}

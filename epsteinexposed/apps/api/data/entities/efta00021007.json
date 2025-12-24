@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00021007",
+    "filename": "EFTA00021007.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021007.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Epstein victim \nrequests \nDate: Mon. 16 Nov 2020 23:39:37 +0000 \nAttachments: \nMessa! e \nFrom: \nSent: Tuesda \nTo: \nCc: \nNovember 3, 2020 4:03 PM \nSubject: RE: Epstein victim requests \nHi \nPer our call, please find attached the requests from including names in footnotes, as well as the Masseuse \nlist document that I was looking at. I'm probably missing something, but I don't see the names on the list (with \nthe \nexception of but the last name on the list doesn't match the requester's or is not included). \nThanks, \n Ori inal Messa e \nFrom: \nSent: Tuesda , November 3, 2020 2:26 PM \nTo: \nCc: \nSubject: Epstein victim requests \nHi \nDo you have time this afternoon for a brief call? Iaif you have a moment. \nThanks! \nSent from my iPhone \nEFTA00021007",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tuesda \nTo",
+        "role": "extracted",
+        "context": "ents: \nMessa! e \nFrom: \nSent: Tuesda \nTo: \nCc: \nNovember 3, 2020 4:03"
+      },
+      {
+        "name": "Hi \nPer",
+        "role": "extracted",
+        "context": "RE: Epstein victim requests \nHi \nPer our call, please find attache"
+      },
+      {
+        "name": "Hi \nDo",
+        "role": "extracted",
+        "context": "ect: Epstein victim requests \nHi \nDo you have time this afternoon"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-03",
+        "event": "November 3, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.816Z"
+}

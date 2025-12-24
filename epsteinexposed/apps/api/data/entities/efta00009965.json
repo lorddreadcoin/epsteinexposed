@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00009965",
+    "filename": "EFTA00009965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009965.pdf",
+    "text": "\n\nFrom: \nSubject: RE: Jeffrey Epstein lost interest in pregnant victim, made her recruit underage girls \nDate: Thu, 12 Sep 2019 14:47:28 +0000 \nThanks. How much of this has she repeated in her interview with us? \nFrom \nSent: Thursday, September 12, 2019 10:42 AM \nTo \nSubject: Re: Jeffrey Epstein lost interest in pregnant victim, made her recruit underage girls \nThis \nis\n whom \nwe've spoken to. \nSent from my iPhone \nOn Sep 12, 2019, at 10:41 wrote: \nhttps:Thypost.com/2019/09/12/jeffrey-epstein-lost-interest-in-pregnant-victim-made-her-recruit-underage-girls/ \nU.S. Attorney's Office \nfor the \nSouthern District of New \nYork \nEFTA00009965",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nSubject: RE: Jeffrey Epstein lost interest in pregnant victim, made her recrui"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ed in her interview with us? \nFrom \nSent: Thursday, September 12, 2019"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "September 12, 2019 10:42 AM \nTo \nSubject: Re: Jeffrey Epstein lost int"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "'ve spoken to. \nSent from my iPhone \nOn Sep 12, 2019, at 10:41 wrote:"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": ". Attorney's Office \nfor the \nSouthern District of New \nYork \nEFTA00009965"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "for the \nSouthern District of New \nYork \nEFTA00009965"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-12",
+        "event": "September 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.011Z"
+}

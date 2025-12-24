@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031867",
+    "filename": "EFTA00031867.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031867.pdf",
+    "text": "\n\nFrom: ' \n)\"   \nTo:' \n     \" \nSubject: draft letter \nDate: Mon, 06 Jul 2020 00:26:09 +0000 \nAttachments: 2020-07-05_GM,_Govtletter_request_to_schedule_appearance_and_exclude_time.docx \nAttached, thanks. \nAssistant United States Attorney \nw York \nNew York. NY 10007 \nEFTA00031867",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "time.docx \nAttached, thanks. \nAssistant United States Attorney \nw York \nNew"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ed, thanks. \nAssistant United States Attorney \nw York \nNew York. NY 10007"
+      },
+      {
+        "name": "York \nNew",
+        "role": "extracted",
+        "context": "ant United States Attorney \nw York \nNew York. NY 10007 \nEFTA00031867"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.082Z"
+}

@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00015528",
+    "filename": "EFTA00015528.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015528.pdf",
+    "text": "\n\nEvent: Accepted: Call with FBI (Epstein) \nStart Date: 2019-06-28 18:00:00 +0000 \nEnd Date: 2019-06-28 18:30:00 +0000 \nOrganizer: (USANYS) < \nClass: X-PERSONAL \nComment: \nDate Created: 2019-06-24 22:47:46 +0000 \nDate Modified: 2019-06-24 22:47:46 +0000 \nPriority: 5 \nDTSTAMP: 2019-06-24 22:36:47 +0000 \nEFTA00015528",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "ted: Call with FBI (Epstein) \nStart Date: 2019-06-28 18:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-06-28 18:00:00 +0000 \nEnd Date: 2019-06-28 18:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-06-24 22:47:46 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-06-24 22:47:46 +0000 \nDate Modified: 2019-06-24 22:47:46 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-28",
+        "event": "2019-06-28"
+      },
+      {
+        "date": "2019-06-24",
+        "event": "2019-06-24"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.876Z"
+}

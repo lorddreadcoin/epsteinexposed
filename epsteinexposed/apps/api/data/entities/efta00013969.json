@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00013969",
+    "filename": "EFTA00013969.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013969.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Epstein/call in fron \nDate: Wed, 11 Jun 2008 15:27:38 +0000 \nImportance: Normal \nAttachments: unnamed \nWhen: Friday, June 13, 2008 10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere: c. \nM\nau can participate by phone. Let me know best number, Thanks, \n---- Original Message ----\nFrom \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE: Epstein \nSpoke with Everyone is good for 10:00 this Friday morning. avill be calling Mffice \nFrom: \nSent: Wednesday, June 11. 2008 \n10:21 AM \nTo: \nCc: \nSubject: RE: Epstein \nI'm available anytime \nFrom: \nSent: Wednesday, June 11. 2008 10:09 AM \nTo: \nEFTA00013969\n\nCc: \nSubject: RE: Epstein \nAbsolutely, I'm available from 10 to 11 and after 11 have a conflict. \nFrom: \nSent: Wednesday, June 11. 2008 10:02 AM \nTo \nSubject: Epstein \nWould you guys be available Friday morning by telephone to discuss? \nEFTA00013970",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 15:27:38 +0000 \nImportance: Normal \nAttachments: unnamed \nWhen: Friday, June"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere: c. \nM"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ow best number, Thanks, \n---- Original Message ----\nFrom \nSent: Wed Jun 11 1"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": ", \n---- Original Message ----\nFrom \nSent: Wed Jun 11 10:29:23 2008 \nSu"
+      },
+      {
+        "name": "Wed Jun",
+        "role": "extracted",
+        "context": "inal Message ----\nFrom \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE"
+      },
+      {
+        "name": "Epstein \nSpoke",
+        "role": "extracted",
+        "context": "1 10:29:23 2008 \nSubject: RE: Epstein \nSpoke with Everyone is good for 10:"
+      },
+      {
+        "name": "Mffice \nFrom",
+        "role": "extracted",
+        "context": "day morning. avill be calling Mffice \nFrom: \nSent: Wednesday, June 11. 2"
+      },
+      {
+        "name": "Epstein \nAbsolutely",
+        "role": "extracted",
+        "context": "TA00013969\n\nCc: \nSubject: RE: Epstein \nAbsolutely, I'm available from 10 to 11"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "sday, June 11. 2008 10:02 AM \nTo \nSubject: Epstein \nWould you guys be a"
+      },
+      {
+        "name": "Epstein \nWould",
+        "role": "extracted",
+        "context": ". 2008 10:02 AM \nTo \nSubject: Epstein \nWould you guys be available Friday"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-06-13",
+        "event": "June 13, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.846Z"
+}

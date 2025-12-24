@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00015855",
+    "filename": "EFTA00015855.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015855.pdf",
+    "text": "\n\nFrom: ' (USANYS) [Contractor]\" \nTo: eANYS)\" \nCc: \n)\" \naNIMIE> \nSubject: RE: \nDate: Mon, 12 Apr 2021 17:21:14 +0000 \nYes, we went with the conservative approach of pulling all the emails in the folder. \n Ori inal Messa e \nFrom: (USANYS) \nSent: Monda , A ril 12, 2021 1:20 PM \nTo: USANYS) [Contractor] <IMIIM:-; \nCc: \naNIMIN> \nSubject: RE: \nis traveling. I  took a look in the folder - it looks like you pulled all of the emails for the second \nproduction, right? That seems right to me, thanks again. \n Original Messa e \nFrom: (USANYS) [Contractor] <IMIIIM> \nSent: \nMonday. \nApril 12.2021 11:09 AM \nTo: \nCc: \nSubject: RE: \nHey =, \n(USANYS) \nShould all of the emails in the folder be pulled or just the ones found in the \"Emails Epstein Investigation\" \nfolder? \nThanks, \n Original Messa e \nFrom: \naMIN> \nSent: Monda Aril 12, 2021 9:06 AM \nTo: \nCc: \nUSANYS [Contractor \nSubject:\nHi \n(USANYS) \nFor this folder, could you please pull the emails that are in the folder and put them in a second production folder? \nWe'll review them later for a second wave. Thanks! \nSent from my iPhone \nEFTA00015855",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "right to me, thanks again. \n Original Messa e \nFrom: (USANYS) [Contractor"
+      },
+      {
+        "name": "Emails Epstein",
+        "role": "extracted",
+        "context": "r just the ones found in the \"Emails Epstein Investigation\" \nfolder? \nThan"
+      },
+      {
+        "name": "Monda Aril",
+        "role": "extracted",
+        "context": "Messa e \nFrom: \naMIN> \nSent: Monda Aril 12, 2021 9:06 AM \nTo: \nCc: \nU"
+      },
+      {
+        "name": "Contractor \nSubject",
+        "role": "extracted",
+        "context": "21 9:06 AM \nTo: \nCc: \nUSANYS [Contractor \nSubject:\nHi \n(USANYS) \nFor this folde"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.637Z"
+}

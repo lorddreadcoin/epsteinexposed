@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00030711",
+    "filename": "EFTA00030711.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030711.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Monday \nDate: Mon, 16 Sep 2019 13:58:33 +0000 \nThank you! \nFrom: \nSent: Monda , Se tember 16, 2019 9:54 AM \nTo: \nSubj : on ay \nSure, I can do it. If one of y'all gets the call when he arrives just let me know. \nFrom: \nSent: Monday, September 16, 2019 09:52 \nTo: \nSu je . Kt. monday \nAgree that this can definitely be one person. if you wouldn't mind handling, that would be amazing. I'm trying to \nget oppositions to suppression motions drafted in Tartaglione and would be grateful for the extra time. \nFrom: \nSent: on ay, September 16, 2019 9:50 AM \nTo: \nSubject: RE: Monday \nI think this is probably eminently handle-able by one person, unless anybody disagrees? 'm happy to join if \nyou'd like, or to just handle, or if you feel like doing it then I'm totally happy to defer (and I'll just continue to prep for \nCalifornia interviews). Agree with hat certainly in the first instance it's likely to involve getting a list of names and \nnot particularly credibility-heavy, such that we'd want a couple people to be able to weigh in on the info up the chain. \nThoughts? \nFrom: \nSent: Monday, September 16, 2019 09:26 \nTo: \nSubject: . on ay \n• \nSorry, this got lost in my inbox. No problem at all if you still need to skip this. \nFrom: \nSent: Friday, September 13, 2019 4:13 PM \nTo: \nSubject: Monday \nSorry to ask, but is it okay if I don't join you guys for Monday's interview with I'm trying to find time to \nmeet with another case team, and it looks like Monday morning would work best for that. \nEFTA00030711\n\nv\nas Epstein's long-time house manager in NY, but we don't know anything beyond that, so the purpose of the \ninterview is really just to identify other employees and see what if anything he saw at the house. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00030712",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monday \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Monday \nDate: Mon, 16 Sep 2019 13:58:33 +0"
+      },
+      {
+        "name": "Monday \nSorry",
+        "role": "extracted",
+        "context": ", 2019 4:13 PM \nTo: \nSubject: Monday \nSorry to ask, but is it okay if I d"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nything he saw at the house. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the house. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-16",
+        "event": "September 16, 2019"
+      },
+      {
+        "date": "2019-09-13",
+        "event": "September 13, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.503Z"
+}

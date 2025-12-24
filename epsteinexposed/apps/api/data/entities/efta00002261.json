@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00002261",
+    "filename": "EFTA00002261.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002261.pdf",
+    "text": "\n\nUFETIAt \nWartaMy \nIledlif \nVfahr Healer \nP...0•••%, \nEFTA00002261",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "At \nWarta",
+        "role": "extracted",
+        "context": "UFETIAt \nWartaMy \nIledlif \nVfahr Healer \nP.."
+      },
+      {
+        "name": "My \nIledlif",
+        "role": "extracted",
+        "context": "UFETIAt \nWartaMy \nIledlif \nVfahr Healer \nP...0•••%, \nEF"
+      },
+      {
+        "name": "Vfahr Healer",
+        "role": "extracted",
+        "context": "UFETIAt \nWartaMy \nIledlif \nVfahr Healer \nP...0•••%, \nEFTA00002261"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:27.159Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00027030",
+    "filename": "EFTA00027030.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027030.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: USANYS \nCc: ' \n(USANYS)\" \nSubject: Epstein 6(e) \nOrder \nDate: Fri, 20 Dec 2019 17:29:07 +0000 \nAttachments: 2019.12.20_Epstein_6(e)_Orderjsiped).pdf \nJudge Cote \nsigned the 6(e) order, attached. \nNote: an hin we send to John Langbein has to comply with EOUSA secure shipping protocols (speak to \nor EOUSA electronic encryption protocols (speak to IT services). We would look very bad if \nany of this ended up someplace it shouldn't. Also give Langbein the necessary cautions. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00027030",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Order \nDate",
+        "role": "extracted",
+        "context": "NYS)\" \nSubject: Epstein 6(e) \nOrder \nDate: Fri, 20 Dec 2019 17:29:07 +0"
+      },
+      {
+        "name": "Judge Cote",
+        "role": "extracted",
+        "context": "pstein_6(e)_Orderjsiped).pdf \nJudge Cote \nsigned the 6(e) order, attac"
+      },
+      {
+        "name": "John Langbein",
+        "role": "extracted",
+        "context": "hed. \nNote: an hin we send to John Langbein has to comply with EOUSA secu"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "ary cautions. \nAssociate U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "sociate U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, \nN"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00027030"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.415Z"
+}

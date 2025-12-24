@@ -1,0 +1,107 @@
+{
+  "document": {
+    "id": "efta00030765",
+    "filename": "EFTA00030765.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030765.pdf",
+    "text": "\n\nFrom: ' \nTo:' (USANYS)\" \nSubject: FW: Edwards Pottinger Touhy Requests - Doe \nDate: Mon, 19 Jul 2021 21:04:25 +0000 \nAttachments: Scan_40.pdf \nFrom: \n(USANYS) \nSent: Tuesday, July 13, 2021 2:14 PM \nTo: McEnany, John (USANYS) < \nCc: \nSubject: FW: Edwards Pottinger Touhy Requests - Doe \n>; \nFrom: (USANYS) < \nSent: Monday, July 12, 2021 5:30 PM \nTo: (USANYS) \nSubject: RE: Edwards Pottinger Touhy Requests - Doe \nFrom: (USANYS) \nSent: Monday, July 12, 2021 5:25 PM \nTo: (USANYS) \nSubject: Re: Edwards Pottinger Touhy Requests - Doe \nOn Jul 12, 2021, at 5:20 PM, (USANYS) < \n> \nwrote: \nEFTA00030765\n\nFrom: (USANYS) \nSent: Thursday, July 8, 20214:13 PM \nTo: (USANYS) \nSubject: FW: Edwards Pottinger Touhy Requests - Doe \nFrom: Maria Kelljchian < \nSent: Thursday, July 8, 2021 3:59 PM \nTo: \n(USANYS) \nCc: Brad Edwards <bradPepllc.com>. Brittany Henderson <brittany_@eplIc.com>\nSubject: RE: Edwards Pottinger Touhy Requests - Doe \nGood afternoon. Please see attached from Brad Edwards. \nThank you, \nMaria \n<image001.png> \nMaria W. Kelljchian \nFlorida Registered Paralegal \n425 North Andrews Avenue. Suite 2 \nFort Lauderdale, Florida 33301 \nDirect Dial: 954-323-2074 \nOffice: 954.524.2820 I Facsimile: 954-524-2822 \nI www.epllc.com \nEFTA00030766",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Edwards Pottinger",
+        "role": "extracted",
+        "context": "To:' (USANYS)\" \nSubject: FW: Edwards Pottinger Touhy Requests - Doe \nDate: M"
+      },
+      {
+        "name": "Touhy Requests",
+        "role": "extracted",
+        "context": "ubject: FW: Edwards Pottinger Touhy Requests - Doe \nDate: Mon, 19 Jul 2021"
+      },
+      {
+        "name": "Doe \nDate",
+        "role": "extracted",
+        "context": "ds Pottinger Touhy Requests - Doe \nDate: Mon, 19 Jul 2021 21:04:25 +0"
+      },
+      {
+        "name": "Doe \nFrom",
+        "role": "extracted",
+        "context": "ds Pottinger Touhy Requests - Doe \nFrom: (USANYS) \nSent: Monday, July"
+      },
+      {
+        "name": "Doe \nOn",
+        "role": "extracted",
+        "context": "ds Pottinger Touhy Requests - Doe \nOn Jul 12, 2021, at 5:20 PM, (US"
+      },
+      {
+        "name": "Maria Kelljchian",
+        "role": "extracted",
+        "context": "r Touhy Requests - Doe \nFrom: Maria Kelljchian < \nSent: Thursday, July 8, 20"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "1 3:59 PM \nTo: \n(USANYS) \nCc: Brad Edwards <bradPepllc.com>. Brittany He"
+      },
+      {
+        "name": "Brittany Henderson",
+        "role": "extracted",
+        "context": "rad Edwards <bradPepllc.com>. Brittany Henderson <brittany_@eplIc.com>\nSubject"
+      },
+      {
+        "name": "Doe \nGood",
+        "role": "extracted",
+        "context": "ds Pottinger Touhy Requests - Doe \nGood afternoon. Please see attache"
+      },
+      {
+        "name": "Kelljchian \nFlorida",
+        "role": "extracted",
+        "context": "ria \n<image001.png> \nMaria W. Kelljchian \nFlorida Registered Paralegal \n425 Nor"
+      },
+      {
+        "name": "Registered Paralegal",
+        "role": "extracted",
+        "context": "Maria W. Kelljchian \nFlorida Registered Paralegal \n425 North Andrews Avenue. Su"
+      },
+      {
+        "name": "North Andrews",
+        "role": "extracted",
+        "context": "ida Registered Paralegal \n425 North Andrews Avenue. Suite 2 \nFort Lauderd"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "role": "extracted",
+        "context": "orth Andrews Avenue. Suite 2 \nFort Lauderdale, Florida 33301 \nDirect Dial:"
+      },
+      {
+        "name": "Direct Dial",
+        "role": "extracted",
+        "context": "rt Lauderdale, Florida 33301 \nDirect Dial: 954-323-2074 \nOffice: 954.52"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-13",
+        "event": "July 13, 2021"
+      },
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      },
+      {
+        "date": "2021-07-08",
+        "event": "July 8, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "954-323-2074",
+      "954.524.2820",
+      "954-524-2822"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.611Z"
+}

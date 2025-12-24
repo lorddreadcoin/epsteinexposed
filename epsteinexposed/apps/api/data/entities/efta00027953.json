@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00027953",
+    "filename": "EFTA00027953.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027953.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: • :  • on ay \nDate: Mon, 16 Sep 2019 13:51:16 +0000 \nTotally agree. If you guys are up for handling (or if as able to handle solo), I'd definitely like to use the time in the \noffice today before being out for the next few days. But I'm around until noon, so if folks would like me to join, I certainly \ncan. \nFrom: \nSent: Monday, September 16, 2019 9:50 AM \nTo: \nSubject: RE: Monday \nI think this is probably eminently handle-able by one person, unless anybody disagrees?I'm happy to join if \nyou'd like, or to just handle, or if you feel like doing it then I'm totally happy to defer (and I'll just continue to prep for \nCalifornia interviews). Agree with =that certainly in the first instance it's likely to involve getting a list of names and \nnot particularly credibility-heavy, such that we'd want a couple people to be able to weigh in on the info up the chain. \nThoughts? \nFrom: \nSent: Monday, September 16, 2019 09:26 \nTo: \nSubject: RE: Monday \nSorry, this got lost in my inbox. No problem at all if you still need to skip this. \nFrom: \nSent: Friday, September 13, 2019 4:13 PM \nTo: \nSubject: Monday \nSorry to ask, but is it okay if I don't join you guys for Monday's interview with I'm trying to find time to \nmeet with another case team, and it looks like Monday morning would work best for that. \nwas Epstein's long-time house manager in NY, but we don't know anything beyond that, so the purpose of the \ninterview is really just to identify other employees and see what if anything he saw at the house. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00027953",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Monday \nSorry",
+        "role": "extracted",
+        "context": "2019 09:26 \nTo: \nSubject: RE: Monday \nSorry, this got lost in my inbox. N"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nything he saw at the house. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the house. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-16",
+        "event": "September 16, 2019"
+      },
+      {
+        "date": "2019-09-13",
+        "event": "September 13, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.332Z"
+}

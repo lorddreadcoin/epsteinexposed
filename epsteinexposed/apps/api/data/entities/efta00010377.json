@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00010377",
+    "filename": "EFTA00010377.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010377.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANH)\" \nCc: \nUSANH)\" \nSubject: RE: Ghislaine Maxwell Triggerfish \nDate: Mon, 28 Dec 2020 20:56:55 +0000 \n(USANYS)\" \nNo need to extend the seal, thanks very much for checking. \nHope you and the rest of the had a wonderful Christmas and have a Happy New Year! \nFrom USANH) \nSent: Wednesday, December 23, 2020 2:42 PM \nTo: USANYS) .za \nCc (USANH) \nSubject: FW: Ghislaine Maxwell ngge is \ndo you need the seal on the DNH triggerfish warrant extended? \nMerry Christmas to you and yours! \nMr. \nFrom USANH) \nSent: Wednesday, December 23, 20 010:20 AM \nTo:(USANH) \nSubject: Ghislaine Maxwell Triggerfish \nThe seal on this triggerfish is set to expire soon. \nAm I correct in assuming we can go ahead and let this lapse? \nEFTA00010377",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \n(USANH)\" \nCc: \nUSANH)\" \nSubject: RE: Ghislaine Maxwell Triggerfish \nDate: Mon, 28 Dec 2020 20:56:55 +000"
+      },
+      {
+        "name": "From",
+        "role": "extracted",
+        "context": "Christmas to you and yours! \nMr. \nFrom USANH) \nSent: Wednesday,"
+      },
+      {
+        "name": "Triggerfish \nDate",
+        "role": "extracted",
+        "context": "ubject: RE: Ghislaine Maxwell Triggerfish \nDate: Mon, 28 Dec 2020 20:56:55 +0"
+      },
+      {
+        "name": "Happy New",
+        "role": "extracted",
+        "context": "onderful Christmas and have a Happy New Year! \nFrom USANH) \nSent: Wed"
+      },
+      {
+        "name": "Merry Christmas",
+        "role": "extracted",
+        "context": "riggerfish warrant extended? \nMerry Christmas to you and yours! \nMr. \nFrom"
+      },
+      {
+        "name": "Triggerfish \nThe",
+        "role": "extracted",
+        "context": ") \nSubject: Ghislaine Maxwell Triggerfish \nThe seal on this triggerfish is s"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-23",
+        "event": "December 23, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.846Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029251",
+    "filename": "EFTA00029251.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029251.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: NYTimes.com: Jeffrey Epstein, Blackmail and a Lucrative `Hot List' \nDate: Sun, 01 Dec 2019 02:49:28 +0000 \nFrom The New York Times: \nJeffrey Epstein, Blackmail and a Lucrative `Hot List' \nA shadowy hacker claimed to have the financier's sex tapes. Two top lawyers wondered: What would the men in \nthose videos pay to keep them secret? \nhttps://vvww.nytimes.com/2019/11/30/business/david-boies-pottinger-jeffrey-epstein-videos.html \nEFTA00029251",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: NYTimes.com: Jeffrey Epstein, Blackmail and a Lucrative `Hot List' \nDate: Sun,"
+      },
+      {
+        "name": "Hot List",
+        "role": "extracted",
+        "context": "n, Blackmail and a Lucrative `Hot List' \nDate: Sun, 01 Dec 2019 02:4"
+      },
+      {
+        "name": "From The",
+        "role": "extracted",
+        "context": ", 01 Dec 2019 02:49:28 +0000 \nFrom The New York Times: \nJeffrey Epst"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.095Z"
+}

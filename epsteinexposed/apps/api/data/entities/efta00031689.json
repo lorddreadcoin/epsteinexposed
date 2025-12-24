@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031689",
+    "filename": "EFTA00031689.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031689.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Issue discovery files \nDate: Mon, 03 May 2021 18:44:45 +0000 \nAttachments: List_of issue_disco_files_no_ranges.xlsx \nParalegal Specialist \nU.S. Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031689",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "e_disco_files_no_ranges.xlsx \nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": ". Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "fice I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031689"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-03",
+        "event": "03 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.618Z"
+}

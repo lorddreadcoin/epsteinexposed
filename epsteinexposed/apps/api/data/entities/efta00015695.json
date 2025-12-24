@@ -1,0 +1,86 @@
+{
+  "document": {
+    "id": "efta00015695",
+    "filename": "EFTA00015695.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015695.pdf",
+    "text": "\n\nEvent: Epstein Trust Discussion \nStart Date: 2020-07-06 17:15:00 +0000 \nEnd Date: 2020-07-06 18:00:00 +0000 \nOrganizer: \nLocation: \nClass: X-PERSONAL \nDate Created: 2020-07-02 14:21:53 +0000 \nDate Modified: 2020-07-02 14:21:53 +0000 \nPriority: 5 \nDTSTAMP: 2020-07-02 13:48:18 +0000 \nAttendee: \nAlarm: Display the following message 15m before start \nReminder \n-- Do not delete or change any of the following text. --\nWhen it's time, join your Webex meeting here. \nMeeting number (access code): \nMeeting password: \nJoin meeting \nEFTA00015695\n\nTap to join from a mobile device (attendees only) \n,1995719104## USA Toll 2 \n,1995719104## US Toll \nJoin by phone \nUSA Toll 2 \nUS Toll \nGlobal call-in numbers \nJoin from a video system or application \nDial \nYou can also dial and enter your meeting number. \nJoin using Microsoft Lync or Microsoft Skype for Business \nDial \nIf you are a host, click here to view host information. \nNeed help? Go to http://help.webex.com \nEFTA00015696",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Trust",
+        "role": "extracted",
+        "context": "Event: Epstein Trust Discussion \nStart Date: 2020-"
+      },
+      {
+        "name": "Discussion \nStart",
+        "role": "extracted",
+        "context": "Event: Epstein Trust Discussion \nStart Date: 2020-07-06 17:15:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-07-06 17:15:00 +0000 \nEnd Date: 2020-07-06 18:00:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Location: \nClass: X-PERSONAL \nDate Created: 2020-07-02 14:21:53 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-07-02 14:21:53 +0000 \nDate Modified: 2020-07-02 14:21:53 +0000 \nP"
+      },
+      {
+        "name": "Toll \nJoin",
+        "role": "extracted",
+        "context": "USA Toll 2 \n,1995719104## US Toll \nJoin by phone \nUSA Toll 2 \nUS Toll"
+      },
+      {
+        "name": "Toll \nGlobal",
+        "role": "extracted",
+        "context": "Join by phone \nUSA Toll 2 \nUS Toll \nGlobal call-in numbers \nJoin from a"
+      },
+      {
+        "name": "Dial \nYou",
+        "role": "extracted",
+        "context": "video system or application \nDial \nYou can also dial and enter your"
+      },
+      {
+        "name": "Microsoft Lync",
+        "role": "extracted",
+        "context": "r meeting number. \nJoin using Microsoft Lync or Microsoft Skype for Busine"
+      },
+      {
+        "name": "Microsoft Skype",
+        "role": "extracted",
+        "context": "Join using Microsoft Lync or Microsoft Skype for Business \nDial \nIf you ar"
+      },
+      {
+        "name": "Business \nDial",
+        "role": "extracted",
+        "context": "t Lync or Microsoft Skype for Business \nDial \nIf you are a host, click her"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-06",
+        "event": "2020-07-06"
+      },
+      {
+        "date": "2020-07-02",
+        "event": "2020-07-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "1995719104"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.251Z"
+}

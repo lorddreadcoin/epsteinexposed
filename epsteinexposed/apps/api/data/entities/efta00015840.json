@@ -1,0 +1,129 @@
+{
+  "document": {
+    "id": "efta00015840",
+    "filename": "EFTA00015840.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015840.pdf",
+    "text": "\n\n90A-NY-3151227 Serial 52 \nFD-I087 (Rev. 5-8-I0) \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submission of CART \nDerivative Date: \n08/22/2019 \nEvidence NYCO23596 \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nCollected From: (U) CART-NY \nReceipt Given?: No \nHolding Office: NEW YORK \nDetails: \nSubmission of CART \nDerivative Evidence NYCO23596: One (1) WD Black 3T8 \nhard \ndrive, WD3003FZEX-ODZ4SAD, \nS/N \nWCC13LZR579P, \ncontaining the \nverified \nE01 images NYCD23578 (181), NYCO23579 (182), \nNYCD2358D (183), NYCO23581 \n(1B4), NYCO23583 (186), \nNYCO23584 (187), NYCD23585 (188), NYCO23586 \n(189), NYCO23587 (1810), \nNYCO23588 (1811), and NYCO23592 (1815). Master \nCopy. \nItem \nType \n18 Digital \nDescription \n(U) \nOne \n(1) WD Black \n3TB hard drive, WD3003FZEX-DDZ4SAD, \nS/N WCC13LZR579P, \ncontaining the verified ED1 images \nNYCO23578 (181), NYCO23579 (182), NYCO23580 (183), \nNYCO23581 (184), NYCO23583 (186), NYCO23584 (187), \nNYCO23585 (188), NYCO23586 (189), \nNYCO23587 (1810), \nNYCO23588 \n(1811), and NYCO23592 (1815). Master Copy. \nCollected On: 08/21/2019 03:00 \nPM EDT \nSeizing Individual: \nCollected By: \nDevice Type: Hard Drive \nUNCLASSIFIED \nThis document contains neither recommendations nor conclusions of the FBI. Ins the property of the FBI and is loaned to your agency; it and its \ncontents arc not to be distributed outside your agency. \nEFTA00015840\n\n90A-NY-3151227 Serial 52 \nUNCLASSIFIED \nTitle: (U) \nSubmission of CART Derivative Evidence NYCO23596 \nRe: 90A-NY-3151227, \n08/22/2019 \nDesignation: Master Copy \nNumber of Devices Collected: 1 \n.• \nUNCLASSIFIED \n2 \nEFTA00015841",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ed By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nCollected From: ("
+      },
+      {
+        "name": "Collected Item",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submiss"
+      },
+      {
+        "name": "Log \nEvent",
+        "role": "extracted",
+        "context": "INVESTIGATION \nCollected Item Log \nEvent Title: (U) Submission of CART"
+      },
+      {
+        "name": "Derivative Date",
+        "role": "extracted",
+        "context": "itle: (U) Submission of CART \nDerivative Date: \n08/22/2019 \nEvidence NYCO23"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "/22/2019 \nEvidence NYCO23596 \nApproved By: \nDrafted By: \nCase ID #: 90A"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "ence NYCO23596 \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227"
+      },
+      {
+        "name": "Collected From",
+        "role": "extracted",
+        "context": "VICTIM; \nDEATH INVESTIGATION \nCollected From: (U) CART-NY \nReceipt Given?:"
+      },
+      {
+        "name": "Receipt Given",
+        "role": "extracted",
+        "context": "Collected From: (U) CART-NY \nReceipt Given?: No \nHolding Office: NEW YOR"
+      },
+      {
+        "name": "No \nHolding",
+        "role": "extracted",
+        "context": "(U) CART-NY \nReceipt Given?: No \nHolding Office: NEW YORK \nDetails: \nS"
+      },
+      {
+        "name": "Derivative Evidence",
+        "role": "extracted",
+        "context": "Details: \nSubmission of CART \nDerivative Evidence NYCO23596: One (1) WD Black 3"
+      },
+      {
+        "name": "Master \nCopy",
+        "role": "extracted",
+        "context": "(1811), and NYCO23592 (1815). Master \nCopy. \nItem \nType \n18 Digital \nDes"
+      },
+      {
+        "name": "Item \nType",
+        "role": "extracted",
+        "context": "O23592 (1815). Master \nCopy. \nItem \nType \n18 Digital \nDescription \n(U)"
+      },
+      {
+        "name": "Digital \nDescription",
+        "role": "extracted",
+        "context": "Master \nCopy. \nItem \nType \n18 Digital \nDescription \n(U) \nOne \n(1) WD Black \n3TB"
+      },
+      {
+        "name": "Master Copy",
+        "role": "extracted",
+        "context": "(1811), and NYCO23592 (1815). Master Copy. \nCollected On: 08/21/2019 03"
+      },
+      {
+        "name": "Collected On",
+        "role": "extracted",
+        "context": "CO23592 (1815). Master Copy. \nCollected On: 08/21/2019 03:00 \nPM EDT \nSe"
+      },
+      {
+        "name": "Seizing Individual",
+        "role": "extracted",
+        "context": "On: 08/21/2019 03:00 \nPM EDT \nSeizing Individual: \nCollected By: \nDevice Type:"
+      },
+      {
+        "name": "Collected By",
+        "role": "extracted",
+        "context": "PM EDT \nSeizing Individual: \nCollected By: \nDevice Type: Hard Drive \nUN"
+      },
+      {
+        "name": "Device Type",
+        "role": "extracted",
+        "context": "g Individual: \nCollected By: \nDevice Type: Hard Drive \nUNCLASSIFIED \nTh"
+      },
+      {
+        "name": "Hard Drive",
+        "role": "extracted",
+        "context": "Collected By: \nDevice Type: Hard Drive \nUNCLASSIFIED \nThis document"
+      },
+      {
+        "name": "Devices Collected",
+        "role": "extracted",
+        "context": "ation: Master Copy \nNumber of Devices Collected: 1 \n.• \nUNCLASSIFIED \n2 \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-22",
+        "event": "08/22/2019"
+      },
+      {
+        "date": "2019-08-21",
+        "event": "08/21/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.606Z"
+}

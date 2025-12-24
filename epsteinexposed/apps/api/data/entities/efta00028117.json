@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028117",
+    "filename": "EFTA00028117.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028117.pdf",
+    "text": "\n\nFrom: \nBee: \"USAHUB-USAJouma1111\" <IMINE> \nSubject: RE: Help with Epstein Privilege Review \nDate: Tue, 03 Nov 2020 15:39:52 +0000 \nEmbedded: RE:_Help_with_Epstein_Privilege_Review.msg \nSende \nSubject: RE: Help with Epstein Privilege Review \nMessage-Id: \n<SN5P110MB0542489BBB4B018BDF6D29E892110@SN5P110MB0542.NAMP110.PROD.OUTLOOK.COM \nTo: \nEFTA00028117",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Privilege",
+        "role": "extracted",
+        "context": "MINE> \nSubject: RE: Help with Epstein Privilege Review \nDate: Tue, 03 Nov 202"
+      },
+      {
+        "name": "Review \nDate",
+        "role": "extracted",
+        "context": ": Help with Epstein Privilege Review \nDate: Tue, 03 Nov 2020 15:39:52 +0"
+      },
+      {
+        "name": "Sende \nSubject",
+        "role": "extracted",
+        "context": "Epstein_Privilege_Review.msg \nSende \nSubject: RE: Help with Epstein Privil"
+      },
+      {
+        "name": "Review \nMessage",
+        "role": "extracted",
+        "context": ": Help with Epstein Privilege Review \nMessage-Id: \n<SN5P110MB0542489BBB4B01"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.659Z"
+}

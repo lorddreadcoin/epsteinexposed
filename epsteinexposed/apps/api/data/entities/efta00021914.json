@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00021914",
+    "filename": "EFTA00021914.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021914.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Fwd: Victim Notification Letters \nDate: Wed, 22 Jul 2020 18:51:23 +0000 \nInline-Images: image001.png \nBegin forwarded message: \nFrom: ' \nDate: July 20, 2020 at 12:56:44 EDT \nTo:\" \nCc: ' \nSubject: Fwd: Victim Notification Letters \nHey IMF will you be in today? I want to discuss the below. \nThanks \nForwarded \nmessage \nFrom: \nDate: Jul 20, 2020 12:54 PM \nSubject: Victim Notification Letters \nTo: \nCc: \nI  have included a list of clients we represent who I  believe have all spoken with the FBI or were identified as victims in \nthe Non-Prosecution Agreement in 2007. Please let me know if any of these names are unfamiliar to you or if you are \nunable to provide a victim notification letter for any of them. \nClaimant First Name I Claimant Last Name \nEFTA00021914\n\nshank you so much for everything you do, \nr\nil\" T1 \nr IL-4 .i. \nEDWARDS \nPOTTINGER LLC \nTrial Attorney \ntort Lauderdale, Florida 33301 \nDirect \nOffice: Facsimile \nwww.epllc.com \nEFTA00021915",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Victim Notification",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: Fwd: Victim Notification Letters \nDate: Wed, 22 Jul 20"
+      },
+      {
+        "name": "Letters \nDate",
+        "role": "extracted",
+        "context": "ect: Fwd: Victim Notification Letters \nDate: Wed, 22 Jul 2020 18:51:23 +0"
+      },
+      {
+        "name": "Letters \nHey",
+        "role": "extracted",
+        "context": "ect: Fwd: Victim Notification Letters \nHey IMF will you be in today? I w"
+      },
+      {
+        "name": "Thanks \nForwarded",
+        "role": "extracted",
+        "context": "I want to discuss the below. \nThanks \nForwarded \nmessage \nFrom: \nDate: Jul 20"
+      },
+      {
+        "name": "Letters \nTo",
+        "role": "extracted",
+        "context": "Subject: Victim Notification Letters \nTo: \nCc: \nI  have included a lis"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "tified as victims in \nthe Non-Prosecution Agreement in 2007. Please let me know i"
+      },
+      {
+        "name": "Claimant First",
+        "role": "extracted",
+        "context": "tion letter for any of them. \nClaimant First Name I Claimant Last Name \nEF"
+      },
+      {
+        "name": "Claimant Last",
+        "role": "extracted",
+        "context": "them. \nClaimant First Name I Claimant Last Name \nEFTA00021914\n\nshank you"
+      },
+      {
+        "name": "Trial Attorney",
+        "role": "extracted",
+        "context": ".i. \nEDWARDS \nPOTTINGER LLC \nTrial Attorney \ntort Lauderdale, Florida 333"
+      },
+      {
+        "name": "Direct \nOffice",
+        "role": "extracted",
+        "context": "rt Lauderdale, Florida 33301 \nDirect \nOffice: Facsimile \nwww.epllc.com \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-20",
+        "event": "July 20, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.673Z"
+}

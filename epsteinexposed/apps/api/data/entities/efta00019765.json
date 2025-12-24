@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019765",
+    "filename": "EFTA00019765.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019765.pdf",
+    "text": "\n\nFrom: \"Miller, Michael\"  \nTo: \n\"-\nCc: \"Martin G. Weinbe \nSubject: Re: US \nv Epstein \nDate: Sat, 10 Aug 2019 18:16:27 +0000 \nThank you \nM. \nMike \nSent from my iPhone \nOn \nAug 10, 2019, at 2:14 PM, \n) < \n> \nwrote: \nFollowing up on the below, wanted to make sure the attached letter from the Warden immediately got to Mike as well \n(in addition to Marty and Reid having been copied and emailed). As the letter indicates, there are now investigations \nongoing, including as initiated by the Attorney General himself. Separately, we have not received additional information \non topics such as the apparent cause of death, the status of observation of Mr. Epstein at the time, etc., but we will \ncontinue to be in touch immediately if that changes. \nthank you, \nFrom: \nSent: Saturday, August 10, 2019 11:57 \nTo: Miller, Michael (fl ; \nMartin G. Weinberg <->; \nWeingarten, Reid \nCc: \n>; \nSubject: Re: US v Epstein \nMike, Marty, Reid, \nFollowing up on my conversations with Mike and Marty this morning, and my discussion with Mike moments \nago, attached is a press release just sent to us (and I believe also issued publicly) some minutes ago. It \nrepresents all the information we have from BOP so far, but of course if we are successful in our continuing \nefforts to get additional information we will pass it along immediately. \nSeparately, we can tell you that the reports that an FBI investigation into the death has been initiated are \naccurate, and I fully expect that investigation to be extremely rigorous. \nAs always please don't hesitate to reach out to us directly at any time if that would be useful. \nthank you, \n<mItC634.pdf> \nEFTA00019765",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "the status of observation of Mr. Epstein at the time, etc., but we"
+      },
+      {
+        "name": "Weinbe \nSubject",
+        "role": "extracted",
+        "context": "ael\"  \nTo: \n\"-\nCc: \"Martin G. Weinbe \nSubject: Re: US \nv Epstein \nDate: Sat"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "G. Weinbe \nSubject: Re: US \nv Epstein \nDate: Sat, 10 Aug 2019 18:16:27 +0"
+      },
+      {
+        "name": "Mike \nSent",
+        "role": "extracted",
+        "context": "8:16:27 +0000 \nThank you \nM. \nMike \nSent from my iPhone \nOn \nAug 10, 2"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "you \nM. \nMike \nSent from my iPhone \nOn \nAug 10, 2019, at 2:14 PM, \n)"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "including as initiated by the Attorney General himself. Separately, we have"
+      },
+      {
+        "name": "Reid \nCc",
+        "role": "extracted",
+        "context": "G. Weinberg <->; \nWeingarten, Reid \nCc: \n>; \nSubject: Re: US v Epste"
+      },
+      {
+        "name": "Epstein \nMike",
+        "role": "extracted",
+        "context": "d \nCc: \n>; \nSubject: Re: US v Epstein \nMike, Marty, Reid, \nFollowing up o"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.538Z"
+}

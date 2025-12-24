@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00013774",
+    "filename": "EFTA00013774.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013774.pdf",
+    "text": "\n\nFrom: \" \n(USARS)\" ic\n> \nTo: \" \n(USAFLS)\" •c>, \"Acosta, Alex (USAFLS)\" \n> \nSubject: \nEpstein \nDate: Fri, 01 Feb 2008 00:33:12 +0000 \nImportance: Normal \nHi and Alex —  We just finished interviewing three of the girls. I wish you could have been there to see how \nmuch this has affected them. \nOne girl broke down sobbing so that we had to stop the interview twice within a 20 minute span. She regained \nher composure enough to continue a short time, but she said that she was having nightmares about Epstein \ncoming after her and she started to break down again, so we stopped the interview. \nThe second girl, who has a baby girl of her own, told us that she was very upset about the 18 month deal she had \nread about in the paper. She said that 18 months was nothing and that she had heard that the girls could get \nrestitution, but she would rather not get any money and have Epstein spend a significant time in jail. \nThe FBI's victim-witness coordinator attended and she has arranged for counseling for several of the girls. \nPlease reach out to to make her decision. These girls deserve so much better than they have received so \nfar, and I  hate feeling that there is nothing I can do to help them. \nWe have four more girls coming in tomorrow. Can I persuade you to attend? \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nEFTA00013774",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Alex (USAFLS)\" \n> \nSubject: \nEpstein \nDate: Fri, 01 Feb 2008 00:33:12 +0"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 00:33:12 +0000 \nImportance: Normal \nHi and Alex —  We just finished"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nEFTA00013774"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.374Z"
+}

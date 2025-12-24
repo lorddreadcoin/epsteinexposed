@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00022344",
+    "filename": "EFTA00022344.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022344.pdf",
+    "text": "\n\nFrom: '  (NY) (FBI)\" \nTo:'\n)\" < \nCc: ' \"  \nSubject: Re: Epstein search warrant documents \nDate: Thu, 04 Jun 2020 17:10:00 +0000 \nAttachments: All_NY_seizure_evidence.xlsx \nHey \nWanted to get this to you. This spreadsheet contains all evidence seized in NY. Let me know if you have any \nissues/concerns. \nThanks, \nFrom: \nSent: Wednesday, June 3, 2020 9:37 AM \nTo: \nCc: \nSubject: RE: Epstein search warrant documents \n(NY) (FBI) \nNo \nproblem—totally understood. Be safe. \nFrom: \nSent: Wednesday, June 3, 2020 2:15 AM \nTo: \nCc: \nSubject: Re: Epstein search warrant documents \nHey \n>; \n>; \n(NY) (FBI) <> \nBoth myself and were pulled this week to assist with the riots and looting currently happening in \nManhattan. Hopefully this does not go on for too long. When we return to the office we will be sure to fill in \nthose blanks for you and hopefully, once again get back on track. \nBe safe. \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force \nEFTA00022344\n\nFrom: \nSent: Tuesday, June 2, 2020 2:18 PM \nTo: \nCc: \nSubject: \nFW: \nEpstein search warrant documents \nHi and \n(NY) (FBI) c> \nAny chance you'd be able to help fill in the attached chart with the specific location in the NY mansion where each device \nwas recovered (similar to the chart you sent me for the USVI devices), please? Once I get that, I can put together the \nrevised warrant. \nThanks, \nEFTA00022345",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nWanted",
+        "role": "extracted",
+        "context": "All_NY_seizure_evidence.xlsx \nHey \nWanted to get this to you. This spre"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "afe. \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "PD /  FBI \nChild Exploitation Human Trafficking Task Force \nEFTA00022344\n\nFro"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nEFTA00022344\n\nFrom: \nSent: T"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-03",
+        "event": "June 3, 2020"
+      },
+      {
+        "date": "2020-06-02",
+        "event": "June 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.662Z"
+}

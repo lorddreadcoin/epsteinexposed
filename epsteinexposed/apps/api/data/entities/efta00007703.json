@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00007703",
+    "filename": "EFTA00007703.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007703.pdf",
+    "text": "\n\nShelf \nOne \nAll \nVitamins \nShelf \nTwo \nPain \nRelief \n■ \nAdvil \n• \nAleve \n■ \nAspirin \n• \nMotrin \n■ \nExcedrin \n■ \nSintutab \n■ \nTylenol \nColds, \nCough, \nFlu, \nSore \nthroat \n■ \nCepacol \n-\n• \nAdvil \ncold \n& \nsinus \n■ \nContac \n■ \nChildren's \nDimetapp \nsyrup \n• \nDimetapp \n■ \nHalls \ncough \nsweets \n• \nSucrets \nthroat \nlozenges \n■ \nRobitussin \n(Guaifenesiai \nsyrup) \n• \nRobitussin \nCF \ncough \nsyrup \n• \nRobitussin \ncough \nsweets \n• \nTheraflu \nfl\nu, \ncold \n& \ncough \n• \nTylenol \ncold \nsevere \ncongestion \ncapsules \n• \nTylenol \nflu \ngel \ncaps \n• \nSucrets \n■ \nSudafed \n■ \nVicks \nchloraseptic \n(sore \nthroat) \n• \nVicks \nDay \nquill \n• \nVicks \nNyquil \nStomach \n. \n. \n■ \nAcidil \n■ \nExlax \n• \nGas \nX \n• \nlmodium \n• \nLaxative \ntable \n• \nPepto-Bism \n• \nPhilips \nMi \n■ \niRolaids \n• \n• \n■ \nPe \n■ \nFl \nVarious \nModica \nona \n■ \nAnti \nbacte \nsolution \n■ \nAntifungal \ncream \n■ \nBlistex \n■ \nDouche \n• \nDramamine \n• \nCalendula \n■ \nFungus \ncream \n• \nLamisil \n■ \nNytol \n(difficulty \nin \nsleeping) \n■ \nMouth \nsore \nmedication \n■ \nMonostat \n7 \n■ \nMycelex \n3 \n■ \nTemporary \ntooth \nsaver \n■ \nVadisil \n■ \nVisene \neye \nwash \n• \nZinc \noxide \nointment \nShelf \nThree \nPain/Antibiotic/Foot \nmedication \nexternal \n• \nArnica \ngel \n• \nBactine \nAntiseptic \ncream \n• \nBengay \n• \nBio \nFreeze \n▪ \nVicks \nVapoRub \n• \nFungus \ncream \n■ \nLamisil \n(athletes \nfoot) \n• \nLotrimin \n(foot \ncream) \n• \nNeosgorin \nantibiotic \nointment \nShelf \nFour \nFirst \nAid/Itch \ntreatment \n• \nBreath \nRight \n■ \nCalamine \nlotion \n• \nFirst \naid \nspray \n• \nInsect \nrepellant \n▪ \nInsect \nrepellant \nwrist \nbands \n▪ \nItch \ncream \n■ \nAlcohol \nwipes \n■ \nBand \naids \n■ \nCotton \nballs \n• \nSupport \n■ \nSurgi \nEFTA00007703",
+    "pageCount": 1,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Shelf \nOne",
+        "role": "extracted",
+        "context": "Shelf \nOne \nAll \nVitamins \nShelf \nTwo \nP"
+      },
+      {
+        "name": "All \nVitamins",
+        "role": "extracted",
+        "context": "Shelf \nOne \nAll \nVitamins \nShelf \nTwo \nPain \nRelief \n■"
+      },
+      {
+        "name": "Shelf \nTwo",
+        "role": "extracted",
+        "context": "Shelf \nOne \nAll \nVitamins \nShelf \nTwo \nPain \nRelief \n■ \nAdvil \n• \nA"
+      },
+      {
+        "name": "Pain \nRelief",
+        "role": "extracted",
+        "context": "e \nAll \nVitamins \nShelf \nTwo \nPain \nRelief \n■ \nAdvil \n• \nAleve \n■ \nAspir"
+      },
+      {
+        "name": "Tylenol \nColds",
+        "role": "extracted",
+        "context": "■ \nExcedrin \n■ \nSintutab \n■ \nTylenol \nColds, \nCough, \nFlu, \nSore \nthroat"
+      },
+      {
+        "name": "Vicks \nDay",
+        "role": "extracted",
+        "context": "oraseptic \n(sore \nthroat) \n• \nVicks \nDay \nquill \n• \nVicks \nNyquil \nSto"
+      },
+      {
+        "name": "Vicks \nNyquil",
+        "role": "extracted",
+        "context": "at) \n• \nVicks \nDay \nquill \n• \nVicks \nNyquil \nStomach \n. \n. \n■ \nAcidil \n■"
+      },
+      {
+        "name": "Philips \nMi",
+        "role": "extracted",
+        "context": "ive \ntable \n• \nPepto-Bism \n• \nPhilips \nMi \n■ \niRolaids \n• \n• \n■ \nPe \n■"
+      },
+      {
+        "name": "Fl \nVarious",
+        "role": "extracted",
+        "context": "■ \niRolaids \n• \n• \n■ \nPe \n■ \nFl \nVarious \nModica \nona \n■ \nAnti \nbacte"
+      },
+      {
+        "name": "Shelf \nThree",
+        "role": "extracted",
+        "context": "sh \n• \nZinc \noxide \nointment \nShelf \nThree \nPain/Antibiotic/Foot \nmedica"
+      },
+      {
+        "name": "Bactine \nAntiseptic",
+        "role": "extracted",
+        "context": "external \n• \nArnica \ngel \n• \nBactine \nAntiseptic \ncream \n• \nBengay \n• \nBio \nFr"
+      },
+      {
+        "name": "Bio \nFreeze",
+        "role": "extracted",
+        "context": "iseptic \ncream \n• \nBengay \n• \nBio \nFreeze \n▪ \nVicks \nVapoRub \n• \nFungus"
+      },
+      {
+        "name": "Vicks \nVapo",
+        "role": "extracted",
+        "context": "• \nBengay \n• \nBio \nFreeze \n▪ \nVicks \nVapoRub \n• \nFungus \ncream \n■ \nLami"
+      },
+      {
+        "name": "Shelf \nFour",
+        "role": "extracted",
+        "context": "sgorin \nantibiotic \nointment \nShelf \nFour \nFirst \nAid/Itch \ntreatment"
+      },
+      {
+        "name": "First \nAid",
+        "role": "extracted",
+        "context": "iotic \nointment \nShelf \nFour \nFirst \nAid/Itch \ntreatment \n• \nBreath \nR"
+      },
+      {
+        "name": "Breath \nRight",
+        "role": "extracted",
+        "context": "irst \nAid/Itch \ntreatment \n• \nBreath \nRight \n■ \nCalamine \nlotion \n• \nFirs"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.216Z"
+}

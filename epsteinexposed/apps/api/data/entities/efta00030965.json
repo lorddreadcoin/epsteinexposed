@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030965",
+    "filename": "EFTA00030965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030965.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: \nDate: Mon, 19 Aug 2019 22:47:22 +0000 \nAttachments: \nMr. Figgins, \nThank you for speaking with us earlier. Attached please find the grand jury subpoena directed to your client, \nPlease contact us with any questions. \nRegards, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00030965",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Figgins",
+        "role": "extracted",
+        "context": "22:47:22 +0000 \nAttachments: \nMr. Figgins, \nThank you for speaking"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ith any questions. \nRegards, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": ". \nRegards, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.133Z"
+}

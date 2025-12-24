@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00013720",
+    "filename": "EFTA00013720.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013720.pdf",
+    "text": "\n\nFrom: \" \n(USAFIS)\" <\n' \nTo: \" USAFLS)\" c> \nSubject: Epstein thought \nDate: Thu, 20 Dec 2007 13:35:09 +0000 \nImportance: Normal \nHi M- Only one obsessive thought last night. When you talk to Lanna, you might want to convince her that \n(assuming she agrees with my analysis) the evidence in the state case is enough to support the charge, especially \nthe taped statement of and others who talked about recruiting other girls. I definitely do not want \nEpstein's camp to use this as an excuse to view all of our evidence, then withdraw from the plea, and then go to \ntrial. \nThanks. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone 561 \n209\nFax 561 \n820-8777 \nEFTA00013720",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "7 13:35:09 +0000 \nImportance: Normal \nHi M- Only one obsessive thought"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone 561 \n2"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.239Z"
+}

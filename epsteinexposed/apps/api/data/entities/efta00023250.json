@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023250",
+    "filename": "EFTA00023250.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023250.pdf",
+    "text": "\n\nFrom: \" (USANYS)\" < > \nTo: \" \n)\" \nSubject: Accepted: Maxwell - Discuss Images from Epstein Devices \nDate: Fri, 16 Oct 2020 02:00:28 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00023250",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Discuss Images",
+        "role": "extracted",
+        "context": "Subject: Accepted: Maxwell - Discuss Images from Epstein Devices \nDate: F"
+      },
+      {
+        "name": "Epstein Devices",
+        "role": "extracted",
+        "context": "Maxwell - Discuss Images from Epstein Devices \nDate: Fri, 16 Oct 2020 02:00"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 02:00:28 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00023250"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.551Z"
+}

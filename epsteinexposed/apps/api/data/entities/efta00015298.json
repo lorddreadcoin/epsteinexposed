@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00015298",
+    "filename": "EFTA00015298.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015298.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: \"Berman, Geoffrey \n(USANYS)\" \nCc: \nSubject: Re: Epstein \nDate: Sat, 10 Aug 2019 12:43:05 +0000 \nThey've been calling BOP and no one answers. If anyone has a good contact there, just let us know. Thanks \nI'm nearby the office if anyone needs me. \nSent from my iPhone \n> On Aug 10, 2019, at 8:38 AM, Berman, Geoffrey (USANYS) a \nwrote: \n> BOP \n>> On Aug 10, 2019, at 8:31 AM, wrote: \n>> Can we confirm to the press? Or should we refer them to BOP? \n>>> On Aug 10, 2019, at 8:24 AM, Berman, Geoffrey \n(USANYS) a wrote: \n>>> \n>>> I just got a call from that Epstein committed suicide this morning. He died on the way to the \nhospital. \nEFTA00015298",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "(USANYS)\" \nCc: \nSubject: Re: Epstein \nDate: Sat, 10 Aug 2019 12:43:05 +0"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "s me. \nSent from my iPhone \n> On Aug 10, 2019, at 8:38 AM, Berman,"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.409Z"
+}

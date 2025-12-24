@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00028774",
+    "filename": "EFTA00028774.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028774.pdf",
+    "text": "\n\nFrom: ' (US /1/4 NYS)\" \nTo: \" \n \" \n\" \nCc: ' (USANYS) \n[Contractor]\n„\n • \nSubject: Maxwell VW Page \nDate: Thu, 16 Jul 2020 01:48:57 +0000 \nShould we be updating to the page to reflect yesterday's hearing and order? Let me know if this works: \nJuly 14, 2019 \nupdate: \nOn July 14, 2019, the initial conference, arraignment, and bail hearing were held in the case of United States v. \nGhislaine Maxwell, 20 Cr. 330 (MN). The defendant entered a plea of not guilty to the Superseding Indictment. The \ncourt announced its ruling that the defendant will be incarcerated pending trial. The Court scheduled discovery and \nmotion deadlines for counsel as well as trial date for July 12, 2021, before the Honorable Alison J. Nathan, United \nStates District Judge for the Southern District of New York, Thurgood Marshall United States Courthouse, 4o Foley \nSquare, New York, New York, in Courtroom 906. \nSent from my iPad \nEFTA00028774",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "earing were held in the case of United States v. \nGhislaine Maxwell, 20 Cr. 330 (MN). The defendant entered a plea of"
+      },
+      {
+        "name": "Page \nDate",
+        "role": "extracted",
+        "context": "or]\n„\n • \nSubject: Maxwell VW Page \nDate: Thu, 16 Jul 2020 01:48:57 +0"
+      },
+      {
+        "name": "On July",
+        "role": "extracted",
+        "context": "rks: \nJuly 14, 2019 \nupdate: \nOn July 14, 2019, the initial confere"
+      },
+      {
+        "name": "Superseding Indictment",
+        "role": "extracted",
+        "context": "d a plea of not guilty to the Superseding Indictment. The \ncourt announced its rul"
+      },
+      {
+        "name": "Honorable Alison",
+        "role": "extracted",
+        "context": "for July 12, 2021, before the Honorable Alison J. Nathan, United \nStates Dis"
+      },
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "e Honorable Alison J. Nathan, United \nStates District Judge for the Southe"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "son J. Nathan, United \nStates District Judge for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "States District Judge for the Southern District of New York, Thurgood Marshal"
+      },
+      {
+        "name": "Thurgood Marshall",
+        "role": "extracted",
+        "context": "outhern District of New York, Thurgood Marshall United States Courthouse, 4o"
+      },
+      {
+        "name": "Foley \nSquare",
+        "role": "extracted",
+        "context": "United States Courthouse, 4o Foley \nSquare, New York, New York, in Court"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-14",
+        "event": "July 14, 2019"
+      },
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.933Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027305",
+    "filename": "EFTA00027305.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027305.pdf",
+    "text": "\n\nFrom: \"=a \nTo: \nCc: \nSubject: Request re Maxwell Laptop \nDate: Tue, 10 Aug 2021 20:27:34 +0000 \nHope you're doing well. Ghislaine Maxwell's attorney has informed me that Maxwell is having difficulty reviewing the \nportions of her discovery that include audio recordings on the laptop my office provided for her use. The attorney seems \nto think that the issue can be fixed if someone from MDC's IT department could assist Maxwell in enabling the audio jack \nso that Maxwell can use headphones to listen to the recordings. Would it be possible to ask someone from IT to please \nlook into this issue? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nM6 \nEFTA00027305",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Aug 2021 20:27:34 +0000 \nHope you're doing well. Ghislaine Maxwell's attorney has informed me that Maxwell is having"
+      },
+      {
+        "name": "Maxwell Laptop",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: Request re Maxwell Laptop \nDate: Tue, 10 Aug 2021 20:27"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "is issue? \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.964Z"
+}

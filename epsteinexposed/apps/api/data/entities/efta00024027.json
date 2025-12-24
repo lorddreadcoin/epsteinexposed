@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00024027",
+    "filename": "EFTA00024027.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024027.pdf",
+    "text": "\n\nFrom: \")\" \nTo:' \nala> \nSubject: FW: GM \nSuppression Replies \nDate: Wed, 17 Mar 2021 15:32:26 +0000 \nAttachments: !Reply_Memo_of Law_ISO_Motion_to_Suppress_Evidence_Obtained_from_BSF_Subpoe \nnajUnredacted).pdf; \n!Reply_Memo_of Law_ISO_Motion_to_Suppress_BSF_Subpoena_Under 4A,_5A,Martin \ndell.pdf \nFrom: (USANYS)\nSent: Tuesday, March 16, 2021 7:40 PM \nTo: \nSubject: GM Suppression \nReplies \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00024027",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Suppression Replies",
+        "role": "extracted",
+        "context": "To:' \nala> \nSubject: FW: GM \nSuppression Replies \nDate: Wed, 17 Mar 2021 15:32"
+      },
+      {
+        "name": "Suppression \nReplies",
+        "role": "extracted",
+        "context": "021 7:40 PM \nTo: \nSubject: GM Suppression \nReplies \nAssistant United States Atto"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ect: GM Suppression \nReplies \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "on \nReplies \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-16",
+        "event": "March 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.121Z"
+}

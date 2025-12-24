@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00019858",
+    "filename": "EFTA00019858.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019858.pdf",
+    "text": "\n\nFrom: \nTo: (USANYS) [Contractor]\"  \nContractor)\" \nIINIMIISPa> \nCc: \"I \nSubject: RE: quick disc burn for agents \nDate: Tue, 06 Aug 2019 14:50:22 +0000 \nPassword, I mean, not address. \nI need to get some sleep (after my trial). \nFrom: \nSent: Tuesday, August 06, 2019 10:48 \nTo: (USANYS) [Contractor) .ic> \nCc: \nSubject: RE: quick disc burn for agents \nThat's correct, thanks -  I'll let them know it's there and tell them the address \nFrom: (USANYS) [Contractor] \nSent: Tuesday, August 06, 2019 10:25 \nTo: \nCc: \nc\nM>; \nSubject: RE: quick disc burn for agents \nOkay! About to put it downstairs. It is just one envelope addressed to both of them - is that correct? \nAlso the password is USAO_sdny2018! \n[Contractor) \n[Contractor] \nFrom: \nSent: Monday, August 5, 2019 11:50 PM \nTo: ) [Contractor \n< \nCc: \nc; \nSubject: quick disc burn for agents \n(USANYS) [Contractor] \nHey, tomorrow (Tuesday) morning could one of you please burn a disc for the agents on Epstein with the materials in the \nFourth Production and Fifth Production folders here: \nUsa.doj.gov\\ clouANYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationV4 2018 SDNY investigation \\Subpoena \nReturns \\ Deutsche Bank \nAnd put it in an envelope downstairs for: \nFBI Special Agent \nDetective \nEFTA00019858\n\nand let us know when it's all set and we'll tell them they can pick up? Thank you! \nAssistant U.S. Attorney \n• f New York \nEFTA00019859",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fourth Production",
+        "role": "extracted",
+        "context": "in with the materials in the \nFourth Production and Fifth Production folders"
+      },
+      {
+        "name": "Fifth Production",
+        "role": "extracted",
+        "context": "in the \nFourth Production and Fifth Production folders here: \nUsa.doj.gov\\ c"
+      },
+      {
+        "name": "Subpoena \nReturns",
+        "role": "extracted",
+        "context": "onV4 2018 SDNY investigation \\Subpoena \nReturns \\ Deutsche Bank \nAnd put it i"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "tigation \\Subpoena \nReturns \\ Deutsche Bank \nAnd put it in an envelope do"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "envelope downstairs for: \nFBI Special Agent \nDetective \nEFTA00019858\n\nand"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-06",
+        "event": "August 06, 2019"
+      },
+      {
+        "date": "2019-08-05",
+        "event": "August 5, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.718Z"
+}

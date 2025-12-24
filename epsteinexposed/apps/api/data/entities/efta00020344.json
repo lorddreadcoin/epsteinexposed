@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020344",
+    "filename": "EFTA00020344.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020344.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein/Austria \nDate: Mon, 22 Jul 2019 17:58:15 +0000 \nImportance: High \n—  Legat info \nbelow: \nOIA also works closely with Alat \nFrom: (USANYS) \nSent: Monday, July 22, 2019 12:36 PM \nTo: \nCc: \nSubject: RE: Epstein/ Austria \nHi —  do you have a  few minutes to chat about it? I am free until 2 and again from 330-430, or most of tomorrow. \nThanks, \nFrom: \nSent: Monday, July 22, 2019 12:28 PM \nTo: \nCc: \nSubject: Epstein/ Austria \nThe Austrian Embassy has just contacted me to ask whether they can be provided \ninformation regarding the alleged Austrian passport that Epstein had in his possession. Is there \nanything we can share in this regard? Thanks, \nEFTA00020344",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Austria \nDate",
+        "role": "extracted",
+        "context": "o: \nCc: \nSubject: RE: Epstein/Austria \nDate: Mon, 22 Jul 2019 17:58:15 +0"
+      },
+      {
+        "name": "Alat \nFrom",
+        "role": "extracted",
+        "context": "OIA also works closely with Alat \nFrom: (USANYS) \nSent: Monday, July"
+      },
+      {
+        "name": "Austria \nHi",
+        "role": "extracted",
+        "context": ": \nCc: \nSubject: RE: Epstein/ Austria \nHi —  do you have a  few minutes"
+      },
+      {
+        "name": "Austria \nThe",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: Epstein/ Austria \nThe Austrian Embassy has just con"
+      },
+      {
+        "name": "Austrian Embassy",
+        "role": "extracted",
+        "context": "ubject: Epstein/ Austria \nThe Austrian Embassy has just contacted me to ask"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-22",
+        "event": "July 22, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.672Z"
+}

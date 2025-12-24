@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018084",
+    "filename": "EFTA00018084.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018084.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBee: \nSubject: RE: Ghislaine Maxwell (02879-509) \nDate: Mon, 02 Nov 2020 16:21:40 +0000 \nEmbedded: RELGhislaine_Maxwell_(02879-509).msg \nSender \nSubject: RE: Ginslame Maxwell \n(02879-509) \nMessale-1d: \nTo: \nTo: \nCc: \nCc: \nEFTA00018084",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nBee: \nSubject: RE: Ghislaine Maxwell (02879-509) \nDate: Mon, 02 Nov 2020 16:21:40 +000"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "aine_Maxwell_(02879-509).msg \nSender \nSubject: RE: Ginslame Maxwell \n(02879"
+      },
+      {
+        "name": "Ginslame Maxwell",
+        "role": "extracted",
+        "context": "09).msg \nSender \nSubject: RE: Ginslame Maxwell \n(02879-509) \nMessale-1d: \nTo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.142Z"
+}

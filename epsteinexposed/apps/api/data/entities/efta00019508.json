@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00019508",
+    "filename": "EFTA00019508.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019508.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Mil, \nCc: \n(USANYS)\" \nSubject: Re: Epstein \nDate: Mon, 10 Dec 2018 18:54:43 +0000 \nAttachments: \nE-Justice_SOMU_profile.pdf \n(NY) (FBI)\" \nSee attached SOMU records. \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force \nFrom: (USANYS) \n< \nSent: Monday, December 10, 2018 12:47:40 \nPM \nTo: \nCc: \nSubject: Re: Epstein \nI. (NY) (FBI); \n> \nCan we chat after 2? Otherwise go ahead without me and \nwill \ncatch me up. you are going to have to change your \nname! \nSent from my iPhone \nOn Dec 10, 2018, at 12:46 PM,> wrote: \nWe are available now if you would like to call but I am on the mad so you will have to conference us in separately. \nOn Dec 10, 2018, at 12:12, MIMI) <=1.cmailto:a> wrote: \n• and \nAny chance you're free for a brief call this afternoon? We wanted to touch base about a few items. I'm sure you're both \nvery busy in preparation for Wednesday, so we promise to keep it short. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00019508",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\" \nSubject: Re: Epstein \nDate: Mon, 10 Dec 2018 18:54:43 +0"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "ords. \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human Trafficking Task Force \nFrom: (USANYS) \n<"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nFrom: (USANYS) \n< \nSent: Mon"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ge your \nname! \nSent from my iPhone \nOn Dec 10, 2018, at 12:46 PM,> w"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "conference us in separately. \nOn Dec 10, 2018, at 12:12, MIMI) <=1"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e to keep it short. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00019508"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-10",
+        "event": "December 10, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.040Z"
+}

@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00013963",
+    "filename": "EFTA00013963.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013963.pdf",
+    "text": "\n\nFrom: Roy BLACK\nTo: ' (USAFLS)\" \nSubject: Re: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 18:37:49 +0000 \nImportance: Normal \nOk. I am on the road in california and can call in about an how or so. \n----Original Message \nFrom: (USAFLS)\"\nTo: Roy BLACK \nSent: 7/30/2008 2:31:56 PM \nSubject: RE: Jeffrey Epstein \nHi Roy -- It relates to the performance of the criminal Non-Prosecution Agreement. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \n-----Original Message----\nFrom: Roy BLACK [mailto: \nSent: Wednesday, July 30, 2008 1:18 PM \nTo: (USAFLS) \nSubject: Re: Jeffrey Epstein \nI am out of town. What is it about? \n>>> ' (USAFLS)\" < \n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this afternoon to discuss the Epstein \nmatter? Please let me know what time works best for you. \nThank you. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013963",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: Roy BLACK\nTo: ' (USAFLS)\" \nSubject: Re: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 18:37:49 +0000 \nImportanc"
+      },
+      {
+        "name": "Normal \nOk",
+        "role": "extracted",
+        "context": "8 18:37:49 +0000 \nImportance: Normal \nOk. I am on the road in californ"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "l in about an how or so. \n----Original Message \nFrom: (USAFLS)\"\nTo: Roy BLAC"
+      },
+      {
+        "name": "Hi Roy",
+        "role": "extracted",
+        "context": "Subject: RE: Jeffrey Epstein \nHi Roy -- It relates to the performa"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "rformance of the criminal Non-Prosecution Agreement. \nAssistant U.S. Attorney \n50"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \n-----Original Message----\nFr"
+      },
+      {
+        "name": "Dear Roy",
+        "role": "extracted",
+        "context": "S)\" < \n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this after"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-30",
+        "event": "7/30/2008"
+      },
+      {
+        "date": "2008-07-30",
+        "event": "July 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.832Z"
+}

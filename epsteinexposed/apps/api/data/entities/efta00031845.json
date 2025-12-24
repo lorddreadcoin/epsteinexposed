@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00031845",
+    "filename": "EFTA00031845.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031845.pdf",
+    "text": "\n\nFrom: '  \nc \nTo: \nCc: '   (NY) (FBI)\" <I \nSubject: FW: Application for Search Warrant \nDate: Thu, 25 Jun 2020 20:59:35 +0000 \nAttachments: ILApplication_&_Affidavit_for SW_for_all_JE_electronic_devices.pdf; 2)_Warrant.pdf \n[=. \nAttached is the final version of the affidavit. I'll let you know when the Judge wants to swear it out. \nFrom: \nSent: Thursday, June 25, 2020 4:58 PM \nTo: \nCc: \nSubject: Application for Search Warrant \nC\n>: \nGood afternoon, \n) <\n> \nAttached for Judge Gorenstein's review please find an application for a search warrant, as well as a proposed warrant. \nThe agent is available to swear out this warrant tomorrow morning whenever would be convenient for the Court. I can be \nreached on my cellphone at \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00031845",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "Subject: FW: Application for Search Warrant \nDate: Thu, 25 Jun 2020 20:59"
+      },
+      {
+        "name": "Judge Gorenstein",
+        "role": "extracted",
+        "context": "ternoon, \n) <\n> \nAttached for Judge Gorenstein's review please find an appli"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "at \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00031845"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-25",
+        "event": "June 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.024Z"
+}

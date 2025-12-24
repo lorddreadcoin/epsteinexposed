@@ -1,0 +1,109 @@
+{
+  "document": {
+    "id": "efta00015088",
+    "filename": "EFTA00015088.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015088.pdf",
+    "text": "\n\n10J6/21, 12:59 PM \nIII/FBWStale \nDelayed Response \nAdditional Inquiry \nResponse \nORI: NYFBINY00 \nFederal Bureau of Investigation - New York \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210. Tel: l-800-262-DCJS \nMichael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services \n•  III Information \n* \nThe following information is provided in response to your request for a III search from the State of New York based on: \nThe information in this \nrap sheet is subject to the following caveats: \nMulti-Source - Subject has information maintained by other states or in \nmultiple NYS files maintained by the FBI available thr \nInterstate Identification Index. \nRefer to FBI Number: (New \nYork State Department Of Criminal Justices; 2021-10-06) \nSentencing - Where an individual is sentenced June 1, 1981 or later on \nmore than one charge within a docket, the sentence may be considered to \nbe \nconcurrent unless identified as \nconsecutive. \n(New York \nState \nDepartment Of Criminal \nJustices; 2021-10-06) \n**************************Ii \nIDENTIFICATION \n*************************** \n112 \nEFTA00015088\n\n10/6/21, 12:59 \nPM \nIII/FBI/State Delayed \nResponse \n************************** CRIMINAL HISTORY ************************** \n* *  END OF RECORD \n2,2 \nEFTA00015089",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Stale \nDelayed",
+        "role": "extracted",
+        "context": "10J6/21, 12:59 PM \nIII/FBWStale \nDelayed Response \nAdditional Inquiry"
+      },
+      {
+        "name": "Response \nAdditional",
+        "role": "extracted",
+        "context": ":59 PM \nIII/FBWStale \nDelayed Response \nAdditional Inquiry \nResponse \nORI: NYFBI"
+      },
+      {
+        "name": "Inquiry \nResponse",
+        "role": "extracted",
+        "context": "Delayed Response \nAdditional Inquiry \nResponse \nORI: NYFBINY00 \nFederal Bure"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "ry \nResponse \nORI: NYFBINY00 \nFederal Bureau of Investigation - New York"
+      },
+      {
+        "name": "State Division",
+        "role": "extracted",
+        "context": "tigation - New York \nNew York State Division of Criminal Justice Services"
+      },
+      {
+        "name": "Criminal Justice",
+        "role": "extracted",
+        "context": "k \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Bui"
+      },
+      {
+        "name": "Services \nAlfred",
+        "role": "extracted",
+        "context": "Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South S"
+      },
+      {
+        "name": "Smith Building",
+        "role": "extracted",
+        "context": "l Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, N"
+      },
+      {
+        "name": "South Swan",
+        "role": "extracted",
+        "context": "Alfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210."
+      },
+      {
+        "name": "Executive Deputy",
+        "role": "extracted",
+        "context": "00-262-DCJS \nMichael C.Green, Executive Deputy Commissioner of the NYS Divis"
+      },
+      {
+        "name": "Interstate Identification",
+        "role": "extracted",
+        "context": "ned by the FBI available thr \nInterstate Identification Index. \nRefer to FBI Number:"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "Index. \nRefer to FBI Number: (New \nYork State Department Of Criminal"
+      },
+      {
+        "name": "State Department",
+        "role": "extracted",
+        "context": "fer to FBI Number: (New \nYork State Department Of Criminal Justices; 2021-10"
+      },
+      {
+        "name": "Of Criminal",
+        "role": "extracted",
+        "context": ": (New \nYork State Department Of Criminal Justices; 2021-10-06) \nSenten"
+      },
+      {
+        "name": "State \nDepartment",
+        "role": "extracted",
+        "context": "as \nconsecutive. \n(New York \nState \nDepartment Of Criminal \nJustices; 2021-1"
+      },
+      {
+        "name": "State Delayed",
+        "role": "extracted",
+        "context": "10/6/21, 12:59 \nPM \nIII/FBI/State Delayed \nResponse \n******************"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-06",
+        "event": "2021-10-06"
+      },
+      {
+        "date": "1981-06-01",
+        "event": "June 1, 1981"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.048Z"
+}

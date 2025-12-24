@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00027926",
+    "filename": "EFTA00027926.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027926.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: \"Berman, Geoffrey (USANYS)\" .<1 \nCc: ' (USANYS)\"  \nSubject: RE: Briefings \nDate: Wed, 20 Feb 2019 23:25:51 +0000 \nImportance: Normal \nFrom: Berman, Geoffrey (USANYS) \nSent: Tuesday, February 19, 2019 6:31 PM \nTo: (USANYS) \n<\nCc (USANYS) \n(USANYS) >; \nSubject: Re: Briefings \nYou can leave off Epstein \nOn Feb 19, 2019, at 6:23 PM, (USANYS) < \n(USANYS) \n(USANYS) < \n>; \n> \nwrote: \nI have asked the teams to get detailed briefing memos by tomorrow, and will turn them to you by Thursday \nmorning, on the following: \n- Epstein \nIf there's anything else you'd like to include— let us know. \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nEFTA00027926",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Briefings \nDate",
+        "role": "extracted",
+        "context": "c: ' (USANYS)\"  \nSubject: RE: Briefings \nDate: Wed, 20 Feb 2019 23:25:51 +0"
+      },
+      {
+        "name": "Normal \nFrom",
+        "role": "extracted",
+        "context": "9 23:25:51 +0000 \nImportance: Normal \nFrom: Berman, Geoffrey (USANYS) \nS"
+      },
+      {
+        "name": "Briefings \nYou",
+        "role": "extracted",
+        "context": "S) \n(USANYS) >; \nSubject: Re: Briefings \nYou can leave off Epstein \nOn Feb"
+      },
+      {
+        "name": "Epstein \nOn",
+        "role": "extracted",
+        "context": "Briefings \nYou can leave off Epstein \nOn Feb 19, 2019, at 6:23 PM, (US"
+      },
+      {
+        "name": "Epstein \nIf",
+        "role": "extracted",
+        "context": "morning, on the following: \n- Epstein \nIf there's anything else you'd l"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "ike to include— let us know. \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "e— let us know. \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-19",
+        "event": "February 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.277Z"
+}

@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00015348",
+    "filename": "EFTA00015348.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015348.pdf",
+    "text": "\n\nFrom: \nS)' \nSubject: DRAFT SDNY PRESS GUIDANCE FOR MONDAY, JULY 15, 2019 \nDate: Fri, 12 Jul 2019 20:37:19 +0000 \nImportance: Normal \nAttachments: Jeffrey_Epstein_indictment_PR.pdf \nInline-Images: image001.png \nChiefs, \nEFTA00015348\n\nBelow is Monday's draft guidance. Please review and let us know if  we need to make \nany edits. \nThanks—and have a great weekend!! \nThe Press Office \nUNITED STATES ATTORNEY'S OFFICE \nSouthern District of New \nYork \nPRESS GUIDANCE \nMonday, July 15, 2019 \nPROCEEDINGS AND EVENTS \n10:00 a.m. —  Detention hearing in U.S. v. Jeffrey Epstein —  the defendant is charged with sex trafficking of \nminors and conspiracy to commit sex trafficking of minors —  before Judge Berman (courtroom 17B, 500 Pearl \nStreet). A relevant press release is attached. \nNIGHT DUTY OFFICER \nFollow us on Facebook I Follow us on Twitter I SDNY website I YouTube \n*** FOR PLANNING PURPOSES ONLY *** \nDO NOT REPLY TO THIS MESSAGE. IF YOU HAVE UESTIONS, PLEASE CALL THE PRESS \nOFFICE A \nEFTA00015349",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "VENTS \n10:00 a.m. —  Detention hearing in U.S. v. Jeffrey Epstein —  the defendant is charged with sex trafficking"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 20:37:19 +0000 \nImportance: Normal \nAttachments: Jeffrey_Epstein_indictment_P"
+      },
+      {
+        "name": "The Press",
+        "role": "extracted",
+        "context": "s—and have a great weekend!! \nThe Press Office \nUNITED STATES ATTORNE"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "TED STATES ATTORNEY'S OFFICE \nSouthern District of New \nYork \nPRESS GUIDANCE"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "OFFICE \nSouthern District of New \nYork \nPRESS GUIDANCE \nMonday, July"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "afficking of minors —  before Judge Berman (courtroom 17B, 500 Pearl \nSt"
+      },
+      {
+        "name": "Pearl \nStreet",
+        "role": "extracted",
+        "context": "ge Berman (courtroom 17B, 500 Pearl \nStreet). A relevant press release is"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-15",
+        "event": "JULY 15, 2019"
+      },
+      {
+        "date": "2019-07-15",
+        "event": "July 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.495Z"
+}

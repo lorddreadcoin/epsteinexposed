@@ -1,0 +1,66 @@
+{
+  "document": {
+    "id": "efta00021072",
+    "filename": "EFTA00021072.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021072.pdf",
+    "text": "\n\nEvent: Call re Epstein \nStart Date: 2020-01-23 20:00:00 +0000 \nEnd Date: 2020-01-23 20:30:00 +0000 \nOrganizer: The Bloom Firm <marcelino@thebloomfirm.com> \nLocation: 818-405-0476 \nAttendee: teri@thebloomfirm.com <teri@thebloornfirm.com>; colleen@thebloomfirm.com \n<colleen@thebloomfirm.com>; \n>; The \nBloom Firm <marcelino@thebloomfirm.com> \nDate Created: 2020-01-22 21:44:51 +0000 \nUrl: https://www.uberconference.com/thebloomfirm \nYour UberConference information is below. \nJoin the call: https://www.uberconference.com/thebloomfirm \nOptional dial-in number: 818-405-0476 \nNo PIN needed. \nInternational Access Numbers: https://www.uberconference.com/international \nEFTA00021072",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "Event: Call re Epstein \nStart Date: 2020-01-23 20:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-01-23 20:00:00 +0000 \nEnd Date: 2020-01-23 20:30:00 +0000 \nO"
+      },
+      {
+        "name": "The Bloom",
+        "role": "extracted",
+        "context": "23 20:30:00 +0000 \nOrganizer: The Bloom Firm <marcelino@thebloomfirm."
+      },
+      {
+        "name": "The \nBloom",
+        "role": "extracted",
+        "context": "olleen@thebloomfirm.com>; \n>; The \nBloom Firm <marcelino@thebloomfirm."
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "<marcelino@thebloomfirm.com> \nDate Created: 2020-01-22 21:44:51 +0000 \nU"
+      },
+      {
+        "name": "Your Uber",
+        "role": "extracted",
+        "context": "rconference.com/thebloomfirm \nYour UberConference information is belo"
+      },
+      {
+        "name": "International Access",
+        "role": "extracted",
+        "context": "818-405-0476 \nNo PIN needed. \nInternational Access Numbers: https://www.uberconf"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-23",
+        "event": "2020-01-23"
+      },
+      {
+        "date": "2020-01-22",
+        "event": "2020-01-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "818-405-0476"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.961Z"
+}

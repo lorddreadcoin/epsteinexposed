@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028376",
+    "filename": "EFTA00028376.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028376.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Fwd: Potential Victim \nDate: Tue, 09 Jul 2019 01:06:33 +0000 \nThanks \nOn Jul \n8, 2019 8:59 PM \nFYI. We can discuss tomorrow, but wanted to keep you in the loop. \nSent from my iPlione \nBegin forwarded message: \nFrom \nDate: July 8, 2019 at 8:38:24 PM EDT \nTo: \nC \nSubject: Potential Victim \nThe CSOs received a telephone call from a  female \necho identified herself a. \ninformation about Epstein. \ngave a return number o \nwrote: \nwho allegedly has \nEFTA00028376",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Potential Victim",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: Fwd: Potential Victim \nDate: Tue, 09 Jul 2019 01:06"
+      },
+      {
+        "name": "Thanks \nOn",
+        "role": "extracted",
+        "context": ", 09 Jul 2019 01:06:33 +0000 \nThanks \nOn Jul \n8, 2019 8:59 PM \nFYI. We"
+      },
+      {
+        "name": "Plione \nBegin",
+        "role": "extracted",
+        "context": "u in the loop. \nSent from my iPlione \nBegin forwarded message: \nFrom \nDat"
+      },
+      {
+        "name": "From \nDate",
+        "role": "extracted",
+        "context": "ne \nBegin forwarded message: \nFrom \nDate: July 8, 2019 at 8:38:24 PM E"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "July 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.127Z"
+}

@@ -1,0 +1,119 @@
+{
+  "document": {
+    "id": "efta00009986",
+    "filename": "EFTA00009986.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009986.pdf",
+    "text": "\n\nExhibit B \nEFTA00009986\n\nFedEx \nExpress \nSubpoena Compliance Group \nLitigation \nDepartment \n3620 Hacks Cron Road \nBuilding B. \n2nd Rocs \nMemphis, TN 31125 \nCertification of Business Records \nthe undersigned, declare that I  am \nemployed by Fedex Express in the Legal \nDepartment as a Senior Paralegal Specialist and Custodian of Records and by reason \nof my \nposition am authorized and \nqualified to make this declaration. \nI  further declare that the documents are original records or true copies of records that were: \n1. made at or near the time of the \noccurrence of the matters described in the \ndocuments, by (or from \ninformation transmitted by) a person with knowledge of \nthose matters; \n2. kept in the course of regularly conducted business activity; and \n3. made by the said business activity as a \nregular practice. \nI declare, \ncertify, verify, and state under penalty of perjury that the foregoing is true and \ncorrect. \nDate of Execution: \nPlace of Execution: FedEx Express \nLegal Department \n3620 Hacks \nCross Road \nBuilding B — Third Floor \nMemphis, \nTN 38125 \nSenior Pa \nlegal \nand Custodian of \nRecords \nSWORN TO AND SUBSCRIBED before me on this \nMy Commission Expires: \nt7 \nLI/2212o 25 \nNotary \nPublic \nin and for \nThe State of Tennessee \nOF  \nTENNESSEE \nr\nI.. \nPUBLIC / \ns \nSki .... t•i1/41.L  ,it) \n. \n44,/\nW.\nSS/ONA.S \nEFTA00009987",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ex \nExpress",
+        "role": "extracted",
+        "context": "Exhibit B \nEFTA00009986\n\nFedEx \nExpress \nSubpoena Compliance Group \nL"
+      },
+      {
+        "name": "Subpoena Compliance",
+        "role": "extracted",
+        "context": "EFTA00009986\n\nFedEx \nExpress \nSubpoena Compliance Group \nLitigation \nDepartment"
+      },
+      {
+        "name": "Group \nLitigation",
+        "role": "extracted",
+        "context": "Express \nSubpoena Compliance Group \nLitigation \nDepartment \n3620 Hacks Cron"
+      },
+      {
+        "name": "Hacks Cron",
+        "role": "extracted",
+        "context": "Litigation \nDepartment \n3620 Hacks Cron Road \nBuilding B. \n2nd Rocs"
+      },
+      {
+        "name": "Road \nBuilding",
+        "role": "extracted",
+        "context": "Department \n3620 Hacks Cron Road \nBuilding B. \n2nd Rocs \nMemphis, TN 311"
+      },
+      {
+        "name": "Rocs \nMemphis",
+        "role": "extracted",
+        "context": "s Cron Road \nBuilding B. \n2nd Rocs \nMemphis, TN 31125 \nCertification of B"
+      },
+      {
+        "name": "Business Records",
+        "role": "extracted",
+        "context": "s, TN 31125 \nCertification of Business Records \nthe undersigned, declare tha"
+      },
+      {
+        "name": "Fedex Express",
+        "role": "extracted",
+        "context": "clare that I  am \nemployed by Fedex Express in the Legal \nDepartment as a"
+      },
+      {
+        "name": "Legal \nDepartment",
+        "role": "extracted",
+        "context": "loyed by Fedex Express in the Legal \nDepartment as a Senior Paralegal Special"
+      },
+      {
+        "name": "Senior Paralegal",
+        "role": "extracted",
+        "context": "in the Legal \nDepartment as a Senior Paralegal Specialist and Custodian of R"
+      },
+      {
+        "name": "Ex Express",
+        "role": "extracted",
+        "context": "tion: \nPlace of Execution: FedEx Express \nLegal Department \n3620 Hacks"
+      },
+      {
+        "name": "Legal Department",
+        "role": "extracted",
+        "context": "of Execution: FedEx Express \nLegal Department \n3620 Hacks \nCross Road \nBuil"
+      },
+      {
+        "name": "Hacks \nCross",
+        "role": "extracted",
+        "context": "press \nLegal Department \n3620 Hacks \nCross Road \nBuilding B — Third Floo"
+      },
+      {
+        "name": "Third Floor",
+        "role": "extracted",
+        "context": "cks \nCross Road \nBuilding B — Third Floor \nMemphis, \nTN 38125 \nSenior P"
+      },
+      {
+        "name": "Senior Pa",
+        "role": "extracted",
+        "context": "rd Floor \nMemphis, \nTN 38125 \nSenior Pa \nlegal \nand Custodian of \nRec"
+      },
+      {
+        "name": "My Commission",
+        "role": "extracted",
+        "context": "SUBSCRIBED before me on this \nMy Commission Expires: \nt7 \nLI/2212o 25 \nNo"
+      },
+      {
+        "name": "Notary \nPublic",
+        "role": "extracted",
+        "context": "on Expires: \nt7 \nLI/2212o 25 \nNotary \nPublic \nin and for \nThe State of Ten"
+      },
+      {
+        "name": "The State",
+        "role": "extracted",
+        "context": "Notary \nPublic \nin and for \nThe State of Tennessee \nOF  \nTENNESSEE"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Rocs \nMemphis, TN",
+        "type": "city"
+      },
+      {
+        "name": "Floor \nMemphis, TN",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.061Z"
+}

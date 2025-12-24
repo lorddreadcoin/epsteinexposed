@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028417",
+    "filename": "EFTA00028417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028417.pdf",
+    "text": "\n\nFrom: i',\"\nTo: \ni\" alna> \nCc: \nerten \nsteptoe.comm \n , \nH \nSubject: RE: U.S. v. Epstein, 19 Cr. 490 (RMB), Government bail memorandum \nDate: Thu, 11 Jul 2019 23:15:02 +0000 \nImportance: Normal \nAttachments: U.S._v._Epstein,_19_Cr._490iRMB),Govemment_response_to_sealing_request.pdf \nTo the Chambers of Judge Berman: \nAttached please find a courtesy copy of the Government's response to the defendant's letter motion relating to sealing, \nfiled this evening in the above-captioned case. Defense counsel is copied. \nThank you, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00028417",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 23:15:02 +0000 \nImportance: Normal \nAttachments: U.S._v._Epstein,_19_Cr._490i"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "quest.pdf \nTo the Chambers of Judge Berman: \nAttached please find a cour"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "Thank you, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.195Z"
+}

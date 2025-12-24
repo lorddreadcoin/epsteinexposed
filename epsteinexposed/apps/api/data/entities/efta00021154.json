@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00021154",
+    "filename": "EFTA00021154.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021154.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Epstein memo \nDate: Mon, 13 May 2019 19:43:53 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE_status_memo_for ODAG.finaldocx.docx; 2019-05-\n10 JE_status_memo_for_ODAG.finaldocx.pdf \nFrom: (USANYS) \nSent: Monday. May 13. 2019 2:58 PM \nTo \nCc: (USANYS)\nSubject: Epstein memo \n— here it is with your couple of revisions. \nmg, \nPLIDIIC co \nupon \nUnit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nEFTA00021154",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 19:43:53 +0000 \nImportance: Normal \nAttachments: 2019-05-10 JE_status_memo_fo"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "Monday. May 13. 2019 2:58 PM \nTo \nCc: (USANYS)\nSubject: Epstein me"
+      },
+      {
+        "name": "Unit \nUnited",
+        "role": "extracted",
+        "context": "ions. \nmg, \nPLIDIIC co \nupon \nUnit \nUnited States Attorney's Office for"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "LIDIIC co \nupon \nUnit \nUnited States Attorney's Office for the \nSouthern Di"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-10",
+        "event": "2019-05-10"
+      },
+      {
+        "date": "2019-05-13",
+        "event": "13 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.096Z"
+}

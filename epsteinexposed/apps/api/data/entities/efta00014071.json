@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014071",
+    "filename": "EFTA00014071.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014071.pdf",
+    "text": "\n\nFrom: '   (USAFLS)\" <I \nTo: \nBcc: '  \n(USAFLS)\" <I \nSubject: RE: Two things \nDate: Fri, 22 Aug 2008 16:14:02 +0000 \nImportance: Normal \n(USAFLS)\"  \nAaah, yes. I  knew that it was coming, so I wasn't that surprised. \nAssistant U.S. \nAttorney \nFax \nFrom: (USAFLS) \nSent: Friday, August 22, 2008 12:13 PM \nTo: -.(USAFLS) \nSubject: RE: Two things \nThe one about the turning over the agreement... \nFrom: (USAFLS) \nSent: Frida August 22, 2008 12:12 PM \nTo: (USAFLS) \nSubject: RE: Two things \nWhich order? \nAssistant U.S. Attorney \nFax \nFrom: (USAFLS) \nSent: Friday, August 22, 2008  12:11 PM \nTo:  . (USAFLS) \nSubject: RE: Two things \nSure, have a  nice weekend. I saw the Order (OMG). Sorry! \nFrom: \n(USAFLS) \nSent: Friday, August 22, 2008 12:10 PM \nTo: \n(USAFLS) \nSubject: Two things \nEFTA00014071\n\nHi —  Can you keep your eye out for any faxes for me from our Epstein friends and if one comes in, can \nyou scan and fax it to me? \nAlso, can you reserve the big conference room for Monday morning from 10:00 to noon for the case? \nThank you! \nAssistant U.S. Attorney \nFax \nEFTA00014072",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nFax",
+        "role": "extracted",
+        "context": "t surprised. \nAssistant U.S. \nAttorney \nFax \nFrom: (USAFLS) \nSent: Friday"
+      },
+      {
+        "name": "Frida August",
+        "role": "extracted",
+        "context": "ent... \nFrom: (USAFLS) \nSent: Frida August 22, 2008 12:12 PM \nTo: (USAFL"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-08-22",
+        "event": "August 22, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.053Z"
+}

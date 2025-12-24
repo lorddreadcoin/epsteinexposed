@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00011357",
+    "filename": "EFTA00011357.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011357.pdf",
+    "text": "\n\nFrom: ' \n„cl \nTo: ' (USANYS)\"  \nSubject: RE: ESI review -- Epstein investigation \nDate: Tue, 10 Mar 2020 22:28:38 +0000 \nThanks, that would be great. Would 10:30 work tomorrow morning? \nFrom: (USANYS) <> \nSent: Tuesday, March 10, 2020 6:20 PM \nTo: \nSubject: RE: ESI review -- Epstein investigation \nSure, I'm generally around tomorrow except for a moot at 2. \nFrom: \nSent: Tuesday, March 10, 2020 4:07 PM \nTo: (USANYS) \nSubject: ESI review -- Epstein investigation \nHi=, \nI question has come up during our review of ESI in the Epstein investigation, and the PC chiefs asked us to seek guidance \nfrom appeals. Do you have a few minutes tomorrow or Thursday for a few questions? \nThanks) \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00011357",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "or a few questions? \nThanks) \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s? \nThanks) \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00011357"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-03-10",
+        "event": "March 10, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.473Z"
+}

@@ -1,0 +1,76 @@
+{
+  "document": {
+    "id": "efta00026403",
+    "filename": "EFTA00026403.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026403.pdf",
+    "text": "\n\nEvent: \nStart Date: 2020-07-06 17:15:00 +0000 \nEnd Date: 2020-07-06 18:00:00 +0000 \nOrganiz \nLocation: https://usao.webex.com/usao/j.php?MTID=m9e79db001801f4b343b72dca13dedc17 \nClass: X-PERSONAL \nDate Created: 2020-07-05 17:03:10 +0000 \nDate Modified: 2020-07-05 17:03:10 +0000 \nPriority: 5 \nDTSTAMP: 2020-07-05 16:47:12 +0000 \nAttende \nAlarm: Display the following message 15m before start \nReminder \nhttps://usao.webex.com/usao/j.php?MTID=m9e79db00180114b343b72dca13dedc17 \n-- Do not delete or change any of the following text. --\nWhen it's time, join your Webex meeting here. \nJoin meeting \nTap to join from a mobile device (attendees only) \nEFTA00026403\n\nJoin from a video system or application \nDial 1995719104@usao.webex.com \nYou can also dial 207.182.190.20 and enter your meeting number. \nJoin using Microsoft Lync or Microsoft Skype for Business \nDial 1995719104.usao@lync.webex.com \nIf you are a host, click here to view host information. \nNeed help? Go to http://help.webex.com \nEFTA00026404",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: \nStart Date: 2020-07-06 17:15:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-07-06 17:15:00 +0000 \nEnd Date: 2020-07-06 18:00:00 +0000 \nO"
+      },
+      {
+        "name": "Organiz \nLocation",
+        "role": "extracted",
+        "context": "e: 2020-07-06 18:00:00 +0000 \nOrganiz \nLocation: https://usao.webex.com/usao/"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "a13dedc17 \nClass: X-PERSONAL \nDate Created: 2020-07-05 17:03:10 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-07-05 17:03:10 +0000 \nDate Modified: 2020-07-05 17:03:10 +0000 \nP"
+      },
+      {
+        "name": "Attende \nAlarm",
+        "role": "extracted",
+        "context": "P: 2020-07-05 16:47:12 +0000 \nAttende \nAlarm: Display the following messag"
+      },
+      {
+        "name": "Microsoft Lync",
+        "role": "extracted",
+        "context": "r meeting number. \nJoin using Microsoft Lync or Microsoft Skype for Busine"
+      },
+      {
+        "name": "Microsoft Skype",
+        "role": "extracted",
+        "context": "Join using Microsoft Lync or Microsoft Skype for Business \nDial 1995719104"
+      },
+      {
+        "name": "Business \nDial",
+        "role": "extracted",
+        "context": "t Lync or Microsoft Skype for Business \nDial 1995719104.usao@lync.webex.co"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-06",
+        "event": "2020-07-06"
+      },
+      {
+        "date": "2020-07-05",
+        "event": "2020-07-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "1995719104"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.242Z"
+}

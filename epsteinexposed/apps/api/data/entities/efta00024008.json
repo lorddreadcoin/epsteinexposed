@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024008",
+    "filename": "EFTA00024008.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024008.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n(USANYSY. \nalMIE> \nSubject: Re: Tip re Epstein \nDate: Sat, 17 Aug 2019 15:13:58 +0000 \nwho are copied. \n> On Aug 17, 2019, at 10:57 AM, wrote: \n> =, a defense attorney who represents an inmate at MCC called me last night with some information. Who \nshall I connect her with at SDNY? \n> \nSent from my iPhone \nEFTA00024008",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "alMIE> \nSubject: Re: Tip re Epstein \nDate: Sat, 17 Aug 2019 15:13:58 +0"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": ":58 +0000 \nwho are copied. \n> On Aug 17, 2019, at 10:57 AM, wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.082Z"
+}

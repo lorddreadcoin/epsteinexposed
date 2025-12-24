@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00015641",
+    "filename": "EFTA00015641.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015641.pdf",
+    "text": "\n\nFrom: (USANYS)\" \naNIMIW \nTo: \nSubject: Fwd: Attempted MAXWELL Visit \nDate: Fri, 23 Apr 2021 18:44:14 +0000 \nFYI-in case you did not hear. \nBegin forwarded message: \nFrom: ' \n(USMS)\" \nDate: A ril 23, 2021 at 14:30:21 EDT \nTo: \" \n(USANYS)\" \nSubject: Attempted MAXWELL Visit \nOn April 22, 2021, the USMS received a notification from the MDC informing us that an individual Identified as Enver \nRuci attempted to visit Ghislaine Maxwell. According to the officer, Ruci stated that he wanted a legal visit with \nMAXWELL and filled out a visitor form that is normally reserved for official legal visitors. The officer did not allow Ruci to \nvisit and informed him that she had no information on the individual that he was looking to visit with. The following \ninformation was obtained from Enver's New York State driver's license: \nRuci \nEnver, Address: Staten Island, New York, \nDeputy U.S. \nMarshal \nSDNY \nEFTA00015641",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "dual Identified as Enver \nRuci attempted to visit Ghislaine Maxwell. According to the officer, Ruci stated that he wa"
+      },
+      {
+        "name": "Visit \nDate",
+        "role": "extracted",
+        "context": "bject: Fwd: Attempted MAXWELL Visit \nDate: Fri, 23 Apr 2021 18:44:14 +0"
+      },
+      {
+        "name": "Visit \nOn",
+        "role": "extracted",
+        "context": "\" \nSubject: Attempted MAXWELL Visit \nOn April 22, 2021, the USMS rece"
+      },
+      {
+        "name": "Enver \nRuci",
+        "role": "extracted",
+        "context": "t an individual Identified as Enver \nRuci attempted to visit Ghislaine"
+      },
+      {
+        "name": "Ruci \nEnver",
+        "role": "extracted",
+        "context": "York State driver's license: \nRuci \nEnver, Address: Staten Island, New"
+      },
+      {
+        "name": "Staten Island",
+        "role": "extracted",
+        "context": "cense: \nRuci \nEnver, Address: Staten Island, New York, \nDeputy U.S. \nMars"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-22",
+        "event": "April 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.134Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030691",
+    "filename": "EFTA00030691.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030691.pdf",
+    "text": "\n\nFrom: ' \nSubject: updated indictment draft \nDate: The, 09 Jun 2020 16:47:55 +0000 \nAttachments: 2020-06-09 Maxwell draft indictment.docx \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00030691",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "axwell draft indictment.docx \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ctment.docx \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-09",
+        "event": "2020-06-09"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.457Z"
+}

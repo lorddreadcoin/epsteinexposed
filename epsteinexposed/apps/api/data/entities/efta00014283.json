@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014283",
+    "filename": "EFTA00014283.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014283.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\" <ffi \nIll \nSubject: Automatic reply: Jeffrey Epstein Bourget Airport - Journalist in France \nDate: Sun, 29 Sep 2019 20:56:37 +0000 \nI will be out of the office Thursday and Friday but will return Monday morning. If you need immediate \nassistance, please call the main public affairs phone number a \nEFTA00014283",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ": \n(USANYS)\" <ffi \nIll \nSubject: Automatic reply: Jeffrey Epstein Bourget Airport - Journalist in France \nDate: Sun"
+      },
+      {
+        "name": "Ill \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: \n(USANYS)\" <ffi \nIll \nSubject: Automatic reply: Jeffrey Eps"
+      },
+      {
+        "name": "Bourget Airport",
+        "role": "extracted",
+        "context": "omatic reply: Jeffrey Epstein Bourget Airport - Journalist in France \nDate:"
+      },
+      {
+        "name": "France \nDate",
+        "role": "extracted",
+        "context": "urget Airport - Journalist in France \nDate: Sun, 29 Sep 2019 20:56:37 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.550Z"
+}

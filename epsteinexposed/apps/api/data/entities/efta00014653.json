@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014653",
+    "filename": "EFTA00014653.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014653.pdf",
+    "text": "\n\nFrom: ''=:3' \nTo:' \n, ' \nCc: \nSubject: US v. Maxwell - Hard Drive \nDate: Sat, 20 Nov 2021 21:49:38 +0000 \nAttachments: 2021.11.20 MDC -  Maxwell PASSWORD.pdf \nHe \nWe wanted to let you know that we sent a hard drive for Ms. Maxwell via FedEx today. I am attaching the letter we sent \nwith the password. Here are the FedEx tracking numbers: \nFedEx tracking number for drive sent to MDC: \nFedEx tracking number for password sent to MDC \nThanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00014653",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "that we sent a hard drive for Ms. Maxwell via FedEx today. I am att"
+      },
+      {
+        "name": "Hard Drive",
+        "role": "extracted",
+        "context": "Cc: \nSubject: US v. Maxwell - Hard Drive \nDate: Sat, 20 Nov 2021 21:49"
+      },
+      {
+        "name": "He \nWe",
+        "role": "extracted",
+        "context": "MDC -  Maxwell PASSWORD.pdf \nHe \nWe wanted to let you know that w"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "word sent to MDC \nThanks, \nM \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.283Z"
+}

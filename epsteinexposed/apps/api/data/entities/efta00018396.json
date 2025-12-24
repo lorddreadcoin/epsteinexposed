@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018396",
+    "filename": "EFTA00018396.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018396.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein's attorney? \nDate: Mon, 08 Jul 2019 17:13:28 +0000 \nImportance: Normal \nDo you have his attorney info? \nPublic Affairs \nU.S. Attorney's Office for the \nSouthern District of New York \nWebsite: www.tustice.gov/usao-sdny\nFacebook: https://www.facebook.com/usansdnv\nFollow \nus on Twitter: @SDNYnews \nEFTA00018396",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nDo",
+        "role": "extracted",
+        "context": "9 17:13:28 +0000 \nImportance: Normal \nDo you have his attorney info?"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "you have his attorney info? \nPublic Affairs \nU.S. Attorney's Office for t"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nWebsite: www.tus"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.828Z"
+}

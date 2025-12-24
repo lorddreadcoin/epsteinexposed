@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024805",
+    "filename": "EFTA00024805.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024805.pdf",
+    "text": "\n\nFrom: \n'\n='' \nTo:'\nSubject: \nmotions \nDate: Wed, 19 May 2021 15:49:22 +0000 \nAttachments: NPA_v3.docx \nTeam, \nChecking in on the status for the motions. I'm attaching the NPA point draft, which can be folded in. Can folks let me know \nthe status of pending motion points, for planning purposes? I think our deadline to get this to the chiefs is EOD today, so \nideally we'd combine this by this afternoon and circulate quickly around the team for edits. \nThanks all—\nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00024805",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "team for edits. \nThanks all—\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thanks all—\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00024805"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-05-19",
+        "event": "19 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.865Z"
+}

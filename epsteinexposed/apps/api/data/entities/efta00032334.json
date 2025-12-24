@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00032334",
+    "filename": "EFTA00032334.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032334.pdf",
+    "text": "\n\nRECEIPT \norb \n$43.10 \n$26.00 Fare \nSTAND. CITY RATE) - 8.61 nu \nToll $6.12 \nCongestion Surcharge $2.50 \nExtras $0.50 \nService Fee $0.00 \nState Surcharge $0.50 \nImprovement Surcharge $0.30 \nTip $7.18 \nSubtotal \n$43.10 \nCurb Credos \n$0.00 \nTotal \n$43.10 \nPickup \nDropoff \nConfirmation fiMUIR46 \nServiced by \nCurb \nDriver: \nNeed Help? htto://su000rt.gocurb.com/ \nNovember 04 at 5:49 AM \nConfirmation \nEFTA00032334",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Congestion Surcharge",
+        "role": "extracted",
+        "context": "RATE) - 8.61 nu \nToll $6.12 \nCongestion Surcharge $2.50 \nExtras $0.50 \nService"
+      },
+      {
+        "name": "Service Fee",
+        "role": "extracted",
+        "context": "urcharge $2.50 \nExtras $0.50 \nService Fee $0.00 \nState Surcharge $0.50"
+      },
+      {
+        "name": "State Surcharge",
+        "role": "extracted",
+        "context": "ras $0.50 \nService Fee $0.00 \nState Surcharge $0.50 \nImprovement Surcharge"
+      },
+      {
+        "name": "Improvement Surcharge",
+        "role": "extracted",
+        "context": "$0.00 \nState Surcharge $0.50 \nImprovement Surcharge $0.30 \nTip $7.18 \nSubtotal \n$"
+      },
+      {
+        "name": "Curb Credos",
+        "role": "extracted",
+        "context": "Tip $7.18 \nSubtotal \n$43.10 \nCurb Credos \n$0.00 \nTotal \n$43.10 \nPickup"
+      },
+      {
+        "name": "Pickup \nDropoff",
+        "role": "extracted",
+        "context": "Credos \n$0.00 \nTotal \n$43.10 \nPickup \nDropoff \nConfirmation fiMUIR46 \nServi"
+      },
+      {
+        "name": "Curb \nDriver",
+        "role": "extracted",
+        "context": "mation fiMUIR46 \nServiced by \nCurb \nDriver: \nNeed Help? htto://su000rt.g"
+      },
+      {
+        "name": "Need Help",
+        "role": "extracted",
+        "context": "Serviced by \nCurb \nDriver: \nNeed Help? htto://su000rt.gocurb.com/"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.072Z"
+}

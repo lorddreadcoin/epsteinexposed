@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00013475",
+    "filename": "EFTA00013475.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013475.pdf",
+    "text": "\n\nEvent: Epstein Pre-Meet \nStart Date: 2007-12-14 17:15:00 +0000 \nEnd Date: 2007-12-14 17:45:00 +0000 \nOrganizer: Acosta, Alex (USAFLS) \nLocation: Alex's Office \nClass: X-PERSONAL \nDate Created: 2015-03-27 13:43:26 +0000 \nDate Modified: 2015-07-22 20:34:48 +0000 \nPriority: 5 \nDTSTAMP: 2007-12-13 22:12:41 +0000 \nAttendee: \nEFTA00013475",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Pre",
+        "role": "extracted",
+        "context": "Event: Epstein Pre-Meet \nStart Date: 2007-12-14"
+      },
+      {
+        "name": "Meet \nStart",
+        "role": "extracted",
+        "context": "Event: Epstein Pre-Meet \nStart Date: 2007-12-14 17:15:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2007-12-14 17:15:00 +0000 \nEnd Date: 2007-12-14 17:45:00 +0000 \nO"
+      },
+      {
+        "name": "Office \nClass",
+        "role": "extracted",
+        "context": "ex (USAFLS) \nLocation: Alex's Office \nClass: X-PERSONAL \nDate Created: 20"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "'s Office \nClass: X-PERSONAL \nDate Created: 2015-03-27 13:43:26 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2015-03-27 13:43:26 +0000 \nDate Modified: 2015-07-22 20:34:48 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-12-14",
+        "event": "2007-12-14"
+      },
+      {
+        "date": "2015-03-27",
+        "event": "2015-03-27"
+      },
+      {
+        "date": "2015-07-22",
+        "event": "2015-07-22"
+      },
+      {
+        "date": "2007-12-13",
+        "event": "2007-12-13"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.669Z"
+}

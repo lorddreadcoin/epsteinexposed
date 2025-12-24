@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013725",
+    "filename": "EFTA00013725.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013725.pdf",
+    "text": "\n\nFrom: \"Lilly Ann Sanchez\" \nTo: \nSubject: sorry \nDate: Tue, 11 Mar 2008 20:18:22 +0000 \nImportance: Normal \ni am writing to you because i feel badly about the fact that you might be upset with my handling of the jeffrey epstein \nmatter. you and i have known each other for a long time and i consider you a friend. i truly apologize if you believe that i \nsomehow overstepped the bounds. as i said at the meeting, i was trying to protect the Office, not offend you. \nhope you are well. \nLilly Ann Sanchez, Esq. \nFOWLER WHITE BURNETT P.A. \nEspirito Santo Plaza, 14th Floor \n1395 Brickell Avenue \nMiami, Florida 33131-3302 \n\"TAX MATTERS- IRS Circular 230 Disclosure: To ensure compliance \nwith requirements imposed by the IRS, we inform you that any tax \nadvice contained in this communication (including attachments) was \nnot intended or written to be used, and cannot be used, for the \npurpose of (i) avoiding penalties under the Internal Revenue Code \nor (ii) promoting, marketing or recommending to another party any \ntransaction or matter addressed herein. If you would like such advice, \nplease contact us.*** \n***Attention: The information contained in this E-mail message \nis attorney privileged and confidential information intended only \nfor the use of the individual(s) named above. If the reader of this \nmessage is not the intended recipient, you are hereby notified that any \ndissemination, distribution or copy of this communication is strictly \nprohibited. If you have received this communication in error, please \ncontact the sender by reply E-mail and destroy all copies of the original \nmessage. Thank you. \nEFTA00013725",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "t that you might be upset with my handling of the jeffrey epstein \nmatter. you and i have known each other for a lo"
+      },
+      {
+        "name": "Lilly Ann",
+        "role": "extracted",
+        "context": "From: \"Lilly Ann Sanchez\" \nTo: \nSubject: sorry"
+      },
+      {
+        "name": "Espirito Santo",
+        "role": "extracted",
+        "context": ". \nFOWLER WHITE BURNETT P.A. \nEspirito Santo Plaza, 14th Floor \n1395 Brick"
+      },
+      {
+        "name": "Brickell Avenue",
+        "role": "extracted",
+        "context": "Santo Plaza, 14th Floor \n1395 Brickell Avenue \nMiami, Florida 33131-3302 \n\""
+      },
+      {
+        "name": "Internal Revenue",
+        "role": "extracted",
+        "context": "avoiding penalties under the Internal Revenue Code \nor (ii) promoting, mark"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.254Z"
+}

@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00016511",
+    "filename": "EFTA00016511.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016511.pdf",
+    "text": "\n\nFrom: ' \nTo:'\nCc: ' \nSubject: RE: URGENT--Update Maxwell Victim Notice \nDate: Mon, 29 Nov 2021 17:28:16 +0000 \nAttachments: 344.pdf; 502.pdf \nInline-Images: image001.jpg \nI \nthink these two orders have the key info. \nFrom: \nSent: Monday, November 29, 2021 12:12 PM \nTo: \nCc: \nSubject: URGENT—Update Maxwell Victim Notice \nImportance: High \nSee Ed Friedland's request below. Can you come up with a current update that explains whatever victims should \nknow about attendin the trial? (And makes clear that the dial-in info for previous proceedings is no longer \napplicable?) can add it to our Maxwell victim page. \nhttps://www.justice.gov/usao-sdny/united-states-v-ghislaine-maxwell \nFrom: Edward Friedland \nSent: Monday, November 29, 2021 12:01 PM \nTo: \nCc: Joseph Pecorino ; Matthew Rogers \nSubject: FW: Maxwell Link \nThis info on your web page is outdated and is causing the public to try and access the Maxwell matter by phone. Can you \npull down the access number info and update with the latest order which says in-person? \nEdward A. Friedland, Esq. \nDistrict Court Executive \nUnited States District Court \nSouthern District of New York \nFrom: \nJoseph Pecorino \nSent: Monday, November 29, 2021 11:57 AM \nTo: \nEdward Friedland \nSubject: \nMaxwell Link \nhttps://www.justice.gov/usao-sdny/united-states-v-ghislaine-maxwell \nEFTA00016511\n\nJoseph Pecorino \nOffice of the District Executive \nUnited States District Court \nSouthern District of New York \nEmail: \nOffice: \nPLEASE CONSIDER THE ENVIRONMENT BEFORE PRINTING THIS E-MAIL \nEFTA00016512",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update Maxwell",
+        "role": "extracted",
+        "context": "'\nCc: ' \nSubject: RE: URGENT--Update Maxwell Victim Notice \nDate: Mon, 29"
+      },
+      {
+        "name": "Victim Notice",
+        "role": "extracted",
+        "context": "t: RE: URGENT--Update Maxwell Victim Notice \nDate: Mon, 29 Nov 2021 17:28"
+      },
+      {
+        "name": "High \nSee",
+        "role": "extracted",
+        "context": "ll Victim Notice \nImportance: High \nSee Ed Friedland's request below."
+      },
+      {
+        "name": "Ed Friedland",
+        "role": "extracted",
+        "context": "Notice \nImportance: High \nSee Ed Friedland's request below. Can you come"
+      },
+      {
+        "name": "Edward Friedland",
+        "role": "extracted",
+        "context": "es-v-ghislaine-maxwell \nFrom: Edward Friedland \nSent: Monday, November 29, 2"
+      },
+      {
+        "name": "Joseph Pecorino",
+        "role": "extracted",
+        "context": "r 29, 2021 12:01 PM \nTo: \nCc: Joseph Pecorino ; Matthew Rogers \nSubject: FW"
+      },
+      {
+        "name": "Matthew Rogers",
+        "role": "extracted",
+        "context": "M \nTo: \nCc: Joseph Pecorino ; Matthew Rogers \nSubject: FW: Maxwell Link \nT"
+      },
+      {
+        "name": "Maxwell Link",
+        "role": "extracted",
+        "context": "Matthew Rogers \nSubject: FW: Maxwell Link \nThis info on your web page i"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "? \nEdward A. Friedland, Esq. \nDistrict Court Executive \nUnited States Dist"
+      },
+      {
+        "name": "Executive \nUnited",
+        "role": "extracted",
+        "context": "iedland, Esq. \nDistrict Court Executive \nUnited States District Court \nSouthe"
+      },
+      {
+        "name": "States District",
+        "role": "extracted",
+        "context": "trict Court Executive \nUnited States District Court \nSouthern District of N"
+      },
+      {
+        "name": "Court \nSouthern",
+        "role": "extracted",
+        "context": "utive \nUnited States District Court \nSouthern District of New York \nFrom:"
+      },
+      {
+        "name": "District Executive",
+        "role": "extracted",
+        "context": "oseph Pecorino \nOffice of the District Executive \nUnited States District Court"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "United States District Court \nSouthern District of New York \nEmail: \nOffice:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-29",
+        "event": "November 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.831Z"
+}

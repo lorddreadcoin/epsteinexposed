@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00010244",
+    "filename": "EFTA00010244.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010244.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Juror questionnaires to review for tomorrow \nDate: Wed, 17 Nov 2021 00:41:52 +0000 \nAttachments: US_v._Maxwell_Jurors_Proceeding_to_Voir_DireJprintable_version).xisx \nHey team, \nSine won't be in court tomorrow, I have reassigned the juror questionnaires for you guys to take on. The new \nones start at row 71 (juror 199), with the one exception that I also reassigned rows 39 and 40 (the last two from \nla\nfirst batch we didn't get to today). \nII print yours out so we have the same hard copy notes method.Msince I didn't get this \ndone before you headed out, if you want to take notes in the spreadsheet attached and send to me by 7:45am tomorrow, \nI can print it out in the morning (but obviously do what's best for you note taking wise, I'm happy to accommodate \nhowever I can). \nParalegal Specialist \nU.S. Attorney's Office SDNY \n1 Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00010244",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "accommodate \nhowever I can). \nParalegal Specialist \nU.S. Attorney's Office SDNY"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": ".S. Attorney's Office SDNY \n1 Saint Andrew's Plaza \nNew York. NY 10007"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Office SDNY \n1 Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00010244"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.582Z"
+}

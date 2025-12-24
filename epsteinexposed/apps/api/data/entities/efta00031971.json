@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00031971",
+    "filename": "EFTA00031971.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031971.pdf",
+    "text": "\n\nFrom \nTo:I\nCc: ' \n' d\nSubject: Tartaglione production \nDate: Tue, 27 Jul 2021 16:35:36 +0000 \nHey — Can you please stamp the documents located here: \nEpstein and BOP \nDocuments (ATTORNEYS EYES ONLY) \nThey need a  bates stamp + the same AEO and Sensitive Disclosure Material stamp that is already on the July 23 Incident \nReport which is in one of the folders. \nThanks! \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSouthern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601 \nEFTA00031971",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo:I\nCc: ' \n' d\nSubject: Tartagl"
+      },
+      {
+        "name": "Sensitive Disclosure",
+        "role": "extracted",
+        "context": "ates stamp + the same AEO and Sensitive Disclosure Material stamp that is alread"
+      },
+      {
+        "name": "Incident \nReport",
+        "role": "extracted",
+        "context": "hat is already on the July 23 Incident \nReport which is in one of the folder"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "one of the folders. \nThanks! \nDeputy Chief, White Plains Division \nUnite"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "ders. \nThanks! \nDeputy Chief, White Plains Division \nUnited States Attor"
+      },
+      {
+        "name": "Division \nUnited",
+        "role": "extracted",
+        "context": "! \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "White Plains Division \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ion \nUnited States Attorney's Office \nSouthern District of New York \n300 Qua"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "ern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.318Z"
+}

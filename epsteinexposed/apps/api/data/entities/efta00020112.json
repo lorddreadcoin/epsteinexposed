@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020112",
+    "filename": "EFTA00020112.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020112.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: Paris Prosecutor Opens Investigation in Jeffrey Epstein Scandal - The New York Times \nDate: Fri, 23 Aug 2019 22:41:27 +0000 \n\"Exchanges\"....could be worse I suppose \n> On Aug 23, 2019, at 6:35 PM, \n>> https://www.nytimes.cotn/2019/08/23/worldieurope/paris-epstein-investigation.html \n>> Sent from my iPhone \nEFTA00020112",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ject: Re: Paris Prosecutor Opens Investigation in Jeffrey Epstein Scandal - The New York Times \nDate: Fri, 23 Aug 2"
+      },
+      {
+        "name": "Paris Prosecutor",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Re: Paris Prosecutor Opens Investigation in Jeffre"
+      },
+      {
+        "name": "Opens Investigation",
+        "role": "extracted",
+        "context": "Subject: Re: Paris Prosecutor Opens Investigation in Jeffrey Epstein Scandal -"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "in Jeffrey Epstein Scandal - The New York Times \nDate: Fri, 23 Aug"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "rey Epstein Scandal - The New York Times \nDate: Fri, 23 Aug 2019 22:41"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "..could be worse I suppose \n> On Aug 23, 2019, at 6:35 PM, \n>> htt"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.215Z"
+}

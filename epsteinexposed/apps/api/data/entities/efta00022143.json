@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00022143",
+    "filename": "EFTA00022143.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022143.pdf",
+    "text": "\n\nFrom \nUSANYS) \n[Contractor]\" \nTom \nUSANYS \" SANYS \" \nUSANYS)\" \nSubject: Watermarking \nDate: Mon, 30 Dec 2019 17:40:34 +0000 \nAttachments=302_Redacted.pdf; Notesftoranterview Redacted.pdf \nHow does the watermarking look on these? \nEFTA00022143",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Watermarking \nDate",
+        "role": "extracted",
+        "context": "\" SANYS \" \nUSANYS)\" \nSubject: Watermarking \nDate: Mon, 30 Dec 2019 17:40:34 +0"
+      },
+      {
+        "name": "Notesftoranterview Redacted",
+        "role": "extracted",
+        "context": "Attachments=302_Redacted.pdf; Notesftoranterview Redacted.pdf \nHow does the watermarkin"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.102Z"
+}

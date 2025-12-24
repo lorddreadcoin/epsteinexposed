@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00031614",
+    "filename": "EFTA00031614.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031614.pdf",
+    "text": "\n\nEvent: Accepted: FBI / SDNY Epstein update mtg \nStart Date: 2020-01-08 18:00:00 +0000 \nEnd Date: 2020-01-08 19:00:00 +0000 \nLocation: 1SA (conf room TBD) \nClass: X-PERSONAL \nComment: \nDate Created: 2020-01-09 01:47:27 +0000 \nDate Modified: 2020-01-09 01:47:27 +0000 \nPriority: 5 \nDTSTAMP: 2020-01-06 23:26:05 +0000 \nAttendee: \nEFTA00031614",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "BI / SDNY Epstein update mtg \nStart Date: 2020-01-08 18:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-01-08 18:00:00 +0000 \nEnd Date: 2020-01-08 19:00:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-01-09 01:47:27 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-01-09 01:47:27 +0000 \nDate Modified: 2020-01-09 01:47:27 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-08",
+        "event": "2020-01-08"
+      },
+      {
+        "date": "2020-01-09",
+        "event": "2020-01-09"
+      },
+      {
+        "date": "2020-01-06",
+        "event": "2020-01-06"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.527Z"
+}

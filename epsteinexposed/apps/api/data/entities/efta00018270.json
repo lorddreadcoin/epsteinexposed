@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "efta00018270",
+    "filename": "EFTA00018270.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018270.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBcc• \nSubject: Re: Next week events \nDate: Fri, 12 Jul 2019 21:55:47 +0000 \nImportance: Normal \nThere's a bail hearing on Monday? \nSent from my iPhone \nOn Jul 12, 2019, at 5:36 PM, \nMonday— Bail hearing for Epstein, 10am before Judge Berman \nwrote: \nFrom: \nSent: Friday, July 12, 2019 8:35 AM \nTo: \nSubject: Next week events \nGood morning all. As always, please don't forget to get me your updates for next week sometime today. \nThanks, \nLaura \nP.S. I didn't feel like wishing anyone Happy Pecan Pie Day (although, of course, you should partake if you celebrate), but \nof course, Monday is Be a Dork Day, so you could get a jump on planning your outfits now. \nChief, Criminal Division \nUnited States Attorney's Office, SDNY \n(212) 637-1117 \nEFTA00018270",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nThere",
+        "role": "extracted",
+        "context": "9 21:55:47 +0000 \nImportance: Normal \nThere's a bail hearing on Monday?"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ing on Monday? \nSent from my iPhone \nOn Jul 12, 2019, at 5:36 PM, \nMo"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "ring for Epstein, 10am before Judge Berman \nwrote: \nFrom: \nSent: Friday,"
+      },
+      {
+        "name": "Happy Pecan",
+        "role": "extracted",
+        "context": "dn't feel like wishing anyone Happy Pecan Pie Day (although, of course,"
+      },
+      {
+        "name": "Pie Day",
+        "role": "extracted",
+        "context": "ke wishing anyone Happy Pecan Pie Day (although, of course, you sho"
+      },
+      {
+        "name": "Dork Day",
+        "role": "extracted",
+        "context": "ut \nof course, Monday is Be a Dork Day, so you could get a jump on p"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "ing your outfits now. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-1117"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.546Z"
+}

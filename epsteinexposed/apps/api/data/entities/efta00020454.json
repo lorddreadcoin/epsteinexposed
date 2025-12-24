@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00020454",
+    "filename": "EFTA00020454.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020454.pdf",
+    "text": "\n\nUS v Epstein \nSearch Terms Report \nReport Name: Search Terms - OPR Materials Searchable Set: \nSTR - Search Terms - OPR \nMaterials \n300,000 \n280,000 - \n260,000 - \n240,000 \n- \n220,000 - \n200,000 - \n180,000 - \n160,000 -\n140,000 - \n120,000 - \n100,000 - \n80,000 - \n60,000 \n40,000 \n20,000 - \n11,692 \n5,462 \n0 \nTotal documents with Total documents with Total documents without \nhits hits, including Family hits \nResults Summary \nDocuments in \nsearchable set \n300,123 \nTotal documents with Total documents with \nhits \n5,462 \nhits, including Family \n11,692 \nTotal documents \nwithout hits \n288,431 \nReport Generated: 12/8/2020 8:17:22 AM Page 1 of 3 \nEFTA00020454\n\nSearchable Set: \nSTR - Search Terms - OPR \nMaterials \nIg\ni US v Epstein \nSearch Terms Report \nReport Name: Search Terms - OPR Materials \n39 \nI \n438 \n—12,059\nReport Generated: 12/8/2020 8:17:22 AM Page 2 of 3 \nEFTA00020455\n\nUS v Epstein \nSearch Terms Report \nReport Name: Search Terms - OPR Materials \n- \nSearchable Set: \nSTR - Search Terms - OPR \nMaterials \n0 200 400 60O SOD MOO 1200 1400 1600 1800 2000 2200 \nTerms Summary \nTerm \nDocuments with hits Documents \nwith hits, \nincluding Family \nUnique hits \n39 148 \n56 308 37 \n2,059 3,191 1,955 \n0 0 0 \n2 3 2 \nI\n114 254 95 \nI\n4 8 0 \nI\n33 128 30 \nI\n963 2,488 810 \n7 20 3 \n629 1,976 544 \n4 6 3 \n167 484 5 \n0 0 0 \n4 6 0 \nI\n1,225 3,242 886 \nI\n438 1,156 295 \n0 0 \n0 \n329 1,033 267 \n63 575 54 \n36 125 9 \nReport Generated: 12/8/2020 8:17:22 AM Page 3 of 3 \nEFTA00020456",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nSearch",
+        "role": "extracted",
+        "context": "US v Epstein \nSearch Terms Report \nReport Name: Se"
+      },
+      {
+        "name": "Terms Report",
+        "role": "extracted",
+        "context": "US v Epstein \nSearch Terms Report \nReport Name: Search Terms -"
+      },
+      {
+        "name": "Report Name",
+        "role": "extracted",
+        "context": "Epstein \nSearch Terms Report \nReport Name: Search Terms - OPR Materials"
+      },
+      {
+        "name": "Search Terms",
+        "role": "extracted",
+        "context": "ch Terms Report \nReport Name: Search Terms - OPR Materials Searchable Se"
+      },
+      {
+        "name": "Materials Searchable",
+        "role": "extracted",
+        "context": "port Name: Search Terms - OPR Materials Searchable Set: \nSTR - Search Terms - OP"
+      },
+      {
+        "name": "Results Summary",
+        "role": "extracted",
+        "context": "hits, including Family hits \nResults Summary \nDocuments in \nsearchable set"
+      },
+      {
+        "name": "Report Generated",
+        "role": "extracted",
+        "context": "ments \nwithout hits \n288,431 \nReport Generated: 12/8/2020 8:17:22 AM Page 1"
+      },
+      {
+        "name": "Searchable Set",
+        "role": "extracted",
+        "context": "AM Page 1 of 3 \nEFTA00020454\n\nSearchable Set: \nSTR - Search Terms - OPR \nM"
+      },
+      {
+        "name": "Materials \nIg",
+        "role": "extracted",
+        "context": "t: \nSTR - Search Terms - OPR \nMaterials \nIg\ni US v Epstein \nSearch Terms"
+      },
+      {
+        "name": "Terms Summary",
+        "role": "extracted",
+        "context": "200 1400 1600 1800 2000 2200 \nTerms Summary \nTerm \nDocuments with hits Do"
+      },
+      {
+        "name": "Term \nDocuments",
+        "role": "extracted",
+        "context": "800 2000 2200 \nTerms Summary \nTerm \nDocuments with hits Documents \nwith hit"
+      },
+      {
+        "name": "Family \nUnique",
+        "role": "extracted",
+        "context": "uments \nwith hits, \nincluding Family \nUnique hits \n39 148 \n56 308 37 \n2,05"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-08",
+        "event": "12/8/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.891Z"
+}

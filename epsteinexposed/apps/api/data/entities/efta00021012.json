@@ -1,0 +1,121 @@
+{
+  "document": {
+    "id": "efta00021012",
+    "filename": "EFTA00021012.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021012.pdf",
+    "text": "\n\nU.S. Department of Justice \nSouthern District of New York \nOne St. Andrews Plaza \nNew York, NY 10007 \nPhone: (212) 637.1028 \nFax: (212) 637.0421 \nAugust 14, 2019 \nGloria Allred \nAllred, Maroko & Goldberg \n6300 Wilshire Blvd. Suite 1500 \nLos Angeles, CA 90048 \nRe: Case Number 2018R01618 and Court Docket Number 19-CR-00490 \nDear Gloria Allred: \nThe enclosed information is provided by the United States Department of Justice Victim Notification System \n(VNS). As a victim witness professional, my role is to assist you with information and services during the \nprosecution of this case. You have been designated to receive notifications on behalf of the following victim(s) \nor otential victims identified by law enforcement during the investigation of the case: \nOn August 10, 2019, Jeffrey Epstein died while in custody at the Manhattan Correctional Center. Where a \ndefendant dies prior to conviction, this Department of Justice will, in the ordinary course, seek dismissal of the \npending indictment. However, as the U.S. Attorney has publicly stated, the investigation of the conduct charged \nin the Indictment remains ongoing and we continue to urge anyone who feels they may be a victim or have \ninformation related to the conduct in this case to please contact 1-800-CALL-FBI. \nSincerely, \nGeoffrey Berman \nUnited States Attorney \nWendy Olsen \nVictim Witness Coordinator \nEFTA00021012",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "e investigation of the case: \nOn August 10, 2019, Jeffrey Epstein died while in custody at the Manhattan Correction"
+      },
+      {
+        "name": "Justice \nSouthern",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrews Plaza \nNew York, NY"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "District of New York \nOne St. Andrews Plaza \nNew York, NY 10007 \nPhone: ("
+      },
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "2) 637.0421 \nAugust 14, 2019 \nGloria Allred \nAllred, Maroko & Goldberg \n6"
+      },
+      {
+        "name": "Wilshire Blvd",
+        "role": "extracted",
+        "context": "lred, Maroko & Goldberg \n6300 Wilshire Blvd. Suite 1500 \nLos Angeles, CA"
+      },
+      {
+        "name": "Court Docket",
+        "role": "extracted",
+        "context": "e: Case Number 2018R01618 and Court Docket Number 19-CR-00490 \nDear Glor"
+      },
+      {
+        "name": "Dear Gloria",
+        "role": "extracted",
+        "context": "rt Docket Number 19-CR-00490 \nDear Gloria Allred: \nThe enclosed informa"
+      },
+      {
+        "name": "Justice Victim",
+        "role": "extracted",
+        "context": "e United States Department of Justice Victim Notification System \n(VNS). A"
+      },
+      {
+        "name": "Notification System",
+        "role": "extracted",
+        "context": "Department of Justice Victim Notification System \n(VNS). As a victim witness p"
+      },
+      {
+        "name": "On August",
+        "role": "extracted",
+        "context": "e investigation of the case: \nOn August 10, 2019, Jeffrey Epstein die"
+      },
+      {
+        "name": "Manhattan Correctional",
+        "role": "extracted",
+        "context": "died while in custody at the Manhattan Correctional Center. Where a \ndefendant di"
+      },
+      {
+        "name": "Geoffrey Berman",
+        "role": "extracted",
+        "context": "1-800-CALL-FBI. \nSincerely, \nGeoffrey Berman \nUnited States Attorney \nWend"
+      },
+      {
+        "name": "Attorney \nWendy",
+        "role": "extracted",
+        "context": "eoffrey Berman \nUnited States Attorney \nWendy Olsen \nVictim Witness Coordin"
+      },
+      {
+        "name": "Olsen \nVictim",
+        "role": "extracted",
+        "context": "United States Attorney \nWendy Olsen \nVictim Witness Coordinator \nEFTA0002"
+      },
+      {
+        "name": "Witness Coordinator",
+        "role": "extracted",
+        "context": "Attorney \nWendy Olsen \nVictim Witness Coordinator \nEFTA00021012"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      },
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      },
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637.1028",
+      "(212) 637.0421"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.826Z"
+}

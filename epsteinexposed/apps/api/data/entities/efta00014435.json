@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014435",
+    "filename": "EFTA00014435.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014435.pdf",
+    "text": "\n\nFrom: ' \nTo:'\nSubject: couple JE things \nDate: Sat, 29 Jun 2019 20:20:14 +0000 \nImportance: Normal \nAttachments: 2019-06-29, JE,_govemment_unsealing_request_and_order.docx; 2019-06-\n29, JE,_victim_notification,arrest,_draft.docx \nIn an effort to reduce the number of things we'll have to scramble to do whenever the arrest occurs, there are a couple \nnew saved does in the share for whichever one of us ends up handling particular random things — in the Grand Jury/ \nIndictment materials folder is an unsealing request and proposed order, since we'll want to do that immediately upon \narrest. \nAlso, I created a new \"Victim notification\" folder and added a draft of what I think we should put up on a victim \nnotification page on our website (like \n), \nwhich we can add updates to as the case goes along. can put that up \nwhen it's time. \nNeither is any rush at the moment, obviously, but they're attached in case anybody wants to take a look and have any \ncomments / corrections / edits so they're ready to go when necessary. And if either of you can think of anything else we \nshould be doing now to save ourselves a few minutes down the road, say the word I  Thx. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00014435",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 20:20:14 +0000 \nImportance: Normal \nAttachments: 2019-06-29, JE,_govemment_un"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "icular random things — in the Grand Jury/ \nIndictment materials folder"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "word I  Thx. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-29",
+        "event": "2019-06-29"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.829Z"
+}

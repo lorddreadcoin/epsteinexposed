@@ -1,0 +1,219 @@
+{
+  "document": {
+    "id": "efta00021190",
+    "filename": "EFTA00021190.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021190.pdf",
+    "text": "\n\n09/21/2021 11:33 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGenerated B \nPage 1 \nof 1 \nnDetell \nLast Name First Name Middle Initial Gender Birth \na \nMAXWELL GHISLAINE \nNumber Document Twar Document Country Class of Admission Admit \nUnti \nDate _Document \nU.S. ALIEN REGISTRATION \nCARD \nUNITED STATES \nEncounter Person Detail \nEnameller Line Type Encounter Dale Encounter Time \n(Eastern) \nTerminal Lane Sitetneounter Location \nMEM \nAIRLINE (NOT \nAPI) \n12/18/1999 16:26 0602 A511 - CBP -CYRIL E \nKING, INTL AIRPORT \nInbounctOutboend Ins ctor Processing Result Primary Query Result Referred To Agency \nINBOUND N NOT REFERRED \nManliest Date \nManifest Indicator Passenger Status Updated Passenger Status FlighbVessel Number Departure Location \nN 1 \nTransmitted By Cattier Cede Arrival Location \nPV \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00021190",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border \nProtection",
+        "role": "extracted",
+        "context": "1 11:33 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGen"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "artment of Homeland Security \nPerson Encounter Detail \nGenerated B \nPage 1"
+      },
+      {
+        "name": "Detail \nGenerated",
+        "role": "extracted",
+        "context": "nd Security \nPerson Encounter Detail \nGenerated B \nPage 1 \nof 1 \nnDetell \nLas"
+      },
+      {
+        "name": "Detell \nLast",
+        "role": "extracted",
+        "context": "Generated B \nPage 1 \nof 1 \nnDetell \nLast Name First Name Middle Initia"
+      },
+      {
+        "name": "Name First",
+        "role": "extracted",
+        "context": "Page 1 \nof 1 \nnDetell \nLast Name First Name Middle Initial Gender Bi"
+      },
+      {
+        "name": "Name Middle",
+        "role": "extracted",
+        "context": "f 1 \nnDetell \nLast Name First Name Middle Initial Gender Birth \na \nMAXW"
+      },
+      {
+        "name": "Initial Gender",
+        "role": "extracted",
+        "context": "Last Name First Name Middle Initial Gender Birth \na \nMAXWELL GHISLAINE"
+      },
+      {
+        "name": "Number Document",
+        "role": "extracted",
+        "context": "Birth \na \nMAXWELL GHISLAINE \nNumber Document Twar Document Country Class o"
+      },
+      {
+        "name": "Twar Document",
+        "role": "extracted",
+        "context": "LL GHISLAINE \nNumber Document Twar Document Country Class of Admission Ad"
+      },
+      {
+        "name": "Country Class",
+        "role": "extracted",
+        "context": "Number Document Twar Document Country Class of Admission Admit \nUnti \nDat"
+      },
+      {
+        "name": "Admission Admit",
+        "role": "extracted",
+        "context": "war Document Country Class of Admission Admit \nUnti \nDate _Document \nU.S. A"
+      },
+      {
+        "name": "Unti \nDate",
+        "role": "extracted",
+        "context": "try Class of Admission Admit \nUnti \nDate _Document \nU.S. ALIEN REGISTR"
+      },
+      {
+        "name": "Encounter Person",
+        "role": "extracted",
+        "context": "TRATION \nCARD \nUNITED STATES \nEncounter Person Detail \nEnameller Line Type E"
+      },
+      {
+        "name": "Detail \nEnameller",
+        "role": "extracted",
+        "context": "ITED STATES \nEncounter Person Detail \nEnameller Line Type Encounter Dale Enco"
+      },
+      {
+        "name": "Line Type",
+        "role": "extracted",
+        "context": "nter Person Detail \nEnameller Line Type Encounter Dale Encounter Time"
+      },
+      {
+        "name": "Encounter Dale",
+        "role": "extracted",
+        "context": "n Detail \nEnameller Line Type Encounter Dale Encounter Time \n(Eastern) \nTe"
+      },
+      {
+        "name": "Encounter Time",
+        "role": "extracted",
+        "context": "ller Line Type Encounter Dale Encounter Time \n(Eastern) \nTerminal Lane Sit"
+      },
+      {
+        "name": "Terminal Lane",
+        "role": "extracted",
+        "context": "le Encounter Time \n(Eastern) \nTerminal Lane Sitetneounter Location \nMEM"
+      },
+      {
+        "name": "Sitetneounter Location",
+        "role": "extracted",
+        "context": "ime \n(Eastern) \nTerminal Lane Sitetneounter Location \nMEM \nAIRLINE (NOT \nAPI) \n12/"
+      },
+      {
+        "name": "Outboend Ins",
+        "role": "extracted",
+        "context": "KING, INTL AIRPORT \nInbounctOutboend Ins ctor Processing Result Primar"
+      },
+      {
+        "name": "Processing Result",
+        "role": "extracted",
+        "context": "RT \nInbounctOutboend Ins ctor Processing Result Primary Query Result Referred"
+      },
+      {
+        "name": "Primary Query",
+        "role": "extracted",
+        "context": "nd Ins ctor Processing Result Primary Query Result Referred To Agency \nIN"
+      },
+      {
+        "name": "Result Referred",
+        "role": "extracted",
+        "context": "ocessing Result Primary Query Result Referred To Agency \nINBOUND N NOT REFE"
+      },
+      {
+        "name": "To Agency",
+        "role": "extracted",
+        "context": "Primary Query Result Referred To Agency \nINBOUND N NOT REFERRED \nManl"
+      },
+      {
+        "name": "Manliest Date",
+        "role": "extracted",
+        "context": "ency \nINBOUND N NOT REFERRED \nManliest Date \nManifest Indicator Passenger"
+      },
+      {
+        "name": "Manifest Indicator",
+        "role": "extracted",
+        "context": "NOT REFERRED \nManliest Date \nManifest Indicator Passenger Status Updated Pass"
+      },
+      {
+        "name": "Passenger Status",
+        "role": "extracted",
+        "context": "iest Date \nManifest Indicator Passenger Status Updated Passenger Status Flig"
+      },
+      {
+        "name": "Updated Passenger",
+        "role": "extracted",
+        "context": "st Indicator Passenger Status Updated Passenger Status FlighbVessel Number De"
+      },
+      {
+        "name": "Status Flighb",
+        "role": "extracted",
+        "context": "nger Status Updated Passenger Status FlighbVessel Number Departure Locati"
+      },
+      {
+        "name": "Vessel Number",
+        "role": "extracted",
+        "context": "pdated Passenger Status FlighbVessel Number Departure Location \nN 1 \nTran"
+      },
+      {
+        "name": "Departure Location",
+        "role": "extracted",
+        "context": "er Status FlighbVessel Number Departure Location \nN 1 \nTransmitted By Cattier"
+      },
+      {
+        "name": "Transmitted By",
+        "role": "extracted",
+        "context": "mber Departure Location \nN 1 \nTransmitted By Cattier Cede Arrival Location"
+      },
+      {
+        "name": "Cattier Cede",
+        "role": "extracted",
+        "context": "Location \nN 1 \nTransmitted By Cattier Cede Arrival Location \nPV \nFor Off"
+      },
+      {
+        "name": "Arrival Location",
+        "role": "extracted",
+        "context": "Transmitted By Cattier Cede Arrival Location \nPV \nFor Official Use Only /"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "er Cede Arrival Location \nPV \nFor Official Use Only / Law \nEnforcement S"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "al Location \nPV \nFor Official Use Only / Law \nEnforcement Sensitive"
+      },
+      {
+        "name": "Law \nEnforcement",
+        "role": "extracted",
+        "context": "PV \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00021190"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-21",
+        "event": "09/21/2021"
+      },
+      {
+        "date": "1999-12-18",
+        "event": "12/18/1999"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.175Z"
+}

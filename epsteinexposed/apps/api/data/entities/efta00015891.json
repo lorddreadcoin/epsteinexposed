@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00015891",
+    "filename": "EFTA00015891.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015891.pdf",
+    "text": "\n\nFrom: \nTo: 1=9 S2 f  'slYSr \nCc: (USANYS)\" \nalMIE> \nSubject: RE: Epstein \nDate: Fri, 26 Apr 2019 19:16:44 +0000 \nImportance: Normal \nAttachments: 2019-03-12, JEJtatus_memo_for_ODAG,_updated.docx; 2019-04-\n26, JE,_status_memo_for_Audrey.docx \nAttached is the most recent ODAG memo, along with a short memo for that summarizes updates since \nthe la o. Please let me know if there are any edits you'd like met , r additional information you \nneed. hasn't reviewed this, because he's in transit, but we spoke briefly this morning to discuss what should \ngo in the update. \n Original Messa e \nFrom: \n(USANYS) \n<MMIMIIIM> \nSent: Frida , April 26 2019 11:43 AM \nTo: \nCc: \n(USANYS) \n•\nSubject: Re: Epstein \nwould you be able to do this? \nSent from my iPhone \n> On Apr 26, 2019, at 11:36 AM, \n<IMIIM> \nwrote: \n> I'm traveling today, back on Sunday so could do it then or otherwise have to defer to — sorry. \n> \nSent from my iPhone \n>> On Apr 26, 2019, at 10:35, (USANYS) alMIN> wrote: \nis going to meet with n Monday - can you guys put together an update memo this \nafternoon on where we are, what we've done since the last update memo, and next steps? This just for-\nfor now, not for sending down to DC. \n>> \n>> Sent from my iPhone \nEFTA00015891",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sr \nCc",
+        "role": "extracted",
+        "context": "From: \nTo: 1=9 S2 f  'slYSr \nCc: (USANYS)\" \nalMIE> \nSubject:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "SANYS)\" \nalMIE> \nSubject: RE: Epstein \nDate: Fri, 26 Apr 2019 19:16:44 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 19:16:44 +0000 \nImportance: Normal \nAttachments: 2019-03-12, JEJtatus_memo_fo"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "t should \ngo in the update. \n Original Messa e \nFrom: \n(USANYS) \n<MMIMIIIM"
+      },
+      {
+        "name": "On Apr",
+        "role": "extracted",
+        "context": "this? \nSent from my iPhone \n> On Apr 26, 2019, at 11:36 AM, \n<IMII"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-03-12",
+        "event": "2019-03-12"
+      },
+      {
+        "date": "2019-04-26",
+        "event": "April 26 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.714Z"
+}

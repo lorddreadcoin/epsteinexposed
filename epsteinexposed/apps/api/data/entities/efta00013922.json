@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00013922",
+    "filename": "EFTA00013922.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013922.pdf",
+    "text": "\n\nFrom: \nTo: \"Acosta, Alex \nUSAFLS \" \nBce: \nSubject: FW: Epstein: Victim Notification Letter \nDate: The, 08 Jul 2008 21:42:53 +0000 \nImportance: Normal \nAttachments: Victim_Notification_Ltr.pdf \nAlex, and M- in my draft declaration I reference the original victim notification letter that was \nobjected to by the defense. Here it is as it was sent to Jay Lefkowitz on November 28, 2007. \nThanks. \nFrom: \nSent: Wednesday, November 28, 2007 4:47 PM \nTo: Jay Lefkowitz \nCc: Acosta, Alex (USAFLS) \nSubject: Epstein: Victim Notification Letter \nDear .lay: \n-asked that I  forward the victim notification letter to you. It  is attached. \nThank you. \n«Victim \nNotification Ltr.pdf» \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013922",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Victim Notification",
+        "role": "extracted",
+        "context": "Bce: \nSubject: FW: Epstein: Victim Notification Letter \nDate: The, 08 Jul 200"
+      },
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "Epstein: Victim Notification Letter \nDate: The, 08 Jul 2008 21:42:53 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 21:42:53 +0000 \nImportance: Normal \nAttachments: Victim_Notification_Ltr.pdf"
+      },
+      {
+        "name": "Jay Lefkowitz",
+        "role": "extracted",
+        "context": "Here it is as it was sent to Jay Lefkowitz on November 28, 2007. \nThanks"
+      },
+      {
+        "name": "Letter \nDear",
+        "role": "extracted",
+        "context": "Epstein: Victim Notification Letter \nDear .lay: \n-asked that I  forward"
+      },
+      {
+        "name": "Victim \nNotification",
+        "role": "extracted",
+        "context": "t  is attached. \nThank you. \n«Victim \nNotification Ltr.pdf» \nAssistant U.S. Atto"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "tion Ltr.pdf» \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013922"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2007-11-28",
+        "event": "November 28, 2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.747Z"
+}

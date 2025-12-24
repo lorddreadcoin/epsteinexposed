@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018578",
+    "filename": "EFTA00018578.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018578.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 39 Filed 08/10/20 Page 1 of 2 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \n x \n• \nUNITED STATES OF AMERICA, • \n. AFFIDAVIT OF CERTIFICATION \nv. . PURSUANT TO LOCAL \nCRIMINAL RULE 16.1 \nGHISLAINE MAXWELL, \n. \nDefendant. 20 Cr. 330 (AJN) \n• \n x \nI, Christian R. Everdell, an attorney duly admitted to practice in New York State and \nbefore this Court, declare the following is true and correct under penalty of perjury pursuant to \n28 \nU.S.C. § 1746: \n1. I am a partner at Cohen & Gresser LLP, counsel for defendant Ghislaine Maxwell \nin the above-captioned case. \n2. I certify pursuant to Local Criminal Rule 16.1 that defense counsel has conferred \nin good faith with Assistant U.S. Attorneys and \nregarding the defense's request for the disclosure of the \nidentities of Victims 1-3 referenced in the indictment, subject to the restrictions of \nthe protective order entered by the Court. The government did not agree to the \nrequest, and instead indicated that it would disclose the identities of Victims 1-3 \nthrough its production of Rule 16 discovery, or as part of its production of Jencks \nAct material closer to trial. \nEFTA00018578\n\nCase 1:20-cr-00330-AJN Document 39 Filed 08/10/20 Page 2 of 2 \nI hereby certify that the foregoing statements made by me are true. I am aware that if any of the \nforegoing statements are willfully false, I am subject to punishment. \nDated: August 10, 2020 /s/Christian R. Everdell \nNew York, New York Christian R. Everdell \nCOHEN & DRESSER LLP \nNew York, New York 10022 \nPhone: \n2 \nEFTA00018579",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TION \nv. . PURSUANT TO LOCAL \nCRIMINAL RULE 16.1 \nGHISLAINE MAXWELL, \n. \nDefendant. 20 Cr. 330 (AJN) \n• \n x \nI, Chris"
+      },
+      {
+        "name": "Local Criminal",
+        "role": "extracted",
+        "context": "se. \n2. I certify pursuant to Local Criminal Rule 16.1 that defense counse"
+      },
+      {
+        "name": "Jencks \nAct",
+        "role": "extracted",
+        "context": "as part of its production of Jencks \nAct material closer to trial. \nEF"
+      },
+      {
+        "name": "Everdell \nNew",
+        "role": "extracted",
+        "context": "gust 10, 2020 /s/Christian R. Everdell \nNew York, New York Christian R. E"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-10",
+        "event": "August 10, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.231Z"
+}

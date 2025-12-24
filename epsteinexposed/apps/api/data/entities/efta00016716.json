@@ -1,0 +1,63 @@
+{
+  "document": {
+    "id": "efta00016716",
+    "filename": "EFTA00016716.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016716.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: FW: Ghislaine Maxwell- 02879-509 \nDate: Wed, 13 Oct 2021 13:32:30 +0000 \nDon't think we need to bother team with this, but FYI. \nFrom: \nSent: Wednesday, October 13, 2021 8:38 AM \nTo: \nSubject: RE: Ghislaine Maxwell- 02879-509 \nThanks! \n> > >  \" \nHi M, \n>  10/13/2021 8:37 AM > » \nYes, I relayed our last conversations to the AUSAs after we spoke. Defense counsel continues to press (with us as well) for \ndelivery requirements that are inconsistent with the way we understand other defendants' mail to be treated and the way \nwe typically treat mail bound for in-custody defendants. Happy to discuss by phone. \nThanks, \nFrom: \nSent: Wednesday, October 13, 2021 6:56 AM \nTo: \nSubject: Fwd: Ghislaine Maxwell- 02879-509 \nDid you discuss with the AUSAs about tempering expectations on the delivery of the hard drives? \n>>>  BOBBI C STERNHEIM < >  10/12/2021 10:25 AM >>> \nGood morning-\nThe government has sent a  hard drive to the MDC via Federal Express for Ms. Maxwell. \nUpon arrival, it must IMMEDIATELY be given to Ms. Maxwell. \nTime is of the essence. \nPlease inform me when it arrives. \nThank you-\nBobbi \nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n225 Broadway, Suite 715 \nNew York, NY 10007 \nEFTA00016716\n\nMain: \nCell: \nFax: \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim that may be \nconfidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this \nmessage. Thank you. \nEFTA00016717",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: FW: Ghislaine Maxwell- 02879-509 \nDate: Wed, 13 Oct 2021 13:32:30 +0000"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "e MDC via Federal Express for Ms. Maxwell. \nUpon arrival, it must I"
+      },
+      {
+        "name": "Federal Express",
+        "role": "extracted",
+        "context": "a  hard drive to the MDC via Federal Express for Ms. Maxwell. \nUpon arriva"
+      },
+      {
+        "name": "Bobbi \nPlease",
+        "role": "extracted",
+        "context": "when it arrives. \nThank you-\nBobbi \nPlease note my new office address an"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "s: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \n225 Br"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-13",
+        "event": "10/13/2021"
+      },
+      {
+        "date": "2021-10-12",
+        "event": "10/12/2021"
+      },
+      {
+        "date": "2021-10-13",
+        "event": "October 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.225Z"
+}

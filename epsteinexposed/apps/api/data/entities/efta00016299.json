@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016299",
+    "filename": "EFTA00016299.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016299.pdf",
+    "text": "\n\nFrom: \"n\" \nTo:'\nSubject: Shared \nDate: Tue, 04 Dec 2018 16:18:52 +0000 \nThe FOIA documents are saved here: \n\\\\Usa.doj.gov\\cloud\\ NYAStAndrews \\Shared WSvEpstein-2018R01618 \\Investigation FBI—FOIA \nAssistant United States Attorney \nSouthern District of New York \nEFTA00016299",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Shared \nDate",
+        "role": "extracted",
+        "context": "From: \"n\" \nTo:'\nSubject: Shared \nDate: Tue, 04 Dec 2018 16:18:52 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "1618 \\Investigation FBI—FOIA \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "on FBI—FOIA \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00016299"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.424Z"
+}

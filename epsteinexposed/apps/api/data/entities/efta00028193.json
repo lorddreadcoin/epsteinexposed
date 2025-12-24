@@ -1,0 +1,34 @@
+{
+  "document": {
+    "id": "efta00028193",
+    "filename": "EFTA00028193.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028193.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Booking travel for tomorrow \nDate: Wed, 11 Sep 2019 13:58:34 +0000 \nI just spoke with, who approved the use of USAO funds to pay for an Epstein victim named to fly from \nPalm Beach to New York tomorrow 9/12 so that she can meet with us. She will be meeting with the Epstein team of \nAUSAs and agents at 5pm tomorrow evening, and then will need to stay over in a hotel tomorrow night, flying back to \nPalm Beach on Friday 9/13. \nWould you please book her travel? Info is below: \n• Full name on ID: \n• DOB: \n• Flying from: Palm Beach, FL \n• Flying to: NYC (needs to arrive in SDNY in time for 5pm meeting on 9/12) \n• Hotel: Needed for one night 9/12 into 9/13, then flight back to Palm Beach on 9/13 \n• Witness email address: \nPlease let me know if you have any questions or need any additional information. \nThanks so much, \nEFTA00028193",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ein victim named to fly from \nPalm Beach to New York tomorrow 9/12 so"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.801Z"
+}

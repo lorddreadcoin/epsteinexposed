@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027554",
+    "filename": "EFTA00027554.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027554.pdf",
+    "text": "\n\nFrom: \" (NY) (FBI)\" \n< \nTo:\" \n)\" < \nCc: \" \n\"<\nSubject: FW: medical list \nDate: Fri, 07 Feb 2020 21:27:18 +0000 \nFYI \n Original Message \nFrom: [mailto \nSent: Wednesday, January 29, 2020 2:31 AM \nTo: \n(NY) (FBI) \nCc: (RO) (FBI) \n, \nSubject: Re: medical list \nHi \n• (NY) (FBI) \nAfter Monday's bizarre and insulting appearance of Geoffrey Berman, please may I arrange a call with you all, at your earliest \nconvenience. \nBest \n> On I7 Jan 2020, at 19:17, (NY) (FBI) <> wrote: \n> Hi \n- as stated I thought since I haven't spoken to you before this would be a good opportunity. I also spoke to the case \nagent and thought we could call you together; to answer any questions that we are able about the case. \n> Would you be free January 22? I'm thinking. Let me know if that would work for you. If so - let \nus know what time and a  number to contact you at. \n> Have a great weekend and looking forward to speaking with you. \n>- \n> On Jan 17, 2020 1:11 PM, ' . (RO) (FBI )\" wrote: \n> \nGood evening \n=, \n> As promised, attached is a complete medical list that the provides for those seeking medical services. \n> You will see in the document that there am psychological services listed on page 22. \n>M, copied here, would like to go over this list with you and assist you in choosing a therapist. I will leave it to you two to \nconnect at a time convenient for you both. You may even decide to see more than one doctor until you decide with whom you're \ncomfortable. \n> Thank you again for your patience this month. \n> Have a great weekend! \nEFTA00027554\n\n> \nVictim \nServices \nManager \n> \nFBI \nRegion \n> \nEmail: \nEFTA00027555",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "eb 2020 21:27:18 +0000 \nFYI \n Original Message \nFrom: [mailto \nSent: Wednesd"
+      },
+      {
+        "name": "After Monday",
+        "role": "extracted",
+        "context": "dical list \nHi \n• (NY) (FBI) \nAfter Monday's bizarre and insulting appea"
+      },
+      {
+        "name": "Geoffrey Berman",
+        "role": "extracted",
+        "context": "e and insulting appearance of Geoffrey Berman, please may I arrange a call"
+      },
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "to speaking with you. \n>- \n> On Jan 17, 2020 1:11 PM, ' . (RO) (F"
+      },
+      {
+        "name": "Victim \nServices",
+        "role": "extracted",
+        "context": "at weekend! \nEFTA00027554\n\n> \nVictim \nServices \nManager \n> \nFBI \nRegion \n>"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-29",
+        "event": "January 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.524Z"
+}

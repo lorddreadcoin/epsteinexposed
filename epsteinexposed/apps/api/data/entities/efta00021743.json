@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00021743",
+    "filename": "EFTA00021743.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021743.pdf",
+    "text": "\n\nFrom:i \nTo:'\nCc• \" \nSubject: Re: disclosure update \nDate: Wed, 31 Jul 2019 21:05:40 +0000 \nso sorry, we are stuck in transit. Can I call you when I am back at my desk? It should be within the next half \nhour. \nApologies. \nSent from my iPhone \nOn Jul 31, 2019, at 2:00 PM,/rote: \nYes-5pm works. Call my cell: \nFrom: \nSent: Wednesday, July 31, 2019 12:20 PM \nTo: \nCc: \nSubject: RE: disclosure update \nThanks—it's possible we'll still be in a meeting at 4:30. Would it be possible to speak at 5 instead? If not, we can plan \nfor 4:30 and let you know if we need to reschedule. \nThanks, \nFrom: \nSubject: RE: disclosure update \n2019 11:18 AM \nYes—would 4:30pm today work? \nEFTA00021743\n\nFrom \nSent: Tuesday, July 30, 2019 6:20 PM \nTo: \nCc \nSubject: disclosure update \nDo you have a few minutes for a quick call tomorrow afternoon? We are making a disclosure that relates to your client in \nconnection with our discovery obligations to Epstein's counsel, and we wanted to briefly make you aware of it. \nThanks, \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00021744",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "r. \nApologies. \nSent from my iPhone \nOn Jul 31, 2019, at 2:00 PM,/rot"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "pm today work? \nEFTA00021743\n\nFrom \nSent: Tuesday, July 30, 2019 6:20"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": ", July 30, 2019 6:20 PM \nTo: \nCc \nSubject: disclosure update \nDo you ha"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ke you aware of it. \nThanks, \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York. NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00021744"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-31",
+        "event": "July 31, 2019"
+      },
+      {
+        "date": "2019-07-30",
+        "event": "July 30, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.313Z"
+}

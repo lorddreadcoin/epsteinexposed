@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00014572",
+    "filename": "EFTA00014572.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014572.pdf",
+    "text": "\n\nFamilienname \nNom \nSurname \nVorname \nPrenom \nChristian \nname \nDatum \nund \nOrt \nder \nGeburt \nDate \net \nlieu \nde \nnaissance \nDate \nand \nplace \nof \nbirth \nBeruf \nProfession \nProfession \nWohnort \nDomicile \nResidence \nStaatsbürgerschaft \nNationalize \nNationality \nMarius \nRobert \nManager \nblC111 \nnterschrift \ndes \nInhabers \nSignature \ndu \ntitulaire \nSignature \nof \nbearer \nPERSONSBESCHREIBUNG \nSIGNALEMENT \nDESCRIPTION \nOF \nBEARER \nGröße \nTaille \nHeight \nFarbe \nder \nAugen \nCouleur \ndes \nyeux \nColour \nof \neyes \nBesondere \nKennzeichen \nSignes \nparticuliers \nDistinguishing \nmarks \nEFTA00014572",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Familienname \nNom",
+        "role": "extracted",
+        "context": "Familienname \nNom \nSurname \nVorname \nPrenom \nCh"
+      },
+      {
+        "name": "Surname \nVorname",
+        "role": "extracted",
+        "context": "Familienname \nNom \nSurname \nVorname \nPrenom \nChristian \nname \nDat"
+      },
+      {
+        "name": "Prenom \nChristian",
+        "role": "extracted",
+        "context": "nname \nNom \nSurname \nVorname \nPrenom \nChristian \nname \nDatum \nund \nOrt \nder"
+      },
+      {
+        "name": "Geburt \nDate",
+        "role": "extracted",
+        "context": "name \nDatum \nund \nOrt \nder \nGeburt \nDate \net \nlieu \nde \nnaissance \nDat"
+      },
+      {
+        "name": "Beruf \nProfession",
+        "role": "extracted",
+        "context": "Date \nand \nplace \nof \nbirth \nBeruf \nProfession \nProfession \nWohnort \nDomicil"
+      },
+      {
+        "name": "Profession \nWohnort",
+        "role": "extracted",
+        "context": "of \nbirth \nBeruf \nProfession \nProfession \nWohnort \nDomicile \nResidence \nStaatsb"
+      },
+      {
+        "name": "Domicile \nResidence",
+        "role": "extracted",
+        "context": "fession \nProfession \nWohnort \nDomicile \nResidence \nStaatsbürgerschaft \nNational"
+      },
+      {
+        "name": "Nationalize \nNationality",
+        "role": "extracted",
+        "context": "esidence \nStaatsbürgerschaft \nNationalize \nNationality \nMarius \nRobert \nManager \nblC"
+      },
+      {
+        "name": "Marius \nRobert",
+        "role": "extracted",
+        "context": "ft \nNationalize \nNationality \nMarius \nRobert \nManager \nblC111 \nnterschrift"
+      },
+      {
+        "name": "Inhabers \nSignature",
+        "role": "extracted",
+        "context": "er \nblC111 \nnterschrift \ndes \nInhabers \nSignature \ndu \ntitulaire \nSignature \nof"
+      },
+      {
+        "name": "Taille \nHeight",
+        "role": "extracted",
+        "context": "SCRIPTION \nOF \nBEARER \nGröße \nTaille \nHeight \nFarbe \nder \nAugen \nCouleur"
+      },
+      {
+        "name": "Augen \nCouleur",
+        "role": "extracted",
+        "context": "Taille \nHeight \nFarbe \nder \nAugen \nCouleur \ndes \nyeux \nColour \nof \neyes"
+      },
+      {
+        "name": "Besondere \nKennzeichen",
+        "role": "extracted",
+        "context": "des \nyeux \nColour \nof \neyes \nBesondere \nKennzeichen \nSignes \nparticuliers \nDistin"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.109Z"
+}

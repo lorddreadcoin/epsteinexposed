@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00002510",
+    "filename": "EFTA00002510.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002510.pdf",
+    "text": "\n\nILO \nDefault \nNetwork \nSettings \nSerial \nNumber:MXQ3220187 \nI \nIII \nII \nHMI \nII \nIII \nUser \nName: \nAdministrator \nDNS \nName: \nILOMXQ3220187 \n} \nIIIIIIIIIIIIIIIIIIIIIIIIIIIIII \nPassword: \nSOS \nBR \nDON \nI  \nill \n3 \nEFTA00002510",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Default \nNetwork",
+        "role": "extracted",
+        "context": "ILO \nDefault \nNetwork \nSettings \nSerial \nNumber:MXQ"
+      },
+      {
+        "name": "Settings \nSerial",
+        "role": "extracted",
+        "context": "ILO \nDefault \nNetwork \nSettings \nSerial \nNumber:MXQ3220187 \nI \nIII \nI"
+      },
+      {
+        "name": "User \nName",
+        "role": "extracted",
+        "context": "87 \nI \nIII \nII \nHMI \nII \nIII \nUser \nName: \nAdministrator \nDNS \nName:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:27.608Z"
+}

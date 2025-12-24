@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00027965",
+    "filename": "EFTA00027965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027965.pdf",
+    "text": "\n\nEU \n#: \n19-28287 \nFB \n#: \nEvidence \nType: \nEU \nGeneral \nVoucher \n#: \n# \nPackage: \n2 \nbags \nOffice \nof \nChief \nMedical \nExaminer \n520 \nFirst \nAvenue, \nNew \nYork \nNew \nYork, \n10016 \nEvidence \nDepartment \nEvidence \nReceipt \nSubjecl(s) \n: \nM19-0184321Epstein, \nJeffery(Decedent) \nSecurity \nEnvelope \n: \nNarcotic \nEnvelope: \nItem \n# \nQty \nDesc \n001 \n1 \nbedding \n002 \nFrom: \n1 \nTo: \nclothing \nDate \nand \nTime \nBadge \nSign \nDetective \nMI \n. \n8/12/19 \n11:56 \nAM \n6982 \nMonday \n12 \nAugust \n2019 \nPage \n1 \nof \n1 \nEFTA00027965",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Evidence \nType",
+        "role": "extracted",
+        "context": "EU \n#: \n19-28287 \nFB \n#: \nEvidence \nType: \nEU \nGeneral \nVoucher \n#: \n#"
+      },
+      {
+        "name": "General \nVoucher",
+        "role": "extracted",
+        "context": "FB \n#: \nEvidence \nType: \nEU \nGeneral \nVoucher \n#: \n# \nPackage: \n2 \nbags \nOf"
+      },
+      {
+        "name": "Chief \nMedical",
+        "role": "extracted",
+        "context": "ackage: \n2 \nbags \nOffice \nof \nChief \nMedical \nExaminer \n520 \nFirst \nAvenue"
+      },
+      {
+        "name": "First \nAvenue",
+        "role": "extracted",
+        "context": "hief \nMedical \nExaminer \n520 \nFirst \nAvenue, \nNew \nYork \nNew \nYork, \n1001"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "xaminer \n520 \nFirst \nAvenue, \nNew \nYork \nNew \nYork, \n10016 \nEvidence"
+      },
+      {
+        "name": "Evidence \nDepartment",
+        "role": "extracted",
+        "context": "New \nYork \nNew \nYork, \n10016 \nEvidence \nDepartment \nEvidence \nReceipt \nSubjecl(s"
+      },
+      {
+        "name": "Evidence \nReceipt",
+        "role": "extracted",
+        "context": "10016 \nEvidence \nDepartment \nEvidence \nReceipt \nSubjecl(s) \n: \nM19-0184321Ep"
+      },
+      {
+        "name": "Security \nEnvelope",
+        "role": "extracted",
+        "context": "1Epstein, \nJeffery(Decedent) \nSecurity \nEnvelope \n: \nNarcotic \nEnvelope: \nItem"
+      },
+      {
+        "name": "Narcotic \nEnvelope",
+        "role": "extracted",
+        "context": "dent) \nSecurity \nEnvelope \n: \nNarcotic \nEnvelope: \nItem \n# \nQty \nDesc \n001 \n1"
+      },
+      {
+        "name": "Qty \nDesc",
+        "role": "extracted",
+        "context": "Narcotic \nEnvelope: \nItem \n# \nQty \nDesc \n001 \n1 \nbedding \n002 \nFrom:"
+      },
+      {
+        "name": "Time \nBadge",
+        "role": "extracted",
+        "context": "1 \nTo: \nclothing \nDate \nand \nTime \nBadge \nSign \nDetective \nMI \n. \n8/12"
+      },
+      {
+        "name": "Sign \nDetective",
+        "role": "extracted",
+        "context": "hing \nDate \nand \nTime \nBadge \nSign \nDetective \nMI \n. \n8/12/19 \n11:56 \nAM \n6"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-12",
+        "event": "12 \nAugust \n2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.356Z"
+}

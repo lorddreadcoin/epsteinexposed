@@ -1,0 +1,66 @@
+{
+  "document": {
+    "id": "efta00027962",
+    "filename": "EFTA00027962.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027962.pdf",
+    "text": "\n\n90A-NY-3151227 Serial 47 \nFD-1057 (Rcv. 5-8-I0) \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: (U) FD\n-597/ \nItems \n1B20, 1821 Date: 08/20/2019 \nFrom: NEW YORK \nNY\n-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227 \n212-384-1000 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nSynopsis: (U) FD-597/ Items 1820, 1821 \nEnclosure(s): Enclosed are the \nfollowing items: \n1. (U) FD-597/ Items 1B20, 1B21 \nDetails: \nOn \n08/15/2019, SA \nseized \nitems 1820 and 1821 from the \nMCC, 150 Park Row, New York, NY from Lt. T. Doctor \nat approximately \n4:45pm. The FD-597/ Receipt for \nGovernment Property is attached in a lA \npackage. \n♦♦ \nUNCLASSIFIED \nEFTA00027962",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "D #: 90A-NY-3151227 \n212-384-1000 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nSynopsis: (U) FD-"
+      },
+      {
+        "name": "Electronic Communication",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: (U) FD\n-597/ \nItems"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "NEW YORK \nNY\n-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227"
+      },
+      {
+        "name": "Park Row",
+        "role": "extracted",
+        "context": "0 and 1821 from the \nMCC, 150 Park Row, New York, NY from Lt. T. Doc"
+      },
+      {
+        "name": "Government Property",
+        "role": "extracted",
+        "context": "5pm. The FD-597/ Receipt for \nGovernment Property is attached in a lA \npackage."
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-20",
+        "event": "08/20/2019"
+      },
+      {
+        "date": "2019-08-15",
+        "event": "08/15/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-384-1000"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.351Z"
+}

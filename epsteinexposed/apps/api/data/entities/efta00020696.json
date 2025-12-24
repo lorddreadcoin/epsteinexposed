@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00020696",
+    "filename": "EFTA00020696.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020696.pdf",
+    "text": "\n\nFrom: \n)\" \naMIM> \nTo: \n\" \nSubject: status memo \nDate: Mon, 29 Apr 2019 17:32:00 +0000 \nImportance: Normal \nAttachments: 2019-04-26 JE status memo _forly2.docx \nI think this is close to the final version—Wand I talked about it afterwards, and I think he made some edits while I was in \nhis office, and then after I left, so this isn't the final cut. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020696",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 17:32:00 +0000 \nImportance: Normal \nAttachments: 2019-04-26 JE status memo _f"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "so this isn't the final cut. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "final cut. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020696"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-04-26",
+        "event": "2019-04-26"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.375Z"
+}

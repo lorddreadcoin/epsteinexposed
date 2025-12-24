@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027110",
+    "filename": "EFTA00027110.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027110.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nSubject: RE: we are all in my office \nDate: Wed, 14 Aug 2019 19:01:21 +0000 \nHey I'm so sorry, got dragged into an Epstein meeting \nFrom: \nSent: Wednesday, August 14, 2019 14:46 \nTo: \nSubject: we are all in my \noffice \nSpecial Agent \nUnited States Attorney's Office \nSouthern District of New York \n(w) \n(m) \nEFTA00027110",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "ct: we are all in my \noffice \nSpecial Agent \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ent \nUnited States Attorney's Office \nSouthern District of New York \n(w) \n(m"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.563Z"
+}

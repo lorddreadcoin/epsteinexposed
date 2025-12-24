@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029465",
+    "filename": "EFTA00029465.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029465.pdf",
+    "text": "\n\nFrom: \nTo:' \" \nCc: \nSubject: RE: Jane Doe 43 v. Epstein, et al., 17 Civ. 616 (JGK)(SN) \nDate: Tue, 05 Feb 2019 18:57:47 +0000 \nImportance: Normal \nAttachments: 2019-02-05, JE,_unsealing_application_and_order,_17_Civ_616 JSN).pdf \nTo the Chambers of Judge Netburn: \nPlease see the attached application and proposed order in connection with the above-captioned case, which the \nGovernment respectfully requests be filed under seal for the reasons explained in the application. \ngictfully, \nEFTA00029465",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "m: \nTo:' \" \nCc: \nSubject: RE: Jane Doe 43 v. Epstein, et al., 17 Civ"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:57:47 +0000 \nImportance: Normal \nAttachments: 2019-02-05, JE,_unsealing_ap"
+      },
+      {
+        "name": "Judge Netburn",
+        "role": "extracted",
+        "context": "JSN).pdf \nTo the Chambers of Judge Netburn: \nPlease see the attached app"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-05",
+        "event": "2019-02-05"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.477Z"
+}

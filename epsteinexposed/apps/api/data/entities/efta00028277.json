@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028277",
+    "filename": "EFTA00028277.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028277.pdf",
+    "text": "\n\nSubject: RE: 20cr330, US v. \nMaxwell \nDate: Fri, 12 Nov 2021 16:28:41 +0000 \nAttachments: 20cr330_Order_11.11.21.pdf \nCounsel, \nTo implement this order, we propose docketing the various motions in limine the same way we did last time. Assuming \nyou agree, we'll begin by filing our opening brief. \nThanks \nFrom: Nathan NYSD Chambers \nSent: Thursday, November 11, 2021 9:55 PM \nTo: \n(USANYS) \nSubject: 20cr330, US v. Maxwell \nCounsel: \nAttached please find an order issued by Judge Nathan, which will be filed on the docket \ntomorrow morning. \nSincerely, \nChambers of the Hon. \nAlison J. Nathan \nEFTA00028277",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: 20cr330, US v. \nMaxwell \nDate: Fri, 12 Nov 2021 16:28:41 +0"
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "by filing our opening brief. \nThanks \nFrom: Nathan NYSD Chambers \nSent:"
+      },
+      {
+        "name": "Chambers \nSent",
+        "role": "extracted",
+        "context": "f. \nThanks \nFrom: Nathan NYSD Chambers \nSent: Thursday, November 11, 2021"
+      },
+      {
+        "name": "Maxwell \nCounsel",
+        "role": "extracted",
+        "context": "NYS) \nSubject: 20cr330, US v. Maxwell \nCounsel: \nAttached please find an ord"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "lease find an order issued by Judge Nathan, which will be filed on the d"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-11",
+        "event": "November 11, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.894Z"
+}

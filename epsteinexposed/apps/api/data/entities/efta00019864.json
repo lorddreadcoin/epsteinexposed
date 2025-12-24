@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019864",
+    "filename": "EFTA00019864.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019864.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: phone records \nDate: Thu, 25 Apr 2019 15:34:13 +0000 \nImportance: Normal \nAttachments:_number.pdanumber.pdf; message_with_number.pdf \nHi ancM \nIf you have a moment for a call today, that would be great—I should be at my desk all of today. Separately, a few things \non phone records: \n• FYI, according to the 302s, it looks like the number foren the messages I\nllwas \nst.oenaed—see attached—along with some other New York based numbers that I don't recognize \nand Could you please check for those records in the file? Thanks! \n• It also looks like the number fo \nis the same number \nn the phone messages we discussed yesterday \novided to the agents when she was originally interviewed. According to a 302 \n(attached), tolls and subscriber records were subpoenaed for that number. Could you please check the FBI file to \nsee if you can locate those records? \n• We discussed last name esterday. It's= Could you please start doing a workup on her? Attached is \na message from at a umber, which might be a good place to start. \n• On the message pads from West Palm, there are six different phone messages from at \nCould you please run that number to see who that is? \n• In addition, there are multiple phone messages from an at \ncheck to see if you can sort out who that is? \nThanksl \nAssistant United States Attorney \nrk \nNew York. NY 10007 \nCould you please \nEFTA00019864",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 15:34:13 +0000 \nImportance: Normal \nAttachments:_number.pdanumber.pdf; messag"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": ". \n• On the message pads from West Palm, there are six different phon"
+      },
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "ou can sort out who that is? \nThanksl \nAssistant United States Attorney \nrk \nN"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.730Z"
+}

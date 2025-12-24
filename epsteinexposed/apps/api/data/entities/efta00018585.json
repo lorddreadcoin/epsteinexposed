@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018585",
+    "filename": "EFTA00018585.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018585.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Confirming FBI numbers for Epstein devices \nDate: Sun, 25 Oct 2020 20:43:39 +0000 \nAttachments: 2020-06-26,_search_warrant,_20_mag_67I9.pdf; \nSpreadsheet_of Epstein_Electronic_Devices_in_SWs.xlsx \nAttached is a spreadsheet of all the devices we have listed in a warrant for the Epstein/Maxwell cases. Based on \ninformation from both of you and from I've compiled the FBI 1.8 number, barcode number, and CART \nnumber for each device. For your reference, I'm also attaching the June 2020 warrant, which includes 62 of these \ndevices. The other three devices are contained in the draft warrant I sent on Friday. Would you please confirm that all of \nthe numbers in this spreadsheet are accurate? \nOnce you have confirmed the accuracy of this chart, we plan to provide a version of the chart to Maxwell's attorneys. \nPlease feel free to give me a call if you would like to discuss. \nThanks \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018585",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "f you would like to discuss. \nThanks \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "anks \nAssistant United States Attorney \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018585"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-26",
+        "event": "2020-06-26"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.249Z"
+}

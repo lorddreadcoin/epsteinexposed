@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015854",
+    "filename": "EFTA00015854.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015854.pdf",
+    "text": "\n\nFrom: \nSubject: Re: Contact from MCC NY Warden \nDate: Fri, 11 Oct 2019 22:28:43 +0000 \nSDNY is fine with allowing the cell to go back into normal use. Thank you. \nOn Oct II, 2019, at 6:26 PM, Modano, Guido (OIG) <grnodano@Ag usdoj.goi> wrote: \nGood evening everyone, \nI was contacted by BOP MCC NY Warden this afternoon and he asked whether it was ok for the \nMCC to return to the normal usage of the cell in the Special Housing Unit where Jeffrey Epstein was housed \nand the incident occurred. He mentioned that he recalled being told by someone at some point it was ok to \nbegin using the cell again to house inmates but wants to confirm it is ok to do so before reopening the cell for \nnormal use. I told Warden that I would check with the Investigative Team and get back to him next \nweek. Please let me know if he should continue to keep the cell secured and unoccupied or if he can begin \nusing the cell to house inmates. Thank you all and have a nice weekend. \nEFTA00015854",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "age of the cell in the Special Housing Unit where Jeffrey Epstein was housed \nand the incident occurred. He mention"
+      },
+      {
+        "name": "Warden \nDate",
+        "role": "extracted",
+        "context": "ject: Re: Contact from MCC NY Warden \nDate: Fri, 11 Oct 2019 22:28:43 +0"
+      },
+      {
+        "name": "On Oct II",
+        "role": "extracted",
+        "context": "into normal use. Thank you. \nOn Oct II, 2019, at 6:26 PM, Modano, Gu"
+      },
+      {
+        "name": "Special Housing",
+        "role": "extracted",
+        "context": "rmal usage of the cell in the Special Housing Unit where Jeffrey Epstein wa"
+      },
+      {
+        "name": "Investigative Team",
+        "role": "extracted",
+        "context": "n that I would check with the Investigative Team and get back to him next \nwee"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.634Z"
+}

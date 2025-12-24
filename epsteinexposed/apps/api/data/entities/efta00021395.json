@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00021395",
+    "filename": "EFTA00021395.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021395.pdf",
+    "text": "\n\nFrom: \"Lenghi, Mola\" \nSubject: Epstein question \nDate: Fri, 26 Jul 2019 14:09:18 +0000 \nInline-Images: \nOutlook-w335ivp3.png \nGood morning, Mola Lenghi with CBS News here. Hoping to confirm a  report we're seeing out there. \nNot sure if you can. \n\"Federal prosecutors have subpoenaed Jeffrey Epstein's longtime person pilots as investigators seek to question \nthe financier's employees in the wake of his indictment on sex-trafficking charges.\" \nConfirmation? \nThanks for considering. \nhttps://www.wsj.com/articles/jeffrey-epsteins-pilots-are-subpoenaed-in-sex-trafficking-investigation-\n11564142402 \n4CBS NEWS\nMola Lenghi \nEFTA00021395",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "if you can. \n\"Federal prosecutors have subpoenaed Jeffrey Epstein's longtime person pilots as investigators seek to"
+      },
+      {
+        "name": "Mola Lenghi",
+        "role": "extracted",
+        "context": "k-w335ivp3.png \nGood morning, Mola Lenghi with CBS News here. Hoping to"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.584Z"
+}

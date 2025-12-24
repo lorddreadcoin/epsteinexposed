@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00032137",
+    "filename": "EFTA00032137.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032137.pdf",
+    "text": "\n\nFrom: \nTo: [Contractor]\" \nSubject: Automatic reply: 3500 \nProduction \nDate: Mon, 26 Aug 2019 22:47:09 +0000 \nI am currently on trial before the Honorable Ronnie Abrams. I will be checking email at the end of each trial da . If ou need immediate \nassistance in connection with United States v. E stein, 19 Cr. 490 (RMB), please contact AUSA a For all other matters, \nplease contact AUSA a Thank you. \nEFTA00032137",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Production \nDate",
+        "role": "extracted",
+        "context": "bject: Automatic reply: 3500 \nProduction \nDate: Mon, 26 Aug 2019 22:47:09 +0"
+      },
+      {
+        "name": "Honorable Ronnie",
+        "role": "extracted",
+        "context": "currently on trial before the Honorable Ronnie Abrams. I will be checking em"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.718Z"
+}

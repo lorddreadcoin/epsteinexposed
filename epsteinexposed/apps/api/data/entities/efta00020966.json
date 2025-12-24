@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00020966",
+    "filename": "EFTA00020966.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020966.pdf",
+    "text": "\n\nFrom: IM>\nTo; '1\n11. `1.>\nCc: ' \" \nSubject: RE: legal / coordination question \nDate: Tue, 03 Dec 2019 15:26:31 +0000 \nFrom US: \nFrom: \nSent: Tuesday, December 3, 2019 2:55 PM \nTo \nCc: \nS; \nSubject: Re: legal /  coordination question \nSBU -LAW ENFORCEMENT \nThanks — we can do later this morning, at 11:30 our time. Please let us know what the best number is to reach you and \nwe'll call you then. \nthanks, \nSent from my iPhone \nOn Dec 3, 2019, at 03:53, wrote: \nGlad you are reaching out. There has been quite a bit of news in the UK about FBUDOJ interest in Prince \nAndrew. Right now I  have open afternoons today and tomorrow, but have events both nights. So if there is a \ntime that works between 1:30 and 5 pm GMT (8:30-noon EDT), let me know. I have some time late in my day \non Thursday. Friday is pretty much flat out. \nThanks, \nUS Department ofjustice Attaché \nUnited States Embassy \nLondon SW1 I  7US \nDesk: \nMobile \nFrom \nEFTA00020966\n\nSBU -LAW ENFORCEMENT \nFrom: \nSent: Tuesday, December 3, 2019 12:23 AM \nTo: \nCc: \nca; \nSubject: RE: legal / coordination question \nS \nMy colleagues and I are the team of prosecutors working on the Jeffrey Epstein investigation, and \nwe wondered if we might be able to set up a call with you for sometime this week, to ask you some logistical questions \nwe're hoping you might either be able to answer or to point us in the right direction on. Would that be possible? If \nthere are a few times in the coming days that you're free, we can try to figure out a slot that works for everyone. \nThanks very much, and looking forward to being in touch. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00020967",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "and I are the team of prosecutors working on the Jeffrey Epstein investigation, and \nwe wondered if we might be ab"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "ay, December 3, 2019 2:55 PM \nTo \nCc: \nS; \nSubject: Re: legal /  c"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "then. \nthanks, \nSent from my iPhone \nOn Dec 3, 2019, at 03:53, wrote:"
+      },
+      {
+        "name": "Prince \nAndrew",
+        "role": "extracted",
+        "context": "e UK about FBUDOJ interest in Prince \nAndrew. Right now I  have open after"
+      },
+      {
+        "name": "Embassy \nLondon",
+        "role": "extracted",
+        "context": "ustice Attaché \nUnited States Embassy \nLondon SW1 I  7US \nDesk: \nMobile \nFr"
+      },
+      {
+        "name": "Mobile \nFrom",
+        "role": "extracted",
+        "context": "sy \nLondon SW1 I  7US \nDesk: \nMobile \nFrom \nEFTA00020966\n\nSBU -LAW ENFOR"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ing in touch. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thanks, US",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-03",
+        "event": "December 3, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.723Z"
+}

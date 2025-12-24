@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00017868",
+    "filename": "EFTA00017868.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017868.pdf",
+    "text": "\n\nFROM \nTHE \nTUTOR \nWit \nADMISSIONS \nST. \nEDMUND \nHALL \nTelephone \nOXFORD \nFax \nMI \n4AR \n7th \nNovember, \n1995 \nDear \nMiss \nWe \nhave \nnow \nreceived \nyour \nUCAS \nform. \nI \nam \nwriti\nn\ng \nt\no\n \ncon\nfi\nrm\nthat \nyou \nwill \nnot \nbe \nrequired \nto \ncome \nagain \nfor \ninterview. \nWe \ns\nhall \nin \ndue \ncourse \nmake \nyou \nan \noffer \nin \nthe \nsame \nterms \nas \nwe \ndid \nlast \nyear. \nYours \nsincerely, \nLondon \nSW1N \n9DF. \nD. \nA. \nWYATT \nEFTA00017868",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "We",
+        "role": "extracted",
+        "context": "7th \nNovember, \n1995 \nDear \nMiss \nWe \nhave \nnow \nreceived \ny"
+      },
+      {
+        "name": "Dear \nMiss",
+        "role": "extracted",
+        "context": "I \n4AR \n7th \nNovember, \n1995 \nDear \nMiss \nWe \nhave \nnow \nreceived \nyou"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.763Z"
+}

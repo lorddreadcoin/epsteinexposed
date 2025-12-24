@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00028771",
+    "filename": "EFTA00028771.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028771.pdf",
+    "text": "\n\nFrom: ' \nTo: Nathan NYSD Chambers <I \nCc: \n\" \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Thu, 02 Jul 2020 14:25:39 +0000 \nAttachments: Maxwellindictment,_20_Cr._330_(AJN).pdf \nGood morning, \nThe above-captioned case was wheeled out to Judge Nathan this morning. Attached please find the indictment. \nThe defendant was arrested at approximately 8:30am in New Hampshire, and the Government expects that she will be \npresented before a Untied States Magistrate Judge in the District of New Hampshire this afternoon. The Government \nintends to seek the defendant's detention, and if that application is denied in New Hampshire, the Government expects to \nseek an appeal of that determination before Judge Nathan. \nThe AUSAs on this case are cc'd on this email, and I have listed our respective phone numbers below: \nWe would be very grateful if the Court would be able to set an initial conference date that the Government can convey at \nthis afternoon's presentment. We can be reached at any time should the Court have any questions. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028771",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "SD Chambers <I \nCc: \n\" \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Thu, 02 Jul 2020 14:25:3"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "ioned case was wheeled out to Judge Nathan this morning. Attached please"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "ed at approximately 8:30am in New Hampshire, and the Government expects t"
+      },
+      {
+        "name": "Untied States",
+        "role": "extracted",
+        "context": "e will be \npresented before a Untied States Magistrate Judge in the Distr"
+      },
+      {
+        "name": "Magistrate Judge",
+        "role": "extracted",
+        "context": "sented before a Untied States Magistrate Judge in the District of New Hampsh"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "New Hampshire this afternoon. The Government \nintends to seek the defendan"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ny questions. \nRespectfully, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028771"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.926Z"
+}

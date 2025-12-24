@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00011413",
+    "filename": "EFTA00011413.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011413.pdf",
+    "text": "\n\nSubject: Supervisory \nConflict Check \nDate: Tue, 13 Oct 2020 17:44:50 +0000 \nAttachments Supervisor_Financial_Interests_Check_COVID_version.pdf \nequested my help in sending this out: \nThis should only take around 5 minutes: \n• Please review the list of assets on the last page of the attached (criminal or civil, depending on your \ndivision) and type in the asset code number(s) next to any case of yours that may affect that asset or \ninvolve a given law firm). (Use Adobe's Type Text Comment tool to type.) \n• If you have no hits, please type \"nothing to report\" at the top of the form. \n• \nThanks! \nSave the annotated report and email it back to my secretary, Jeanette \nGrayeb, \nIntern \nU.S. \nAttorney's \nOffice I \nSDNY \n1  St. Andrew's Plaza \nNew York, NY 10001 \nEFTA00011413",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Supervisory \nConflict",
+        "role": "extracted",
+        "context": "Subject: Supervisory \nConflict Check \nDate: Tue, 13 Oct 2020"
+      },
+      {
+        "name": "Check \nDate",
+        "role": "extracted",
+        "context": "ubject: Supervisory \nConflict Check \nDate: Tue, 13 Oct 2020 17:44:50 +0"
+      },
+      {
+        "name": "Attachments Supervisor",
+        "role": "extracted",
+        "context": ", 13 Oct 2020 17:44:50 +0000 \nAttachments Supervisor_Financial_Interests_Check_COV"
+      },
+      {
+        "name": "Use Adobe",
+        "role": "extracted",
+        "context": "involve a given law firm). (Use Adobe's Type Text Comment tool to t"
+      },
+      {
+        "name": "Type Text",
+        "role": "extracted",
+        "context": "given law firm). (Use Adobe's Type Text Comment tool to type.) \n• If"
+      },
+      {
+        "name": "Jeanette \nGrayeb",
+        "role": "extracted",
+        "context": "mail it back to my secretary, Jeanette \nGrayeb, \nIntern \nU.S. \nAttorney's \nO"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "fice I \nSDNY \n1  St. Andrew's Plaza \nNew York, NY 10001 \nEFTA00011413"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.569Z"
+}

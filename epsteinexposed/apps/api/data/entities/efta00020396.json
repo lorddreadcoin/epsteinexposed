@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020396",
+    "filename": "EFTA00020396.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020396.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: brief \nDate: Sun, 12 Jul 2020 17:02:40 +0000 \nAttachments: 2020-07-12_GM_detention_reply_briefdocx \nAttached. \nFrom:\nSent: Sunday, July 12, 2020 12:39 PM \nTo: \nCc: \nSubject: Re: brief \nyup \nSent from my iPhone \nOn Jul 12, 2020, at 12:38, wrote: \nHi team — I'm going to send you the draft incorporatinges changes in about half an hour. Are you able to give it a \nquick read to make sure you're comfortable with some of the alterations/additions? Thanks. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00020396",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Re: brief \nyup \nSent from my iPhone \nOn Jul 12, 2020, at 12:38, wrote"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "terations/additions? Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ns? Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-12",
+        "event": "July 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.775Z"
+}

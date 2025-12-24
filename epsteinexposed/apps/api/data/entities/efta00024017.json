@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00024017",
+    "filename": "EFTA00024017.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024017.pdf",
+    "text": "\n\nFrom• \nTo: Jason Foy\nCc: \nSubject: U. S. v. Noel, No. 19 Cr 830 - Discovery Production 7 \nDate: Wed, 14 Apr 2021 13:44:31 +0000 \nAttachments: SDNY 00018025-SDNY 00018025 JAEO).pdf; \n2021.04.14_Noel_Discovery_Letter - \n_Production_7.pdf \nCounsel, \nPlease find attached a letter regarding the Government's production in this case. We are uploading a zip file containing \nthe discovery materials to USAfx. Additionally, please find attached one additional page of discovery, which has been \nmarked attorney's eyes only. Please contact us with any questions or if you have any difficulty accessing the production. \nRegards, \nParalegal Specialist \nU.S. Attorney's Office I SDNY \nEFTA00024017",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jason Foy",
+        "role": "extracted",
+        "context": "From• \nTo: Jason Foy\nCc: \nSubject: U. S. v. Noel,"
+      },
+      {
+        "name": "Discovery Production",
+        "role": "extracted",
+        "context": ". S. v. Noel, No. 19 Cr 830 - Discovery Production 7 \nDate: Wed, 14 Apr 2021 13:"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "ng the production. \nRegards, \nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.099Z"
+}

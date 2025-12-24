@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00019431",
+    "filename": "EFTA00019431.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019431.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Final Voucher 11061409-1(1) has received final approval \nDate: Tue, 24 Mar 2020 15:53:20 +0000 \nImportance: Normal \nDear \nFinal voucher 11061409-1(1) has received final approval. \nTrip ID: 11061409-1 \nVoucher ID: 1 \nVoucher type: Final \nTraveler name: \nMinor Customer name: \nPurpose: R20NYS 13400 Epstein Investigation Witness interviews \nDestination:   United States \nDates: 2020-02-26 - 2020-02-29 \nCurrent status: Voucher Awaiting Payment \nVoucher total expenses: 1196.11 \nEstimated trip cost: 1634.37 \nE2 Single Sign On Login (within DOJ Network Only): \nE2 Manual Login (User ID and Password): \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# V0008 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00019431",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Final Voucher",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Final Voucher 11061409-1(1) has received fi"
+      },
+      {
+        "name": "Normal \nDear",
+        "role": "extracted",
+        "context": "0 15:53:20 +0000 \nImportance: Normal \nDear \nFinal voucher 11061409-1(1)"
+      },
+      {
+        "name": "Final \nTraveler",
+        "role": "extracted",
+        "context": "Voucher ID: 1 \nVoucher type: Final \nTraveler name: \nMinor Customer name:"
+      },
+      {
+        "name": "Minor Customer",
+        "role": "extracted",
+        "context": "type: Final \nTraveler name: \nMinor Customer name: \nPurpose: R20NYS 13400"
+      },
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "name: \nPurpose: R20NYS 13400 Epstein Investigation Witness interviews \nDestinati"
+      },
+      {
+        "name": "Voucher Awaiting",
+        "role": "extracted",
+        "context": "- 2020-02-29 \nCurrent status: Voucher Awaiting Payment \nVoucher total expens"
+      },
+      {
+        "name": "Payment \nVoucher",
+        "role": "extracted",
+        "context": "rent status: Voucher Awaiting Payment \nVoucher total expenses: 1196.11 \nEsti"
+      },
+      {
+        "name": "Single Sign",
+        "role": "extracted",
+        "context": "imated trip cost: 1634.37 \nE2 Single Sign On Login (within DOJ Network"
+      },
+      {
+        "name": "On Login",
+        "role": "extracted",
+        "context": "cost: 1634.37 \nE2 Single Sign On Login (within DOJ Network Only): \nE"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "gle Sign On Login (within DOJ Network Only): \nE2 Manual Login (User ID a"
+      },
+      {
+        "name": "Manual Login",
+        "role": "extracted",
+        "context": "within DOJ Network Only): \nE2 Manual Login (User ID and Password): \nThan"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-26",
+        "event": "2020-02-26"
+      },
+      {
+        "date": "2020-02-29",
+        "event": "2020-02-29"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.876Z"
+}

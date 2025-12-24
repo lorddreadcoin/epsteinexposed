@@ -1,0 +1,219 @@
+{
+  "document": {
+    "id": "efta00021181",
+    "filename": "EFTA00021181.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021181.pdf",
+    "text": "\n\n09/21/2021 11:28 EDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nDetail \nLast Name 7 First Name Middle Initial Gender Dale of Birth \nEPSTEIN JEFFREY \nDocument Number Document Type Document Country Class of Admission Admit \nUnti \nDate \nPASSPORT UNITED STATES \nEncounter Person Detail \nEnceinte( Line Type Encounter Dale Encounter Time (Eastern) Terminal Lane ElterEncouness Location \nAIRLINE (NOT API) 01/21/2000 23:35 RM06 A523 - CBP -PALM BEACH, \nINTERNATIONAL \nblbountVOutbound ctor Processing Result Primary Query Result Referred To Agency \nINBOUND N NOT REFERRED \nManifest Data \nManifest Indicator Passenger Status Updated Passenger Status Flig'VVesscl Number Departure Location \nN 5C5LS \nTransmitted By I Carrier Code Arrival Location \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00021181",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border Protection",
+        "role": "extracted",
+        "context": "1 11:28 EDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGen"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "artment of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage"
+      },
+      {
+        "name": "Detail \nGenerated",
+        "role": "extracted",
+        "context": "nd Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nDetail \nL"
+      },
+      {
+        "name": "Detail \nLast",
+        "role": "extracted",
+        "context": "Generated \nBy: \nPage 1 \nof 1 \nDetail \nLast Name 7 First Name Middle Init"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "1 \nof 1 \nDetail \nLast Name 7 First Name Middle Initial Gender Dale of"
+      },
+      {
+        "name": "Middle Initial",
+        "role": "extracted",
+        "context": "etail \nLast Name 7 First Name Middle Initial Gender Dale of Birth \nEPSTEIN"
+      },
+      {
+        "name": "Gender Dale",
+        "role": "extracted",
+        "context": "e 7 First Name Middle Initial Gender Dale of Birth \nEPSTEIN JEFFREY \nDo"
+      },
+      {
+        "name": "Document Number",
+        "role": "extracted",
+        "context": "le of Birth \nEPSTEIN JEFFREY \nDocument Number Document Type Document Countr"
+      },
+      {
+        "name": "Document Type",
+        "role": "extracted",
+        "context": "TEIN JEFFREY \nDocument Number Document Type Document Country Class of Adm"
+      },
+      {
+        "name": "Document Country",
+        "role": "extracted",
+        "context": "Document Number Document Type Document Country Class of Admission Admit \nUnt"
+      },
+      {
+        "name": "Admission Admit",
+        "role": "extracted",
+        "context": "ype Document Country Class of Admission Admit \nUnti \nDate \nPASSPORT UNITED"
+      },
+      {
+        "name": "Unti \nDate",
+        "role": "extracted",
+        "context": "try Class of Admission Admit \nUnti \nDate \nPASSPORT UNITED STATES \nEnco"
+      },
+      {
+        "name": "Encounter Person",
+        "role": "extracted",
+        "context": "Date \nPASSPORT UNITED STATES \nEncounter Person Detail \nEnceinte( Line Type E"
+      },
+      {
+        "name": "Detail \nEnceinte",
+        "role": "extracted",
+        "context": "ITED STATES \nEncounter Person Detail \nEnceinte( Line Type Encounter Dale Enc"
+      },
+      {
+        "name": "Line Type",
+        "role": "extracted",
+        "context": "nter Person Detail \nEnceinte( Line Type Encounter Dale Encounter Time"
+      },
+      {
+        "name": "Encounter Dale",
+        "role": "extracted",
+        "context": "n Detail \nEnceinte( Line Type Encounter Dale Encounter Time (Eastern) Term"
+      },
+      {
+        "name": "Encounter Time",
+        "role": "extracted",
+        "context": "nte( Line Type Encounter Dale Encounter Time (Eastern) Terminal Lane Elter"
+      },
+      {
+        "name": "Terminal Lane",
+        "role": "extracted",
+        "context": "Dale Encounter Time (Eastern) Terminal Lane ElterEncouness Location \nAIRL"
+      },
+      {
+        "name": "Encouness Location",
+        "role": "extracted",
+        "context": "(Eastern) Terminal Lane ElterEncouness Location \nAIRLINE (NOT API) 01/21/2000"
+      },
+      {
+        "name": "Processing Result",
+        "role": "extracted",
+        "context": "TIONAL \nblbountVOutbound ctor Processing Result Primary Query Result Referred"
+      },
+      {
+        "name": "Primary Query",
+        "role": "extracted",
+        "context": "tbound ctor Processing Result Primary Query Result Referred To Agency \nIN"
+      },
+      {
+        "name": "Result Referred",
+        "role": "extracted",
+        "context": "ocessing Result Primary Query Result Referred To Agency \nINBOUND N NOT REFE"
+      },
+      {
+        "name": "To Agency",
+        "role": "extracted",
+        "context": "Primary Query Result Referred To Agency \nINBOUND N NOT REFERRED \nMani"
+      },
+      {
+        "name": "Manifest Data",
+        "role": "extracted",
+        "context": "ency \nINBOUND N NOT REFERRED \nManifest Data \nManifest Indicator Passenger"
+      },
+      {
+        "name": "Manifest Indicator",
+        "role": "extracted",
+        "context": "NOT REFERRED \nManifest Data \nManifest Indicator Passenger Status Updated Pass"
+      },
+      {
+        "name": "Passenger Status",
+        "role": "extracted",
+        "context": "fest Data \nManifest Indicator Passenger Status Updated Passenger Status Flig"
+      },
+      {
+        "name": "Updated Passenger",
+        "role": "extracted",
+        "context": "st Indicator Passenger Status Updated Passenger Status Flig'VVesscl Number De"
+      },
+      {
+        "name": "Status Flig",
+        "role": "extracted",
+        "context": "nger Status Updated Passenger Status Flig'VVesscl Number Departure Loca"
+      },
+      {
+        "name": "Vesscl Number",
+        "role": "extracted",
+        "context": "pdated Passenger Status Flig'VVesscl Number Departure Location \nN 5C5LS"
+      },
+      {
+        "name": "Departure Location",
+        "role": "extracted",
+        "context": "er Status Flig'VVesscl Number Departure Location \nN 5C5LS \nTransmitted By I Ca"
+      },
+      {
+        "name": "Transmitted By",
+        "role": "extracted",
+        "context": "Departure Location \nN 5C5LS \nTransmitted By I Carrier Code Arrival Locati"
+      },
+      {
+        "name": "Carrier Code",
+        "role": "extracted",
+        "context": "on \nN 5C5LS \nTransmitted By I Carrier Code Arrival Location \nFor Officia"
+      },
+      {
+        "name": "Arrival Location",
+        "role": "extracted",
+        "context": "Transmitted By I Carrier Code Arrival Location \nFor Official Use Only / Law"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "arrier Code Arrival Location \nFor Official Use Only / Law Enforcement Se"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "rrival Location \nFor Official Use Only / Law Enforcement Sensitive"
+      },
+      {
+        "name": "Law Enforcement",
+        "role": "extracted",
+        "context": "tion \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00021181"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-21",
+        "event": "09/21/2021"
+      },
+      {
+        "date": "2000-01-21",
+        "event": "01/21/2000"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.151Z"
+}

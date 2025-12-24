@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014679",
+    "filename": "EFTA00014679.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014679.pdf",
+    "text": "\n\nEXHIBIT A \nEFTA00014679\n\nProperty of \n4 \nJ \nI \n• \n/.\n,‘,0,, \n...) \nPi';\n. \nI \n..)R4A \n \n. \nxy \n'it) \nI \nt-\n___ \n, \n: \n,\n, \n, \n(-, \n:4\n) \n,,,,,e\ny.-\n4 \n.,.4 \ni..,\n,,./2,,,,1 \nl \n \n-\n, \nit_ \n- \n, \n„r \no \n:->c \n<7 \n- \n. \n' \n- Not For Media Use \na \nEFTA00014680",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Not For",
+        "role": "extracted",
+        "context": "„r \no \n:->c \n<7 \n- \n. \n' \n- Not For Media Use \na \nEFTA00014680"
+      },
+      {
+        "name": "Media Use",
+        "role": "extracted",
+        "context": ":->c \n<7 \n- \n. \n' \n- Not For Media Use \na \nEFTA00014680"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.338Z"
+}

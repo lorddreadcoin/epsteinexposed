@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00003032",
+    "filename": "EFTA00003032.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003032.pdf",
+    "text": "\n\nReg Model: \nD19M \nReg \nType: \nD19M005 \nAssembled in  Mexico \nDP \nDP/N- \nK41DX \nADO \nJSD2 \nEFTA00003032",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reg Model",
+        "role": "extracted",
+        "context": "Reg Model: \nD19M \nReg \nType: \nD19M005"
+      },
+      {
+        "name": "Reg \nType",
+        "role": "extracted",
+        "context": "Reg Model: \nD19M \nReg \nType: \nD19M005 \nAssembled in  Mexi"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.553Z"
+}

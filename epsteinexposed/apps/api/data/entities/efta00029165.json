@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029165",
+    "filename": "EFTA00029165.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029165.pdf",
+    "text": "\n\nFrom: \nCc: \nSubject: Photos for next GM discovery \nproduction \nDate: Sun, 22 Aug 2021 18:17:25 +0000 \nAttachments: 2019-12-13 ,defense_submission_to_us_attomey.pdf \nHi \nHope you are having a nice weekend (and staying dry)l Can you please pull the photographs in the attached document \nand include them in the next production? Do not include the photograph of the deposition testimony on page 5. \nThanks, \nM \nEFTA00029165",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nHope",
+        "role": "extracted",
+        "context": "submission_to_us_attomey.pdf \nHi \nHope you are having a nice weekend"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-13",
+        "event": "2019-12-13"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.891Z"
+}

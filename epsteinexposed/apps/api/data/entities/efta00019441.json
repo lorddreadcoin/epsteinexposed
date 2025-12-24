@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00019441",
+    "filename": "EFTA00019441.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019441.pdf",
+    "text": "\n\nJEGE, INC. \nPASSENGER \nMANIFEST \nRegistration Number. \nN90SJE Type: B-727-3I \nDATE:    / \nt aci, 2004 \nFROM  P,9.Z \nPilots: \nFlight Engineer. \nTO Jrie \nDaffilulLta \nArrival \nTrip \nTune  6F.     :22 \nPM Number \nPASSENGERS \nI. Jeffrey Epstein \n07471-.3\nFROM \nIdentifier Defined \nCity  \ncoss-r \nPA4s-, \nRec.( \nStale \nor Country \n FL\nTO \nIdentifier Defmed \nCity \n6.  Stale or Country \n7.   \nNautical Miles \n8.   \nStatute \nMiles \n9.   \nGallons \n10.  \nPounds  \n/5'/87 \n3278-\nsa.2_ \nIL  Flight Time \no 2\n +a \na a \n12.   Altitude \nkin \n70  \n3c2 \n81- \n4 \n13.  \n20.  \nNight \n14.  \n21.      T/L \n15.  22.  \nIMC \n16.  \n23.    Approach \n17.  \n24. \n18.  \n25. \n19.  26. \n/yea \n99S \ntvesj. \n1621 \nAIRFRAME \n   '1 \nMM11-727 \nBOEING-N908JEJEGE \nINC-000004 \nEFTA00019441",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "rip \nTune  6F.     :22 \nPM Number \nPASSENGERS \nI. Jeffrey Epstein \n07471-.3\nFROM \nIdentifier Defined \nCity  \ncoss-r"
+      },
+      {
+        "name": "Registration Number",
+        "role": "extracted",
+        "context": "E, INC. \nPASSENGER \nMANIFEST \nRegistration Number. \nN90SJE Type: B-727-3I \nDATE"
+      },
+      {
+        "name": "Flight Engineer",
+        "role": "extracted",
+        "context": ", 2004 \nFROM  P,9.Z \nPilots: \nFlight Engineer. \nTO Jrie \nDaffilulLta \nArriv"
+      },
+      {
+        "name": "Jrie \nDaffilul",
+        "role": "extracted",
+        "context": "Pilots: \nFlight Engineer. \nTO Jrie \nDaffilulLta \nArrival \nTrip \nTune  6F."
+      },
+      {
+        "name": "Lta \nArrival",
+        "role": "extracted",
+        "context": "t Engineer. \nTO Jrie \nDaffilulLta \nArrival \nTrip \nTune  6F.     :22 \nPM"
+      },
+      {
+        "name": "Trip \nTune",
+        "role": "extracted",
+        "context": "O Jrie \nDaffilulLta \nArrival \nTrip \nTune  6F.     :22 \nPM Number \nPASS"
+      },
+      {
+        "name": "Identifier Defined",
+        "role": "extracted",
+        "context": "ffrey Epstein \n07471-.3\nFROM \nIdentifier Defined \nCity  \ncoss-r \nPA4s-, \nRec.("
+      },
+      {
+        "name": "Identifier Defmed",
+        "role": "extracted",
+        "context": "( \nStale \nor Country \n FL\nTO \nIdentifier Defmed \nCity \n6.  Stale or Country"
+      },
+      {
+        "name": "Nautical Miles",
+        "role": "extracted",
+        "context": "6.  Stale or Country \n7.   \nNautical Miles \n8.   \nStatute \nMiles \n9."
+      },
+      {
+        "name": "Statute \nMiles",
+        "role": "extracted",
+        "context": "7.   \nNautical Miles \n8.   \nStatute \nMiles \n9.   \nGallons \n10.  \nPounds"
+      },
+      {
+        "name": "Flight Time",
+        "role": "extracted",
+        "context": "ds  \n/5'/87 \n3278-\nsa.2_ \nIL  Flight Time \no 2\n +a \na a \n12.   Altitude"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.899Z"
+}

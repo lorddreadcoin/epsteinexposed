@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023697",
+    "filename": "EFTA00023697.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023697.pdf",
+    "text": "\n\nFrom: \"=:I\" aMIIM> \nTo:\n' \ntt  t It \nIt tt \nSubject: A New Story Emerges of How Ghislaine Maxwell Recruited Young Girls I  Vanity Fair \nDate: Fri, 02 Oct 2020 00:42:48 +0000 \nhttps://www.vanityfaincorn/style/2020/10/new-ghislaine-maxwell-recruiting-report \nSent from my iPad \nEFTA00023697",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "t It \nIt tt \nSubject: A New Story Emerges of How Ghislaine Maxwell Recruited Young Girls I  Vanity Fair \nDate: Fri,"
+      },
+      {
+        "name": "It \nIt",
+        "role": "extracted",
+        "context": "m: \"=:I\" aMIIM> \nTo:\n' \ntt  t It \nIt tt \nSubject: A New Story Emer"
+      },
+      {
+        "name": "New Story",
+        "role": "extracted",
+        "context": "tt  t It \nIt tt \nSubject: A New Story Emerges of How Ghislaine Maxw"
+      },
+      {
+        "name": "How Ghislaine",
+        "role": "extracted",
+        "context": "bject: A New Story Emerges of How Ghislaine Maxwell Recruited Young Girls"
+      },
+      {
+        "name": "Maxwell Recruited",
+        "role": "extracted",
+        "context": "tory Emerges of How Ghislaine Maxwell Recruited Young Girls I  Vanity Fair \nD"
+      },
+      {
+        "name": "Young Girls",
+        "role": "extracted",
+        "context": "w Ghislaine Maxwell Recruited Young Girls I  Vanity Fair \nDate: Fri, 02"
+      },
+      {
+        "name": "Vanity Fair",
+        "role": "extracted",
+        "context": "well Recruited Young Girls I  Vanity Fair \nDate: Fri, 02 Oct 2020 00:42"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.423Z"
+}

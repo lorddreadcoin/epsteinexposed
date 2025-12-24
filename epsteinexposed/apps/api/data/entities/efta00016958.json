@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00016958",
+    "filename": "EFTA00016958.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016958.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM  \nTo \nCc: Christian Everdell\nSubject: [EXTERNAL] Ghislaine Maxwell 02879-506 \nDate: Wed, 20 Oct 2021 19:18:34 +0000 \nGood \nafternoon-\nA telephonic court conference will be held tomorrow at noon. \nPlease confirm that arrangements are in place for Ms. Maxwell's participation. \nPlease contact me with any questions. \nThank \nyou-\nBobbi \nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nLaw \nOffices of Bobbi C. Stemheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00016958",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "To \nCc: Christian Everdell\nSubject: [EXTERNAL] Ghislaine Maxwell 02879-506 \nDate: Wed, 20 Oct 2021 19:18:34 +0000"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "arrangements are in place for Ms. Maxwell's participation. \nPlease"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: BOBBI C STERNHEIM  \nTo \nCc: Christian Everdell\nSubject:"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": ": BOBBI C STERNHEIM  \nTo \nCc: Christian Everdell\nSubject: [EXTERNAL] Ghislaine"
+      },
+      {
+        "name": "Bobbi \nPlease",
+        "role": "extracted",
+        "context": "h any questions. \nThank \nyou-\nBobbi \nPlease note my new office address an"
+      },
+      {
+        "name": "Law \nOffices",
+        "role": "extracted",
+        "context": "s: \nBOBBI C. STERNHEIM, ESQ. \nLaw \nOffices of Bobbi C. Stemheim \nThis me"
+      },
+      {
+        "name": "Stemheim \nThis",
+        "role": "extracted",
+        "context": "SQ. \nLaw \nOffices of Bobbi C. Stemheim \nThis message and any attached docu"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contain information from the Law Offices of Bobbi C. Stemheim \nthat ma"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.756Z"
+}

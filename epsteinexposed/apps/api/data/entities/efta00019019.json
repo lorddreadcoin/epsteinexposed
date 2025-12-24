@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00019019",
+    "filename": "EFTA00019019.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019019.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \nSubject: Re: Epstein victim call \nDate: Wed, 17 Mar 2021 18:31:38 +0000 \nThanks and sorry again for the bother! \nSent from my iPhone \nOn Mar 17, 2021, at 11:22, \nThanks for letting us know. I just pinged the agents for a third time about this. \nFrom: \nSent: Wednesday, March 17, 2021 2:14 PM \nTo: \n1 a> \nCc: \nSubject: Re: Epstein victim call \n> wrote: \nHey sorry but can you guys have an agent reach out to her? She called me again this morning. I'm trying to avoid having \nher bother any of you directly but she's very insistent about having information. Thanks. \nSent from my iPhone \nOn Mar 10, 2021, at 14:12, wrote: \nJust FYI, got another call from Ms. this afternoon, looking for a follow-up. We did not discuss anything \nsubstantive, and I said I would pass along that she had called. \nFrom: \nSent: Thursday, February 25, 2021 12:46 \nTo: \nEl( \nCc: \nSubject: Epstein victim call \nTeam, I just received a call on my desk line from a woman named who identified herself as a former \nclient of and said she was a former victim of Jeffrey Epstein. I asked if her attorney had been in touch \nwith either the prosecutors or the case agents, since we had previously contacted him, and she said she believed he \nhad not been. She said she had been in touch with an NYPD detective but had not heard back in some time. She said \nrepresented her for purposes of the Victim Fund, but was not currently representing her. She provided her \nEFTA00019019\n\ncell phone as.  She did not provide any substantive information on the call, and I did not ask for any. I \nadvised that someone would follow up with her, hopefully in the next week or so. The call lasted less than three \nminutes. \nFor context, we were in touch with Mr. several times in 2020 when he claimed to represent at least nine \nEpstein victims, all of which he said were unwilling to speak with us. He subsequently said one victim might be willing \nto speak with us, but then stopped responding to our requests for the complaints he had purportedly filed (but which \nwe couldn't find online). I believe the last communication we had with him was the attached. \nthanks, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00019020",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "er \nclient of and said she was a former victim of Jeffrey Epstein. I asked if her attorney had been in touch \nwith"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "or the bother! \nSent from my iPhone \nOn Mar 17, 2021, at 11:22, \nThan"
+      },
+      {
+        "name": "Victim Fund",
+        "role": "extracted",
+        "context": "ented her for purposes of the Victim Fund, but was not currently repres"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthanks, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-17",
+        "event": "March 17, 2021"
+      },
+      {
+        "date": "2021-02-25",
+        "event": "February 25, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.127Z"
+}

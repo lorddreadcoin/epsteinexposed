@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00024930",
+    "filename": "EFTA00024930.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024930.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: (USANYS)\" \nalMIE> \nSubject: Unit Updates for May \nDate: Wed, 05 May 2021 17:52:00 +0000 \nAttachments: \nPC_Unitr_Short_Form_Update.5.7.21.docx \nEFTA00024930",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Unit Updates",
+        "role": "extracted",
+        "context": ": (USANYS)\" \nalMIE> \nSubject: Unit Updates for May \nDate: Wed, 05 May 20"
+      },
+      {
+        "name": "May \nDate",
+        "role": "extracted",
+        "context": "E> \nSubject: Unit Updates for May \nDate: Wed, 05 May 2021 17:52:00 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-05",
+        "event": "05 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.129Z"
+}

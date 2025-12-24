@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030052",
+    "filename": "EFTA00030052.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030052.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \"Mark S. Cohen\" Bobbi Stemheim \nJeff Pagliuca Laura Menninger \nBcc• \nSubject: RE: Redactions \nDate: Wed, 30 Dec 2020 16:12:05 +0000 \nEmbedded: RE:_Redactions.msg \nSender: \nSubject: RE: Redactions \nMessage-Id: \n<BN3P110MB03391A6968BD033D90E7898592D70@BN3P110MB0339.NAMP110.PROD.OUTLOOK.COM \nTo: \nTo: \nEFTA00030052",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bobbi Stemheim",
+        "role": "extracted",
+        "context": "om: \nTo: \nCc: \"Mark S. Cohen\" Bobbi Stemheim \nJeff Pagliuca Laura Menninge"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "ark S. Cohen\" Bobbi Stemheim \nJeff Pagliuca Laura Menninger \nBcc• \nSubjec"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "Bobbi Stemheim \nJeff Pagliuca Laura Menninger \nBcc• \nSubject: RE: Redaction"
+      },
+      {
+        "name": "Redactions \nDate",
+        "role": "extracted",
+        "context": "Menninger \nBcc• \nSubject: RE: Redactions \nDate: Wed, 30 Dec 2020 16:12:05 +0"
+      },
+      {
+        "name": "Redactions \nMessage",
+        "role": "extracted",
+        "context": "ns.msg \nSender: \nSubject: RE: Redactions \nMessage-Id: \n<BN3P110MB03391A6968BD03"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.880Z"
+}

@@ -1,0 +1,68 @@
+{
+  "document": {
+    "id": "efta00020920",
+    "filename": "EFTA00020920.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020920.pdf",
+    "text": "\n\nFrom: \nTo:'\n)\" < \n)\" \nSubject: FW: overdue subpoena compliance: Amazon Ref. No. CRIM1031692 2019 DS \nDate: Mon, 05 Aug 2019 21:57:14 +0000 \nEmbedded: RE:_Amazon contact??.insg \nFYI \nFrom: \nSent: Monday, August 05, 2019 17:57 \nTo: \n(USANYS) \n< \nSubject: NE: overdue subpoena compliance: Amazon Ref. No. CRIM1031692 2019 DS \n) \nJust following up on this, we still haven't heard back from them despite multiple emails and phone messages (they never \ndirect us to a person) so we're considering applying for a motion to compel next week. \nFrom: \nSent: Thursday, August 01, 2019 18:27 \nTo: \n(USANYS)< \nSubject: Fwd: overdue subpoena compliance: Amazon Ref. No. CRIM1031692 2019 DS \nHey I had forgotten about this but this is the subpoena I sent to you a while ago looking for an Amazon contact. FYI. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nr  a> \nDate: August 1, 2019 at 17:05:59 EDT \nTo: \"subpoena-criminal@amazon.com\" <subpoena-criminal@amazon.com> \nCc: \" . (NY) (FBI)\" \nla, \n(NY) (FBI)\" <\n> \nSubject: overdue subpoena compliance: Amazon Ref. No. CRIM1031692 2019 DS \nGood afternoon, \nAmazon's response to the attached grand jury subpoena is overdue by several weeks.  The FBI has emailed and left \nmessages with your legal department several times over the past weeks without a response. \nPlease respond promptly to resolve Amazon's non-compliance. Otherwise we will initiate contempt proceedings \nregarding your failure to comply with valid legal process. \nSincerely, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nEFTA00020920\n\nNew York, NY 10007 \nEFTA00020921",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Amazon Ref",
+        "role": "extracted",
+        "context": "overdue subpoena compliance: Amazon Ref. No. CRIM1031692 2019 DS \nDat"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "contact. FYI. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "d legal process. \nSincerely, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Sincerely, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nEFTA00020920"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-05",
+        "event": "August 05, 2019"
+      },
+      {
+        "date": "2019-08-01",
+        "event": "August 01, 2019"
+      },
+      {
+        "date": "2019-08-01",
+        "event": "August 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.625Z"
+}

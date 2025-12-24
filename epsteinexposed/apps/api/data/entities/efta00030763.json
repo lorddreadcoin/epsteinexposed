@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00030763",
+    "filename": "EFTA00030763.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030763.pdf",
+    "text": "\n\nDeclaration of Custodian of Records \nPursuant to 28 U.S.C. § 1746, I, the undersigned, hereby declare: \nMy name is \n(name of declarant) \nI am a United States citizen and I am over eighteen years of age. I am a custodian of \nrecords of the business named below (the \"Business\"), or I am otherwise qualified as a result of \nmy position with the Business to make this declaration. \nI have reviewed records' of the Business, which have been provided to law enforcement \nin connection with an investigation and prosecution by the United States Attorney's Office for \nthe Southern District of New York. Those records consist of the following (collectively, the \n\"Records\"): \nAT&T Wireless invoice dated May 5, 2004 for account number 0043811863 in the name of \nJeffrey E Epstein \nPursuant to Rules 902(11) and 803(6) of the Federal Rules of Evidence, I  hereby certify \nthat the foregoing Records of the Business: \n(1) were made at or near the time of the occurrence of the matters set forth in the records, \nby, or from information transmitted by, a person with knowledge of those matters; \n(2) were kept in the course of regularly conducted business activity; and \n(3) were made by the regularly conducted business activity as a regular practice. \nI declare under penalty of perjury that the foregoing is true and correct. \nExecuted on \n(date) \n(signature of declarant) \n(name and atk of declarant) \n(name of business) \n(business address) \nI As defined in Fed. R. Evid. 803(6), \"record\" includes a memorandum, report, record, or data compilation, in any \nform, of acts, events, conditions, opinions, or diagnoses. The term \"business\" as used in Fed. R. Evid. 803(6) and \nthe above declaration includes business, institution, association, profession, occupation, and calling of every kind, \nwhether or not conducted for profit. \nEFTA00030763",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Records \nPursuant",
+        "role": "extracted",
+        "context": "Declaration of Custodian of Records \nPursuant to 28 U.S.C. § 1746, I, the u"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for \nthe Southern District of New York. Those records co"
+      },
+      {
+        "name": "Epstein \nPursuant",
+        "role": "extracted",
+        "context": "863 in the name of \nJeffrey E Epstein \nPursuant to Rules 902(11) and 803(6) o"
+      },
+      {
+        "name": "Federal Rules",
+        "role": "extracted",
+        "context": "les 902(11) and 803(6) of the Federal Rules of Evidence, I  hereby certif"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2004-05-05",
+        "event": "May 5, 2004"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "0043811863"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.604Z"
+}

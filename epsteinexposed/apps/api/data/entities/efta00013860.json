@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00013860",
+    "filename": "EFTA00013860.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013860.pdf",
+    "text": "\n\nFrom: \" \nTo:' \nSubject: RE: 20090917 Epstein \nArticle.pdf \nDate: Thu, 17 Sep 2009 17:10:03 +0000 \nImportance: Normal \nTo the extent that we do want to say anything, I think (based upon earlier conversations with \nAlex) that our Office's position was that this started as a state case and Alex wanted it to stay a \nstate case, \nbut to provide for minimum protections for the victims, both in terms of jail time and \ncompensation —  in other words, this was a floor, not a ceiling. My personal opinion was that \nAlex wanted Barry Krischer to save face, but Alex never said that openly to me. \nAssistant U.S. Attorney \nSouthern District of Florida \n500 East Broward Boulevard, 7th Floor \nFt. Lauderdale, FL 33394 \nFax \nFrom: \nSent: Thursday, September 17, 2009 12:56 PM \nTo: \nSubject: Re: 20090917 Epstein Article.pdf \nThanks \nFrom: \nTo: \nSent: Thu Sep 17 12:41:37 2009 \nSubject: Re: 20090917 Epstein Article.pdf \nI plan to \nrefer everyone to \nI am not sure \nwhat, if anything. wants to say. \nFrom: \nTo: \nSent: Thu Sep 17 12:25:26 2009 \nSubject: RE: 20090917 Epstein Article.pdf \nWhat are we going to say, if anything, tomorrow when contacted about this. I'm sure we will get a bunch of \ncalls. Are we directing everything to I presume ? \nFrom: \nSent: Thursday, September 17, 2009 11:05 AM \nTo: \nSubject: 20090917 Epstein Article.pdf \nEFTA00013860\n\nFYI —  The Palm Beach Post is counting down to the release of the \ndeal tomorrow. \n« File: 20090917 Epstein Article.pdf » \nEFTA00013861",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nArticle",
+        "role": "extracted",
+        "context": "To:' \nSubject: RE: 20090917 Epstein \nArticle.pdf \nDate: Thu, 17 Sep 2009 1"
+      },
+      {
+        "name": "Normal \nTo",
+        "role": "extracted",
+        "context": "9 17:10:03 +0000 \nImportance: Normal \nTo the extent that we do want to"
+      },
+      {
+        "name": "Barry Krischer",
+        "role": "extracted",
+        "context": "opinion was that \nAlex wanted Barry Krischer to save face, but Alex never"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "openly to me. \nAssistant U.S. Attorney \nSouthern District of Florida \n500 East"
+      },
+      {
+        "name": "East Broward",
+        "role": "extracted",
+        "context": "hern District of Florida \n500 East Broward Boulevard, 7th Floor \nFt. Lau"
+      },
+      {
+        "name": "Floor \nFt",
+        "role": "extracted",
+        "context": "0 East Broward Boulevard, 7th Floor \nFt. Lauderdale, FL 33394 \nFax \nF"
+      },
+      {
+        "name": "Fax \nFrom",
+        "role": "extracted",
+        "context": "or \nFt. Lauderdale, FL 33394 \nFax \nFrom: \nSent: Thursday, September 1"
+      },
+      {
+        "name": "Epstein Article",
+        "role": "extracted",
+        "context": "M \nTo: \nSubject: Re: 20090917 Epstein Article.pdf \nThanks \nFrom: \nTo: \nSent"
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "20090917 Epstein Article.pdf \nThanks \nFrom: \nTo: \nSent: Thu Sep 17 12:41"
+      },
+      {
+        "name": "Thu Sep",
+        "role": "extracted",
+        "context": "df \nThanks \nFrom: \nTo: \nSent: Thu Sep 17 12:41:37 2009 \nSubject: Re"
+      },
+      {
+        "name": "The Palm",
+        "role": "extracted",
+        "context": "cle.pdf \nEFTA00013860\n\nFYI —  The Palm Beach Post is counting down t"
+      },
+      {
+        "name": "Beach Post",
+        "role": "extracted",
+        "context": "EFTA00013860\n\nFYI —  The Palm Beach Post is counting down to the relea"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Lauderdale, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2009-09-17",
+        "event": "September 17, 2009"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.599Z"
+}

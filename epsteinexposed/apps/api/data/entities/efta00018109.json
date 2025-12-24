@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00018109",
+    "filename": "EFTA00018109.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018109.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Epstein Trust Analysis \nDate: Wed, 29 Jan 2020 22:51:18 +0000 \nAttachments: Epstein_Tnist_Analysis_v5.xlsx \nHi everyone, \nI've attached a summary/analysis of the Epstein trust documents we received. This document incorporates the analysis of \nthe trusts from 2019 I did previously. \nOn the bottom, you'll see each trust has a tab and then further amendments to the trust (if any) go chronologically to the \nright. There's also key and summary tabs at the beginning of the document. \nPlease let me know if you have any questions, or if you'd like me to walk you through how to use the document, in case it \nisn't clear. \nThanks, \np.s. I wouldn't recommend printing the document, just due to the size of the excel tables. \nEFTA00018109",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Trust",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Epstein Trust Analysis \nDate: Wed, 29 Jan 2"
+      },
+      {
+        "name": "Analysis \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: Epstein Trust Analysis \nDate: Wed, 29 Jan 2020 22:51:18 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.185Z"
+}

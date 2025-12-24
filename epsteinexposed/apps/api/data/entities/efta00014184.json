@@ -1,0 +1,68 @@
+{
+  "document": {
+    "id": "efta00014184",
+    "filename": "EFTA00014184.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014184.pdf",
+    "text": "\n\nEvent: CEOS Meeting re Epstein Investigation \nStart Date: 2009-12-17 18:00:00 +0000 \nEnd Date: 2009-12-17 19:30:00 +0000 \nOrganizer: \nLocation: By Phone - Call-in It \nClass: X-PERSONAL \nDate Created: 2009-12-14 18:52:09 +0000 \nDate Modified: 2022-10-02 08:11:13 +0000 \nPriority: 5 \nDTSTAMP: 2009-12-14 21:34:04 +0000 \nAttendee: \nEFTA00014184",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "Event: CEOS Meeting re Epstein Investigation \nStart Date: 2009-12-17 18:00"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "ing re Epstein Investigation \nStart Date: 2009-12-17 18:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2009-12-17 18:00:00 +0000 \nEnd Date: 2009-12-17 19:30:00 +0000 \nO"
+      },
+      {
+        "name": "By Phone",
+        "role": "extracted",
+        "context": "+0000 \nOrganizer: \nLocation: By Phone - Call-in It \nClass: X-PERSON"
+      },
+      {
+        "name": "It \nClass",
+        "role": "extracted",
+        "context": "Location: By Phone - Call-in It \nClass: X-PERSONAL \nDate Created: 20"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "all-in It \nClass: X-PERSONAL \nDate Created: 2009-12-14 18:52:09 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2009-12-14 18:52:09 +0000 \nDate Modified: 2022-10-02 08:11:13 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2009-12-17",
+        "event": "2009-12-17"
+      },
+      {
+        "date": "2009-12-14",
+        "event": "2009-12-14"
+      },
+      {
+        "date": "2022-10-02",
+        "event": "2022-10-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.341Z"
+}

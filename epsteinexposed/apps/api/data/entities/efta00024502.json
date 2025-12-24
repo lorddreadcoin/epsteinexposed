@@ -1,0 +1,120 @@
+{
+  "document": {
+    "id": "efta00024502",
+    "filename": "EFTA00024502.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024502.pdf",
+    "text": "\n\nEvent: Epstein NY property \nStart Date: 2020-07-16 17:30:00 +0000 \nEnd Date: 2020-07-16 18:00:00 +0000 \nOrganizer: Weinstein, Marc A. < \nLocation: Skype Meeting; Conference ID: 612 758 867; \nClass: X-PERSONAL \nDate Created: 2020-07-16 14:42:22 +0000 \nDate Modified: 2020-07-16 14:42:22 +0000 \nPriority: 5 \nDTSTAMP: 2020-07-16 14:27:16 +0000 \nAttendee: \n>; \nAndrew Tomback \n> \nAlarm: Display the following message 15m before start \nReminder \nDial-In Information (for meetings with no presentations or video) \nDial-In Number: \nConference ID: 612758867 \nOne touch dial-in from mobile phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil \nCanada \nChina \nFrance \nGermany \nIndia \nIreland \nIsrael \nJapan \nKorea (Seoul) \nSingapore \nUnited Kingdom \nEFTA00024502\n\nUnited States \nFull list of dial-in numbers \nMeetings with a presentation or video \nConnect from computer or mobile device (via network/internet connection) \nHelp \nTry Skype Web App if you are having trouble joining \njoining from a computer using the \"Connect from computer or mobile device\" link provides \nadditional capabilities, however you can simply call in from your telephone using the number \nprovided above if your meeting will not include video or a presentation. Click the \"Help\" link for \nadditional information if you are a guest joining a Skype for Business meeting from your \ncomputer or mobile device for the first time. \nFor meeting organizers: Reset your dial-in PIN? \n[!OC([CUSTOMINVITE])!] \nEFTA00024503",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Epstein NY property \nStart Date: 2020-07-16 17:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-07-16 17:30:00 +0000 \nEnd Date: 2020-07-16 18:00:00 +0000 \nO"
+      },
+      {
+        "name": "Skype Meeting",
+        "role": "extracted",
+        "context": "instein, Marc A. < \nLocation: Skype Meeting; Conference ID: 612 758 867;"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "758 867; \nClass: X-PERSONAL \nDate Created: 2020-07-16 14:42:22 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-07-16 14:42:22 +0000 \nDate Modified: 2020-07-16 14:42:22 +0000 \nP"
+      },
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "4:27:16 +0000 \nAttendee: \n>; \nAndrew Tomback \n> \nAlarm: Display the follow"
+      },
+      {
+        "name": "Reminder \nDial",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \nDial-In Information (for meetings"
+      },
+      {
+        "name": "In Information",
+        "role": "extracted",
+        "context": "before start \nReminder \nDial-In Information (for meetings with no present"
+      },
+      {
+        "name": "In Number",
+        "role": "extracted",
+        "context": "presentations or video) \nDial-In Number: \nConference ID: 612758867 \nO"
+      },
+      {
+        "name": "Additional Dial",
+        "role": "extracted",
+        "context": "phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil \nCanada \nC"
+      },
+      {
+        "name": "In Numbers",
+        "role": "extracted",
+        "context": "lar service) \nAdditional Dial-In Numbers \nBrazil \nCanada \nChina \nFranc"
+      },
+      {
+        "name": "Brazil \nCanada",
+        "role": "extracted",
+        "context": "Additional Dial-In Numbers \nBrazil \nCanada \nChina \nFrance \nGermany \nIndi"
+      },
+      {
+        "name": "China \nFrance",
+        "role": "extracted",
+        "context": "l-In Numbers \nBrazil \nCanada \nChina \nFrance \nGermany \nIndia \nIreland \nIsr"
+      },
+      {
+        "name": "Germany \nIndia",
+        "role": "extracted",
+        "context": "razil \nCanada \nChina \nFrance \nGermany \nIndia \nIreland \nIsrael \nJapan \nKore"
+      },
+      {
+        "name": "Ireland \nIsrael",
+        "role": "extracted",
+        "context": "hina \nFrance \nGermany \nIndia \nIreland \nIsrael \nJapan \nKorea (Seoul) \nSingap"
+      },
+      {
+        "name": "Japan \nKorea",
+        "role": "extracted",
+        "context": "many \nIndia \nIreland \nIsrael \nJapan \nKorea (Seoul) \nSingapore \nUnited Ki"
+      },
+      {
+        "name": "Singapore \nUnited",
+        "role": "extracted",
+        "context": "Israel \nJapan \nKorea (Seoul) \nSingapore \nUnited Kingdom \nEFTA00024502\n\nUnited"
+      },
+      {
+        "name": "Help \nTry",
+        "role": "extracted",
+        "context": "network/internet connection) \nHelp \nTry Skype Web App if you are havi"
+      },
+      {
+        "name": "Skype Web",
+        "role": "extracted",
+        "context": "ternet connection) \nHelp \nTry Skype Web App if you are having trouble"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-16",
+        "event": "2020-07-16"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.283Z"
+}

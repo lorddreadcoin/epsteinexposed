@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00018920",
+    "filename": "EFTA00018920.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018920.pdf",
+    "text": "\n\nFrom: A. (NY) (FBI)\"  \nTo: (USANYS)\" -1 a \nCc: \"I (DO) (FBI)\" -4 \nH, \na, \nJ. \n(NY) (FBI)\" \n< \n> \nSubject: Fwd: UK / US Contact Details \nDate: Mon, 09 Dec 2019 12:11:58 +0000 \nAttachments: To_G._Berman,_United_States_Attomey.pdf; image001.png \nInline-Images: image003.png; image004.jpg \nE, \nHere is the information requested from London. \nForwarded message \nFrom: \nDate: Dec 9, 2019 7:05 AM \nSubject: UK / US Contact Details \nTo: \n'\n(FBI)\" < \nCc: \nSir, \nPlease find attached a letter from DAC addressed to the United States Attorney with details of the \nrelevant legal \nrepresentative. \nKind regards, \nDetective Sergeant \nStaff Officer to Deu ssistant Commissioner (Specialist Operations) \nTelephone MetPhone \nMobile \nEmail \nAddress 4th Floor, New Scotland Yard, Richmond Terrace, Victoria Embankment, London SW1A 2JL \nCOUNTER \nTERRORISM \nPOLICING \nACT \nACTION \nCOUNTERS \nTERRORISM \nEFTA00018920\n\nNOTICE - This email and any attachments are solely for the intended recipient and may be confidential. If you have received \nthis email in error, please notify the sender and delete it from your system. Do not use, copy or disclose the information \ncontained in this email or in any attachment without the permission of the sender. Metropolitan Police Service (MPS) \ncommunication systems are monitored to the extent permitted by law and any email and/or attachments may be read by \nmonitoring staff. Only specified personnel are authorised to conclude binding agreements on behalf of the MPS by email and \nno responsibility is accepted for unauthorised agreements reached with other personnel. While reasonable precautions have \nbeen taken to ensure no viruses are present in this email, its security and that of any attachments cannot be guaranteed. \nEFTA00018921",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Contact Details",
+        "role": "extracted",
+        "context": "< \n> \nSubject: Fwd: UK / US Contact Details \nDate: Mon, 09 Dec 2019 12:11"
+      },
+      {
+        "name": "Detective Sergeant",
+        "role": "extracted",
+        "context": "presentative. \nKind regards, \nDetective Sergeant \nStaff Officer to Deu ssistan"
+      },
+      {
+        "name": "Staff Officer",
+        "role": "extracted",
+        "context": "regards, \nDetective Sergeant \nStaff Officer to Deu ssistant Commissioner"
+      },
+      {
+        "name": "Specialist Operations",
+        "role": "extracted",
+        "context": "to Deu ssistant Commissioner (Specialist Operations) \nTelephone MetPhone \nMobile"
+      },
+      {
+        "name": "Telephone Met",
+        "role": "extracted",
+        "context": "oner (Specialist Operations) \nTelephone MetPhone \nMobile \nEmail \nAddress"
+      },
+      {
+        "name": "Phone \nMobile",
+        "role": "extracted",
+        "context": "ist Operations) \nTelephone MetPhone \nMobile \nEmail \nAddress 4th Floor, Ne"
+      },
+      {
+        "name": "Email \nAddress",
+        "role": "extracted",
+        "context": "Telephone MetPhone \nMobile \nEmail \nAddress 4th Floor, New Scotland Yard,"
+      },
+      {
+        "name": "New Scotland",
+        "role": "extracted",
+        "context": "le \nEmail \nAddress 4th Floor, New Scotland Yard, Richmond Terrace, Victo"
+      },
+      {
+        "name": "Richmond Terrace",
+        "role": "extracted",
+        "context": "4th Floor, New Scotland Yard, Richmond Terrace, Victoria Embankment, London"
+      },
+      {
+        "name": "Victoria Embankment",
+        "role": "extracted",
+        "context": "tland Yard, Richmond Terrace, Victoria Embankment, London SW1A 2JL \nCOUNTER \nTE"
+      },
+      {
+        "name": "Metropolitan Police",
+        "role": "extracted",
+        "context": "the permission of the sender. Metropolitan Police Service (MPS) \ncommunication"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.968Z"
+}

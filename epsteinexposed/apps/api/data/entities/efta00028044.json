@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00028044",
+    "filename": "EFTA00028044.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028044.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" ‹> \nTo: 'Irpla>\n<\na=1\" \n(USANYS)\" \nSubject: 10/1/2020 Call with Special Agent \nDate: Thu, 01 Oct 2020 21:35:33 +0000 \n10/1/2020 Call with Special Agent \n• IN provided background, explaining that we are producing discovery in the Maxwell case. As part of that \nprocess, we are trying to be as thorough as possible in gathering materials about this case in order to comply with \ndiscovery obligations; taking a very broad approach to discovery; previously gathered boxes from Florida case. \nexplained that we wanted to reach out to make sure we have everything. Want to gather copies of what \neveryone has, even if duplicative if what is already in the files \n• \noriginally \nwho investigated case and joined later on? \n• I estimated joining in approximately 2006 or 2007; he came down to Miami from Louisville in 2006 and started \nworking on the case not too long after that \n• • asked if, has materials relating to Epstein investigation \n• I  said he would have to go through his computer to check \n• • explained that we have access to Sentinel; looking for things may have saved to his computer, things in box \nor red weld, or anything on his phone, hard copy notes \n• I  said he thought most of what he has would already be in the file but can look back through computer and old \nboxes \n• said that even if, found stuff that he thinks we already have, we will take a copy just to be cautious; \n• I  said he thought he gave us everything last time we were in Florida (binders with victim information); said will \ndo whatever we need to support us \n• • asked if there was anything that we should know about from participation in the investigation (whether \nhelpful or harmful or exculpatory) \n• I  said not that he could think of, but it's been 12 years; will think back; had good interview with on \nGhislaine; as far as anything exculpatory, not that he's aware of, but will look back; have some old boxes from \nPalm Beach, will go through it \n• IN asked Ito hold onto materials as he gathered them and we will discuss; plan to talk next Friday at 12 \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00028044",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "Subject: 10/1/2020 Call with Special Agent \nDate: Thu, 01 Oct 2020 21:35"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ck; have some old boxes from \nPalm Beach, will go through it \n• IN ask"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "an to talk next Friday at 12 \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "riday at 12 \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-01",
+        "event": "10/1/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.523Z"
+}

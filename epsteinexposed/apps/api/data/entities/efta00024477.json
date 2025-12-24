@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024477",
+    "filename": "EFTA00024477.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024477.pdf",
+    "text": "\n\nFrom: SANYS)\" \nTo: (USANYS) [Contractor]\" \nSubject: FW: \nDate: Tue, 14 Jul 2020 21:35:23 +0000 \nAttachments: Initial Review_of \nRecords.pdf \nFor MCC shared drive - we are getting the FBI case file, so maybe put in a folder titled that? We'll need to \nreview all of these 302s and make discovery decisions. \nFrom: (NY) (FBI) \nSent: ues ay, u y , 20 2:51 PM \nTo: (USANYS) \nSubject: \nHey \nWhen looking through my case file, this is where =documented the phone number and last call made by \nEpstein. Let me know if you need anything else... \nSpecial gent \nFBI New York Field Office \nViolent rimes Task Force \nEFTA00024477",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Initial Review",
+        "role": "extracted",
+        "context": "21:35:23 +0000 \nAttachments: Initial Review_of \nRecords.pdf \nFor MCC shar"
+      },
+      {
+        "name": "Hey \nWhen",
+        "role": "extracted",
+        "context": "1 PM \nTo: (USANYS) \nSubject: \nHey \nWhen looking through my case file,"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": ". \nSpecial gent \nFBI New York Field Office \nViolent rimes Task Force \nEF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "k Field Office \nViolent rimes Task Force \nEFTA00024477"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.229Z"
+}

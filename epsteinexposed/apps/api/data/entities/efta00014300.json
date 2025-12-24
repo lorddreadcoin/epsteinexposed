@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00014300",
+    "filename": "EFTA00014300.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014300.pdf",
+    "text": "\n\nFrom:' (USANYS) 3\" <1 \nTo: :aUSANYS)\" <1 \nCc: (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Fri, 28 Jun 2019 22:35:07 +0000 \nImportance: Normal \n) 1\" \nYes - usually just once something is seized or someone is charged, but each case gets a paralegal for forfeiture support, \nbased on unit. For PC it's so she can do anything that's needed on the Epstein forfeiture side of Epstein. \nCo-Chief, Money Laundering and Transnational Criminal Enterprises Unit \nAsset Forfeiture Coordinator \nUnited States Attorney's Office \new York \nFrom: (USANYS).> \nSent: Wednesday, June 26, 2019 6:12 PM \nTo: (USANYS) 3 \nCc: (USANYS) < \nSubject: Epstein \nDo you guys still assign each case to a paralegal? If so, will someone be working on Epstein? \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00014300",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "c: (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Fri, 28 Jun 2019 22:35:07 +0"
+      },
+      {
+        "name": "Money Laundering",
+        "role": "extracted",
+        "context": "e side of Epstein. \nCo-Chief, Money Laundering and Transnational Criminal En"
+      },
+      {
+        "name": "Transnational Criminal",
+        "role": "extracted",
+        "context": "o-Chief, Money Laundering and Transnational Criminal Enterprises Unit \nAsset Forfe"
+      },
+      {
+        "name": "Enterprises Unit",
+        "role": "extracted",
+        "context": "ng and Transnational Criminal Enterprises Unit \nAsset Forfeiture Coordinator"
+      },
+      {
+        "name": "Asset Forfeiture",
+        "role": "extracted",
+        "context": "al Criminal Enterprises Unit \nAsset Forfeiture Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "prises Unit \nAsset Forfeiture Coordinator \nUnited States Attorney's Office \new"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "orfeiture Coordinator \nUnited States Attorney's Office \new York \nFrom: (USA"
+      },
+      {
+        "name": "York \nFrom",
+        "role": "extracted",
+        "context": "States Attorney's Office \new York \nFrom: (USANYS).> \nSent: Wednesday,"
+      },
+      {
+        "name": "Epstein \nDo",
+        "role": "extracted",
+        "context": ") 3 \nCc: (USANYS) < \nSubject: Epstein \nDo you guys still assign each ca"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "orking on Epstein? \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000143"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-26",
+        "event": "June 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.586Z"
+}

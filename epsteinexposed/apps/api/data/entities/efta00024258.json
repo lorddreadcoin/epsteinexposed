@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00024258",
+    "filename": "EFTA00024258.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024258.pdf",
+    "text": "\n\nFrom: \"Kathleen E. Cassidy\" < \nTo:'\nCc: Susan Necheles < \nSubject: RE: \nDate: Tue, 31 Mar 2020 01:46:00 +0000 \nAttachments: 2020.03.30 \n2020.03.30 \n>, Samidh Guha \nI forgot to attach the Exhibits. They are attached here. \nThanks, \nKate \nFrom: Kathleen E. Cassidy \nSent: Monday, March 30, 2020 9:40 PM \nCc: Susan Necheles <a>, \nSamidh \nGuha \nSubject: \nAttached is our submission on behalf of our client. \nPlease let us know if you have any questions. Take care and stay healthy. \nBest, \nKate \nKate Cassidy \nHafetz & Necheles LLP \nEFTA00024258",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Susan Necheles",
+        "role": "extracted",
+        "context": "hleen E. Cassidy\" < \nTo:'\nCc: Susan Necheles < \nSubject: RE: \nDate: Tue, 3"
+      },
+      {
+        "name": "Samidh Guha",
+        "role": "extracted",
+        "context": "s: 2020.03.30 \n2020.03.30 \n>, Samidh Guha \nI forgot to attach the Exhib"
+      },
+      {
+        "name": "Kate \nFrom",
+        "role": "extracted",
+        "context": "are attached here. \nThanks, \nKate \nFrom: Kathleen E. Cassidy \nSent: M"
+      },
+      {
+        "name": "Cassidy \nSent",
+        "role": "extracted",
+        "context": "nks, \nKate \nFrom: Kathleen E. Cassidy \nSent: Monday, March 30, 2020 9:40"
+      },
+      {
+        "name": "Samidh \nGuha",
+        "role": "extracted",
+        "context": "PM \nCc: Susan Necheles <a>, \nSamidh \nGuha \nSubject: \nAttached is our su"
+      },
+      {
+        "name": "Kate \nKate",
+        "role": "extracted",
+        "context": "are and stay healthy. \nBest, \nKate \nKate Cassidy \nHafetz & Necheles LL"
+      },
+      {
+        "name": "Cassidy \nHafetz",
+        "role": "extracted",
+        "context": "y healthy. \nBest, \nKate \nKate Cassidy \nHafetz & Necheles LLP \nEFTA00024258"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-30",
+        "event": "March 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.759Z"
+}

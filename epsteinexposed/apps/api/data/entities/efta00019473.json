@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019473",
+    "filename": "EFTA00019473.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019473.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: t/c with re: Epstein investigation \nDate: Wed, 19 Dec 2018 19:22:36 +0000 \nImportance: Normal \nCalled 12/19/18 at 09:30, to advise that we had opened an investigation into Jeffrey Epstein because \nrepresents multiple victims / plaintiffs, wanted to ask about other individuals who might be useful to speak with in the \ninitial stages of our investigation. \non the call \nadvised the following: \nprimary attorneys on the case are / were \no said also may work on it, in response to inquiry \nalso has worked with former Dal, and \nbelieves there was significant misconduct in or in connection to New York \nbelieves there has been possible obstruction / perjury conduct in connection with civil suits \nbest place to start is with victim attorneys, worth talking to \nWe requested that our inquiry remain generally confidential given the sensitivities of the investigation, including the \nprimarily covert nature of the investigation as well as a desire not to raise the hopes of victims at this early investigative \nstage. \nadvised that he intended to honor the request to keep the investigation confidential, within the bounds \nof collaborating attorneys \nWe agreed to speak again in the near future to arrange for subsequent discussions. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00019473",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "o advise that we had opened an investigation into Jeffrey Epstein because \nrepresents multiple victims / plaintiffs"
+      },
+      {
+        "name": "Normal \nCalled",
+        "role": "extracted",
+        "context": "8 19:22:36 +0000 \nImportance: Normal \nCalled 12/19/18 at 09:30, to advise"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "discussions. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.971Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019319",
+    "filename": "EFTA00019319.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019319.pdf",
+    "text": "\n\nFrom: \"-\nTo: \n\"-\nSubject: RE: Epstein \nDate: Thu, 04 Apr 2019 15:17:25 +0000 \nImportance: Normal \n(USANYS)\" <1 \nWe wait with bated breath \nFrom: (USANYS).> \nSent: Thursday, April 04, 2019 11:17 \nTo: \nSubject: Epstein \nDid we ever get a ruling from CM? \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \n> \nEFTA00019319",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \"-\nTo: \n\"-\nSubject: RE: Epstein \nDate: Thu, 04 Apr 2019 15:17:25 +0"
+      },
+      {
+        "name": "Epstein \nDid",
+        "role": "extracted",
+        "context": "04, 2019 11:17 \nTo: \nSubject: Epstein \nDid we ever get a ruling from CM?"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "a ruling from CM? \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \n> \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-04-04",
+        "event": "April 04, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.669Z"
+}

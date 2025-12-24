@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "efta00018658",
+    "filename": "EFTA00018658.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018658.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: Referral of MLAT Request from France ( \nDate: Wed, 30 Dec 2020 15:06:08 —0000 \nAttachments: 2020002015-Depi_En.pdf; 2020002015-Depi_Fr.pdf; \nMReferral Letter (SDNY) (December 2020).pdf \nFYI \nFrom: \nSent: Wednesday, December 30, 2020 9:32 AM \nTo: \nSubject: FW: Referral of MLAT Request from France \nFrom: \nSent: Wednesda , December 30, 2020 5:58 AM \nTo: \nCc: \nSubject: Referral of MLAT Request from France \nDear \nI hope you are both doing well, and have been enjoying the end of year festivities. \nI am referring for your attention an MLAT request from the French in relation to their investigation of. \n(who was recently arrested and placed under examination here in Paris). Since I have been in touch anyway with \nand -about the Maxwell bail proceedings, I took the opportunity to mention that this might be \ncoming their way. \nThanks in advance, and happy new year! - \nDOl Attache/Magistrat de liaison anthicain \nU.S. Embassy, \nParis \nOfc. \nMob \nEFTA00018658",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Referral Letter",
+        "role": "extracted",
+        "context": "df; 2020002015-Depi_Fr.pdf; \nMReferral Letter (SDNY) (December 2020).pdf \nF"
+      },
+      {
+        "name": "France \nFrom",
+        "role": "extracted",
+        "context": "Referral of MLAT Request from France \nFrom: \nSent: Wednesda , December 3"
+      },
+      {
+        "name": "France \nDear",
+        "role": "extracted",
+        "context": "Referral of MLAT Request from France \nDear \nI hope you are both doing we"
+      },
+      {
+        "name": "Ol Attache",
+        "role": "extracted",
+        "context": "ance, and happy new year! - \nDOl Attache/Magistrat de liaison anthicai"
+      },
+      {
+        "name": "Paris \nOfc",
+        "role": "extracted",
+        "context": "son anthicain \nU.S. Embassy, \nParis \nOfc. \nMob \nEFTA00018658"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-30",
+        "event": "December 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "2020002015"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.423Z"
+}

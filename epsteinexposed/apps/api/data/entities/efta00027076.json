@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027076",
+    "filename": "EFTA00027076.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027076.pdf",
+    "text": "\n\nFrom: \nTo: Christian Everdell \nCc: \n\" \n, \"Mark S. \nCohen\" \n\"Laura \nMenninger\" Jeff Pa \"Bobbi \nSternheim \nBee: \"USAHUB-USAJournal111\" \nSubject: RE: US v. Maxwell - discovery production \nDate: Tue, 20 Oct 2020 13:49:29 +0000 \nEmbedded: RELUS_v._Maxwellndiscovery_production.msg \nSender: \nSubject: RE: US v. Maxwell - discovery production \nMessage-Id: \n<SN5P110MB0542FBD2FFEAE3651F4565BD921F0@SN5P110MB0542.NAMP110.PROD.OUTLOOK.COM \nCc: \nCc: \nEFTA00027076",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: \nTo: Christian Everdell \nCc: \n\" \n, \"Mark S. \nCohen\""
+      },
+      {
+        "name": "Laura \nMenninger",
+        "role": "extracted",
+        "context": "Cc: \n\" \n, \"Mark S. \nCohen\" \n\"Laura \nMenninger\" Jeff Pa \"Bobbi \nSternheim \nB"
+      },
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": ". \nCohen\" \n\"Laura \nMenninger\" Jeff Pa \"Bobbi \nSternheim \nBee: \"USAH"
+      },
+      {
+        "name": "Bobbi \nSternheim",
+        "role": "extracted",
+        "context": "\"Laura \nMenninger\" Jeff Pa \"Bobbi \nSternheim \nBee: \"USAHUB-USAJournal111\""
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.496Z"
+}

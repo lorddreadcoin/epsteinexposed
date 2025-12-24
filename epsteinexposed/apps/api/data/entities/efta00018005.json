@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00018005",
+    "filename": "EFTA00018005.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018005.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: hot \ndoes \nDate: Wed, 22 Sep 2021 18:41:32 +0000 \nAttachments: 2005-02-14_HOUSEHOLD_MANUAL.pdf \nI've completed reviewing all 114 documents on the other Relativity platform for this case (FBI files, etc.). There are some \nFedEx business records certificates, in case that's useful. I found the handbook from \nwhich \nis attached for \nMonday's interview with him. As we discussed, there appear to be some Maxwell phone records. thanks for \nrunning point on the project we just discussed relating to those records. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018005",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "d relating to those records. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "se records. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018005"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.013Z"
+}

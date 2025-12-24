@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030865",
+    "filename": "EFTA00030865.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030865.pdf",
+    "text": "\n\nFrom: \nTo: \nMIMIllry.\nSubject: relativity \nDate: Wed, 10 Mar 2021 01:42:53 +0000 \nAttachments: \n2007-03-\n02 SUBPOENA TO TESTIFY BEFORE_GRANDJURY_PERTAINING_TO \n(USANYS)\" \nThe attached doc had no tags, but was marked potential Brady. That looks like an error, but in an abundance of caution, \nbefore I switch the tag to work product, let me know if I'm missing something. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10O07 \nEFTA00030865",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ow if I'm missing something. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "something. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, \nNY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, \nNY 10O07 \nEFTA00030865"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.891Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00014064",
+    "filename": "EFTA00014064.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014064.pdf",
+    "text": "\n\nFrom: ' \nTo:I\nBcc: ' \nSubject: RE: Letter concerning Epstein and the Palm Beach Daily News \nDate: Wed, 17 Sep 2008 17:19:48 +0000 \nImportance: Normal \nThank you, M. \nAssistant U.S. Attome \nPhone \nFax \nFrom: Jack Goldberger [mallto \nSent: Wednesda Se tember 17 2008 12:59 PM \nTo: \nCc: la Lefkowitz; \nSubject: Re: Letter concerning Epstein and the Palm Beach Daily News \nWe will deal with the state. To answer your? The addendum has been filed \nSent from my iPhone \nOn Sep 17, 2008, at 12:15 PM, ' \nwrote: \nGentlemen: Please review the attached letter. Thank you. \n«Lelkowitz 080917.pdf» \nAssistant \nV.S. \n_Attorney \n<Le fkowitz 080917.pdf> \nEFTA00014064",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "er concerning Epstein and the Palm Beach Daily News \nDate: Wed, 17 Sep"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "ng Epstein and the Palm Beach Daily News \nDate: Wed, 17 Sep 2008 17:19"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 17:19:48 +0000 \nImportance: Normal \nThank you, M. \nAssistant U.S. Attom"
+      },
+      {
+        "name": "Attome \nPhone",
+        "role": "extracted",
+        "context": "Thank you, M. \nAssistant U.S. Attome \nPhone \nFax \nFrom: Jack Goldberger ["
+      },
+      {
+        "name": "Fax \nFrom",
+        "role": "extracted",
+        "context": "Assistant U.S. Attome \nPhone \nFax \nFrom: Jack Goldberger [mallto \nSen"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": ".S. Attome \nPhone \nFax \nFrom: Jack Goldberger [mallto \nSent: Wednesda Se te"
+      },
+      {
+        "name": "Wednesda Se",
+        "role": "extracted",
+        "context": "ack Goldberger [mallto \nSent: Wednesda Se tember 17 2008 12:59 PM \nTo:"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "has been filed \nSent from my iPhone \nOn Sep 17, 2008, at 12:15 PM, '"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.039Z"
+}

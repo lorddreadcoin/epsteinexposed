@@ -1,0 +1,145 @@
+{
+  "document": {
+    "id": "efta00031470",
+    "filename": "EFTA00031470.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031470.pdf",
+    "text": "\n\nFrom: \"M, \nTo: \nI. (NY) (FBI)\" <I \nSubject: Re: Ghislaine Maxwell Siblings \nDate: Wed, 01 Jul 2020 22:01:02 +0000 \nHey \nScott's DOB is \nFrom: \nSent: Wednesday, July 1, 2020 5:11 PM \nTo: I. (NY) (FBI) < \nSubject: RE: Ghislaine Maxwell Siblings \nHi \nDo you have a date of birth for Scott Borgerson? Thanks. \nFrom: I. (NY) (FBI) c \nSent: Wednesday, July 1, 2020 3:45 PM \nTo: \nCc \nSubject: RE: Ghislaine Maxwell Siblings \nNo problem! \nThe only Marriage license for Scott Borgerson was on 5/19/2001 to Rebecca Piorunneck. Checks for Ghislaine Maxwell (in \nevery state) were negative. \nFrom: \n11.\nSent: Wednesday, July 01, 2020 3:29 PM \nTo: I. (NY) \n(FBI) < \nCc: \nSubject: RE: Ghislaine Maxwell Siblings \nThanks very much! Somewhat related, are you able to determine whether Maxwell is married? And in particular whether \nshe is married to Scott Borgerson? \nthanks, \nFrom: I. (NY) (FBI) <> \nSent: Wednesday, July 01, 2020 15:27 \nEFTA00031470\n\nTo \nSubject: FW: Ghislaine Maxwell Siblings \nGood afternoon, \nBelow is information regarding Maxwell's siblings. \nFrom: =I I. (NY) (FBI) \nSent: Wednesday, July 01, 2020 2:55 PM \nTo: \nSubject: Ghislaine Maxwell Siblings \n1. Christine Maxwell \n• \n2. Isabel Maxwell \n• \n3. Karine Maxwell \n• \n• Deceased \n4. Ann (Anne) Maxwell (Anne Holve) \n• \n• Married Lawrence Holve \n• No identified residence in US \n• \ni. OUTBOUND flight on 5/23/2015 to UK \n5. \"*Kevin Maxwell \n• \n• No identified residence in US \n• \ni. INBOUND flight on 2/29/2020 to Boston from London \n6. Michael Maxwell \n• \n• Deceased \n7. Ian Maxwell \n• \n• No identified residence in US \n• \ni. OUTBOUND flight on 12/27/2017 to London from Boston \n8. Philip Maxwell \nEFTA00031471\n\n• \n• No travel history \n• No identified residence in US \nLet me know if you need anything else! \nEFTA00031472",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \"M, \nTo: \nI. (NY) (FBI)\" <I \nSubject: Re: Ghislaine Maxwell Siblings \nDate: Wed, 01 Jul 2020 22:01:02 +0000"
+      },
+      {
+        "name": "Siblings \nDate",
+        "role": "extracted",
+        "context": "ubject: Re: Ghislaine Maxwell Siblings \nDate: Wed, 01 Jul 2020 22:01:02 +0"
+      },
+      {
+        "name": "Hey \nScott",
+        "role": "extracted",
+        "context": ", 01 Jul 2020 22:01:02 +0000 \nHey \nScott's DOB is \nFrom: \nSent: Wednes"
+      },
+      {
+        "name": "Siblings \nHi",
+        "role": "extracted",
+        "context": "ubject: RE: Ghislaine Maxwell Siblings \nHi \nDo you have a date of birth"
+      },
+      {
+        "name": "Scott Borgerson",
+        "role": "extracted",
+        "context": "you have a date of birth for Scott Borgerson? Thanks. \nFrom: I. (NY) (FBI)"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "y, July 1, 2020 3:45 PM \nTo: \nCc \nSubject: RE: Ghislaine Maxwell Siblin"
+      },
+      {
+        "name": "Siblings \nNo",
+        "role": "extracted",
+        "context": "ubject: RE: Ghislaine Maxwell Siblings \nNo problem! \nThe only Marriage l"
+      },
+      {
+        "name": "Rebecca Piorunneck",
+        "role": "extracted",
+        "context": "Borgerson was on 5/19/2001 to Rebecca Piorunneck. Checks for Ghislaine Maxwell"
+      },
+      {
+        "name": "Siblings \nThanks",
+        "role": "extracted",
+        "context": "ubject: RE: Ghislaine Maxwell Siblings \nThanks very much! Somewhat related,"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "01, 2020 15:27 \nEFTA00031470\n\nTo \nSubject: FW: Ghislaine Maxwell Siblin"
+      },
+      {
+        "name": "Siblings \nGood",
+        "role": "extracted",
+        "context": "ubject: FW: Ghislaine Maxwell Siblings \nGood afternoon, \nBelow is informat"
+      },
+      {
+        "name": "Christine Maxwell",
+        "role": "extracted",
+        "context": "hislaine Maxwell Siblings \n1. Christine Maxwell \n• \n2. Isabel Maxwell \n• \n3."
+      },
+      {
+        "name": "Isabel Maxwell",
+        "role": "extracted",
+        "context": "1. Christine Maxwell \n• \n2. Isabel Maxwell \n• \n3. Karine Maxwell \n• \n• D"
+      },
+      {
+        "name": "Karine Maxwell",
+        "role": "extracted",
+        "context": "• \n2. Isabel Maxwell \n• \n3. Karine Maxwell \n• \n• Deceased \n4. Ann (Anne)"
+      },
+      {
+        "name": "Anne Holve",
+        "role": "extracted",
+        "context": "eased \n4. Ann (Anne) Maxwell (Anne Holve) \n• \n• Married Lawrence Holve"
+      },
+      {
+        "name": "Married Lawrence",
+        "role": "extracted",
+        "context": "e) Maxwell (Anne Holve) \n• \n• Married Lawrence Holve \n• No identified reside"
+      },
+      {
+        "name": "Kevin Maxwell",
+        "role": "extracted",
+        "context": "ight on 5/23/2015 to UK \n5. \"*Kevin Maxwell \n• \n• No identified residence"
+      },
+      {
+        "name": "Michael Maxwell",
+        "role": "extracted",
+        "context": "020 to Boston from London \n6. Michael Maxwell \n• \n• Deceased \n7. Ian Maxwel"
+      },
+      {
+        "name": "Ian Maxwell",
+        "role": "extracted",
+        "context": "el Maxwell \n• \n• Deceased \n7. Ian Maxwell \n• \n• No identified residence"
+      },
+      {
+        "name": "Philip Maxwell",
+        "role": "extracted",
+        "context": "017 to London from Boston \n8. Philip Maxwell \nEFTA00031471\n\n• \n• No travel"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2001-05-19",
+        "event": "5/19/2001"
+      },
+      {
+        "date": "2015-05-23",
+        "event": "5/23/2015"
+      },
+      {
+        "date": "2020-02-29",
+        "event": "2/29/2020"
+      },
+      {
+        "date": "2017-12-27",
+        "event": "12/27/2017"
+      },
+      {
+        "date": "2020-07-01",
+        "event": "July 1, 2020"
+      },
+      {
+        "date": "2020-07-01",
+        "event": "July 01, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.154Z"
+}

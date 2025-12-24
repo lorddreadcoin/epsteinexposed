@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029792",
+    "filename": "EFTA00029792.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029792.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: GM \nWhereabouts \nDate: Mon, 22 Jun 2020 12:04:31 +0000 \n10-4, we have \nseen \nOn \nJun 22, 2020 08:03 rote: \nFYI there is a press report t  is morning t  at s  es l  ing in ans. o ea it is accurate but wanted to flag for \nyou since it's of obvious concern... \nhttps://www.the-sun.com/news/ 1014441/jeffrey-e stein-ghislaine-maxwell-hiding-paris-flat/ \nSent from my iPhone \nEFTA00029792",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Whereabouts \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: GM \nWhereabouts \nDate: Mon, 22 Jun 2020 12:04:31 +0"
+      },
+      {
+        "name": "On \nJun",
+        "role": "extracted",
+        "context": "1 +0000 \n10-4, we have \nseen \nOn \nJun 22, 2020 08:03 rote: \nFYI the"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.237Z"
+}

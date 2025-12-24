@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030616",
+    "filename": "EFTA00030616.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030616.pdf",
+    "text": "\n\nFrom: \nTo: \nealS> \"M\" \nSubject: RE: US v Epstein \nDate: Fri, 19 Jul 2019 20:45:08 +0000 \nSounds good to me. Afternoon is much better for me if possible. \n Original Message \nFrom: \nSent: Frida Jul 19 2019 4:45 PM \nTo: \nSubject: FW: US v Epstein \nI would propose we just schedule a call for Tuesday, which will give us time to sort out a few things. \n Original Message \nFrom: Martin Weinberg\nSent: \nFriday. \nJul 19.2 : \nTo: \nCc: Martin Weinberg \nSubject: US v Epstein \nShould we talk about any case management issues? Protective Order? Discovery rollout? \nThanks \nMarty \nSent from my iPhone \nEFTA00030616",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ealS> \"M\" \nSubject: RE: US v Epstein \nDate: Fri, 19 Jul 2019 20:45:08 +0"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "better for me if possible. \n Original Message \nFrom: \nSent: Frida Jul 19 20"
+      },
+      {
+        "name": "Frida Jul",
+        "role": "extracted",
+        "context": "riginal Message \nFrom: \nSent: Frida Jul 19 2019 4:45 PM \nTo: \nSubject"
+      },
+      {
+        "name": "Martin Weinberg",
+        "role": "extracted",
+        "context": "gs. \n Original Message \nFrom: Martin Weinberg\nSent: \nFriday. \nJul 19.2 : \nT"
+      },
+      {
+        "name": "Epstein \nShould",
+        "role": "extracted",
+        "context": "artin Weinberg \nSubject: US v Epstein \nShould we talk about any case manage"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "t any case management issues? Protective Order? Discovery rollout? \nThanks"
+      },
+      {
+        "name": "Thanks \nMarty",
+        "role": "extracted",
+        "context": "ve Order? Discovery rollout? \nThanks \nMarty \nSent from my iPhone \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.286Z"
+}

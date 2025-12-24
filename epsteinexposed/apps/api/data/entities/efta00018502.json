@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00018502",
+    "filename": "EFTA00018502.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018502.pdf",
+    "text": "\n\nFrom: \"Hutner, Florence (OCME)\"  \nTo:' \nSubject: RE: Epstein FOIA Release \nDate: Fri, 02 Jul 2021 20:44:08 +0000 \nThanks so much; same to you. \nFlorence Hutner \nGeneral Counsel \nOffice of Chief Medical Examiner \nTel: • \nMobile: \nThe information contained in this e-mail communication may be confidential andfor legally privileged and is for the use of the intended \nrecipient only. If you are not the intended recipient, or an authorized employee or an agent responsible for delivering it to the intended \nrecipient, the dissemination, distribution or reproduction of this communication or its contents (including any attachments) is prohibited. \nIf you have received this communication in error, please notify us immediately by telephone or reply e-mail and permanently delete it and \nany copies from your system files. \nFrom: \nSent: Friday, July 2, 2021 3:18 PM \nTo: Hutner, Florence (OCME) \nSubject: RE: Epstein FOIA Release \nFlorence, \n< \nThe redacted autopsy reported, as produced to the Times, is attached. I provided notice to Mark Epstein's attorney this \nmorning. \nHave a good holiday weekend. \nFrom: Hutner, Florence (OCME) \nSent: Thursday, July 1, 2021 11:39 AM \nTo: \nSubject: RE: Epstein FOIA Release \nThanks very much on both counts. \nFlorence Hutner \nGeneral Counsel \nOffice of Chief Medical Examiner \nTel: • \nMobile: \nThe information contained in this e-mail communication may be confidential andfor legally privileged and is for the use of the intended \nrecipient only. If you are not the intended recipient, or an authorized employee or an agent responsible for delivering it to the intended \nrecipient, the dissemination, distribution or reproduction of this communication or its contents (including any attachments) is prohibited. \nEFTA00018502\n\nIf you have received this communication in error, please notify us immediately by telephone or reply e-mail and permanently delete it and \nany copies from your system files. \nFrom: \nSent: Thursday, July 1, 202111:38 AM \nTo: Hutner, Florence (OCME) < \nSubject: Epstein FOIA Release \nHi Florence, \nFollowing up on our call yesterday, we will send you a copy of the redacted autopsy report tomorrow, after it's produced. \nWe also intend to call Mark Epstein's lawyer tomorrow morning to give her a courtesy head's up about the release. \nThanks, \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nCell \nEFTA00018503",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Release \nDate",
+        "role": "extracted",
+        "context": ":' \nSubject: RE: Epstein FOIA Release \nDate: Fri, 02 Jul 2021 20:44:08 +0"
+      },
+      {
+        "name": "Florence Hutner",
+        "role": "extracted",
+        "context": "Thanks so much; same to you. \nFlorence Hutner \nGeneral Counsel \nOffice of C"
+      },
+      {
+        "name": "General Counsel",
+        "role": "extracted",
+        "context": "ame to you. \nFlorence Hutner \nGeneral Counsel \nOffice of Chief Medical Exam"
+      },
+      {
+        "name": "Chief Medical",
+        "role": "extracted",
+        "context": "r \nGeneral Counsel \nOffice of Chief Medical Examiner \nTel: • \nMobile: \nTh"
+      },
+      {
+        "name": "Examiner \nTel",
+        "role": "extracted",
+        "context": "nsel \nOffice of Chief Medical Examiner \nTel: • \nMobile: \nThe information"
+      },
+      {
+        "name": "Release \nFlorence",
+        "role": "extracted",
+        "context": "E) \nSubject: RE: Epstein FOIA Release \nFlorence, \n< \nThe redacted autopsy rep"
+      },
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "ttached. I provided notice to Mark Epstein's attorney this \nmorning. \nHa"
+      },
+      {
+        "name": "Release \nThanks",
+        "role": "extracted",
+        "context": "o: \nSubject: RE: Epstein FOIA Release \nThanks very much on both counts. \nFl"
+      },
+      {
+        "name": "Release \nHi",
+        "role": "extracted",
+        "context": "CME) < \nSubject: Epstein FOIA Release \nHi Florence, \nFollowing up on ou"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "se. \nThanks, \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nC"
+      },
+      {
+        "name": "Desk \nCell",
+        "role": "extracted",
+        "context": "outhern District of New York \nDesk \nCell \nEFTA00018503"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-02",
+        "event": "July 2, 2021"
+      },
+      {
+        "date": "2021-07-01",
+        "event": "July 1, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.066Z"
+}

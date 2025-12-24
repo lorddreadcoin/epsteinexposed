@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013908",
+    "filename": "EFTA00013908.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013908.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBcc• \nSubject: Corrected third supplement to pros memo \nDate: Fri, 27 Jun 2008 18:23:33 +0000 \nImportance: Normal \nAttachments: Third_Supplement_Pros_Memo_2-13-08_corrected_6-27-08.wpd \nHi M- Here it is. My assistant is going to send you the corrected penalty sheets. Nothing else \nchanges. \nThanks. \n<<Third Supplement Pros Memo 2-13-08 corrected 6-27-08.wpd» \nEFTA00013908",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 18:23:33 +0000 \nImportance: Normal \nAttachments: Third_Supplement_Pros_Memo_2"
+      },
+      {
+        "name": "Third Supplement",
+        "role": "extracted",
+        "context": "ng else \nchanges. \nThanks. \n<<Third Supplement Pros Memo 2-13-08 corrected 6"
+      },
+      {
+        "name": "Pros Memo",
+        "role": "extracted",
+        "context": "Thanks. \n<<Third Supplement Pros Memo 2-13-08 corrected 6-27-08.wpd"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.711Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00007975",
+    "filename": "EFTA00007975.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007975.pdf",
+    "text": "\n\nInfilliggismun \nOntia \nTown \nof Palm \nBeach Pi \nPolice \nDepartment ki\nsf.;;) \nEVIDENCE \nCASE \n#4\"Z 6?  \nPROPERTY #  ter \nig \n2— \nCONTENTS \n/2.7/\nFi\n1 \nEFTA00007975\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \n/7/6/4, \n-77,-\nEFTA00007976\n\nEFTA00007977",
+    "pageCount": 3,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Infilliggismun \nOntia",
+        "role": "extracted",
+        "context": "Infilliggismun \nOntia \nTown \nof Palm \nBeach Pi \nPol"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "filliggismun \nOntia \nTown \nof Palm \nBeach Pi \nPolice \nDepartment ki\nsf."
+      },
+      {
+        "name": "Pi \nPolice",
+        "role": "extracted",
+        "context": "Ontia \nTown \nof Palm \nBeach Pi \nPolice \nDepartment ki\nsf.;;) \nEVIDEN"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.582Z"
+}

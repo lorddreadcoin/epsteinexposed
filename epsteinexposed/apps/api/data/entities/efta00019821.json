@@ -1,0 +1,102 @@
+{
+  "document": {
+    "id": "efta00019821",
+    "filename": "EFTA00019821.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019821.pdf",
+    "text": "\n\nFrom: ' \nSubject: RE: \nDate: Thu, 15 Aug 2019 18:08:08 +0000 \nSafe Horizon has two people that WILL GIVE SUPPORT AND COUNSELING TO Epstein Victims. \nVictoria Dexter (VP, Mental Health Treatment) and Sherri Papamihalis (Clinical Director — Counseling Center.) Our \nCounseling Center has available slots, so perhaps you guys can all connect and see if that would be the right fit for the \nvictims in the Epstein case. Thanks! Sherri phone number is 718 9286914 \nI hope this helps. I know she is in Florida but thought if anyone else asks you this is a great resource. \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nFrom \nSubject: RE: \nYes we will reach out. Thanks. \nOn Aug 15, 2019 1:49 PM, ' wrote: \nThanks I'm \ncc'ing \nwould you be able to please reach out to \nFrom:I \nSubject: \nEFTA00019821\n\nShe called and said \" hey I am in Palm beach and need counseling.\" \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nEFTA00019822",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Safe Horizon",
+        "role": "extracted",
+        "context": ", 15 Aug 2019 18:08:08 +0000 \nSafe Horizon has two people that WILL GIVE"
+      },
+      {
+        "name": "Epstein Victims",
+        "role": "extracted",
+        "context": "IVE SUPPORT AND COUNSELING TO Epstein Victims. \nVictoria Dexter (VP, Mental"
+      },
+      {
+        "name": "Victoria Dexter",
+        "role": "extracted",
+        "context": "UNSELING TO Epstein Victims. \nVictoria Dexter (VP, Mental Health Treatment)"
+      },
+      {
+        "name": "Mental Health",
+        "role": "extracted",
+        "context": "ictims. \nVictoria Dexter (VP, Mental Health Treatment) and Sherri Papamih"
+      },
+      {
+        "name": "Sherri Papamihalis",
+        "role": "extracted",
+        "context": "Mental Health Treatment) and Sherri Papamihalis (Clinical Director — Counseli"
+      },
+      {
+        "name": "Clinical Director",
+        "role": "extracted",
+        "context": "ment) and Sherri Papamihalis (Clinical Director — Counseling Center.) Our \nCo"
+      },
+      {
+        "name": "Counseling Center",
+        "role": "extracted",
+        "context": "amihalis (Clinical Director — Counseling Center.) Our \nCounseling Center has"
+      },
+      {
+        "name": "Our \nCounseling",
+        "role": "extracted",
+        "context": "irector — Counseling Center.) Our \nCounseling Center has available slots, s"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "ou this is a great resource. \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "eat resource. \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "n District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nFr"
+      },
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "za \nNew York, New York 10007 \nFrom \nSubject: RE: \nYes we will reach out."
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "s we will reach out. Thanks. \nOn Aug 15, 2019 1:49 PM, ' wrote: \nT"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "718 9286914"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.644Z"
+}

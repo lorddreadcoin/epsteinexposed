@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00029705",
+    "filename": "EFTA00029705.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029705.pdf",
+    "text": "\n\nFrom: ' \nTo:1 \nSubject: Daily News \nDate: Thu, 05 Mar 2020 00:03:04 +0000 \n\"They're not going to only arrest low level people — that would look terrible,\" Edwards said. \nhttps://www.nydailynews.cominew-yorkiny-epstein-girlfriend-last-person-to-speak-to-him-20200303-\n5eiir3ia5bbhvjcsdrsjmxvqoi-story.html\nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00029705",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "From: ' \nTo:1 \nSubject: Daily News \nDate: Thu, 05 Mar 2020 00:03"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "qoi-story.html\nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.013Z"
+}

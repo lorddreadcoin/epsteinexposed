@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018924",
+    "filename": "EFTA00018924.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018924.pdf",
+    "text": "\n\nSubject: update \nDate: Mon, 09 Dec 2019 23:49:07 +0000 \nWe wanted to share the good news that we spoke with lawyer late this afternoon, and he told us that his \nclient is on board with cooperating with our office's investigation and possible prosecution of Ghislaine Maxwell. Our next \nstep will be to meet with for an interview to cover several topics that were previously off-limits during our \nmeetings with her. We hope to have that meetin:4 or the week thereafter, depending on her \nschedule. \nBest, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018924",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ffice's investigation and possible prosecution of Ghislaine Maxwell. Our next \nstep will be to meet with for an inter"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ing on her \nschedule. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ule. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00018924"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.975Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019282",
+    "filename": "EFTA00019282.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019282.pdf",
+    "text": "\n\nFrom:I\nTo: \nI \nCc: \nSubject: RE: CD for MDC \nDate: Thu, 17 Dec 2020 17:49:02 -4)000 \nAttachments: 2020.12.17_MDC_-_Maxwell_MAIN.pdf; 2020.12.17_MDC_-_Maxwell_PASSWORD.pdf \nOf course! They are attached and also saved on the shared. \nFrom \nSent: Thursday, December 17, 2020 12:48 PM \nTo: \nCc: \nSubject: RE: CD for MDC \nThanks so much, Would you please send me the MDC cover letters so I can send them to MDC counsel? \nFrom \nSent: Thursday, December 17, 2020 12:43 PM \nTo: \nSubject: CD for MDC \nHi all, \nThe envelope with the CD containing the Eighth Production materials and the envelope with the CD's password have both \nbeen left for FedEx pickup at the Office. I included the cover letter sent to defense counsel on the CD as well. The tracking \nnumber for the envelope containing the CD is 816289189888. \nThanks so much, all! \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00019282",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "nd also saved on the shared. \nFrom \nSent: Thursday, December 17, 2020"
+      },
+      {
+        "name": "Eighth Production",
+        "role": "extracted",
+        "context": "pe with the CD containing the Eighth Production materials and the envelope wi"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "89888. \nThanks so much, all! \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00019282"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-17",
+        "event": "December 17, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.597Z"
+}

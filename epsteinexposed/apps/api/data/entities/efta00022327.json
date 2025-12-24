@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00022327",
+    "filename": "EFTA00022327.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022327.pdf",
+    "text": "\n\nFrom: Nathan NYSD Chambers \nTo: \nSubject: 20cr330, US v. Maxwell \nDate: Wed, 03 Nov 2021 22:34:39 -4)000 \nAttachments: 20cr330_Order_1_11.3.21.pdf: 20cr330_Order_2_11.3.21.pdf \nCounsel: \nAttached please find two orders issued by Judge Nathan, which will be docketed tomorrow morning. \nPlease confirm receipt. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00022327",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers \nTo",
+        "role": "extracted",
+        "context": "From: Nathan NYSD Chambers \nTo: \nSubject: 20cr330, US v. Max"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: 20cr330, US v. Maxwell \nDate: Wed, 03 Nov 2021 22:34:39 -4"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "ase find two orders issued by Judge Nathan, which will be docketed tomor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.620Z"
+}

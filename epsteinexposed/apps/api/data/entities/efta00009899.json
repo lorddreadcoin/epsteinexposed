@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00009899",
+    "filename": "EFTA00009899.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009899.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: tomorrow \nDate: Thu, 22 Apr 2021 22:12:03 +0000 \nAttachments: 2021.04.19_Scheduling_Order.pdf \nHi \nAttached is the scheduling order with the public dial in information (there is no video). In addition to the public access \nline, the Court has set up a different access line for victims who want to attend-- if you'd like me to, I can let the Court \nknow you plan to dial in, so that I can send you the victim access line. Just let me know your preference. \nThanks, \nFrom \nSent: Thurs ay, Apr' 2  , 1 :  5 PM \nTo: \nSubject: tomorrow \ncan you send me the link to watch tomorrow's hearing? Thanks. \nCONFIDENTIALITY NOTICE: \nThis e-mail may contain confidential and privileged material for the sole use of the intended recipient(s). Any review, use, distribution \nor disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please \ncontact the sender by reply e-mail or telephone, and delete all copies of this message. \nEFTA00009899",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "1.04.19_Scheduling_Order.pdf \nHi \nAttached is the scheduling order with"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ow your preference. \nThanks, \nFrom \nSent: Thurs ay, Apr' 2  , 1 :  5 P"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.877Z"
+}

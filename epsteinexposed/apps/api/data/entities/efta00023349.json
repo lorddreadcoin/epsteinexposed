@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023349",
+    "filename": "EFTA00023349.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023349.pdf",
+    "text": "\n\nFrom: \nTo \nSubject: [EXTERNAL] Screenshots from■. \nDate: Fri, 12 Nov 2021 01:44:27 +0000 \nInline-Images: imageO.png; imagel.png; image2.png \nEFTA00023349\n\n8:39 \n0000 \n• \nLTE A l a 69% \nEpstein \nJef \nCall \nText \nVideo \nDI \nMobile \n11 \nEdit \ncontact \n• \nEFTA00023350\n\n8:35 \n0 0 \n0 0 \n• \nLTEA I \n70% \n0 \n‘43 \nF 1 \nID \nCall Text \nVideo \n% \nMobile \nID ID\n, \nEdit contact \n4 0 \nEFTA00023351\n\n8:36 \n0 0 \n0 0 • \nLTE4   in   70% \nW \nO1 \n‘43 \nCall Text \nVideo \n‘42 \nCO \nHome \nVideo call on Duo \nVoice call on Duo \nEdit contact \n0 \n• \n• \n• \nID \nEFTA00023352",
+    "pageCount": 4,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo \nSubject: [EXTERNAL] Screenshots from■"
+      },
+      {
+        "name": "Epstein \nJef",
+        "role": "extracted",
+        "context": "8:39 \n0000 \n• \nLTE A l a 69% \nEpstein \nJef \nCall \nText \nVideo \nDI \nMobil"
+      },
+      {
+        "name": "Call \nText",
+        "role": "extracted",
+        "context": "LTE A l a 69% \nEpstein \nJef \nCall \nText \nVideo \nDI \nMobile \n11 \nEdit"
+      },
+      {
+        "name": "Call Text",
+        "role": "extracted",
+        "context": "LTEA I \n70% \n0 \n‘43 \nF 1 \nID \nCall Text \nVideo \n% \nMobile \nID ID\n, \nE"
+      },
+      {
+        "name": "Home \nVideo",
+        "role": "extracted",
+        "context": "3 \nCall Text \nVideo \n‘42 \nCO \nHome \nVideo call on Duo \nVoice call on Du"
+      },
+      {
+        "name": "Duo \nVoice",
+        "role": "extracted",
+        "context": "‘42 \nCO \nHome \nVideo call on Duo \nVoice call on Duo \nEdit contact \n0"
+      },
+      {
+        "name": "Duo \nEdit",
+        "role": "extracted",
+        "context": "eo call on Duo \nVoice call on Duo \nEdit contact \n0 \n• \n• \n• \nID \nEFTA"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.781Z"
+}

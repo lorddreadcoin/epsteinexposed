@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014108",
+    "filename": "EFTA00014108.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014108.pdf",
+    "text": "\n\nFrom: '   (USAFLS)\" \nTo: (USAFLS)\"\nBee: ' \n(USAFLS)\" \nSubject: FW: Government's Motion to Seal \nDate: Wed, 09 Jul 2008 18:07:12 +0000 \nImportance: Normal \nAttachments: victim Mot seal with declaration.wpd; victim Mot seal.wpd _ _ _ _ _ _ \nHi clearly thinks I am an idiot. But here is a corrected version of his motion. can you also \nprepare a proposed order and the file tracking sheet? \n«victim_Mot_seal with declaration.wpd» \nAssistant U.S. \nAttorney \nFrom: (USAFLS) \nSent: Wednesday, July 09, 2008 1:47 PM \nTo: . (USAFLS) \nSubject: Governments Motion to Seal \nIn preparation for this afternoon's filing, I have prepared a motion to seal, which is attached. I did not include \nEpstein's name and made general assertions regarding the confidentiality of the negotiations. Please have \nsomeone sign both the motion to seal, and the government's response, for me. We then need to prepare a \nsealed document tracking sheet, to accompany the motion. \nAn original and one copy of the sealed document should be placed in two separate envelopes, with the case \nnumber written on the outside. An original and one copy of the motion to seal should be filed with the Clerk. \nThanks. \n«victim_Mot_seal.wpd» \nEFTA00014108",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Seal \nDate",
+        "role": "extracted",
+        "context": "t: FW: Government's Motion to Seal \nDate: Wed, 09 Jul 2008 18:07:12 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 18:07:12 +0000 \nImportance: Normal \nAttachments: victim Mot seal with declara"
+      },
+      {
+        "name": "Attorney \nFrom",
+        "role": "extracted",
+        "context": "aration.wpd» \nAssistant U.S. \nAttorney \nFrom: (USAFLS) \nSent: Wednesday, J"
+      },
+      {
+        "name": "Governments Motion",
+        "role": "extracted",
+        "context": "PM \nTo: . (USAFLS) \nSubject: Governments Motion to Seal \nIn preparation for t"
+      },
+      {
+        "name": "Seal \nIn",
+        "role": "extracted",
+        "context": "ubject: Governments Motion to Seal \nIn preparation for this afternoo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-07-09",
+        "event": "July 09, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.148Z"
+}

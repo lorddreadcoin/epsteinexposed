@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00027933",
+    "filename": "EFTA00027933.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027933.pdf",
+    "text": "\n\nFrom: \nSubject: RE: 3 pm is good for the \nEpstein team \nDate: Wed, 14 Aug 2019 \n13:41:35 +0000 \nExcellent, thank you. See you all \nthen \nFrom: \nSubject: 3 \npm is good for the \nEpstein team \nUnited \nStates Attorney's Office for \nthe \nSouthern District of New York \n1 St. \nAndrew's Plaza \nt. \nEFTA00027933",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "United \nStates",
+        "role": "extracted",
+        "context": "s good for the \nEpstein team \nUnited \nStates Attorney's Office for \nthe \nS"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "s Attorney's Office for \nthe \nSouthern District of New York \n1 St. \nAndrew's"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.290Z"
+}

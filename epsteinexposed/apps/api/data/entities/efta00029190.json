@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029190",
+    "filename": "EFTA00029190.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029190.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: Charges for Jeffrey Epstein's Jail Guards Coming as Soon as Next Week - WSJ \nDate: Sun, 17 Nov 2019 05:18:32 +0000 \nhttps://www.wsj.com/articles/charges-for-jeffrey-epsteins-jail-guards-coming-as-soon-as-next-week-\n11573873853 \nEFTA00029190",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: Charges for Jeffrey Epstein's Jail Guards Coming as Soon as Next Week - WSJ"
+      },
+      {
+        "name": "Jail Guards",
+        "role": "extracted",
+        "context": "Charges for Jeffrey Epstein's Jail Guards Coming as Soon as Next Week -"
+      },
+      {
+        "name": "Next Week",
+        "role": "extracted",
+        "context": "Jail Guards Coming as Soon as Next Week - WSJ \nDate: Sun, 17 Nov 2019"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.946Z"
+}

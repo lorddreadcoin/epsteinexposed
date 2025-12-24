@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00025123",
+    "filename": "EFTA00025123.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025123.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Keep Open Letter - \nUSAA \nDate: Mon, 02 Mar 2020 20:50:36 +0000 \nHey Alex, see below regarding identifiers. \nGhisl aka Ghislaine Borgerson \nDOB: \nSSN: \nScott Bo erson \nDOB: \nSSN: \nUSAA \nAccount number \nThanks! \n Ori inal Messa e \nFrom: \n•Sent: on a arc \nTo: \nCc \nSubject: RE: Keep Open Letter - USAA \nI  think you mentioned on the phone earlier that they need the names and SSNs of the people we're asking \nto keep open -- obviously I  know Maxwell's name but could you please send any other info we need for her, as \nwell as any other names and info for anybody else? And I'll get this letter to you today. Thanks. \nFrom \nSent: Monda March 02 2020 13:31 \nCc: \nSubjec: \neep pen e er - \nHey all, \nCould you provide a Keep Open Letter for USAA bank? \nEFTA00025123\n\nI've attached a template provided by USAA. \nUSAA; \nCASE NUMBER-\nThe \nindividual I've been speaking with is ho is thaML Investigations and \nCompliance. \nUSAA, Tam a Crosstown \nampa, FL 33619 \nIf you could send me the letter when completed and I'll send it over toM \nSpecial Agent \nFBI New \nYork \nVCAC/Human Trafficking \nC: \n0: \nEFTA00025124",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Keep Open",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Keep Open Letter - \nUSAA \nDate: Mon, 02"
+      },
+      {
+        "name": "Hey Alex",
+        "role": "extracted",
+        "context": ", 02 Mar 2020 20:50:36 +0000 \nHey Alex, see below regarding identifi"
+      },
+      {
+        "name": "Ghislaine Borgerson",
+        "role": "extracted",
+        "context": "rding identifiers. \nGhisl aka Ghislaine Borgerson \nDOB: \nSSN: \nScott Bo erson"
+      },
+      {
+        "name": "Scott Bo",
+        "role": "extracted",
+        "context": "slaine Borgerson \nDOB: \nSSN: \nScott Bo erson \nDOB: \nSSN: \nUSAA \nAcco"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \n•Sent: on a arc \nTo: \nCc \nSubject: RE: Keep Open Letter - USAA"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "letter to you today. Thanks. \nFrom \nSent: Monda March 02 2020 13:31 \nC"
+      },
+      {
+        "name": "Monda March",
+        "role": "extracted",
+        "context": "u today. Thanks. \nFrom \nSent: Monda March 02 2020 13:31 \nCc: \nSubjec:"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "ed and I'll send it over toM \nSpecial Agent \nFBI New \nYork \nVCAC/Human Tr"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "over toM \nSpecial Agent \nFBI New \nYork \nVCAC/Human Trafficking \nC:"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "al Agent \nFBI New \nYork \nVCAC/Human Trafficking \nC: \n0: \nEFTA00025124"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-02",
+        "event": "March 02 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.514Z"
+}

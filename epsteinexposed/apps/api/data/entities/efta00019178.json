@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00019178",
+    "filename": "EFTA00019178.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019178.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Press \nCoverage re Op Stolen Globe/Epstein \nDate: Thu, 28 Jan 2010 23:07:10 +0000 \nI \nmportance: Normal \nThe AUSAs we recommend in each district are: \n=, New Mexico \nWhat about New York, =? Have they been approached? What district? \nWe've worked with both =and and they're very good. As we've discussed, I think they AUSAs will want as \nmuch information from as they can get -  on all aspects of the case. I'm not sure whether an individual or group \napproach is best, but I leave that decision to USAFLS. We are happy to facilitate and participate in any phone meetings \nthat are called, but, as I said at our meeting, we can't get involved substantively in the investigation. \nLet me know how we can help. \nFrom: , C. (USAFLS) \n[mallto \nSent: Tuesday, January 26, 2010 10:21 AM \nSubject: Press Coverage re Op Stolen Globe/Epstein \nI  have suspicions about who tipped off the press given my recent back and forth with some of the plaintiffs' \nattorneys, but in any event, this appeared in this morning's Palm Beach Post. \n—  Can we set up the meeting with the AUSAs in California and New Mexico some time soon? \n«ex-epstein-worker-faces.pdf» \nThank you. \nAssistant U.S. Attorney \n500 E. Broward Blvd, 7th Floor \nFt Lauderdale, FL \n33394 \nEFTA00019178\n\nEFTA00019179",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Press \nCoverage",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Press \nCoverage re Op Stolen Globe/Epstein \nD"
+      },
+      {
+        "name": "Op Stolen",
+        "role": "extracted",
+        "context": "bject: RE: Press \nCoverage re Op Stolen Globe/Epstein \nDate: Thu, 28"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Coverage re Op Stolen Globe/Epstein \nDate: Thu, 28 Jan 2010 23:07:10 +0"
+      },
+      {
+        "name": "Normal \nThe",
+        "role": "extracted",
+        "context": "23:07:10 +0000 \nI \nmportance: Normal \nThe AUSAs we recommend in each di"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "end in each district are: \n=, New Mexico \nWhat about New York, =? Have"
+      },
+      {
+        "name": "Press Coverage",
+        "role": "extracted",
+        "context": "y 26, 2010 10:21 AM \nSubject: Press Coverage re Op Stolen Globe/Epstein \nI"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "is appeared in this morning's Palm Beach Post. \n—  Can we set up the m"
+      },
+      {
+        "name": "Broward Blvd",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 E. Broward Blvd, 7th Floor \nFt Lauderdale, FL"
+      },
+      {
+        "name": "Floor \nFt",
+        "role": "extracted",
+        "context": "ney \n500 E. Broward Blvd, 7th Floor \nFt Lauderdale, FL \n33394 \nEFTA00"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Ft Lauderdale, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2010-01-26",
+        "event": "January 26, 2010"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.448Z"
+}

@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00022329",
+    "filename": "EFTA00022329.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022329.pdf",
+    "text": "\n\nFrom: ' \nTo: '\n>, ' \nCc: ir>\nSubject: RE: Voicemails from Civilian possibly about Epstein \nDate: Mon, 10 Aug 2020 16:48:52 +0000 \nReceived. Thanks. \nFrom: \nSent: Monday, August 10, 2020 11:43 AM \nTo: \nCc:\nSubject: [EXTERNAL EMAIL] - FW: Voicemails from Civilian 'ossibly about Epstein \nSending this per our usual practice —  thanks. \nFrom: \nSent: Monday, August 10, 202010:01 \nTo: \n> \nSubject: FW: Voicemails from \nCivilian \nin Australia, possibly about Epstein \nFYI, these voicemails came into direct line. They are from someone named \n She knows to call by name. She is talking about \ncrimes committed against her. She claims to be a prisoner. She references Lisa Marie \nPresley, the British Royal Family, President Trump, and Jeffrey Epstein. We are passing \nthese along to you for review and follow up if appropriate or nothing if not. We will be \nblocking the number from calling again and otherwise doing nothing further on our end \nbecause the caller is from a foreign country and because of international comity, we \ncan't respond. Let me know if you have any questions. \nFrom: \nSent: Sunday, August 9, 2020 7:44 PM \nTo: >; \nSubject: Voicemails \n> \nThe attached are 3 voicemails that received this morning at 9:22, 9:26, and 9:54 respectively. \nThey are from someone named he knows to call by name. She is talking about crimes \ncommitted against her. She claims to be a  prisoner. S  e re erences Lisa Marie Presley, the British Royal Family, President \nTrump, and Jeffrey Epstein. \nLet me know what other actions I should take. \nThank you! \nEFTA00022329\n\nSpecial \nAssistant to the \nU.S. Attorney \nUnited \nStates Attorney's \nOffice, SDNY \nEFTA00022330",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "y, the British Royal Family, President Trump, and Jeffrey Epstein. We are passing \nthese along to you for review an"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "from Civilian possibly about Epstein \nDate: Mon, 10 Aug 2020 16:48:52 +0"
+      },
+      {
+        "name": "Epstein \nSending",
+        "role": "extracted",
+        "context": "from Civilian 'ossibly about Epstein \nSending this per our usual practice —"
+      },
+      {
+        "name": "Lisa Marie",
+        "role": "extracted",
+        "context": "be a prisoner. She references Lisa Marie \nPresley, the British Royal F"
+      },
+      {
+        "name": "British Royal",
+        "role": "extracted",
+        "context": "nces Lisa Marie \nPresley, the British Royal Family, President Trump, and"
+      },
+      {
+        "name": "President Trump",
+        "role": "extracted",
+        "context": "ey, the British Royal Family, President Trump, and Jeffrey Epstein. We are"
+      },
+      {
+        "name": "President \nTrump",
+        "role": "extracted",
+        "context": "ey, the British Royal Family, President \nTrump, and Jeffrey Epstein. \nLet me"
+      },
+      {
+        "name": "Special \nAssistant",
+        "role": "extracted",
+        "context": "e. \nThank you! \nEFTA00022329\n\nSpecial \nAssistant to the \nU.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "ecial \nAssistant to the \nU.S. Attorney \nUnited \nStates Attorney's \nOffice, S"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "o the \nU.S. Attorney \nUnited \nStates Attorney's \nOffice, SDNY \nEFTA00022330"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-10",
+        "event": "August 10, 2020"
+      },
+      {
+        "date": "2020-08-09",
+        "event": "August 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.627Z"
+}

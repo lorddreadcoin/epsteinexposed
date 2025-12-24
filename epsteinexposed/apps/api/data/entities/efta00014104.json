@@ -1,0 +1,96 @@
+{
+  "document": {
+    "id": "efta00014104",
+    "filename": "EFTA00014104.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014104.pdf",
+    "text": "\n\nFrom: Jack \nGoldberger \nlIMINIMM> \nTo:'\nSubject: RE: Notice of Non-Compliance \nDate: Sat, 28 Jun 2008 19:38:23 +0000 \nImportance: Normal \nnot a \nproblem. \nFrom: \nSent: \n111.1.1.11. \nTo: Jack Goldberger \nCc: \nSubject: Re: Notice of Non-Compliance \nDear Jack: \nI have conferred with a state court practitioner who stated that there is nothing that prohibits you from agreeing to a consecutive six-month \nsentence of incarceration followed by one year of community control as specified in the non-prosecution agreement. \nIf you elect to proceed with the plea agreement as currently drafted, we ask that you insert the word \"imprisoned\" following the words \"six \nmonths\" in the second sentencing paragraph. \nPlease confirm that this change is acceptable. Thank you. \n-- \nOriginal Message \nFrom: Jack Goldberger \nTo: \nCc: \nJack Goldberger \nSent: Sat Jun 28 08:49:55 2008 \nSubject: RE: Notice of Non-Compliance \nDear Ms1=1, \nplease allow this e-mail to confirm our telephone conference of 6:30 pm on June 27 wherein we discussed the Epstein plea agreement and \nwe agreed that the Epstein state plea agreement was in compliance with the September 2007 non-prosecution agreement entered into \nbetween Mr. Epstein and the USAO for the Souhem District of Florida. \nJack Goldberger \nFrom: \nSent: n \nTo: Jack Goldberger; Roy BLACK \nCc\n(USAFLS) \nSubject: Notice of Non-Compliance \nDear Messrs. Goldberger and Black: \nPlease see the attached Notification Letter. \nEFTA00014104\n\n<<080627 Goldberger Black notification Itr.pdf.--> \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00014105",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "reement entered into \nbetween Mr. Epstein and the USAO for the Souh"
+      },
+      {
+        "name": "Jack \nGoldberger",
+        "role": "extracted",
+        "context": "From: Jack \nGoldberger \nlIMINIMM> \nTo:'\nSubject: RE:"
+      },
+      {
+        "name": "Compliance \nDate",
+        "role": "extracted",
+        "context": ":'\nSubject: RE: Notice of Non-Compliance \nDate: Sat, 28 Jun 2008 19:38:23 +0"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "rom: \nSent: \n111.1.1.11. \nTo: Jack Goldberger \nCc: \nSubject: Re: Notice of"
+      },
+      {
+        "name": "Compliance \nDear",
+        "role": "extracted",
+        "context": ": \nSubject: Re: Notice of Non-Compliance \nDear Jack: \nI have conferred with"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "s acceptable. Thank you. \n-- \nOriginal Message \nFrom: Jack Goldberger \nTo:"
+      },
+      {
+        "name": "Sat Jun",
+        "role": "extracted",
+        "context": "Cc: \nJack Goldberger \nSent: Sat Jun 28 08:49:55 2008 \nSubject: RE"
+      },
+      {
+        "name": "Souhem District",
+        "role": "extracted",
+        "context": "Epstein and the USAO for the Souhem District of Florida. \nJack Goldberger"
+      },
+      {
+        "name": "Notification Letter",
+        "role": "extracted",
+        "context": "ack: \nPlease see the attached Notification Letter. \nEFTA00014104\n\n<<080627 Gold"
+      },
+      {
+        "name": "Goldberger Black",
+        "role": "extracted",
+        "context": "tter. \nEFTA00014104\n\n<<080627 Goldberger Black notification Itr.pdf.--> \nAss"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00014105"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.129Z"
+}

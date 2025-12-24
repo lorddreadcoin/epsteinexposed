@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00024990",
+    "filename": "EFTA00024990.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024990.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: RE: \nDate: Thu, 14 Jan 2021 15:40:50 +0000 \nGood for me. Thanks \nFrom: \nSent: Thursday, January 14, 2021 10:38 AM \nTo: \nCc: \nSubject: RE: \nI put it on the calendar for Friday at 3:30 due to a new conflict at 3. Let me know if that doesn't work! Thanks. \nFrom: \nSent: Wednesday, January 13, 2021 7:14 PM \nTo: \nCc: \nSubject: Re: \nLet's do Friday at 3. Thanks! \nSent from my iPhone \nOn Jan 13, 2021, at 6:21 PM, wrote: \nSure! They are available tomorrow at 1 and Friday at 3. Monday is MLK Day and I am not sure how that will affect their \nschedules right now. They could definitely do next Tuesday at 3:30 also. \nFrom: \nSent: Wednesday, January 13, 2021 5:54 PM \nTo: \nCc: \nSubject: \nHey —  Would you be able to help us find a time to chat with and the Brass about ?  Just \nchiefs and Brass, no team. I think we have pretty decent availability tomorrow and Friday if either works for But \nnot urgent, so next week is fine, too, if that's better. \nThanks, \nChief, Public Corruption Unit \nEFTA00024990\n\nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00024991",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "15:40:50 +0000 \nGood for me. Thanks \nFrom: \nSent: Thursday, January 14,"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "at 3. Thanks! \nSent from my iPhone \nOn Jan 13, 2021, at 6:21 PM, wro"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "at's better. \nThanks, \nChief, Public Corruption Unit \nEFTA00024990\n\nU.S. Atto"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000249"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-14",
+        "event": "January 14, 2021"
+      },
+      {
+        "date": "2021-01-13",
+        "event": "January 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.248Z"
+}

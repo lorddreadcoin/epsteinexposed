@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00019427",
+    "filename": "EFTA00019427.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019427.pdf",
+    "text": "\n\nFrom: \n'\n'' \nTo:'\nSubject: Accepted: Meet re: Epstein Investigation \nDate: Wed, 05 Dec 2018 00:22:28 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00019427",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "'\nSubject: Accepted: Meet re: Epstein Investigation \nDate: Wed, 05 Dec 2018 00:22"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 00:22:28 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00019427"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.868Z"
+}

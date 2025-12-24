@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00023042",
+    "filename": "EFTA00023042.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023042.pdf",
+    "text": "\n\nFrom \nTo \nCc: ' \" \n, ' \" \nSubject: RE: Voice Message Attached from - Intake Line \nDate: Thu, 18 Jul 2019 16:50:44 +0000 \nNo problem. Thanks. \naNIMIN> \nOri inal Messa e \nFrom:\nSent: Thursda July 18, 2019 12:46 PM \nTo: \nMore \nCc: \n(tJSANYS) \n<RMore \nusa.do..  ov> \n• \nSubject: FW: Voice Message Attached from - Intake Line \nHi \nThe caller in this voicemail references the Epstein case, but his complaint appears to be about a separate matter. \nWould you please process this as a civilian complaint? \njam\n Original Message \nFrom: postmaster@voip.usa.doj.gov \n<postmaster@voip.usa.doj.gov> \nSent: Thursda Jul 18, 2019 12:40 PM \nTo: <2126372324 voi .tisa.doi tzov> \nCc: \nSubject: \nVoice Message Attached from - Intake Line \nTime: Jul 18, 2019 12:39:35 PM \nClick attachment to listen to Voice Message \nEFTA00023042",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc: ' \" \n, ' \" \nSubject: RE:"
+      },
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "Cc: ' \" \n, ' \" \nSubject: RE: Voice Message Attached from - Intake Line"
+      },
+      {
+        "name": "Intake Line",
+        "role": "extracted",
+        "context": "Voice Message Attached from - Intake Line \nDate: Thu, 18 Jul 2019 16:50"
+      },
+      {
+        "name": "Thursda July",
+        "role": "extracted",
+        "context": "Ori inal Messa e \nFrom:\nSent: Thursda July 18, 2019 12:46 PM \nTo: \nMore"
+      },
+      {
+        "name": "More \nCc",
+        "role": "extracted",
+        "context": "July 18, 2019 12:46 PM \nTo: \nMore \nCc: \n(tJSANYS) \n<RMore \nusa.do.."
+      },
+      {
+        "name": "Hi \nThe",
+        "role": "extracted",
+        "context": "Attached from - Intake Line \nHi \nThe caller in this voicemail refe"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "s a civilian complaint? \njam\n Original Message \nFrom: postmaster@voip.usa.do"
+      },
+      {
+        "name": "Thursda Jul",
+        "role": "extracted",
+        "context": "ster@voip.usa.doj.gov> \nSent: Thursda Jul 18, 2019 12:40 PM \nTo: <21263"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-18",
+        "event": "July 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "2126372324"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.134Z"
+}

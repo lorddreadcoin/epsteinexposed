@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00021029",
+    "filename": "EFTA00021029.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021029.pdf",
+    "text": "\n\nFrom: ' \n\" alIMINE> \nTo: W'M); \"6.>\n(USANYS)\" \nSubject: Today's redaction projects \nDate: Mon, 22 Nov 2021 16:06:10 +0000 \nAttachments: 2021.11.18_Mot_to_quashjfinal].pdf; 2021-11-20_GM_reply_re_GX-\n52 final Jproposed_redactions].pdf; \n2021.11.15 JSP_Ltr._re._EX._52_[proposed_redactions].pdf; 2021-11-\n22 GM letter re redactions.docx \nHi team, \nToday we need to docket our proposed redactions to our Motion to Quash (see Dkt. No. 473), we and the defense are \nrequired to docket our letters on the birth certificates issue (see Dkt. No. 474), and we and the defense need to docket \nour letters on GX 52 (see Dkt. No. 476). \nWe already redacted the birth certificates letters. I've attached: \n•  Our motion to quash, which I don't think needs any redactions \n•  The remaining GX-52 letters, for which I've proposed redactions \n•  A draft letter to the Court \nWould one of you three quickly take a look, and then I'll coordinate with the defense? \nThanks \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \n\"Mirk 10007 \nEFTA00021029",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Court \nWould",
+        "role": "extracted",
+        "context": "ons \n•  A draft letter to the Court \nWould one of you three quickly take"
+      },
+      {
+        "name": "Thanks \nAssistant",
+        "role": "extracted",
+        "context": "coordinate with the defense? \nThanks \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "anks \nAssistant United States Attorney \nSouthern District of New York \n1 Saint"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \n\"Mirk 10007 \nEFTA00021"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.867Z"
+}

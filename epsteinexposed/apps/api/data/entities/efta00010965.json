@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00010965",
+    "filename": "EFTA00010965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010965.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Grand Jury Return - US v. Maxwell, S1 20 Cr. 330 (AN) \nDate: Fri, 10 Jul 2020 13:20:22 +0000 \nAttachments: Maxwell_Superseding_Indictment_-_Sl_20_Cr._330_(AJN).pdf \nInline-Images: image001.png \nGood morning, \nThis superseding indictment does not appear to have been docketed on ECF. Would it be possible to please docket it \ntoday so that the Court and the defendant have notice of the new indictment before next week's arraignment? \nI have attached a color scan of the signed indictment, which can be filed. \nFrom: \nSent: Wednesday, July 8, 2020 12:28 PM \nTo: \nCc: \nSubject: Grand Jury Return - US v. Maxwell, S1 20 Cr. 330 (AJN) \nGood afternoon, \nAttached is the grand jury return for US v. Maxwell, which was previously wheeled out to Judge Nathan in Manhattan. The \nsuperseding indictment is unsealed. There are no warrants for this matter. \nBest Regards, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nEFTA00010965\n\nEFTA00010966\n\nEFTA00010967",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Grand Jury Return - US v. Maxwell, S1 20"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "was previously wheeled out to Judge Nathan in Manhattan. The \nsupersedin"
+      },
+      {
+        "name": "Best Regards",
+        "role": "extracted",
+        "context": "no warrants for this matter. \nBest Regards, \nAssistant United States Att"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "this matter. \nBest Regards, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "st Regards, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-08",
+        "event": "July 8, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:42.879Z"
+}

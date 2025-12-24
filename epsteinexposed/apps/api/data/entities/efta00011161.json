@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00011161",
+    "filename": "EFTA00011161.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011161.pdf",
+    "text": "\n\nFrom \nTo \nCc: \n) \nSubject: FW: 20cr330, U.S. v. Maxwell \nDate: Fri, 15 Oct 2021 22:57:32 +0000 \nAttachments: 20cr330 ME 10.15.2 1 .pdf \n(USANYS)\" \nAttaching her order on the defense's motion on FRE 412. \nFrom: Nathan NYSD Chambers \nSent: Fricla October 15 2021 \nTo \nLaura Menninger \n<a>; Jeff Pagliuca \n>; \nSubject: 20cr330, U.S. v. Maxwell \nCounsel: \nAttached please find a memo endorsement issued by Judge Nathan. It will be filed on the public docket on \nMonday morning. \nPlease confirm receipt. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00011161",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc: \n) \nSubject: FW: 20cr330"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: 20cr330, U.S. v. Maxwell \nDate: Fri, 15 Oct 2021 22:57:32 +0"
+      },
+      {
+        "name": "Chambers \nSent",
+        "role": "extracted",
+        "context": "n FRE 412. \nFrom: Nathan NYSD Chambers \nSent: Fricla October 15 2021 \nTo"
+      },
+      {
+        "name": "Fricla October",
+        "role": "extracted",
+        "context": ": Nathan NYSD Chambers \nSent: Fricla October 15 2021 \nTo \nLaura Menninger"
+      },
+      {
+        "name": "To \nLaura",
+        "role": "extracted",
+        "context": "Sent: Fricla October 15 2021 \nTo \nLaura Menninger \n<a>; Jeff Pagliuca"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "21 \nTo \nLaura Menninger \n<a>; Jeff Pagliuca \n>; \nSubject: 20cr330, U.S. v"
+      },
+      {
+        "name": "Maxwell \nCounsel",
+        "role": "extracted",
+        "context": ">; \nSubject: 20cr330, U.S. v. Maxwell \nCounsel: \nAttached please find a memo"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "a memo endorsement issued by Judge Nathan. It will be filed on the publ"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-15",
+        "event": "October 15 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.229Z"
+}

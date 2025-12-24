@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024418",
+    "filename": "EFTA00024418.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024418.pdf",
+    "text": "\n\nCc: \nSubject: Fwd: Travel for Epstein vic for hearing \nDate: Fri, 23 Aug 2019 00:53:15 +0000 \nFYI \n Forwarded \nmessage \nFrom: ' \n(NY) \n(FBI)\"\n <MMINIME> \nDate: Aug 22, 2019 8:42 PM \nSubject: Travel for Epstein \nvic \nfor hearin \nTo: ' (USANYS)\" \nCc: \nHi \nJust of another call from one of the victims from LA. She is represented by Brad Edwards. Her name is \nShe would like to come out for the hearing on Tuesday. She also expressed meeting with us. She plans to reach \nout to you. Her number is \nThanks, \nEFTA00024418",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nJust",
+        "role": "extracted",
+        "context": "hearin \nTo: ' (USANYS)\" \nCc: \nHi \nJust of another call from one of t"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "rom LA. She is represented by Brad Edwards. Her name is \nShe would like"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.107Z"
+}

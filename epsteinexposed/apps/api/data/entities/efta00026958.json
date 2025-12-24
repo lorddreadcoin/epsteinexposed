@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026958",
+    "filename": "EFTA00026958.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026958.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: epstein foia question \nDate: Tue, 05 Jan 2021 21:43:39 +0000 \nMCC Regs/Training —  investigative reason for SEW staff name redactions back to 8/4 \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00026958",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "4 \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.248Z"
+}

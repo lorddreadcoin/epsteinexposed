@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030590",
+    "filename": "EFTA00030590.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030590.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: \nPhotos \nDate: Wed, 30 Mar 2011 22:56:57 +0000 \nHi \nMy sincere appreciation for keeping to your word and getting my photos back quickly!! I  hope you and \nare taking care and continuing to make great progress on the case. Good Luck and Best Wishes!! \nMany Thanks, \n- - On The, 29/3/11 wrote: \nFrom: \nSubject: otos \nTo:' \nReceived: Tuesday, 29 March, 2011, 3:29 AM \nYour photos were copied and sent out via FedEx this afternoon (Monday in FL). In addition to the printed \nphotos we had them save the images to a CD so you could have them in digital format. Please let us know \nwhen they arrive. Thanks. \nEFTA00030590",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Photos \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Re: \nPhotos \nDate: Wed, 30 Mar 2011 22:56:57 +0"
+      },
+      {
+        "name": "Hi \nMy",
+        "role": "extracted",
+        "context": ", 30 Mar 2011 22:56:57 +0000 \nHi \nMy sincere appreciation for keep"
+      },
+      {
+        "name": "Good Luck",
+        "role": "extracted",
+        "context": "e great progress on the case. Good Luck and Best Wishes!! \nMany Thank"
+      },
+      {
+        "name": "Best Wishes",
+        "role": "extracted",
+        "context": "ss on the case. Good Luck and Best Wishes!! \nMany Thanks, \n- - On The,"
+      },
+      {
+        "name": "Many Thanks",
+        "role": "extracted",
+        "context": "Good Luck and Best Wishes!! \nMany Thanks, \n- - On The, 29/3/11 wrote:"
+      },
+      {
+        "name": "On The",
+        "role": "extracted",
+        "context": "t Wishes!! \nMany Thanks, \n- - On The, 29/3/11 wrote: \nFrom: \nSubje"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.225Z"
+}

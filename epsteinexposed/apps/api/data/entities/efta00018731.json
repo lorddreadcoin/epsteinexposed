@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018731",
+    "filename": "EFTA00018731.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018731.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein/Maxwell briefing \nDate: Wed, 10 Mar 2021 23:53:34 +0000 \nAttachments: 2020-08-\n13,_GMJetter to_Judge_Nathan_re_victim_names_and_prison_privileges,_final.docx \nYep, attached. \n Original Message \nFrom: \nSent: Wednesda \nTo: \nCc: \nSubject: Epstein/Maxwell briefing \nHey, \nMarch 10 2021 6:31 PM \nWould you mind sending us the briefing you guys did on not identifying the victims early in Epstein/ Maxwell? \nThe Justice Dept in Canada is requesting a \"publication ban\" which would stop defense counsel from identifying \nvictims in the extradition case and asked us for a letter. Obviously the posture is different but it would be helpful \nto see what you highlighted. \nThanks! \nEFTA00018731",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "_final.docx \nYep, attached. \n Original Message \nFrom: \nSent: Wednesda \nTo:"
+      },
+      {
+        "name": "Wednesda \nTo",
+        "role": "extracted",
+        "context": "riginal Message \nFrom: \nSent: Wednesda \nTo: \nCc: \nSubject: Epstein/Maxwe"
+      },
+      {
+        "name": "The Justice",
+        "role": "extracted",
+        "context": "s early in Epstein/ Maxwell? \nThe Justice Dept in Canada is requesting"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-10",
+        "event": "March 10 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.575Z"
+}

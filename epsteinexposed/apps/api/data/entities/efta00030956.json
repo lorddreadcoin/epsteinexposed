@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030956",
+    "filename": "EFTA00030956.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030956.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: RE: Proffer with witness \nDate: Thu, 15 Aug 2019 11:50:17 +0000 \nAttachments: MCC Pros Memo \nv \nI .doc; Noel.JPG; Thomas.JPG \nThis is a super rough pros memo. \nBasically, what can he tell us about the 7/23 attempt, and what can he tell us about Officer Thomas, Noel, and Lt. \n(Af. Am. Female overnight It). Photos of officers attached. \nFrom: \nSent: Wednesday, August 14, 2019 5:19 PM \nTo: \nSubject: RE: Proffer with witness \nThanks. Can you also send your interview outline and/or draft pros memo so that I can make sure I ask everything you \nneed? \nFrom: \nSent: Wednesday, August 14, 2019 5:18 PM \nTo: \nSubject: RE: Proffer with witness \nFrom: \nSent: Wednesday, August 14, 2019 5:17 PM \nTo: \nCc: \nSubject: RE: Proffer with witness \nWill do. I know MI well. Can you send me his OIG email address? I only have his USSS one. \nFrom: \nSent: Wednesday, August 14, 2019 5:02 PM \nTo: \nCc: \nSubject: RE: Proffer with witness \nAs discussed. will join (who's the lead OIG agent) and we will join if we can. Can you send a calendar invite \nto the three of us? Thank you. \nFrom: \nSent: Wednesday, August 14, 2019 4:51 PM \nTo: \nCc: \nSubject: Proffer with witness \nEFTA00030956\n\nHow \nis tomorrow (Thursday) at \n2:30pm? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00030957",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Pros Memo",
+        "role": "extracted",
+        "context": "50:17 +0000 \nAttachments: MCC Pros Memo \nv \nI .doc; Noel.JPG; Thomas."
+      },
+      {
+        "name": "Officer Thomas",
+        "role": "extracted",
+        "context": "and what can he tell us about Officer Thomas, Noel, and Lt. \n(Af. Am. Fema"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "orrow (Thursday) at \n2:30pm? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "at \n2:30pm? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.110Z"
+}

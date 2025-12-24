@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00009881",
+    "filename": "EFTA00009881.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009881.pdf",
+    "text": "\n\nFrom: \"\nI(USANYS)\" \nTo: \nCc:' \n(USANYS)\" \nH \nSubject: Epstein \nDate: Tue, 26 Feb 2019 18:49:06 +0000 \nImportance: Normal \nCan you send us contact info for the National trafficking coordinator who reached out to you yesterday? \nSent from my iPhone \nEFTA00009881",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc:' \n(USANYS)\" \nH \nSubject: Epstein \nDate: Tue, 26 Feb 2019 18:49:06 +0"
+      },
+      {
+        "name": "Normal \nCan",
+        "role": "extracted",
+        "context": "9 18:49:06 +0000 \nImportance: Normal \nCan you send us contact info for"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.836Z"
+}

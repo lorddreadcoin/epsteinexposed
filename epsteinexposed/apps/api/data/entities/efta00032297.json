@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00032297",
+    "filename": "EFTA00032297.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032297.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Prisoner Production Request for Proffer \nDate: Tue, 13 Aug 2019 19:00:13 +0000 \nEmbedded: RE:_8_16_Friday_ProffernEfrain_Reyesa_GEO.msg \nUse this e-mail only for requests to produce prisoners for proffers. Please advise if this is a special circumstance \nproffer (i.e. visiting agents, visiting attorneys or if trial is within the next five days) \nAUSA: \nAUSA \nPhone: \nAUSA Cell Phone: \nProduction Date: 8/16/19 \nProduction Time: 11 am \nProduction Place: \nx \n500 \nPearl 40 \nFoley* \nDefendant: Efrain Reyes \nUSMS#: \nDefendant's Docket No: \nSeparatee(s): USMS#(s): \nCancelling a Production. Prior to noon of the day before the scheduled production, use this email template. \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00032297",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prisoner Production",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Prisoner Production Request for Proffer \nDate: Tu"
+      },
+      {
+        "name": "Proffer \nDate",
+        "role": "extracted",
+        "context": "isoner Production Request for Proffer \nDate: Tue, 13 Aug 2019 19:00:13 +0"
+      },
+      {
+        "name": "Cell Phone",
+        "role": "extracted",
+        "context": "s) \nAUSA: \nAUSA \nPhone: \nAUSA Cell Phone: \nProduction Date: 8/16/19 \nP"
+      },
+      {
+        "name": "Production Date",
+        "role": "extracted",
+        "context": "SA \nPhone: \nAUSA Cell Phone: \nProduction Date: 8/16/19 \nProduction Time: 11"
+      },
+      {
+        "name": "Production Time",
+        "role": "extracted",
+        "context": "e: \nProduction Date: 8/16/19 \nProduction Time: 11 am \nProduction Place: \nx"
+      },
+      {
+        "name": "Production Place",
+        "role": "extracted",
+        "context": "6/19 \nProduction Time: 11 am \nProduction Place: \nx \n500 \nPearl 40 \nFoley* \nD"
+      },
+      {
+        "name": "Efrain Reyes",
+        "role": "extracted",
+        "context": "Pearl 40 \nFoley* \nDefendant: Efrain Reyes \nUSMS#: \nDefendant's Docket N"
+      },
+      {
+        "name": "Docket No",
+        "role": "extracted",
+        "context": "in Reyes \nUSMS#: \nDefendant's Docket No: \nSeparatee(s): USMS#(s): \nCa"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "on, use this email template. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l template. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000322"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:30.008Z"
+}

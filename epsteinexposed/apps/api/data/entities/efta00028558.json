@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028558",
+    "filename": "EFTA00028558.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028558.pdf",
+    "text": "\n\nFrom: ' \nTo:\" \nSubject: RE: \nDate: Tue, 28 Jan 2020 17:02:21 +0000 \nAttachments: pdf; \nHey M, \nAttached are the notes from \nthe \nmost recent interview, along with the 302. \nFrom: [mailto \nSent: Tuesday, January 28, 2020 11:00 AM \nTo: \nSubject: \nHi —any chance you could please send me the notes from our most recent meeting with \nmemo I'm writing). Thanks! \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \n? (For a \nEFTA00028558",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "memo I'm writing). Thanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "g). Thanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-01-28",
+        "event": "January 28, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.471Z"
+}

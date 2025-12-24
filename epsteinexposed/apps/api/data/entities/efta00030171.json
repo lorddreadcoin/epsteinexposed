@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030171",
+    "filename": "EFTA00030171.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030171.pdf",
+    "text": "\n\nFrom: \nTo:\" \nSubject: - Epstein \nDate: Sun, 07 Jul 2019 02:54:58 +0000 \nBegin forwarded message: \nFrom: \nDate: Jul 6 2019 at 10:51:09 PM EDT \nTo: \nCc: \nSubject: - Epstein \nMr. \nMy former re resented (now known as n, prior to his passing in 2018. \nAgent served Ms. with a grand jury subpoena earlier today, and as former partner and \nFL Bar appointed inventory attorney, she has contacted me. Unfortunately, I am unable to meet with her until \nTuesday, but I would appreciate a few minutes of your time at your convenience as I am getting up to speed. \nPlease let me know what day/time is best for you. \nLook forward to speaking with you. \nBest, \nEsq. \nROSS AMSEL RABEN NASCIMENTO, PLLC \nLawyer's Plaza 14th Floor \nMiami Florida 33129 \nt \nf. \ne. \nwww.crimlawfirm.com \nEFTA00030171",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "My",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: - Epstein \nMr. \nMy former re resented (now"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:\" \nSubject: - Epstein \nDate: Sun, 07 Jul 2019 02:54:58 +0"
+      },
+      {
+        "name": "Epstein \nMr",
+        "role": "extracted",
+        "context": "PM EDT \nTo: \nCc: \nSubject: - Epstein \nMr. \nMy former re resented (now"
+      },
+      {
+        "name": "Floor \nMiami",
+        "role": "extracted",
+        "context": "TO, PLLC \nLawyer's Plaza 14th Floor \nMiami Florida 33129 \nt \nf. \ne. \nwww"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.170Z"
+}

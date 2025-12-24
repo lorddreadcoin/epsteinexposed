@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026666",
+    "filename": "EFTA00026666.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026666.pdf",
+    "text": "\n\nSubject: \nChecks \nDate: Tue, 02 Jul 2019 00:53:17 +0000 \nAttachments: \naccurint_phone.xps; \naccurint.xps; whitepages.JPG \nSee attached phone records for .  As per our conversation her cell phone number may be \nrelevant to her recent travels with Epstein. \nDetective \nNYPD / FBI \nChild Exploitation Human \nTrafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00026666",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Checks \nDate",
+        "role": "extracted",
+        "context": "Subject: \nChecks \nDate: Tue, 02 Jul 2019 00:53:17 +0"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "tein. \nDetective \nNYPD / FBI \nChild Exploitation Human \nTrafficking Task Force"
+      },
+      {
+        "name": "Human \nTrafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human \nTrafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "ploitation Human \nTrafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.778Z"
+}

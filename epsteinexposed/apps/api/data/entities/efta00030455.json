@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030455",
+    "filename": "EFTA00030455.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030455.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: Epstein \nDate: Fri, 29 May \n2020 17:35:20 +0000 \nStarted watching the new \nNettlix doc yet? \nSent \nfrom my iPhone \nEFTA00030455",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: Epstein \nDate: Fri, 29 May \n2020 17:35:20 +"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-29",
+        "event": "29 May \n2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.922Z"
+}

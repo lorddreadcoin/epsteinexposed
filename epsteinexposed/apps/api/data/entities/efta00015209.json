@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00015209",
+    "filename": "EFTA00015209.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015209.pdf",
+    "text": "\n\nFrom: ' )\" < \nTo: ' (NY) (FBI)\" < \nCc: FBI \" PD)\" \n(USANYS)\" \nSubject: ImageNide° file review for Maxwell case \nDate: Fri, 16 Oct 2020 17:45:05 +0000 \nHi \nMy supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and videos \nfrom Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell case. Thank you so much for being willing to help out \nwith this while and IM are traveling. \nI've spoken with about some of the logistics, and it would be great if you and I could have a call to talk about \nnext steps. Is there a  time this afternoon when you would be free for a call? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00015209",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "coordinate the review of images and videos \nfrom Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "om Jeffrey Epstein's devices for discovery in the Ghislaine Maxwell case. Thank you so much for being willing to help"
+      },
+      {
+        "name": "Hi \nMy",
+        "role": "extracted",
+        "context": ", 16 Oct 2020 17:45:05 +0000 \nHi \nMy supervisors gave me your name"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "be free for a call? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.207Z"
+}

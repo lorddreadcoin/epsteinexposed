@@ -1,0 +1,58 @@
+{
+  "document": {
+    "id": "efta00013481",
+    "filename": "EFTA00013481.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013481.pdf",
+    "text": "\n\nEvent: 3:30 Epstein Conference Call \nStart Date: 2008-01-07 20:30:00 +0000 \nEnd Date: 2008-01-07 21:30:00 +0000 \nOrganizer: \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:21:50 +0000 \nDate Modified: 2015-07-22 20:34:55 +0000 \nPriority: 5 \nEFTA00013481",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Conference",
+        "role": "extracted",
+        "context": "Event: 3:30 Epstein Conference Call \nStart Date: 2008-01-07"
+      },
+      {
+        "name": "Call \nStart",
+        "role": "extracted",
+        "context": "vent: 3:30 Epstein Conference Call \nStart Date: 2008-01-07 20:30:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2008-01-07 20:30:00 +0000 \nEnd Date: 2008-01-07 21:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "rganizer: \nClass: X-PERSONAL \nDate Created: 2015-04-04 00:21:50 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2015-04-04 00:21:50 +0000 \nDate Modified: 2015-07-22 20:34:55 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-01-07",
+        "event": "2008-01-07"
+      },
+      {
+        "date": "2015-04-04",
+        "event": "2015-04-04"
+      },
+      {
+        "date": "2015-07-22",
+        "event": "2015-07-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.681Z"
+}

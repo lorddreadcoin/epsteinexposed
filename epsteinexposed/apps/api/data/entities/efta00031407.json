@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00031407",
+    "filename": "EFTA00031407.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031407.pdf",
+    "text": "\n\nFrom: \n\" \nalMIE> \nTo: (USANYS) [Contractor]\" \naMIIM> \nSubject: RE: FW: \nDate: Thu, 06 Aug 2020 00:31:28 +0000 \nAttachments: 2020.08.06 MDC -  Maxwell.docx; 2020.08.05,_Maxwell,_Discovery_Letter.pdf \nHi \nThanks for all your help today -- when you send out the drive to MDC tomorrow, here are the two letters (the \nupdated cover letter fixing the designation issue, and the letter to BOP). \nThanks! \n Ori inal Messa e \nFrom: (USANYS) [Contractor] alMIIM> \nSent: Wednesda , Au ust 5  2020 5:55 PM \nTo: \nCc: \nSubject: RE: FW: \nThis is a draft letter. \nUnfortunately, I do not think the DVDs will work. McAfee is problematic and skips -300 PDFs when I try to \nbum it. \n) \naNIMIIM> \n Ori inal Messa e \nFrom:\nSent: Wednesday,August 5, 2020 4:00 PM \nTo: \nCc: (USANYS) [Contractor] \nSubject: Re: FW: \nThanks would you mind sending me a zipped version please? I'll get this out to defense counsel after \nemails about the other issue. Thanks all. \nSent from my iPhone \n> On \nAug 5, 2020, at 3:55 PM, \nthanks very much for jumping on this. \nczIMIN> \nwrote: \n>M, per my email a moment ago. It may be easiest to zip these and send that way, or otherwise to send in \ntwo emails since the total file size is large. \n> Please anyone let me know if any issues? And thanks again to all for the quick fix. \n> \nFrom: \n(USANYS) [Contractor] <\nIMIIIM> \n> Sent: Wednesday, August 05, 2020 15:50 \nEFTA00031407\n\n> To: \n> \nSubject: \n> Special Assistant to the U.S. Attorney United States Attorney's \n> Office, \nSDNY \n> <SDNY_GM_00000834-SDNY_GM_00000846.pdf> \n> <SDNY_GM_00000847-SDNY_GM_00000852.pdf> \n> <SDNY_GM_00000853-SDNY_GM_00000874.pdf> \n> <SDNY_GM_00000875-SDNY_GM f>_00000900.pd \n> <SDNY_GM_O0000901-SDNY_GM_00000903.pdf> \n> <SDNY_GM_00000904-SDNY_GM_00000905.pdf> \n> <SDNY_GM_00000906-SDNY_GM_ f>00000918.pd \n> <SDNY_GM_00000919-SDNY_GM_00000924.pdf> \n> <SDNY_GM_00000925-SDNY_GM_00000955.pdf> \n> <SDNY_GM_00000956-SDNY_GM_00000962.pdf> \nEFTA00031408",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nThanks",
+        "role": "extracted",
+        "context": "axwell,_Discovery_Letter.pdf \nHi \nThanks for all your help today -- wh"
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": "all. \nSent from my iPhone \n> On \nAug 5, 2020, at 3:55 PM, \nthanks"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "031407\n\n> To: \n> \nSubject: \n> Special Assistant to the U.S. Attorney United S"
+      },
+      {
+        "name": "Attorney United",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney United States Attorney's \n> Office,"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t to the U.S. Attorney United States Attorney's \n> Office, \nSDNY \n> <SDNY_G"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-05",
+        "event": "August 5, 2020"
+      },
+      {
+        "date": "2020-08-05",
+        "event": "August 05, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.019Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018994",
+    "filename": "EFTA00018994.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018994.pdf",
+    "text": "\n\nFrom: \"a\" ezIMIE> \nTo:\" (USANYS)\" alMin> \nSubject: Fwd: GM \nSuppression Replies \nDate: Tue, 16 Mar 2021 23:43:49 +0000 \nAttachments: !Reply_Memo_of Law_ISO_Motion_to_Suppress_Evidence_Obtained_from_BSF_Subpoe \nnajUnredacted).pdf; \n!Reply_Memo_of Law_ISO_Motion_to_Suppress_BSF_Subpoena_Under 4A,_5A,_Martin \ndell.pdf \nBegin forwarded message: \nFront: \n\"-(USANYS)\" \nDate: March 16, 2021 at 7:39:41 PM EDT \nTo: 'a cIMIE> \nSubject: GM Suppression Replies \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00018994",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Suppression Replies",
+        "role": "extracted",
+        "context": "S)\" alMin> \nSubject: Fwd: GM \nSuppression Replies \nDate: Tue, 16 Mar 2021 23:43"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ject: GM Suppression Replies \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ion Replies \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-16",
+        "event": "March 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.082Z"
+}

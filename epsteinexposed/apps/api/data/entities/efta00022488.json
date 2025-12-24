@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00022488",
+    "filename": "EFTA00022488.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022488.pdf",
+    "text": "\n\nFrom: \n\" \naNIMIE> \nTo: \"a\" alMIE> \nCc: \nWIMIIM>, \n(USANYS)\" \nSubject: It's AT&T! \nDate: Wed, 28 Apr 2021 00:19:14 +0000 \nAttachments: 2004-05- \n05 AT&T WIRELESS MONTHLY STATEMENT_REGARDING_JEFFREY_E_EPSTEI \nN -PHONff NUMBER \nPdf \nHey \nFollowing up on our call just now, I have corrected my prior misrecollection — the records reflecting calls from to \nare from AT&T, not Cingular. I've attached the relevant AT&T records for your reference. The specific calls to \nare on April 23, 2004 and May 2, 2004 and are located on pages 9 and12 of the attached records. \nnumber at that time was and it appears in the \"Number Called\" column for entries on those two dates. \nI've updated the order of proofer to reflect that we need an AT&T custodian (instead of Cingular/T-Mobile). \nThanks! \nEFTA00022488",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Pdf \nHey",
+        "role": "extracted",
+        "context": "Y_E_EPSTEI \nN -PHONff NUMBER \nPdf \nHey \nFollowing up on our call jus"
+      },
+      {
+        "name": "Number Called",
+        "role": "extracted",
+        "context": "me was and it appears in the \"Number Called\" column for entries on those"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2004-04-23",
+        "event": "April 23, 2004"
+      },
+      {
+        "date": "2004-05-02",
+        "event": "May 2, 2004"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.953Z"
+}

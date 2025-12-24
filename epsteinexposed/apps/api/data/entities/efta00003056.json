@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00003056",
+    "filename": "EFTA00003056.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003056.pdf",
+    "text": "\n\n• \na \nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTel: \nax \nDate: \n: \n• \n- \nEmployee \nName: \nCesar \nAddress: \nTh\none: \nEmergency \nContact \nForm \nStart \nDate: \n05/04/17 \nDate \nof \nBirth: \nE\n-Mail: \nTitle \n/ \nPosition: \nCa,,.- \nMarital \nStatus: \nMarried \nLicense: \n..\nCergency \nInfo• \n• \nAllergies \nor \nHealt \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's \nName: \nPhone: Phone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact: \nRelationship \nRelationship \nPhone \nPhone \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003056",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "• \na \nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "02 \nTel: \nax \nDate: \n: \n• \n- \nEmployee \nName: \nCesar \nAddress: \nTh\none: \nE"
+      },
+      {
+        "name": "Cesar \nAddress",
+        "role": "extracted",
+        "context": "e: \n: \n• \n- \nEmployee \nName: \nCesar \nAddress: \nTh\none: \nEmergency \nContact"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "e: \nCesar \nAddress: \nTh\none: \nEmergency \nContact \nForm \nStart \nDate: \n05/04/17"
+      },
+      {
+        "name": "Form \nStart",
+        "role": "extracted",
+        "context": "Th\none: \nEmergency \nContact \nForm \nStart \nDate: \n05/04/17 \nDate \nof \nB"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "Title \n/ \nPosition: \nCa,,.- \nMarital \nStatus: \nMarried \nLicense: \n..\nCerge"
+      },
+      {
+        "name": "Married \nLicense",
+        "role": "extracted",
+        "context": "n: \nCa,,.- \nMarital \nStatus: \nMarried \nLicense: \n..\nCergency \nInfo• \n• \nAlle"
+      },
+      {
+        "name": "Cergency \nInfo",
+        "role": "extracted",
+        "context": "tatus: \nMarried \nLicense: \n..\nCergency \nInfo• \n• \nAllergies \nor \nHealt \nBl"
+      },
+      {
+        "name": "Healt \nBlood",
+        "role": "extracted",
+        "context": "ncy \nInfo• \n• \nAllergies \nor \nHealt \nBlood \nType: \nCurrent \nMedication:"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "ies \nor \nHealt \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nDoctor's"
+      },
+      {
+        "name": "Relationship \nRelationship",
+        "role": "extracted",
+        "context": "Emergency, \nPlease \ncontact: \nRelationship \nRelationship \nPhone \nPhone \nThis \ninformat"
+      },
+      {
+        "name": "Phone \nPhone",
+        "role": "extracted",
+        "context": "Relationship \nRelationship \nPhone \nPhone \nThis \ninformation \nis \nfor"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.620Z"
+}

@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00013175",
+    "filename": "EFTA00013175.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013175.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nci \nTo: (USANYS)\"  \nSubject: FW: Request \nDate: Fri, 04 Oct 2019 20:02:50 +0000 \nOther than Epstein, we would have \nFrom: \nSent: Friday, October 4, 2019 4:01 PM \nSubject: RE: Request \nPlease respond by the end of the day. Thanks! \nFrom: \nSent: Thursday, October 03, 2019 12:37 PM \nAnything else? \nSubject: Request \nChiefs, \nIf you could reach out to your unit and find out, on average, about how many unique victims or potential victims of \nhuman trafficking (adult or minor) your unit has interviewed in the past year we would appreciate it. It doesn't matter if \nthe case was charged. We are trying to get a sense of volume. We realize the answer will be rough and likely zero for \nsome units. If you could get back to us by COB Friday we would appreciate it. \nThanks, \nAssistant United States Attorney \nHuman Trafficking Co-Coordinator \nMoney Laundering & Transnational Criminal Enterprise Unit \nSouthern District of New York \nEFTA00013175",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "To: (USANYS)\"  \nSubject: FW: Request \nDate: Fri, 04 Oct 2019 20:02:50 +0"
+      },
+      {
+        "name": "Request \nPlease",
+        "role": "extracted",
+        "context": "4, 2019 4:01 PM \nSubject: RE: Request \nPlease respond by the end of the day"
+      },
+      {
+        "name": "Request \nChiefs",
+        "role": "extracted",
+        "context": "PM \nAnything else? \nSubject: Request \nChiefs, \nIf you could reach out to y"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ould appreciate it. \nThanks, \nAssistant United States Attorney \nHuman Traffi"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nHuman Trafficking Co-Coordin"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "stant United States Attorney \nHuman Trafficking Co-Coordinator \nMoney Launder"
+      },
+      {
+        "name": "Coordinator \nMoney",
+        "role": "extracted",
+        "context": "ttorney \nHuman Trafficking Co-Coordinator \nMoney Laundering & Transnational Cr"
+      },
+      {
+        "name": "Transnational Criminal",
+        "role": "extracted",
+        "context": "ordinator \nMoney Laundering & Transnational Criminal Enterprise Unit \nSouthern Dis"
+      },
+      {
+        "name": "Enterprise Unit",
+        "role": "extracted",
+        "context": "ring & Transnational Criminal Enterprise Unit \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "nal Criminal Enterprise Unit \nSouthern District of New York \nEFTA00013175"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-04",
+        "event": "October 4, 2019"
+      },
+      {
+        "date": "2019-10-03",
+        "event": "October 03, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.013Z"
+}

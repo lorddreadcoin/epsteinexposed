@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017783",
+    "filename": "EFTA00017783.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017783.pdf",
+    "text": "\n\nFrom: \n(NY) \n(FBI)\"\nTo: \n(USANYS)\"\nCc: \n(OIG)\"\nSubject: Finalized 302 \nDate: Wed, 18 Sep 2019 16:29:06 +0000 \nAttachments: pdf \nSpecial Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nDesk: \nEFTA00017783",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "9:06 +0000 \nAttachments: pdf \nSpecial Agent \nFBI New York Field \nOffice"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nD"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "FBI New York Field \nOffice \nViolent Crimes Task Force \nDesk: \nEFTA000177"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field \nOffice \nViolent Crimes Task Force \nDesk: \nEFTA00017783"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.580Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029839",
+    "filename": "EFTA00029839.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029839.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: ' SANYS \"\n(USANYS)\" \nCc: ,\n\"1 \nSubject: RE: GM Letter Due Today \nDate: Thu, 28 Jan 2021 23:16:56 +0000 \nAttachments: 2021-0'-\n28 GM letter to Judge_Nathan re defense_proposed redactions in_pretrial motions vl.r \n_ _ \nd.ebd.docx \nSome small stuff in track. Thanks \nFrom: (USANYS) \nSent: Thursday, January 28, 2021 5:45 PM \nTo: (USANYS) \nCc: \nSubject: GM Letter Due Today \n>; \n(USANYS)\n>; \nApologies for getting this to you at this hour, but we owe the Court a letter today regarding the defendant's proposed \nredactions to the pre-trial motions. Attached is a draft letter and the exhibit for your review. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00029839",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter Due",
+        "role": "extracted",
+        "context": ")\" \nCc: ,\n\"1 \nSubject: RE: GM Letter Due Today \nDate: Thu, 28 Jan 2021"
+      },
+      {
+        "name": "Today \nDate",
+        "role": "extracted",
+        "context": "1 \nSubject: RE: GM Letter Due Today \nDate: Thu, 28 Jan 2021 23:16:56 +0"
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "x \nSome small stuff in track. Thanks \nFrom: (USANYS) \nSent: Thursday, Ja"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "it for your review. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "w. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-28",
+        "event": "January 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.345Z"
+}

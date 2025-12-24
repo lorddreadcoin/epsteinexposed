@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00011435",
+    "filename": "EFTA00011435.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011435.pdf",
+    "text": "\n\nTo: Gibby <Gibby.Cohen@mindsping.com> \nFrom: \"G. Max\" <gmaxl@mindspring.com> \nSubject Re: \nToo bad, I am already counting on you \nGx \nAt 12:02 PM 11/6/2001 -0500, \nyou wrote: \nDon't count on me - I'm \ntoo old to be counted on... \nGibby \nAt 09:37 AM 11/6/01 -0500, you \nwrote: \nI am counting on you \nGx \nAt 05:41 AM 11/6/2001 -0500, you \nwrote: \nGood \nMorning... \nI returned today to find no suggestions in my emails for JE trainer - still looking -\nhave \na few more rocks still to turn over - but not looking too hopeful... \nGibby \nAt 06:05 PM 11/2/01 -0500, you \nwrote: \nYour a star - he wants someone to come to the hse. The instructor has to \nbe female youngish and attractive otherwise he will loose interest \nrapidly. He is looking for someone who can tone, flex and stretch \nThanks - \nYour desperately seeking an instructor \nPS \nIf you had to rate the top 10 gyms in the city where would they be + any \nmasseuses in the same vein as the exercise instructor? \nAt 05:56 PM 11/2/2001 -0500, you wrote: \nWhere does he want to train in a facility or someone to \ncome to the house - does he want a weight training person a \nstretcher/dancer type - give me a little more color and \nlogistics and I'll see what I can do... \nGibby \nAt 05:50 PM 11/2/01 -0500, you \nwrote: \nGibby I \nneed your help. JE is looking for an \nEFTA00011435\n\nexercise instructor to work out with. He likes, \nwell you know what he likes. Plse can you call \nme or let me know if you know of anyone or if \nyou can point me to the right direction to go to \na gym where you know I can meet \nsomeone \nwho might do the trick \nThanks \nGx \nEFTA00011436",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subject Re",
+        "role": "extracted",
+        "context": "Max\" <gmaxl@mindspring.com> \nSubject Re: \nToo bad, I am already count"
+      },
+      {
+        "name": "Gx \nAt",
+        "role": "extracted",
+        "context": "I am already counting on you \nGx \nAt 12:02 PM 11/6/2001 -0500, \nyo"
+      },
+      {
+        "name": "Gibby \nAt",
+        "role": "extracted",
+        "context": "too old to be counted on... \nGibby \nAt 09:37 AM 11/6/01 -0500, you"
+      },
+      {
+        "name": "Good \nMorning",
+        "role": "extracted",
+        "context": "11/6/2001 -0500, you \nwrote: \nGood \nMorning... \nI returned today to find"
+      },
+      {
+        "name": "Thanks \nGx",
+        "role": "extracted",
+        "context": "eone \nwho might do the trick \nThanks \nGx \nEFTA00011436"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2001-11-06",
+        "event": "11/6/2001"
+      },
+      {
+        "date": "2001-11-02",
+        "event": "11/2/2001"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.618Z"
+}

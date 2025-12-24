@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00018565",
+    "filename": "EFTA00018565.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018565.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nRE: Epstein \nDate: Thu, 29 Nov 2018 19:13:01 +0000 \nImportance: Normal \nAnd here's the non-pros: \nhttps://www.scribd.com/document/342637849/Acosta-Epstein \nFrom: \nSent: Thursday, November 29, 2018 2:13 PM \nTo: \nC.\nSubject: Epstein \nHere's the article: \nhttps://www.miamiherald.corninews/local/article220097825.html \nSent from my iPhone \nEFTA00018565",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: \nRE: Epstein \nDate: Thu, 29 Nov 2018 19:13:01 +0"
+      },
+      {
+        "name": "Normal \nAnd",
+        "role": "extracted",
+        "context": "8 19:13:01 +0000 \nImportance: Normal \nAnd here's the non-pros: \nhttps:/"
+      },
+      {
+        "name": "Epstein \nFrom",
+        "role": "extracted",
+        "context": "com/document/342637849/Acosta-Epstein \nFrom: \nSent: Thursday, November 29"
+      },
+      {
+        "name": "Epstein \nHere",
+        "role": "extracted",
+        "context": "018 2:13 PM \nTo: \nC.\nSubject: Epstein \nHere's the article: \nhttps://www.m"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-11-29",
+        "event": "November 29, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.199Z"
+}

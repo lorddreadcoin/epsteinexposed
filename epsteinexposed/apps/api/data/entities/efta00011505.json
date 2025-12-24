@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00011505",
+    "filename": "EFTA00011505.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011505.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Automatic reply: Epstein update \nDate: Sat, 10 Aug 2019 13:21:59 +0000 \nCan you give \none of us a call when you get off with \nSent from my iPhone \nOn Aug 10, 2019, at 8:45 AM, \n? Thanks \n> wrote: \nFYI. This is all the information I  have— trying to find out more. Will keep you updated. \nSent from my iPhone \nBegin forwarded message: \nFrom: \" \nDate: Au ust 10, 2019 at 8:17:53 AM EDT \nTo: \nSubject: FW: Automatic reply: Epstein update \nBOP just provided another update- Epstein has passed. I have no additional info. I will push out updates as we \nreceive. \nFrom:\nSent: Saturday, August 10, 2019 7:52 AM \nTo: \nSubject: Re: Automatic reply: Epstein update \nFYI: \nThe BOP just informed us that Epstein is being taken by ambulance to the hospital from another apparent suicide \nattempt- no other information was provided. \nThey will update us as more info becomes available. \nOn Aug 10, 2019, at 7:26 AM, wrote: \nTwill be out of the office on vacation until Monday, August 12th. Although 1 will have access to email durin m absence, m responses \nmay be delayed. For urgent matters, please contact the other AUSA(s) on the case, or AUSA at or \nEFTA00011505",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "u get off with \nSent from my iPhone \nOn Aug 10, 2019, at 8:45 AM, \n?"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "p you updated. \nSent from my iPhone \nBegin forwarded message: \nFrom: \""
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "more info becomes available. \nOn Aug 10, 2019, at 7:26 AM, wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.780Z"
+}

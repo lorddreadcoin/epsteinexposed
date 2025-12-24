@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00022324",
+    "filename": "EFTA00022324.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022324.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Re: \nDate: Mon, 05 Aug 2019 20:58:01 +0000 \nJust walked out \nSent from my iPhone \nOn Aug \n5, 2019, at 4:55 Ph4 \nEpstein team is here if you're still here. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of \nII. \n> wrote: \nEFTA00022324",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ust walked out \nSent from my iPhone \nOn Aug \n5, 2019, at 4:55 Ph4 \nEp"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "you're still here. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of \nII. \n> wrote: \nEFTA000223"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.614Z"
+}

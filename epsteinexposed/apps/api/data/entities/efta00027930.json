@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00027930",
+    "filename": "EFTA00027930.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027930.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein - Additional Requests/ Interviews \nDate: Tue, 13 Aug 2019 15:30:07 +0000 \nI will work on getting physical descriptions of \nI spoke to at MCC, all buthave union representation. \nti \nis available to talk with us today, is there a time, location, ect. That works best? \nU.S. Department of Justice \nOffice of the Inspector General \nNew York Field Office \nNew York, NY 10004 \nFrom: \nSent: Tuesday, August 13, 2019 10:38 AM \nT.\nCc: \nSubject: Epstein - Additional Requests/ Interviews \nWe just spoke with OCME, and they would like (i) the responding ambulance reports; and (ii) physical descriptions (height \nand weight) for. Could you please get us this information? \nSecond, below are the people that we would like to set up voluntary interviews with in the next few days. can you \nplease reach out to to set these up: \nThanks, \nPosition Shift \nOPS Lt. 8/10 from 12-8 \nInternal 8/10 from 12-8 \nInternal 8/9 from 4-12 \nInternal 8/9 from 4-12 \nControl 8/10 from 12-8 \nControl 8/9 from 4-12 \nControl 8/9 from 2-10 \nAssistant United States Attorney \nEFTA00027930\n\nSouthern District \nof New York \nEFTA00027931",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Additional Requests",
+        "role": "extracted",
+        "context": "Cc: \nSubject: RE: Epstein - Additional Requests/ Interviews \nDate: Tue, 13 Au"
+      },
+      {
+        "name": "Interviews \nDate",
+        "role": "extracted",
+        "context": "pstein - Additional Requests/ Interviews \nDate: Tue, 13 Aug 2019 15:30:07 +0"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "rks best? \nU.S. Department of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice \nOffice of the Inspector General \nNew York Field Office \nNew Y"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nNew York, NY 10004 \nFrom: \nS"
+      },
+      {
+        "name": "Interviews \nWe",
+        "role": "extracted",
+        "context": "pstein - Additional Requests/ Interviews \nWe just spoke with OCME, and the"
+      },
+      {
+        "name": "Position Shift",
+        "role": "extracted",
+        "context": "to to set these up: \nThanks, \nPosition Shift \nOPS Lt. 8/10 from 12-8 \nInte"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "4-12 \nControl 8/9 from 2-10 \nAssistant United States Attorney \nEFTA00027930"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "9 from 2-10 \nAssistant United States Attorney \nEFTA00027930\n\nSouthern Distr"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tates Attorney \nEFTA00027930\n\nSouthern District \nof New York \nEFTA00027931"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-13",
+        "event": "August 13, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.286Z"
+}

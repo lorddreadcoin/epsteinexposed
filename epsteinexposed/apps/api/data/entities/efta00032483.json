@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00032483",
+    "filename": "EFTA00032483.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032483.pdf",
+    "text": "\n\n<style> PrepeatFields,TheminderFietds,alinkFieldsikopyFields \n{ \ndisplay:btock!important \nIttzFieldsottpermFields,estyleFietds,acatFieldsdielistFieldsotkonflictFieldsitnotifyFietds,lreminderFietds,fteditorFietds,adisplayFieldsdicsFields,/tobgFieldsdiobFields, \nItotherFields ( display:block!important i< /style> \n(Close X) \nArgument Calendar, Courtroom 1703 \nDate: Tuesday, October 13, 2020 \nlime: 2:00pm \nVenue \nCourtroom 1703 \nThurgood Marshall US Courthouse \n40 Foley Square \nNew York, NY \n10007 \nTuesday, October 13, 2020, 2:00pm \nPanel: Cabranes, Pooler, Raggi, CM. \nDocket number Case name Time allotted \n20-2413-cv (12) \nv. Ghislaine Maxwell \nJulie Brown, Miami Hearld Co., et al ] (12) \n20-3061-cv United States of America \n) \nv. Ghislaine Maxwell \n) \n) Time to be \nshared. \nEFTA00032483",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "mber Case name Time allotted \n20-2413-cv (12) \nv. Ghislaine Maxwell \nJulie Brown, Miami Hearld Co., et al ] (12) \n20-"
+      },
+      {
+        "name": "Argument Calendar",
+        "role": "extracted",
+        "context": "ortant i< /style> \n(Close X) \nArgument Calendar, Courtroom 1703 \nDate: Tuesda"
+      },
+      {
+        "name": "Venue \nCourtroom",
+        "role": "extracted",
+        "context": "tober 13, 2020 \nlime: 2:00pm \nVenue \nCourtroom 1703 \nThurgood Marshall US Co"
+      },
+      {
+        "name": "Thurgood Marshall",
+        "role": "extracted",
+        "context": ":00pm \nVenue \nCourtroom 1703 \nThurgood Marshall US Courthouse \n40 Foley Squar"
+      },
+      {
+        "name": "Foley Square",
+        "role": "extracted",
+        "context": "od Marshall US Courthouse \n40 Foley Square \nNew York, NY \n10007 \nTuesday"
+      },
+      {
+        "name": "Julie Brown",
+        "role": "extracted",
+        "context": "v (12) \nv. Ghislaine Maxwell \nJulie Brown, Miami Hearld Co., et al ] (1"
+      },
+      {
+        "name": "Miami Hearld",
+        "role": "extracted",
+        "context": "islaine Maxwell \nJulie Brown, Miami Hearld Co., et al ] (12) \n20-3061-cv"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      },
+      {
+        "name": "Raggi, CM",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-13",
+        "event": "October 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.751Z"
+}

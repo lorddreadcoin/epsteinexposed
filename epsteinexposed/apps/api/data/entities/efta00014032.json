@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00014032",
+    "filename": "EFTA00014032.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014032.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Letter re Epstein work \nrelease \nDate: Wed, 10 Dec 2008 14:58:47 +0000 \nImportance: Normal \nhere, I gave her an extra copy for the Col. She is going to wait to hear from you. Thx \n-----Original Message---\nFrom: \nSent: Wednesda December 10, 2008 9:58 AM \nTo: \nSubject: Re: Letter re Epstein work release \nNo. His can go out. Those are different letters. Thx \nOriginal Message \nFrom: \nTo: \nSent: Wed Dec 10 09:25:16 2008 \nSubject: RE: Letter re Epstein work release \nMr. Josefsberg's letters are in the FedEx bin, wait? \ninal Messa \nFrom: \nSent: Wednesday, December 10 9:19\nTo: \nCc: \nSubject: Letter re Epstein work release \nHi guys. Any comments on the Epstein work release letter? s all ready to hand deliver it. Thanks. \nEFTA00014032",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Josefsberg",
+        "role": "extracted",
+        "context": "tter re Epstein work release \nMr. Josefsberg's letters are in the FedE"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "t to hear from you. Thx \n-----Original Message---\nFrom: \nSent: Wednesda Dece"
+      },
+      {
+        "name": "Wednesda December",
+        "role": "extracted",
+        "context": "ginal Message---\nFrom: \nSent: Wednesda December 10, 2008 9:58 AM \nTo: \nSubjec"
+      },
+      {
+        "name": "Thx \nOriginal",
+        "role": "extracted",
+        "context": "Those are different letters. Thx \nOriginal Message \nFrom: \nTo: \nSent: We"
+      },
+      {
+        "name": "Message \nFrom",
+        "role": "extracted",
+        "context": "ferent letters. Thx \nOriginal Message \nFrom: \nTo: \nSent: Wed Dec 10 09:25"
+      },
+      {
+        "name": "Wed Dec",
+        "role": "extracted",
+        "context": "al Message \nFrom: \nTo: \nSent: Wed Dec 10 09:25:16 2008 \nSubject: RE"
+      },
+      {
+        "name": "Messa \nFrom",
+        "role": "extracted",
+        "context": "in the FedEx bin, wait? \ninal Messa \nFrom: \nSent: Wednesday, December 1"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-12-10",
+        "event": "December 10, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.978Z"
+}

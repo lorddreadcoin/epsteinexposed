@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024031",
+    "filename": "EFTA00024031.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024031.pdf",
+    "text": "\n\nFrom: \n\" \naIMIE> \nTo: Mariann Wang \nall==> \nCc: \nGloria Allred <IIMIMI> \nSubject: RE: Another survivor \nDate: Thu, 18 Mar 2021 03:09:11 +0000 \nThat should work, thanks. Mind sending me the names and email addresses of participants, please? \n Original Message \nFrom: Mariann Wang\nSent: Wednesday, March 17, 2021 10:54 PM \nTo: \nCc: \nGloria Allred \nSubject: \nRe: Another survivor \nSure, how \nabout April 2d at 12.30pm? \n> On Mar 17, 2021, at 4:02 PM, S wrote: \n> Hi \nMariann, \n> Hope you're well too, thanks. April 1 is pretty full on my end now. Would April 2 work for an interview with \nthis survivor, \nplease? \n> Thanks, \n Original Message \n> From: Mariann Wang \n<=111==> \n> Sent: Wednesday_, March 17, 2021 8:48 AM \n> \nTo: \n> Cc: Gloria Allred \n> Subject: \nAnother survivor \n> I hope you're well. We have another survivor who would like to share her information/what happened to her. If \nyou're willing/open, perhaps we could just add her to April 1st, or let us know what you prefer. She is someone \nwho was abused by Epstein on one occasion in 2004. \n> Thank you, \n> Mariann \nEFTA00024031",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mariann Wang",
+        "role": "extracted",
+        "context": "From: \n\" \naIMIE> \nTo: Mariann Wang \nall==> \nCc: \nGloria Allred <"
+      },
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "o: Mariann Wang \nall==> \nCc: \nGloria Allred <IIMIMI> \nSubject: RE: Anothe"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "es of participants, please? \n Original Message \nFrom: Mariann Wang\nSent: Wed"
+      },
+      {
+        "name": "On Mar",
+        "role": "extracted",
+        "context": "about April 2d at 12.30pm? \n> On Mar 17, 2021, at 4:02 PM, S wrote"
+      },
+      {
+        "name": "Hi \nMariann",
+        "role": "extracted",
+        "context": "2021, at 4:02 PM, S wrote: \n> Hi \nMariann, \n> Hope you're well too, tha"
+      },
+      {
+        "name": "Would April",
+        "role": "extracted",
+        "context": "is pretty full on my end now. Would April 2 work for an interview with"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-17",
+        "event": "March 17, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.131Z"
+}

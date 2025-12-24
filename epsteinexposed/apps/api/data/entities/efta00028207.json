@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00028207",
+    "filename": "EFTA00028207.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028207.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: ' \"\n' \" \n• )\" \nSubject: RE: Bail Oppo Draft \nDate: Sat, 06 Nov 2021 22:26:16 +0000 \nAttachments: Bail_Oppo_v2_(LP).docx \nOnto also created a folder for this: \\\\Usa.doi.gov\\clouthmiS\\stAndrews\\shared\\uSvEpstein-\n201.8R03.61.8‘Sail\\GM‘2023.-13.-08  government opposition to fourth \nmotion for bail \nFrom: \nc>\nSent: Saturday, November 6, 20211:13 PM \nTo: \n(USANYS) \nSubject: RE: Bail Oppo Draft \nTeam, \nOnly two small edits from me. I this goes to next, and then This is due on Monday. \nThanks! \nFrom: (USANYS) \n<\nSent: Friday, November 5, 20212:14 PM \nTo: \nscl\ne; \nSubject: Bail Oppo Draft \n(USANYS) < \nSubmitted for your review! (I saved this locally on my comp, so I wouldn't mess up your shared organization) \nDeputy Chief, Public Corruption Unit \nSouthern District of New York \nOffice: \nCell \nEmail: \nEFTA00028207",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bail Oppo",
+        "role": "extracted",
+        "context": ": ' \"\n' \" \n• )\" \nSubject: RE: Bail Oppo Draft \nDate: Sat, 06 Nov 2021"
+      },
+      {
+        "name": "Draft \nDate",
+        "role": "extracted",
+        "context": "• )\" \nSubject: RE: Bail Oppo Draft \nDate: Sat, 06 Nov 2021 22:26:16 +0"
+      },
+      {
+        "name": "Draft \nTeam",
+        "role": "extracted",
+        "context": "ANYS) \nSubject: RE: Bail Oppo Draft \nTeam, \nOnly two small edits from m"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "up your shared organization) \nDeputy Chief, Public Corruption Unit \nSout"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "organization) \nDeputy Chief, Public Corruption Unit \nSouthern District of Ne"
+      },
+      {
+        "name": "Unit \nSouthern",
+        "role": "extracted",
+        "context": "puty Chief, Public Corruption Unit \nSouthern District of New York \nOffice:"
+      },
+      {
+        "name": "Cell \nEmail",
+        "role": "extracted",
+        "context": "istrict of New York \nOffice: \nCell \nEmail: \nEFTA00028207"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.831Z"
+}

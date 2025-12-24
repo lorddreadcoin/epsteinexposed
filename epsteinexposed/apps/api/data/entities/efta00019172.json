@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00019172",
+    "filename": "EFTA00019172.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019172.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Fw: Op Stolen Globe Meeting \nDate: Thu, 03 Dec 2009 17:46:17 +0000 \nImportance: Normal \nFyi \nSent: Thu Dec 03 12:44:32 2009 \nSubject: Op Stolen Globe Meeting \nare meeting on Thursday, December 17th at 10:30 at the USA0 in \nMiami to discuss Op Stolen Globe and how we will handle a potential new investigation against Jeffrey Epstein \nor others. We would like to have FBI present for the meeting. I don't know if you want the SAC to attend, or \nyour ASAC, or whomever, but certainly whichever agent(s) would be potentially handling such an investigation \nshould be there. \nI am still in South Carolina and then will be in Colombia, back in West Palm Beach on the 9th.  Please just let me \nknow whom to expect so I can let the bosses know. \nThank you. \nEFTA00019172",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "will handle a potential new investigation against Jeffrey Epstein \nor others. We would like to have FBI present for"
+      },
+      {
+        "name": "Op Stolen",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Fw: Op Stolen Globe Meeting \nDate: Thu, 03"
+      },
+      {
+        "name": "Globe Meeting",
+        "role": "extracted",
+        "context": "To: \nSubject: Fw: Op Stolen Globe Meeting \nDate: Thu, 03 Dec 2009 17:46"
+      },
+      {
+        "name": "Normal \nFyi",
+        "role": "extracted",
+        "context": "9 17:46:17 +0000 \nImportance: Normal \nFyi \nSent: Thu Dec 03 12:44:32 20"
+      },
+      {
+        "name": "Thu Dec",
+        "role": "extracted",
+        "context": "mportance: Normal \nFyi \nSent: Thu Dec 03 12:44:32 2009 \nSubject: Op"
+      },
+      {
+        "name": "South Carolina",
+        "role": "extracted",
+        "context": "ould be there. \nI am still in South Carolina and then will be in Colombia,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "will be in Colombia, back in West Palm Beach on the 9th.  Please jus"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.433Z"
+}

@@ -1,0 +1,87 @@
+{
+  "document": {
+    "id": "efta00009864",
+    "filename": "EFTA00009864.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009864.pdf",
+    "text": "\n\nFrom \nSubject RE: Tartaglione document request \nDate: Mon, 14 Dec 2020 17:55:02 +0000 \nHey \nwas looking into who in Central Office keeps these. I just followed up with him. \n>  12/14/2020 12:52 PM >>> \nHi -  following up \non the below. Thanks. \nFrom: \nSent: Wednesday, December 9, 2020 1:34 PM \nTo: \nCc: \nSubject: Tartaglione document request \nHi M, \nA while back, we spoke about obtaining a final copy of the BOP's Psychological Reconstruction of Inmate Jeffrey Epstein and \nthe MCC's response so that we can evaluate what discovery obligations we have with respect to the document for purposes \nof the capital phase of Tartaglione's trial. Have you been able to locate the document, and if so, can you please email to us \nwhen you have a chance? \nMany thanks, \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSouthern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601 \nTel: (914) 993-1963 \nCell: (917) 992-6989 \nEFTA00009864",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "the BOP's Psychological Reconstruction of Inmate Jeffrey Epstein and \nthe MCC's response so that we can evaluate w"
+      },
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "From \nSubject RE: Tartaglione document requ"
+      },
+      {
+        "name": "Central Office",
+        "role": "extracted",
+        "context": "Hey \nwas looking into who in Central Office keeps these. I just followed"
+      },
+      {
+        "name": "Psychological Reconstruction",
+        "role": "extracted",
+        "context": "ing a final copy of the BOP's Psychological Reconstruction of Inmate Jeffrey Epstein and"
+      },
+      {
+        "name": "Inmate Jeffrey",
+        "role": "extracted",
+        "context": "ychological Reconstruction of Inmate Jeffrey Epstein and \nthe MCC's respon"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "have a chance? \nMany thanks, \nDeputy Chief, White Plains Division \nUnite"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "Many thanks, \nDeputy Chief, White Plains Division \nUnited States Attor"
+      },
+      {
+        "name": "Division \nUnited",
+        "role": "extracted",
+        "context": ", \nDeputy Chief, White Plains Division \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "White Plains Division \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ion \nUnited States Attorney's Office \nSouthern District of New York \n300 Qua"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "ern District of New York \n300 Quarropas Street \nWhite Plains, New York 10601"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-14",
+        "event": "12/14/2020"
+      },
+      {
+        "date": "2020-12-09",
+        "event": "December 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(914) 993-1963",
+      "(917) 992-6989"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.806Z"
+}

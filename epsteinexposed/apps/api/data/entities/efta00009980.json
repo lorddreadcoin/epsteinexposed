@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00009980",
+    "filename": "EFTA00009980.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009980.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell cli=a Laura Menninger \nJeff Pagliuca — - \nSubject: [EXTERNAL] U.S. v. Maxwell S2 20 Cr. 330 \n(AJN) \nDate: Mon, 08 Nov 2021 16:33:05 \n+0000 \nAttachments: Suggestion_to_Dkt_404.pdf \nCourtesy copy of today's ECF fling \nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00009980",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": ": BOBBI C STERNHEIM \nTo: \nCc: Christian Everdell cli=a Laura Menninger \nJeff P"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "Cc: Christian Everdell cli=a Laura Menninger \nJeff Pagliuca — - \nSubject:"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "erdell cli=a Laura Menninger \nJeff Pagliuca — - \nSubject: [EXTERNAL] U.S."
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "s: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis m"
+      },
+      {
+        "name": "Sternheim \nThis",
+        "role": "extracted",
+        "context": "ESQ. \nLaw Offices of Bobbi C. Sternheim \nThis message and any attached docu"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.047Z"
+}

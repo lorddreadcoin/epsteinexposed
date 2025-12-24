@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00026650",
+    "filename": "EFTA00026650.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026650.pdf",
+    "text": "\n\nEvent: Accepted: Epstein bail hearing \nStart Date: 2019-07-15 14:00:00 +0000 \nEnd Date: 2019-07-15 14:30:00 +0000 \nOrganizer: ) < \nLocation: 17B (Berman) \nClass: X-PERSONAL \nComment: \nDate Created: 2019-07-10 05:55:53 +0000 \nDate Modified: 2019-07-10 05:55:53 +0000 \nPriority: 5 \nDTSTAMP: 2019-07-10 05:50:32 +0000 \nEFTA00026650",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "cepted: Epstein bail hearing \nStart Date: 2019-07-15 14:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-07-15 14:00:00 +0000 \nEnd Date: 2019-07-15 14:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-07-10 05:55:53 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-07-10 05:55:53 +0000 \nDate Modified: 2019-07-10 05:55:53 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-15",
+        "event": "2019-07-15"
+      },
+      {
+        "date": "2019-07-10",
+        "event": "2019-07-10"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.744Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00023040",
+    "filename": "EFTA00023040.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023040.pdf",
+    "text": "\n\nFrom: \"-(USANYS) [Contractor]\" \n<MNIMME> \nTo: A\"\nnalMIE>, \nCc: \n(USANYS)\" \nSubject: RE: Voice Message Attached from - WIRELESS CALLER \nDate: Tue, 23 Nov 2021 18:20:17 +0000 \n(USANYS)\" \nThanks! \nSpecial Assistant to the U.S. \nAttorney \nSouthern District of New York \nPhone: \n Ori inal Messa e \nFrom:\nSent: Tuesda November 23, 2021 1:20 PM \nTo: \n(USANYS) \n[Contractor] \n.MNIMME>: \n(USANYS) \nCc: \n(USANYS) \nSubject: RE: Voice Message Attached from - WIRELESS CALLER \nHIM, \nThanks very much for flagging. Our protocol in this case has been to forward all tips to the FBI-- our case agents \nhave been logging tips through a specific protocol. We'll pass this on. \nThanks, \nOri coal Message \nFrom: (USANYS) [Contractor] <MNIMIIM> \nTo: (USANYS) \nCc: \nUSANYS)\n( \nSent: Tuesda , November 23, 2021 1:15 PM \n;\nSubject: FW: Voice Message Attached from - WIRELESS CALLER \nHi M, and - attached is a voice message from an individual claiming they have information \nabout Ghislaine Maxwell and that they are a friend of George Soros. \n- not sure if this is something you want to follow up on. if not can you send this individual \nthe crime reporting materials? Her number is \nShe was transferred to my line from the tent CSOs. \n Ori inal Messa e \nFrom: ca \nSent: Tuesday, November 23, 2021 12:53 PM \nEFTA00023040\n\nTo: (USANYS) rontractie \nSubject: Voice Message Attached \nfrom - WIRELESS CALLER \nTime: Nov 23, 2021 12:53:29 PM \nClick attachment to listen to Voice Message \nEFTA00023041",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "individual claiming they have information \nabout Ghislaine Maxwell and that they are a friend of George Soros. \n- no"
+      },
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\" \nSubject: RE: Voice Message Attached from - WIRELESS CALL"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "17 +0000 \n(USANYS)\" \nThanks! \nSpecial Assistant to the U.S. \nAttorney \nSouthe"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "pecial Assistant to the U.S. \nAttorney \nSouthern District of New York \nPhone:"
+      },
+      {
+        "name": "Tuesda November",
+        "role": "extracted",
+        "context": "Ori inal Messa e \nFrom:\nSent: Tuesda November 23, 2021 1:20 PM \nTo: \n(USANY"
+      },
+      {
+        "name": "Message \nFrom",
+        "role": "extracted",
+        "context": "s this on. \nThanks, \nOri coal Message \nFrom: (USANYS) [Contractor] <MNIMI"
+      },
+      {
+        "name": "George Soros",
+        "role": "extracted",
+        "context": "and that they are a friend of George Soros. \n- not sure if this is somet"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-23",
+        "event": "November 23, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.132Z"
+}

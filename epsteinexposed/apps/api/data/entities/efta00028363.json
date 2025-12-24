@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028363",
+    "filename": "EFTA00028363.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028363.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: expected unsealing and wheel-out tomorrow \nDate: Sun, 07 Jul 2019 21:00:49 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,_govemment_unsealing_request_and_proposed_order.pdf \nDear Judge Pitman, \nWith apologies for being in touch over the weekend, we wanted to write to advise you regarding our expected application \ntomorrow morning to unseal Indictment 19 Cr. 490, United States v. Jeffrey Epstein, and to have a district judge assigned \nto the case (from Wheel C). Attached is an electronic copy of the application and proposed order we expect to formally \nsubmit first thing tomorrow morning, in case that is useful for the Court to have in advance. \nWe believe that Judge Moses may have advised you that this presentment might occur on Monday, but we also wanted to \nbe in touch directly, particularly because we expect there may be significant press and public attention and attendance at \na proceeding before your honor, if the district judge refers presentment. \nIf you would prefer that we schedule an early-morning time tomorrow to come to court to submit the application and \neffect a wheel-out, we would be happy to be available as early as is practicable for the Court, or otherwise we will call \nchambers in the morning for guidance on what the Court prefers. And I am available for any questions anytime in the \ninterim, or tomorrow, via phone at Thank you. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00028363",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "to unseal Indictment 19 Cr. 490, United States v. Jeffrey Epstein, and to have a district judge assigned \nto the ca"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 21:00:49 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,_govemment_un"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "quest_and_proposed_order.pdf \nDear Judge Pitman, \nWith apologies for b"
+      },
+      {
+        "name": "Judge Moses",
+        "role": "extracted",
+        "context": "in advance. \nWe believe that Judge Moses may have advised you that thi"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "at Thank you. \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "2019-07-08"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.105Z"
+}

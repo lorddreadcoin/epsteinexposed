@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030452",
+    "filename": "EFTA00030452.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030452.pdf",
+    "text": "\n\nFrom \nTo: \nSubject: RE: Epstein review \nDate: Wed, 04 Sep 2019 15:58:59 +0000 \nImportance: Normal \nI think it was only 3 or 4 GB of data. \n Ori inal Messa e \nFrom: \nSent: Wednesda Se tember 4 2019 11:58 AM \nTo: \nSubject: RE: Epstein review \nLooping in =, he will know better. \nThanks, \n Ori inal Messa e \nFrom: \nSent: Wednesmare tember 04 \n2019 11:03 \nAM \nTo: \nSubject: Epstein review \nHi, \nDo you happen to know how much data was on the drive we gave you last week? Just trying to get a sense of the \nscale of the anticipate review. \nThanks! \nSent from my iPhone \nEFTA00030452",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nSubject: RE: Epstein review"
+      },
+      {
+        "name": "Wednesda Se",
+        "role": "extracted",
+        "context": "ri inal Messa e \nFrom: \nSent: Wednesda Se tember 4 2019 11:58 AM \nTo:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.914Z"
+}

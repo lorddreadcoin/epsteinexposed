@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032438",
+    "filename": "EFTA00032438.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032438.pdf",
+    "text": "\n\nFrom: (USANYS)\" \n- \nTo: (USANYS)\" \nSubject: Fwd: M request \nDate: Mon, 16 Sep 2019 20:00:17 +0000 \n> \nfr. \nWrong • cc'd. Ridiculous. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' (USANYS)\" < \nDate: September 16, 2019 at 3:49:44 PM EDT \nTo: \" \n(USANYS \nI\" \nI I \n(USANY \nSubject: = request \n> \naNY S)\" \n• requests Urgent report on the DB part of Epstein case (or the Epstein part of DB. This could be separate UMR or \ntagged onto the DB/Kushner UMR, depending on how we see it—is it part of pre-existing DB SAR investigation or \nseparate? \nPlease let me know how you plan to proceed. \nThanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00032438",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "d. Ridiculous. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "Thanks \nDeputy",
+        "role": "extracted",
+        "context": "now how you plan to proceed. \nThanks \nDeputy United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Thanks \nDeputy United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-16",
+        "event": "September 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.636Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023935",
+    "filename": "EFTA00023935.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023935.pdf",
+    "text": "\n\nEvent: Accepted: \nStart Date: 2019-11-04 21:00:00 +0000 \nEnd Date: 2019-11-04 21:30:00 +0000 \nLocation: Epstein / Victim Fund Meet \nClass: X-PERSONAL \nComment: \nDate Created: 2019-11-04 16:36:38 +0000 \nDate Modified: 2019-11-04 16:36:38 +0000 \nPriority: 5 \nDTSTAMP: 2019-11-04 15:17:15 +0000 \nAttendee: \nEFTA00023935",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Accepted: \nStart Date: 2019-11-04 21:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-11-04 21:00:00 +0000 \nEnd Date: 2019-11-04 21:30:00 +0000 \nL"
+      },
+      {
+        "name": "Victim Fund",
+        "role": "extracted",
+        "context": "00 +0000 \nLocation: Epstein / Victim Fund Meet \nClass: X-PERSONAL \nComm"
+      },
+      {
+        "name": "Meet \nClass",
+        "role": "extracted",
+        "context": "cation: Epstein / Victim Fund Meet \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-11-04 16:36:38 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-11-04 16:36:38 +0000 \nDate Modified: 2019-11-04 16:36:38 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-04",
+        "event": "2019-11-04"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.913Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029710",
+    "filename": "EFTA00029710.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029710.pdf",
+    "text": "\n\nFrom: \nTo: \n\" aIMIE> \n(USANYS)\" ca \nSubject: Automatic reply: Request for Information Relating to Jeffrey Epstein \nDate: Mon, 09 Mar 2020 16:12:50 +0000 \nI am currently on trial before the Honorable Paul A. Engelmayer. Althou h I will be checkin emails, m res onses ma be dela ed. For urgent \nmatters, please contact the other AUSA(s) on the case, or AUSA \nEFTA00029710",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "omatic reply: Request for Information Relating to Jeffrey Epstein \nDate: Mon, 09 Mar 2020 16:12:50 +0000 \nI am curr"
+      },
+      {
+        "name": "Information Relating",
+        "role": "extracted",
+        "context": "Automatic reply: Request for Information Relating to Jeffrey Epstein \nDate: Mon"
+      },
+      {
+        "name": "Honorable Paul",
+        "role": "extracted",
+        "context": "currently on trial before the Honorable Paul A. Engelmayer. Althou h I wil"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.025Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00032877",
+    "filename": "EFTA00032877.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032877.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n(USANYS)\" \nalMIE> \n'la \nSANYS \nIt \nUSANYS \" \n(USANYS)\" \nSubject: Emailing - 2016-10-19 Conflict List.pdf \nDate: Wed, 19 Oct 2016 20:05:24 +0000 \nImportance: Normal \nAttachments: 2016-10-19_Conflict_List.pdf \nUSANYS)\" \nAs I mentioned, we have an appearance before Judge Koeltl tomorrow at 11 am and we likely need to have a substitution \nof counsel for a defendant. Please see attached our conflict list. Bobbie Stemheim and Ruhnke are both conflicted. \nThank you and please call with any questions. \n= \nEFTA00032877",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Conflict List",
+        "role": "extracted",
+        "context": "ubject: Emailing - 2016-10-19 Conflict List.pdf \nDate: Wed, 19 Oct 2016 2"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "6 20:05:24 +0000 \nImportance: Normal \nAttachments: 2016-10-19_Conflict_List.pdf"
+      },
+      {
+        "name": "Judge Koeltl",
+        "role": "extracted",
+        "context": "we have an appearance before Judge Koeltl tomorrow at 11 am and we like"
+      },
+      {
+        "name": "Bobbie Stemheim",
+        "role": "extracted",
+        "context": "e attached our conflict list. Bobbie Stemheim and Ruhnke are both conflicte"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2016-10-19",
+        "event": "2016-10-19"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.680Z"
+}

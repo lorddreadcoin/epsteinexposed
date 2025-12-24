@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027978",
+    "filename": "EFTA00027978.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027978.pdf",
+    "text": "\n\nFrom: \" \n(CMG)\" <E\n> \nTo: \" (USANYS)\" \" \nSubject: Question from HQ \nDate: Fri, 16 Aug 2019 23:17:54 +0000 \n(USANYS)\" \nand., \nMy HQ has the following question on the underlying case, can you please forward this to the prosecutors on the \nunderlying case? Thank you. \no  In addition to BOP policies, did SDNY have requirements to memorialize Epstein's phone calls related to the \nunderlying case? If so, were they followed? \nU.S. Department of Justice \nOffice of the Inspector General \nNew York Field \nOffice \nEFTA00027978",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "followed? \nU.S. Department of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ent of Justice \nOffice of the Inspector General \nNew York Field \nOffice \nEFTA"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field \nOffice \nEFTA00027978"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.384Z"
+}

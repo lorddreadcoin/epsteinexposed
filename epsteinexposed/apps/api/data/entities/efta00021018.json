@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00021018",
+    "filename": "EFTA00021018.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021018.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Maxwell motions 2 \nof 3 \nDate: Tue, 09 Feb 2021 18:11:41 +0000 \nAttachments: 1.25.2021 Filing 2.zip _ _ \nFrom: \nSent: Thursday, January 28, 2021 6:12 PM \nTo: \nSubject: Maxwell motions 2 of 3 \nAssistant United States Attorney \nSouthern District of New York \nEFTA00021018",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ject: Maxwell motions 2 of 3 \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ions 2 of 3 \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00021018"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-28",
+        "event": "January 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.841Z"
+}

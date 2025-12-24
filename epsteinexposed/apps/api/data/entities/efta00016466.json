@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00016466",
+    "filename": "EFTA00016466.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016466.pdf",
+    "text": "\n\nFrom: \n\" \nTo: (USANYS)\" \nCc: =Mr.  SANYS \n\" , \nI/ \nSubject: RE: Maxwell Briefing re \nSasso \nDate: Wed, 24 Nov 2021 14:28:29 +0000 \nAttachments: Motion_to_preclude_Hall_et_aliunredacted].pdf; \n2021.11.22_20cr330_Hall_Temp._Seal._Mem._Op._&_Order 11.22.21.pdf \nHere you go. Also attaching Judge Nathan's opinion. did a really nice job with this, we're so thankful he pitched in. \nWe've litigated I think nine experts at this point. \nThe process of redacting/sealing this stuff has been overcomplicated, so if you'd like to cite to any of this please check \nwith \nS \ncopied here, who can help sort that out. \nFrom: \n(USANYS)<> \nSent: Wednesday, November 24, 2021 9:08 AM \nTo: \nI \nCc: (USANYS)<> \nSubject: Maxwell Briefing re Sasso \nCan you please send us the brief you filed regarding admissibility of mental health evidence / Sasso — says your team \nfiled something about this (and maybe worked on it)? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00016466",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Briefing",
+        "role": "extracted",
+        "context": "SANYS \n\" , \nI/ \nSubject: RE: Maxwell Briefing re \nSasso \nDate: Wed, 24 Nov"
+      },
+      {
+        "name": "Sasso \nDate",
+        "role": "extracted",
+        "context": "ect: RE: Maxwell Briefing re \nSasso \nDate: Wed, 24 Nov 2021 14:28:29 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "Here you go. Also attaching Judge Nathan's opinion. did a really nice"
+      },
+      {
+        "name": "Sasso \nCan",
+        "role": "extracted",
+        "context": "Subject: Maxwell Briefing re Sasso \nCan you please send us the brief"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "is (and maybe worked on it)? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ked on it)? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-24",
+        "event": "November 24, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.732Z"
+}

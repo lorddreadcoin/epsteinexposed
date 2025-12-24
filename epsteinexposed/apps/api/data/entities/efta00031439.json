@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00031439",
+    "filename": "EFTA00031439.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031439.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - discovery production \nDate: Wed, 14 Apr 2021 15:02:28 +0000 \nAttachments: 2021.04.14_Maxwell_Discovery_Letter.pdf; \nSDNY_GM_02753398-\nSDNY GM \n02753398.pdf \nCounsel, \nToday we are producing to you an additional photograph in discovery. Attached please find the bates stamped \nphotograph, as well as the accompanying cover letter. We will include both the photograph and the cover letter on the \ndrive that we are preparing for your client to use at the MDC. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00031439",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: US v. Maxwell,"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: US v. Maxwell, 20 Cr. 330 (A"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nt to use at the MDC. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "MDC. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00031439"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.089Z"
+}

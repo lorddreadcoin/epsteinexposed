@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00010333",
+    "filename": "EFTA00010333.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010333.pdf",
+    "text": "\n\nFrom: \nSubject: RE: Page Six: Ghislaine Maxwell's powerful contacts protecting her in safe houses \nDate: Thu, 02 Jan 2020 18:32:31 +0000 \nOh no not at all — I always appreciate it when you send this stuff along!! Good to keep an eye on it, and certainly \nentertaining —  even when crazy : ) \nFrom: \nSent: Thursday, January 02, 2020 13:32 \nTo: \nSubject: RE: Page Six: Ghislaine Maxwell's powerful contacts protecting her in safe houses \nAgree. Sorry for even wasting your time with it! \nFrom: \nSent: Thursday, January 2, 2020 1:31 PM \nTo: \nSubject: RE: Page Six: Ghislaine Maxwell's powerful contacts protecting her in safe houses \nI truly cannot believe this stuff gets printed. So absurd. \nFrom: \nSent: Thursday, January 02, 2020 13:29 \nTo: \nCc: \nSubject: Page Six: Ghislaine Maxwell's powerful contacts protecting her in safe houses \nhttps://pagesix.com/2020/01/O1/ghislaine-maxwells-powerful-contacts-protecting-her-in-safe-houses/ \nI'm sure you've seen this already. Totally just FWIW —  NBC has heard that she's staying in Colorado with wealthy ex-\nassociates of Epstein. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office Southern District of New York \nEFTA00010333",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nSubject: RE: Page Six: Ghislaine Maxwell's powerful contacts protecting her in safe houses"
+      },
+      {
+        "name": "Page Six",
+        "role": "extracted",
+        "context": "From: \nSubject: RE: Page Six: Ghislaine Maxwell's powerful"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "y ex-\nassociates of Epstein. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Office Southern",
+        "role": "extracted",
+        "context": "t of Justice \nU.S. Attorney's Office Southern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-02",
+        "event": "January 02, 2020"
+      },
+      {
+        "date": "2020-01-02",
+        "event": "January 2, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.754Z"
+}

@@ -1,0 +1,63 @@
+{
+  "document": {
+    "id": "efta00028563",
+    "filename": "EFTA00028563.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028563.pdf",
+    "text": "\n\nFrom: '\n„cl \nTo: ' . (NY) (FBI)\" <I \nCc: '   (NY) (FBI)\" \nSubject: RE: Maxwell Travel Information \nDate: Tue, 30 Jun 2020 17:53:40 +0000 \nThank you! This is very helpful, much appreciated. \nFrom: (NY) (FBI) a> \nSent: Tuesday, June 30, 2020 1:43 PM \nTo: \nCc: . (NY) (FBI) a; \nSubject: Maxwell Travel Information \nIn summary: Travel review for Ghislaine Maxwell, DOB: \ninformation: \n• Traveled 15 times with 7 OUTBOUND flights \no  United Kingdom: 5 times \no  Japan: 1 time \no Qatar: 1 time \nfrom 1/1/2017 to 6/29/2020 identified the following \nI have attached two travel records showing international travel with both a UK passport and a French Passport. \nI have also attached two inspection documents citing her citizenship in both the UK and France. \nThanks, \nEFTA00028563",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Travel Information \nIn summary: Travel review for Ghislaine Maxwell, DOB: \ninformation: \n• Traveled 15 times with 7 O"
+      },
+      {
+        "name": "Maxwell Travel",
+        "role": "extracted",
+        "context": "'   (NY) (FBI)\" \nSubject: RE: Maxwell Travel Information \nDate: Tue, 30 Ju"
+      },
+      {
+        "name": "Information \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Maxwell Travel Information \nDate: Tue, 30 Jun 2020 17:53:40 +0"
+      },
+      {
+        "name": "Information \nIn",
+        "role": "extracted",
+        "context": ") a; \nSubject: Maxwell Travel Information \nIn summary: Travel review for Gh"
+      },
+      {
+        "name": "United Kingdom",
+        "role": "extracted",
+        "context": "s with 7 OUTBOUND flights \no  United Kingdom: 5 times \no  Japan: 1 time \no"
+      },
+      {
+        "name": "French Passport",
+        "role": "extracted",
+        "context": "with both a UK passport and a French Passport. \nI have also attached two in"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2017-01-01",
+        "event": "1/1/2017"
+      },
+      {
+        "date": "2020-06-29",
+        "event": "6/29/2020"
+      },
+      {
+        "date": "2020-06-30",
+        "event": "June 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.481Z"
+}

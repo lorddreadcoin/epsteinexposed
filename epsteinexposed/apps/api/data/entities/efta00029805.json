@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00029805",
+    "filename": "EFTA00029805.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029805.pdf",
+    "text": "\n\nFrom: \n\"-\nTo: \"Moyne, Parvin\" \nCc: \n\"DiPiero. \nJoseph \nSubject: RE: Epstein accounts \nDate: Mon, 18 Nov 2019 22:13:29 +0000 \nMo er Thomas' \nParvin, \nThanks very much for sending —  we've received the documents and we appreciate you bringing them to our attention. \nthanks \nagain, \nFrom: Moyne, Parvin \nSent: Wednesday, November 13,2019 21:20 \nTo: \nCc: DiPiero, Joseph \nSubject: Epstein accounts \nMoyer, Thomas \n>; \nAs you know, we're in the process of reviewing the Bank's electronic communications related to its relationship with \nJeffrey Epstein. In the course of our ongoing review, we've located a chart which appears to identify Epstein's accounts at \nJ.P. Morgan prior to his transition to Deutsche Bank. The chart was attached to a September 12, 2013 email from Epstein's \naccountant, Harry Beller, to Paul Morris's assistant, Amanda Kirby. The subject line of the email reads: \"Let's discuss.\" \nThere is no text in the body of the email, but we know that Epstein was transferring assets from J.P. Morgan to Deutsche \nBank around this time. \nNotably, the chart identifies several accounts that were previously unknown to us, including a brokerage account \nbelonging to the Butterfly Trust. The chart also identifies the managers of Epstein's J.P. Morgan brokerage and asset \ntrading accounts. While we had previously flagged Epstein's relationship to Paul Barrett, we were previously unaware of \nEpstein's apparent relationship to Ted Serure or Laurie Cameron. As reflected in the chart, Ted Serure managed the \nButterfly Trust account, and, according to Barron's, he still works at J.P. Morgan Securities. \nThe referenced chart and email are attached. We will include a bates-stamped version of both documents in our next \nproduction, which we are in the process of finalizing. That production will also include a significant number of emails \nrelated to Darren Indyke's cash withdrawal activities. As always, we're happy to discuss if you have any questions or \nwould like us to follow up further. \nParvin \nParvin Daphne Moyne \nAKIN GUMP STRAUSS HAUER 8 FELD LLF. \nNew York, NY 10036-6745 j  USA I \nDirect: \nFax: j  akingump.com \nI \nBio \nI  Internal: \nEFTA00029805\n\nThe information contained in this e-mail message is intended only for the personal and confidential use of the \nrecipient(s) named above. If you have received this communication in error, please notify us immediately by e-\nmail, and delete the original message. \nEFTA00029806",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "communications related to its relationship with \nJeffrey Epstein. In the course of our ongoing review, we've locat"
+      },
+      {
+        "name": "Joseph \nSubject",
+        "role": "extracted",
+        "context": "yne, Parvin\" \nCc: \n\"DiPiero. \nJoseph \nSubject: RE: Epstein accounts \nDate:"
+      },
+      {
+        "name": "Parvin \nSent",
+        "role": "extracted",
+        "context": "thanks \nagain, \nFrom: Moyne, Parvin \nSent: Wednesday, November 13,2019"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "an prior to his transition to Deutsche Bank. The chart was attached to a"
+      },
+      {
+        "name": "Harry Beller",
+        "role": "extracted",
+        "context": "l from Epstein's \naccountant, Harry Beller, to Paul Morris's assistant,"
+      },
+      {
+        "name": "Paul Morris",
+        "role": "extracted",
+        "context": "accountant, Harry Beller, to Paul Morris's assistant, Amanda Kirby. Th"
+      },
+      {
+        "name": "Amanda Kirby",
+        "role": "extracted",
+        "context": ", to Paul Morris's assistant, Amanda Kirby. The subject line of the emai"
+      },
+      {
+        "name": "Deutsche \nBank",
+        "role": "extracted",
+        "context": "ng assets from J.P. Morgan to Deutsche \nBank around this time. \nNotably, t"
+      },
+      {
+        "name": "Butterfly Trust",
+        "role": "extracted",
+        "context": "age account \nbelonging to the Butterfly Trust. The chart also identifies th"
+      },
+      {
+        "name": "Paul Barrett",
+        "role": "extracted",
+        "context": "ged Epstein's relationship to Paul Barrett, we were previously unaware o"
+      },
+      {
+        "name": "Ted Serure",
+        "role": "extracted",
+        "context": "in's apparent relationship to Ted Serure or Laurie Cameron. As reflect"
+      },
+      {
+        "name": "Laurie Cameron",
+        "role": "extracted",
+        "context": "relationship to Ted Serure or Laurie Cameron. As reflected in the chart, T"
+      },
+      {
+        "name": "Morgan Securities",
+        "role": "extracted",
+        "context": "ron's, he still works at J.P. Morgan Securities. \nThe referenced chart and em"
+      },
+      {
+        "name": "Darren Indyke",
+        "role": "extracted",
+        "context": "number of emails \nrelated to Darren Indyke's cash withdrawal activities."
+      },
+      {
+        "name": "Parvin \nParvin",
+        "role": "extracted",
+        "context": "ike us to follow up further. \nParvin \nParvin Daphne Moyne \nAKIN GUMP STRAU"
+      },
+      {
+        "name": "Daphne Moyne",
+        "role": "extracted",
+        "context": "w up further. \nParvin \nParvin Daphne Moyne \nAKIN GUMP STRAUSS HAUER 8 FE"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2013-09-12",
+        "event": "September 12, 2013"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.269Z"
+}

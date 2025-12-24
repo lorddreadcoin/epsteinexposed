@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00010127",
+    "filename": "EFTA00010127.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010127.pdf",
+    "text": "\n\nFrom: \nc> \nTo: \"Stoddart, \nAllison\" < \nSubject: Accepted: United States v. Ghislaine Maxwell, 20 Cr. 330 (A.IN) \nDate: Fri, 19 Nov 2021 18:40:15 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00010127",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Allison\" < \nSubject: Accepted: United States v. Ghislaine Maxwell, 20 Cr. 330 (A.IN) \nDate: Fri, 19 Nov 2021 18:40:"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 18:40:15 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00010127"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.331Z"
+}

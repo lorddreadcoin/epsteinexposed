@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00022326",
+    "filename": "EFTA00022326.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022326.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Automatic reply: [EXTERNAL] Trial of Ghislaine Maxwell \nDate: Wed, 03 Nov 2021 15:47:09 +0000 \nI am out of the office For matters \nrelating \nto the Violent & Organized Crime Unit, please contact at \nFor any matter regarding a \nspecific \ncase, please contact the other AUSA(s) on the case. \nEFTA00022326",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "o: \nSubject: Automatic reply: [EXTERNAL] Trial of Ghislaine Maxwell \nDate: Wed, 03 Nov 2021 15:47:09 +0000 \nI am out"
+      },
+      {
+        "name": "Organized Crime",
+        "role": "extracted",
+        "context": "s \nrelating \nto the Violent & Organized Crime Unit, please contact at \nFor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.618Z"
+}

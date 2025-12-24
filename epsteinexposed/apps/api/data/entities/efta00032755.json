@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032755",
+    "filename": "EFTA00032755.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032755.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" czi \nTo: \"11.16.1().\nOGA) (FBI)\" -1 \n(FBI)\" \nCc: ' \nUSANYS \" , \" \nSubject: Response to Epstein Touhy Requests \nDate: Tue, 03 Sep 2019 16:08:11 +0000 \nImportance: Normal \nAttachments: 8.20.19_Epstein_Letter_to_FBI-c2.pdf \n• (NY) \n(USANYS)\" \nHey guys — \nAUSA in our Civil Division and copied here, is handling the Touhy requests from Epstein's lawyers and wanted to \nmake sure that he spoke with the right FBI POC about the request to FBI (attached). Could you provide us with the \ncontact information for Thanksl \nEFTA00032755",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Touhy",
+        "role": "extracted",
+        "context": "S \" , \" \nSubject: Response to Epstein Touhy Requests \nDate: Tue, 03 Sep 2"
+      },
+      {
+        "name": "Requests \nDate",
+        "role": "extracted",
+        "context": "ct: Response to Epstein Touhy Requests \nDate: Tue, 03 Sep 2019 16:08:11 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 16:08:11 +0000 \nImportance: Normal \nAttachments: 8.20.19_Epstein_Letter_to_FB"
+      },
+      {
+        "name": "Civil Division",
+        "role": "extracted",
+        "context": "YS)\" \nHey guys — \nAUSA in our Civil Division and copied here, is handling"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.420Z"
+}

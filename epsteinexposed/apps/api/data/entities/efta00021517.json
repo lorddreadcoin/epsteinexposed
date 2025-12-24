@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021517",
+    "filename": "EFTA00021517.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021517.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: '\nSubject: RE: Epstein - Scheduling Call \nDate: Mon, 29 Jul 2019 22:29:04 +0000 \nConfirmed for 9 AM Wed, thanks. Hope all are well. \nFrom: \nSent: Monday, July 29, 2019 5:41 PM \nTo: \nCc \nSubject: RE: Epstein - Scheduling Call \n) \n[mailt< \nthat works for us, thanks. Also, separately, regarding the return of property, you should feel free to contact Special \nAgent directly, her number is or alternatively I expect be in court on Wednesday so you \ncould speak with directly then. \n• ou, \nFrom:\nSent: Monday, July 29, 2019 16:59 \nTo: \nCc: \nSubject: Epstein - Sc e. u ing Ca \nDear all — \nCan we plan on a call regarding Epstein scheduling issues for Wed morning at 9 am using the following dial in: \nEFTA00021517\n\nEFTA00021518",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scheduling Call",
+        "role": "extracted",
+        "context": "Cc: '\nSubject: RE: Epstein - Scheduling Call \nDate: Mon, 29 Jul 2019 22:29"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": ", July 29, 2019 5:41 PM \nTo: \nCc \nSubject: RE: Epstein - Scheduling Cal"
+      },
+      {
+        "name": "Special \nAgent",
+        "role": "extracted",
+        "context": "u should feel free to contact Special \nAgent directly, her number is or al"
+      },
+      {
+        "name": "Ca \nDear",
+        "role": "extracted",
+        "context": "ubject: Epstein - Sc e. u ing Ca \nDear all — \nCan we plan on a call"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-29",
+        "event": "July 29, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.821Z"
+}

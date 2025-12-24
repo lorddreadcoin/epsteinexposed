@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013845",
+    "filename": "EFTA00013845.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013845.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Read: RE: Jane Does v USA/Epstein \nDate: Sun, 07 Dec 2008 15:18:34 +0000 \nImportance: Normal \nEFTA00013845",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jane Does",
+        "role": "extracted",
+        "context": "rom: \nTo: \nSubject: Read: RE: Jane Does v USA/Epstein \nDate: Sun, 07"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ct: Read: RE: Jane Does v USA/Epstein \nDate: Sun, 07 Dec 2008 15:18:34 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.565Z"
+}

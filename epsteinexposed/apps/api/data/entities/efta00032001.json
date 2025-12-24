@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032001",
+    "filename": "EFTA00032001.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032001.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS) \n[Contractor)\" <=l \nCc: a\" \n' \n(USANYS) \n(USANYS) [Contractor]\" \n(USANYS)\" \nSubject: RE: Maxwell \nDate: Thu, 10 Jun 2021 18:33:19 +0000 \nAttachments: 2021.06.10_MDC_-_Maxwell_PASSWORD.pdf; 2021.06.10_MDC_-_Maxwell_MAIN.pdf \nHi all —  the disc is burned and ready to be sent out to MDC. Cover letters are attached and saved here. Thanks so much! \nFrom: \nSent: Thursday, June 10, 20218:56 AM \nTo: (USANYS) [Contractor] <:.; \n(USANYS) [Contractor] .ct: \nCc: \nSubject: Fwd: Maxwell \nHi all, \n(USANYS) [Contractor] \n(USANYS).ca \nPlease see below. Would one of you please prepare a new CD with a copy of this production dated 5/21/21 and send it to \nthe MDC for Maxwell? \nThanks, \nMaurene \nBegin forwarded message: \nFrom: \nDate: June 10, 2021 at 8:03:03 AM EDT \nTo: \" (USANYS)\" \nCc: \" \nSubject: Maxwell \nGood morning all, \nInmate Maxwell stated that the discovery disc sent over that is dated 5/21/21 does not work. Our computer services \nmanager looked into the complaints she made, and discovered the disc has a scratch on it. Can you please mail a new \none? \nSorry for the hassle! \nSophia \nx4744 \nEFTA00032001",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "or]\" \n(USANYS)\" \nSubject: RE: Maxwell \nDate: Thu, 10 Jun 2021 18:33:19 +0"
+      },
+      {
+        "name": "Maxwell \nHi",
+        "role": "extracted",
+        "context": "tor] .ct: \nCc: \nSubject: Fwd: Maxwell \nHi all, \n(USANYS) [Contractor]"
+      },
+      {
+        "name": "Maurene \nBegin",
+        "role": "extracted",
+        "context": "he MDC for Maxwell? \nThanks, \nMaurene \nBegin forwarded message: \nFrom: \nDa"
+      },
+      {
+        "name": "Maxwell \nGood",
+        "role": "extracted",
+        "context": "\" (USANYS)\" \nCc: \" \nSubject: Maxwell \nGood morning all, \nInmate Maxwell"
+      },
+      {
+        "name": "Inmate Maxwell",
+        "role": "extracted",
+        "context": ": Maxwell \nGood morning all, \nInmate Maxwell stated that the discovery dis"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-06-10",
+        "event": "June 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.396Z"
+}

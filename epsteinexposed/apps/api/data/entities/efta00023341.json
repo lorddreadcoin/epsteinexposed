@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00023341",
+    "filename": "EFTA00023341.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023341.pdf",
+    "text": "\n\nFrom: )\" \nSubject: RE: Steptoe \nDate: Mon, 09 Mar 2020 00:50:56 +0000 \nIndeed. \nFronS 1=> \nSent: Sunda , March 08, 2020 20:50 \nTo: \nSubject: Re: Steptoe \nCan't say I feel bad for Steptoe about this. \nSent from my iPhone \nOn Mar 8, 2020, at 7:05 PM, \noops \nwrote: \nhttps://www.detroitnews.com/story/news/local/michigan/2020/03/07/university-of-michigan-switches-firm-repped-\njeffery-epstein-roman-polanski-robert-anderson/4990660002/ \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00023341",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Steptoe \nDate",
+        "role": "extracted",
+        "context": "From: )\" \nSubject: RE: Steptoe \nDate: Mon, 09 Mar 2020 00:50:56 +0"
+      },
+      {
+        "name": "Steptoe \nCan",
+        "role": "extracted",
+        "context": "2020 20:50 \nTo: \nSubject: Re: Steptoe \nCan't say I feel bad for Steptoe"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "oe about this. \nSent from my iPhone \nOn Mar 8, 2020, at 7:05 PM, \noop"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "n/4990660002/ \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-08",
+        "event": "March 08, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "4990660002"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.759Z"
+}

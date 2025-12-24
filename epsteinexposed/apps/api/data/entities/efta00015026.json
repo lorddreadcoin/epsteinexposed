@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00015026",
+    "filename": "EFTA00015026.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015026.pdf",
+    "text": "\n\nFrom: gmail.com> \nTo: la>\nSubject: NYTimes: Attorney General Sees Too Much Secrecy in Epstein Estate \nDate: Tue, 28 Apr 2020 12:45:57 +0000 \nAttorney General Sees Too Much Secrecy in Epstein Estate \nhttps://www.nytimes.coin/2020/04/27/business/jeffrey-epstein-estate-secrecy.html?referringSource=articleShare \nEFTA00015026",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "m> \nTo: la>\nSubject: NYTimes: Attorney General Sees Too Much Secrecy in Epst"
+      },
+      {
+        "name": "Sees Too",
+        "role": "extracted",
+        "context": "ct: NYTimes: Attorney General Sees Too Much Secrecy in Epstein Estat"
+      },
+      {
+        "name": "Much Secrecy",
+        "role": "extracted",
+        "context": "es: Attorney General Sees Too Much Secrecy in Epstein Estate \nDate: Tue,"
+      },
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "eral Sees Too Much Secrecy in Epstein Estate \nDate: Tue, 28 Apr 2020 12:45"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.986Z"
+}

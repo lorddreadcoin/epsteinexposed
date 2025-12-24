@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018226",
+    "filename": "EFTA00018226.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018226.pdf",
+    "text": "\n\nFrom: Y) (FBI)\" \nafbi.gov> \nTo: \nANYS)\" \nSubject: Time to chat? \nDate: Thu, 05 Dec 2019 18:37:22 +0000 \nHi Ted, \nAny time this afternoon for a quick status call on Epstein? \nOn Nov \n25, 2019 3:29 PM, (USANYS)\" a wrote: \nLet me know if you have a few minutes to connect later today or tomorrow. Thanks \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00018226",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi Ted",
+        "role": "extracted",
+        "context": ", 05 Dec 2019 18:37:22 +0000 \nHi Ted, \nAny time this afternoon for"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "uick status call on Epstein? \nOn Nov \n25, 2019 3:29 PM, (USANYS)\""
+      },
+      {
+        "name": "Thanks \nCo",
+        "role": "extracted",
+        "context": "nect later today or tomorrow. Thanks \nCo-Chief, Public Corruption Unit"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "r tomorrow. Thanks \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00018226"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.450Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029634",
+    "filename": "EFTA00029634.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029634.pdf",
+    "text": "\n\nFrom: ' \nTo: ' (USANYS)\" .<1 \nCc: M'r\" <i \nk \nSubject: RE: Questionnaire - Hi We also need this one ASAP. Thanks \nDate: Fri, 24 Jan 2020 15:58:53 +0000 \nAttachments: Questionnairefor_Official_Foreign_Travel,fitockholm,_2020_).pdf \nMy questionnaire also attached. Note that my passport has five months until expiration — told me a  couple weeks \nago that was fine. \nFrom: \nSent: Friday, January 24, 2020 10:33 \nTo: (USANYS) \nSubject: RE: Questionnaire - Hi We also need this one ASAP. Thanks \n•fl \nAttached is my \nquestionairre \nFrom: (USANYS) \nSent: Friday, January 24, 2020 10:32 AM \nTo: \n>; \nSubject: Questionnaire - Hi We also need this one ASAP. Thanks \nImportance: High \nEFTA00029634",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi We",
+        "role": "extracted",
+        "context": "Subject: RE: Questionnaire - Hi We also need this one ASAP. Than"
+      },
+      {
+        "name": "Thanks \nDate",
+        "role": "extracted",
+        "context": "i We also need this one ASAP. Thanks \nDate: Fri, 24 Jan 2020 15:58:53 +0"
+      },
+      {
+        "name": "Thanks \nImportance",
+        "role": "extracted",
+        "context": "i We also need this one ASAP. Thanks \nImportance: High \nEFTA00029634"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-24",
+        "event": "January 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.844Z"
+}

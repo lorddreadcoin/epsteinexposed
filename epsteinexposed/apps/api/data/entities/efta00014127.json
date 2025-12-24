@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00014127",
+    "filename": "EFTA00014127.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014127.pdf",
+    "text": "\n\nFrom: Roy BLACK\nTo: (USAFLS)\" \nSubject: Re: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 17:17:54 +0000 \nImportance: Normal \nI am out of town. What is it about? \n>» \n(USAFLS)\"\n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this afternoon to discuss the Epstein \nmatter? Please let me know what time works best for you. \nThank you. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014127",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: Roy BLACK\nTo: (USAFLS)\" \nSubject: Re: Jeffrey Epstein \nDate: Wed, 30 Jul 2008 17:17:54 +0000 \nImportanc"
+      },
+      {
+        "name": "Dear Roy",
+        "role": "extracted",
+        "context": "AFLS)\"\n07/30/08 11:44 \nAM >» \nDear Roy: Are you available this after"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014127"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.207Z"
+}

@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00016391",
+    "filename": "EFTA00016391.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016391.pdf",
+    "text": "\n\nMod AO 442 (09/13) Arrest Warrant AUSA Name & Telno: \nUNITED STATES DISTRICT COURT \nfor the \nSouthern District of New York \nUnited States of America \nv. \nCase No. \nGhislaine Maxwell \nDefendant \nARREST WARRANT \nTo: Any authorized law enforcement officer \nYOU ARE COMMANDED to arrest and bring before a United States magistrate judge without unnecessary delay \n(name of person to be arrested) \nGhislaine Maxwell \nwho is accused of an offense or violation based on the following document filed with the court: \nW Indictment O Superseding Indictment O Information O Superseding Information O Complaint \nO Probation Violation Petition O Supervised Release Violation Petition O Violation Notice O Order of the Court \nThis offense is briefly described as follows: \nTitle 18, United States Code, Section 371 (conspiracy to entice minors) \nTitle 18, United States Code, Sections 2422 and 2 \n(enticement of a minor) \nTitle 18, United States Code, Section 371 (conspiracy to transport minors) \nTitle 18, United States Code, Sections 2423(a) and 2 (transportation of a minor) \nTitle 18, United States Code, Section 1623 (perjury) \nDate: \n06/29/2019 \nIssuing officer's signature \nCity \nand \nstate: \nWhite \nPlains. NY \nHon. Lisa Margaret Smith. U.S. Magistrate Judge \nPrinted name and title \nReturn \nThis warrant was received on (date) , and the person was attested on (date) \nat (city and state) \nDate: \nArresting officer's signature \nPrinted name and title \nEFTA00016391",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "New York \nUnited States of America \nv. \nCase No. \nGhislaine Maxwell \nDefendant \nARREST WARRANT \nTo: Any authorized la"
+      },
+      {
+        "name": "Arrest Warrant",
+        "role": "extracted",
+        "context": "Mod AO 442 (09/13) Arrest Warrant AUSA Name & Telno: \nUNITED ST"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ATES DISTRICT COURT \nfor the \nSouthern District of New York \nUnited States of"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "United States of America \nv. \nCase No. \nGhislaine Maxwell \nDefendan"
+      },
+      {
+        "name": "Superseding Indictment",
+        "role": "extracted",
+        "context": "th the court: \nW Indictment O Superseding Indictment O Information O Superseding I"
+      },
+      {
+        "name": "Superseding Information",
+        "role": "extracted",
+        "context": "ng Indictment O Information O Superseding Information O Complaint \nO Probation Viol"
+      },
+      {
+        "name": "Probation Violation",
+        "role": "extracted",
+        "context": "ng Information O Complaint \nO Probation Violation Petition O Supervised Release"
+      },
+      {
+        "name": "Supervised Release",
+        "role": "extracted",
+        "context": "robation Violation Petition O Supervised Release Violation Petition O Violatio"
+      },
+      {
+        "name": "Violation Petition",
+        "role": "extracted",
+        "context": "Petition O Supervised Release Violation Petition O Violation Notice O Order of"
+      },
+      {
+        "name": "Violation Notice",
+        "role": "extracted",
+        "context": "Release Violation Petition O Violation Notice O Order of the Court \nThis of"
+      },
+      {
+        "name": "Court \nThis",
+        "role": "extracted",
+        "context": "olation Notice O Order of the Court \nThis offense is briefly described"
+      },
+      {
+        "name": "White \nPlains",
+        "role": "extracted",
+        "context": "signature \nCity \nand \nstate: \nWhite \nPlains. NY \nHon. Lisa Margaret Smith"
+      },
+      {
+        "name": "Lisa Margaret",
+        "role": "extracted",
+        "context": "ate: \nWhite \nPlains. NY \nHon. Lisa Margaret Smith. U.S. Magistrate Judge"
+      },
+      {
+        "name": "Magistrate Judge",
+        "role": "extracted",
+        "context": "on. Lisa Margaret Smith. U.S. Magistrate Judge \nPrinted name and title \nRetu"
+      },
+      {
+        "name": "Return \nThis",
+        "role": "extracted",
+        "context": "udge \nPrinted name and title \nReturn \nThis warrant was received on (date"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-29",
+        "event": "06/29/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.582Z"
+}

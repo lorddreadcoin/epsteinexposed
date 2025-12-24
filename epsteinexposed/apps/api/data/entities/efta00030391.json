@@ -1,0 +1,56 @@
+{
+  "document": {
+    "id": "efta00030391",
+    "filename": "EFTA00030391.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030391.pdf",
+    "text": "\n\nFrom: ' (USANYS) [Contractor]\"  \nTo:' \nSubject: FW: Epstein search warrant documents \nDate: Mon, 13 Jul 2020 13:42:34 +0000 \nInline-Images: image001.png \nb\" \nFrom: (USANYS) [Contractor) \nSent: Monday, July 13, 2020 9:06 AM \nTo: . (NY) (FBI) <> \nSubject: RE: Epstein search warrant documents \n>   easystore (F:) >   BlacklightMacsNY \nName \nA \nDate modified Type \nA \nSize \nNYC024328 7/7/2020 11:35 AM File folder \nNYC024329 and 53 6/26/2020 1:36 PM File folder \nNYC024354 and 55 6/29/2020 9:50 AM File folder \nNYC024365 7/7/202010:17 AM File folder \nNYC024366 7/7/2020 10:52 AM File folder \nNYC024371 7/6/2020 11:11 AM File folder \nNYC024383 7/7/2020 9:51 AM File folder \n.DS Store 7/6/2020 3:37 PM DS STORE File \nFrom: (NY) (FBI) <> \nSent: Monday, July 13, 2020 9:01 AM \nTo: (USANYS) [Contractor] <> \nSubject: RE: Epstein search warrant documents \nSure. Give me a call at my desk. \nNYO CART Coordinator \nSenior Forensic Examiner \n(office) \n(cell) \n13 KB \nEFTA00030391",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "File \nFrom",
+        "role": "extracted",
+        "context": "ore 7/6/2020 3:37 PM DS STORE File \nFrom: (NY) (FBI) <> \nSent: Monday,"
+      },
+      {
+        "name": "Coordinator \nSenior",
+        "role": "extracted",
+        "context": "a call at my desk. \nNYO CART Coordinator \nSenior Forensic Examiner \n(office)"
+      },
+      {
+        "name": "Forensic Examiner",
+        "role": "extracted",
+        "context": "NYO CART Coordinator \nSenior Forensic Examiner \n(office) \n(cell) \n13 KB \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-07",
+        "event": "7/7/2020"
+      },
+      {
+        "date": "2020-06-26",
+        "event": "6/26/2020"
+      },
+      {
+        "date": "2020-06-29",
+        "event": "6/29/2020"
+      },
+      {
+        "date": "2020-07-06",
+        "event": "7/6/2020"
+      },
+      {
+        "date": "2020-07-13",
+        "event": "July 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.768Z"
+}

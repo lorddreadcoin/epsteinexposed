@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029864",
+    "filename": "EFTA00029864.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029864.pdf",
+    "text": "\n\nFrom: \nTo: S \nSubject: RE: Documents \nfor \n302 \nDate: Wed, 21 Jul 2021 22:00:26 +0000 \nAttachments: Vol.pdf \nAttached, thanksl \nFrom: ,=< \nSent: Wednesday, July 21, 2021 4:42 PM \nTo: \n) \nSubject: Documents for 302 \nHey \nCan you please send me the transcript that was shown to \nThanks, \nDetective \nNYED /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nduring our first interview with her? \nEFTA00029864",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey \nCan",
+        "role": "extracted",
+        "context": "Subject: Documents for 302 \nHey \nCan you please send me the transc"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "nks, \nDetective \nNYED /  FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ED /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nduring o"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nduring our first in"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-21",
+        "event": "July 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.408Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019684",
+    "filename": "EFTA00019684.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019684.pdf",
+    "text": "\n\nFrom: \"Weinstein, Marc A.\" -4 \nTo: \nCc: \n\"Tomback, Andrew\" -4 \nSubject: Epstein estate \nsubpoenas \nDate: Fri, 01 Nov 2019 20:39:18 +0000 \nAre any of you available for a quick chat? I'm preparing to send you the documents we discussed shortly, but we'd like to \ngive you a heads up on something first. \nThanks, \nMarc \nMarc A. Weinstein I Partner \nCo-Chair, White Collar Defense \nHughes Hubbard & Reed LLP \nThis message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not \ndisseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-\nmail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, \ndestroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this \nmessage, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version. \nEFTA00019684",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Marc \nMarc",
+        "role": "extracted",
+        "context": "on something first. \nThanks, \nMarc \nMarc A. Weinstein I Partner \nCo-Ch"
+      },
+      {
+        "name": "Partner \nCo",
+        "role": "extracted",
+        "context": "s, \nMarc \nMarc A. Weinstein I Partner \nCo-Chair, White Collar Defense"
+      },
+      {
+        "name": "White Collar",
+        "role": "extracted",
+        "context": "einstein I Partner \nCo-Chair, White Collar Defense \nHughes Hubbard & Ree"
+      },
+      {
+        "name": "Defense \nHughes",
+        "role": "extracted",
+        "context": "rtner \nCo-Chair, White Collar Defense \nHughes Hubbard & Reed LLP \nThis mess"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.383Z"
+}

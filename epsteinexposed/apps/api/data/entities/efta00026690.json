@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026690",
+    "filename": "EFTA00026690.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026690.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Avraham C. Moskowitz\" <1 \nSubject: RE: congrats! \nDate: Fri, 12 Jul 2019 00:24:32 +0000 \nImportance: Normal \nThanks very much, Avi \nFrom: Avraham C. Moskowitz \nSent: Thursday, July 11, 2019 5:59 PM \nTo: \nSubject: congratsl \nHeard you are handling the Epstein case. I know you will do a great job. Go get em, tiger. Save all of your \nsympathy for my poor, misunderstood clients. \nAvraham C. Moskowitz \nMoskowitz & Book, LLP \n345 Seventh Avenue \n21st Floor \nNew York, N.Y. 10001 \nEFTA00026690",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 00:24:32 +0000 \nImportance: Normal \nThanks very much, Avi \nFrom: Avraham"
+      },
+      {
+        "name": "Avi \nFrom",
+        "role": "extracted",
+        "context": "ce: Normal \nThanks very much, Avi \nFrom: Avraham C. Moskowitz \nSent:"
+      },
+      {
+        "name": "Moskowitz \nSent",
+        "role": "extracted",
+        "context": "y much, Avi \nFrom: Avraham C. Moskowitz \nSent: Thursday, July 11, 2019 5:59"
+      },
+      {
+        "name": "Moskowitz \nMoskowitz",
+        "role": "extracted",
+        "context": "derstood clients. \nAvraham C. Moskowitz \nMoskowitz & Book, LLP \n345 Seventh Aven"
+      },
+      {
+        "name": "Seventh Avenue",
+        "role": "extracted",
+        "context": "z \nMoskowitz & Book, LLP \n345 Seventh Avenue \n21st Floor \nNew York, N.Y. 1"
+      },
+      {
+        "name": "Floor \nNew",
+        "role": "extracted",
+        "context": "LLP \n345 Seventh Avenue \n21st Floor \nNew York, N.Y. 10001 \nEFTA0002669"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-11",
+        "event": "July 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.831Z"
+}

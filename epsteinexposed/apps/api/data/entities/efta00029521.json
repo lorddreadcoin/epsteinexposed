@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029521",
+    "filename": "EFTA00029521.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029521.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Epstein \nDate: Fri, 12 Jul 2019 11:24:14 +0000 \nImportance: Normal \nToday we are interviewing one employee referenced in indictment), the Today Show NY victim, \nand two Florida victims. \nWe are also likely to file bail response at 5 pm, the current deadline. Epstein is supposed to submit his financial \ninfo under seal by 9 am. We had asked for 24 hours from receiving that info to put in our brief, but judge has not \nruled — may be waiting to see what they put in. \nWe are aiming to get you a draft between 12 and 1. \nSent from my iPhone \nEFTA00029521",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Epstein \nDate: Fri, 12 Jul 2019 11:24:14 +0"
+      },
+      {
+        "name": "Normal \nToday",
+        "role": "extracted",
+        "context": "9 11:24:14 +0000 \nImportance: Normal \nToday we are interviewing one emplo"
+      },
+      {
+        "name": "Today Show",
+        "role": "extracted",
+        "context": "eferenced in indictment), the Today Show NY victim, \nand two Florida v"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.587Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00027653",
+    "filename": "EFTA00027653.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027653.pdf",
+    "text": "\n\nFrom: \nTo: Jeff Pa liuca , Laura Mennin er <\nSubject: 20cr330, US v. Maxwell \nDate: The, 09 Nov 2021 18:30:21 +0000 \nAttachments: 20cr330_Order docketed_11.8.21.pdf \nCounsel: \nThe attached Order was filed yesterday, which ordered a response by 12:00 p.m. today. See Dkt. No. 421. The \nCourt is not in receipt of the parties' response. \nSincerely, \nChambers of the Hon. \nAlison J. Nathan \nEFTA00027653",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": "From: \nTo: Jeff Pa liuca , Laura Mennin er <\nSub"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "From: \nTo: Jeff Pa liuca , Laura Mennin er <\nSubject: 20cr330, US v."
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "er <\nSubject: 20cr330, US v. Maxwell \nDate: The, 09 Nov 2021 18:30:21 +0"
+      },
+      {
+        "name": "See Dkt",
+        "role": "extracted",
+        "context": "response by 12:00 p.m. today. See Dkt. No. 421. The \nCourt is not i"
+      },
+      {
+        "name": "The \nCourt",
+        "role": "extracted",
+        "context": "p.m. today. See Dkt. No. 421. The \nCourt is not in receipt of the part"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.706Z"
+}

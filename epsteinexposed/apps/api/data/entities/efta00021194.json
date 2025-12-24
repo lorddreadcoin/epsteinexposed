@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00021194",
+    "filename": "EFTA00021194.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021194.pdf",
+    "text": "\n\nFrom: ' \nTo:' \"  < \nCc: '  \n< \nSubject: RE: GM - Draft Voir Dire \nDate: Tue, 28 Sep 2021 18:28:04 +0000 \nImportance: Normal \nAttachments: Proposed_Voir_Dire_v1.5.agm.aar.docx \n< \n(USANYS)\" \nJust a few more on top of those. \nThanks, Lara! \nFrom• \nSent: Tuesday, September 28, 2021 2:00 PM \nTo: (USANYS) \nCc: \nSubject: RE: GM - Draft Voir Dire \nThanks! A few things in the attached doc. \nFrom: (USANYS) \nSent: Tuesday, September 28, 2021 1:00 PM \nTo: \n<*; \nCc: \nSubject: GM - Draft \nVoir Dire \nHi team —  A draft VD attached for your review, a couple questions for your consideration. I'm going to send the jury \nquestionnaire and VD together to the chiefs later today. \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00021194",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Draft Voir",
+        "role": "extracted",
+        "context": "Cc: '  \n< \nSubject: RE: GM - Draft Voir Dire \nDate: Tue, 28 Sep 2021"
+      },
+      {
+        "name": "Dire \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: GM - Draft Voir Dire \nDate: Tue, 28 Sep 2021 18:28:04 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 18:28:04 +0000 \nImportance: Normal \nAttachments: Proposed_Voir_Dire_v1.5.agm."
+      },
+      {
+        "name": "Dire \nThanks",
+        "role": "extracted",
+        "context": "Subject: RE: GM - Draft Voir Dire \nThanks! A few things in the attached"
+      },
+      {
+        "name": "Draft \nVoir",
+        "role": "extracted",
+        "context": "To: \n<*; \nCc: \nSubject: GM - Draft \nVoir Dire \nHi team —  A draft VD a"
+      },
+      {
+        "name": "Dire \nHi",
+        "role": "extracted",
+        "context": "c: \nSubject: GM - Draft \nVoir Dire \nHi team —  A draft VD attached f"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "r to the chiefs later today. \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ater today. \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-28",
+        "event": "September 28, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.183Z"
+}

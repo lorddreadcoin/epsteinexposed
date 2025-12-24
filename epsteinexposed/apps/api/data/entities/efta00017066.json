@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017066",
+    "filename": "EFTA00017066.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017066.pdf",
+    "text": "\n\nFrom: .11\n\" \nTo: MM. .S\" \nSubject: RE: Unsealing \nDate: Sat, 01 Aug 2020 17:48:17 +0000 \nYeah, that's what all this week's fighting with Boies has been about. The Circuit has now given them until the \n20th to brief it, I think, so we can ask Boies about this in advance, but the documents have victim names \nredacted, for example --\nhttps://apps.npr.org/documents/document.html?id=7011492a)eposition-May-2016 \nThat redacts name, for example. \nThough it wouldn't be new information that was approached by Epstein and Maxwell and interacted with \nthem, given comments to the press previously. \n Ori inal Messa e \nFrom:\nSent: Friday, July 31, 2020 22:51 \nTo: \nSubject: Unsealing \nI didn't realize Maxwell's deposition is being unsealed in the litigation before Judge Preska. Is that right? I saw \nan article suggesting that will be released in the batch of documents, but wasn't sure. is named in it, \nobviously, so that raises concerns about victim confidentiality. \nSent from my iPhone \nEFTA00017066",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Unsealing \nDate",
+        "role": "extracted",
+        "context": "\" \nTo: MM. .S\" \nSubject: RE: Unsealing \nDate: Sat, 01 Aug 2020 17:48:17 +0"
+      },
+      {
+        "name": "The Circuit",
+        "role": "extracted",
+        "context": "ng with Boies has been about. The Circuit has now given them until the"
+      },
+      {
+        "name": "Judge Preska",
+        "role": "extracted",
+        "context": "aled in the litigation before Judge Preska. Is that right? I saw \nan art"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-31",
+        "event": "July 31, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.936Z"
+}

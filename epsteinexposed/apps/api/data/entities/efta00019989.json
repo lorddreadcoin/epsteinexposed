@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019989",
+    "filename": "EFTA00019989.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019989.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: US v. Epstein \nDate: Fri, 23 Aug 2019 03:52:43 +0000 \nGreat —  thanks very much! \n(And for —  these are the dots from the FOIA office, which likely are largely duplicative of the Florida \ncase files that are currently separately being processed, but we obviously wanted to get them uploaded in any event.) \nFrom: \nSent: Thursday, August 22, 2019 09:11 \nTo: \nSubject: US v. Epstein \nHello \nThe first set of PDF files that was processed by the vendor has been loaded to Relativity and is available for review. Please \nlet me know if there are any questions. \nThank you. \nEFTA00019989",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: RE: US v. Epstein \nDate: Fri, 23 Aug 2019 03:52:43 +0"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "19 09:11 \nTo: \nSubject: US v. Epstein \nHello \nThe first set of PDF files t"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-22",
+        "event": "August 22, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.995Z"
+}

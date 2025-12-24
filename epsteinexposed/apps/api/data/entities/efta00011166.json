@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00011166",
+    "filename": "EFTA00011166.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011166.pdf",
+    "text": "\n\nFrom: \n\" \nTo: r \nBcc: \"USAHUB-USAJoumal111\" <IMINE> \nSubject: FW: Search Terms for Maxwell \nCase \nDate: Tue, 08 Dec 2020 18:10:18 +0000 \nEmbedded: FW:_Search_Terms_for \nMaxwell_Case.msg \n(USANYS)\" \nSender: \nSubject: FW: Search Terms for Maxwell Case \nMessage-Id: \n<SN5P110MB05420AAD754412C9B276B2.9B92CD0@SN5P110MB0542.NAMP110.PROD.OUTLOOK.CO \nM> \nTo: \nTo: \nEFTA00011166",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Terms",
+        "role": "extracted",
+        "context": "mal111\" <IMINE> \nSubject: FW: Search Terms for Maxwell \nCase \nDate: Tue,"
+      },
+      {
+        "name": "Maxwell \nCase",
+        "role": "extracted",
+        "context": "Subject: FW: Search Terms for Maxwell \nCase \nDate: Tue, 08 Dec 2020 18:10"
+      },
+      {
+        "name": "Maxwell Case",
+        "role": "extracted",
+        "context": "Subject: FW: Search Terms for Maxwell Case \nMessage-Id: \n<SN5P110MB05420"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.239Z"
+}

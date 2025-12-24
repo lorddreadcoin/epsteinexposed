@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00020364",
+    "filename": "EFTA00020364.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020364.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n(NY) (FBI)\" <I \nSubject: RE: GM bank accounts \nDate: Thu, 02 Jul 2020 14:01:50 +0000 \nAttachments: SUMMARY_OF_MAXWELL_BANK_ACCTS_VI.pdf; \nSUMMARY OF MAXWELL CREDIT CARDS ACCTS_VI.pdf \nI have attached the schedule of bank accounts you requested. Additionally, I have attached a schedule of credit cards. \nPlease contact me if you have any questions. \nBest \nFrom: [mailto \nSent: Wednesday, July 01, 2020 12:46 PM \nTo: \n(NY) (FBI) cln:* \nCc: (NY) (FBI) .:>; \nSubject: GM bank accounts \nWith apologies for the quick turn around on this, could you please send us a list of all known bank accounts held in \nMaxwell's name (or otherwise associated with her)? For those accounts, please provide the last year/month we have \naccount statements for, whether we know if the account is still open, and the account balance as of that statement. On \nthe list, please include accounts that we are aware of but do not yet have information for. If you could please send this \ntoday, that would be ideal. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020364",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Best \nFrom",
+        "role": "extracted",
+        "context": "e if you have any questions. \nBest \nFrom: [mailto \nSent: Wednesday, Ju"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hat would be ideal. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00020364"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-01",
+        "event": "July 01, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.709Z"
+}

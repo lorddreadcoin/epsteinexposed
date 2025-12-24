@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00029804",
+    "filename": "EFTA00029804.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029804.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: any of you have vouchers for Epstein victims. \nDate: Fri, 15 Nov 2019 21:44:16 +0000 \nShe was paid. secretary, sent me an email apologizing. It was no big deal. \nFrom: \nSent: Friday, November 15, 2019 4:37 PM \nTo: \nCc: \nSubject: RE: any of you have vouchers for Epstein victims. \nI don't either \nFrom: \nSent: urs ay, ovem er \nTo: \nCc: \nSubject: Re: any of you have vouchers for Epstein victims. \nI don't \nSent from my iPhone \nOn Nov 14, 2019, at 09:50, \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nTel. \nwrote: \nEFTA00029804",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: any of you"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: any of you have vouchers"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "tims. \nI don't \nSent from my iPhone \nOn Nov 14, 2019, at 09:50, \nVict"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "On Nov 14, 2019, at 09:50, \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "19, at 09:50, \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "n District of New York \n1 St. Andrews Plaza \nNew York, New York 10007 \nTe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-15",
+        "event": "November 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.266Z"
+}

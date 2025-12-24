@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017997",
+    "filename": "EFTA00017997.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017997.pdf",
+    "text": "\n\nFrom: \n\"\nTo: \nCc: I\nMIar\" c\na\", . \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Mon, 20 Sep 2021 15:26:13 +0000 \nII \nH \nHope you're both doing well. We'd like to speak with both of you about the upcoming trial in this case. Could you please \nlet us know your availability for a call this week? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00017997",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": ": \nCc: I\nMIar\" c\na\", . \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Mon, 20 Sep 2021 15:26:1"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "his week? \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.995Z"
+}

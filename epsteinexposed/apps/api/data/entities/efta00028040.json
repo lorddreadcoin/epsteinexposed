@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028040",
+    "filename": "EFTA00028040.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028040.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n(USANYS) \n[Contractot \n<=1=IMIIM> \n[USANYS \nCc: (USANYS)\" \nalMIE> \nSubject: inquiry from Daily News for upcoming Epstein story \nDate: Fri, 28 Feb 2020 21:16:13 +0000 \nSANYS \" \nStephen Brown is working on a story about the ongoing investigation into possible co-conspirators of Jeffrey Epstein. The \nstory will probably appear in Monday's editions of the News. He's seeking (but not expecting, necessarily) guidance on \nthe following: \n• The investigation is looking into Ghislaine Maxwell and \n• Did massage recipients know the girls giving the massages were underage? \n• Re Epstein's girlfriend is she viewed as a victim? \nEFTA00028040",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ng investigation into possible co-conspirators of Jeffrey Epstein. The \nstory will probably appear in Monday's edit"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "e following: \n• The investigation is looking into Ghislaine Maxwell and \n• Did massage recipients know the girls givi"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "alMIE> \nSubject: inquiry from Daily News for upcoming Epstein story \nD"
+      },
+      {
+        "name": "Stephen Brown",
+        "role": "extracted",
+        "context": "2020 21:16:13 +0000 \nSANYS \" \nStephen Brown is working on a story about t"
+      },
+      {
+        "name": "Re Epstein",
+        "role": "extracted",
+        "context": "he massages were underage? \n• Re Epstein's girlfriend is she viewed as"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.512Z"
+}

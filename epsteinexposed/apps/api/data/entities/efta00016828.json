@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016828",
+    "filename": "EFTA00016828.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016828.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nsay \nSubject: flight records \nDate: Wed, 22 Jan 2020 20:24:16 +0000 \nLooking at the logs for Epstein's jet, I'm not seeing any flights to London the entire year that she was 17 (but if you could \ndouble check me on that, I'd appreciate it). Do you have Epstein's immigration records from the /90s? If so, could you \nplease let me know if you see any record of him flying to/from London between March 1994 and March 1995? \nThanks—\nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00016828",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "1994 and March 1995? \nThanks—\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "95? \nThanks—\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York. NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00016828"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.454Z"
+}

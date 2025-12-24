@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026466",
+    "filename": "EFTA00026466.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026466.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: ' \nSubject: RE: relativity \nDate: Sun, 24 Jan 2021 23:03:33 +0000 \nYes, that sounds about right to me. As I recall, there were not a lot of emails between Epstein and Maxwell, and the \nmajority of the Maxwell emails came from just one of the thumb drives in the New York residence. \nFrom: \nSent: Friday, January 22, 2021 3:49 PM \nTo: \nCc: \nSubject: relativity \n> \nWhen I run the term \"gmax\" as a search term in the search warrant database, I'm getting only 3,835 hits. That seems low \nto me. Is that right? I know you're on the road, so no rush, but when you have a chance to check that would be helpful. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00026466",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "t would be helpful. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00026466"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-22",
+        "event": "January 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.393Z"
+}

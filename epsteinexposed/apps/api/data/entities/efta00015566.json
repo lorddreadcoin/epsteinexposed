@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015566",
+    "filename": "EFTA00015566.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015566.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: GSA Meeting Attendees \nDate: Mon, 01 Jul 2019 13:59:51 +0000 \nImportance: Normal \nFYI. I have an appointment with my cardiologist that conflicts with this meeting and with the Epstein meeting. I have \nalready rescheduled this appointment a couple of times so I think that I need to keep this appointment. \nWhat's the purpose of the GSA meeting? \nFrom: \nSent: Monday, July 1, 2019 9:57 AM \nTo: \nSubject: GSA Meeting Attendees \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00015566",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Meeting Attendees",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: GSA Meeting Attendees \nDate: Mon, 01 Jul 2019 13:59"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "bject: GSA Meeting Attendees \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00015566"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-01",
+        "event": "July 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.988Z"
+}

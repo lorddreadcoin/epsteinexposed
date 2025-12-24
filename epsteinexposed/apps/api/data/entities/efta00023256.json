@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023256",
+    "filename": "EFTA00023256.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023256.pdf",
+    "text": "\n\nFrom: \nTo: \nBee: aMIE> \nSubject: \nSearch Terms for Emails \nDate: Fri, 04 Dec 2020 00:36:28 +0000 \nEmbedded: Search_ Terms_ foraEmails.msg \nSender \nSubject: Search Terms for Emails \nMessa \nTo: \nTo: \nEFTA00023256",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Terms",
+        "role": "extracted",
+        "context": ": \nTo: \nBee: aMIE> \nSubject: \nSearch Terms for Emails \nDate: Fri, 04 Dec"
+      },
+      {
+        "name": "Emails \nDate",
+        "role": "extracted",
+        "context": "> \nSubject: \nSearch Terms for Emails \nDate: Fri, 04 Dec 2020 00:36:28 +0"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "earch_ Terms_ foraEmails.msg \nSender \nSubject: Search Terms for Emails \nMes"
+      },
+      {
+        "name": "Emails \nMessa",
+        "role": "extracted",
+        "context": "er \nSubject: Search Terms for Emails \nMessa \nTo: \nTo: \nEFTA00023256"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.563Z"
+}

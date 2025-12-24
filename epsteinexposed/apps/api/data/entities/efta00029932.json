@@ -1,0 +1,99 @@
+{
+  "document": {
+    "id": "efta00029932",
+    "filename": "EFTA00029932.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029932.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"\nTo: ' \n\" \nCc: \" \nSubject: FW: Maxwell Follow Up \nDate: Thu, 29 Jul 2021 22:12:36 +0000 \nFYI, here is what told me back in February but worth asking your contact. Thanks very much! \nFrom: \nSent: Monday, February 22, 2021 4:45 PM \nTo: (USANYS) < (NY) (FBI) < \nCc: \n< \nSubject: Re: Maxwell Follow Up \nHey , \nFedex only retains records for 1 to 5 years depending on which method they use (ground...freight etc.). \nWe are still waiting on an answer from Victoria Secret. Will let you know as soon as I  know. \n< \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom: (USANYS). \nSent: Wednesday, February 17, 2021 11:34 AM \nTo: . (NY) (FBI) <.1\n:*; \nCc: \nSubject: Maxwell Follow Up \nHi M• \nI hope you both are well. We wanted to follow up on a few additional items: \n• Contact Victoria Secret and FedEx regarding retention of documents/how far back they keep materials \n• Review of images for photos of \n• Follow up with ALAI regarding UK travel records for Maxwell and Epstein \nEFTA00029932\n\nHappy to discuss if you have any questions. \nThanks very much, \nM \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00029933",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Follow",
+        "role": "extracted",
+        "context": "To: ' \n\" \nCc: \" \nSubject: FW: Maxwell Follow Up \nDate: Thu, 29 Jul 2021 22"
+      },
+      {
+        "name": "Up \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: Maxwell Follow Up \nDate: Thu, 29 Jul 2021 22:12:36 +0"
+      },
+      {
+        "name": "Up \nHey",
+        "role": "extracted",
+        "context": "Subject: Re: Maxwell Follow Up \nHey , \nFedex only retains records"
+      },
+      {
+        "name": "Victoria Secret",
+        "role": "extracted",
+        "context": "ill waiting on an answer from Victoria Secret. Will let you know as soon as"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "w. \n< \nDetective \nNYPD / FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nFrom:"
+      },
+      {
+        "name": "Up \nHi",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Maxwell Follow Up \nHi M• \nI hope you both are well."
+      },
+      {
+        "name": "Contact Victoria",
+        "role": "extracted",
+        "context": "on a few additional items: \n• Contact Victoria Secret and FedEx regarding re"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tions. \nThanks very much, \nM \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ry much, \nM \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-02-22",
+        "event": "February 22, 2021"
+      },
+      {
+        "date": "2021-02-17",
+        "event": "February 17, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.570Z"
+}

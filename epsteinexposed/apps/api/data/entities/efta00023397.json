@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00023397",
+    "filename": "EFTA00023397.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023397.pdf",
+    "text": "\n\nFrom: (USANYS)\" ‹\n> \nTo: '\nYS)\" \n' \nCc: \nSubject: \nDate: \nAttachments: \n(USANYS)\" \n(USANYS)\" \naIS> \nFinCEN/Bank Letters \nMon, 31 Aug 2020 15:17:45 +0000 \nBNYM \nICIJ \nletter.pdf; BuzzFeed_Email to_Standard_Chartered.pdf; \nCitibani Coinment Letter.pdf; Deutsche—Bank letter_FINAL.PDF; \nJettir_8.20 1-1§BC.pdf; JPMCJCIL- Requat for_Comment_WMorgan_Chase.pdf; \nLetter_from BB—c_Panorama_to Barclays_Bank i9.08.20.pdf; \nOcean \nBanli_Comment_Lettera PNC ICILLT:r_08-17-20.pdf; \nU.S.fentuty_Bank_Comment Letter.pdi; Barclays_Conunent_Letter_pdf.pdf; \nBanescoUSA.com_Mail -  Fwcf solicitud de comentario.pdf; \nICU Letter Banesco_Qt7te;tionsTdf; First_Reputilic:Bank 1st email from BuzzFeed_7-\n14-27,20.pdr.; First Republic_Bankind email from BuzOeeci 8-1772020.idf; \nLetter_to_FinCEN—Je_SAR_Request_(luzzFeed)icugust_6,_27320.pdf \nSee attached. \nEFTA00023397",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bank Letters",
+        "role": "extracted",
+        "context": "YS)\" \n(USANYS)\" \naIS> \nFinCEN/Bank Letters \nMon, 31 Aug 2020 15:17:45 +0"
+      },
+      {
+        "name": "Citibani Coinment",
+        "role": "extracted",
+        "context": "l to_Standard_Chartered.pdf; \nCitibani Coinment Letter.pdf; Deutsche—Bank let"
+      },
+      {
+        "name": "Ocean \nBanli",
+        "role": "extracted",
+        "context": "Barclays_Bank i9.08.20.pdf; \nOcean \nBanli_Comment_Lettera PNC ICILLT:r_"
+      },
+      {
+        "name": "Comment Letter",
+        "role": "extracted",
+        "context": "-17-20.pdf; \nU.S.fentuty_Bank_Comment Letter.pdi; Barclays_Conunent_Letter"
+      },
+      {
+        "name": "Letter Banesco",
+        "role": "extracted",
+        "context": "citud de comentario.pdf; \nICU Letter Banesco_Qt7te;tionsTdf; First_Reputil"
+      },
+      {
+        "name": "First Republic",
+        "role": "extracted",
+        "context": "om BuzzFeed_7-\n14-27,20.pdr.; First Republic_Bankind email from BuzOeeci 8"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.880Z"
+}

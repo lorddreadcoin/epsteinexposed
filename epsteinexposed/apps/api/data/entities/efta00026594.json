@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026594",
+    "filename": "EFTA00026594.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026594.pdf",
+    "text": "\n\nFrom: \nCc: \nI \n\" '\nSubject: \nSeverance opp \nDate: Sun, 21 Feb 2021 22:42:32 +0000 \nAttachments: Severance_draft_v7.docx; Memo_of Law_ISO_Motionfor Severance.pdf \nHi \nAttached for your review is a draft of the opposition to Maxwell's motion to sever the perjury counts, along with a copy of \nthat motion. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00026594",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Motionfor Severance",
+        "role": "extracted",
+        "context": "raft_v7.docx; Memo_of Law_ISO_Motionfor Severance.pdf \nHi \nAttached for your re"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "_ISO_Motionfor Severance.pdf \nHi \nAttached for your review is a draft of"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "py of \nthat motion. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "n. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.632Z"
+}

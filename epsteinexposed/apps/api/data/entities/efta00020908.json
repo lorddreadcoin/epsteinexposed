@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00020908",
+    "filename": "EFTA00020908.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020908.pdf",
+    "text": "\n\nFrom: \"Stoddart, Allison\" \nTo:1 \nCc: \"Sahni. Arian\" \nSubject: JPMorgan Chase Production \nDate: Fri, 15 Nov 2019 23:48:32 +0000 \nAttachments: 2019-11-15 SDNY Letter.pdf \nAttached is a letter on behalf of our client, JPMorgan Chase, which is also being sent via FedEx. The password for the disc \nis: \\E%z{.5B&8bhV73j \nPlease let us know if you have any issues accessing the materials. \nThank you, \nAllison \nAllison Stoddart I  WilmerHale \n7 World Trade Center \n250 Greenwich Street \nNew York, NY 10007 USA \nPlease consider the environment before printing this email. \nThis email message and any attachments are being sent by Wilmer Cutler Pickering Hale and Dort LLP, are confidential, and may be privileged. If you are not \nthe intended recipient, please notify us immediately—by replying to this message or by sending an email to postmasterewilmerhale.com —and destroy all \ncopies of this message and any attachments. Thank you. \nFor more information about WilmerHale, please visit us at http://www.wilmerhale.com.\nEFTA00020908",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Morgan Chase",
+        "role": "extracted",
+        "context": "c: \"Sahni. Arian\" \nSubject: JPMorgan Chase Production \nDate: Fri, 15 Nov"
+      },
+      {
+        "name": "Production \nDate",
+        "role": "extracted",
+        "context": "ian\" \nSubject: JPMorgan Chase Production \nDate: Fri, 15 Nov 2019 23:48:32 +0"
+      },
+      {
+        "name": "Allison \nAllison",
+        "role": "extracted",
+        "context": "g the materials. \nThank you, \nAllison \nAllison Stoddart I  WilmerHale \n7 Wor"
+      },
+      {
+        "name": "World Trade",
+        "role": "extracted",
+        "context": "son Stoddart I  WilmerHale \n7 World Trade Center \n250 Greenwich Street"
+      },
+      {
+        "name": "Greenwich Street",
+        "role": "extracted",
+        "context": "le \n7 World Trade Center \n250 Greenwich Street \nNew York, NY 10007 USA \nPlea"
+      },
+      {
+        "name": "Wilmer Cutler",
+        "role": "extracted",
+        "context": "attachments are being sent by Wilmer Cutler Pickering Hale and Dort LLP,"
+      },
+      {
+        "name": "Pickering Hale",
+        "role": "extracted",
+        "context": "e being sent by Wilmer Cutler Pickering Hale and Dort LLP, are confidentia"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-15",
+        "event": "2019-11-15"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.596Z"
+}

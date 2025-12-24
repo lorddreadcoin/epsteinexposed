@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032476",
+    "filename": "EFTA00032476.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032476.pdf",
+    "text": "\n\nFrom: \nTo: \nalMIE\n>\nII • \nSubject: RE: LA witnesses \nDate: Thu, 22 Jul 2021 16:07:46 +0000 \nAttachments: \nJust gave you the binder, but if you ever want an electronic version, the pdf portfolio is attachecl \nFrom: \nI <-I> \nSent: Wednesday, July 21, 2021 6:14 PM \nTo: \n<1.\n› ; \nSubject: LA witnesses \nHi all, \nMI and I are heading to Los Angeles in late August to prep with a number of trial witnesses in the Maxwell case. In \nadvance of the trip, I'm going to begin drafting q&as, and it would be super helpful to have a binder with some \ninformation about two of the witnesses. When you can, could someone please put together a binder with all witness \ninterview notes and 302s for the following two witnesses? Thanks so much. No labels on the binders needed — just tabs \nwith dates of interviews would be great (e.g., M., 7-6-19 interview). \n• \n• \nThese materials should be in their 3500 folders. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nEFTA00032476",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "their 3500 folders. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00032476"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-21",
+        "event": "July 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.734Z"
+}

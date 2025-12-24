@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00029024",
+    "filename": "EFTA00029024.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029024.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Palm Beach Police Reports \nDate: Wed, 19 Aug 2020 15:33:05 —0000 \nAttachments: Palm Beach Police Reports.pdf \nHere's the full PDF. We have this in different formats from various sources (some of which were redacted). Here's an \nunredacted version, from FBI. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029024",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Palm Beach Police Reports \nDate: Wed, 19"
+      },
+      {
+        "name": "Police Reports",
+        "role": "extracted",
+        "context": "om: \nTo: \nSubject: Palm Beach Police Reports \nDate: Wed, 19 Aug 2020 15:33"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nredacted version, from FBI. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": ", from FBI. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029024"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.638Z"
+}

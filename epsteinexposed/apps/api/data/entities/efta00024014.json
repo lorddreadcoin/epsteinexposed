@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00024014",
+    "filename": "EFTA00024014.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024014.pdf",
+    "text": "\n\nEvent: Epstein FOIA Moot \nStart Date: 2021-04-07 20:00:00 +0000 \nEnd Date: 2021-04-07 20:30:00 +0000 \nOrganizer: \nLocation: \nClass: X-PERSONAL \nDate Created: 2021-03-26 19:38:14 +0000 \nDate Modified: 2021-03-26 19:38:14 +0000 \nPriority: 5 \nDTSTAMP: 2021-03-26 19:15:16 +0000 \nAttendee: \nAlarm: Display the following message 15m before start \nReminder \nEFTA00024014",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Moot \nStart",
+        "role": "extracted",
+        "context": "Event: Epstein FOIA Moot \nStart Date: 2021-04-07 20:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-04-07 20:00:00 +0000 \nEnd Date: 2021-04-07 20:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Location: \nClass: X-PERSONAL \nDate Created: 2021-03-26 19:38:14 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-03-26 19:38:14 +0000 \nDate Modified: 2021-03-26 19:38:14 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-07",
+        "event": "2021-04-07"
+      },
+      {
+        "date": "2021-03-26",
+        "event": "2021-03-26"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.093Z"
+}

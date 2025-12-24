@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013732",
+    "filename": "EFTA00013732.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013732.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject:Epstein \nDate: Wed, 11 Jun 2008 14:02:18 +0000 \nImportance: Normal \nWould you guys be available Friday morning by telephone to discuss? \nEFTA00013732",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject:Epstein \nDate: Wed, 11 Jun 2008 14:02:18 +0"
+      },
+      {
+        "name": "Normal \nWould",
+        "role": "extracted",
+        "context": "8 14:02:18 +0000 \nImportance: Normal \nWould you guys be available Friday"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.270Z"
+}

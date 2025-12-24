@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00014169",
+    "filename": "EFTA00014169.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014169.pdf",
+    "text": "\n\nEvent: Updated: Conference Call re: Epstein \nStart Date: 2007-09-27 19:45:00 +0000 \nEnd Date: 2007-09-27 20:00:00 +0000 \nOrganizer: Acosta, Alex (USAFLS) \nLocation: Alex's Office \nClass: X-PERSONAL \nDate Created: 2007-09-27 15:18:56 +0000 \nDate Modified: 2010-11-11 02:32:07 +0000 \nPriority: 5 \nDTSTAMP: 2007-09-27 15:18:50 +0000 \nAttendee: \nEFTA00014169",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Conference Call",
+        "role": "extracted",
+        "context": "Event: Updated: Conference Call re: Epstein \nStart Date: 2007"
+      },
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "Updated: Conference Call re: Epstein \nStart Date: 2007-09-27 19:45:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2007-09-27 19:45:00 +0000 \nEnd Date: 2007-09-27 20:00:00 +0000 \nO"
+      },
+      {
+        "name": "Office \nClass",
+        "role": "extracted",
+        "context": "ex (USAFLS) \nLocation: Alex's Office \nClass: X-PERSONAL \nDate Created: 20"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "'s Office \nClass: X-PERSONAL \nDate Created: 2007-09-27 15:18:56 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2007-09-27 15:18:56 +0000 \nDate Modified: 2010-11-11 02:32:07 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-09-27",
+        "event": "2007-09-27"
+      },
+      {
+        "date": "2010-11-11",
+        "event": "2010-11-11"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.308Z"
+}

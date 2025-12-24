@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031827",
+    "filename": "EFTA00031827.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031827.pdf",
+    "text": "\n\nFrom: Stan Pottinger\nTo: \" \ny\nSubject: RE: Jeffrey Epstein's disregard for environmental protections showed his disrespect for the law, \nVirgin Islands says - \nCNN \nDate: Fri, 17 Jan 2020 01:04:15 +0000 \nThis lawsuit is nearly hilarious \nSent from my Wrizon, Samsung Galaxy smartphone \n Original \nmessage ------\nFrom: '\ny\nDate: 1/16/20 4:24 PM (GMT-08:00) \nTo: Stan Pottinger \nSubject: RE: Jeffrey Epstein's disregard for environmental protections showed his disrespect for the law, Virgin \nIslands says - CNN \nAh yes, Jeffrey Epstein, the world-historically appalling . . . polluter. \nFrom: Stan Pottinger \nSent: Thursday, January 16, 2020 18:58 \nTo: \nSubject: Jeffrey Epstein's disregard for environmental protections showed his disrespect for the law, Virgin Islands says -\nCNN \nhups://www.cnn.com/2020/01/16/us/jeffrey-epstein-virgin-islands-environment/index.html \nSent from my Verizon, Samsung Galaxy smartphonc \nEFTA00031827",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: Stan Pottinger\nTo: \" \ny\nSubject: RE: Jeffrey Epstein's disregard for environmental protections showed"
+      },
+      {
+        "name": "Stan Pottinger",
+        "role": "extracted",
+        "context": "From: Stan Pottinger\nTo: \" \ny\nSubject: RE: Jeffrey"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "his disrespect for the law, \nVirgin Islands says - \nCNN \nDate: Fri, 17 Ja"
+      },
+      {
+        "name": "Samsung Galaxy",
+        "role": "extracted",
+        "context": "larious \nSent from my Wrizon, Samsung Galaxy smartphone \n Original \nmessag"
+      },
+      {
+        "name": "Virgin \nIslands",
+        "role": "extracted",
+        "context": "d his disrespect for the law, Virgin \nIslands says - CNN \nAh yes, Jeffrey E"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-16",
+        "event": "January 16, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.984Z"
+}

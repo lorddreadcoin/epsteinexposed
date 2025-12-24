@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013921",
+    "filename": "EFTA00013921.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013921.pdf",
+    "text": "\n\nFrom: (USAFLS)\" \nTo: (USAFLS)\" \nBcc: \n(USAFLS)\" \nalMIN> \nSubject: Re: Epstein \nDate: Tue, 27 May 2008 17:20:27 +0000 \nImportance: Normal \nPlease tell me you that you are joking. Maybe we should throw him a party and tell him we are sorry to have bothered him. \n--- Original Message \nFrom: \n(USAFLS) \nTo: (USAFLS) \nSent: Tue May 27 10:27:10 2008 \nSubject: Epstein \nDon't know what is up but Barry talked to \n...he said. I \nand according to said something about 90 days in jail. is talking to \nEFTA00013921",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "SAFLS)\" \nalMIN> \nSubject: Re: Epstein \nDate: Tue, 27 May 2008 17:20:27 +0"
+      },
+      {
+        "name": "Normal \nPlease",
+        "role": "extracted",
+        "context": "8 17:20:27 +0000 \nImportance: Normal \nPlease tell me you that you are joki"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ry to have bothered him. \n--- Original Message \nFrom: \n(USAFLS) \nTo: (USAFLS"
+      },
+      {
+        "name": "Tue May",
+        "role": "extracted",
+        "context": "(USAFLS) \nTo: (USAFLS) \nSent: Tue May 27 10:27:10 2008 \nSubject: Ep"
+      },
+      {
+        "name": "Epstein \nDon",
+        "role": "extracted",
+        "context": "ay 27 10:27:10 2008 \nSubject: Epstein \nDon't know what is up but Barry t"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-05-27",
+        "event": "27 May 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.745Z"
+}

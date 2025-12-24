@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015192",
+    "filename": "EFTA00015192.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015192.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Necheles Submission \nDate: Mon, 20 Jul 2020 16:08:38 +0000 \nAttachments: ilea_submission,_with_attachments.pdf \nAttached \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00015192",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Necheles Submission",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Necheles Submission \nDate: Mon, 20 Jul 2020 16:08"
+      },
+      {
+        "name": "Attached \nCounsel",
+        "role": "extracted",
+        "context": "ission,_with_attachments.pdf \nAttached \nCounsel to the Acting U.S. Attorney"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "d \nCounsel to the Acting U.S. Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Acting U.S. Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.178Z"
+}

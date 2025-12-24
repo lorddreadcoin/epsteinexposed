@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00022196",
+    "filename": "EFTA00022196.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022196.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Letter to Pseudonym Conferral \nDate: Wed, 01 Dec 2021 02:55:45 +0000 \nAttachments: 2021-11-30_GM_pseudonym_order letter [final].pdf \nChambers, \nPlease see the attached letter regarding the Court's pseudonym order. The Government respectfully submits this letter \nunder seal. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00022196",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Pseudonym Conferral",
+        "role": "extracted",
+        "context": "20 Cr. 330 (AJN) - Letter to Pseudonym Conferral \nDate: Wed, 01 Dec 2021 02:55"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "the Court's pseudonym order. The Government respectfully submits this let"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00022196"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.222Z"
+}

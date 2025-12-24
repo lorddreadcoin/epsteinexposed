@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00017960",
+    "filename": "EFTA00017960.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017960.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Epstein \nDate: Thu, 09 May 2019 20:41:16 +0000 \nImportance: Normal \nWould you swing by when you have a second? \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel \nEFTA00017960",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Epstein \nDate: Thu, 09 May 2019 20:41:16 +0"
+      },
+      {
+        "name": "Normal \nWould",
+        "role": "extracted",
+        "context": "9 20:41:16 +0000 \nImportance: Normal \nWould you swing by when you have a"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "you have a second? \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel \nEFTA0001796"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-05-09",
+        "event": "09 May 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.944Z"
+}

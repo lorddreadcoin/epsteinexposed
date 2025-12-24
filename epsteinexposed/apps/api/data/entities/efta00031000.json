@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031000",
+    "filename": "EFTA00031000.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031000.pdf",
+    "text": "\n\nDetails \nSave \nName: \nType: \nSize (bytes): \nPath: \nCreated: \nAccessed: \nModified: \nChanged: \nDeleted: \nExtraction: \nMDS: \nSource file: \n:P:1:Aa6l6hyUVC/x8NkbrqMp9s8NwSoqhmgfile \nImages \n19984 \nDarArchive/root/private/var/mobile/Containers/Data/ \nApplication/9729AFC4-0C1A-4178-9F32-E9DC80542AC2/Libraiy/ \nCaches/News/shared-assets-assetstore/P/1/ \nAa6l6hyUVOANkbrqMp9s8NwSoqf/P/1/ \nAa6l6hyUVC/x8NkbrqMp9s8NwSoqftl3:1:Aa6l6hyUVQx8NkbrqMp9s \n8NwSoqf:imgfile \n8/6/2020 11:12:32 AM(UTC+ 0) \n8/6/2020 11:12:32 AM(UTC+0) \n8/6/2020 11:12:33 AM(UTC+ 0) \n8/6/2020 11:12:33 AM(UTC+ 0) \nFile \nSystem \ncaa24a26cf924e605247e62a517d6029 \n:P:1:Aa6l6hyUVO.x8NkbrqMp9s8NwSoqf.imgfile \nMap \nPosition: \nAddress: \nMap Address: \nEFTA00031000",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Details \nSave",
+        "role": "extracted",
+        "context": "Details \nSave \nName: \nType: \nSize (bytes):"
+      },
+      {
+        "name": "Soqhmgfile \nImages",
+        "role": "extracted",
+        "context": ":P:1:Aa6l6hyUVC/x8NkbrqMp9s8NwSoqhmgfile \nImages \n19984 \nDarArchive/root/priva"
+      },
+      {
+        "name": "File \nSystem",
+        "role": "extracted",
+        "context": "8/6/2020 11:12:33 AM(UTC+ 0) \nFile \nSystem \ncaa24a26cf924e605247e62a517d"
+      },
+      {
+        "name": "Map \nPosition",
+        "role": "extracted",
+        "context": "O.x8NkbrqMp9s8NwSoqf.imgfile \nMap \nPosition: \nAddress: \nMap Address: \nEFT"
+      },
+      {
+        "name": "Map Address",
+        "role": "extracted",
+        "context": "le \nMap \nPosition: \nAddress: \nMap Address: \nEFTA00031000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-06",
+        "event": "8/6/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.209Z"
+}

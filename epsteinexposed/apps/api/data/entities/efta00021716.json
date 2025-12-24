@@ -1,0 +1,42 @@
+{
+  "document": {
+    "id": "efta00021716",
+    "filename": "EFTA00021716.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021716.pdf",
+    "text": "\n\nFrom: \"Biase, Nicholas (USANYS)\" \nIn: \nSubject: https://deadline.corn/2021/0 Ueleventh-hour-films-options-ghislaine-maxwell-podcast-\n1234672637/ \nDate: Wed, 13 Jan 2021 20:06:37 +0000 \nNicholas Biase \nSpokesman \nUnited States \nDepartment of Justice \nU.S. Attorney's Office \nI \nSouthern District of New York \nEFTA00021716",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nicholas Biase",
+        "role": "extracted",
+        "context": ", 13 Jan 2021 20:06:37 +0000 \nNicholas Biase \nSpokesman \nUnited States \nDe"
+      },
+      {
+        "name": "Spokesman \nUnited",
+        "role": "extracted",
+        "context": ":06:37 +0000 \nNicholas Biase \nSpokesman \nUnited States \nDepartment of Justice"
+      },
+      {
+        "name": "States \nDepartment",
+        "role": "extracted",
+        "context": "olas Biase \nSpokesman \nUnited States \nDepartment of Justice \nU.S. Attorney's O"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "e \nU.S. Attorney's Office \nI \nSouthern District of New York \nEFTA00021716"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "1234672637"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.255Z"
+}

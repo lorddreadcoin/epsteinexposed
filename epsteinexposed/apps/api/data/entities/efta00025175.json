@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00025175",
+    "filename": "EFTA00025175.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025175.pdf",
+    "text": "\n\nFrom: \n\" <MIMIN> \nTo:'\n(USANYS)\" \nSubject: NPA letter \nDate: Thu, 22 Apr 2021 20:57:00 +0000 \nAttachments: 2021-04-22_GoVt_Letter Regarding_NPA.docx \nCan you take a quick look and let me know if there are any large issues to discuss? Otherwise I'll circulate it more broadly \nto and everyone can do a very close line read thereafter. Would like this to go to them by 530 if possible. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00025175",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter Regarding",
+        "role": "extracted",
+        "context": "Attachments: 2021-04-22_GoVt_Letter Regarding_NPA.docx \nCan you take a quic"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to them by 530 if possible. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "f possible. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00025175"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.626Z"
+}

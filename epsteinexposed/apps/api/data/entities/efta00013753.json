@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "efta00013753",
+    "filename": "EFTA00013753.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013753.pdf",
+    "text": "\n\nFrom: \"-(USAFLS)\" </O=USA/OU=FLS/CN=RECIPIENTS/CN> \nTo: \" . (USAFLS)\" < \nSubject: Re: Epstein \nDate: Tue, 13 Nov 2007 13:31:57 +0000 \nImportance: Normal \nHopefully ro hear from Davis today. \nSent from my BlackBerry Wireless Handheld \nOriginal Messa \nFrom: . (USAFLS) \nTo: (USAFLS) \nSent: Tue Nov 13 08:12:41 2007 \nSubject: Epstein \nHi — I am working on the response to Jays letter. Do you know whether Judge Davis has selected a lawyer? If so, can \nyou let me know the person's name? I would like to include that in the response. \nThank you. \nAssistant U.S. Attorney \nFax 561 820-8777 \nEFTA00013753",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\" . (USAFLS)\" < \nSubject: Re: Epstein \nDate: Tue, 13 Nov 2007 13:31:57 +0"
+      },
+      {
+        "name": "Normal \nHopefully",
+        "role": "extracted",
+        "context": "7 13:31:57 +0000 \nImportance: Normal \nHopefully ro hear from Davis today. \nSe"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "vis today. \nSent from my BlackBerry Wireless Handheld \nOriginal Messa \nFro"
+      },
+      {
+        "name": "Handheld \nOriginal",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \nOriginal Messa \nFrom: . (USAFLS) \nTo:"
+      },
+      {
+        "name": "Messa \nFrom",
+        "role": "extracted",
+        "context": "y Wireless Handheld \nOriginal Messa \nFrom: . (USAFLS) \nTo: (USAFLS) \nSe"
+      },
+      {
+        "name": "Tue Nov",
+        "role": "extracted",
+        "context": "(USAFLS) \nTo: (USAFLS) \nSent: Tue Nov 13 08:12:41 2007 \nSubject: Ep"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "ov 13 08:12:41 2007 \nSubject: Epstein \nHi — I am working on the respons"
+      },
+      {
+        "name": "Judge Davis",
+        "role": "extracted",
+        "context": "s letter. Do you know whether Judge Davis has selected a lawyer? If so,"
+      },
+      {
+        "name": "Attorney \nFax",
+        "role": "extracted",
+        "context": ". \nThank you. \nAssistant U.S. Attorney \nFax 561 820-8777 \nEFTA00013753"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.318Z"
+}

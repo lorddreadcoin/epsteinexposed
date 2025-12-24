@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00018167",
+    "filename": "EFTA00018167.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018167.pdf",
+    "text": "\n\nFrom: \nSubject: RE: reporter query about Epstein \nDate: Tue, 09 Jul 2019 18:55:22 +0000 \nImportance: Normal \nGot it. Thanks. \nFrom: \n)°c \nSent: Tuesday, July 9, 2019 2:54 PM \nTo: \nSubject: FW: reporter query about Epstein \nFYI \nFrom: Ostrowski, Jeffrey \nSent: Tuesday, July 09, 2019 14:26 \nTo: \nSubject: reporter query about Epstein \nI'm writing about the indictment of \nJeffrey \nEpstein, and I wonder if the government it plans to pursue the Palm \nBeach property. I'm trying to reconcile the mention forfeiture of \"any property\" with the lack of a specific \nmention of the address or legal description of the El Brillo Way real estate. \nThanks. \nJeff \nOstrowski \nReporter \nThe Palm Beach Post \nI \nPalm Beach \nDaily \nNews \nI \nGateHouse Florida \nThis message may contain confidential and/or privileged information. If you are not the intended recipient or authorized to \nreceive this for the intended recipient, you must not use, copy, disclose or take any action based on this message or any \ninformation herein. If you have received this message in error, please advise the sender immediately by sending a reply e-\nmail and delete this message. Thank you for your cooperation. \nEFTA00018167",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ect: RE: reporter query about Epstein \nDate: Tue, 09 Jul 2019 18:55:22 +0"
+      },
+      {
+        "name": "Normal \nGot",
+        "role": "extracted",
+        "context": "9 18:55:22 +0000 \nImportance: Normal \nGot it. Thanks. \nFrom: \n)°c \nSent"
+      },
+      {
+        "name": "Jeffrey \nSent",
+        "role": "extracted",
+        "context": "pstein \nFYI \nFrom: Ostrowski, Jeffrey \nSent: Tuesday, July 09, 2019 14:26"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "ting about the indictment of \nJeffrey \nEpstein, and I wonder if the governme"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "rnment it plans to pursue the Palm \nBeach property. I'm trying to recon"
+      },
+      {
+        "name": "El Brillo",
+        "role": "extracted",
+        "context": "s or legal description of the El Brillo Way real estate. \nThanks. \nJe"
+      },
+      {
+        "name": "Jeff \nOstrowski",
+        "role": "extracted",
+        "context": "lo Way real estate. \nThanks. \nJeff \nOstrowski \nReporter \nThe Palm Beach Pos"
+      },
+      {
+        "name": "Reporter \nThe",
+        "role": "extracted",
+        "context": "e. \nThanks. \nJeff \nOstrowski \nReporter \nThe Palm Beach Post \nI \nPalm Beac"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "eff \nOstrowski \nReporter \nThe Palm Beach Post \nI \nPalm Beach \nDaily \nN"
+      },
+      {
+        "name": "Daily \nNews",
+        "role": "extracted",
+        "context": "lm Beach Post \nI \nPalm Beach \nDaily \nNews \nI \nGateHouse Florida \nThis m"
+      },
+      {
+        "name": "House Florida",
+        "role": "extracted",
+        "context": "lm Beach \nDaily \nNews \nI \nGateHouse Florida \nThis message may contain con"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 9, 2019"
+      },
+      {
+        "date": "2019-07-09",
+        "event": "July 09, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.321Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026567",
+    "filename": "EFTA00026567.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026567.pdf",
+    "text": "\n\nFrom: 'a \nTo:' \n,  ' \nSubject: NPA \nDate: Wed, 17 Feb 2021 22:52:35 \n+0000 \nAttachments: SDFL_privilege_Iog.pdf \nTeam, \nIn their motion on the NPA, the defense cites to this privilege log that SDFL filed in a civil case to support their assertion \nthat their investigation was coordinated with our office. On page 5 (see attached), there's an entry that reads: \nFile folder entitled '''' containing attorney ( I \nhandwritten notes \nI have no idea who this is, and a google search for this person yields no hits. No hits on the NY attorney registration page, \nand no hits on SDNY ECF. Aside from emailing Ed to ask if he can find out if anyone with this name (or close to this name) \never worked at SDNY, I'm not sure what other steps to take. Thoughts? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00026567",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to take. Thoughts? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00026567"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.576Z"
+}

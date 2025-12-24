@@ -1,0 +1,118 @@
+{
+  "document": {
+    "id": "efta00003049",
+    "filename": "EFTA00003049.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003049.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTel: \n340-775-8100 \nFax: \n340-775-8108 \n'H\" \nEmergency \nContact \nForm \nDate: \n06/04/18 \nEmployee \nName: \nDanny \nEtienne \nAddress: \n'tvititE \nTitle \n/ \nPosit.:'i.: \nMa \n• \nStart \nDate: \nDate \nof \nBirth: \nC \ntit \nE\n-Mail: \nMarital \nStatus: \nSingle \nLicense: \nEmergency \nInformation: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nL \nCurrent \nMedication: \nDoctor's \nName: \nDodglas \nPhone: \nDoctor's \nName: \nDodglas \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact: \nName \nMaria \nRelationship \name \nRelationship \nEtienne \nPhone \nGirlfriend \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003049",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "100 \nFax: \n340-775-8108 \n'H\" \nEmergency \nContact \nForm \nDate: \n06/04/18 \nEmplo"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "108 \n'H\" \nEmergency \nContact \nForm \nDate: \n06/04/18 \nEmployee \nName:"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "ntact \nForm \nDate: \n06/04/18 \nEmployee \nName: \nDanny \nEtienne \nAddress: \n'"
+      },
+      {
+        "name": "Danny \nEtienne",
+        "role": "extracted",
+        "context": ": \n06/04/18 \nEmployee \nName: \nDanny \nEtienne \nAddress: \n'tvititE \nTitle \n/"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "Title \n/ \nPosit.:'i.: \nMa \n• \nStart \nDate: \nDate \nof \nBirth: \nC \ntit \nE"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "of \nBirth: \nC \ntit \nE\n-Mail: \nMarital \nStatus: \nSingle \nLicense: \nEmergency"
+      },
+      {
+        "name": "Single \nLicense",
+        "role": "extracted",
+        "context": "E\n-Mail: \nMarital \nStatus: \nSingle \nLicense: \nEmergency \nInformation: \nAl"
+      },
+      {
+        "name": "Emergency \nInformation",
+        "role": "extracted",
+        "context": "l \nStatus: \nSingle \nLicense: \nEmergency \nInformation: \nAllergies \nor \nHealth \nConc"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Information: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nL \nCurrent \nM"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns: \nBlood \nType: \nL \nCurrent \nMedication: \nDo"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "Concerns: \nBlood \nType: \nL \nCurrent \nMedication: \nDoctor's \nName: \nDodglas \nP"
+      },
+      {
+        "name": "Dodglas \nPhone",
+        "role": "extracted",
+        "context": "Medication: \nDoctor's \nName: \nDodglas \nPhone: \nDoctor's \nName: \nDodglas \nP"
+      },
+      {
+        "name": "Name \nMaria",
+        "role": "extracted",
+        "context": "Emergency, \nPlease \ncontact: \nName \nMaria \nRelationship \name \nRelations"
+      },
+      {
+        "name": "Relationship \nEtienne",
+        "role": "extracted",
+        "context": "me \nMaria \nRelationship \name \nRelationship \nEtienne \nPhone \nGirlfriend \nPhone \nTh"
+      },
+      {
+        "name": "Phone \nGirlfriend",
+        "role": "extracted",
+        "context": "ame \nRelationship \nEtienne \nPhone \nGirlfriend \nPhone \nThis \nInformation \nis"
+      },
+      {
+        "name": "Phone \nThis",
+        "role": "extracted",
+        "context": "Etienne \nPhone \nGirlfriend \nPhone \nThis \nInformation \nis \nfor \nyour"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "340-775-8100",
+      "340-775-8108"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.601Z"
+}

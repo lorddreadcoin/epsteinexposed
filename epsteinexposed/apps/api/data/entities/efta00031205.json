@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00031205",
+    "filename": "EFTA00031205.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031205.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: '.11 \nUSANYS)\"  \nCc: \nSubject: Fwd: [EXTERNAL] U.S. v. Maxwell S2 20 Cr. \n330 (AJN) \nDate: Mon, 18 Oct 2021 21:54:06 +0000 \nAttachments: Response_to_Govt_voir dire_opposition.pdf \n(USANYS)\" \nFYI \nBegin forwarded message: \nFrom: BOBBI C STERNHEIM \nDate: October 18, 2021 at 5:50:52 PM EDT \nTo: \" USANYS \nCc: Christian Everdell , Laura Menninger \nPagliuca \nSubject: [EXTERNAL] U.S. v. Maxwell S2 \n20 Cr. 330 (A.IN) \nGood \nafternoon-\nAttached is a courtesy copy of today's ECF filing. \nBobbi \nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM ES . \nNew York, NY 10007 \nJeff \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00031205\n\nEFTA00031206",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": ":52 PM EDT \nTo: \" USANYS \nCc: Christian Everdell , Laura Menninger \nPagliuca"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "NYS \nCc: Christian Everdell , Laura Menninger \nPagliuca \nSubject: [EXTERNAL"
+      },
+      {
+        "name": "Pagliuca \nSubject",
+        "role": "extracted",
+        "context": "n Everdell , Laura Menninger \nPagliuca \nSubject: [EXTERNAL] U.S. v. Maxwell S"
+      },
+      {
+        "name": "Bobbi \nPlease",
+        "role": "extracted",
+        "context": "copy of today's ECF filing. \nBobbi \nPlease note my new office address an"
+      },
+      {
+        "name": "Jeff \nThis",
+        "role": "extracted",
+        "context": "EIM ES . \nNew York, NY 10007 \nJeff \nThis message and any attached docu"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contain information from the Law Offices of Bobbi C. Sternheim \nthat m"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-18",
+        "event": "October 18, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.530Z"
+}

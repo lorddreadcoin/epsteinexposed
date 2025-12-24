@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00025512",
+    "filename": "EFTA00025512.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025512.pdf",
+    "text": "\n\nEvent: Call w/ SDNY re: discovery, Epstein investigation \nStart Date: 2020-10-23 15:00:00 +0000 \nEnd Date: 2020-10-23 15:30:00 +0000 \nOrganizer: \n< \nLocation: \nClass: X-PERSONAL \nDate Created: 2020-10-22 16:53:21 +0000 \nDate Modified: 2020-10-22 16:53:21 +0000 \nPriority: 5 \nDTSTAMP: 2020-10-22 16:34:21 +0000 \nAttendee: (USANYS) \n(NYPD) < \n›.; \n(FBI) < \nAlarm: Display the following message 15m before start \nReminder \n. (NY) \nEFTA00025512",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "overy, Epstein investigation \nStart Date: 2020-10-23 15:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-10-23 15:00:00 +0000 \nEnd Date: 2020-10-23 15:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Location: \nClass: X-PERSONAL \nDate Created: 2020-10-22 16:53:21 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-10-22 16:53:21 +0000 \nDate Modified: 2020-10-22 16:53:21 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-23",
+        "event": "2020-10-23"
+      },
+      {
+        "date": "2020-10-22",
+        "event": "2020-10-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.314Z"
+}

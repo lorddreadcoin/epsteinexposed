@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018887",
+    "filename": "EFTA00018887.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018887.pdf",
+    "text": "\n\nFrom: ' \n(USANYS)\"  \nTo: alart.ThSANYS\" \nt tt \nSubject: Bail Oppo Draft \nDate: Fri, 05 Nov 2021 18:14:16 +0000 \nAttachments: Bail_Oppo_vl.docx \nSubmitted for your review! (I saved this locally on my comp, so I wouldn't mess up your shared organization) \nSouthern District of New York \nOffice: \nCel \nEmail: \nEFTA00018887",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bail Oppo",
+        "role": "extracted",
+        "context": "lart.ThSANYS\" \nt tt \nSubject: Bail Oppo Draft \nDate: Fri, 05 Nov 2021"
+      },
+      {
+        "name": "Draft \nDate",
+        "role": "extracted",
+        "context": "YS\" \nt tt \nSubject: Bail Oppo Draft \nDate: Fri, 05 Nov 2021 18:14:16 +0"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "up your shared organization) \nSouthern District of New York \nOffice: \nCel \nEm"
+      },
+      {
+        "name": "Cel \nEmail",
+        "role": "extracted",
+        "context": "istrict of New York \nOffice: \nCel \nEmail: \nEFTA00018887"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.896Z"
+}

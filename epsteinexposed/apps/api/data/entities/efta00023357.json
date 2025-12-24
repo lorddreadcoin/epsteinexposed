@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00023357",
+    "filename": "EFTA00023357.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023357.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: [EXTERNAL] United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) - Minor Victim 3's \nLetter Motion to Quash Defendant's Rule 17 Subpoena to \nDate: Fri, 19 Nov 2021 20:12:17 +0000 \nAttachments: 2021-11-19Judge_Nathan_Ltr_M2Quash_Sub_EVCP_final.pdf \nInline-Images: image001.png \nGood afternoon Judge Nathan, \nplease find Minor Victim 3's Letter Motion to Quash Defendant's Rule 17 Subpoena to \nAdministrator of the Epstein Victims' Compensation Program. \nThank ou, \nEDWARDS \nPOTTING FR \nLLC \nFlorida Registered Paralegal \nFort Lauderdale, Florida 33301 \nvavaweom \nEFTA00023357",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": ": \nTo: \nCc: \nSubject: [EXTERNAL] United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) - Minor Victim 3's \nLetter Moti"
+      },
+      {
+        "name": "Minor Victim",
+        "role": "extracted",
+        "context": "e Maxwell, 20 Cr. 330 (AJN) - Minor Victim 3's \nLetter Motion to Quash D"
+      },
+      {
+        "name": "Letter Motion",
+        "role": "extracted",
+        "context": "330 (AJN) - Minor Victim 3's \nLetter Motion to Quash Defendant's Rule 17"
+      },
+      {
+        "name": "Quash Defendant",
+        "role": "extracted",
+        "context": "Victim 3's \nLetter Motion to Quash Defendant's Rule 17 Subpoena to \nDate:"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "image001.png \nGood afternoon Judge Nathan, \nplease find Minor Victim 3'"
+      },
+      {
+        "name": "Epstein Victims",
+        "role": "extracted",
+        "context": "oena to \nAdministrator of the Epstein Victims' Compensation Program. \nThank"
+      },
+      {
+        "name": "Compensation Program",
+        "role": "extracted",
+        "context": "rator of the Epstein Victims' Compensation Program. \nThank ou, \nEDWARDS \nPOTTING"
+      },
+      {
+        "name": "Florida Registered",
+        "role": "extracted",
+        "context": "u, \nEDWARDS \nPOTTING FR \nLLC \nFlorida Registered Paralegal \nFort Lauderdale, F"
+      },
+      {
+        "name": "Paralegal \nFort",
+        "role": "extracted",
+        "context": "G FR \nLLC \nFlorida Registered Paralegal \nFort Lauderdale, Florida 33301 \nva"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.792Z"
+}

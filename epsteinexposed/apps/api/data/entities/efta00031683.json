@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00031683",
+    "filename": "EFTA00031683.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031683.pdf",
+    "text": "\n\nFrom: \n\" ale \nTo: Mark Manley <IIM=> \nCc: \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Mon, 03 May 2021 14:24:23 +0000 \nAttachments: 2021-05-03_Order_Re_Third_Party_Letter.pdf \nMr. Manley, \nThe Court has directed us to forward you a copy of the attached Order. \nSincerely, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00031683",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ark Manley <IIM=> \nCc: \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Mon, 03 May 2021 14:24:2"
+      },
+      {
+        "name": "Manley",
+        "role": "extracted",
+        "context": "er_Re_Third_Party_Letter.pdf \nMr. Manley, \nThe Court has directed"
+      },
+      {
+        "name": "Mark Manley",
+        "role": "extracted",
+        "context": "From: \n\" ale \nTo: Mark Manley <IIM=> \nCc: \nSubject: United"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "attached Order. \nSincerely, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Sincerely, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00031683"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-03",
+        "event": "03 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.604Z"
+}

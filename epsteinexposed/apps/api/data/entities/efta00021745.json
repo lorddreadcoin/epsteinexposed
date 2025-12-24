@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00021745",
+    "filename": "EFTA00021745.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021745.pdf",
+    "text": "\n\nFrom: ' \nTo: \"Miller. Michael\" \nCc: \"Weingarten, Reid\" < >, \"Martin G. Weinberg' \n\"Scavelli, Michael\" < >, \"Lucas, Morgan\" < \n\"Brochin, Jim\" a, \"Meade, Jason\" < \nSubject: RE: U.S. v. Epstein \nDate: Fri, 02 Aug 2019 14:11:46 +0000 \nReceived, thank you. \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York. NY 10007 \nFrom: Miller, Michael 4:1> \nSent: Thursday, August 1, 2019 8:18 PM \nTo: \ntz> \n) \n<->; \nCc: Weingarten, Reid O; Martin G. Weinberg; Scavelli, Michael \nSubject: U.S. V. Epstein \n; Lucas, Morgan \nDear. -nd \nPlease see the attached letter. \nMike \nMichael C. Miller \nPartner \nSteptoe \nSteptoe & Johnson LLP \n1114 Avenue of the Americas I New York, NY 10036 \nwww.steptoe.com \n; Brochin, Jim Meade, Jason \nThis message and any attached documents contain information from the law firm Steptoe & Johnson LLP that may be confidential and/or privileged. If you \nare not the intended recipient, please do not read. copy, distribute, or use this information. If you have received this transmission in error, please notify the \nsender immediately by reply e-mail and then delete this message. \nEFTA00021745",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ason\" < \nSubject: RE: U.S. v. Epstein \nDate: Fri, 02 Aug 2019 14:11:46 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "+0000 \nReceived, thank you. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "thank you. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York. NY 10007 \nFrom: Miller,"
+      },
+      {
+        "name": "Michael \nSubject",
+        "role": "extracted",
+        "context": "Martin G. Weinberg; Scavelli, Michael \nSubject: U.S. V. Epstein \n; Lucas, Mo"
+      },
+      {
+        "name": "Morgan \nDear",
+        "role": "extracted",
+        "context": "ct: U.S. V. Epstein \n; Lucas, Morgan \nDear. -nd \nPlease see the attached"
+      },
+      {
+        "name": "Mike \nMichael",
+        "role": "extracted",
+        "context": "ase see the attached letter. \nMike \nMichael C. Miller \nPartner \nSteptoe"
+      },
+      {
+        "name": "Miller \nPartner",
+        "role": "extracted",
+        "context": "hed letter. \nMike \nMichael C. Miller \nPartner \nSteptoe \nSteptoe & Johnson L"
+      },
+      {
+        "name": "Steptoe \nSteptoe",
+        "role": "extracted",
+        "context": "Michael C. Miller \nPartner \nSteptoe \nSteptoe & Johnson LLP \n1114 Avenue of"
+      },
+      {
+        "name": "Jim Meade",
+        "role": "extracted",
+        "context": "www.steptoe.com \n; Brochin, Jim Meade, Jason \nThis message and any"
+      },
+      {
+        "name": "Jason \nThis",
+        "role": "extracted",
+        "context": "oe.com \n; Brochin, Jim Meade, Jason \nThis message and any attached docu"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-01",
+        "event": "August 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.317Z"
+}

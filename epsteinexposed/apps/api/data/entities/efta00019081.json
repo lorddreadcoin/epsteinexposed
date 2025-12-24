@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019081",
+    "filename": "EFTA00019081.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019081.pdf",
+    "text": "\n\nFrom: \nTo: \n\" ' \nCc: ' \n\" \nSubject: US v. Maxwell, S2 20 Cr. 330 (AJN) - Letter re S2 Indictment \nDate: Mon, 29 Mar 2021 19:37:14 +0000 \nAttachments: 2021-03-29_GovtLetter to_GM_Counsel_re_S2indictment.pdf; \nUS_v._Maxwell,S2_20_Cr._330 JAJNLIndictmentidocketed).pdf \nCounsel, \nPlease see the attached letter regarding the superseding indictment that was returned by a grand jury sitting in \nManhattan earlier today in the above-referenced case. Our team is available tomorrow between 1pm and 2pm, between \n3pm and 5pm, or after 5:30pm to discuss the discovery issues you raised earlier, as well as whether supplemental briefing \non your pretrial motions would be appropriate in light of the new charges, and any other issues you would like to discuss. \nPlease let us know if you are available during those windows. \niEmest \nAssistant United States Attorney \nSouthern District of New York \nY rk NY I \nEFTA00019081",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Indictment \nDate",
+        "role": "extracted",
+        "context": "Cr. 330 (AJN) - Letter re S2 Indictment \nDate: Mon, 29 Mar 2021 19:37:14 +0"
+      },
+      {
+        "name": "Emest \nAssistant",
+        "role": "extracted",
+        "context": "lable during those windows. \niEmest \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "mest \nAssistant United States Attorney \nSouthern District of New York \nY rk NY"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.251Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019849",
+    "filename": "EFTA00019849.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019849.pdf",
+    "text": "\n\nFrom: Nicole \nSimmons \nTo: \nmnewcases®ca2.uscourts.govm <newcases@ca2.uscourts.gov> \nCc: \nSubject: v. Maxwell Case No.. 20-2413 and US v. Maxwell Case No. 20-3061, [Unredacted \nDocument] \nDate: Wed, 23 Sep 2020 18:54:59 +0000 \nAttachments: 2020.09.23_Reponse_to_Govt_Opp_to_Mot_to_ConsolidatejUnredacted).pdf \nInline-Images: image001.jpg \nTo Whom It May Concern: \nAt the request of S please see attached the Unredacted version of the document filed today in the above \nreferenced matters. Please let me know if you have any questions or concerns. \nRegards, \nNicole \nDenver, \nColorado \n80203 \nwww.hmflaw.com\nEFTA00019849",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nicole \nSimmons",
+        "role": "extracted",
+        "context": "From: Nicole \nSimmons \nTo: \nmnewcases®ca2.uscourts."
+      },
+      {
+        "name": "Maxwell Case",
+        "role": "extracted",
+        "context": "courts.gov> \nCc: \nSubject: v. Maxwell Case No.. 20-2413 and US v. Maxwel"
+      },
+      {
+        "name": "Unredacted \nDocument",
+        "role": "extracted",
+        "context": "v. Maxwell Case No. 20-3061, [Unredacted \nDocument] \nDate: Wed, 23 Sep 2020 18:5"
+      },
+      {
+        "name": "To Whom",
+        "role": "extracted",
+        "context": "Inline-Images: image001.jpg \nTo Whom It May Concern: \nAt the reque"
+      },
+      {
+        "name": "It May",
+        "role": "extracted",
+        "context": "Images: image001.jpg \nTo Whom It May Concern: \nAt the request of S"
+      },
+      {
+        "name": "Nicole \nDenver",
+        "role": "extracted",
+        "context": "tions or concerns. \nRegards, \nNicole \nDenver, \nColorado \n80203 \nwww.hmflaw"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.696Z"
+}

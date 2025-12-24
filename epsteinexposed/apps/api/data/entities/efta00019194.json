@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019194",
+    "filename": "EFTA00019194.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019194.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: 2021.10.04 Maxwell Jury Questionnaire [with Defense Additions Formatted and Gov't \nResponse].docx \nDate: Sun, 10 Oct 2021 21:27:00 +0000 \nAttachments: JOINT_Proposed_Voir Dire_Sent_(Reponse_to_Defense_v2).docx \nIt's in the share too. I'm most worried about making sure I accurately did red->green and blue->purple! \nFrom: \nSent: Sunday, October 10, 2021 5:08 PM \nTo \nSubject: 2021.10.04 Maxwell Jury Questionnaire [with Defense Additions Formatted and Gov't Response].docx \nEFTA00019194",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Jury",
+        "role": "extracted",
+        "context": "To: \nSubject: RE: 2021.10.04 Maxwell Jury Questionnaire [with Defense A"
+      },
+      {
+        "name": "Defense Additions",
+        "role": "extracted",
+        "context": "well Jury Questionnaire [with Defense Additions Formatted and Gov't \nResponse"
+      },
+      {
+        "name": "Voir Dire",
+        "role": "extracted",
+        "context": "Attachments: JOINT_Proposed_Voir Dire_Sent_(Reponse_to_Defense_v2)."
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "ay, October 10, 2021 5:08 PM \nTo \nSubject: 2021.10.04 Maxwell Jury Ques"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-10",
+        "event": "October 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.472Z"
+}

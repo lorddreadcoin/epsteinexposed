@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00020688",
+    "filename": "EFTA00020688.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020688.pdf",
+    "text": "\n\nFrom \n(NY) (FBI)\" \n<MMINIME> \nTo:\n'\nCc: \"MM \nSte \n1=MINIIMII> \nSubject: 302 \nDate: The, 23 Apr \n2019 22:46:48 \n+0000 \nAttachments: Interview_of \n.pdf \nHi \nall, \nAttached \nIMI02. See \ny'all tomorrow! \nSpecial Agent \nFBI New \nYork \niniflicking \nEFTA00020688",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "IMI02. See \ny'all tomorrow! \nSpecial Agent \nFBI New \nYork \niniflicking"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "tomorrow! \nSpecial Agent \nFBI New \nYork \niniflicking \nEFTA00020688"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.355Z"
+}

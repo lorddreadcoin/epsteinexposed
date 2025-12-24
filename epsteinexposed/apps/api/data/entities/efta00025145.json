@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00025145",
+    "filename": "EFTA00025145.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025145.pdf",
+    "text": "\n\nFrom: ' \nTo: \"jikislYall\ni> \n(USANYS)\" \nCc: ' \nSubject: RE: Cite Check \nDate: Wed, 27 Oct 2021 16:06:32 +0000 \nAttachments: Govt_Reply_v2.docx \nH \nThanks for the help with this project! I've attached the document we need citechecked. Feel free to give me a call if you \nhave any questions! \nFrom: \n(USANYS) \nSent: Wednesday, October 27, 2021 11:03 AM \nTo: (USANYS) \nCc: \nSubject: RE: Cite Check \nThanks so much We really appreciate you helping out. We should have something to send to you for cite \nchecking fairly soon. Thanks again! \nFrom: (USANYS) \nSent: Wednesday, October 27, 2021 10:39 AM \nTo: (USANYS) \nSubject: Cite Check \nGood Morning, \nMy name is and I am an intern in the office assigned to . He told me to reach out to \nyou as I believe you wanted something cite checked? If so I would be happy to help with whatever the assignment is. \nThank you, \nEFTA00025145",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cite Check",
+        "role": "extracted",
+        "context": "USANYS)\" \nCc: ' \nSubject: RE: Cite Check \nDate: Wed, 27 Oct 2021 16:06"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "USANYS) \nSubject: Cite Check \nGood Morning, \nMy name is and I am an inte"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-27",
+        "event": "October 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.569Z"
+}

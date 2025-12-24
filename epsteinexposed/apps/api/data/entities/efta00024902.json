@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024902",
+    "filename": "EFTA00024902.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024902.pdf",
+    "text": "\n\nFrom \nSubject: [EXTERNAL] Letter from Client-\"Confidential Communication\" \nDate: Fri, 19 Nov 2021 20:27:16 +0000 \nAttachments: PRIVATE_AND_CONFIDENTIAL_2.pdf \nTo All Concerned: Please find the attached letter authored by my \nClient \nCordiall \nEFTA00024902",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "From \nSubject: [EXTERNAL] Letter from Clien"
+      },
+      {
+        "name": "Confidential Communication",
+        "role": "extracted",
+        "context": "EXTERNAL] Letter from Client-\"Confidential Communication\" \nDate: Fri, 19 Nov 2021 20:2"
+      },
+      {
+        "name": "To All",
+        "role": "extracted",
+        "context": "IVATE_AND_CONFIDENTIAL_2.pdf \nTo All Concerned: Please find the at"
+      },
+      {
+        "name": "Client \nCordiall",
+        "role": "extracted",
+        "context": "tached letter authored by my \nClient \nCordiall \nEFTA00024902"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.072Z"
+}

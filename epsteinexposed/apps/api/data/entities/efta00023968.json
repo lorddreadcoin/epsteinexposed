@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023968",
+    "filename": "EFTA00023968.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023968.pdf",
+    "text": "\n\nFrom: \"Berman, Geoffrey \n(USANYS)\" <E> \nTo: \nSubject: Re: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation \nDate: Fri, 27 Dec 2019 15:47:51 +0000 \nM, give me a call when you have a chance. \nGeoff \n> On Dec \n27, 2019, at 9:36 AM\n \nwrote: \n> https://vvwvv.cnbc.corn/2019/12/27/jeffrey-epstein-friend-ghislaine-maxwell-under-fbi-investigation.html \n> Sent from my iPhone \nEFTA00023968",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "erman, Geoffrey \n(USANYS)\" <E> \nTo: \nSubject: Re: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "S)\" <E> \nTo: \nSubject: Re: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation \nDate: Fri, 27 Dec 2019 1"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "you have a chance. \nGeoff \n> On Dec \n27, 2019, at 9:36 AM\n \nwrote"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.989Z"
+}

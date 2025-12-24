@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00019418",
+    "filename": "EFTA00019418.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019418.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: Motion to \nQuash \nDate: Thu, 18 Nov 2021 20:45:14 +0000 \nAttachments: 2021.11.18_Mot_to_quash_v3.docx; 2021.11.18_Mot_to_quash_v2_to_v3.docx \nHi all, \nAttached is a  revised draft and a  redline of the motion to quash. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00019418",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Motion to \nQuas"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Motion to \nQuash \nDate: Thu,"
+      },
+      {
+        "name": "Quash \nDate",
+        "role": "extracted",
+        "context": "To \nCc \nSubject: Motion to \nQuash \nDate: Thu, 18 Nov 2021 20:45:14 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "he motion to quash. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "h. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.848Z"
+}

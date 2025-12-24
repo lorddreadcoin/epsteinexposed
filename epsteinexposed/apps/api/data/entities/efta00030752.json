@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030752",
+    "filename": "EFTA00030752.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030752.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: RE: message for \nDate: Thu, 02 Jan 2020 19:10:00 +0000 \n> \n- 01/02/19, left another message \nFrom: \nSent: Monday, December 30, 2019 14:20 \nTo: \nSubject: message for \n) \n12/30/19, left a message with receptionist \nfor \nre: Epstein case \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00030752",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "Epstein case \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-30",
+        "event": "December 30, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.578Z"
+}

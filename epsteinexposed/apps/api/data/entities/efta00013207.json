@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013207",
+    "filename": "EFTA00013207.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013207.pdf",
+    "text": "\n\nFrom \nTo: \nCc: \nBcc: \"USAHUB-USAJouma1111\" \nSubject: RE: Maxwell Letter \nDate: Fri, 30 Oct 2020 21:18:23 +0000 \nEmbedded: RELMaxwell Letter.msg \nSender: \nSubject: RE: Maxwell Letter \nMessage-Id: \n5<SN5P110MB05425256E418 1   EF30DA470992150®SN5P110MB0542.NAMP110.PROD.OUTLOOK.COM> \nEFTA00013207",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nCc: \nBcc: \"USAHUB-USAJouma1"
+      },
+      {
+        "name": "Maxwell Letter",
+        "role": "extracted",
+        "context": "B-USAJouma1111\" \nSubject: RE: Maxwell Letter \nDate: Fri, 30 Oct 2020 21:18"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.080Z"
+}

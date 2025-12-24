@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00026528",
+    "filename": "EFTA00026528.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026528.pdf",
+    "text": "\n\nFrom: \nTo:' \nCc \nSubject: To-do list \nDate: Thu, 12 Dec 2019 16:40:32 +0000 \nFollowing up on yesterday's meeting, below is a list of items that we would like to get done before charging Maxwell. \nand I can take the lead in coordinating interviews, but we would appreciate it if you guys would please take \nthe lead on preparing a photobook/array, tracking down the records, and reviewing the search warrant materials. Please \nlet us know what subpoenas, etc. you need to track down the records. \n************* \nPrepare Photobook/Photo array containing photo of from the 90s, together with photos of females of similar age \nand appearance. \nRecords: \n• Interlochen records re I'M, Epstein, Maxwell \n• school records for Palm Beach & New York \n• Maxwell ins/outs for US & UK 1994-1998 \n• ins/outs for US & UK 1994-1996 \n• Maxwell domestic flights 1994-1998 \n• domestic flights 1994-1998 \n• domestic flights 1995-1996 \nSearch Warrant Returns: \n• Search for photos of MB M, -\n• Search all documents/emails/communications for a, \nla, and \n• Search all documents/emails/communications for Maxwell \nInterviews: \n• \n• mother \n• brother \no  Ask for any records/photos from 194-98 \n• \nmother \no  Ask for emails with JE/others, any other records/photos from 1994-96 \n• \no  Ask \nfor \njournal & any other records/photos from 1995-96 \n0 \nmother \nsister \nformer boyfriend \nnames \n• \nEFTA00026528\n\n• \no \nAsk for complete set of flight logs and any related records \n• \nr Ask \nfor emails/records related to M, Maxwell 1994-98 \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00026529",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo:' \nCc \nSubject: To-do list \nDate: Thu, 12 De"
+      },
+      {
+        "name": "Prepare Photobook",
+        "role": "extracted",
+        "context": "the records. \n************* \nPrepare Photobook/Photo array containing photo"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Maxwell \n• school records for Palm Beach & New York \n• Maxwell ins/out"
+      },
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "• domestic flights 1995-1996 \nSearch Warrant Returns: \n• Search for photos"
+      },
+      {
+        "name": "Maxwell \nInterviews",
+        "role": "extracted",
+        "context": "nts/emails/communications for Maxwell \nInterviews: \n• \n• mother \n• brother \no"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "l 1994-98 \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00026529"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.507Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014715",
+    "filename": "EFTA00014715.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014715.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\" •MNIMINE> \nTo: \n(USANYS)\" \nCc: aaANYS)\" \nSubject: FW: Voice Message Attached from - WIRELESS CALLER \nDate: Tue, 23 Nov 2021 18:14:31 +0000 \nAttachments: .wav \nHi M, and - attached is a voice message from an individual claiming they have information \nabout Ghislaine Maxwell and that they are a friend of George \nSoros. \n- not sure if this is something you want to follow up on. if not can you send this individual \nthe crime reporting materials? Her number is \nShe was transferred to my line from the tent CSOs. \n Ori inal Messa e \nFrom: ca \nSent: Tuesda , November 23, 2021 12:53 PM \nTo: (USANYS) [Contractor\nSubject: Voice \nMessage Attached from - WIRELESS CALLER \nTime: Nov 23, 2021 12:53:29 PM \nClick attachment to listen to Voice Message \nEFTA00014715",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "individual claiming they have information \nabout Ghislaine Maxwell and that they are a friend of George \nSoros. \n- n"
+      },
+      {
+        "name": "Voice Message",
+        "role": "extracted",
+        "context": "\" \nCc: aaANYS)\" \nSubject: FW: Voice Message Attached from - WIRELESS CALL"
+      },
+      {
+        "name": "George \nSoros",
+        "role": "extracted",
+        "context": "and that they are a friend of George \nSoros. \n- not sure if this is somet"
+      },
+      {
+        "name": "Contractor\nSubject",
+        "role": "extracted",
+        "context": "2021 12:53 PM \nTo: (USANYS) [Contractor\nSubject: Voice \nMessage Attached from"
+      },
+      {
+        "name": "Voice \nMessage",
+        "role": "extracted",
+        "context": "(USANYS) [Contractor\nSubject: Voice \nMessage Attached from - WIRELESS CALL"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-23",
+        "event": "November 23, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.412Z"
+}

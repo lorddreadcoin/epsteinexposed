@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00019643",
+    "filename": "EFTA00019643.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019643.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: State \nAttorney's Office - New Document Available - Case No 2020PR000426AMB \nDate: Mon, 14 Sep 2020 19:45:50 +0000 \nSounds good. \nThank you. \nExecutive Secretary to \nOffice of The State Attorney, 15th Judicial Circuit \nPalm B h  FL 3401 \nFrom: \nSent: Monday, September 14, 2020 3:45 PM \nTo \nCc \nSubject: Re: State Attorney's Office - New Document Available - Case No 2020PR000426AMB \nThank you. The paralegal on the case, who is cc'd here, will download the documents. \nOn Sep \n14, 2020, at 3:41 PM, \nThere is a new file available. \nCase \nNumber 2020PR000426AMB \nDefendant Name JEFFREY E EPSTEIN \nwrote: \nPlease click here [protect2.fireeye.com] to download the file. \nWhen setting up initial account, please be sure to check your spam/junk email folder for the notification email. \nSent By \nPlease note: Florida has a very broad public records law. Most written communications to or from state officials regarding slate business are public records available \nto the public and media upon request. Your e-mail communications may therefore be subject to public disclosure. \nEFTA00019643",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "State \nAttorney",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: State \nAttorney's Office - New Document Avail"
+      },
+      {
+        "name": "New Document",
+        "role": "extracted",
+        "context": "E: State \nAttorney's Office - New Document Available - Case No 2020PR000"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "ce - New Document Available - Case No 2020PR000426AMB \nDate: Mon, 1"
+      },
+      {
+        "name": "Executive Secretary",
+        "role": "extracted",
+        "context": "00 \nSounds good. \nThank you. \nExecutive Secretary to \nOffice of The State Attor"
+      },
+      {
+        "name": "The State",
+        "role": "extracted",
+        "context": "utive Secretary to \nOffice of The State Attorney, 15th Judicial Circu"
+      },
+      {
+        "name": "Judicial Circuit",
+        "role": "extracted",
+        "context": "e of The State Attorney, 15th Judicial Circuit \nPalm B h  FL 3401 \nFrom: \nSe"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": ", September 14, 2020 3:45 PM \nTo \nCc \nSubject: Re: State Attorney'"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "3:45 PM \nTo \nCc \nSubject: Re: State Attorney's Office - New Document Avail"
+      },
+      {
+        "name": "On Sep",
+        "role": "extracted",
+        "context": "will download the documents. \nOn Sep \n14, 2020, at 3:41 PM, \nThere"
+      },
+      {
+        "name": "Case \nNumber",
+        "role": "extracted",
+        "context": "ere is a new file available. \nCase \nNumber 2020PR000426AMB \nDefendant Na"
+      },
+      {
+        "name": "Defendant Name",
+        "role": "extracted",
+        "context": "Case \nNumber 2020PR000426AMB \nDefendant Name JEFFREY E EPSTEIN \nwrote: \nPl"
+      },
+      {
+        "name": "Sent By",
+        "role": "extracted",
+        "context": "for the notification email. \nSent By \nPlease note: Florida has a v"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-14",
+        "event": "September 14, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.303Z"
+}

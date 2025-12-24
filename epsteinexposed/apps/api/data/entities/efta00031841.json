@@ -1,0 +1,109 @@
+{
+  "document": {
+    "id": "efta00031841",
+    "filename": "EFTA00031841.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031841.pdf",
+    "text": "\n\nFrom: ' \nTo: Arraignment NYSD  \nfr\" \nSubject: RE: Application for Search Warrant \nDate: Fri, 26 Jun 2020 15:33:05 +0000 \nInline-Images: image001.jpg \nThank you so much. Have a great weekend. \nTake care, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nArraignment NYSD \nSent: Friday, June 26, 2020 10:44 AM \nTo: \nCc: Arraignment NYSD \nSubject: FW: Application for Search Warrant \nGood Morning \nYour \nsigned warrant is attached. \nHave a great weekend \nVinny \nVincent Babino \nArraignment Unit Clerk \nUnited States District Court \nSouthern District of New York \n500 Pearl Street \nNew York. NY 10007 \nPhone\nFAX: \nFrom: Gabriel Gorenstein \nSent: Friday, June 26, 2020 9:35 AM \nTo: Arraignment NYSD \nSubject: Fw: Application for Search Warrant \nsigned warrant \nEFTA00031841\n\ncontact AUSA below \nFrom: \nSent: Thursday, June 25, 2020 9:48 PM \nTo: Gorenstein NYSD Chambers < \nCc: \nSubject: RE: Application for Search Warrant \nThank you very much. Attached please find a  revised affidavit correcting the error that Judge Gorenstein identified. \nI will call the number provided at 9:10am tomorrow with the agent on the line. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: Gorenstein NYSD Chambers \nSent: Thursday, June 25, 2020 7:43 PM \nTo: \nCc: \n>; \nSubject: Re: Application for Search Warrant \n) \nJudge Gorenstein has reviewed the warrant materials. Please call him at with your agent on the \nline at 9:10 a.m. If there is no answer, please leave a callback number by voicemail or text and the Judge will \nrespond to you shortly thereafter. If you need a different call-in time, please let us know. Additionally, Judge \nGorenstein notes the following: \"While it does not affect probable cause, the warrant application in paragraph \n4 and Attachment A refers to Epstein being arrested on July 6, \"2020.\" The AUSA may wish to send a new \napplication that provides a correct date.\" \nFrom: \nSent: Thursday, June 25, 2020 4:58 PM \nTo: Gorenstein NYSD \nChambers < \nCc: \nSubject: Application for Search Warrant \n>; \nEFTA00031842\n\nGood afternoon, \nAttached for Judge Gorenstein's review please find an application for a search warrant, as well as a proposed warrant. \nThe agent is available to swear out this warrant tomorrow morning whenever would be convenient for the Court. I can be \nreached on my cellphone at \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nl  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00031843",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search Warrant",
+        "role": "extracted",
+        "context": "Subject: RE: Application for Search Warrant \nDate: Fri, 26 Jun 2020 15:33"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "a great weekend. \nTake care, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Take care, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nArraig"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "plication for Search Warrant \nGood Morning \nYour \nsigned warrant is atta"
+      },
+      {
+        "name": "Vinny \nVincent",
+        "role": "extracted",
+        "context": "ached. \nHave a great weekend \nVinny \nVincent Babino \nArraignment Unit Cler"
+      },
+      {
+        "name": "Babino \nArraignment",
+        "role": "extracted",
+        "context": "great weekend \nVinny \nVincent Babino \nArraignment Unit Clerk \nUnited States Dis"
+      },
+      {
+        "name": "Unit Clerk",
+        "role": "extracted",
+        "context": "Vincent Babino \nArraignment Unit Clerk \nUnited States District Court"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "ent Unit Clerk \nUnited States District Court \nSouthern District of New Yor"
+      },
+      {
+        "name": "Pearl Street",
+        "role": "extracted",
+        "context": "ern District of New York \n500 Pearl Street \nNew York. NY 10007 \nPhone\nFA"
+      },
+      {
+        "name": "Gabriel Gorenstein",
+        "role": "extracted",
+        "context": ". NY 10007 \nPhone\nFAX: \nFrom: Gabriel Gorenstein \nSent: Friday, June 26, 2020"
+      },
+      {
+        "name": "Judge Gorenstein",
+        "role": "extracted",
+        "context": "vit correcting the error that Judge Gorenstein identified. \nI will call the"
+      },
+      {
+        "name": "Chambers \nSent",
+        "role": "extracted",
+        "context": "10007 \nFrom: Gorenstein NYSD Chambers \nSent: Thursday, June 25, 2020 7:43"
+      },
+      {
+        "name": "Judge \nGorenstein",
+        "role": "extracted",
+        "context": "se let us know. Additionally, Judge \nGorenstein notes the following: \"While i"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-26",
+        "event": "June 26, 2020"
+      },
+      {
+        "date": "2020-06-25",
+        "event": "June 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.017Z"
+}

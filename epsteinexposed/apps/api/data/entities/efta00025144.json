@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00025144",
+    "filename": "EFTA00025144.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025144.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM <bcstemheim@mac.com> \nTo:'\nCc: Christian Everdell <CEverdell@CohenGresser.com>, Laura Menninger \n<Imenninger@hmflaw.com>, Jeff Pagliuca <jpagliuca@lunflaw.com> \nSubject: [EXTERNAL] Re: US v. Maxwell S2 20 \nCr 330 (MN) \nDate: Wed, 27 Oct 2021 14:18:11 +0000 \nAttachments: 10-27 It to Court pdf ATT00001.htm \nCourtesy \ncopy of today's ECF filing. \nEFTA00025144",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "bcstemheim@mac.com> \nTo:'\nCc: Christian Everdell <CEverdell@CohenGresser.com>,"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "<CEverdell@CohenGresser.com>, Laura Menninger \n<Imenninger@hmflaw.com>, Jef"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "ger \n<Imenninger@hmflaw.com>, Jeff Pagliuca <jpagliuca@lunflaw.com> \nSubj"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.566Z"
+}

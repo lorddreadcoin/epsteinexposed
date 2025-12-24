@@ -1,0 +1,47 @@
+{
+  "document": {
+    "id": "efta00027419",
+    "filename": "EFTA00027419.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027419.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \nSubject: Travel Confirmation Information -\nDate: Fri, 10 Sep 2021 18:01:09 +0000 \nAttachments: VVQERK.pdf; \nGood Afternoon \nAttached please find your flight itinerary and hotel confirmation. Delancey Car Service will pick you up at the airport when \nyou arrive. If you need to locate the car, their number is 212-228-3301, confirmation # 758261. They will drop you off at \nthe hotel. Please give me a  call when your meeting is complete and I will have the car service pick you up to take you back \nto the airport. \nPlease let me know if you have any questions. \nRegards, \nFact Witness Coordinator —  FSA Contractor \nU.S. Department of Justice \nU.S. Attorney's Office, SDNY \nNew \nYork, New York 10007 \nPhone: \nCell: \nEFTA00027419",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Confirmation",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nCc: \nSubject: Travel Confirmation Information -\nDate: Fri, 10 S"
+      },
+      {
+        "name": "Good Afternoon",
+        "role": "extracted",
+        "context": "00 \nAttachments: VVQERK.pdf; \nGood Afternoon \nAttached please find your fl"
+      },
+      {
+        "name": "Delancey Car",
+        "role": "extracted",
+        "context": "erary and hotel confirmation. Delancey Car Service will pick you up at t"
+      },
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "ave any questions. \nRegards, \nFact Witness Coordinator —  FSA Contractor"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "U.S. Attorney's Office, SDNY \nNew \nYork, New York 10007 \nPhone: \nCell"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "212-228-3301"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.246Z"
+}

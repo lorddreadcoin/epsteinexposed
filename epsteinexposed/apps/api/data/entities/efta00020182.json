@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020182",
+    "filename": "EFTA00020182.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020182.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: II H 11 \nSubject: Epstein Pros Memo \nDate: Wed, 14 Aug 2019 17:14:45 +0000 \nCan you send it to me? \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00020182",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Pros",
+        "role": "extracted",
+        "context": "ANYS)\" \nTo: II H 11 \nSubject: Epstein Pros Memo \nDate: Wed, 14 Aug 2019"
+      },
+      {
+        "name": "Memo \nDate",
+        "role": "extracted",
+        "context": "I H 11 \nSubject: Epstein Pros Memo \nDate: Wed, 14 Aug 2019 17:14:45 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "0000 \nCan you send it to me? \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d it to me? \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000201"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.350Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028756",
+    "filename": "EFTA00028756.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028756.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: ' \nSubject: FW: Epstein and Maxwell \nDate: Mon, 06 Jul 2020 14:03:45 +0000 \nFrom: Hogeweide, Caolan \nSent: Friday, July 3, 2020 7:01 AM \nTo: (USANYS) ‹> \nSubject: Epstein and Maxwell \nHello, \nI'm concerned that Ghislaine Maxwell will suffer the same fate as Jeffrey Epstein if kept in jail without 24 hour \nsupervision. There are many intelligence agencies and powerful individuals that don't want her to talk. Who \nknows, maybe even prison guards or inmates are being offered money to take her out. \nPlease don't let Maxwell end up \"killing herself' \nEFTA00028756",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "at Ghislaine Maxwell will suffer the same fate as Jeffrey Epstein if kept in jail without 24 hour \nsupervision. The"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": ": Epstein and Maxwell \nHello, \nI'm concerned that Ghislaine Maxwell will suffer the same fate as Jeffrey Epstein if k"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": ": ' \nSubject: FW: Epstein and Maxwell \nDate: Mon, 06 Jul 2020 14:03:45 +0"
+      },
+      {
+        "name": "Caolan \nSent",
+        "role": "extracted",
+        "context": "03:45 +0000 \nFrom: Hogeweide, Caolan \nSent: Friday, July 3, 2020 7:01 AM"
+      },
+      {
+        "name": "Maxwell \nHello",
+        "role": "extracted",
+        "context": "NYS) ‹> \nSubject: Epstein and Maxwell \nHello, \nI'm concerned that Ghislain"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-03",
+        "event": "July 3, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.892Z"
+}

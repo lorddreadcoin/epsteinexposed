@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00027242",
+    "filename": "EFTA00027242.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027242.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: \"Biase Nicholas \nSubject: Re: Epstein \nDate: Sat, 10 Aug 2019 13:14:10 +0000 \nhftpMsytimes.corn/2019/08/10/nyngisLiljeffrey-epstein-suicide.html \nChief Public Information Officer \nU.S. \nAttorney's Office SDNY \nOn \nAug 10, 2019, at 9:01 AM, > wrote: \nhttps://www.google.corn/amp/s/nypost.corn/2019/08/10/convicted-  edo hile-jeffrey-epstein-dead/amp/ \nOn Aug 10, 2019, at 8:55 AM, > wrote: \nNew York Post is on this too. It  sounds like they'll report it shortly. \nSent from my iPhone \nOn Aug 10, 2019, at 8:43 AM, > wrote: \nI  think we have to wait for BOP or USMS to \nissue statement. \nSent from my iPhone \nOn Aug 10, 2019, at 8:31 AM, \n> \nwrote: \nCan we confirm to the press? Or should we refer them to BOP? \nEFTA00027242\n\nOn Aug 10, 2019, at 8:24 AM, Berman, Geoffrey \n(USANYS) \n> wrote: \nI just got a call from that Epstein committed suicide this morning. He died on the way to \nthe hospital. \nEFTA00027243",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Biase Nicholas",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nCc: \"Biase Nicholas \nSubject: Re: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\"Biase Nicholas \nSubject: Re: Epstein \nDate: Sat, 10 Aug 2019 13:14:10 +0"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "jeffrey-epstein-suicide.html \nChief Public Information Officer \nU.S. \nAt"
+      },
+      {
+        "name": "Information Officer",
+        "role": "extracted",
+        "context": "in-suicide.html \nChief Public Information Officer \nU.S. \nAttorney's Office SDNY"
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": "U.S. \nAttorney's Office SDNY \nOn \nAug 10, 2019, at 9:01 AM, > wrote"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "le-jeffrey-epstein-dead/amp/ \nOn Aug 10, 2019, at 8:55 AM, > wrote"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "rt it shortly. \nSent from my iPhone \nOn Aug 10, 2019, at 8:43 AM, > w"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.830Z"
+}

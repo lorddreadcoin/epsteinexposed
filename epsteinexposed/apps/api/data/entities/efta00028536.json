@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028536",
+    "filename": "EFTA00028536.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028536.pdf",
+    "text": "\n\nFrom: 'a' \nTo:'\nSubject: \nDate: Thu, 08 Aug 2019 16:54:53 +0000 \nhttps://www.google.com/imgres?imigurl=https%3A%2F%2Fwww.cbs17.com%2Fwp-\ncontent%2Fuploads%2Fsites%2F29%2F2019%2F07%2FAP19191591247502.jpg%3Fw%3D9008timgrefurl=https%3A%2F%2 \nFwww.cbs17.com%2Fnews%2Fon-caribbean-island-whispers-suspicion-about-\nepstein%2F&docid=W6F1s3AkF679M&tbnid=e7BGUFloaqQEbM%3A&vet=10ahUKEwiaj-yi3vPjAhWPmOAKHc6-\nDgAQMwhYKBAwEA..i&w=900&h=937&bih=830&biw=1444&q=little%20saint%20james%20island&yed=0ahUKEwiQj-\nyi3yPjAhWPmOAKHc6-DgAQMwhYKBAwEA&iact=mrc&uact=8 \nAssistant United States Attorney \nSouthern District of New York \nEFTA00028536",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "AQMwhYKBAwEA&iact=mrc&uact=8 \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "=mrc&uact=8 \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00028536"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.425Z"
+}

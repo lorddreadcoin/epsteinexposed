@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00029497",
+    "filename": "EFTA00029497.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029497.pdf",
+    "text": "\n\nFrom: ' \n)\" \nTo:' \n)\" \nSubject: FW: RE: Outlook question \nDate: Sun, 11 Oct 2020 15:54:48 +0000 \nEMAIL TO FILE: \nDuring the course of reviewing my emails, as described in the Epstein Transition Memo dated October 9, 2020, I moved \napproximately 160 non-substantive (but arguably or clearly related to the case in some fashion) emails to a separate \nfolder in Outlook. In the process of doing so, approximately 140 of those emails were duplicated. Today, I deleted the \nduplicate version of those emails, taking care to ensure that one copy of each email remains in that folder, consistent with \nthe litigation hold in this case. \nFrom: USANYS-IT Services \nSent: Friday, October 09, 2020 19:49 \nTo: \nSubject: RE: RE: Outlook question \nDo not believe there is a de-dupe option. \nFrom: \nSent: Friday, October 9, 2020 7:43 PM \nTo: USANYS-IT Services \nSubject: RE: Outlook question \nSorry for the bother, but I copied a number of emails into a new Outlook folder and it somehow appears to have doubled \nevery single email. Is there a way to update / de-dupe that? Or do I need to individually delete every other email to get it \nback to normal?? Thank you! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00029497",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Transition",
+        "role": "extracted",
+        "context": "y emails, as described in the Epstein Transition Memo dated October 9, 2020, I"
+      },
+      {
+        "name": "Services \nSent",
+        "role": "extracted",
+        "context": "n this case. \nFrom: USANYS-IT Services \nSent: Friday, October 09, 2020 19:"
+      },
+      {
+        "name": "Services \nSubject",
+        "role": "extracted",
+        "context": ", 2020 7:43 PM \nTo: USANYS-IT Services \nSubject: RE: Outlook question \nSorry"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "?? Thank you! \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-09",
+        "event": "October 9, 2020"
+      },
+      {
+        "date": "2020-10-09",
+        "event": "October 09, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.541Z"
+}

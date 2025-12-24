@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00011163",
+    "filename": "EFTA00011163.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011163.pdf",
+    "text": "\n\nFrom: \nTo \nCc: \nSubject: Defense MIL 4 \nDate: Tue, 19 Oct 2021 14:55:18 +0000 \nAttachments: 4. Motion to Exclude Accuser-3 Evidence.pdf \nHeM \nCan we talk about defense MIL 4 sometime today or tomorrow? I think you briefed basically the same issue as a pretrial \nmotion, so it'd be great to talk through how to respond. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York. New York 10007 \nEFTA00011163",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: \nSubject: Defense MIL 4 \nDat"
+      },
+      {
+        "name": "Exclude Accuser",
+        "role": "extracted",
+        "context": "00 \nAttachments: 4. Motion to Exclude Accuser-3 Evidence.pdf \nHeM \nCan we t"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ugh how to respond. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York. New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.233Z"
+}

@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00021275",
+    "filename": "EFTA00021275.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021275.pdf",
+    "text": "\n\nFrom (USANYS)\" \nTo: ' (USANYS)\"\nSubject: Re: Epstein \nDate: Sat, 06 Jul 2019 23:24:36 +0000 \nImportance: Normal \nYes. \nSaw that and sent same to Iris. \nThanks. \nSent from my iPhone \nOn \nJul 6, 2019, at 7:23 PM, (USANYS) < \n> \nwrote: \nI think you meant to send this to. \nSent from my iPhone \nOn Jul 6, 2019, at 7:19 PM, (USANYS) < wrote: \nReconfirmed; \nSW only for the house. \nHowever, CNN has called asking us to confirm arrest. \nSent from my iPhone \nOn Jul 6, 2019, at 7:11 PM, \nNo it is for \nhouse \nSent from my iPhone \nOn \nJul 6, 2019, at 7:08 PM, \n(USANYS) < \n> wrote: \n(USANYS) < > \nwrote: \nSee question below. I  thought SW only for plane. Not NYC house. \nPlease confirm. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDate: July 6, 2019 at 6:55:50 PM EDT\nTo: \nSubject: Fwd: Epstein \nEFTA00021275\n\nPlease see question below. Do you happen to know the answer? \nBegin forwarded message: \nFrom: \nDat  :  July 6. 2019 at 6:36:23 PM EDT \nTo: ci)jimdspj,ggs>, ' \nSubject: Epstein \n \n@jrnd.usdoiggi> \nIs in custody after flying into Teterboro, NJ today. Iris, do you know of plans to execute search \nwarrants? I  understand there is one for his Manhattan residence but I am not sure if there are others. \nEFTA00021276",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To: ' (USANYS)\"\nSubject: Re: Epstein \nDate: Sat, 06 Jul 2019 23:24:36 +0"
+      },
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "9 23:24:36 +0000 \nImportance: Normal \nYes. \nSaw that and sent same to I"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "Iris. \nThanks. \nSent from my iPhone \nOn \nJul 6, 2019, at 7:23 PM, (US"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "lease confirm. \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Teterboro",
+        "type": "location"
+      },
+      {
+        "name": "Teterboro, NJ",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "July 6, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.330Z"
+}

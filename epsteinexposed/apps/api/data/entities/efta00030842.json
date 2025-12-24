@@ -1,0 +1,116 @@
+{
+  "document": {
+    "id": "efta00030842",
+    "filename": "EFTA00030842.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030842.pdf",
+    "text": "\n\nFrom: ' \nTo:'\nCc: ' \nSubject: RE: Brunel \nDate: Tue, 12 Jan 2021 15:01:16 +0000 \nThankNe \ncan use the following: \nFrom: \n) 'cz)\nSent: Tuesday, January 12, 2021 9:55 AM \nTo: \nCc: \nSubject: RE: Brunel \nSure, I can do 11am. \nLet me know what # to call. \nU.S. Embassy, \nParis \nFrom: \nSent: Tuesday, January 12, 2021 3:36 PM \nTo: \nCc: \nSubject: RE: Brunel \nThanks very much] \nDo you have a few minutes to speak today about this? I'm available after 11 am EST. \nFrom: \n)\nSent: Tuesday, January 12, 2021 6:11 AM \nTo: Ia'; \nCc: \nSubject: RE: Brunel \nHere are my comments. \nU.S. Embassy, \nParis \nEFTA00030842\n\nFrom: \nSent: Friday, January 8, 2021 7:32 PM \nTo: \nCc: \nSubject: RE: Brunel \nHi \nThanks again for the update and all of your help. Attached please find our MLAT request. Please let us know if you have \nany questions or would like to discuss. \nBest, \nFrom: \nSent: Thursday, January 07, 2021 11:12 PM \nTo: \nCc: \nSubject: RE: Brunel \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Thursday, January 7, 2021 5:17 PM \nTo: \nCc: \nSubject: \nBrunel \n>; \nDear all: \nEFTA00030843\n\nMy meeting on Brunel went well this afternoon. Here is the quick read out: \nEFTA00030844\n\nU.S. Embassy, Paris \nFrom: \nSent: Thursday, January 7, 2021 12:38 AM \nTo: \nCc: \nSubject: RE: France \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \n) \nSent: Wednesday, January 6, 2021 10:15 AM \nTo: \nCc: \nSubject: RE: France \n>; \nFurther to our call yesterday, here are the points I plan to make at my meeting tomorrow. Thanks in advance for letting me \nknow if you see any errors, omissions, or additions to make: \nEFTA00030845\n\nU.S. Embassy, Paris \nFrom: \nSent: Tuesday, January 5, 20219:02 PM \nTo: \nCc: \nSubject: France \nHere is our go-by for an outgoing request to France. \nU.S. Embassy, Paris \n>; \nEFTA00030846",
+    "pageCount": 5,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brunel \nDate",
+        "role": "extracted",
+        "context": ": ' \nTo:'\nCc: ' \nSubject: RE: Brunel \nDate: Tue, 12 Jan 2021 15:01:16 +0"
+      },
+      {
+        "name": "Brunel \nSure",
+        "role": "extracted",
+        "context": "55 AM \nTo: \nCc: \nSubject: RE: Brunel \nSure, I can do 11am. \nLet me know"
+      },
+      {
+        "name": "Paris \nFrom",
+        "role": "extracted",
+        "context": "at # to call. \nU.S. Embassy, \nParis \nFrom: \nSent: Tuesday, January 12,"
+      },
+      {
+        "name": "Brunel \nThanks",
+        "role": "extracted",
+        "context": "36 PM \nTo: \nCc: \nSubject: RE: Brunel \nThanks very much] \nDo you have a few"
+      },
+      {
+        "name": "Brunel \nHere",
+        "role": "extracted",
+        "context": "To: Ia'; \nCc: \nSubject: RE: Brunel \nHere are my comments. \nU.S. Embass"
+      },
+      {
+        "name": "Brunel \nHi",
+        "role": "extracted",
+        "context": "32 PM \nTo: \nCc: \nSubject: RE: Brunel \nHi \nThanks again for the update"
+      },
+      {
+        "name": "Brunel \nAssistant",
+        "role": "extracted",
+        "context": "12 PM \nTo: \nCc: \nSubject: RE: Brunel \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "unel \nAssistant United States Attorney \nSouthern District of New York \n1 St. A"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent:"
+      },
+      {
+        "name": "France \nThanks",
+        "role": "extracted",
+        "context": "38 AM \nTo: \nCc: \nSubject: RE: France \nThanks, \nAssistant United States Att"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Subject: RE: France \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ce \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "France \nHere",
+        "role": "extracted",
+        "context": "219:02 PM \nTo: \nCc: \nSubject: France \nHere is our go-by for an outgoing"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-01-12",
+        "event": "January 12, 2021"
+      },
+      {
+        "date": "2021-01-08",
+        "event": "January 8, 2021"
+      },
+      {
+        "date": "2021-01-07",
+        "event": "January 07, 2021"
+      },
+      {
+        "date": "2021-01-07",
+        "event": "January 7, 2021"
+      },
+      {
+        "date": "2021-01-06",
+        "event": "January 6, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.814Z"
+}

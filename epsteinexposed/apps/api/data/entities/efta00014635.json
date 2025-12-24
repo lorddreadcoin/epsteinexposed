@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014635",
+    "filename": "EFTA00014635.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014635.pdf",
+    "text": "\n\nFrom: \nSubject: US v. Maxwell - Joint Letter it Pretrial Schedule \nDate: Fri, 14 May 2021 15:49:38 +0000 \nAttachments: 2021-05-14_Joint_Letter_re_Pretrial_Schedule.pdf \nAs discussed yesterday, attached is a proposed joint letter seeking an extension of the deadline to file a letter regarding \nthe pretrial schedule. Please let us know if you have any comments. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00014635",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Joint Letter",
+        "role": "extracted",
+        "context": "om: \nSubject: US v. Maxwell - Joint Letter it Pretrial Schedule \nDate: F"
+      },
+      {
+        "name": "Pretrial Schedule",
+        "role": "extracted",
+        "context": "v. Maxwell - Joint Letter it Pretrial Schedule \nDate: Fri, 14 May 2021 15:49"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "have any comments. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00014635"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-14",
+        "event": "14 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.242Z"
+}

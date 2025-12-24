@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00020243",
+    "filename": "EFTA00020243.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020243.pdf",
+    "text": "\n\nFrom: Christian Everdell  \nTo: \nCc: \nJeff Pa \nSTERNHEIM' \nSubject: Letter to Judge Nathan \nDate: Fri, 30 Apr 2021 21:56:35 +0000 \nAttachments: 2021.04.30_Letter_to_Judge_Nathan_re_Hard_Drives.pdf \nInline-Images: image005.jpg; image006.jpg \n, \"'Laura Menninger\" \ncoca \n, 'BOBBI C \nPlease see the attached letter to Judge Nathan, which was just filed on the docket. \nRegards, \nCOHEN &  GRESSER LLP \nview bio \n.N.cohengresser.com \nNew York I  Paris I  Washington DC I  London \nCONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended to be reviewed initially by only \nthe individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient. you are hereby notified that any \nreview. dissemination or copying of this e-mail or the information contained herein is prohibited. If you have received this e-mail in error. please immediately notify \nthe sender by telephone and \npermanently \ndelete this e-mail. Thank you. \nPRIVACY: A complete copy of our privacy policy can be viewed at MoslAirww.cohengressercom/privacL-policy.\nEFTA00020243",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: Christian Everdell  \nTo: \nCc: \nJeff Pa \nSTERNHEI"
+      },
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": "hristian Everdell  \nTo: \nCc: \nJeff Pa \nSTERNHEIM' \nSubject: Letter"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "TERNHEIM' \nSubject: Letter to Judge Nathan \nDate: Fri, 30 Apr 2021 21:56"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "age005.jpg; image006.jpg \n, \"'Laura Menninger\" \ncoca \n, 'BOBBI C \nPlease se"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.471Z"
+}

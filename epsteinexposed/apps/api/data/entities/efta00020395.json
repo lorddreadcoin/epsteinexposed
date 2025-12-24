@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00020395",
+    "filename": "EFTA00020395.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020395.pdf",
+    "text": "\n\nFrom: ' \nr  \nTo: \nUlMir \nArraignment \nNYSD \nSubject: FW: Signed warrant \nDate: Thu, 09 Jul 2020 20:23:56 +0000 \nAttachments: Application_for Second_Warrant & OrderiMaxwell_GPS).pdf; Exhibit_A_-\nMaxwell signa indictment.pdfr DThibit B -_Maxwell arrest_ warrant signed.pdf; \nExhibit C- 202(106.29 Application for—MIcwell_GPSIComo.pdf; ETchibit_D_-\n2020.56.19-_Maxwell_dPS_Combo ivarrant.pdf \nGood \nafternoon, \nWould someone be able to please send me a  stamped copy of this application and warrant? Judge Parker sent the \nattached signed copy late on June 30th, but I  can't seem to find a  stamped version with a mag number. \nThank you very much, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Tuesday, June 30, 2020 10:10 PM \nTo: \nCc: \nSubject: Signed \nwarrant \nGet \nOutlook for iOS \nEFTA00020395",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mir \nArraignment",
+        "role": "extracted",
+        "context": "From: ' \nr  \nTo: \nUlMir \nArraignment \nNYSD \nSubject: FW: Signed wa"
+      },
+      {
+        "name": "Judge Parker",
+        "role": "extracted",
+        "context": "this application and warrant? Judge Parker sent the \nattached signed cop"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "umber. \nThank you very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent:"
+      },
+      {
+        "name": "Get \nOutlook",
+        "role": "extracted",
+        "context": "c: \nSubject: Signed \nwarrant \nGet \nOutlook for iOS \nEFTA00020395"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-30",
+        "event": "June 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.772Z"
+}

@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00023973",
+    "filename": "EFTA00023973.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023973.pdf",
+    "text": "\n\n90A-NY-3151227 Serial 1 \nFD-1057 (Rcv. 5-8-I0) \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: (U) Opening \nEC \nDate: \n08/12/2019 \nCC: \nFrom: NEW YORK \nNY-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nSynopsis: (U) To open assign full \ninvestigation. \nDetails: \nOn Saturday, 8/10/2019, JEFFREY \nEPSTEIN was discovered unresponsive in \nhis jail cell at the Metropolitan Correctional Facility (MCC), \n. EPSTEIN was \ndiscovered with a fabricated noose around \nhis neck in what \nwas an apparent suicide. \nPreliminary investigation \nrevealed a series of protocol failures by \nMCC personnel, as \nwell as \ntechnical failures/deficiencies \nwithin the MCC \nat the time EPSTEIN was discovered. \n.• \nAs a result, a death investigation was initiated. \nUNCLASSIFIED \nEFTA00023973",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ed By: \nCase ID #: 90A-NY-3151227 \n(U) UNSUB(S); \nJEFFREY EPSTEIN - VICTIM; \nDEATH INVESTIGATION \nSynopsis: (U) To"
+      },
+      {
+        "name": "Electronic Communication",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nElectronic Communication \nTitle: (U) Opening \nEC \nDate"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": ": NEW YORK \nNY-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "-C19 \nContact: \nApproved By: \nDrafted By: \nCase ID #: 90A-NY-3151227"
+      },
+      {
+        "name": "On Saturday",
+        "role": "extracted",
+        "context": "ll \ninvestigation. \nDetails: \nOn Saturday, 8/10/2019, JEFFREY \nEPSTEIN"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "sive in \nhis jail cell at the Metropolitan Correctional Facility (MCC), \n. EPSTEIN wa"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-12",
+        "event": "08/12/2019"
+      },
+      {
+        "date": "2019-08-10",
+        "event": "8/10/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.002Z"
+}

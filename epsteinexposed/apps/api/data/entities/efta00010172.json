@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00010172",
+    "filename": "EFTA00010172.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010172.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: 302 \nDate: Thu, 11 Nov 2021 17:34:33 +0000 \nAttachments: (U) \nInterview \nof pdf \nHi —  can you please add t \nout today. \nwitness and 3500 folder? This can be added to the production we are hoping to get \nFrom \nSent: Thursda November 11, 2021 12:33 PM \nTo \nSubject: [EXTERNAL] Re: 02 \nHere's the 3O2 \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nIt's still awaiting supervisor sign off. I will try and find a relief supervisor to sign off on it tomorrow (it's a holiday so \nn\nout). Will let you know. \n> On Nov 10, 2021, at 19:56, mote: \n> CAUTION! EXTERNAL SENDER \n> STOP WHEN UNSURE. Never click on links or open attachments if sender is unknown, and never provide user ID or \npassword. Suspicious? Please report to this email address: reportphishingPnypd.org \n> H \n> Just checking in on this. When will you get this to us? \nEFTA00010172\n\n> \nThanks, \nEFTA00010173",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "duction we are hoping to get \nFrom \nSent: Thursda November 11, 2021 12"
+      },
+      {
+        "name": "Thursda November",
+        "role": "extracted",
+        "context": "re hoping to get \nFrom \nSent: Thursda November 11, 2021 12:33 PM \nTo \nSubjec"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "a November 11, 2021 12:33 PM \nTo \nSubject: [EXTERNAL] Re: 02 \nHere's th"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "3O2 \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "PD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nIt's sti"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nIt's still awaiting"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "n\nout). Will let you know. \n> On Nov 10, 2021, at 19:56, mote: \n>"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-11",
+        "event": "November 11, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.431Z"
+}

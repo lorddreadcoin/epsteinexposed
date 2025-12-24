@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021314",
+    "filename": "EFTA00021314.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021314.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: \nDate: Fri, 27 Sep 2019 17:47:24 +0000 \nAttachments: Agg_Harrass_1996.pdf \nHi M, \nI know we've discussed the attached report before, but could you please double check whether there are any additional \nNYPD records (including archived files) related to the report? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00021314",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ated to the report? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00021314"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.405Z"
+}

@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00032210",
+    "filename": "EFTA00032210.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032210.pdf",
+    "text": "\n\nFrom: \"spamcontrol®usdoj.gov\" <spamcontrol®usdoj.gov> \nTo: \nSubject: End User Digest: 1  New Message \nDate: Mon, 24 Aug 2020 10:13:22 +0000 \nInline-Images: logo.jpeg \nDEPARTMENT, \nJUSTICE \nEnd User Digest: 1 New Message \nFor \nThe emails listed below have been placed in your personal Quarantine since you received your last End User Digest. They will \nbe deleted after 14 days. To deliver an e-mail to your inbox, click on Release. To deliver an e-mail to your inbox and add the e-\nmail sender to your Safe Senders List, click on Release and Allow Sender. This ensures that no emails from that sender will be \nblocked in the future. To report messages that are not spam but are reported in the digest, click on Not Spam. \nRequest New End User Digest   Request Safe/Blocked Senders List   Manage My Account   Questions about digesting?\nThe emails listed in this section have been placed in your personal Quarantine. Click Release to deliver the email to your inbox. \nTo continue to receive future emails from the sender, click Allow Sender. To report messages that are not spam but are included \nin the Spam - Quarantined section, click Not Spam. \nSpam - Quarantined \nScore I From \n100 srs0=qxsfmx=cb \n I Su klect I Date *non \n  Epstein's 2020- Releas.\nClinton 15:04:00 \nBuddy 08-23 \nand \nRelease \nVow \nSpam \nSender \nFor more information contact your System Administrator. \nPowered by Prootical Protection Server \nEFTA00032210",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "End User",
+        "role": "extracted",
+        "context": "rol®usdoj.gov> \nTo: \nSubject: End User Digest: 1  New Message \nDate:"
+      },
+      {
+        "name": "New Message",
+        "role": "extracted",
+        "context": "Subject: End User Digest: 1  New Message \nDate: Mon, 24 Aug 2020 10:13"
+      },
+      {
+        "name": "For \nThe",
+        "role": "extracted",
+        "context": "d User Digest: 1 New Message \nFor \nThe emails listed below have been"
+      },
+      {
+        "name": "Safe Senders",
+        "role": "extracted",
+        "context": "dd the e-\nmail sender to your Safe Senders List, click on Release and Al"
+      },
+      {
+        "name": "Allow Sender",
+        "role": "extracted",
+        "context": "rs List, click on Release and Allow Sender. This ensures that no emails"
+      },
+      {
+        "name": "Not Spam",
+        "role": "extracted",
+        "context": "orted in the digest, click on Not Spam. \nRequest New End User Digest"
+      },
+      {
+        "name": "Request New",
+        "role": "extracted",
+        "context": "e digest, click on Not Spam. \nRequest New End User Digest   Request Saf"
+      },
+      {
+        "name": "Digest   Request",
+        "role": "extracted",
+        "context": "t Spam. \nRequest New End User Digest   Request Safe/Blocked Senders List   M"
+      },
+      {
+        "name": "Blocked Senders",
+        "role": "extracted",
+        "context": "nd User Digest   Request Safe/Blocked Senders List   Manage My Account   Qu"
+      },
+      {
+        "name": "List   Manage",
+        "role": "extracted",
+        "context": "Request Safe/Blocked Senders List   Manage My Account   Questions about"
+      },
+      {
+        "name": "My Account",
+        "role": "extracted",
+        "context": "Blocked Senders List   Manage My Account   Questions about digesting?"
+      },
+      {
+        "name": "Click Release",
+        "role": "extracted",
+        "context": "in your personal Quarantine. Click Release to deliver the email to your"
+      },
+      {
+        "name": "Quarantined \nScore",
+        "role": "extracted",
+        "context": "tion, click Not Spam. \nSpam - Quarantined \nScore I From \n100 srs0=qxsfmx=cb"
+      },
+      {
+        "name": "Release \nVow",
+        "role": "extracted",
+        "context": "n 15:04:00 \nBuddy 08-23 \nand \nRelease \nVow \nSpam \nSender \nFor more infor"
+      },
+      {
+        "name": "Spam \nSender",
+        "role": "extracted",
+        "context": "ddy 08-23 \nand \nRelease \nVow \nSpam \nSender \nFor more information contact"
+      },
+      {
+        "name": "System Administrator",
+        "role": "extracted",
+        "context": "more information contact your System Administrator. \nPowered by Prootical Protec"
+      },
+      {
+        "name": "Prootical Protection",
+        "role": "extracted",
+        "context": "em Administrator. \nPowered by Prootical Protection Server \nEFTA00032210"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.870Z"
+}

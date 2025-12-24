@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00029598",
+    "filename": "EFTA00029598.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029598.pdf",
+    "text": "\n\nFrom: \nSubject: Fwd: Availability tomorrow? \nDate: Sat, 04 Sep 2021 01:40:44 +0000 \nHey Guys, \nPer the below FBI reached out to us about a threat being made by a woman who was denied status as an Epstein \nvictim to the woman who oversees the victim compensation fund. \nWe're going to handle in the normal fashion (threat assessment, locate the target, do an approach and warn her \noff) but wanted to flag for you given the Epstein connection. \nLet me know if you want to discuss. \nSent from my iPhone \nBegin forwarded message: \nFront: \nSubject: Re: Availability tomorrow? \nSorry for the delay. \nis our victim and oversees the applications for the Epstein Victim \nCompensation Fund. \nis \nThe individual who has been making threats is Allison Huxtable. \nThank IM \nSpecial Agent \nFBI I New York Office \nViolent Crimes Task Force \nEFTA00029598\n\nFrom: \nSent: Friday. \nSeptember 3, 2021, 19:39 \nTo: \nCc: \nSubject: [EXTERNAL EMAIL] - Re: Availability tomorrow? \nJust wanted to make sure you were sending the info we discussed. \nSent from my iPhone \nOn \nSep 2, 2021, at 9:18 PM, Mermelstein, \nSure, I'm generally around tomorrow. \nFrom: .c.IPRETSIS@fbi.gov> \nSent: Thursday, September 2, 20219:01 PM \nTo: \nSubject: Availability tomorrow? \nHi \n(EJSANYS) \nwrote: \nHope all is well. Do you have any availability tomorrow for a quick phone call? We want to make you aware of a case \nwe opened today and an interview that will most likely happen tomorrow. \nIt's a threat/stalking case involving a denied claim from the Epstein Compensation Fund. We don't need anything \nright now just want to put it on your radar and get your opinion. \nThank you, \nSpecial Agent \nFBI I New York \nOffice \nViolent Crimes Task Force \nEFTA00029599",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hey Guys",
+        "role": "extracted",
+        "context": ", 04 Sep 2021 01:40:44 +0000 \nHey Guys, \nPer the below FBI reached o"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "nt to discuss. \nSent from my iPhone \nBegin forwarded message: \nFront: \nS"
+      },
+      {
+        "name": "Epstein Victim",
+        "role": "extracted",
+        "context": "sees the applications for the Epstein Victim \nCompensation Fund. \nis \nThe"
+      },
+      {
+        "name": "Compensation Fund",
+        "role": "extracted",
+        "context": "tions for the Epstein Victim \nCompensation Fund. \nis \nThe individual who has"
+      },
+      {
+        "name": "Allison Huxtable",
+        "role": "extracted",
+        "context": "ho has been making threats is Allison Huxtable. \nThank IM \nSpecial Agent \nFB"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "Allison Huxtable. \nThank IM \nSpecial Agent \nFBI I New York Office \nViole"
+      },
+      {
+        "name": "Office \nViolent",
+        "role": "extracted",
+        "context": "Special Agent \nFBI I New York Office \nViolent Crimes Task Force \nEFTA000295"
+      },
+      {
+        "name": "Crimes Task",
+        "role": "extracted",
+        "context": "BI I New York Office \nViolent Crimes Task Force \nEFTA00029598\n\nFrom: \nS"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "we discussed. \nSent from my iPhone \nOn \nSep 2, 2021, at 9:18 PM, Mer"
+      },
+      {
+        "name": "Epstein Compensation",
+        "role": "extracted",
+        "context": "lving a denied claim from the Epstein Compensation Fund. We don't need anything"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-03",
+        "event": "September 3, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.764Z"
+}

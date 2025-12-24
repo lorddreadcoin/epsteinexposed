@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016163",
+    "filename": "EFTA00016163.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016163.pdf",
+    "text": "\n\n(NY) (FBI)\" \nSubject: Fwd: SDNY Premises Search Warrant Bundle (second \nrevised) copy \nDate: Thu, 02 Jul 2020 12:17:50 +0000 \nAttachments: SDNY_Premises_Search_Warrant_Bundleisecond_revisedLcopy.pdf; ATT00001.htm \nSigned affidavit and warrant attached. \nBegin forwarded message: \nFrom: ' \n(USANH)\" <:a \nDate: Jul 2 2020 at 8:14:23 AM EDT \nTo: \" \n\" \nSubject: Fwd: SDNY Premises Search Warrant Bundle (second revised) copy \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDate: Jul \nTo: \nczMIE> \n2, 2020 at 8:09:59 AM EDT \n(USANH)\" \n(USANH)\"\nSubject: SDNY Premises Search Warrant Bundle (second revised) copy \nEFTA00016163",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Premises Search",
+        "role": "extracted",
+        "context": "Y) (FBI)\" \nSubject: Fwd: SDNY Premises Search Warrant Bundle (second \nrevis"
+      },
+      {
+        "name": "Warrant Bundle",
+        "role": "extracted",
+        "context": "ct: Fwd: SDNY Premises Search Warrant Bundle (second \nrevised) copy \nDate:"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "revised) copy \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      },
+      {
+        "name": "Jul \nTo",
+        "role": "extracted",
+        "context": "warded message: \nFrom: \nDate: Jul \nTo: \nczMIE> \n2, 2020 at 8:09:59"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.136Z"
+}

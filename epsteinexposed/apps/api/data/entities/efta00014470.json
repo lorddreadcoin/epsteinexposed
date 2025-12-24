@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014470",
+    "filename": "EFTA00014470.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014470.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Re: \nDate: Tue, 16 Jul 2019 18:19:11 +0000 \nImportance: Normal \nYes I'll come by \nAssociate U.S. Attorney, SDNY \nOn Jul 16, 2019, at 1:52 PM, \nWanted to touch base on Epstein. Let me know if you have a  few \nminutes. \nChief, Criminal Division \nUnited States Attorney's Office, \nSDNY \n> \nwrote: \nEFTA00014470",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "9 18:19:11 +0000 \nImportance: Normal \nYes I'll come by \nAssociate U.S."
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "ssociate U.S. Attorney, SDNY \nOn Jul 16, 2019, at 1:52 PM, \nWanted"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "have a  few \nminutes. \nChief, Criminal Division \nUnited States Attorney's Off"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.913Z"
+}

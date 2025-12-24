@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00021375",
+    "filename": "EFTA00021375.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021375.pdf",
+    "text": "\n\nFrom: \".-> \nTo: \nr>, \nCc: \nBcc• \nSubject: RE: Motions to Suppress \nDate: Sat, 20 Feb 2021 23:02:03 +0000 \nEmbedded: \nRE:_Motions_to_Suppress.msg \nSender: \nSubject: RE: Motions to \nSuppress \nMessage\n-Id: \n<DM2PH0MB012196CAFC53849BE6AC2BDB89839@DM2P110MB0121.NAMP110.PROD.OUTLOOK.0 \nOM> \nTo: \nEFTA00021375",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Suppress \nDate",
+        "role": "extracted",
+        "context": "Bcc• \nSubject: RE: Motions to Suppress \nDate: Sat, 20 Feb 2021 23:02:03 +0"
+      },
+      {
+        "name": "Suppress \nMessage",
+        "role": "extracted",
+        "context": "er: \nSubject: RE: Motions to \nSuppress \nMessage\n-Id: \n<DM2PH0MB012196CAFC5384"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.541Z"
+}

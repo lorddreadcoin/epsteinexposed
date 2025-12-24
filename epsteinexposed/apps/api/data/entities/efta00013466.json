@@ -1,0 +1,72 @@
+{
+  "document": {
+    "id": "efta00013466",
+    "filename": "EFTA00013466.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013466.pdf",
+    "text": "\n\nEvent: Hearing on Epstein Motion to Quash \nStart Date: 2007-09-18 13:00:00 +0000 \nEnd Date: 2007-09-18 16:00:00 +0000 \nOrganizer \nLocation: Judge Marra \nClass: X-PERSONAL \nDate Created: 2015-03-27 13:42:56 +0000 \nDate Modified: 2015-07-22 20:34:49 +0000 \nPriority: 5 \nDTSTAMP: 2007-09-11 16:13:46 +0000 \nAttendee: \nEFTA00013466",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Motion",
+        "role": "extracted",
+        "context": "Event: Hearing on Epstein Motion to Quash \nStart Date: 2007-09"
+      },
+      {
+        "name": "Quash \nStart",
+        "role": "extracted",
+        "context": "Hearing on Epstein Motion to Quash \nStart Date: 2007-09-18 13:00:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2007-09-18 13:00:00 +0000 \nEnd Date: 2007-09-18 16:00:00 +0000 \nO"
+      },
+      {
+        "name": "Organizer \nLocation",
+        "role": "extracted",
+        "context": "e: 2007-09-18 16:00:00 +0000 \nOrganizer \nLocation: Judge Marra \nClass: X-PERSON"
+      },
+      {
+        "name": "Judge Marra",
+        "role": "extracted",
+        "context": "0 +0000 \nOrganizer \nLocation: Judge Marra \nClass: X-PERSONAL \nDate Crea"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "dge Marra \nClass: X-PERSONAL \nDate Created: 2015-03-27 13:42:56 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2015-03-27 13:42:56 +0000 \nDate Modified: 2015-07-22 20:34:49 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-09-18",
+        "event": "2007-09-18"
+      },
+      {
+        "date": "2015-03-27",
+        "event": "2015-03-27"
+      },
+      {
+        "date": "2015-07-22",
+        "event": "2015-07-22"
+      },
+      {
+        "date": "2007-09-11",
+        "event": "2007-09-11"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.652Z"
+}

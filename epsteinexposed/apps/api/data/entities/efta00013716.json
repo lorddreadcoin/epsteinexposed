@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00013716",
+    "filename": "EFTA00013716.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013716.pdf",
+    "text": "\n\nFrom: \" (USAFLS)\" < \nTo: \"Lanna \nBelohlavek \n)\" \nCc: ' (USAFLS)\" \nSubject: Jeffrey Epstein \nDate: Mon, 10 Dec 2007 22:26:13 +0000 \nImportance: Normal \nHi Lanna —  Sony for the delay. will confer with you about the facts that you requested. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nEFTA00013716",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "\"Lanna \nBelohlavek \n)\" \nCc: ' (USAFLS)\" \nSubject: Jeffrey Epstein \nDate: Mon, 10 Dec 2007 22:26:13 +0000 \nImportanc"
+      },
+      {
+        "name": "Lanna \nBelohlavek",
+        "role": "extracted",
+        "context": "From: \" (USAFLS)\" < \nTo: \"Lanna \nBelohlavek \n)\" \nCc: ' (USAFLS)\" \nSubject"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "7 22:26:13 +0000 \nImportance: Normal \nHi Lanna —  Sony for the delay."
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 \n820-8777 \nEFTA00013716"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.230Z"
+}

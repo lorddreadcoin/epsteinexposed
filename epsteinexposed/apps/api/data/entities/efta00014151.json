@@ -1,0 +1,71 @@
+{
+  "document": {
+    "id": "efta00014151",
+    "filename": "EFTA00014151.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014151.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Jeffrey Epstein \nDate: Mon, 24 Nov 2008 19:34:03 +0000 \nImportance: Normal \nWow --- have you heard anything back? \nFrom: Villafana, Ann Marie C. (USAFLS) \nSent: Monday, November 24, 2008 12:29 PM \nTo: Roy BLACK \nCc: Atkinson, Karen (USAFLS) \nSubject: Jeffrey Epstein \nDear Roy: \nPlease review the attached letter. \nThank you. \n<< File: 081124 tr to \nBlack.pdf \n» \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00014151",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: Jeffrey Epstein \nDate: Mon, 24 Nov 2008 19:34:03 +0000 \nImportanc"
+      },
+      {
+        "name": "Normal \nWow",
+        "role": "extracted",
+        "context": "8 19:34:03 +0000 \nImportance: Normal \nWow --- have you heard anything b"
+      },
+      {
+        "name": "Ann Marie",
+        "role": "extracted",
+        "context": "thing back? \nFrom: Villafana, Ann Marie C. (USAFLS) \nSent: Monday, No"
+      },
+      {
+        "name": "Dear Roy",
+        "role": "extracted",
+        "context": "S) \nSubject: Jeffrey Epstein \nDear Roy: \nPlease review the attached"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax 5"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax 561 820-8777 \nEFTA00014151"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-11-24",
+        "event": "November 24, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.271Z"
+}

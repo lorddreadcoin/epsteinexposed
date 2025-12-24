@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030612",
+    "filename": "EFTA00030612.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030612.pdf",
+    "text": "\n\nu jec : e: rpstem rassport \nPhotos \nDate: Wed, 17 Jul 2019 19:32:49 +0000 \nThanks \n> On Jul 17, 2019, at 15:23rote: \n>Mithanks very much for these. To confirm, we've received three emails, with nine photos total -- let us \nknow if that's everything or if we should have received (or should be expecting) more? And thanks again. \n> u .ject: pstem assport otos \n> Please let me know if there are issues opening and I can resend. Due to size, had to send multiple emails. \n> \nThanks, \n> FBI New York - C20 \n> VCAC/Human Trafficking \nEFTA00030612",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Photos \nDate",
+        "role": "extracted",
+        "context": "u jec : e: rpstem rassport \nPhotos \nDate: Wed, 17 Jul 2019 19:32:49 +0"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "019 19:32:49 +0000 \nThanks \n> On Jul 17, 2019, at 15:23rote: \n>Mit"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "> FBI New York - C20 \n> VCAC/Human Trafficking \nEFTA00030612"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.279Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00011050",
+    "filename": "EFTA00011050.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011050.pdf",
+    "text": "\n\nFrom: \nTo: USANYS-CRIMINAL AUSAS \"USANYS-\nCRIMINAL PARALEGALS\" USANYS-\nINVESTIGATORS \nSubject: Second Circuit oral arguments this week (April 26-30, 2021) \nDate: Mon, 26 Apr 2021 13:34:31 +0000 \nThe Office has two oral arguments in criminal cases scheduled before the Second Circuit this week. They will be argued by \nphone/zoom, and you can listen to the livestream at this link.  Also, you can click on the hyperlinks below to access our \nbriefs. \nMonday April 26, 2021 \n(Leval, Lohier, Sullivan) \nUnited States v. Ghislaine Maxwell \n• rguing \n•  Ball appeal \n•  First \non calendar; scheduled to start at 10:00 am \nEFTA00011050",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "2021 \n(Leval, Lohier, Sullivan) \nUnited States v. Ghislaine Maxwell \n• rguing \n•  Ball appeal \n•  First \non calendar;"
+      },
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "ANYS-\nINVESTIGATORS \nSubject: Second Circuit oral arguments this week (Apr"
+      },
+      {
+        "name": "The Office",
+        "role": "extracted",
+        "context": ", 26 Apr 2021 13:34:31 +0000 \nThe Office has two oral arguments in cri"
+      },
+      {
+        "name": "Monday April",
+        "role": "extracted",
+        "context": "below to access our \nbriefs. \nMonday April 26, 2021 \n(Leval, Lohier, Sul"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-26",
+        "event": "April 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.017Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027860",
+    "filename": "EFTA00027860.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027860.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \"Strauss, Audrey (USANYS)\" <\nIMINE> \nSubject: Re: Friendly \nSubpoena to \nAttorney \nDate: Fri, 26 Mar 2021 23:16:26 +0000 \nThanks very much. \nSent from my iPhone \nOn Mar 26, 2021, at 7:16 PM, Strauss, Audrey (USANYS) \nwrote: \nApproved \nSent from my iPhone \nOn Mar 26, 2021, at 12:05 PM, wrote:\nHi Audrey, \nThe Maxwell team would like to send the attached \"friendly subpoena\" to attorney \nDuring our interviews in Florida, informed me that he has a copy of the settlement agreement between \nand Epstein, which resolved 2009 civil suit against Epstein. is willing to provide us with a copy of the \nagreement, but he indicated that he believes he needs a subpoena before he can do so. His firm has already provided \nus with copies of all other court filings and deposition transcripts from the civil case voluntarily. The settlement \nagreement resolving the case is relevant to our ongoing investigation into Maxwell's participation in the abuse of \nand other underage girls. \nThanks, \n<2021.03.26, subpoena \nto \nEFTA00027860",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Friendly \nSubpoena",
+        "role": "extracted",
+        "context": "ANYS)\" <\nIMINE> \nSubject: Re: Friendly \nSubpoena to \nAttorney \nDate: Fri, 26 M"
+      },
+      {
+        "name": "Attorney \nDate",
+        "role": "extracted",
+        "context": "t: Re: Friendly \nSubpoena to \nAttorney \nDate: Fri, 26 Mar 2021 23:16:26 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "nks very much. \nSent from my iPhone \nOn Mar 26, 2021, at 7:16 PM, Str"
+      },
+      {
+        "name": "Approved \nSent",
+        "role": "extracted",
+        "context": "uss, Audrey (USANYS) \nwrote: \nApproved \nSent from my iPhone \nOn Mar 26, 20"
+      },
+      {
+        "name": "Hi Audrey",
+        "role": "extracted",
+        "context": "26, 2021, at 12:05 PM, wrote:\nHi Audrey, \nThe Maxwell team would like"
+      },
+      {
+        "name": "The Maxwell",
+        "role": "extracted",
+        "context": "12:05 PM, wrote:\nHi Audrey, \nThe Maxwell team would like to send the a"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.147Z"
+}

@@ -1,0 +1,127 @@
+{
+  "document": {
+    "id": "efta00023314",
+    "filename": "EFTA00023314.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023314.pdf",
+    "text": "\n\nCWT \nSatoTravel \nYour Itinerary \nTrip on Feb 26, 2020 \nLocator: Date: Feb 21, 2020 \nTraveler \nATTN-I\n'IMF?\nUS \nUSA \nALL MCO:S MUST BE MAILED TO. \nTHIS IS YOUR OFFICIAL RECEIPT FOR TRAVEL \nPLEASE RETAIN FOR VOUCHERING OR \nREIMBURSEMENT PURPOSES. \nCustomer Number 6435R7F \nAgent ZH \nFEES TOTALING 9.35PP CHARGED IN ADDITION TO \nTKT \nPRICE \nFEE-USD9.35PP-AIR DOMESTIC ONLINE \nWednesday, February 26, 2020 \nConfirmation. \nFlight JETBLUE AIRWAYS 123 \nDEPARTURE \nNEW \nYORK JFK, NY \n6:59 AM, Feb 26, 2020 \nARRIVAL \nLOS ANGELES,CA \n10:27 AM, Feb \n26, 2020 \nStatus Confirmed \nClass Coach Class •  Z \nDuration 06:28 (Non-stop) \nEquipment 325 \nMeal Service Snack \nReserved Seats 12C Aisle \nFrequent Flyer \nNotes DEP-TERMINAL 5 \nARR-TERMINAL 5 \nCABIN-ECONOMY \nWednesday, \nFebruary 26, 2020 \nConfirmation \nI..\nHotel THE BEVERLY HILTON \nLOCATION CONTACT \n9876 \nWILSHIRE BLVD \nTel \n1-310-274-7777 \nBEVERLY HILLS, CA US 90210 Fax 1-310-285-1313 \nReserved \nFor \nStatus \nConfirmed \nCheck-In Feb 26, 2020 \nCheck-Out Feb 28, 2020 \nNumber of Rooms 1 \nRate USD 181.00/night \nCancellation \nPolicy \nCancel 2  days prior \nD.-ect.ons \nLOS ANGELES INTL AIRPORT \nMonday, March 02, 2020 \nConfirmation \nEFTA00023314\n\nFlight 3ETBLUE AIRWAYS 624 \nDEPARTURE ARRIVAL \nLOS ANGELES,CA NEW YORK JFK, NY \n2:35 PM, Mar 02, 2020 10:58 PM, Mar 02, 2020 \nStatus Confirmed \nClass Coach Class - Y \nDuration 05:23 (Non-stop) \nEquipment 325 \nMeal Service Snack \nReserved Seats 21C (Aisle) \nFrequent Flyer \nNotes DEP-TERMINAL 5 \nARR-TERMINAL 5 \nCABIN-ECONOMY \nName \nbrake Ticket / nate. \nBase \nlax \n1 \nTAX 2 Tax \n4 \nTotal \n9.35 \n386.98 57.82 \n9.35 \n444.80 \nTotal \nAmount 454.15 \nGENERAL INFORMATION \n*******TO BOOK RESERVATIONS ONLINE PLEASE VISIT******* \n*******essemsascwismarRAvEL.cometsenesiiesseseeeeee \nFOR AIRPORT SECURITY INFORMATION SEE WWW.TSA.GOV \nUNUSED PAPER TICKETS MUST BE RETURNED TO CWTSATOTRAVEL \nCONTACT CWTSATOTRAVEL TO REFUND ELECTRONIC TICKETS \nFARES ARE NOT GUARANTEED UNTIL TICKETED \nCONTRACT CARRIER CITY PAIR FARES DO NOT REQUIRE \nADVANCE PURCHASE. ALL OTHER FARES MAY REQUIRE ADVANCE \nPURCHASE AND ARE NOT GUARANTEED UNTIL TICKETED \nTRANSACTION FEES ARE NONREFUNDABLE \nUNUSED PAPER TICKETS MUST BE RETURNED TO SATOTRAVEL \nCONTACT SATOTRAVEL TO REFUND ELECTRONIC TICKETS \nGOVERNMENT ISSUED ID IS REQUIRED \n THANK YOU FOR USING CWTSATOTRAVEL \nYOUR REFERENCE CODE IS *** SABRE OV4C \niieseemeseeseituninisiisenesseeseeseesees ********** \nPLEASE CALL LOCAL OFFICE DURING NORMAL BUSINESS HOURS \nTOLL FREE NUMBER 877-905.9644 MON-FRI 700A-700P CST \nFOR AFTER HOURS EMERGENCY SERVICE IF TRAVEL IS WITHIN \n24 HOURS CALL 1-877.905.9644 AND PRESS OPTION 1 \n****IF INTERNATIONAL 800 NUMBER DOES NOT WORK PLEASE*\" \n***nal' CALL COLLECT TO 210-877-3337 ************** \nPLEASE VISIT WWW.CARLSONWAGONLIT.COM/AIRLINEBAGGAGEFEES \nFOR BAGGAGE FEE INFORMATION. CHECK OPERATING CARRIER \nFOR ALLOWANCE IF TRAVELING ON CODE SHARE FLIGHT. \n***DID YOU KNOW WE CAN ALSO BOOK YOUR HOTELS AND RENTAL CARS\" \nEFTA00023315",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel \nYour",
+        "role": "extracted",
+        "context": "CWT \nSatoTravel \nYour Itinerary \nTrip on Feb 26, 20"
+      },
+      {
+        "name": "Itinerary \nTrip",
+        "role": "extracted",
+        "context": "CWT \nSatoTravel \nYour Itinerary \nTrip on Feb 26, 2020 \nLocator: Dat"
+      },
+      {
+        "name": "Customer Number",
+        "role": "extracted",
+        "context": "OR \nREIMBURSEMENT PURPOSES. \nCustomer Number 6435R7F \nAgent ZH \nFEES TOTAL"
+      },
+      {
+        "name": "Status Confirmed",
+        "role": "extracted",
+        "context": ",CA \n10:27 AM, Feb \n26, 2020 \nStatus Confirmed \nClass Coach Class •  Z \nDura"
+      },
+      {
+        "name": "Class Coach",
+        "role": "extracted",
+        "context": "26, 2020 \nStatus Confirmed \nClass Coach Class •  Z \nDuration 06:28 (N"
+      },
+      {
+        "name": "Meal Service",
+        "role": "extracted",
+        "context": "28 (Non-stop) \nEquipment 325 \nMeal Service Snack \nReserved Seats 12C Ais"
+      },
+      {
+        "name": "Snack \nReserved",
+        "role": "extracted",
+        "context": "Equipment 325 \nMeal Service Snack \nReserved Seats 12C Aisle \nFrequent Fly"
+      },
+      {
+        "name": "Aisle \nFrequent",
+        "role": "extracted",
+        "context": "ice Snack \nReserved Seats 12C Aisle \nFrequent Flyer \nNotes DEP-TERMINAL 5"
+      },
+      {
+        "name": "Flyer \nNotes",
+        "role": "extracted",
+        "context": "ved Seats 12C Aisle \nFrequent Flyer \nNotes DEP-TERMINAL 5 \nARR-TERMINAL"
+      },
+      {
+        "name": "Reserved \nFor",
+        "role": "extracted",
+        "context": "US 90210 Fax 1-310-285-1313 \nReserved \nFor \nStatus \nConfirmed \nCheck-In"
+      },
+      {
+        "name": "Status \nConfirmed",
+        "role": "extracted",
+        "context": "-310-285-1313 \nReserved \nFor \nStatus \nConfirmed \nCheck-In Feb 26, 2020 \nCheck"
+      },
+      {
+        "name": "In Feb",
+        "role": "extracted",
+        "context": "For \nStatus \nConfirmed \nCheck-In Feb 26, 2020 \nCheck-Out Feb 28, 2"
+      },
+      {
+        "name": "Out Feb",
+        "role": "extracted",
+        "context": "Check-In Feb 26, 2020 \nCheck-Out Feb 28, 2020 \nNumber of Rooms 1"
+      },
+      {
+        "name": "Cancellation \nPolicy",
+        "role": "extracted",
+        "context": "oms 1 \nRate USD 181.00/night \nCancellation \nPolicy \nCancel 2  days prior \nD.-ect"
+      },
+      {
+        "name": "Frequent Flyer",
+        "role": "extracted",
+        "context": "Reserved Seats 21C (Aisle) \nFrequent Flyer \nNotes DEP-TERMINAL 5 \nARR-TE"
+      },
+      {
+        "name": "Total \nAmount",
+        "role": "extracted",
+        "context": "386.98 57.82 \n9.35 \n444.80 \nTotal \nAmount 454.15 \nGENERAL INFORMATION"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      },
+      {
+        "name": "MCO",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-26",
+        "event": "February 26, 2020"
+      },
+      {
+        "date": "2020-03-02",
+        "event": "March 02, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "310-274-7777",
+      "310-285-1313",
+      "877-905.9644",
+      "210-877-3337"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.695Z"
+}

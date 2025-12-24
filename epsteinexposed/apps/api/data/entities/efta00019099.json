@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019099",
+    "filename": "EFTA00019099.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019099.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Jeffrey Epstein Doc: Shocking Revelations from Netflix's `Filthy Rich' —  Rolling Stone \nDate: Fri, 29 May 2020 17:43:51 +0000 \nhttps://www.rollingstone.corn/culture/culture-features/jeffrey-epstein-fllthy-rich-netflix-documentary-1006535/ \nSent from my iPhone \nEFTA00019099",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Jeffrey Epstein Doc: Shocking Revelations from Netflix's `Filthy"
+      },
+      {
+        "name": "Shocking Revelations",
+        "role": "extracted",
+        "context": "Subject: Jeffrey Epstein Doc: Shocking Revelations from Netflix's `Filthy Rich'"
+      },
+      {
+        "name": "Filthy Rich",
+        "role": "extracted",
+        "context": "g Revelations from Netflix's `Filthy Rich' —  Rolling Stone \nDate: Fri,"
+      },
+      {
+        "name": "Rolling Stone",
+        "role": "extracted",
+        "context": "om Netflix's `Filthy Rich' —  Rolling Stone \nDate: Fri, 29 May 2020 17:43"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-29",
+        "event": "29 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.291Z"
+}

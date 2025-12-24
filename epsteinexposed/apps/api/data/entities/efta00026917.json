@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026917",
+    "filename": "EFTA00026917.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026917.pdf",
+    "text": "\n\nFrom: \n'• \n(USANYS)\" < \n> \nTo: (USANYS)\" < \n> \nSubject \nmemo \n- latest version \nDate: Tue, 13 Apr 2021 18:01.09 +0000 \nAttachments: 2021.04.12 Memo.docx \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nFax: \nEFTA00026917",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hments: 2021.04.12 Memo.docx \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "2 Memo.docx \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.145Z"
+}

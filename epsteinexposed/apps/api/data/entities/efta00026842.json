@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00026842",
+    "filename": "EFTA00026842.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026842.pdf",
+    "text": "\n\nFrom: '\n„cl \nTo: \n1k II 11 11 \nSubject: RE: https://wwvv.nbenewyork.cotn/news/local/epstein-accuser-appeals-to-prince-andrew-to-talk-to-\nfbi/2279339/ \nDate: Wed, 05 Feb 2020 18:19:31 +0000 \nThanks \nFrom: \n'c\nM> \nSent: Wednesday, February 5, 2020 1:18 PM \nTo: \nSubject: https://www.nbcnewyork.cominews/local/epstein-accuser-appeals-to-prince-andrew-to-talk-to-fbi/2279339/ \nJust in case you haven't seen this by now... \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nMobile: Press Office: \nEFTA00026842",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": ", 05 Feb 2020 18:19:31 +0000 \nThanks \nFrom: \n'c\nM> \nSent: Wednesday, Feb"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "haven't seen this by now... \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nMobile: Press Of"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "District of New York \nMobile: Press Office: \nEFTA00026842"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-05",
+        "event": "February 5, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.955Z"
+}

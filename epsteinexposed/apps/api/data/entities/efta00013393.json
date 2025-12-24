@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013393",
+    "filename": "EFTA00013393.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013393.pdf",
+    "text": "\n\nFrom: \n\" aa \nTo: \n\"\nCc: \n<EMMIMM\n>\nSubject: Court Subpoena \nDate: The, 28 Sep 2021 18:58:13 +0000 \nImportance: Normal \nAttachments: 2021.08.27_Court_SubpoenanSacramento_County_Clerk.pdf \nMs. \nI'm reaching out regarding the attached subpoena, which was served on your office in connection with an upcoming \ncriminal trial in the United States District Court for the Southern District of New York. I understand there have been some \nquestions regarding compliance. Could you please let me know your availability for a call? \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00013393",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Court Subpoena",
+        "role": "extracted",
+        "context": "o: \n\"\nCc: \n<EMMIMM\n>\nSubject: Court Subpoena \nDate: The, 28 Sep 2021 18:58"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "1 18:58:13 +0000 \nImportance: Normal \nAttachments: 2021.08.27_Court_SubpoenanSa"
+      },
+      {
+        "name": "District Court",
+        "role": "extracted",
+        "context": "al trial in the United States District Court for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "States District Court for the Southern District of New York. I understand the"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "lity for a call? \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.508Z"
+}

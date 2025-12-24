@@ -1,0 +1,250 @@
+{
+  "document": {
+    "id": "efta00003150",
+    "filename": "EFTA00003150.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003150.pdf",
+    "text": "\n\nJeffrey \nE. \nEpstein \nPrinciple \nTWA \nHead \nPilot: \nAssistant \nPilot: \nLSJE \nManager: \nAssistant \nManager: \nHead \nBoat \nCaptain: \nBoat \nCaptain: \nBarge \nAssistant: \n(lead \nHousekeeper: \nHousekeeper: Housekeeper: \nLandscaper \nManager: \nLandscaper \nSupervisor: \nLandscaper: Landscaper: Landscaper: \nMaintenance \nSupervisor: \nPainter: Painter: \nMechanical \n& \nTruck \nDriver: \nPool \n& \nRO \nPlant: \nHeti \nPad: \nVI \nPort \nAuthority: \nJet \nCenter: \nAirport: \nTWA \nPiolot(s): \nL\narry \nVisoski \nWilliam \nDi \nMauro \nLSJE \nEmployees \nLarry \nVisoski \nWilliam \nDi \nMauro \nAnn \nM. \nRodriquez \nDanny \nVicars \nCarlos \nRodriquez \nRamon \nLinderman \nGuy \nVicars \nBasillia \nMorales\n-Mercado \nCarmen \nRodgers \nReyna \nAmparo \nChristopher \nSheehan \nPeter \nSt. \nOmar \nDupson \nDonissaint \nGusneme \nDalce \nOnel \nPierressaint \nDanny \nVicars \nGerry \nFrancis \nHilian \nBedminister \nSheridan \nElizee \nCuthbert \nTitre \nTWA \nEmployees \n& \nFlight \nEscorts \nLSJE \nSt. \nThomas \nJet \nCenter \nFBO \n(Fix \nBase \nOperation) \nThomas \nWorld \nAir \nHanger \n- \nJet \nCenter \nSTT \nCyril \nE. \nKing \nAirport \n- \nSt. \nThomas \nLSJE \nEscort(s): \nCarlos \nRodriguez \nJermaine \nRuan \nRamon \nLinderman \nManager(s): \nRoy \nRomney \n- \nVIPA\nA \nAnn \nRodriquez \n- \nLSJE \nEFTA00003150",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nPrinciple",
+        "role": "extracted",
+        "context": "Jeffrey \nE. \nEpstein \nPrinciple \nTWA \nHead \nPilot: \nAssistant"
+      },
+      {
+        "name": "Head \nPilot",
+        "role": "extracted",
+        "context": "E. \nEpstein \nPrinciple \nTWA \nHead \nPilot: \nAssistant \nPilot: \nLSJE \nMa"
+      },
+      {
+        "name": "Assistant \nPilot",
+        "role": "extracted",
+        "context": "Principle \nTWA \nHead \nPilot: \nAssistant \nPilot: \nLSJE \nManager: \nAssistant"
+      },
+      {
+        "name": "Assistant \nManager",
+        "role": "extracted",
+        "context": "tant \nPilot: \nLSJE \nManager: \nAssistant \nManager: \nHead \nBoat \nCaptain: \nBoat"
+      },
+      {
+        "name": "Head \nBoat",
+        "role": "extracted",
+        "context": "anager: \nAssistant \nManager: \nHead \nBoat \nCaptain: \nBoat \nCaptain: \nBa"
+      },
+      {
+        "name": "Boat \nCaptain",
+        "role": "extracted",
+        "context": "nager: \nHead \nBoat \nCaptain: \nBoat \nCaptain: \nBarge \nAssistant: \n(lead \nH"
+      },
+      {
+        "name": "Barge \nAssistant",
+        "role": "extracted",
+        "context": "at \nCaptain: \nBoat \nCaptain: \nBarge \nAssistant: \n(lead \nHousekeeper: \nHousek"
+      },
+      {
+        "name": "Landscaper \nManager",
+        "role": "extracted",
+        "context": ": \nHousekeeper: Housekeeper: \nLandscaper \nManager: \nLandscaper \nSupervisor: \nLa"
+      },
+      {
+        "name": "Landscaper \nSupervisor",
+        "role": "extracted",
+        "context": "eeper: \nLandscaper \nManager: \nLandscaper \nSupervisor: \nLandscaper: Landscaper: Lan"
+      },
+      {
+        "name": "Maintenance \nSupervisor",
+        "role": "extracted",
+        "context": "per: Landscaper: Landscaper: \nMaintenance \nSupervisor: \nPainter: Painter: \nMechanic"
+      },
+      {
+        "name": "Truck \nDriver",
+        "role": "extracted",
+        "context": "ter: Painter: \nMechanical \n& \nTruck \nDriver: \nPool \n& \nRO \nPlant: \nHeti"
+      },
+      {
+        "name": "Heti \nPad",
+        "role": "extracted",
+        "context": "Driver: \nPool \n& \nRO \nPlant: \nHeti \nPad: \nVI \nPort \nAuthority: \nJet"
+      },
+      {
+        "name": "Port \nAuthority",
+        "role": "extracted",
+        "context": "RO \nPlant: \nHeti \nPad: \nVI \nPort \nAuthority: \nJet \nCenter: \nAirport: \nTWA"
+      },
+      {
+        "name": "Jet \nCenter",
+        "role": "extracted",
+        "context": "Pad: \nVI \nPort \nAuthority: \nJet \nCenter: \nAirport: \nTWA \nPiolot(s):"
+      },
+      {
+        "name": "Visoski \nWilliam",
+        "role": "extracted",
+        "context": "rt: \nTWA \nPiolot(s): \nL\narry \nVisoski \nWilliam \nDi \nMauro \nLSJE \nEmployees"
+      },
+      {
+        "name": "Di \nMauro",
+        "role": "extracted",
+        "context": "): \nL\narry \nVisoski \nWilliam \nDi \nMauro \nLSJE \nEmployees \nLarry \nViso"
+      },
+      {
+        "name": "Employees \nLarry",
+        "role": "extracted",
+        "context": "ki \nWilliam \nDi \nMauro \nLSJE \nEmployees \nLarry \nVisoski \nWilliam \nDi \nMauro"
+      },
+      {
+        "name": "Rodriquez \nDanny",
+        "role": "extracted",
+        "context": "William \nDi \nMauro \nAnn \nM. \nRodriquez \nDanny \nVicars \nCarlos \nRodriquez \nR"
+      },
+      {
+        "name": "Vicars \nCarlos",
+        "role": "extracted",
+        "context": "o \nAnn \nM. \nRodriquez \nDanny \nVicars \nCarlos \nRodriquez \nRamon \nLinderman"
+      },
+      {
+        "name": "Rodriquez \nRamon",
+        "role": "extracted",
+        "context": "iquez \nDanny \nVicars \nCarlos \nRodriquez \nRamon \nLinderman \nGuy \nVicars \nBasi"
+      },
+      {
+        "name": "Linderman \nGuy",
+        "role": "extracted",
+        "context": "rs \nCarlos \nRodriquez \nRamon \nLinderman \nGuy \nVicars \nBasillia \nMorales\n-M"
+      },
+      {
+        "name": "Vicars \nBasillia",
+        "role": "extracted",
+        "context": "iquez \nRamon \nLinderman \nGuy \nVicars \nBasillia \nMorales\n-Mercado \nCarmen \nRo"
+      },
+      {
+        "name": "Mercado \nCarmen",
+        "role": "extracted",
+        "context": "y \nVicars \nBasillia \nMorales\n-Mercado \nCarmen \nRodgers \nReyna \nAmparo \nChri"
+      },
+      {
+        "name": "Rodgers \nReyna",
+        "role": "extracted",
+        "context": "ia \nMorales\n-Mercado \nCarmen \nRodgers \nReyna \nAmparo \nChristopher \nSheehan"
+      },
+      {
+        "name": "Amparo \nChristopher",
+        "role": "extracted",
+        "context": "cado \nCarmen \nRodgers \nReyna \nAmparo \nChristopher \nSheehan \nPeter \nSt. \nOmar \nD"
+      },
+      {
+        "name": "Sheehan \nPeter",
+        "role": "extracted",
+        "context": "Reyna \nAmparo \nChristopher \nSheehan \nPeter \nSt. \nOmar \nDupson \nDonissain"
+      },
+      {
+        "name": "Omar \nDupson",
+        "role": "extracted",
+        "context": "stopher \nSheehan \nPeter \nSt. \nOmar \nDupson \nDonissaint \nGusneme \nDalce"
+      },
+      {
+        "name": "Donissaint \nGusneme",
+        "role": "extracted",
+        "context": "an \nPeter \nSt. \nOmar \nDupson \nDonissaint \nGusneme \nDalce \nOnel \nPierressaint \nD"
+      },
+      {
+        "name": "Dalce \nOnel",
+        "role": "extracted",
+        "context": "Dupson \nDonissaint \nGusneme \nDalce \nOnel \nPierressaint \nDanny \nVicars"
+      },
+      {
+        "name": "Pierressaint \nDanny",
+        "role": "extracted",
+        "context": "ssaint \nGusneme \nDalce \nOnel \nPierressaint \nDanny \nVicars \nGerry \nFrancis \nHili"
+      },
+      {
+        "name": "Vicars \nGerry",
+        "role": "extracted",
+        "context": "e \nOnel \nPierressaint \nDanny \nVicars \nGerry \nFrancis \nHilian \nBedminister"
+      },
+      {
+        "name": "Francis \nHilian",
+        "role": "extracted",
+        "context": "ssaint \nDanny \nVicars \nGerry \nFrancis \nHilian \nBedminister \nSheridan \nElize"
+      },
+      {
+        "name": "Bedminister \nSheridan",
+        "role": "extracted",
+        "context": "cars \nGerry \nFrancis \nHilian \nBedminister \nSheridan \nElizee \nCuthbert \nTitre \nTWA"
+      },
+      {
+        "name": "Elizee \nCuthbert",
+        "role": "extracted",
+        "context": "ilian \nBedminister \nSheridan \nElizee \nCuthbert \nTitre \nTWA \nEmployees \n& \nFl"
+      },
+      {
+        "name": "Flight \nEscorts",
+        "role": "extracted",
+        "context": "rt \nTitre \nTWA \nEmployees \n& \nFlight \nEscorts \nLSJE \nSt. \nThomas \nJet \nCent"
+      },
+      {
+        "name": "Thomas \nJet",
+        "role": "extracted",
+        "context": "Flight \nEscorts \nLSJE \nSt. \nThomas \nJet \nCenter \nFBO \n(Fix \nBase \nOpe"
+      },
+      {
+        "name": "Fix \nBase",
+        "role": "extracted",
+        "context": ". \nThomas \nJet \nCenter \nFBO \n(Fix \nBase \nOperation) \nThomas \nWorld \nA"
+      },
+      {
+        "name": "Thomas \nWorld",
+        "role": "extracted",
+        "context": "FBO \n(Fix \nBase \nOperation) \nThomas \nWorld \nAir \nHanger \n- \nJet \nCenter"
+      },
+      {
+        "name": "Air \nHanger",
+        "role": "extracted",
+        "context": "e \nOperation) \nThomas \nWorld \nAir \nHanger \n- \nJet \nCenter \nSTT \nCyril"
+      },
+      {
+        "name": "King \nAirport",
+        "role": "extracted",
+        "context": "Jet \nCenter \nSTT \nCyril \nE. \nKing \nAirport \n- \nSt. \nThomas \nLSJE \nEscort"
+      },
+      {
+        "name": "Carlos \nRodriguez",
+        "role": "extracted",
+        "context": "t. \nThomas \nLSJE \nEscort(s): \nCarlos \nRodriguez \nJermaine \nRuan \nRamon \nLinde"
+      },
+      {
+        "name": "Jermaine \nRuan",
+        "role": "extracted",
+        "context": "scort(s): \nCarlos \nRodriguez \nJermaine \nRuan \nRamon \nLinderman \nManager(s)"
+      },
+      {
+        "name": "Ramon \nLinderman",
+        "role": "extracted",
+        "context": "s \nRodriguez \nJermaine \nRuan \nRamon \nLinderman \nManager(s): \nRoy \nRomney \n-"
+      },
+      {
+        "name": "Roy \nRomney",
+        "role": "extracted",
+        "context": "amon \nLinderman \nManager(s): \nRoy \nRomney \n- \nVIPA\nA \nAnn \nRodriquez \n-"
+      },
+      {
+        "name": "Ann \nRodriquez",
+        "role": "extracted",
+        "context": "(s): \nRoy \nRomney \n- \nVIPA\nA \nAnn \nRodriquez \n- \nLSJE \nEFTA00003150"
+      }
+    ],
+    "locations": [
+      {
+        "name": "STT",
+        "type": "airport"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.827Z"
+}

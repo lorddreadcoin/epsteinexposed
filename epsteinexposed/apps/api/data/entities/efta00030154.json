@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030154",
+    "filename": "EFTA00030154.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030154.pdf",
+    "text": "\n\nFrom: \nSubject: \nDate: Mon, 10 Jun 2019 17:45:00 +0000 \nImportance: Normal \nAttachments: \nHi \nCan you make out, from the handwriting, the''\" phone number on this message? If you can find a  service \nprovider \nfor it, I'll issue a subpoena. Thanksl \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00030154",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 17:45:00 +0000 \nImportance: Normal \nAttachments: \nHi \nCan you make out, from"
+      },
+      {
+        "name": "Hi \nCan",
+        "role": "extracted",
+        "context": "rtance: Normal \nAttachments: \nHi \nCan you make out, from the handwr"
+      },
+      {
+        "name": "Thanksl \nAssistant",
+        "role": "extracted",
+        "context": "or it, I'll issue a subpoena. Thanksl \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "nksl \nAssistant United States Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00030154"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.134Z"
+}

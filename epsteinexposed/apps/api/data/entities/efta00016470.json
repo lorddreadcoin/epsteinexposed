@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016470",
+    "filename": "EFTA00016470.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016470.pdf",
+    "text": "\n\nFrom: Nathan \nNYSD Chambers \nTo: \nSubject: 20cr330, US v. Maxwell \nDate: Wed, 24 Nov 2021 19:36:14 -0000 \nAttachments: 20cr330 Order re Protective Order 11.24.21.pdf; \n20cr330_Subpoena_Protective_Order_11.24.21.pdf \nCounsel: \nAttached please find two Orders issued by Judge Nathan, which will be docketed shortly. \nPlease confirm receipt. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00016470",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers \nTo",
+        "role": "extracted",
+        "context": "From: Nathan \nNYSD Chambers \nTo: \nSubject: 20cr330, US v. Max"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "To: \nSubject: 20cr330, US v. Maxwell \nDate: Wed, 24 Nov 2021 19:36:14 -0"
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "Attachments: 20cr330 Order re Protective Order 11.24.21.pdf; \n20cr330_Subpoe"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "ase find two Orders issued by Judge Nathan, which will be docketed short"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.739Z"
+}

@@ -1,0 +1,179 @@
+{
+  "document": {
+    "id": "efta00021188",
+    "filename": "EFTA00021188.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021188.pdf",
+    "text": "\n\n09/21/2021 11:31 EDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGenerated \nBy \nPage 1 \nof 1 \ni \nunter Person Detail \nIasi Name Birth \nMAXWELL GHISLAINE \nDocument Admit Until Date Document Coon. \nU.S. ALIEN REGISTRATION \nCARD \nEncounter Person Detail \nEMMEN \nEncounter Line Encounter Dale Encounter Time (Eastern) Terminal Lane SitaEncounter Location \nAIRLINE (NOT \nAPI) \n07/24/1998 13:48 0604 A511 - CBP -CYRIL E \nKING INTL AIRPORT \nInboundOutbound Ins •  - ctor Processin •  Result Prim. Due Result Referred To .,,La \nINBOUND N NOT REFERRED \nManifest Data \nManifest Indicator Passen. er Status U.. • led Passer, • er Status Fr • htVessel Number D •   rture Location \nN 1672 \nTransmitted By I Carrier Code Arrival Location \nAA \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00021188",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border Protection",
+        "role": "extracted",
+        "context": "1 11:31 EDT \nU.S. Customs and Border Protection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGen"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "artment of Homeland Security \nPerson Encounter Detail \nGenerated \nBy \nPage 1"
+      },
+      {
+        "name": "Detail \nGenerated",
+        "role": "extracted",
+        "context": "nd Security \nPerson Encounter Detail \nGenerated \nBy \nPage 1 \nof 1 \ni \nunter P"
+      },
+      {
+        "name": "By \nPage",
+        "role": "extracted",
+        "context": "Encounter Detail \nGenerated \nBy \nPage 1 \nof 1 \ni \nunter Person Deta"
+      },
+      {
+        "name": "Person Detail",
+        "role": "extracted",
+        "context": "d \nBy \nPage 1 \nof 1 \ni \nunter Person Detail \nIasi Name Birth \nMAXWELL GHI"
+      },
+      {
+        "name": "Iasi Name",
+        "role": "extracted",
+        "context": "of 1 \ni \nunter Person Detail \nIasi Name Birth \nMAXWELL GHISLAINE \nDoc"
+      },
+      {
+        "name": "Document Admit",
+        "role": "extracted",
+        "context": "ame Birth \nMAXWELL GHISLAINE \nDocument Admit Until Date Document Coon. \nU."
+      },
+      {
+        "name": "Until Date",
+        "role": "extracted",
+        "context": "ELL GHISLAINE \nDocument Admit Until Date Document Coon. \nU.S. ALIEN RE"
+      },
+      {
+        "name": "Document Coon",
+        "role": "extracted",
+        "context": "NE \nDocument Admit Until Date Document Coon. \nU.S. ALIEN REGISTRATION \nCA"
+      },
+      {
+        "name": "Encounter Person",
+        "role": "extracted",
+        "context": ".S. ALIEN REGISTRATION \nCARD \nEncounter Person Detail \nEMMEN \nEncounter Line"
+      },
+      {
+        "name": "Encounter Line",
+        "role": "extracted",
+        "context": "counter Person Detail \nEMMEN \nEncounter Line Encounter Dale Encounter Time"
+      },
+      {
+        "name": "Encounter Dale",
+        "role": "extracted",
+        "context": "Detail \nEMMEN \nEncounter Line Encounter Dale Encounter Time (Eastern) Term"
+      },
+      {
+        "name": "Encounter Time",
+        "role": "extracted",
+        "context": "Encounter Line Encounter Dale Encounter Time (Eastern) Terminal Lane SitaE"
+      },
+      {
+        "name": "Terminal Lane",
+        "role": "extracted",
+        "context": "Dale Encounter Time (Eastern) Terminal Lane SitaEncounter Location \nAIRLI"
+      },
+      {
+        "name": "Encounter Location",
+        "role": "extracted",
+        "context": "e (Eastern) Terminal Lane SitaEncounter Location \nAIRLINE (NOT \nAPI) \n07/24/19"
+      },
+      {
+        "name": "Outbound Ins",
+        "role": "extracted",
+        "context": "E \nKING INTL AIRPORT \nInboundOutbound Ins •  - ctor Processin •  Result"
+      },
+      {
+        "name": "Result Prim",
+        "role": "extracted",
+        "context": "nd Ins •  - ctor Processin •  Result Prim. Due Result Referred To .,,La"
+      },
+      {
+        "name": "Due Result",
+        "role": "extracted",
+        "context": "tor Processin •  Result Prim. Due Result Referred To .,,La \nINBOUND N"
+      },
+      {
+        "name": "Referred To",
+        "role": "extracted",
+        "context": "in •  Result Prim. Due Result Referred To .,,La \nINBOUND N NOT REFERRED"
+      },
+      {
+        "name": "Manifest Data",
+        "role": "extracted",
+        "context": ",,La \nINBOUND N NOT REFERRED \nManifest Data \nManifest Indicator Passen. e"
+      },
+      {
+        "name": "Manifest Indicator",
+        "role": "extracted",
+        "context": "NOT REFERRED \nManifest Data \nManifest Indicator Passen. er Status U.. • led P"
+      },
+      {
+        "name": "Status Fr",
+        "role": "extracted",
+        "context": "Status U.. • led Passer, • er Status Fr • htVessel Number D •   rture"
+      },
+      {
+        "name": "Vessel Number",
+        "role": "extracted",
+        "context": "ed Passer, • er Status Fr • htVessel Number D •   rture Location \nN 1672"
+      },
+      {
+        "name": "Transmitted By",
+        "role": "extracted",
+        "context": "D •   rture Location \nN 1672 \nTransmitted By I Carrier Code Arrival Locati"
+      },
+      {
+        "name": "Carrier Code",
+        "role": "extracted",
+        "context": "ion \nN 1672 \nTransmitted By I Carrier Code Arrival Location \nAA \nFor Off"
+      },
+      {
+        "name": "Arrival Location",
+        "role": "extracted",
+        "context": "Transmitted By I Carrier Code Arrival Location \nAA \nFor Official Use Only /"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "er Code Arrival Location \nAA \nFor Official Use Only / Law Enforcement Se"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "al Location \nAA \nFor Official Use Only / Law Enforcement Sensitive"
+      },
+      {
+        "name": "Law Enforcement",
+        "role": "extracted",
+        "context": "AA \nFor Official Use Only / Law Enforcement Sensitive \nEFTA00021188"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-21",
+        "event": "09/21/2021"
+      },
+      {
+        "date": "1998-07-24",
+        "event": "07/24/1998"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.169Z"
+}

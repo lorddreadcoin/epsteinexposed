@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00011498",
+    "filename": "EFTA00011498.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011498.pdf",
+    "text": "\n\nFrom: \n\"S(USANYS)\" ‹> \nTo: \n\" \nUSANYS \n<\na... \nS \n\" \n(USANYS)\" \nSubject: 2020-09-28 GM letter to Judge Nathan re discovery from other \nagencies v2Edocx \nDate: Wed, 30 Sep 2020 15:09:49 +0000 \nAttachments: 2020-09-28_GM _letter \nto_Judge_Nathan_re_discovery_ftom_other_agencies_v2...docx \nLet me know if you have any thoughts? \nEFTA00011498",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "ject: 2020-09-28 GM letter to Judge Nathan re discovery from other \nagen"
+      },
+      {
+        "name": "Edocx \nDate",
+        "role": "extracted",
+        "context": "covery from other \nagencies v2Edocx \nDate: Wed, 30 Sep 2020 15:09:49 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-28",
+        "event": "2020-09-28"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.761Z"
+}

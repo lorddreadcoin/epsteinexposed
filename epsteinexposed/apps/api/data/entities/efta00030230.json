@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030230",
+    "filename": "EFTA00030230.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030230.pdf",
+    "text": "\n\nFrom:  \nTo:' \nSubject: RE: \nDate: Fri, 21 Jun 2019 23:01:07 +0000 \nImportance: Normal \nAttachments: SDFL_decision.pdf \nEmbedded: RE:_Epstein_investigation,_prosecution_inemo.msg \nHey sorry, didn't realize you needed them this afternoon. They're attached —  initial email with the pros memo and the \ndecision. And let me know if anything else would be helpful, happy to send along whatever. Thanks again. \nFrom: \nSent: Friday, June 21, 2019 18:56 \nTo: \nSubject: \nHeys, \nCan you please shoot me those dots when you can? Thanks very much. \nBest, \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00030230",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 23:01:07 +0000 \nImportance: Normal \nAttachments: SDFL_decision.pdf \nEmbedded:"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "an? Thanks very much. \nBest, \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00030230"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-21",
+        "event": "June 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.334Z"
+}

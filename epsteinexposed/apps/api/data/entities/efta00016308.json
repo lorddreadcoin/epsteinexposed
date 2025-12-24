@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00016308",
+    "filename": "EFTA00016308.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016308.pdf",
+    "text": "\n\nFrom:  \nTo:' \nSubject: RE: GM appeal \nDate: Mon, 14 Sep 2020 13:26:57 +0000 \nAttachments: Government MTD_GM_Interlocutory_Appeal_v3.docx \nSorry, use this version instead (also on the share). \nFrom: \nSent: Monday, September 14, 2020 12:06 AM \nTo: \nSubject: RE: GM appeal \nComplete draft attached and saved on the share. Once you have a draft of the letter, want to swap and do a final read of \neach other's drafts before sending to \nFrom: \nSent: Sunday, September 13, 2020 5:45 PM \nTo: \nSubject: Re: GM appeal \nUpdated copy is the appeals folder— it's not great, so let me know your thoughts and how else I can help with this. I'm \naround all evening and have also carved out time tomorrow to make sure we are covered on this. Do you want me to draft \nthe (short) amicus letter? \nSent from my iPhone \nOn Sep 13, 2020, at 11:28 AM, wrote: \nNo problem—I've gone ahead and started on the MTD. Will work on it for the next hour or so, then send to you to pick \nup. \nFrom: \nSent: Sunday, September 13, 2020 11:26 AM \nTo: \nSubject: Re: GM appeal \nHi! I ended up just blocking off today to do this (M is gone for the day), so I haven't gotten anywhere yet (sorry about \nthat) but am hopeful to knock this out today. Do you want to split topics, as we discussed, and merge later? Happy to do \nthis any way that works. \nSent from my iPhone \nOn Sep 13, 2020, at 10:36 AM, \n> \nwrote: \nHey—have you started a draft of either document? I'm diving in now, so happy to pickup wherever you left off, or get \nthem started if you haven't had the chance. \nAssistant United States Attorney \nEFTA00016308\n\nSouthern \nDistrict of New York \n1  St. \nAndrew's Plaza \nNew \nYork, NY 10007 \nEFTA00016309",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "amicus letter? \nSent from my iPhone \nOn Sep 13, 2020, at 11:28 AM, wr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "you haven't had the chance. \nAssistant United States Attorney \nEFTA00016308"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the chance. \nAssistant United States Attorney \nEFTA00016308\n\nSouthern \nDist"
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": "tates Attorney \nEFTA00016308\n\nSouthern \nDistrict of New York \n1  St. \nAndrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. \nAndrew's Plaza \nNew \nYork, NY 10007 \nEFTA00016309"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New \nYork, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-09-14",
+        "event": "September 14, 2020"
+      },
+      {
+        "date": "2020-09-13",
+        "event": "September 13, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.444Z"
+}

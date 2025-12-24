@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027707",
+    "filename": "EFTA00027707.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027707.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"\nTo: ' \nil  \nCc: ' (USANYS) [Contractor]\"\nSubject: Fwd: Request for Comment \nDate: Thu, 21 Oct 2021 15:54:12 +0000 \n> \nMonique: forwarded your query regarding a motion filed by Ghislaine Maxwell's counsel. As you might \nanticipate, we will decline to comment on any pending litigation, and in any event, as a matter of office policy, prosecutors \nin our office do not respond to media inquiries, on the record, on background, or off the record. Please direct any further \ninquiries to me or my colleague, Cc'd here. \nBest, \nM \nSpokesman \nUnited States \nDepartment of Justice \nU.S. \nAttorney's Office I Southern District of New York \nI Mobile: I \nPress Office: \nEFTA00027707",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "forwarded your query regarding a motion filed by Ghislaine Maxwell's counsel. As you might \nanticipate, we will decl"
+      },
+      {
+        "name": "Comment \nDate",
+        "role": "extracted",
+        "context": "r]\"\nSubject: Fwd: Request for Comment \nDate: Thu, 21 Oct 2021 15:54:12 +0"
+      },
+      {
+        "name": "Spokesman \nUnited",
+        "role": "extracted",
+        "context": "league, Cc'd here. \nBest, \nM \nSpokesman \nUnited States \nDepartment of Justice"
+      },
+      {
+        "name": "States \nDepartment",
+        "role": "extracted",
+        "context": "Best, \nM \nSpokesman \nUnited States \nDepartment of Justice \nU.S. \nAttorney's"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ce \nU.S. \nAttorney's Office I Southern District of New York \nI Mobile: I \nPre"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "ict of New York \nI Mobile: I \nPress Office: \nEFTA00027707"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.824Z"
+}

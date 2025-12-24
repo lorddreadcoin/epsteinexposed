@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024711",
+    "filename": "EFTA00024711.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024711.pdf",
+    "text": "\n\nFrom: (USANYS)\" cz\nIMIE> \nTo: \"gUSAI>, \nII \n(USANYS)\" \nCc:\n <IIMIE>, \"e \nSubject: GM Renewed Motion for Pretrial Release \nDate: Mon, 17 May 2021 22:02:13 +0000 \nAttachments: GM_Renewed_Motion_for_Pretrial_Release.pdf; GM_Renewed_Motion_Appendix.pdf \nAttached is the renewed motion for pretrial release filed by David Markus this afternoon. \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00024711",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Renewed Motion",
+        "role": "extracted",
+        "context": "Cc:\n <IIMIE>, \"e \nSubject: GM Renewed Motion for Pretrial Release \nDate: M"
+      },
+      {
+        "name": "Pretrial Release",
+        "role": "extracted",
+        "context": "ubject: GM Renewed Motion for Pretrial Release \nDate: Mon, 17 May 2021 22:02"
+      },
+      {
+        "name": "David Markus",
+        "role": "extracted",
+        "context": "for pretrial release filed by David Markus this afternoon. \nAssistant Un"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "David Markus this afternoon. \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "afternoon. \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-17",
+        "event": "17 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.674Z"
+}

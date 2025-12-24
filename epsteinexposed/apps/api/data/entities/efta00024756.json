@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00024756",
+    "filename": "EFTA00024756.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024756.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: Expert Testimony \nDate: Mon, 02 Nov 2020 \n18:04:07 +0000 \nGood for me, \nthanks \nFrom \nSent: Mon ay, Novem er 02, 2020 \n12:09 PM \nTo: \nSubject: Fwd: Expert \nTestimony \n2 work for you on \nWednesday? \nSent from my iPhone \nBegin forwarded message: \nFrom: Dawn Hughes \nDate: November 2 2020 at 10:53:58 AM EST \nTo: \nCc: \nYes. I would be happy to speak with you all. I have some open time on Wednesday after 2:OO. Let \nme know what works for \nyou. \nBest, \nDr. Hughes \nDAWN M HUGHES, PHD ABPP \nCLINIC:NI \\.i) FORENSIC \nPSYCHOLOGIST \nOn \nThu, Oct 29, 2020 at 3:48 PM 'wrote: \nDr. \nHughes, \nTogether with \ncolleagu \nI'm one of the federal prosecutors handling \nthe case of United States v Is acne axwe ,w Ic t Is sc to u ed to go to trial on July 12, 2021 in the \nSouthern District of New York. We would be interested in speaking with you about your availability to \ntestify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss? \nEFTA00024756\n\nEFTA00024757",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hughes",
+        "role": "extracted",
+        "context": "what works for \nyou. \nBest, \nDr. Hughes \nDAWN M HUGHES, PHD ABPP"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Expert Testimon"
+      },
+      {
+        "name": "Expert Testimony",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Expert Testimony \nDate: Mon, 02 Nov 2020 \n18:0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "+0000 \nGood for me, \nthanks \nFrom \nSent: Mon ay, Novem er 02, 2020 \n1"
+      },
+      {
+        "name": "Expert \nTestimony",
+        "role": "extracted",
+        "context": "12:09 PM \nTo: \nSubject: Fwd: Expert \nTestimony \n2 work for you on \nWednesday"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "on \nWednesday? \nSent from my iPhone \nBegin forwarded message: \nFrom: Daw"
+      },
+      {
+        "name": "Dawn Hughes",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Dawn Hughes \nDate: November 2 2020 at 10:"
+      },
+      {
+        "name": "On \nThu",
+        "role": "extracted",
+        "context": "\\.i) FORENSIC \nPSYCHOLOGIST \nOn \nThu, Oct 29, 2020 at 3:48 PM 'wro"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "rial on July 12, 2021 in the \nSouthern District of New York. We would be inte"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-02",
+        "event": "November 2 2020"
+      },
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.772Z"
+}

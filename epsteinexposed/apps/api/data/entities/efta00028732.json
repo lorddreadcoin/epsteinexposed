@@ -1,0 +1,130 @@
+{
+  "document": {
+    "id": "efta00028732",
+    "filename": "EFTA00028732.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028732.pdf",
+    "text": "\n\nFrom: \"spamcontrol®usdoj.gov\" e-spamcontrol®usdoj.gov> \nTo: \nSubject: End User Digest: 1 New Message \nDate: Mon, 24 Aug 2020 10:09:05 +0000 \nInline-Images: logo.jpeg \n1 , 1 tit \nilly \n. I \nEnd  User \nDigest: 1 New Message \nFor \nThe emails listed below have been placed in your personal Quarantine since you received your last End User Digest. They will \nbe deleted after 14 days. To deliver an e-mail to your inbox, click on Release. To deliver an e-mail to your inbox and add the e-\nmail sender to your Safe Senders List, click on Release and Allow Sender. This ensures that no emails from that sender will be \nblocked in the future. To report messages that are not spam but are reported in the digest, click on Not Spam. \nRequest New End User Digest   Request SafelBlocked Senders List   Manage My Account   Questions about digesting?\nThe emails listed in this section have been placed in your personal Quarantine. Click Release to deliver the email to your inbox. \nTo continue to receive future emails from the sender, click Allow Sender. To report messages that are not spam but are included \nin the Spam - Quarantined section, click Not Spam. \nSpain - Quarantined \nScore \n100 \nI From\nFor more information contact your System Administrator. \nPowered by Proofpoint Protection Server \nSubject I Date 'Action \nEpstein's 2020-\nBuddy 08-23 \nClinton \n15:02:20Release\nRelease\nand Not \nAllow \nSpam \nSender \nEFTA00028732",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "End User",
+        "role": "extracted",
+        "context": "rol®usdoj.gov> \nTo: \nSubject: End User Digest: 1 New Message \nDate:"
+      },
+      {
+        "name": "New Message",
+        "role": "extracted",
+        "context": "Subject: End User Digest: 1 New Message \nDate: Mon, 24 Aug 2020 10:09"
+      },
+      {
+        "name": "End  User",
+        "role": "extracted",
+        "context": "o.jpeg \n1 , 1 tit \nilly \n. I \nEnd  User \nDigest: 1 New Message \nFor"
+      },
+      {
+        "name": "For \nThe",
+        "role": "extracted",
+        "context": "User \nDigest: 1 New Message \nFor \nThe emails listed below have been"
+      },
+      {
+        "name": "Safe Senders",
+        "role": "extracted",
+        "context": "dd the e-\nmail sender to your Safe Senders List, click on Release and Al"
+      },
+      {
+        "name": "Allow Sender",
+        "role": "extracted",
+        "context": "rs List, click on Release and Allow Sender. This ensures that no emails"
+      },
+      {
+        "name": "Not Spam",
+        "role": "extracted",
+        "context": "orted in the digest, click on Not Spam. \nRequest New End User Digest"
+      },
+      {
+        "name": "Request New",
+        "role": "extracted",
+        "context": "e digest, click on Not Spam. \nRequest New End User Digest   Request Saf"
+      },
+      {
+        "name": "Digest   Request",
+        "role": "extracted",
+        "context": "t Spam. \nRequest New End User Digest   Request SafelBlocked Senders List   M"
+      },
+      {
+        "name": "Blocked Senders",
+        "role": "extracted",
+        "context": "nd User Digest   Request SafelBlocked Senders List   Manage My Account   Qu"
+      },
+      {
+        "name": "List   Manage",
+        "role": "extracted",
+        "context": "Request SafelBlocked Senders List   Manage My Account   Questions about"
+      },
+      {
+        "name": "My Account",
+        "role": "extracted",
+        "context": "Blocked Senders List   Manage My Account   Questions about digesting?"
+      },
+      {
+        "name": "Click Release",
+        "role": "extracted",
+        "context": "in your personal Quarantine. Click Release to deliver the email to your"
+      },
+      {
+        "name": "Quarantined \nScore",
+        "role": "extracted",
+        "context": "ion, click Not Spam. \nSpain - Quarantined \nScore \n100 \nI From\nFor more informa"
+      },
+      {
+        "name": "From\nFor",
+        "role": "extracted",
+        "context": "- Quarantined \nScore \n100 \nI From\nFor more information contact your"
+      },
+      {
+        "name": "System Administrator",
+        "role": "extracted",
+        "context": "more information contact your System Administrator. \nPowered by Proofpoint Prote"
+      },
+      {
+        "name": "Proofpoint Protection",
+        "role": "extracted",
+        "context": "em Administrator. \nPowered by Proofpoint Protection Server \nSubject I Date 'Actio"
+      },
+      {
+        "name": "Server \nSubject",
+        "role": "extracted",
+        "context": "ered by Proofpoint Protection Server \nSubject I Date 'Action \nEpstein's 202"
+      },
+      {
+        "name": "Action \nEpstein",
+        "role": "extracted",
+        "context": "ction Server \nSubject I Date 'Action \nEpstein's 2020-\nBuddy 08-23 \nClinton"
+      },
+      {
+        "name": "Release\nRelease",
+        "role": "extracted",
+        "context": "Buddy 08-23 \nClinton \n15:02:20Release\nRelease\nand Not \nAllow \nSpam \nSender"
+      },
+      {
+        "name": "Not \nAllow",
+        "role": "extracted",
+        "context": "15:02:20Release\nRelease\nand Not \nAllow \nSpam \nSender \nEFTA00028732"
+      },
+      {
+        "name": "Spam \nSender",
+        "role": "extracted",
+        "context": "lease\nRelease\nand Not \nAllow \nSpam \nSender \nEFTA00028732"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.826Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00014507",
+    "filename": "EFTA00014507.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014507.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: 2019 Right of Access Brown (Epstein).pdf \nDate: Mon, 15 Jul 2019 14:44:52 +0000 \nImportance: Normal \nAttachments: 2019_Right_of Access_Brown_(Epstein).pdf \nNot super relevant to Reporters Committee, but at least the latest word on the subject of right of public access \nEFTA00014507",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Access Brown",
+        "role": "extracted",
+        "context": "To: \nSubject: 2019 Right of Access Brown (Epstein).pdf \nDate: Mon, 15"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 14:44:52 +0000 \nImportance: Normal \nAttachments: 2019_Right_of Access_Brown_("
+      },
+      {
+        "name": "Reporters Committee",
+        "role": "extracted",
+        "context": "n).pdf \nNot super relevant to Reporters Committee, but at least the latest word"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.988Z"
+}

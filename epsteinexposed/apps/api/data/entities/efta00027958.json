@@ -1,0 +1,56 @@
+{
+  "document": {
+    "id": "efta00027958",
+    "filename": "EFTA00027958.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027958.pdf",
+    "text": "\n\nEvent: Accepted: Call on Epstein/Maxwell Documents \nStart Date: 2020-07-23 16:00:00 +0000 \nEnd Date: 2020-07-23 16:30:00 +0000 \nLocation: 844-215-6902; Conf. Id 758788 \nClass: X-PERSONAL \nComment: \nDate Created: 2020-07-22 21:00:43 +0000 \nDate Modified: 2020-07-22 21:00:43 +0000 \nPriority: 5 \nDTSTAMP: 2020-07-22 20:23:44 +0000 \nAttendee: \nEFTA00027958",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Documents",
+        "role": "extracted",
+        "context": "nt: Accepted: Call on Epstein/Maxwell Documents \nStart Date: 2020-07-23 16:00"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "on Epstein/Maxwell Documents \nStart Date: 2020-07-23 16:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-07-23 16:00:00 +0000 \nEnd Date: 2020-07-23 16:30:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2020-07-22 21:00:43 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-07-22 21:00:43 +0000 \nDate Modified: 2020-07-22 21:00:43 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-23",
+        "event": "2020-07-23"
+      },
+      {
+        "date": "2020-07-22",
+        "event": "2020-07-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "844-215-6902"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.342Z"
+}

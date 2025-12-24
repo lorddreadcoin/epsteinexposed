@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018272",
+    "filename": "EFTA00018272.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018272.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: r ‘‘u. Lpstcm \nDate: Sat, 13 Jul 2019 14:43:20 +0000 \nImportance: Normal \nI didn't realize his son worked for We should consider whether we should do a protect-the-record \nCurcio given that his son works for \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Berman, Geoffrey \n(USANYS)\" \nDate: \nJuly \n12 2019 at 9:10:52 PM EDT \nTo: \nI just ran into Reid Weingarten at Odeon, who told me that he had just met with his client and he may reach out \nto the team early next week to have an \"interesting conversation\". He added that he spoke to his son, who is an \nin • who told him that the sex trafficking statute is quite broad. (That he could have figured out for \nhimself). Geoff \nEFTA00018272",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Lpstcm \nDate",
+        "role": "extracted",
+        "context": "m: \nTo: \nCc: \nSubject: r ‘‘u. Lpstcm \nDate: Sat, 13 Jul 2019 14:43:20 +0"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "son works for \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Be"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "PM EDT \nTo: \nI just ran into Reid Weingarten at Odeon, who told me that he"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "July \n12 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.551Z"
+}

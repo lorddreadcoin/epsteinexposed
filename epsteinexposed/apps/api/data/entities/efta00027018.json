@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027018",
+    "filename": "EFTA00027018.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027018.pdf",
+    "text": "\n\nFrom: \"Moyne, Parvin\" < \nTo: \nCc: Andrew Stemmer , \"Mover Thomas\" \n, \"DiPiero, Joseph\"\nSubject: Exhibit - Timeline of Payments to Potential Co-Conspirators (002).pdf \nDate: Fri, 06 Sep 2019 16:46:33 +0000 \nAttachments: Exhibit_ Timeline_of Payments_to_Potential_Co-Conspirators_(002).pdf \nAs requested, please find attached the payment information we identified for the names/entities you requested, as well \nas other potentially-related or similar transactions. This includes any payments we have identified for the different \nvariations on . As always, we are happy to answer any questions. \nBest, \nParvin \nParvin Daphne \nMoyne \nAKIN GUMP \nSTRAUSS HAUER & FEID LLP \nI  Da I \nInternal: \nfa \nI  akineump.com  I  Bio \nThe information contained in this e-mail message is intended only for the personal and confidential use of the \nrecipient(s) named above. If you have received this communication in error, please notify us immediately by e-\nmail, and delete the original message. \nEFTA00027018",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Andrew Stemmer",
+        "role": "extracted",
+        "context": ": \"Moyne, Parvin\" < \nTo: \nCc: Andrew Stemmer , \"Mover Thomas\" \n, \"DiPiero,"
+      },
+      {
+        "name": "Mover Thomas",
+        "role": "extracted",
+        "context": "< \nTo: \nCc: Andrew Stemmer , \"Mover Thomas\" \n, \"DiPiero, Joseph\"\nSubject"
+      },
+      {
+        "name": "Potential Co",
+        "role": "extracted",
+        "context": "bit - Timeline of Payments to Potential Co-Conspirators (002).pdf \nDate:"
+      },
+      {
+        "name": "Parvin \nParvin",
+        "role": "extracted",
+        "context": "answer any questions. \nBest, \nParvin \nParvin Daphne \nMoyne \nAKIN GUMP \nSTR"
+      },
+      {
+        "name": "Daphne \nMoyne",
+        "role": "extracted",
+        "context": "tions. \nBest, \nParvin \nParvin Daphne \nMoyne \nAKIN GUMP \nSTRAUSS HAUER & F"
+      },
+      {
+        "name": "Bio \nThe",
+        "role": "extracted",
+        "context": "nal: \nfa \nI  akineump.com  I  Bio \nThe information contained in this"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.383Z"
+}

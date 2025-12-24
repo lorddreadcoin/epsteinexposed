@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00009854",
+    "filename": "EFTA00009854.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009854.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' , ' \nSubject: Re: Mark Epstein \nDate: Mon, 28 Oct 2019 22:02:09 +0000 \nI really apologize. I really did not recognize a plan for the 28th - I could not have taken that plan \nSent from my iPhone \nOn \nOct 28, 2019, at 6:00 PM, \nI am sony I would not have confirmed for today. I had a 4 pm doctors appointment scheduled for months. I  had \ntold mark 10/31 as well. My apologies. Can we still do 10/31? \nSent from my iPhone \nOn \nOct 28, 2019, at 5:51 PM, > wrote: \nHi \nPer my email on \nOctober 24 below, we were confirmed for Monday (which was today, October 28). \nFrom: \nSent: Monday, October 28, 2019 5:27 PM \nTo: \nCc: \nSubject: Re: Mark Epstein \nGreetings. We are set for 10/31 at three per your direction. Did I miss an update? \nSent from my iPhone \nOn Oct 28, 2019, at 3:12 PM, \n> \nwrote: \nHi \nAre you en route? Thanks. \nOn Oct 24, 2019, at 10:55 AM, \n> \nwrote: \nEFTA00009854\n\nWe are confirmed for a  meeting at 3:00 p.m. on Monday at . See you then. Thanks. \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00009855",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "To: \nCc: ' , ' \nSubject: Re: Mark Epstein \nDate: Mon, 28 Oct 2019 22:02"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "aken that plan \nSent from my iPhone \nOn \nOct 28, 2019, at 6:00 PM, \nI"
+      },
+      {
+        "name": "Hi \nPer",
+        "role": "extracted",
+        "context": ", 2019, at 5:51 PM, > wrote: \nHi \nPer my email on \nOctober 24 below"
+      },
+      {
+        "name": "Hi \nAre",
+        "role": "extracted",
+        "context": "2019, at 3:12 PM, \n> \nwrote: \nHi \nAre you en route? Thanks. \nOn Oct"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "i \nAre you en route? Thanks. \nOn Oct 24, 2019, at 10:55 AM, \n> \nwr"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "y at . See you then. Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "en. Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000098"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-28",
+        "event": "October 28, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.787Z"
+}

@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00031724",
+    "filename": "EFTA00031724.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031724.pdf",
+    "text": "\n\nFrot \nTo:  \n)11 ' \nCc: \"Kate L. Doniger\" \nSubject: Estate ofJ. Epstein \nDate: Tue, 04 Feb 2020 15:57:57 +0000 \nInline-Images: image003.png; image004.png \nJudge Grants USVI Intervener Status In Pending  Courtroom Battle Over Jeffrey Epstein's Fortune \nJudge Grants USVI Intervener Status In Pending \nCourtroom Battle Over Jef... \nST. THOMAS — The virgin Islands Department of Justice (V.I.D.0.1.) \nis moving aggressively to secur... \nThis email and its attachments may contain information that is confidential and/or protected from disclosure by the attorney-client. \nwork \nproduct or other \napplicable legal privilege. If you aro not the intended recipient of the email, please be aware that any unauthorized review use, disclosure. dissemination. \ndistribution, or copying of this communication. or any of its contents, is strictly prohibited. \nif \nyou have received this communication in \nerror, \nplease notify \nthe sender immediately and destroy all copies of the message from your computer system. Thank you. \nEFTA00031724",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "tervener Status In Pending  Courtroom Battle Over Jeffrey Epstein's Fortune \nJudge Grants USVI Intervener Status In"
+      },
+      {
+        "name": "Frot \nTo",
+        "role": "extracted",
+        "context": "Frot \nTo:  \n)11 ' \nCc: \"Kate L. Donige"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "oniger\" \nSubject: Estate ofJ. Epstein \nDate: Tue, 04 Feb 2020 15:57:57 +0"
+      },
+      {
+        "name": "Judge Grants",
+        "role": "extracted",
+        "context": ": image003.png; image004.png \nJudge Grants USVI Intervener Status In Pen"
+      },
+      {
+        "name": "Intervener Status",
+        "role": "extracted",
+        "context": "age004.png \nJudge Grants USVI Intervener Status In Pending  Courtroom Battle"
+      },
+      {
+        "name": "In Pending",
+        "role": "extracted",
+        "context": "Grants USVI Intervener Status In Pending  Courtroom Battle Over Jeffre"
+      },
+      {
+        "name": "Courtroom Battle",
+        "role": "extracted",
+        "context": "Intervener Status In Pending  Courtroom Battle Over Jeffrey Epstein's Fortun"
+      },
+      {
+        "name": "Over Jeffrey",
+        "role": "extracted",
+        "context": "In Pending  Courtroom Battle Over Jeffrey Epstein's Fortune \nJudge Gran"
+      },
+      {
+        "name": "Fortune \nJudge",
+        "role": "extracted",
+        "context": "Battle Over Jeffrey Epstein's Fortune \nJudge Grants USVI Intervener Status"
+      },
+      {
+        "name": "Over Jef",
+        "role": "extracted",
+        "context": "In Pending \nCourtroom Battle Over Jef... \nST. THOMAS — The virgin I"
+      },
+      {
+        "name": "Islands Department",
+        "role": "extracted",
+        "context": "f... \nST. THOMAS — The virgin Islands Department of Justice (V.I.D.0.1.) \nis m"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.706Z"
+}

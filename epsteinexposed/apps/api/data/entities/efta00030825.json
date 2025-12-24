@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00030825",
+    "filename": "EFTA00030825.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030825.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: 9 E 71st Street New York NY DEED \nDate: Thu, 27 Jun 2019 18:35:06 +0000 \nImportance: Normal \nAttachments: export_reportpdf \nThat's the building owned by Mark Epstein (Jeffrey's brother). In the Clear report, attached, apartment 1OF is specifically \nassociated with Jeffrey (as well as a few other female names). \nFrom: \nSent: Thursday, June 27, 2019 14:30 \nTo:' \nSubject: RE: 9 E  71st Street New York NY DEED \nHi Mandy, \n>; \nThanks for sending. Do you recognize this address listed on the deed-301 East 66th Street, Apt. 10F, NY NY? If you could \ncheck who that is associated with, that would be useful to know, just for background. \nThanks! \nFrom: \nSent: Thursday, June 27, 2019 2:22 PM \nTo: \n) < \n< \n>; \nSubject: Fwd: 9 E 71st Street New York NY DEED \nSony \nabout that. Here's the attachments. \n Forwarded \nmessage ---\nFrom: \" \nDate: Jun 27, 2019 1:44 PM \nSubject: 9 E 71st Street New York NY DEED\nTo:' \nCc: \nHi \nMandy \nThis is from ACRIS. It's the Last Deed of Record, dated 12/23/2011. \nNotice that the Grantor and Grantee lines are both signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located in St Thomas, VI. \nNo \nmortgages from Maple Inc are indicated in the online records. \nEFTA00030825\n\nFI) \nEFTA00030826",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "the Grantor and Grantee lines are both signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located in St"
+      },
+      {
+        "name": "Street New",
+        "role": "extracted",
+        "context": ": \nTo: \nSubject: RE: 9 E 71st Street New York NY DEED \nDate: Thu, 27 J"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 18:35:06 +0000 \nImportance: Normal \nAttachments: export_reportpdf \nThat's the"
+      },
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "That's the building owned by Mark Epstein (Jeffrey's brother). In the C"
+      },
+      {
+        "name": "Hi Mandy",
+        "role": "extracted",
+        "context": "71st Street New York NY DEED \nHi Mandy, \n>; \nThanks for sending. Do"
+      },
+      {
+        "name": "Hi \nMandy",
+        "role": "extracted",
+        "context": "t New York NY DEED\nTo:' \nCc: \nHi \nMandy \nThis is from ACRIS. It's the"
+      },
+      {
+        "name": "Last Deed",
+        "role": "extracted",
+        "context": "This is from ACRIS. It's the Last Deed of Record, dated 12/23/2011."
+      },
+      {
+        "name": "The Grantee",
+        "role": "extracted",
+        "context": "h signed by Jeffrey Epstein. \nThe Grantee is Maple Inc which is located"
+      },
+      {
+        "name": "Maple Inc",
+        "role": "extracted",
+        "context": "frey Epstein. \nThe Grantee is Maple Inc which is located in St Thomas"
+      },
+      {
+        "name": "St Thomas",
+        "role": "extracted",
+        "context": "Maple Inc which is located in St Thomas, VI. \nNo \nmortgages from Mapl"
+      }
+    ],
+    "locations": [
+      {
+        "name": "St Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2011-12-23",
+        "event": "12/23/2011"
+      },
+      {
+        "date": "2019-06-27",
+        "event": "June 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.750Z"
+}

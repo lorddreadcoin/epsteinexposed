@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00028772",
+    "filename": "EFTA00028772.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028772.pdf",
+    "text": "\n\nFrom: (NY) (OGA).\nTo:' \n(USANYS)\" \nSubject: FW: \nDate: Tue, 14 Jul 2020 20:31:34 +0000 \nI'm available \nOn \nJul 14, 2020 4:12 PM,\nUSANYS)\" \nwrote: \nHi-, \nHo e all is well. Are you available for a quick call regarding this 302? Trying to run down how Lt. not the number \nfothanks in advance! \n----Ori inal Messa e---\nFrom: NY) (FBI) \nSent: Tuesda , Jul 14, 2020 2:51 PM \nTo: SANYS) \nSubject: \nHey \nWhen looking through my case file, this is where Mike documented the phone number and last call made by Epstein. Let \nme know if you need anything else... \nSpecial Agent \nFBI New York Field Office \nViolent Crimes Task Force \nEFTA00028772",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On \nJul",
+        "role": "extracted",
+        "context": "0:31:34 +0000 \nI'm available \nOn \nJul 14, 2020 4:12 PM,\nUSANYS)\" \nw"
+      },
+      {
+        "name": "Hey \nWhen",
+        "role": "extracted",
+        "context": ":51 PM \nTo: SANYS) \nSubject: \nHey \nWhen looking through my case file,"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "if you need anything else... \nSpecial Agent \nFBI New York Field Office \nV"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field Office \nViolent Crimes Task Force \nE"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "t \nFBI New York Field Office \nViolent Crimes Task Force \nEFTA00028772"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field Office \nViolent Crimes Task Force \nEFTA00028772"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.928Z"
+}

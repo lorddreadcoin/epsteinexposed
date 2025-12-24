@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00031230",
+    "filename": "EFTA00031230.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031230.pdf",
+    "text": "\n\nFrom:' \nTo:' \nSubject: Fwd: SDNY investigation \nDate: Wed, 08 Jul 2020 00:06:41 +0000 \nAttachments: 2020-06-29,subpoena_to_UBS.pdf; ATT00001.htm \nHey, I can't tell from the email threads whether this UBS subpoena covers the Angara trust. Do you know? It \nisn't listed by name but I don't know what the account numbers are. Thanks! \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \nDate: Jul 7 2020 at 2:04:14 PM EDT \nTo: ' \nCc: \nSubject: \nSDN III\\ est igation \nMr. Wills, \nI'm reaching out in connection with the attached subpoena, which was served on UBS last week. If possible, we would \nlike to speak with someone in your compliance department to discuss expediting these materials. This matter is time \nsensitive, and if possible, we would very much appreciate being able to speak with someone this afternoon. I'm also \ncopying Mr. Ryan, who I understand has assisted with prior productions to our office in connection with this same \ninvestigation. \nI can be reached at at any time, and I'm copying my colleagues, \nale \nwho \ncan be reached at and respectively. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00031230",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Wills",
+        "role": "extracted",
+        "context": "bject: \nSDN III\\ est igation \nMr. Wills, \nI'm reaching out in con"
+      },
+      {
+        "name": "Ryan",
+        "role": "extracted",
+        "context": "afternoon. I'm also \ncopying Mr. Ryan, who I understand has ass"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "s are. Thanks! \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nd respectively. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "2020-06-29"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.592Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014170",
+    "filename": "EFTA00014170.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014170.pdf",
+    "text": "\n\nFrom: \"Roy \nBLACK\" \nTo: \nSubject: Jeffrey Epstein \nDate: Tue, 17 Jun 2008 14:12:38 +0000 \nImportance: \nNormal \nis there a chance I  could discuss the epstein investigation with you? My office number is and cell \nThanks Roy \nEFTA00014170",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \"Roy \nBLACK\" \nTo: \nSubject: Jeffrey Epstein \nDate: Tue, 17 Jun 2008 14:12:38 +0000 \nImportanc"
+      },
+      {
+        "name": "Thanks Roy",
+        "role": "extracted",
+        "context": "My office number is and cell \nThanks Roy \nEFTA00014170"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.310Z"
+}

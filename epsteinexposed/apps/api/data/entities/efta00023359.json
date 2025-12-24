@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00023359",
+    "filename": "EFTA00023359.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023359.pdf",
+    "text": "\n\nFrom: \" \nTo:' \nC \n(USANYS)\" cz\nIMIE> \na=nrMenninger, Jeff Pa8„ uca \nLaura \n(USANYS) [Contractor \nSubject: US v. Maxwell, 20 \nCr. 330 (MN) \nDate: Sat, 20 Nov 2021 19:53:28 +0000 \nAttachments: 2021.11.20_Maxwell Discovety_Letterptlf; 2021.11.20 Maxwell_3500_Cover Letter.pdf; \n2021.11.20_U.S._v_cfaxwell 3500 IndexiDefense).pt; \n2021.11.20_U.S._v Maxwell—Non-Testifying_Witness Material_Index_(Defense).pdf; \n2021.11.20_Utv. —Maxwell —Government_ExhibitintlexiDefense).pdf \nCounsel, \nWe have an additional discovery production ready to send to you. Attached please find the accompanying cover letter. \nThat will be produced on a hard drive to you. In addition, a supplemental production of testifying witness and non-\ntestifying witness material and exhibits are also ready to send to you. Attached please find the accompanying cover letter \nand indices. Those materials will be on the hard drive as well. We will also produce the testifying witness and non-\ntestifying witness material and exhibits via USAfx. \nPlease let us know if you would like to pick up the drive today or if you would like us to FedEx it (and if so, to where). \nPlease let us know if you would like us to send today via FedEx a hard drive with these materials to Ms. Maxwell at the \nMDC or bring the hard drive to court on Tuesday. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00023359",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "drive with these materials to Ms. Maxwell at the \nMDC or bring the"
+      },
+      {
+        "name": "Jeff Pa",
+        "role": "extracted",
+        "context": "YS)\" cz\nIMIE> \na=nrMenninger, Jeff Pa8„ uca \nLaura \n(USANYS) [Contr"
+      },
+      {
+        "name": "Contractor \nSubject",
+        "role": "extracted",
+        "context": "ff Pa8„ uca \nLaura \n(USANYS) [Contractor \nSubject: US v. Maxwell, 20 \nCr. 330 ("
+      },
+      {
+        "name": "Maxwell Discovety",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2021.11.20_Maxwell Discovety_Letterptlf; 2021.11.20 Maxwel"
+      },
+      {
+        "name": "Cover Letter",
+        "role": "extracted",
+        "context": "ptlf; 2021.11.20 Maxwell_3500_Cover Letter.pdf; \n2021.11.20_U.S._v_cfaxw"
+      },
+      {
+        "name": "Witness Material",
+        "role": "extracted",
+        "context": "U.S._v Maxwell—Non-Testifying_Witness Material_Index_(Defense).pdf; \n2021.11"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "o court on Tuesday. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.797Z"
+}

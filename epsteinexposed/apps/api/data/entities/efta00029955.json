@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029955",
+    "filename": "EFTA00029955.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029955.pdf",
+    "text": "\n\nFrom: \n\" \nalMIE> \nTo: \nMEW). \n<a, \nSubject: \nN.B. \nDate: The, 30 Mar 2021 21:16:25 +0000 \nAttachments: Order.pdf \n(USANYS)\" \nFYI, the lawsuit was resolved and has now been dismissed, but Judge Koeltl handled this differently from the other case \n(opinion attached). I plan to ask for a copy of the materials disclosed to Maxwell's team when we speak to \ntomorrow, but let me know if either of you disagree or want to discuss. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00029955",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Koeltl",
+        "role": "extracted",
+        "context": "d has now been dismissed, but Judge Koeltl handled this differently from"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "disagree or want to discuss. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to discuss. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00029955"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.642Z"
+}

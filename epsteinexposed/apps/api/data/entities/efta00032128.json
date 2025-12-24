@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00032128",
+    "filename": "EFTA00032128.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032128.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Fwd: State Attorney's Office - New Document Available - Case No 2020PR000426AMB \nDate: Mon, 14 Sep 2020 19:44:11 +0000 \nBegin forwarded message: \nFrom: \nDate: September 14, 2020 at 3:41:21  PM EDT \nTo: \nSubject: State Attorney's Office - New Document Available  - Case No 2020PRO00426ANIB \nReply-To: \nThere is a new file available. \nCase \nNumber 2020PR000426AMB \nDefendant Name JEFFREY E EPSTEIN \nPlease click here to download the file. \nWhen setting up initial account, please be sure to check your spam/junk email folder for the notification email. \nSent By \nEFTA00032128",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Fwd: State Attorney's Office - New Document Avail"
+      },
+      {
+        "name": "New Document",
+        "role": "extracted",
+        "context": "wd: State Attorney's Office - New Document Available - Case No 2020PR000"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "ce - New Document Available - Case No 2020PR000426AMB \nDate: Mon, 1"
+      },
+      {
+        "name": "Case \nNumber",
+        "role": "extracted",
+        "context": "ere is a new file available. \nCase \nNumber 2020PR000426AMB \nDefendant Na"
+      },
+      {
+        "name": "Defendant Name",
+        "role": "extracted",
+        "context": "Case \nNumber 2020PR000426AMB \nDefendant Name JEFFREY E EPSTEIN \nPlease cli"
+      },
+      {
+        "name": "Sent By",
+        "role": "extracted",
+        "context": "for the notification email. \nSent By \nEFTA00032128"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-14",
+        "event": "September 14, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.697Z"
+}

@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00017872",
+    "filename": "EFTA00017872.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017872.pdf",
+    "text": "\n\nFrom: \"LexisNexisDelivery®lexisnexis.com\" <LexisNexisDelivery®lexisnexis.com> \nTo: cIMIM>\nSubject: Updates for Track alert 'United States of America v. Maxwell' \nDate: Wed, 27 Jan 2021 10:11:16 +0000 \nAttachments: United States of America_v._Maxwell.PDF \nGlexisNe \nAlerts \nxis \nNew activity occurred in docket \nUnited States of \nAmerica v. Maxwell \nTrack Details \nInformation requested by: \nClient ID: -None-\nMonitor: Everything \nDelivery: Wednesday \nDescription: No description available \nNote: No note available \nManage Alerts \nView all \nalerts in Lexis®.. \nUnsubscribe from this alert. If you have not personally set up this alert, please contact Customer Support to \nunsubscribe \n[LexisNexis Logo   About LexisNexis   Privacy Policy Terms & Conditions    Copyright \nm \n2021  LexisNexis. All rights reserved. \n• This is an automated email. Please do not reply to this email address or forward this email. \nEFTA00017872",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ne \nAlerts",
+        "role": "extracted",
+        "context": "America_v._Maxwell.PDF \nGlexisNe \nAlerts \nxis \nNew activity occurred i"
+      },
+      {
+        "name": "Maxwell \nTrack",
+        "role": "extracted",
+        "context": "United States of \nAmerica v. Maxwell \nTrack Details \nInformation requeste"
+      },
+      {
+        "name": "Details \nInformation",
+        "role": "extracted",
+        "context": "of \nAmerica v. Maxwell \nTrack Details \nInformation requested by: \nClient ID: -No"
+      },
+      {
+        "name": "Everything \nDelivery",
+        "role": "extracted",
+        "context": ": \nClient ID: -None-\nMonitor: Everything \nDelivery: Wednesday \nDescription: No d"
+      },
+      {
+        "name": "Wednesday \nDescription",
+        "role": "extracted",
+        "context": "onitor: Everything \nDelivery: Wednesday \nDescription: No description available \nNo"
+      },
+      {
+        "name": "Manage Alerts",
+        "role": "extracted",
+        "context": "ble \nNote: No note available \nManage Alerts \nView all \nalerts in Lexis®.."
+      },
+      {
+        "name": "Customer Support",
+        "role": "extracted",
+        "context": "up this alert, please contact Customer Support to \nunsubscribe \n[LexisNexis"
+      },
+      {
+        "name": "Nexis Logo",
+        "role": "extracted",
+        "context": "upport to \nunsubscribe \n[LexisNexis Logo   About LexisNexis   Privacy"
+      },
+      {
+        "name": "About Lexis",
+        "role": "extracted",
+        "context": "subscribe \n[LexisNexis Logo   About LexisNexis   Privacy Policy Terms &"
+      },
+      {
+        "name": "Nexis   Privacy",
+        "role": "extracted",
+        "context": "[LexisNexis Logo   About LexisNexis   Privacy Policy Terms & Conditions"
+      },
+      {
+        "name": "Policy Terms",
+        "role": "extracted",
+        "context": "About LexisNexis   Privacy Policy Terms & Conditions    Copyright \nm"
+      },
+      {
+        "name": "Conditions    Copyright",
+        "role": "extracted",
+        "context": "exis   Privacy Policy Terms & Conditions    Copyright \nm \n2021  LexisNexis. All rig"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.770Z"
+}

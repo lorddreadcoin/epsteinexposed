@@ -1,0 +1,125 @@
+{
+  "document": {
+    "id": "efta00024347",
+    "filename": "EFTA00024347.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024347.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"\nTo: \"  \nSubject: Fwd: WSJ News Alert: Jeffrey Epstein Found Dead in Jail, Officials Say \nDate: Sat, 10 Aug 2019 14:05:38 +0000 \nIn case you didnt see it - \nSent from my iPhone \nBegin forwarded message: \nFrom: \"The Wall Street Journal.\"\nDate: August 10, 2019 at 9:40:12 AM EDT \nTo: ' \nSubject: WSJ News Alert: Jeffre E stein Found Dead in Jail, Officials Say \nReply-To: \nTrouble viewing this email? View in web browser \nThe Wall Street Journal. \nNEWS ALERT \nJeffrey Epstein Found Dead in Jail, Offi \nFinancier Jeffrey Epstein has been found dead in jail while \nsex-trafficking cf arges, law enforcement \nofficials said. \nSee More \nCoverage > \nials Say \nwaiting trial on \nShare this email with a friend. \nForward \nForwarded this email by a friend? \nSign Up \nHere \nAdvertisement \nEFTA00024347\n\nGr \nDev \nL\n'ices \nAccess WSJ.com \nand our mobile apps. \nSubscribe \nicon. \n;;',Apple app store \nicon. \n;  t2,Google app \nstore icon. \nUnsubscribe I  Newsletters &Alerts I   Contact Us I  Privacy Policy I  Cookie Policy \nDow Jones & Company, Inc. \nYou are currently subscribed as \ncontact Customer Service at \nNorth Monmouth Junction. NJ 08852 \nFor \nfurther assistance, please \nCopyright 2019 Dow Jones & Company, Inc. \nI \nAll \nRights \nReserved. \nEFTA00024348",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "' (USANYS)\"\nTo: \"  \nSubject: Fwd: WSJ News Alert: Jeffrey Epstein Found Dead in Jail, Officials Say \nDate: Sat, 10"
+      },
+      {
+        "name": "News Alert",
+        "role": "extracted",
+        "context": "S)\"\nTo: \"  \nSubject: Fwd: WSJ News Alert: Jeffrey Epstein Found Dead i"
+      },
+      {
+        "name": "Found Dead",
+        "role": "extracted",
+        "context": "J News Alert: Jeffrey Epstein Found Dead in Jail, Officials Say \nDate:"
+      },
+      {
+        "name": "Officials Say",
+        "role": "extracted",
+        "context": "y Epstein Found Dead in Jail, Officials Say \nDate: Sat, 10 Aug 2019 14:05"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "didnt see it - \nSent from my iPhone \nBegin forwarded message: \nFrom: \"Th"
+      },
+      {
+        "name": "The Wall",
+        "role": "extracted",
+        "context": "in forwarded message: \nFrom: \"The Wall Street Journal.\"\nDate: August"
+      },
+      {
+        "name": "Street Journal",
+        "role": "extracted",
+        "context": "ded message: \nFrom: \"The Wall Street Journal.\"\nDate: August 10, 2019 at 9:"
+      },
+      {
+        "name": "Offi \nFinancier",
+        "role": "extracted",
+        "context": "y Epstein Found Dead in Jail, Offi \nFinancier Jeffrey Epstein has been foun"
+      },
+      {
+        "name": "See More",
+        "role": "extracted",
+        "context": "enforcement \nofficials said. \nSee More \nCoverage > \nials Say \nwaitin"
+      },
+      {
+        "name": "Forward \nForwarded",
+        "role": "extracted",
+        "context": "re this email with a friend. \nForward \nForwarded this email by a friend? \nSign"
+      },
+      {
+        "name": "Sign Up",
+        "role": "extracted",
+        "context": "rded this email by a friend? \nSign Up \nHere \nAdvertisement \nEFTA000"
+      },
+      {
+        "name": "Here \nAdvertisement",
+        "role": "extracted",
+        "context": "email by a friend? \nSign Up \nHere \nAdvertisement \nEFTA00024347\n\nGr \nDev \nL\n'ic"
+      },
+      {
+        "name": "Gr \nDev",
+        "role": "extracted",
+        "context": "Advertisement \nEFTA00024347\n\nGr \nDev \nL\n'ices \nAccess WSJ.com \nand"
+      },
+      {
+        "name": "Contact Us",
+        "role": "extracted",
+        "context": "be I  Newsletters &Alerts I   Contact Us I  Privacy Policy I  Cookie P"
+      },
+      {
+        "name": "Privacy Policy",
+        "role": "extracted",
+        "context": "ers &Alerts I   Contact Us I  Privacy Policy I  Cookie Policy \nDow Jones &"
+      },
+      {
+        "name": "Cookie Policy",
+        "role": "extracted",
+        "context": "ntact Us I  Privacy Policy I  Cookie Policy \nDow Jones & Company, Inc. \nY"
+      },
+      {
+        "name": "Dow Jones",
+        "role": "extracted",
+        "context": "vacy Policy I  Cookie Policy \nDow Jones & Company, Inc. \nYou are curr"
+      },
+      {
+        "name": "Customer Service",
+        "role": "extracted",
+        "context": "rently subscribed as \ncontact Customer Service at \nNorth Monmouth Junction."
+      },
+      {
+        "name": "North Monmouth",
+        "role": "extracted",
+        "context": "contact Customer Service at \nNorth Monmouth Junction. NJ 08852 \nFor \nfurt"
+      },
+      {
+        "name": "All \nRights",
+        "role": "extracted",
+        "context": "Dow Jones & Company, Inc. \nI \nAll \nRights \nReserved. \nEFTA00024348"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-10",
+        "event": "August 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.983Z"
+}

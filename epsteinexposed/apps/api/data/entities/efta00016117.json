@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00016117",
+    "filename": "EFTA00016117.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016117.pdf",
+    "text": "\n\nFrom: (USANYS) 1\" \nTo:' \n\" \nCc: \"\nIlasTr>, \n(USANYS)\" \nSubject: Worlds colliding - Maxwell and Andrews (kind of) \nDate: Mon, 21 Dec 2020 02:38:48 +0000 \nAttachments: Letter_to_court_12_20_2020.pdf \nHi -  the severed half of Carl Andrews's case is scheduled for trial in mid-February, and lawyers for one of the \ndefendants in that coming trial have just filed a letter (attached) arguing their client, Justin Rivera, is receiving insufficient \naccess to discovery at MCC when compared to the access to discovery Maxwell is getting at MDC (see page 4). \nDo you have a few minutes to chat before tomorrow at 10:30am (when we next appear before PAE) regarding Maxwell's \naccess? I'm aware of the obvious differences in institutions (MDC is larger and has more space than MCC) and particular \nunits (the women's unit at MDC being viewed as particularly spacious with its own library, I think) -- and how these \ndifferences probably allow for Maxwell to have substantially more access than a male inmate at MCC. \nAssistant United States Attorney \nUnited States Attorney's Office for the Southern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nTel: \nCell: \nEFTA00016117",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Carl Andrews",
+        "role": "extracted",
+        "context": "df \nHi -  the severed half of Carl Andrews's case is scheduled for trial"
+      },
+      {
+        "name": "Justin Rivera",
+        "role": "extracted",
+        "context": "tached) arguing their client, Justin Rivera, is receiving insufficient \na"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "s than a male inmate at MCC. \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ate at MCC. \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tes Attorney's Office for the Southern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nTel: \nCell:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.027Z"
+}

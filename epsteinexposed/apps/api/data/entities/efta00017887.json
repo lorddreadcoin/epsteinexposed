@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00017887",
+    "filename": "EFTA00017887.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017887.pdf",
+    "text": "\n\nFrom: (USANYS)\" <O> \nTo: \nSubject: RE: Citecheck \nDate: Wed, 27 Oct 2021 21:38:11 +0000 \nAttachments: Govt_Reply_v2_MH.docx \nHi \nUnfortunately, I have class starting here in a few minutes, and grabbing those files from the docket took longer than I \nwould have liked. \nAttached is where I was able to get to so far (I got through the bottom of page 5). I hope at least this was helpful. I have \nclass until 9:10 tonight, so probably cannot circle back on this until tomorrow morning. Let me know if that would be \nhelpful or if you need to get this done sooner. \nSorry again for not being able to get through more of this. \nBest, \nFrom: \nSent: Wednesday, October 27, 2021 3:51 PM \nTo: (USANYS) \n<\nSubject: Citecheck \nHeys \n> \nThanks for hopping on this! Here's a portion of a brief we need citechecked. If there are cites you can't check because \nyou don't have the documents, just highlight them and I'll check them. \nThanks, and let me know if you have any questions! \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00017887",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Citecheck \nDate",
+        "role": "extracted",
+        "context": "ANYS)\" <O> \nTo: \nSubject: RE: Citecheck \nDate: Wed, 27 Oct 2021 21:38:11 +0"
+      },
+      {
+        "name": "Hi \nUnfortunately",
+        "role": "extracted",
+        "context": "ments: Govt_Reply_v2_MH.docx \nHi \nUnfortunately, I have class starting here i"
+      },
+      {
+        "name": "Citecheck \nHeys",
+        "role": "extracted",
+        "context": "PM \nTo: (USANYS) \n<\nSubject: Citecheck \nHeys \n> \nThanks for hopping on thi"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "w if you have any questions! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "questions! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-27",
+        "event": "October 27, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.799Z"
+}

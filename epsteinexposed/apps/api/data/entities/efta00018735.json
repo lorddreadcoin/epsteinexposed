@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00018735",
+    "filename": "EFTA00018735.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018735.pdf",
+    "text": "\n\nFrom: \nTo: ' \" \n\"MaiUSANYS\n> \n, 'llrUSANYS)\" \nCc: \nSubject: RE: The Prince and the Proffer I  New York Law Journal \nDate: Wed, 06 May 2020 23:45:34 +0000 \nSimilarly just for awareness, albeit slightly further afield -- Judge Berman commenting, in the middle of a \nrandom fraud sentencing, on his objections to DOJ policies and investigations post-Epstein. \nhttps://vvwvv.nydailynews.cominew-yorlc/ny-judge-berman-epstein-barr-bop-20200506-\na6p4hvI3tncpndjbz2pda2hsde-story.html \n Ori inal Messa e \nFrom: ale \nSent: Wednesda May 06, 2020 18:31 \nTo:\nUSANYS) \naMIE>; \nCc: \n(USANYS) \nSubject: The \nPrince and the Proffer I  New York Law Journal \nHi, \nJust flagging this for your awareness given that this is an ongoing issue. \nhttps://www.law.corninewyorklawjournal/2020/05/06/the-prince-and-the-proffer/ \nThanks, \nSent from my iPhone \nEFTA00018735",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Prince",
+        "role": "extracted",
+        "context": "lrUSANYS)\" \nCc: \nSubject: RE: The Prince and the Proffer I  New York L"
+      },
+      {
+        "name": "Law Journal",
+        "role": "extracted",
+        "context": "e and the Proffer I  New York Law Journal \nDate: Wed, 06 May 2020 23:45"
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "it slightly further afield -- Judge Berman commenting, in the middle of"
+      },
+      {
+        "name": "Wednesda May",
+        "role": "extracted",
+        "context": "nal Messa e \nFrom: ale \nSent: Wednesda May 06, 2020 18:31 \nTo:\nUSANYS)"
+      },
+      {
+        "name": "The \nPrince",
+        "role": "extracted",
+        "context": "IE>; \nCc: \n(USANYS) \nSubject: The \nPrince and the Proffer I  New York L"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-06",
+        "event": "May 06, 2020"
+      },
+      {
+        "date": "2020-05-06",
+        "event": "06 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.583Z"
+}

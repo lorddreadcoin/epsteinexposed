@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00009957",
+    "filename": "EFTA00009957.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009957.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: DRAFT 302 \nDate: Fri, 30 Aug 2019 16:57:41 +0000 \nAttachments: Interview of -  DRAFT.pdf \nDRAFT 302 \nof \nSpecial gent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00009957",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "f \nSpecial gent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nE"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "FBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00009957"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field \nOffice \nViolent Crimes Task Force \nEFTA00009957"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.992Z"
+}

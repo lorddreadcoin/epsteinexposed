@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028296",
+    "filename": "EFTA00028296.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028296.pdf",
+    "text": "\n\nFrom: \n'\n'' \nTo:'\nSubject: clean and redline \nDate: Mon, 08 Jul 2019 14:05:12 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,fietention_memo,_draft.docx; detention_memo_redline.pdf \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00028296",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 14:05:12 +0000 \nImportance: Normal \nAttachments: 2019-07-08, JE,fietention_me"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "o_redline.pdf \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "2019-07-08"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.940Z"
+}

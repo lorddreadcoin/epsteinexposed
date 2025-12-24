@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00027226",
+    "filename": "EFTA00027226.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027226.pdf",
+    "text": "\n\nFrom: \n(NY) \n(OGA)\" `MI=IME> \nTo: (USANYS)\" \nSubject: RE: Epstein Assistance Request \nDate: Mon, 19 Aug 2019 20:04:57 +0000 \nThanks \nOn \nAug 19, 2019 4:03 PM, \" (USANYS)\" •t:a wrote: \nRemoving The attached spreadsheet that she worked on over the weekend has almost all of this info. \n Original Message-----\nFrom: \n•  (NY) (OGA) <a> \nSent: Monday, August 19, 2019 3:59 PM \nTo: \nSubject: Epstein Assistance Request \nCan anyone advise as to the full names and possibly dates of birth for the following BOP employees?: \n9 \nIf we could have these by 5:30 it would help in piecing together some information for our analyst helping us with the \nEFTA00027226\n\ncase \nFBI/NYPD Violent Crimes & \nJoint Bank Robbery Squad C\n-I9 \nEFTA00027227",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Assistance",
+        "role": "extracted",
+        "context": "To: (USANYS)\" \nSubject: RE: Epstein Assistance Request \nDate: Mon, 19 Aug 20"
+      },
+      {
+        "name": "Request \nDate",
+        "role": "extracted",
+        "context": "bject: RE: Epstein Assistance Request \nDate: Mon, 19 Aug 2019 20:04:57 +0"
+      },
+      {
+        "name": "Thanks \nOn",
+        "role": "extracted",
+        "context": ", 19 Aug 2019 20:04:57 +0000 \nThanks \nOn \nAug 19, 2019 4:03 PM, \" (USA"
+      },
+      {
+        "name": "Removing The",
+        "role": "extracted",
+        "context": "PM, \" (USANYS)\" •t:a wrote: \nRemoving The attached spreadsheet that she"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "as almost all of this info. \n Original Message-----\nFrom: \n•  (NY) (OGA) <a>"
+      },
+      {
+        "name": "Request \nCan",
+        "role": "extracted",
+        "context": "Subject: Epstein Assistance Request \nCan anyone advise as to the full"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "EFTA00027226\n\ncase \nFBI/NYPD Violent Crimes & \nJoint Bank Robbery Squad C"
+      },
+      {
+        "name": "Joint Bank",
+        "role": "extracted",
+        "context": "e \nFBI/NYPD Violent Crimes & \nJoint Bank Robbery Squad C\n-I9 \nEFTA0002"
+      },
+      {
+        "name": "Robbery Squad",
+        "role": "extracted",
+        "context": "Violent Crimes & \nJoint Bank Robbery Squad C\n-I9 \nEFTA00027227"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-19",
+        "event": "August 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.795Z"
+}

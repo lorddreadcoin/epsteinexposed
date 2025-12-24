@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00020625",
+    "filename": "EFTA00020625.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020625.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: Fwd: Epstein \nDate: Thu, 25 Jul 2019 02:29:07 +0000 \nSee below. I'm not sure, as they plan to report it, how much we could push back but happy to discuss if you \ndisagree. \nSent from my iPhone \nBegin forwarded \nmessage: \nFrom \nDate• . . \nTo \nc \nSubject: Epstein \nNBC 4 will run a story about Epstein tonight at 11—that he was either attacked or attempted to hurt himself. \nNational NBC will pick it up tonight/tomorrow. I declined to comment and didn't confirm anything. \nEFTA00020625",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Fwd: Epstein \nD"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Fwd: Epstein \nDate: Thu, 25"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: Fwd: Epstein \nDate: Thu, 25 Jul 2019 02:29:07 +0"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "you \ndisagree. \nSent from my iPhone \nBegin forwarded \nmessage: \nFrom \nDa"
+      },
+      {
+        "name": "From \nDate",
+        "role": "extracted",
+        "context": "e \nBegin forwarded \nmessage: \nFrom \nDate• . . \nTo \nc \nSubject: Epstein"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.248Z"
+}

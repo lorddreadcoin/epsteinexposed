@@ -1,0 +1,88 @@
+{
+  "document": {
+    "id": "efta00020445",
+    "filename": "EFTA00020445.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020445.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: '\nr\n)\"  \nSubject: FW: Epstein Case \nDate: Tue, 03 Sep 2019 19:05:05 +0000 \nImportance: Normal \nAttachments: 2019.08.28 Letter to OCME.pdf \n-   \nAs discussed, attached is the letter we submitted asking them to withhold certain documents. They came back today \nasking us to tell us what specific documents we want them to withhold, which I can do once I have the file. I'll keep you \nposted, thanks. \nFrom: (OCME) •ed \nSent: Tuesday, September 3, 2019 2:26 PM \nTo: \nCc: \n<Ma \nSubject: RE: Epstein Case \nI have now had the opportunity to discuss this request with both and our Chief Information Officer, and I am \nrenewing my request that you provide a list of the specific documents and other materials that you are requesting the \nOCME not disclose. Additionally, I would appreciate the opportunity to speak with you briefly concerning the document \nthat you have requested that OCME destroy, and that OCME has deactivated in the manner that I described to you last \nweek. Please let me know when would be convenient for you; thanks. \nOffice \nof Chief Medical Examiner \n421 E. 26th Street \nNew York, NY 10016 \nTel: \nThe information contained in this e-mail communication may be confidential and/or legally privileged and is for the use of the intended \nrecipient only. If you are not the intended recipient, or an authorized employee or an agent responsible for delivering it to the intended \nrecipient. the dissemination, distribution or reproduction of this communication or its contents (including any attachments) is prohibited. \nIf you have received this communication in error, please notify us immediately by telephone or reply e-mail and permanently delete it and \nany copies from your system files. \nFrom: \nSent: Wednesday, August 28, 2019 10:28 AM \nTo: (OCME) \nCc: \nSubject: Epstein Case \nHi Florence, \nPer our discussion, please see attached. \nWe are also requesting that OCME destroy its copy of the draft interview report, dated August 12, 2019, relating to the \nFBI's interview \nEFTA00020445\n\nPlease let us know if you have any questions. Thank you. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00020446",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Case",
+        "role": "extracted",
+        "context": ":' \nCc: '\nr\n)\"  \nSubject: FW: Epstein Case \nDate: Tue, 03 Sep 2019 19:05"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 19:05:05 +0000 \nImportance: Normal \nAttachments: 2019.08.28 Letter to OCME.pd"
+      },
+      {
+        "name": "Ma \nSubject",
+        "role": "extracted",
+        "context": "r 3, 2019 2:26 PM \nTo: \nCc: \n<Ma \nSubject: RE: Epstein Case \nI have now"
+      },
+      {
+        "name": "Chief Information",
+        "role": "extracted",
+        "context": "his request with both and our Chief Information Officer, and I am \nrenewing m"
+      },
+      {
+        "name": "Chief Medical",
+        "role": "extracted",
+        "context": "for you; thanks. \nOffice \nof Chief Medical Examiner \n421 E. 26th Street"
+      },
+      {
+        "name": "Street \nNew",
+        "role": "extracted",
+        "context": "Medical Examiner \n421 E. 26th Street \nNew York, NY 10016 \nTel: \nThe inf"
+      },
+      {
+        "name": "Hi Florence",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Epstein Case \nHi Florence, \nPer our discussion, please"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ve any questions. Thank you. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00020446"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-03",
+        "event": "September 3, 2019"
+      },
+      {
+        "date": "2019-08-28",
+        "event": "August 28, 2019"
+      },
+      {
+        "date": "2019-08-12",
+        "event": "August 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.875Z"
+}

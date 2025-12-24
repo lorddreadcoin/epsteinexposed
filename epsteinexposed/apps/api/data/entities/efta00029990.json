@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00029990",
+    "filename": "EFTA00029990.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029990.pdf",
+    "text": "\n\nFrom: \n(USANYS) \n[Contractor]\" \nTo: \"ISA/\n=>. \n(USANYS)\" \nSubject: PCU Case \nTracker Update \nDate: Mon, 25 Jan 2021 18:41:16 +0000 \nAttachments: PCU Case Tracker.xlsx \nI hope you both had a nice weekend. Attached is the updated version of the PCU case tracker. Everyone but has \nprovided the details of their cases. \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I SDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00029990",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Case \nTracker",
+        "role": "extracted",
+        "context": "=>. \n(USANYS)\" \nSubject: PCU Case \nTracker Update \nDate: Mon, 25 Jan 202"
+      },
+      {
+        "name": "Update \nDate",
+        "role": "extracted",
+        "context": "\" \nSubject: PCU Case \nTracker Update \nDate: Mon, 25 Jan 2021 18:41:16 +0"
+      },
+      {
+        "name": "Case Tracker",
+        "role": "extracted",
+        "context": "41:16 +0000 \nAttachments: PCU Case Tracker.xlsx \nI hope you both had a n"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "ils of their cases. \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Office I SDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00029990"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.727Z"
+}

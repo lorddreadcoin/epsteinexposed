@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015031",
+    "filename": "EFTA00015031.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015031.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: eIH \nSubject: RE: AF & ADG \nDate: Wed, 06 Oct 2021 19:53:24 +0000 \nAttachments: DiseoveryExport_-_AF_&_ADG.zip \nCan you see if this will open for you? If not, can you send me a link to upload to USAfx? \nThanks, \nFrom: (USANYS) \nSent: Wednesday, October 6, 2021 3:41 PM \nTo: (NY) (FBI) \nCc: \n(NYPD) <M>; \nSubject: [EXTERNAL EMAIL] - RE: AF & ADG \n(USANYS) [Contractor] \nThanks, Unfortunately the zip seems to be empty? I'm copying .  Can you try resending to her? Or she can \nset you up with USAfx? Thanks! \nFrom: \n.zM> \nSent: Wednesday, October 6, 2021 2:50 PM \nTo: (USANYS) \nCc: \nSubject: AF & ADG \n> \nlAs you requested are attached. \nSpecial Agent-\nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nEFTA00015031",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "you requested are attached. \nSpecial Agent-\nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent-\nFBI New York Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t-\nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nEFT"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk: \nEFTA00015031"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-06",
+        "event": "October 6, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.995Z"
+}

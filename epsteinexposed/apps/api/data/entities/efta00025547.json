@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00025547",
+    "filename": "EFTA00025547.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025547.pdf",
+    "text": "\n\nFrom: \"a. alMIE> \nTo: \"a\" alMIE> \nCc: 'al c=MIMIE> \nSubject: Re: Prince Andrew reportedly now cooperating with Jeffrey Epstein investigators \nDate: Sat, 14 Mar 2020 12:50:08 +0000 \nI haven't. Crazy \nstory. \nSent from my iPhone \n> On Mar 14, 2020, at 12:07 AM, a a \nwrote: \n> Did anyone talk to the \ntelegraph? \n> https://pagesix.corn/2020/03/13/prince-andrew-reportedly-now-cooperating-with-jeffrey-epstein-investigators/ \nEFTA00025547",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Re: Prince Andrew reportedly now cooperating with Jeffrey Epstein investigators \nDate: Sat, 14 Mar 2020 12:50:08 +0"
+      },
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "> \nTo: \"a\" alMIE> \nCc: 'al c=MIMIE> \nSubject: Re: Prince Andrew reportedly now cooperating with Jeffrey Epstein i"
+      },
+      {
+        "name": "On Mar",
+        "role": "extracted",
+        "context": "tory. \nSent from my iPhone \n> On Mar 14, 2020, at 12:07 AM, a a \nw"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:13.400Z"
+}

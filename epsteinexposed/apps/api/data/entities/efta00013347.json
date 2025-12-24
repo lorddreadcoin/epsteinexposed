@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00013347",
+    "filename": "EFTA00013347.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013347.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBce: \nSubject: FW: Transition Team Request for Significant, Publicly Filed Cases \nDate: Mon, 04 Jan 2021 16:21:18 +0000 \nEmbedded: FW:_Transition_Team_Requestfor Significant,_Publicly_Filed_Cases.msg \nSender: \nSubject:: rat/MIL Im Request for Significant, Publicly Filed Cases \nMessage\n-Id: \n<CY1P110MB0375358762B7FBF7E519E6D19FD20@CY1P110MB0375.NAMP110.PROD.OUTLOOK.COM \nTo: \nEFTA00013347",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Transition Team",
+        "role": "extracted",
+        "context": "To: \nCc: \nBce: \nSubject: FW: Transition Team Request for Significant, Publ"
+      },
+      {
+        "name": "Publicly Filed",
+        "role": "extracted",
+        "context": "Team Request for Significant, Publicly Filed Cases \nDate: Mon, 04 Jan 2021"
+      },
+      {
+        "name": "Cases \nDate",
+        "role": "extracted",
+        "context": "r Significant, Publicly Filed Cases \nDate: Mon, 04 Jan 2021 16:21:18 +0"
+      },
+      {
+        "name": "Requestfor Significant",
+        "role": "extracted",
+        "context": "Embedded: FW:_Transition_Team_Requestfor Significant,_Publicly_Filed_Cases.msg \nSe"
+      },
+      {
+        "name": "Im Request",
+        "role": "extracted",
+        "context": "g \nSender: \nSubject:: rat/MIL Im Request for Significant, Publicly Fil"
+      },
+      {
+        "name": "Cases \nMessage",
+        "role": "extracted",
+        "context": "r Significant, Publicly Filed Cases \nMessage\n-Id: \n<CY1P110MB0375358762B7F"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.382Z"
+}

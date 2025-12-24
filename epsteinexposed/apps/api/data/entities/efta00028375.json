@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00028375",
+    "filename": "EFTA00028375.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028375.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc:I\n r   \nSubject: RE: Additional warrant app \nDate: Mon, 08 Jul 2019 01:28:32 +0000 \nImportance: Normal \nAttachments: 2019.07.07_Media_SW.pdf \nJudge Moses, \nThank you, I was just about to send the application, which I'm attaching here for Your Honor's consideration. I have copied \nthe affiant (Special Agent ), who is available at the Court's convenience this evening. \nApologies for the late hour, and thank you in advance for taking the time to review this evening. I am available a \nif there are any questions. \nRespectfully, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Sunday, July 7, 2019 9:23 PM \nTo: \n) <\n> \nSubject: RE: Additional warrant app \nIf you have the application \nand proposed warrant ready by 11:00 I will review it tonight. \nIf not, since it does not seem to be an emergency, you should present the application to \nJudge \nPitman tomorrow. \nBarbara Moses \nU.S. Magistrate Judge \nEFTA00028375",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 01:28:32 +0000 \nImportance: Normal \nAttachments: 2019.07.07_Media_SW.pdf \nJud"
+      },
+      {
+        "name": "Judge Moses",
+        "role": "extracted",
+        "context": "nts: 2019.07.07_Media_SW.pdf \nJudge Moses, \nThank you, I was just about"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": ". I have copied \nthe affiant (Special Agent ), who is available at the Co"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ny questions. \nRespectfully, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "spectfully, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent:"
+      },
+      {
+        "name": "Judge \nPitman",
+        "role": "extracted",
+        "context": "d present the application to \nJudge \nPitman tomorrow. \nBarbara Moses \nU.S"
+      },
+      {
+        "name": "Barbara Moses",
+        "role": "extracted",
+        "context": "to \nJudge \nPitman tomorrow. \nBarbara Moses \nU.S. Magistrate Judge \nEFTA0"
+      },
+      {
+        "name": "Magistrate Judge",
+        "role": "extracted",
+        "context": "omorrow. \nBarbara Moses \nU.S. Magistrate Judge \nEFTA00028375"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-07",
+        "event": "July 7, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.125Z"
+}

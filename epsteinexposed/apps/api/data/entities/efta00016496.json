@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016496",
+    "filename": "EFTA00016496.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016496.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\" \nTo: 'S\" \nSubject: Preliminary \ninstructions \nDate: Sat, 27 Nov 2021 21:56:53 +0000 \nAttachments: \nAIN_dratinstructions.pdf \nIs the attached what you were referring to just now? Couldn't find it on the shared (apologies if I missed it) but pulled \nfrom pacer. \nParalegal Specialist \nU.S. Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell: \nEFTA00016496",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "it) but pulled \nfrom pacer. \nParalegal Specialist \nU.S. Attorney's Office I SDN"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": ". Attorney's Office I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "fice I SDNY \n1 Saint Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.793Z"
+}

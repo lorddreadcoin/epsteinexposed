@@ -1,0 +1,92 @@
+{
+  "document": {
+    "id": "efta00014649",
+    "filename": "EFTA00014649.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014649.pdf",
+    "text": "\n\nEvent: Letter due re GX 52 \nStart Date: 2021-11-21 17:00:00 +0000 \nEnd Date: 2021-11-21 17:30:00 +0000 \nOrganizer: \nClass: X-PERSONAL \nDate Created: 2021-11-20 06:51:45 +0000 \nDate Modified: 2021-11-20 06:51:45 +0000 \nPriority: 5 \nDTSTAMP: 2021-11-20 00:15:15 +0000 \nAttendee: \n> \nAlarm: Display the following message 15m before start \nReminder \nThe Court is in receipt of the Government&#8217;s supplemental letter regarding Government \nExhibit 52, Dkt. No. 457, and the Defendant&#8217;s response, which has been temporarily filed \nunder seal to allow the parties the opportunity to request limited redactions. The Government is \nhereby ORDERED to file a reply to Defendant&#8217;s response on or before 12:00 p.m. on \nNovember 21, 2021. The letter reply should address the Defendant&#8217;s argument that \nEmployee-1 cannot authenticate Government Exhibit 52 because Mr. , a former \nemployee, purportedly removed the document from the property before Employee-1 began \nworking for Mr. Epstein. The parties are FURTHER ORDERED to file any proposed redactions to \nthe motion papers on the public docket on or before November 22, 2021, justifying any \nrequested redactions by reference to the three-part test articulated by the Second Circuit in \nLugosch v. Pyramid Co. of Onondaga, 435 F.3d 110 (2d Cir. 2006). \nEFTA00014649",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "Employee-1 began \nworking for Mr. Epstein. The parties are FURTHER"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Letter due re GX 52 \nStart Date: 2021-11-21 17:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2021-11-21 17:00:00 +0000 \nEnd Date: 2021-11-21 17:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "rganizer: \nClass: X-PERSONAL \nDate Created: 2021-11-20 06:51:45 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2021-11-20 06:51:45 +0000 \nDate Modified: 2021-11-20 06:51:45 +0000 \nP"
+      },
+      {
+        "name": "Reminder \nThe",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \nThe Court is in receipt of the Go"
+      },
+      {
+        "name": "Government \nExhibit",
+        "role": "extracted",
+        "context": "supplemental letter regarding Government \nExhibit 52, Dkt. No. 457, and the Def"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "o request limited redactions. The Government is \nhereby ORDERED to file a"
+      },
+      {
+        "name": "Government Exhibit",
+        "role": "extracted",
+        "context": "mployee-1 cannot authenticate Government Exhibit 52 because Mr. , a former \nem"
+      },
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "-part test articulated by the Second Circuit in \nLugosch v. Pyramid Co. of"
+      },
+      {
+        "name": "Pyramid Co",
+        "role": "extracted",
+        "context": "Second Circuit in \nLugosch v. Pyramid Co. of Onondaga, 435 F.3d 110 (2"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-21",
+        "event": "2021-11-21"
+      },
+      {
+        "date": "2021-11-20",
+        "event": "2021-11-20"
+      },
+      {
+        "date": "2021-11-21",
+        "event": "November 21, 2021"
+      },
+      {
+        "date": "2021-11-22",
+        "event": "November 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.275Z"
+}

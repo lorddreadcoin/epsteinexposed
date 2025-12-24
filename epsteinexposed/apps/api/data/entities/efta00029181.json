@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00029181",
+    "filename": "EFTA00029181.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029181.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" \nci \nTo: ' (USANYS) 4\" •cl \nSubject: RE: Paralegal for Epstein \nDate: Fri, 18 Jan 2019 16:25:17 +0000 \nImportance: Normal \nWill \ndo! \nFrom: (USANYS) 4 <> \nSent: Friday, January 18, 2019 10:54 AM \nTo: (USANYS) \nSubject: Paralegal for Epstein \nHey, (paralegal in PC) is interested in working sex trafficking cases. If you need a para for Epstein, can you \nkeep her in mind? She is awesome. Thanks! \nAssistant United States Attorney \nSouthern District of Ne \nNew York, New York 10007 \nPhone: \nEmail: \nEFTA00029181",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "l \nSubject: RE: Paralegal for Epstein \nDate: Fri, 18 Jan 2019 16:25:17 +0"
+      },
+      {
+        "name": "Normal \nWill",
+        "role": "extracted",
+        "context": "9 16:25:17 +0000 \nImportance: Normal \nWill \ndo! \nFrom: (USANYS) 4 <> \nSe"
+      },
+      {
+        "name": "Epstein \nHey",
+        "role": "extracted",
+        "context": "ANYS) \nSubject: Paralegal for Epstein \nHey, (paralegal in PC) is interes"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ind? She is awesome. Thanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "me. Thanks! \nAssistant United States Attorney \nSouthern District of Ne \nNew"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of Ne \nNew York, New York 100"
+      },
+      {
+        "name": "Ne \nNew",
+        "role": "extracted",
+        "context": "ttorney \nSouthern District of Ne \nNew York, New York 10007 \nPhone:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-01-18",
+        "event": "January 18, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.927Z"
+}

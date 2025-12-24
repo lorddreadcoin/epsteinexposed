@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00027703",
+    "filename": "EFTA00027703.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027703.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n, Laura Menninger , Jeff Pagliuca \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Government Motions in Limine \nDate: The, 19 Oct 2021 03:58:29 +0000 \nAttachments: 2021-10-18_Govtletter_re_Proposed_Redactions_to_MILsifinal].pdf; \nGovemment_MILifinaLunredacted].pdf; \nGovemment_MILifinal,_proposed_redactions].pdf; 2021-10- \n18 SEALED_Govitietter_re_to_accompany_MILsifinal].pdf \nGood evening, \nAttached please find the Government's motions in limine in the above-referenced case, which the Government requests \nbe accepted temporarily under seal. \nAlso attached is a cover letter, which has been filed on ECF, and a second letter, which the Government respectfully \nrequests be accepted for filing under seal. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00027703",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \n, Laura Menninger , Jeff Pagliuca \nSubject: US"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "To: \nCc: \n, Laura Menninger , Jeff Pagliuca \nSubject: US v. Maxwell, 20 C"
+      },
+      {
+        "name": "Government Motions",
+        "role": "extracted",
+        "context": ". Maxwell, 20 Cr. 330 (AJN) - Government Motions in Limine \nDate: The, 19 Oct"
+      },
+      {
+        "name": "Limine \nDate",
+        "role": "extracted",
+        "context": "(AJN) - Government Motions in Limine \nDate: The, 19 Oct 2021 03:58:29 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00027703"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.815Z"
+}

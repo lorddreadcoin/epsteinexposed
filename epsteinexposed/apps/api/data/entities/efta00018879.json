@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00018879",
+    "filename": "EFTA00018879.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018879.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: [EXTERNAL] U.S. v. Maxwell S2 20 Cr. 330 (AJN) \nDate: Wed, 03 Nov 2021 18:08:03 +0000 \nAttachments: Disclosure of Juror Names to Counsel _Onlyupon completion Questionnaire.pdf of_ _ _ _ \nFYI \nFrom: BOBBI C STERNHEIM \nSent: Wednesday, November 3, 2021 12:49 PM \nTo: \nCc: Christian Everdell  '  \" ' r; Laura Menninge \nSubject: [EXTERNAL] U.S. v. Maxwell 52 20 Cr. 330 (AJN) \nCourtesy copy of today's ECF filing. \nPlease note my new office address and preferred email address: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nJeff Pagliuca \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim that may be \nconfidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this \nmessage. Thank you. \nEFTA00018879",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Juror Names",
+        "role": "extracted",
+        "context": "0 \nAttachments: Disclosure of Juror Names to Counsel _Onlyupon completi"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "er 3, 2021 12:49 PM \nTo: \nCc: Christian Everdell  '  \" ' r; Laura Menninge \nSu"
+      },
+      {
+        "name": "Laura Menninge",
+        "role": "extracted",
+        "context": "Christian Everdell  '  \" ' r; Laura Menninge \nSubject: [EXTERNAL] U.S. v."
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "s: \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi C. Sternheim \nJeff P"
+      },
+      {
+        "name": "Sternheim \nJeff",
+        "role": "extracted",
+        "context": "ESQ. \nLaw Offices of Bobbi C. Sternheim \nJeff Pagliuca \nThis message and an"
+      },
+      {
+        "name": "Pagliuca \nThis",
+        "role": "extracted",
+        "context": "s of Bobbi C. Sternheim \nJeff Pagliuca \nThis message and any attached docu"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-03",
+        "event": "November 3, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.878Z"
+}

@@ -1,0 +1,92 @@
+{
+  "document": {
+    "id": "efta00027084",
+    "filename": "EFTA00027084.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027084.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo:' \nCc: ' )\"  \nSubject: FW: Travel Records \nDate: Wed, 07 Apr 2021 00:22:46 +0000 \nAttachments: .pdf; \n.pdf \n)\"   \n—  I'm nowhere near as familiar with the discovery, so not sure if this has been produced. If not, let me know and \nI  can forward tom to produce. I'll also save in her 3500. \nFrom: \n(NY) \n(FBI) ca \nSent: Tuesday, April 06, 2021 11:46 AM \nTo: (USANYS) \nCc:\nSubject: RE: Travel Records \nWe sent the FDR to the UK and are waiting for results. Yes there are records for . Attached are the records for \nfrom 1/1/1990-4/5/2021. There are two sets due to her last name being both reMM\" and \n' on the travel records. \nFeel free to give me a call if you have questions. \nSpecial Agent-\nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nFrom: (USANYS) \nSent: Monday, April 5, 2021 10:51 AM \nTo: (NY) (FBI) <>; Byrne, (NYPD) < \nCc: \nca; \nSubject: [EXTERNAL EMAIL] - Travel Records \nands,\nI wanted to check in to see whether there is any update from the ALAT about travel records on the UK side for Maxwell, \nEpstein, and Also, when we got the CBP records for Epstein and Maxwell for the 1990s, did we also request \nthose records for ?  Please feel free to give me a call on this. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nEFTA00027084\n\nSouthern \nDistrict of New \nYork \nOne St. \nAndrew's Plaza \nNew York, New \nYork 10007 \nTel: \nEFTA00027085",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Records",
+        "role": "extracted",
+        "context": "To:' \nCc: ' )\"  \nSubject: FW: Travel Records \nDate: Wed, 07 Apr 2021 00:22"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "call if you have questions. \nSpecial Agent-\nFBI New York Field Office \nC"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Special Agent-\nFBI New York Field Office \nChild Exploitation/Human Tra"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "t-\nFBI New York Field Office \nChild Exploitation/Human Trafficking \nDesk: \nFro"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "ld Office \nChild Exploitation/Human Trafficking \nDesk: \nFrom: (USANYS) \nSent:"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "me a call on this. \nThanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": "orney's Office \nEFTA00027084\n\nSouthern \nDistrict of New \nYork \nOne St. \nAndrew"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "027084\n\nSouthern \nDistrict of New \nYork \nOne St. \nAndrew's Plaza \nNew"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "thern \nDistrict of New \nYork \nOne St. \nAndrew's Plaza \nNew York, N"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New \nYork \nOne St. \nAndrew's Plaza \nNew York, New \nYork 10007 \nTel:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "1990-01-01",
+        "event": "1/1/1990"
+      },
+      {
+        "date": "2021-04-05",
+        "event": "4/5/2021"
+      },
+      {
+        "date": "2021-04-06",
+        "event": "April 06, 2021"
+      },
+      {
+        "date": "2021-04-05",
+        "event": "April 5, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.510Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00026608",
+    "filename": "EFTA00026608.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026608.pdf",
+    "text": "\n\nFrom: \n)\" \nTo: USANYS \n4\" \nCc: r\" ca>,\nSubject: Question re T-Visa \nDate: Fri. 22 May 2020 14:30:30 +0000 \n(USANYS)\" \nattorneys have reached out to us to inquire about our office assisting her in obtaining a T-Visa. She is \ncurrently legally in the U.S. on a work visa, but that expires when her passport expires in August of 2020. We've never \ndealt with T-Visas before, so would appreciate any guidance you might be able to provide. Would qualify for a T-\nVisa? If so, what would the process be for sponsoring her? \nAlso happy to have a call if that's easier, or if there's someone else we should reach out to, please let me know. \nThanks, \nEFTA00026608",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Visa \nDate",
+        "role": "extracted",
+        "context": "\" ca>,\nSubject: Question re T-Visa \nDate: Fri. 22 May 2020 14:30:30 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-22",
+        "event": "22 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.657Z"
+}

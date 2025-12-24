@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00011092",
+    "filename": "EFTA00011092.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011092.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: -W: Jeffrey Epstein accusers detail abuse in NBC News exclusive \nDate: Fri, 20 Sep 2019 16:37:43 +0000 \nHere's \nthe TODAY show piece. \n Original Message \nFrom: Dienst, Jonathan (NBCUniversal) \nSent: Friday, September 20, 2019 12:34 PM \nTo \nSubject: Jeffrey Epstein accusers detail abuse in NBC News exclusive \nhttps://www.today.com/video/jeffrey-epstein-accusers-detail-abuse-in-nbc-news-exclusive-69459525763 \nSent from my iPhone \nEFTA00011092",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: -W: Jeffrey Epstein accusers detail abuse in NBC News exclusive \nDate"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "re's \nthe TODAY show piece. \n Original Message \nFrom: Dienst, Jonathan (NBCU"
+      },
+      {
+        "name": "To \nSubject",
+        "role": "extracted",
+        "context": "September 20, 2019 12:34 PM \nTo \nSubject: Jeffrey Epstein accusers det"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-20",
+        "event": "September 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.071Z"
+}

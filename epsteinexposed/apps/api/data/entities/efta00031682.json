@@ -1,0 +1,68 @@
+{
+  "document": {
+    "id": "efta00031682",
+    "filename": "EFTA00031682.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031682.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein Press Conference Video \nDate: Thu, 11 Jul 2019 18:14:34 +0000 \nImportance: Normal \nThanks \nFrom: \nSent: Thursday, July 11, 2019 2:04 PM \nTo \nCc \nSubject: Epstein Press Conference Video \nThe video is up: https://www.justice.gov/usao-sdny/2019-press-conferences . \nNicholas Biase \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office 'Southern District of New York \nNicholas.Biase@usdoj.gov 'Mobile: (646) 261-2074 Press Office: (212) 637-1020 \nEFTA00031682",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Press",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein Press Conference Video \nDate: Thu,"
+      },
+      {
+        "name": "Conference Video",
+        "role": "extracted",
+        "context": ": \nSubject: RE: Epstein Press Conference Video \nDate: Thu, 11 Jul 2019 18:14"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 18:14:34 +0000 \nImportance: Normal \nThanks \nFrom: \nSent: Thursday, July"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "rsday, July 11, 2019 2:04 PM \nTo \nCc \nSubject: Epstein Press Confe"
+      },
+      {
+        "name": "Nicholas Biase",
+        "role": "extracted",
+        "context": "dny/2019-press-conferences . \nNicholas Biase \nPublic Affairs \nUnited State"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "onferences . \nNicholas Biase \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office 'Southern District of New York \nNicholas.Biase@u"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "j.gov 'Mobile: (646) 261-2074 Press Office: (212) 637-1020 \nEFTA00031682"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-11",
+        "event": "July 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(646) 261-2074",
+      "(212) 637-1020"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.601Z"
+}

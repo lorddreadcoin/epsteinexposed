@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00011132",
+    "filename": "EFTA00011132.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011132.pdf",
+    "text": "\n\nFrom• \nTo: Christian Everdell <CEverdell@CohenGressencom>, 'BOBBI C STERNHEIM' \n<bcstemheim@mac.com>, Jeff Pagliuca tagliuca@lunflaw.com>, Laura Menninger \n<Imenninger@hmflaw.corn> \nCc: \nSubject: Letter re 12.2 Notice \nDate: Wed, 13 Oct 2021 18:20:43 +0000 \nAttachments: 2021.10.13_GM_12.2_letter to_defense.pdf \nCounsel, \nPlease see the attached letter. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00011132",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From• \nTo: Christian Everdell <CEverdell@CohenGressencom>,"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "NHEIM' \n<bcstemheim@mac.com>, Jeff Pagliuca tagliuca@lunflaw.com>, Laura"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "gliuca tagliuca@lunflaw.com>, Laura Menninger \n<Imenninger@hmflaw.corn> \nCc"
+      },
+      {
+        "name": "Notice \nDate",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Letter re 12.2 Notice \nDate: Wed, 13 Oct 2021 18:20:43 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "he attached letter. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.149Z"
+}

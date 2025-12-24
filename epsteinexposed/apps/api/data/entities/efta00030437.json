@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "efta00030437",
+    "filename": "EFTA00030437.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030437.pdf",
+    "text": "\n\nFrom: \"etravelservices ewtsatotravel.com\" <etravelservices®ewtsatotravel.com> \nTo: < \nSubject: Travel Authorization 10892303 approved b \napproval \nDate: Fri, 13 Dec 2019 01:07:11 +0000 \nImportance: Normal \nnow awaiting further \nDear \nTravel authorization 10892303 has been approved by , now awaiting further approval. \nTrip ID: \n10892303 \nTraveler name: \nPurpose: R20NYS13197 - U.S. v. Epstein - Witness Interview (California) \nDestination: Santa Monica, CA, United States \nDates: 2019-12-15 - 2019-12-17 \nCurrent status: Pending Authorization Approval \nE2 Sin le Si n On Lo in within DOJ Network Only): \nE2 Manual Lo in User ID and Password): \nThank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link. \nPlease note: Replies to this mailbox are not monitored. \nSome E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your \nemail settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the \nemails that you receive from us. \nReference ID# T0007 \nThis e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-\nmail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; \nany further use of such e-mail or attachments is strictly prohibited. \nEFTA00030437",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Authorization",
+        "role": "extracted",
+        "context": "otravel.com> \nTo: < \nSubject: Travel Authorization 10892303 approved b \napproval"
+      },
+      {
+        "name": "Dear \nTravel",
+        "role": "extracted",
+        "context": "Normal \nnow awaiting further \nDear \nTravel authorization 10892303 has be"
+      },
+      {
+        "name": "Witness Interview",
+        "role": "extracted",
+        "context": "0NYS13197 - U.S. v. Epstein - Witness Interview (California) \nDestination: Sa"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "ew (California) \nDestination: Santa Monica, CA, United States \nDates: 20"
+      },
+      {
+        "name": "Pending Authorization",
+        "role": "extracted",
+        "context": "- 2019-12-17 \nCurrent status: Pending Authorization Approval \nE2 Sin le Si n On L"
+      },
+      {
+        "name": "On Lo",
+        "role": "extracted",
+        "context": "tion Approval \nE2 Sin le Si n On Lo in within DOJ Network Only):"
+      },
+      {
+        "name": "Network Only",
+        "role": "extracted",
+        "context": "n le Si n On Lo in within DOJ Network Only): \nE2 Manual Lo in User ID an"
+      },
+      {
+        "name": "Manual Lo",
+        "role": "extracted",
+        "context": "within DOJ Network Only): \nE2 Manual Lo in User ID and Password): \nTh"
+      },
+      {
+        "name": "Online Help",
+        "role": "extracted",
+        "context": "able online by selecting the 'Online Help' link. \nPlease note: Replies"
+      },
+      {
+        "name": "Edit Email",
+        "role": "extracted",
+        "context": "task bar and then click the 'Edit Email Notifications' link to manage"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Santa Monica, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-12-15",
+        "event": "2019-12-15"
+      },
+      {
+        "date": "2019-12-17",
+        "event": "2019-12-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.874Z"
+}

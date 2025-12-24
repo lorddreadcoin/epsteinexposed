@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00010149",
+    "filename": "EFTA00010149.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010149.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Maxwell trial fact witness travel -\nDate: \nSun, 14 Nov 2021 21:43:03 +0000 \nAttachments: Fact Witness Travel_Request_ for_trial.docx \nHi Wendy, \nAttached please find a fact witness travel request for another witness in the Maxwell trial— I expect he'll \ntestify on 12/9 or 12/10. We would like to have him fly in on the morning of 12/8 and out on the evening of 12/10. Also, \njust flagging that there is a chance that we will need to change his travel. Please let us know if you have any questions. \nThanks so much for all of your help! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA00010149",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "21:43:03 +0000 \nAttachments: Fact Witness Travel_Request_ for_trial.doc"
+      },
+      {
+        "name": "Hi Wendy",
+        "role": "extracted",
+        "context": "avel_Request_ for_trial.docx \nHi Wendy, \nAttached please find a fact"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "o much for all of your help! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "your help! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York. Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York. New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.384Z"
+}

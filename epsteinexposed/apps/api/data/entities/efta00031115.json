@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00031115",
+    "filename": "EFTA00031115.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031115.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: ISO response to defense calling many, many agents \nDate: Wed, 24 Nov 2021 21:23:00 -4)000 \nAttachments: Government_MIL_[final,_unredacted].pdf; Govt_Reply_Brief [unredacted].pdf: \n2021.11.01_Final_pretrial_conference.PDF \nSorry for the delay! Attached is our MIL briefing, which include sections seeking to preclude the defense from attacking \nthe investigation. AJN's ruling on the issue is on pages 15 through 30 of the attached transcript. \nFrom: \nSent: Wednesda November 24 2021 11:10 AM \nTo \nCc \nSubject: RE: ISO response to defense calling many, many agents \nAmazing, thanks! \nFrom \nSent: Wednesday, November 24, 2021 11:09 AM \nTo \nSu je : e: response o e ense calling many, many agents \nWe've been dealing with this in Maxwell. We have some briefing and a decent oral ruling from Judge Nathan on this. Will \nsend when I'm at my desk. \nOn Nov 24, 2021, at 11:02 A wrote: \nGood morning all, \nAnyone have briefing in response to defense counsel's efforts to call at trial numerous (here, 7) agents involved in the \ninvestigation, to varying degrees, in an effort to impeach the investigation? Something maybe akin to —  you can't put the \ninvestigation on trial. \n(They've provided a Touhy letter, so not looking for that). \nThank \nou \nEFTA00031115",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Wednesda November",
+        "role": "extracted",
+        "context": "hed transcript. \nFrom: \nSent: Wednesda November 24 2021 11:10 AM \nTo \nCc \nSub"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "da November 24 2021 11:10 AM \nTo \nCc \nSubject: RE: ISO response to"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "any agents \nAmazing, thanks! \nFrom \nSent: Wednesday, November 24, 2021"
+      },
+      {
+        "name": "To \nSu",
+        "role": "extracted",
+        "context": ", November 24, 2021 11:09 AM \nTo \nSu je : e: response o e ense cal"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "and a decent oral ruling from Judge Nathan on this. Will \nsend when I'm"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "l \nsend when I'm at my desk. \nOn Nov 24, 2021, at 11:02 A wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-24",
+        "event": "November 24 2021"
+      },
+      {
+        "date": "2021-11-24",
+        "event": "November 24, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.441Z"
+}

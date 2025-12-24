@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00010385",
+    "filename": "EFTA00010385.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010385.pdf",
+    "text": "\n\nFrom: \nTo: IS)\" IS> \nSubject: FW: DRAFT 302 \nDate: Thu, 19 Aug 2021 13:08:56 +0000 \nAttachments: Interview_Proffer o \nFdf \nFrom \nSent: Thursday, August 19, 2021 9:06 AM \nTo: \nSubject: DRAFT 302 \nDRAFT 302 \n(USANYS) \nNYPD / FBI \nChild Exploitation Human Trafficking \nTask Force \nOffice: \n(NY) (FBI) \nEFTA00010385",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fdf \nFrom",
+        "role": "extracted",
+        "context": "chments: Interview_Proffer o \nFdf \nFrom \nSent: Thursday, August 19, 2"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "FT 302 \n(USANYS) \nNYPD / FBI \nChild Exploitation Human Trafficking \nTask Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "YPD / FBI \nChild Exploitation Human Trafficking \nTask Force \nOffice: \n(NY) (F"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "ploitation Human Trafficking \nTask Force \nOffice: \n(NY) (FBI) \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-08-19",
+        "event": "August 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.864Z"
+}

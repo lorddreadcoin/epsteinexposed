@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016165",
+    "filename": "EFTA00016165.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016165.pdf",
+    "text": "\n\nFrom: Crai Hunter \nTo: \nSubject: Thanks! Re: Ghislaine Maxwell's arrest \nDate: Thu, 02 Jul 2020 19:21:47 +0000 \nDear Ms. Strauss, \nI applaud your arrest of Ghislaine Maxwell. \nShe no doubt has powerful friends, but if certain people don't have \nto obey the law or face its consequences because of money, \npower or connections. I fear we are lost. \nAllowing certain people to not face the law's consequences is but a \nshort step from targeting certain people or groups for legal \nharassment or trumped up imprisonment. \nWithout uniform enforcement of the law, laws are meaningless, our \nconstitution is meaningless, and the freedoms we value so highly \nin this country would evaporate. \nI wanted to thank you for your fight and sacrifice to maintain the \nintegrity of the Southern District of New York and for your work to \nuphold the rule of law in the US. \nThank you for fighting for us, \nCraig Hunter \nEFTA00016165",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: Crai Hunter \nTo: \nSubject: Thanks! Re: Ghislaine Maxwell's arrest \nDate: Thu, 02 Jul 2020 19:21:47 +0000"
+      },
+      {
+        "name": "Strauss",
+        "role": "extracted",
+        "context": "Jul 2020 19:21:47 +0000 \nDear Ms. Strauss, \nI applaud your arrest o"
+      },
+      {
+        "name": "Crai Hunter",
+        "role": "extracted",
+        "context": "From: Crai Hunter \nTo: \nSubject: Thanks! Re: Gh"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": ", 02 Jul 2020 19:21:47 +0000 \nDear Ms. Strauss, \nI applaud your arr"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "aintain the \nintegrity of the Southern District of New York and for your work"
+      },
+      {
+        "name": "Craig Hunter",
+        "role": "extracted",
+        "context": "ank you for fighting for us, \nCraig Hunter \nEFTA00016165"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.141Z"
+}

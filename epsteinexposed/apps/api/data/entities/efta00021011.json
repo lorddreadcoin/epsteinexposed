@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00021011",
+    "filename": "EFTA00021011.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021011.pdf",
+    "text": "\n\nFrom \nTo \nSubject: Re: Epstein meeting at 3 \nDate: Wed, 14 Aug 2019 13:48:15 +0000 \nThanks \nSent from my iPhone \nOn Aug 14, 2019, at 9:41 AM, \nHi all, \nwrote: \n=has scheduled a brief meeting regarding the Epstein case today at 3pm in the 8th floor library with the PC chiefs, \nand the Epstein team. I've put it on all of your calendars. \nThanks, \n= \nEFTA00021011",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Re: Epstein meeting"
+      },
+      {
+        "name": "Thanks \nSent",
+        "role": "extracted",
+        "context": ", 14 Aug 2019 13:48:15 +0000 \nThanks \nSent from my iPhone \nOn Aug 14, 20"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "+0000 \nThanks \nSent from my iPhone \nOn Aug 14, 2019, at 9:41 AM, \nHi"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.824Z"
+}

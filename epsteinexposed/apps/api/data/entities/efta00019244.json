@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "efta00019244",
+    "filename": "EFTA00019244.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019244.pdf",
+    "text": "\n\nFrom: (USANYS) \nTo: (USANYS)\" .<1 \nSubject: RE: Maxwell investigation, prosecution memo \nDate: Mon, 13 Apr 2020 18:47:51 +0000 \nWill \ndo! \nFrom: (USANYS) < \nSent: Monday, April  13, 2020 2:46 PM \n(USANYS) \nSubject: Fwd: Maxwell investigation, prosecution memo \nPlease put on our calendars \nBegin forwarded message: \nFrom: ' (USANYS)\" \nDate: April 11, 2020 at 2:07:03 PM EDT \nTo: (USANYS)\" < \nCc: \" \n(USANYS)\" <  \n)\" c < \n(USANYS)\" \n< \n(USANYS)\" \n< \n>, \nSubject: Re: Maxwell investigation, prosecution memo \nThat is good for team and chiefs. \nSent from my iPhone \nOn Apr 11, 2020, at 10:00 AM, (USANYS) \n< > \nwrote: \n(USANYS)\" \nThanks, team. Let's set up a conference call at 1pm on Wednesday to discuss. Does that time work for everyone? \nOn Apr 10, 2020, at 11:43 PM, wrote: \nAll, \nAttached please find the prosecution memo for the Ghislaine Maxwell investigation. The team will be working on a \ndraft indictment, but we wanted to submit the memo as soon as it was completed. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00019244\n\nOne Saint Andrew's Plaza \nNew York, NY 10007 \n<2020-04-10 GM prosecution memo..pdf> \nEFTA00019245",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Attached please find the prosecution memo for the Ghislaine Maxwell investigation. The team will be working on a \ndra"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "am and chiefs. \nSent from my iPhone \nOn Apr 11, 2020, at 10:00 AM, (U"
+      },
+      {
+        "name": "On Apr",
+        "role": "extracted",
+        "context": "that time work for everyone? \nOn Apr 10, 2020, at 11:43 PM, wrote:"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "s it was completed. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00019244\n\nOn"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "ct of New York \nEFTA00019244\n\nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "A00019244\n\nOne Saint Andrew's Plaza \nNew York, NY 10007 \n<2020-04-10 G"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-04-10",
+        "event": "2020-04-10"
+      },
+      {
+        "date": "2020-04-13",
+        "event": "April  13, 2020"
+      },
+      {
+        "date": "2020-04-11",
+        "event": "April 11, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.577Z"
+}

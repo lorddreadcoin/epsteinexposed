@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029642",
+    "filename": "EFTA00029642.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029642.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Notes from call with Tartaglione \ncounsel \nDate: Wed, 27 Nov 2019 16:28:16 +0000 \nSure. I'm around now if you want to chat. \nFrom \nSent: Wednesday, November 27, 2019 11:19 AM \nTo: \nSubject: Re: Notes from call with Tartaglione counsel \nThanks for writing this up. Do you want to discuss later today or Friday or Monday? \nCo-Chief, Narcotics Unit \nOn Nov 27, 2019, at 10:25, wrote: \nCall on November 27, 2019 with NT defense team \nBruce B, Aida, Bruce K, Tony, Michael \nEFTA00029642\n\nEFTA00029643",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "und now if you want to chat. \nFrom \nSent: Wednesday, November 27, 2019"
+      },
+      {
+        "name": "Narcotics Unit",
+        "role": "extracted",
+        "context": "Friday or Monday? \nCo-Chief, Narcotics Unit \nOn Nov 27, 2019, at 10:25, w"
+      },
+      {
+        "name": "On Nov",
+        "role": "extracted",
+        "context": "y? \nCo-Chief, Narcotics Unit \nOn Nov 27, 2019, at 10:25, wrote: \nC"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-27",
+        "event": "November 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.863Z"
+}

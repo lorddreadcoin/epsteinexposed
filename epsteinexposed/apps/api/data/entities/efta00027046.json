@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00027046",
+    "filename": "EFTA00027046.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027046.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: RE: Epstein \nDate: Fri, 01 Mar 2019 16:25:29 +0000 \nImportance: Normal \nThanks, 1:30 should work for us. We can give you a call then. \nFrom: \nSent: Friday, March 1, 2019 10:16 AM \nTo: \nCc: \nSubject: RE: Epstein \nGood morning! \nThank you for reaching out. I have some availability for a phone call today around 1:30/2 p.m. Please let \nme know if that works for you. I look forward to connecting. \nFrom: \nSent: Thursday, February 28, 2019 5:56 PM \nTo: \nCc: \nSubject: Epstein \nHi and I are the supervisors of the Public Corruption Unit in the Southern District of New York, and we \nunderstand you reached out to one of the line AUSAs in our unit, S regarding our Epstein investigation. We \nwanted to introduce ourselves and connect. Do you have time for a call tomorrow or Monday? \nThanks, \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00027046",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "' \nTo:' \nCc: ' \nSubject: RE: Epstein \nDate: Fri, 01 Mar 2019 16:25:29 +0"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 16:25:29 +0000 \nImportance: Normal \nThanks, 1:30 should work for us. We"
+      },
+      {
+        "name": "Epstein \nGood",
+        "role": "extracted",
+        "context": "16 AM \nTo: \nCc: \nSubject: RE: Epstein \nGood morning! \nThank you for reach"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "9 5:56 PM \nTo: \nCc: \nSubject: Epstein \nHi and I are the supervisors of"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "I are the supervisors of the Public Corruption Unit in the Southern District"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "Public Corruption Unit in the Southern District of New York, and we \nundersta"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "tomorrow or Monday? \nThanks, \nDeputy Chief, Public Corruption Unit \nU.S."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-03-01",
+        "event": "March 1, 2019"
+      },
+      {
+        "date": "2019-02-28",
+        "event": "February 28, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.445Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016463",
+    "filename": "EFTA00016463.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016463.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: MM Digital \nEvidence \nDate: Tue, 08 Dec 2020 17:36:33 +0000 \nAttachments: MM-108062 EvidencenDigitabdsx; MM-108062_Miami_Evidenceinventory.xlsx \nHey all, \nAttached is the spreadsheet for the Miami digital items listed in evidence. For your reference, I've also attached the \noriginal spreadsheet that was completed during the scan project. Let me know if you have any questions. \nThanks. \nFBI New York Field Office \nChild Ex loitation an Trafficking \nEFTA00016463",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Digital \nEvidence",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: MM Digital \nEvidence \nDate: Tue, 08 Dec 2020 17:36"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "tions. \nThanks. \nFBI New York Field Office \nChild Ex loitation an Traffi"
+      },
+      {
+        "name": "Child Ex",
+        "role": "extracted",
+        "context": ". \nFBI New York Field Office \nChild Ex loitation an Trafficking \nEFT"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.723Z"
+}

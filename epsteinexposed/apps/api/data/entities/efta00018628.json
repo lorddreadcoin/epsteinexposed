@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00018628",
+    "filename": "EFTA00018628.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018628.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Expert Witness \nDate: Wed, 28 Oct 2020 22:22:59 +0000 \nAlso, I  have some availability tomorrow before noon or after 3:00pm, if that works better. \nPlease let me know what works for you and if you'd like a CV and fee schedule in the interim. \nBest, \nKim \nSent from my iPhone \nOn Oct 28, 2020, at 1:17 PM, Kimberly Mehlman-Orozco wrote: \nHi=, \nYes, I  have some time to chat this week. I have availability today or Friday before noon or after 3:00pm. \nI can be reached on my cell \nBest, \nKim \nSent from my iPhone \nor feel free to circulate a call-in number. \nOn \nOct 28, 2020, at 1:10 PM, wrote: \nDr. Mehlman-Orozco, \nMy colleagues, and and I are the prosecutors in the case of United States v. Ghislaine \nMaxwell, which is scheduled to go to trial on July 12, 2020 in the Southern District of New York. We would be \ninterested in speaking with you about your availability to testify at trial. Are you available for a call this week to \ndiscuss? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00018628",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mehlman",
+        "role": "extracted",
+        "context": "28, 2020, at 1:10 PM, wrote: \nDr. Mehlman-Orozco, \nMy colleagues, a"
+      },
+      {
+        "name": "Expert Witness",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Re: Expert Witness \nDate: Wed, 28 Oct 2020 22:22"
+      },
+      {
+        "name": "Kim \nSent",
+        "role": "extracted",
+        "context": "edule in the interim. \nBest, \nKim \nSent from my iPhone \nOn Oct 28, 20"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "m. \nBest, \nKim \nSent from my iPhone \nOn Oct 28, 2020, at 1:17 PM, Kim"
+      },
+      {
+        "name": "Kimberly Mehlman",
+        "role": "extracted",
+        "context": "On Oct 28, 2020, at 1:17 PM, Kimberly Mehlman-Orozco wrote: \nHi=, \nYes, I"
+      },
+      {
+        "name": "On \nOct",
+        "role": "extracted",
+        "context": "circulate a call-in number. \nOn \nOct 28, 2020, at 1:10 PM, wrote:"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "the case of United States v. Ghislaine \nMaxwell, which is scheduled to go to"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "trial on July 12, 2020 in the Southern District of New York. We would be \nint"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "discuss? \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-12",
+        "event": "July 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.333Z"
+}

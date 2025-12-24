@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014467",
+    "filename": "EFTA00014467.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014467.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Re: Epstein \nDate: Thu, 27 Jun 2019 20:41:53 +0000 \nImportance: Normal \nGood \nto hear that. \nSent from my iPhone \nOn \nJun 27, 2019, at 4:28 PM, wrote: \nWe obtained the list of victims in the side-letter to the NPA, and confirmed that our principal NY victim is not on it — it \nappears that all the victims are Florida. \nPublic Corruption Unit \nUnited States Attorney's Office for the \nt. \nEFTA00014467",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: Re: Epstein \nDate: Thu, 27 Jun 2019 20:41:53 +0"
+      },
+      {
+        "name": "Normal \nGood",
+        "role": "extracted",
+        "context": "9 20:41:53 +0000 \nImportance: Normal \nGood \nto hear that. \nSent from my"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "to hear that. \nSent from my iPhone \nOn \nJun 27, 2019, at 4:28 PM, wr"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "all the victims are Florida. \nPublic Corruption Unit \nUnited States Attorney'"
+      },
+      {
+        "name": "Unit \nUnited",
+        "role": "extracted",
+        "context": "e Florida. \nPublic Corruption Unit \nUnited States Attorney's Office for"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ublic Corruption Unit \nUnited States Attorney's Office for the \nt. \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.906Z"
+}

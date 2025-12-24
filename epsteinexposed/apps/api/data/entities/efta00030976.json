@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030976",
+    "filename": "EFTA00030976.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030976.pdf",
+    "text": "\n\nFrom: \n\"Berman. Geoffrey (USANYS)\" \nTo: \n\"lallairinUSANYS)\" \n(USANYS)\" \nSubject: Ghislaine Maxwell seeks court delay due to Epstein probe - New York Daily News \nDate: Wed, 20 May 2020 03:10:28 +0000 \nhttps://www.nydailynews.cotninew-york/ny-maxwell-delay-criminal-investigation-epstein-20200519-\nzxtbjulbuvgdzixkyi71y3j6um-stoty.html \nEFTA00030976",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "S)\" \nTo: \n\"lallairinUSANYS)\" \n(USANYS)\" \nSubject: Ghislaine Maxwell seeks court delay due to Epstein probe - New York"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "e to Epstein probe - New York Daily News \nDate: Wed, 20 May 2020 03:10"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-20",
+        "event": "20 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.155Z"
+}

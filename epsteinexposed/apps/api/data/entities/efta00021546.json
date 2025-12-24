@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021546",
+    "filename": "EFTA00021546.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021546.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Meetings for next week \nDate: Fri, 02 Aug 2019 15:45:05 +0000 \nI know that sked you about scheduling a meeting on the church fraud case for next week. It would be good to \nschedule that -  I think he is aiming for \nend of week. \nCheck with the Securities chiefs about a  time for meetings on \nfor \nearly next week; f=llate. \n2 separate cases). \nis \nripe \nmay want to have a  check-in meeting with the Epstein \nteam. \nHe gets regular email updates, but he might want to \njust talk about status of things. \nFrom \nSent: Friday, August 2, 2019 11:25 AM \nTo: \nSubject: Meetings for next week \nAre there any meetings I should try to get on the calendar for next week or even this afternoon? Thanks! \nBest, \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00021546",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "talk about status of things. \nFrom \nSent: Friday, August 2, 2019 11:25"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "is afternoon? Thanks! \nBest, \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00021546"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-02",
+        "event": "August 2, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.877Z"
+}

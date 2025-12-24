@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00014172",
+    "filename": "EFTA00014172.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014172.pdf",
+    "text": "\n\nFrom \nTo: \"Barry Krischer\" \nCc: \"Lanna Belohlavek \nUSAFLS \" \nSubject: Your \ninquiry regarding the Epstein case \nDate: Wed, 17 Sep 2008 15:59:37 +0000 \nImportance: \nNormal \nHi Barry —  The Non-Prosecution Agreement contains a confidentiality provision that requires us to inform Mr. \nEpstein's counsel before making any disclosure —  even a compulsory disclosure. I am cc'ing you on a letter to \nJay Lefkowitz, Roy Black, and Jack Goldberger informing them of the request and asking them, as parties to the \ncriminal case, to contact you regarding a possible suit by the Shiny Sheet. \nOn another note, I also will be informing them that I  believe that they still have not filed the complete agreement \nwith the Court, as required by the Judge at the hearing. \nThank you very much for reaching out to us when you received this request, and if you need any help from us, \nplease let us know. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00014172",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "on that requires us to inform Mr. \nEpstein's counsel before making"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \"Barry Krischer\" \nCc: \"Lanna"
+      },
+      {
+        "name": "Barry Krischer",
+        "role": "extracted",
+        "context": "From \nTo: \"Barry Krischer\" \nCc: \"Lanna Belohlavek \nUSAF"
+      },
+      {
+        "name": "Lanna Belohlavek",
+        "role": "extracted",
+        "context": "m \nTo: \"Barry Krischer\" \nCc: \"Lanna Belohlavek \nUSAFLS \" \nSubject: Your \ninq"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "15:59:37 +0000 \nImportance: \nNormal \nHi Barry —  The Non-Prosecution"
+      },
+      {
+        "name": "The Non",
+        "role": "extracted",
+        "context": "ortance: \nNormal \nHi Barry —  The Non-Prosecution Agreement contain"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "Normal \nHi Barry —  The Non-Prosecution Agreement contains a confidentiality pr"
+      },
+      {
+        "name": "Jay Lefkowitz",
+        "role": "extracted",
+        "context": "am cc'ing you on a letter to \nJay Lefkowitz, Roy Black, and Jack Goldberg"
+      },
+      {
+        "name": "Roy Black",
+        "role": "extracted",
+        "context": "n a letter to \nJay Lefkowitz, Roy Black, and Jack Goldberger informin"
+      },
+      {
+        "name": "Jack Goldberger",
+        "role": "extracted",
+        "context": "Jay Lefkowitz, Roy Black, and Jack Goldberger informing them of the request"
+      },
+      {
+        "name": "Shiny Sheet",
+        "role": "extracted",
+        "context": "arding a possible suit by the Shiny Sheet. \nOn another note, I also wil"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00014172"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.314Z"
+}

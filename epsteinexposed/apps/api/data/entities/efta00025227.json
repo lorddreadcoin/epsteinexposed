@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00025227",
+    "filename": "EFTA00025227.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025227.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: accidentally forwarding \nDate: Thu, 26 Sep 2019 17:36:43 +0000 \nThank you. The only way I could get the Epstein victim calls to you and the team was to have Outlook search for a certain \nstring in the subject that included my telephone. This was someone responding to a voice message I left earlier. The \nsubject of the email he received included my number. \n• \nFrom:\nSent: Thursday, September 26, 2019 1:10 PM \nTo: \nSubject: accidentally forwarding \nthink I might be getting your emails accidentally forwarded (along with the Epstein team). This happened a few \nweeks ago as well. No worries, but I wanted to let you know. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00025227",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ut I wanted to let you know. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t you know. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00025227"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-26",
+        "event": "September 26, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.738Z"
+}

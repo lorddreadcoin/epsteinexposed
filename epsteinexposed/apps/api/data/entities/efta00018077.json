@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018077",
+    "filename": "EFTA00018077.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018077.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nJSANYS)\" \nUSANYS)\" \nSubject: Epstein database \nDate: Wed, 04 Aug 2021 13:51:50 +0000 \nHi \nWhile reviewing items in the Epstein search warrant database, I noticed that the subject line of one item was \"joint \ndefense agreement,\" and so I didn't open it. It's control number USGME00032574, would you mind taking a look please? \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nEFTA00018077",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nWhile",
+        "role": "extracted",
+        "context": ", 04 Aug 2021 13:51:50 +0000 \nHi \nWhile reviewing items in the Epstei"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "king a look please? \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e? \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nEFTA00018077"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.120Z"
+}

@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00027700",
+    "filename": "EFTA00027700.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027700.pdf",
+    "text": "\n\nFrom: aa \nTo:'\nCc: \nSubject: RE: Epstein \nDate: Fri, 01 Mar 2019 18:31:12 +0000 \nImportance: Normal \nYes, that is fine \n Original Messa e \nFrom: (USANYS)\nSent: Friday,March 1, 2019 1:30 PM \nTo: \nCc: \nSubject: Re: Epstein \n- Apologies, we are in a meeting that is running late. Can we call you a bit closer to 2? \nSent from my iPhone \nOn Mar 1  2019 at 10:15 AM \n> \nwrote: \nGood \nmorning! \nThank you for reaching out. I  have some availability for a phone call today around 1:30/2 p.m. Please let me \nknow if that works for you. I  look forward to connecting. \nFrom: \nSent: Thursday,February 28, 2019 5:56 PM \nTo: \nCc: \nSubject: Epstein \nHi and I are the supervisors of the Public Corruption Unit in the Southern District of New York, \nand we understand you reached out to one of the line AUSAs in our unit, regarding our Epstein \ninvestigation. We wanted to introduce ourselves and connect. Do you have time for a call tomorrow or Monday? \nThanks, \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00027700",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "m: aa \nTo:'\nCc: \nSubject: RE: Epstein \nDate: Fri, 01 Mar 2019 18:31:12 +0"
+      },
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "9 18:31:12 +0000 \nImportance: Normal \nYes, that is fine \n Original Mess"
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": ": Normal \nYes, that is fine \n Original Messa e \nFrom: (USANYS)\nSent: Frida"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "t closer to 2? \nSent from my iPhone \nOn Mar 1  2019 at 10:15 AM \n> \nw"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "9 5:56 PM \nTo: \nCc: \nSubject: Epstein \nHi and I are the supervisors of"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "I are the supervisors of the Public Corruption Unit in the Southern District"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "Public Corruption Unit in the Southern District of New York, \nand we understa"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "tomorrow or Monday? \nThanks, \nDeputy Chief, Public Corruption Unit \nU.S."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-03-01",
+        "event": "March 1, 2019"
+      },
+      {
+        "date": "2019-02-28",
+        "event": "February 28, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.809Z"
+}

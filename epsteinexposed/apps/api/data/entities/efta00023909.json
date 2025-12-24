@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00023909",
+    "filename": "EFTA00023909.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00023909.pdf",
+    "text": "\n\nFrom: ' \n)O cl \n)11\nSubject: RE: WBTW Motions/Letters \nDate: Wed, 10 Feb 2021 22:17:17 +0000 \nAttachments: 2021-01-10_Letter Response_to_GM_Request_for Bill_of Partieularsifinal).docx \nThanks, team. How can I pitch in? I'm attaching the letter we sent defense counsel last month in Maxwell re: a bill of \nparticulars. Also happy to do additional research on the accountant issue—just let me know how I can be useful. \nFrom: \nSent: Wednesday, February 10, 2021 5:08 PM \nTo: \nSubject: RE: WBTW Motions/Letters \n>; \nYes, I am aiming to get you a draft of the opposition at some point this weekend. Would be grateful for you to handle the \nother items. Thanks. \nFrom: \nSent: Wednesday, February 10, 2021 5:07 PM \nTo: \nSubject: WBTW Motions/Letters \nHey— What's the plan on this motion? If you were planning on working on it, Rob, I can tackle the BOP/Brady letters \nand the accountant privilege letter. \nmates Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00023909",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letters \nDate",
+        "role": "extracted",
+        "context": ")11\nSubject: RE: WBTW Motions/Letters \nDate: Wed, 10 Feb 2021 22:17:17 +0"
+      },
+      {
+        "name": "Letter Response",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2021-01-10_Letter Response_to_GM_Request_for Bill_of Par"
+      },
+      {
+        "name": "Letters \nHey",
+        "role": "extracted",
+        "context": "M \nTo: \nSubject: WBTW Motions/Letters \nHey— What's the plan on this moti"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "tant privilege letter. \nmates Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "tter. \nmates Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-02-10",
+        "event": "February 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:09.856Z"
+}

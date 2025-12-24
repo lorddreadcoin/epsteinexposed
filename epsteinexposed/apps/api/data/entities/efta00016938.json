@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00016938",
+    "filename": "EFTA00016938.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016938.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: CBS News Inquiry \nDate: Wed, 21 Aug 2019 23:02:30 +0000 \nI'll handle. Thanks. \nSent from my iPhone \nOn Aug 21, 2019, at 7:01 PM, \nFrom: Brown, Bridget \nSent: Wednesday, August 21, 2019 18:56 \nTo: \nCc: @CND National Desk Staff \nSubject: CBS News Inquiry \nGood evening — \nwrote: \nReaching out from the CBS News National Desk. We are following reports that at least 8 jail officials knew that Jeffrey \nEpstein was not to be left alone in his cell leading up to his death. Can you confirm this? Do you have any comment? \nPlease \nreply all. \nThank you, \nBridget Brown \nNews Associate National Desk \nEFTA00016938",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "News Inquiry",
+        "role": "extracted",
+        "context": ": \nTo: \nCc: \nSubject: Re: CBS News Inquiry \nDate: Wed, 21 Aug 2019 23:02"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "andle. Thanks. \nSent from my iPhone \nOn Aug 21, 2019, at 7:01 PM, \nFr"
+      },
+      {
+        "name": "Bridget \nSent",
+        "role": "extracted",
+        "context": "19, at 7:01 PM, \nFrom: Brown, Bridget \nSent: Wednesday, August 21, 2019 1"
+      },
+      {
+        "name": "National Desk",
+        "role": "extracted",
+        "context": "21, 2019 18:56 \nTo: \nCc: @CND National Desk Staff \nSubject: CBS News Inqu"
+      },
+      {
+        "name": "Staff \nSubject",
+        "role": "extracted",
+        "context": "To: \nCc: @CND National Desk Staff \nSubject: CBS News Inquiry \nGood eveni"
+      },
+      {
+        "name": "News National",
+        "role": "extracted",
+        "context": "e: \nReaching out from the CBS News National Desk. We are following report"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "st 8 jail officials knew that Jeffrey \nEpstein was not to be left alone in h"
+      },
+      {
+        "name": "Bridget Brown",
+        "role": "extracted",
+        "context": "ease \nreply all. \nThank you, \nBridget Brown \nNews Associate National Desk"
+      },
+      {
+        "name": "News Associate",
+        "role": "extracted",
+        "context": ". \nThank you, \nBridget Brown \nNews Associate National Desk \nEFTA00016938"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-21",
+        "event": "August 21, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.720Z"
+}

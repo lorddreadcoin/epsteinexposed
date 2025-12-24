@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00032125",
+    "filename": "EFTA00032125.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032125.pdf",
+    "text": "\n\nFrom: '  \n)\" \nTo: 'I\n\" \nSubject: RE: RE: USAA keep account open \nDate: Thu, 03 Sep 2020 19:09:37 +0000 \nLeft him a vm telling him \nhe no longer needs to keep these open. \nFrom: \nSent: Monday, August 31, 2020 4:58 PM \nTo: \n(USANYS) \nSubject: RE: USAA keep account open \nGot the attached voicemail this afternoon —  info below \nUSAA \nEd Wasson \nre: Ghislaine Maxwell -- keep account open letter, which has expired; wondering if we want to re-up \n>; \nEFTA00032125",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "his afternoon —  info below \nUSAA \nEd Wasson \nre: Ghislaine Maxwell -- keep account open letter, which has expired; w"
+      },
+      {
+        "name": "Ed Wasson",
+        "role": "extracted",
+        "context": "fternoon —  info below \nUSAA \nEd Wasson \nre: Ghislaine Maxwell -- kee"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-31",
+        "event": "August 31, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.689Z"
+}

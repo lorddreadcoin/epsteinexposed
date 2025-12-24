@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00021977",
+    "filename": "EFTA00021977.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021977.pdf",
+    "text": "\n\nFrom: \nTo: Nathan NYSD Chambers \nCc: \nJeff \nPa Inca \nSubject: US v. Maxwell - Letter re Minor Victim-3 \nDate: Sun, 07 Nov 2021 16:55:12 +0000 \nAttachments: Govit_Letter_re_MV-3_and_VictimdFinal].pdf \nChambers, \nAttached please find a letter in response to the Court's order yesterday regarding Minor Victim-3. The Government is not \nseeking redactions but is filing this letter temporarily under seal to permit the defense an opportunity to seek redactions, \nand pending the Court's resolution of the Government's other redaction requests. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00021977",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers \nCc",
+        "role": "extracted",
+        "context": "From: \nTo: Nathan NYSD Chambers \nCc: \nJeff \nPa Inca \nSubject: US"
+      },
+      {
+        "name": "Jeff \nPa",
+        "role": "extracted",
+        "context": "o: Nathan NYSD Chambers \nCc: \nJeff \nPa Inca \nSubject: US v. Maxwell"
+      },
+      {
+        "name": "Inca \nSubject",
+        "role": "extracted",
+        "context": "NYSD Chambers \nCc: \nJeff \nPa Inca \nSubject: US v. Maxwell - Letter re Mi"
+      },
+      {
+        "name": "Minor Victim",
+        "role": "extracted",
+        "context": "ct: US v. Maxwell - Letter re Minor Victim-3 \nDate: Sun, 07 Nov 2021 16:"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "day regarding Minor Victim-3. The Government is not \nseeking redactions bu"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ts. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.780Z"
+}

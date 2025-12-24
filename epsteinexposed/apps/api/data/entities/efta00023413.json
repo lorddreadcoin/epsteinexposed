@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00023413",
+    "filename": "EFTA00023413.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023413.pdf",
+    "text": "\n\nFrom: \"a\" alMIE>\nTo: \"\nM)\" cat' \nSubject: Paul Kane Q&A \nDate: Sun, 14 Nov 2021 06:30:33 +0000 \nAttachments: \nICane_Q&A.docx \nHe \nAttached is a draft Paul Kane Q&A. There are a couple questions that may seem weird — basically, since PCS didn't create \nthis record, the questions are aimed at a line of Second Circuit cases holding that \"Records maintained but not created by \na company may be admissible as business records of that company if witnesses testify that the records are integrated into \n[the] company's records and relied upon in its day-to-day operations.\" United States v. Kuthuru, 665 F. App'x 34, 39 (2d Cir. \n2016). \nLet's chat about the other hearsay issue when you have a minute? \nThanks! \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00023413",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paul Kane",
+        "role": "extracted",
+        "context": "MIE>\nTo: \"\nM)\" cat' \nSubject: Paul Kane Q&A \nDate: Sun, 14 Nov 2021 0"
+      },
+      {
+        "name": "He \nAttached",
+        "role": "extracted",
+        "context": "Attachments: \nICane_Q&A.docx \nHe \nAttached is a draft Paul Kane Q&A. The"
+      },
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "stions are aimed at a line of Second Circuit cases holding that \"Records m"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "you have a minute? \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e? \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.913Z"
+}

@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00003060",
+    "filename": "EFTA00003060.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003060.pdf",
+    "text": "\n\n• \n11\n4  \n0 \nLSJE, \nLLC \n6100 \nRed \n!look \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTel: \nEmergency \nContact \nForm \nDate: \n03/19/18 \nEmployee \nName: \nLeiria \nfliornit\nt \nAddress: \nPhone \nColl\n-\nTitle \n/ \nPosition: \nH \nemergency \nInformation: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nCoorbin \nDoctor's \nName: \nCoorbin \nFax:: \nStart \nDate: \nDate \nof \nBirth: \nE\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact: \nRelationship \nMarned \nRelationship \nSon \nPhone: Phone: \nPhone \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003060",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \n!look \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "t. \nThomas, \nVI \n00802 \nTel: \nEmergency \nContact \nForm \nDate: \n03/19/18 \nEmplo"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "02 \nTel: \nEmergency \nContact \nForm \nDate: \n03/19/18 \nEmployee \nName:"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "ntact \nForm \nDate: \n03/19/18 \nEmployee \nName: \nLeiria \nfliornit\nt \nAddress"
+      },
+      {
+        "name": "Phone \nColl",
+        "role": "extracted",
+        "context": "Leiria \nfliornit\nt \nAddress: \nPhone \nColl\n-\nTitle \n/ \nPosition: \nH \neme"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Information: \nAllergies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedi"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDocto"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "lth \nConcerns: \nBlood \nType: \nCurrent \nMedication: \nDoctor's \nName: \nCoorbin \nD"
+      },
+      {
+        "name": "Coorbin \nDoctor",
+        "role": "extracted",
+        "context": "Medication: \nDoctor's \nName: \nCoorbin \nDoctor's \nName: \nCoorbin \nFax:: \nSta"
+      },
+      {
+        "name": "Coorbin \nFax",
+        "role": "extracted",
+        "context": "e: \nCoorbin \nDoctor's \nName: \nCoorbin \nFax:: \nStart \nDate: \nDate \nof \nBi"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "tor's \nName: \nCoorbin \nFax:: \nStart \nDate: \nDate \nof \nBirth: \nE\n-Mail:"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "Date \nof \nBirth: \nE\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \nIn \ncase"
+      },
+      {
+        "name": "Married \nLicense",
+        "role": "extracted",
+        "context": "E\n-Mail: \nMarital \nStatus: \nMarried \nLicense: \nIn \ncase \nof \nan \nEmergency"
+      },
+      {
+        "name": "Relationship \nMarned",
+        "role": "extracted",
+        "context": "Emergency, \nPlease \ncontact: \nRelationship \nMarned \nRelationship \nSon \nPhone: Ph"
+      },
+      {
+        "name": "Relationship \nSon",
+        "role": "extracted",
+        "context": "ntact: \nRelationship \nMarned \nRelationship \nSon \nPhone: Phone: \nPhone \nPhone"
+      },
+      {
+        "name": "Phone \nPhone",
+        "role": "extracted",
+        "context": "tionship \nSon \nPhone: Phone: \nPhone \nPhone \nThis \nInformation \nis \nfor"
+      },
+      {
+        "name": "This \nInformation",
+        "role": "extracted",
+        "context": "Phone: Phone: \nPhone \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.635Z"
+}

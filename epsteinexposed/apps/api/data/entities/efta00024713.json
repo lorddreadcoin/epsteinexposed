@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00024713",
+    "filename": "EFTA00024713.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024713.pdf",
+    "text": "\n\nFrom: (USANYS)\"  \nTo: alNYS)\" \n•:1 \nCc: \n(USANYS)\" \nSubject: RE: Briefings \nDate: Tue, 19 Feb 2019 23:24:42 +0000 \nImportance: Normal \n(USANYS)\" \nFrom: (USANYS) \nSent: Tuesday, February 19, 2019 6:24 PM \nTo: (USANYS) \nCc: \n(USANYS) \nSubject: FW: Briefings \n(USANYS) \nFrom: (USANYS) \nSent: Tuesday, February 19, 2019 6:24 PM \nTo: Berman, Geoffrey (USANYS) e> \n(USANYS) \nCc: \nSubject: Briefings \n(USANYS) \n(USANYS)< > \n(USANYS) < \n> \nI have asked the teams to get detailed briefing memos by tomorrow, and will turn them to you by Thursday \nmorning, on the following: \n- Epstein \nIf there's anything else you'd like to include let us know. \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nEFTA00024713",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Briefings \nDate",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\" \nSubject: RE: Briefings \nDate: Tue, 19 Feb 2019 23:24:42 +0"
+      },
+      {
+        "name": "Epstein \nIf",
+        "role": "extracted",
+        "context": "morning, on the following: \n- Epstein \nIf there's anything else you'd l"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "like to include let us know. \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "de let us know. \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-19",
+        "event": "February 19, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.679Z"
+}

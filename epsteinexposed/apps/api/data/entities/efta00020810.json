@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00020810",
+    "filename": "EFTA00020810.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020810.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \nar)\" \nCc: \nSubject: RE: Pseudonyms \nDate: Wed, 13 Oct 2021 20:06:23 +0000 \nAttachments: Anonymity_v.1_(.).docx; 2019-05-09_-_Govt_MiL_vf.docx \nThanks so much for putting this together. Some suggestions/thoughts in the attached. I'm also attaching the brief that \nsent me which has a couple of case cites on pages 4-5. I'm happy to take another look later if helpful. M, I \nthink you should also review this. \nFeel free to call with any questions. \nThanks, \nFrom: \nSent: Tuesday, October 12, 2021 1:16 AM \nTo: \nCc: \nSubject: Pseudonyms \nHey team, \n(USANYS) < \nAttached is a draft MIL for pseudonyms. I'm going to churn out the sympathy MIL tomorrow and then do a heavy edit of \nthe whole doc, which hopefully will make it shorter and tee it up for M. \nSafe flight tomorrow, and good luck in California! \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00020810",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Pseudonyms \nDate",
+        "role": "extracted",
+        "context": "To: \nar)\" \nCc: \nSubject: RE: Pseudonyms \nDate: Wed, 13 Oct 2021 20:06:23 +0"
+      },
+      {
+        "name": "Pseudonyms \nHey",
+        "role": "extracted",
+        "context": "1 1:16 AM \nTo: \nCc: \nSubject: Pseudonyms \nHey team, \n(USANYS) < \nAttached i"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "and good luck in California! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "California! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-12",
+        "event": "October 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.397Z"
+}

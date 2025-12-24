@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00013701",
+    "filename": "EFTA00013701.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013701.pdf",
+    "text": "\n\nFrom: \nTo \nCc: \nSubject: RE: Epstein \nDate: Fri, 09 Nov 2007 15:13:48 +0000 \nImportance: Normal \nAttachments: 071109_Epstein_Article.pdf \nHi sand MI: Here is an article from today's Palm Beach Post. I especially like the part about how the \"feds \nwere overreaching the whole time.\" \nDo you want to do a conference call some time this morning? I  have to leave for a sentencing at 12:30 and will \nbe back in the office at around 3:00. \nThank you. \nFrom \nSent:WPM. \n9:34 AM \nTo: \nCc: \nSubject: FW: \nEpstein \nLet me know what you think \nFrom: Jay Leflcowhz [mallboaefkowitz@kkidand.com] \nSe 08, 2007 \n6:01 PM \nTo: \nSub \ne \nn \nJeff. \nAs requested, attached is our response to your November 5 \nletter. \nRegards, \nJay \nThe information contained in \nthis communication is \nconfidential, may be attorney-client \nprivileged, may \nconstitute inside information, and is \nintended only for \nthe use of the addressee. It is the property of \nKirkland & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, disclosure or copying of this \nEFTA00013701\n\ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication \nin error, please notify us immediately by \nreturn e-mail or by \ne-mail to postmaster@kirkland.com, and \ndestroy this communication and all copies thereof, \nincluding \nall attachments. \nEFTA00013702",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: \nSubject: RE: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: \nSubject: RE: Epstein \nDate: Fri, 09 Nov 2007 15:13:48 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 15:13:48 +0000 \nImportance: Normal \nAttachments: 071109_Epstein_Article.pdf"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "re is an article from today's Palm Beach Post. I especially like the p"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "at around 3:00. \nThank you. \nFrom \nSent:WPM. \n9:34 AM \nTo: \nCc: \nSubj"
+      },
+      {
+        "name": "Epstein \nLet",
+        "role": "extracted",
+        "context": "4 AM \nTo: \nCc: \nSubject: FW: \nEpstein \nLet me know what you think \nFrom:"
+      },
+      {
+        "name": "Jay Leflcowhz",
+        "role": "extracted",
+        "context": "me know what you think \nFrom: Jay Leflcowhz [mallboaefkowitz@kkidand.com]"
+      },
+      {
+        "name": "Jay \nThe",
+        "role": "extracted",
+        "context": "ovember 5 \nletter. \nRegards, \nJay \nThe information contained in \nthi"
+      },
+      {
+        "name": "Ellis International",
+        "role": "extracted",
+        "context": "and & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, discl"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.199Z"
+}

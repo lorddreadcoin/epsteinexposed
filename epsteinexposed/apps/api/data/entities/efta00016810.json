@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00016810",
+    "filename": "EFTA00016810.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016810.pdf",
+    "text": "\n\nSent from my iPhone \nBegin forwarded message: \nFrom: ' (USANYS)\"\nDate: January 28, 2020 at 5:50:44 PM EST \nTo: daniel bates\nSubject: Re: Andrew claims he hasn't been approached \nThank you, we'll decline. \nNote: you have Geoffrey Berman listed as the State Attorney for New York. He's the United States Attorney for \nthe Southern District of New York. \nSent from my iPhone \nOn Jan 28, 2020, at 5:15 PM, daniel bates wrote: \nHello \nThis story is going in the Daily Mail in the UK tomorrow and will be up on MailOnline shortly. \nDo you have any comment? \nHe is claiming he hasn't been approached which contradicts what Mr Berman said. \nCan you tell us how you reached out to Andrew? \nThanks \nDaniel \n Forwarded message \nFrom: Lewis Pennock  \nDate: Tue, Jan 28, 2020 at 5:11 PM \nSubject: pdf \nTo: daniel bates < \nDisclaimer \nEFTA00016810\n\nThis e-mail and any attached files are intended for the named addressee only. It contains information, which may be confidential \nand legally privileged and also protected by copyright. Unless you are the named addressee (or authorised to receive for the \naddressee) you may not copy or use it, or disclose it to anyone else. If you received it in error please notify the sender \nimmediately and then delete it from your system. Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S. \nKensinaton  London   W8 511  Registered No 84121 England. \nDaniel Bates \nJournalist in New York \nwww.danielgbates.com \n<andrew spread.pdf> \nEFTA00016811",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "Sent from my iPhone \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "Geoffrey Berman",
+        "role": "extracted",
+        "context": "e'll decline. \nNote: you have Geoffrey Berman listed as the State Attorney"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "Geoffrey Berman listed as the State Attorney for New York. He's the United"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ited States Attorney for \nthe Southern District of New York. \nSent from my iP"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "t of New York. \nSent from my iPhone \nOn Jan 28, 2020, at 5:15 PM, dan"
+      },
+      {
+        "name": "Hello \nThis",
+        "role": "extracted",
+        "context": "5:15 PM, daniel bates wrote: \nHello \nThis story is going in the Daily M"
+      },
+      {
+        "name": "Daily Mail",
+        "role": "extracted",
+        "context": "o \nThis story is going in the Daily Mail in the UK tomorrow and will b"
+      },
+      {
+        "name": "Mr Berman",
+        "role": "extracted",
+        "context": "oached which contradicts what Mr Berman said. \nCan you tell us how yo"
+      },
+      {
+        "name": "Thanks \nDaniel",
+        "role": "extracted",
+        "context": "w you reached out to Andrew? \nThanks \nDaniel \n Forwarded message \nFrom: Le"
+      },
+      {
+        "name": "Lewis Pennock",
+        "role": "extracted",
+        "context": "el \n Forwarded message \nFrom: Lewis Pennock  \nDate: Tue, Jan 28, 2020 at"
+      },
+      {
+        "name": "Associated Newspapers",
+        "role": "extracted",
+        "context": "n delete it from your system. Associated Newspapers Ltd. Registered Office: North"
+      },
+      {
+        "name": "Registered Office",
+        "role": "extracted",
+        "context": "m. Associated Newspapers Ltd. Registered Office: Northcliffe House, 2 Derry S"
+      },
+      {
+        "name": "Northcliffe House",
+        "role": "extracted",
+        "context": "apers Ltd. Registered Office: Northcliffe House, 2 Derry S. \nKensinaton  Lond"
+      },
+      {
+        "name": "Kensinaton  London",
+        "role": "extracted",
+        "context": "orthcliffe House, 2 Derry S. \nKensinaton  London   W8 511  Registered No 84121"
+      },
+      {
+        "name": "Registered No",
+        "role": "extracted",
+        "context": "Kensinaton  London   W8 511  Registered No 84121 England. \nDaniel Bates"
+      },
+      {
+        "name": "Daniel Bates",
+        "role": "extracted",
+        "context": "Registered No 84121 England. \nDaniel Bates \nJournalist in New York \nwww."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-28",
+        "event": "January 28, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.423Z"
+}

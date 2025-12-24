@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00010452",
+    "filename": "EFTA00010452.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010452.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: FirstBank Puerto Rico \nDate: Sat, 04 Apr 2020 17:34:07 +0000 \nAttachments: 2019-12-31.Puerto Rico.pdf \nSubpoena attached. \nFrom:\nSent: Saturda Aril 04 2020 08:20 \nTo: \nSubject: FW: FirstBank Puerto Rico \nHey Sorry I missed your call back. I tried you again later yesterday but we couldn't connect. No huge rush —  can we \nspeak Monday morning? If so, what's a good time? \nIn the meantime, it would help if you could email me a copy of the-. I think all I have is a  hard copy which I \nbelieve I left back at the office before we were ordered to work at home. \nThank you and enjoy the weekend. \nFrom: \nSent: Friday, April 03, 2020 9:59 AM\nTo \nSu ject: irst anPuerto Rico \nGood morning. I just left you a voice mail. When you have a couple of minutes, please call me on \nThanks. \nEFTA00010452\n\nEFTA00010453",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bank Puerto",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: RE: FirstBank Puerto Rico \nDate: Sat, 04 Apr 2020"
+      },
+      {
+        "name": "Rico \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: FirstBank Puerto Rico \nDate: Sat, 04 Apr 2020 17:34:07 +0"
+      },
+      {
+        "name": "Puerto Rico",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2019-12-31.Puerto Rico.pdf \nSubpoena attached. \nFrom"
+      },
+      {
+        "name": "Saturda Aril",
+        "role": "extracted",
+        "context": "bpoena attached. \nFrom:\nSent: Saturda Aril 04 2020 08:20 \nTo: \nSubject:"
+      },
+      {
+        "name": "Rico \nHey",
+        "role": "extracted",
+        "context": "Subject: FW: FirstBank Puerto Rico \nHey Sorry I missed your call back"
+      },
+      {
+        "name": "To \nSu",
+        "role": "extracted",
+        "context": "riday, April 03, 2020 9:59 AM\nTo \nSu ject: irst anPuerto Rico \nGoo"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-31",
+        "event": "2019-12-31"
+      },
+      {
+        "date": "2020-04-03",
+        "event": "April 03, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.981Z"
+}

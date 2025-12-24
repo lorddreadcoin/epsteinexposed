@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00029301",
+    "filename": "EFTA00029301.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029301.pdf",
+    "text": "\n\nFrom: (USANYS)\"\n\"To: fla(USANYS) (USANYS)\" \nCc: a \n)  11\nSubject: FW: [EXTERNAL] U.S. v. Maxwell S2 20 Cr. 330 (AJN) \nDate: Fri, 15 Oct 2021 00:30:33 +0000 \nAttachments: Ltr_to_Ct_re_Legal_Mail_10-14-21.pdf \nFYI, letter filed by Bobbi Sternheim tonight. \nFrom: BOBBI C STERNHEIM \nSent: Thursday, October 14, 2021 7:46 \nPM \nTo: >, (USANYS) \nCc: Christian Everdell ;Laura Menninger ; Jeff Pagliuca \nSubject: (EXTERNAL] U.S. v. Maxwell S2 20 Cr. 330 (AJN) \nGood evening-\nAttached is a courtesy copy of this evening's ECF filing. \nBobbi \nBOBBI C. STERNHEIM, ESQ. \nNew York, NY 10007 \nMain \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim that may be \nconfidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this \nmessage. Thank you. \nEFTA00029301",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bobbi Sternheim",
+        "role": "extracted",
+        "context": "-21.pdf \nFYI, letter filed by Bobbi Sternheim tonight. \nFrom: BOBBI C STERN"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": ":46 \nPM \nTo: >, (USANYS) \nCc: Christian Everdell ;Laura Menninger ; Jeff Pagli"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "NYS) \nCc: Christian Everdell ;Laura Menninger ; Jeff Pagliuca \nSubject: (EX"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "n Everdell ;Laura Menninger ; Jeff Pagliuca \nSubject: (EXTERNAL] U.S. v."
+      },
+      {
+        "name": "Main \nThis",
+        "role": "extracted",
+        "context": "IM, ESQ. \nNew York, NY 10007 \nMain \nThis message and any attached docu"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "contain information from the Law Offices of Bobbi C. Sternheim that ma"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-14",
+        "event": "October 14, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.191Z"
+}

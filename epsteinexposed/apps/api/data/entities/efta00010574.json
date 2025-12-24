@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00010574",
+    "filename": "EFTA00010574.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010574.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: \nDate: Thu, 27 Jun 2019 13:54:23 +0000 \nImportance: Normal \nSure. never called me back - I'm going to give him another 30 minutes or so then try him again. \n• • \nFrom: \nSent: urs a une \nTo: \nSubject: \nShould we set up a meeting with us, and our Epstein teams on Monday to discuss op plans? \nSent from my iPhone \nEFTA00010574",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: \nDate: Thu, 27"
+      },
+      {
+        "name": "Normal \nSure",
+        "role": "extracted",
+        "context": "9 13:54:23 +0000 \nImportance: Normal \nSure. never called me back - I'm g"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:42.245Z"
+}

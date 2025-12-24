@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00028709",
+    "filename": "EFTA00028709.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028709.pdf",
+    "text": "\n\nFrom: ' \nTo: \" (USANYS)\" czi \nCc: \"a6\nSANYS\"  \nSubject: RE: Epstein Guards/ OIG Report \nDate: Fri, 21 May 2021 20:37:01 +0000 \n(O1G)\" \nOIG has no objections. Thanks. \nFrom: (USANYS) \nSent: Friday, May 21, 2021 4:29 PM \nTo: \n(OIG) \nCc: (USANYS) <I> \nSubject: RE: Epstein Guards/ 016 Report \nHi M, \n.(OIG) \nPer our conversation just now, attached is a draft of the letter we intend to submit shortly. As you'll see in the first bullet \npoint, we reference the DOJ-016 review. We do not plan to make mention of a report, although if asked at a court \nconference whether there will be a report, we plan to say that we don't know, and that OIG's normal process is to prepare \na report but we don't know whether it will be made public or not. \nPlease let us know if you have any objections to the language in the letter. Thanks again for the speedy response, we very \nmuch appreciate it. \nFrom: (USANYS) \nSent: Friday, May 21, 2021 2:10 PM \nTo: \n(OIG) \nCc: (USANYS) ‹> \nSubject: RE: Epstein Guards/ OIG Report \nThank you, El. \n. (OIG) \nFrom: \nSent: Friday, May 21, 2021 2:09 PM \nTo: (USANYS) ; (016) \n(OIG) \nCc: (USANYS) \nSubject: RE: Epstein Guards/ 016 Report \nI'm following up internally and will get back to you, or have someone from OIG get back to you. Thanks. \nEFTA00028709\n\nFrom: (USANYS) \nSent: Friday, May 21, 2021 1:46 PM \nTo: \n(OIG) \nCc: (USANYS)\nSubject: Epstein Guards/ OIG Report \nC \n. (OIG) \nWe were hoping you could assist us with getting in touch with the OIG lawyer who is responsible for preparing the report \non Epstein's suicide. We have been trying to get in touch with who was previously handling the \ninvestigation, but understand he may have left the office. The time sensitivity is that we plan to file a public letter by close \nof business today regarding reaching a deferred prosecution agreement with the two guards on duty that night who have \nbeen charged with falsifying records. The guards have agreed to sit for an interview with our office and DOJ-OIG, and \nwe'd like to state in the letter that the interviews would occur as part of an ongoing 016 investigation that we expect \nwould lead to a public report. However, we don't want to make this representation unless DOJ-OIG is comfortable with it. \nI'm happy to discuss by phone if convenient. \nThanks very much, \nChief, Public Corruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA00028710",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Guards",
+        "role": "extracted",
+        "context": "Cc: \"a6\nSANYS\"  \nSubject: RE: Epstein Guards/ OIG Report \nDate: Fri, 21 Ma"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "ject: RE: Epstein Guards/ OIG Report \nDate: Fri, 21 May 2021 20:37:01 +0"
+      },
+      {
+        "name": "Report \nHi",
+        "role": "extracted",
+        "context": "ject: RE: Epstein Guards/ 016 Report \nHi M, \n.(OIG) \nPer our conversat"
+      },
+      {
+        "name": "Report \nThank",
+        "role": "extracted",
+        "context": "ject: RE: Epstein Guards/ OIG Report \nThank you, El. \n. (OIG) \nFrom: \nSen"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "t. \nThanks very much, \nChief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-21",
+        "event": "May 21, 2021"
+      },
+      {
+        "date": "2021-05-21",
+        "event": "21 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.782Z"
+}

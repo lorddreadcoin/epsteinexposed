@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00009952",
+    "filename": "EFTA00009952.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009952.pdf",
+    "text": "\n\nSTATEMENT IN SUPPORT OF REGISTRATION OF A UNITED STATES \nCIVIL AIRCRAFT IN THE \nNAME OF A \nLIMITED \nLIABILITY COMPANY. \nPLAN D, LLC \n-, a limited liability company of a  United States Citizen and is eligible \nto register aircraft \nin its name. In this regard, \nwe make to following \nrepresentations: \n1. The full name of the Applicant \nLLC is: PLAN D, LLC \nII. The state in which this \nLLC is lawfully organized is: U.S. VIRGIN ISLANDS \nThe effective date of the LLC \nis: OCTOBER 19,2012 \nIV. The name of each of the members of the LLC and the type of entity \nof each member \n(i.e.: individual, corporation, \npartnership, etc.) \nName \nType of \nEntity  \nU.S. Citizenship \nVerification \nJeffrey E. Epstein  Individual  Y  X \nAdditional Members listed on \nadditional pages: \nY N \nY  \nN \nV. \nThis \nLLC is managed by Managers or Members (Circle One) \nVI. The manager(s) or \nmember(s) of this LLC may act independently: Y  X  N \nVII. The name of \nthe Manager of this LLC LAWRENCE VISOSKI \nThe Manager is a(n)_X individual corporation partnership  \nother \nThe undersigned certifies that he/she/it understands that an LLC is eligible to register aircraft in its name provided \nthat: \n(I) at least 2/3rds of the managers or managing members are \"U.S. Citizens\" within the meaning of 49 U.S.C. \nSection 40102(2)(15)(C) and: \n(2) at least 75% of the voting interest or units is owned or controlled by persons who are \"U.S.citizens\" or \ncitizens of one \nof its possessions; and specifically that AN LLC CANNOT REGISTER AS A NON-CITIZENS \nCORPORATION. \nIf any member of this LLC is not a  United States Citizen as defined in 40102(a)(15)(C) an explanation appears below \nto support the \ncertification that this \nLLC is a \"U.S. \nCitizen\" as \nrequired by \n49 U.S.C. Section \n40102(2)(15)(C). \nThe undersigned hereby also certifies that the information given herein is true and correct and meets all citizenship \nspecifications as required by the Federal Aviation AdminiStlation. \nPLAIN D, LLC \nL\ne \nBy: \nwrence Visoski \nIts: \nManager \nAccepted \nCF \nMar/31/2017 \nEFTA00009952\n\nFILED \nWITH \nFAA \nAIRCRAFT \nREGISTRATION \nDR \n2011 \nMAR \n29 \nA \n9 \n09 \n8:TAW:IA \nCITY \nOKLAHOMA \nEFTA00009953",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Name \nType",
+        "role": "extracted",
+        "context": "oration, \npartnership, etc.) \nName \nType of \nEntity  \nU.S. Citizenship"
+      },
+      {
+        "name": "Citizenship \nVerification",
+        "role": "extracted",
+        "context": "Name \nType of \nEntity  \nU.S. Citizenship \nVerification \nJeffrey E. Epstein  Individu"
+      },
+      {
+        "name": "Epstein  Individual",
+        "role": "extracted",
+        "context": "hip \nVerification \nJeffrey E. Epstein  Individual  Y  X \nAdditional Members lis"
+      },
+      {
+        "name": "Additional Members",
+        "role": "extracted",
+        "context": "E. Epstein  Individual  Y  X \nAdditional Members listed on \nadditional pages:"
+      },
+      {
+        "name": "Circle One",
+        "role": "extracted",
+        "context": "naged by Managers or Members (Circle One) \nVI. The manager(s) or \nmemb"
+      },
+      {
+        "name": "The Manager",
+        "role": "extracted",
+        "context": "of this LLC LAWRENCE VISOSKI \nThe Manager is a(n)_X individual corporat"
+      },
+      {
+        "name": "Federal Aviation",
+        "role": "extracted",
+        "context": "ifications as required by the Federal Aviation AdminiStlation. \nPLAIN D, LLC"
+      },
+      {
+        "name": "Visoski \nIts",
+        "role": "extracted",
+        "context": "LAIN D, LLC \nL\ne \nBy: \nwrence Visoski \nIts: \nManager \nAccepted \nCF \nMar/"
+      },
+      {
+        "name": "Manager \nAccepted",
+        "role": "extracted",
+        "context": "e \nBy: \nwrence Visoski \nIts: \nManager \nAccepted \nCF \nMar/31/2017 \nEFTA0000995"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.983Z"
+}

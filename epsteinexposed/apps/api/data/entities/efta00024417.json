@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00024417",
+    "filename": "EFTA00024417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024417.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Fwd: Victim Travel for Epstein Hearing \nDate: Fri, 23 Aug 2019 00:51:15 +0000 \nFYI \nForwarded messa .te \nFrom: ' \nDate: Aug 22, 2019 7:54 PM \nSub'ect. Victim Travel for Es stein Heari\nTo: \nCc: \nHi' \nI  'ust of off the hone with a victim who expressed that she wanted to attend the hearing on Tuesday. Her name is \nand she is presently living in California. The team would like to meet/interview her while she is here \nand she has expressed that she could be available after the hearing or Wednesday morning. I gave her your number for \nher to reach out to you. Her number is \nEFTA00024417",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Victim Travel",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: Fwd: Victim Travel for Epstein Hearing \nDate: Fr"
+      },
+      {
+        "name": "Epstein Hearing",
+        "role": "extracted",
+        "context": "bject: Fwd: Victim Travel for Epstein Hearing \nDate: Fri, 23 Aug 2019 00:51"
+      },
+      {
+        "name": "Heari\nTo",
+        "role": "extracted",
+        "context": "t. Victim Travel for Es stein Heari\nTo: \nCc: \nHi' \nI  'ust of off th"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.105Z"
+}

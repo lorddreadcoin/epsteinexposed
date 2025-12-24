@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00014468",
+    "filename": "EFTA00014468.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014468.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: RE: Epstein \nDate: Thu, 27 Jun 2019 20:31:09 +0000 \nImportance: Normal \nAre Victims 2, 3, and 4 on the list? \nFrom: \nSent: Thursday, June 27, 2019 4:30 PM \nTo: \nSubject: RE: Epstein \n32 \nFrom: \nSent: Thursday, June 27, 2019 4:30 PM \nTo: \nSubject: RE: Epstein \nGreat. Thanks. How many names are on the list? \nFrom: \nSent: Thursday, June 27, 2019 4:29 PM \nTo: \nCc: \nSubject: Epstein \nWe obtained the list of victims in the side-letter to the NPA, and confirmed that our principal \nNY victim is not on it — \nit \nappears that all the victims are Florida. \nPublic Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \nt. \nEFTA00014468",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nSubject: RE: Epstein \nDate: Thu, 27 Jun 2019 20:31:09 +0"
+      },
+      {
+        "name": "Normal \nAre",
+        "role": "extracted",
+        "context": "9 20:31:09 +0000 \nImportance: Normal \nAre Victims 2, 3, and 4 on the li"
+      },
+      {
+        "name": "Epstein \nGreat",
+        "role": "extracted",
+        "context": "19 4:30 PM \nTo: \nSubject: RE: Epstein \nGreat. Thanks. How many names are o"
+      },
+      {
+        "name": "Epstein \nWe",
+        "role": "extracted",
+        "context": "9 4:29 PM \nTo: \nCc: \nSubject: Epstein \nWe obtained the list of victims"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "all the victims are Florida. \nPublic Corruption Unit \nUnited States Attorney'"
+      },
+      {
+        "name": "Unit \nUnited",
+        "role": "extracted",
+        "context": "e Florida. \nPublic Corruption Unit \nUnited States Attorney's Office for"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ublic Corruption Unit \nUnited States Attorney's Office for the \nSouthern Di"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \nt. \nEFTA00014468"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-27",
+        "event": "June 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.909Z"
+}

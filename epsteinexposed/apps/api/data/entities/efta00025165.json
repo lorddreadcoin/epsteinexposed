@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00025165",
+    "filename": "EFTA00025165.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025165.pdf",
+    "text": "\n\nU.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern District of New York \nThe Si!lo J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober \n29, 2021 \nVIA CERTIFIED MAIL \nGhislaine Maxwell (Reg. No. \nMDC Brooklyn \nMetropolitan Detention Center \nP.O. Box 329002 \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe password for the disc containin discove materials and Government Exhibits pertinent \nto Ghislaine Maxwell () is \nVery truly yours, \nDAMIAN WILLIAMS \nUnited States Attorney \nby: L/ \nAssistant United States Attorneys \nEFTA00025165",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ork 10007 \nOctober \n29, 2021 \nVIA CERTIFIED MAIL \nGhislaine Maxwell (Reg. No. \nMDC Brooklyn \nMetropolitan Detention C"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "epartment of \nJustice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Si!lo J. Mol"
+      },
+      {
+        "name": "The Si",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Si!lo J. Mollo Building \nOne Sai"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "ict of New York \nThe Si!lo J. Mollo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Si!lo J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober"
+      },
+      {
+        "name": "Brooklyn \nMetropolitan",
+        "role": "extracted",
+        "context": "slaine Maxwell (Reg. No. \nMDC Brooklyn \nMetropolitan Detention Center \nP.O. Box 32"
+      },
+      {
+        "name": "Detention Center",
+        "role": "extracted",
+        "context": ". \nMDC Brooklyn \nMetropolitan Detention Center \nP.O. Box 329002 \nBrooklyn, N"
+      },
+      {
+        "name": "Government Exhibits",
+        "role": "extracted",
+        "context": "ntainin discove materials and Government Exhibits pertinent \nto Ghislaine Maxwe"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ited States Attorney \nby: L/ \nAssistant United States Attorneys \nEFTA0002516"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "ney \nby: L/ \nAssistant United States Attorneys \nEFTA00025165"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Brooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-29",
+        "event": "October \n29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.601Z"
+}

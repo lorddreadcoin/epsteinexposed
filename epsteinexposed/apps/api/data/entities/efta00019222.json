@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019222",
+    "filename": "EFTA00019222.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019222.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Note to \nfile \nDate: Mon, 31 May 2021 15:43:51 +0000 \nAttachments: voicemail-193.m4a \nReceived the attached voicemail. Before I listened, the caller called back and I answered. He gave his name and \nsaid he wanted to talk about treason, Epstein, and Maxwell. I said I couldn't discuss it and he should call our \nmain line. \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrews Plaza \nNew York NY 10007 \nEFTA00019222",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "should call our \nmain line. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "main line. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrews Plaza \nNew York NY 10"
+      },
+      {
+        "name": "Andrews Plaza",
+        "role": "extracted",
+        "context": "strict of New York \nOne Saint Andrews Plaza \nNew York NY 10007 \nEFTA00019"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-31",
+        "event": "31 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.533Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013887",
+    "filename": "EFTA00013887.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013887.pdf",
+    "text": "\n\nFrom: \nTo: \nBce: \nSubject: mat ing: on ea egotiations ma. \nDate: Mon, 02 Jun 2008 16:46:33 +0000 \nImportance: Normal \nAttachments: Conf Plea_Negotiations_final.wpd \n<<Conf Plea Negotiations final.wpd>> Hi Here it  is. It was presented at the July 31st meeting, I  believe. \nThe message is ready to be sent with the following file or link attachments: \nConf Plea Negotiations final.wpd \nNote: To protect against computer viruses, e-mail programs may prevent sending or receiving certain types of file attachments. Check your \ne-mail security settings to determine how attachments are handled. \nEFTA00013887",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 16:46:33 +0000 \nImportance: Normal \nAttachments: Conf Plea_Negotiations_final"
+      },
+      {
+        "name": "Conf Plea",
+        "role": "extracted",
+        "context": "ortance: Normal \nAttachments: Conf Plea_Negotiations_final.wpd \n<<Con"
+      },
+      {
+        "name": "Hi Here",
+        "role": "extracted",
+        "context": "Plea Negotiations final.wpd>> Hi Here it  is. It was presented at t"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.652Z"
+}

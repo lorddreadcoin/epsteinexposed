@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00011494",
+    "filename": "EFTA00011494.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011494.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: \nBcc: \"USAHUB-USAJournal111\" <IMINE> \nSubject: Re: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:33:12 +0000 \nEmbedded: Re:_OPR Epstein_Final_Report.msg \nSender: \nSubject: Re: OPR Epstein Final Report \nMessa <78942A34-AB70-45F7-9B8D-31EBF8377A48@usa.doj.gov> \nTo: \nCc: \nEFTA00011494",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Final",
+        "role": "extracted",
+        "context": "11\" <IMINE> \nSubject: Re: OPR Epstein Final Report \nDate: Fri, 29 Jan 202"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "ubject: Re: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:33:12 +0"
+      },
+      {
+        "name": "Report \nMessa",
+        "role": "extracted",
+        "context": "ubject: Re: OPR Epstein Final Report \nMessa <78942A34-AB70-45F7-9B8D-31EB"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.749Z"
+}

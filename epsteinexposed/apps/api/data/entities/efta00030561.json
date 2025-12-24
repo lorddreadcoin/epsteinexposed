@@ -1,0 +1,118 @@
+{
+  "document": {
+    "id": "efta00030561",
+    "filename": "EFTA00030561.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030561.pdf",
+    "text": "\n\nFrom: \"USANYS-InterpreterRequest\"\nTo:' (USANYS)\" < \nSubject: RE: Spanish Interpreter Needed for Proffers by \nDate: Tue, 03 Sep 2019 16:40:30 +0000 \nImportance: Normal \ns the interpreter for this meeting. \nFrom: (USANYS) cz-? \nSent: Friday, August 30, 2019 5:02 PM \nTo: USANYS-InterpreterRequest \nSubject: Re: Spanish Interpreter Needed for Proffers by \nProffer at \nOn Aug 30, 2019, at 4:33 PM, USANYS-InterpreterRequest < \nwrote: \nIs this a Proffer at \nFrom: (USANYS) \nSent: Thursday, August 29, 2019 9:19 AM \nTo: USANYS-InterpreterRequest \nSubject: Spanish Interpreter Needed for Proffers by \nor a Grand Jury meeting at 40 Foley? \nAUSA: \nAUSA Phone: \nAUSA Cell Phone: \nContact Name (if not AUSA): \nContact Phone Number: \nLanguage Needed: Spanish \nCase Name: In re Epstein Death Investigation \nProffers \nAppointment Date: Tuesday, September 3, 2019 \nAppointment Time: 2pm \nEstimated Time Needed: 2 hours \nAppointment Location: 40 Foley \nTrial Date: \nAdditional Information : Room 302. \nEFTA00030561",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Spanish Interpreter",
+        "role": "extracted",
+        "context": "o:' (USANYS)\" < \nSubject: RE: Spanish Interpreter Needed for Proffers by \nDate:"
+      },
+      {
+        "name": "Request \nSubject",
+        "role": "extracted",
+        "context": ":02 PM \nTo: USANYS-InterpreterRequest \nSubject: Re: Spanish Interpreter Need"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "for Proffers by \nProffer at \nOn Aug 30, 2019, at 4:33 PM, USANYS-"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "Needed for Proffers by \nor a Grand Jury meeting at 40 Foley? \nAUSA:"
+      },
+      {
+        "name": "Cell Phone",
+        "role": "extracted",
+        "context": "ey? \nAUSA: \nAUSA Phone: \nAUSA Cell Phone: \nContact Name (if not AUSA):"
+      },
+      {
+        "name": "Contact Name",
+        "role": "extracted",
+        "context": "USA Phone: \nAUSA Cell Phone: \nContact Name (if not AUSA): \nContact Phone"
+      },
+      {
+        "name": "Contact Phone",
+        "role": "extracted",
+        "context": "Contact Name (if not AUSA): \nContact Phone Number: \nLanguage Needed: Spa"
+      },
+      {
+        "name": "Language Needed",
+        "role": "extracted",
+        "context": "USA): \nContact Phone Number: \nLanguage Needed: Spanish \nCase Name: In re Ep"
+      },
+      {
+        "name": "Spanish \nCase",
+        "role": "extracted",
+        "context": "one Number: \nLanguage Needed: Spanish \nCase Name: In re Epstein Death Inv"
+      },
+      {
+        "name": "Epstein Death",
+        "role": "extracted",
+        "context": "ed: Spanish \nCase Name: In re Epstein Death Investigation \nProffers \nAppo"
+      },
+      {
+        "name": "Investigation \nProffers",
+        "role": "extracted",
+        "context": "ase Name: In re Epstein Death Investigation \nProffers \nAppointment Date: Tuesday, S"
+      },
+      {
+        "name": "Appointment Date",
+        "role": "extracted",
+        "context": "eath Investigation \nProffers \nAppointment Date: Tuesday, September 3, 2019"
+      },
+      {
+        "name": "Appointment Time",
+        "role": "extracted",
+        "context": ": Tuesday, September 3, 2019 \nAppointment Time: 2pm \nEstimated Time Needed:"
+      },
+      {
+        "name": "Estimated Time",
+        "role": "extracted",
+        "context": "2019 \nAppointment Time: 2pm \nEstimated Time Needed: 2 hours \nAppointment"
+      },
+      {
+        "name": "Appointment Location",
+        "role": "extracted",
+        "context": "timated Time Needed: 2 hours \nAppointment Location: 40 Foley \nTrial Date: \nAddit"
+      },
+      {
+        "name": "Foley \nTrial",
+        "role": "extracted",
+        "context": "urs \nAppointment Location: 40 Foley \nTrial Date: \nAdditional Information"
+      },
+      {
+        "name": "Additional Information",
+        "role": "extracted",
+        "context": "ation: 40 Foley \nTrial Date: \nAdditional Information : Room 302. \nEFTA00030561"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-30",
+        "event": "August 30, 2019"
+      },
+      {
+        "date": "2019-08-29",
+        "event": "August 29, 2019"
+      },
+      {
+        "date": "2019-09-03",
+        "event": "September 3, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.136Z"
+}

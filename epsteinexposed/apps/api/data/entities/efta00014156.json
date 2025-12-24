@@ -1,0 +1,88 @@
+{
+  "document": {
+    "id": "efta00014156",
+    "filename": "EFTA00014156.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014156.pdf",
+    "text": "\n\nFrom: \"Ma, M. (FBI)\" <1 \nTo: \nSubject: Re: Epstein Investigation \nDate: Fri, 04 Jul 2008 18:21:07 +0000 \nImportance: Normal \nHey happy 4th. FYI, I do not know that name, but I did just recv a call from She does recall everything and said I. took her \nand she only went once. She said she was ashamed and uncomfortable. She is coming to FBI @ 930 Mon. We may want to met with as \nwell. \nOriginal Message \nFrom: \n(USAFLS) \nTo: \nSent: Fri Jul 04 11:24:41 2008 \nSubject: FW: Epstein Investigation \nHi guys — Have we ever heard o1 M. (below)? \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: Ted Leopold [mailto: \nSent: Thursday, July 03, 2008 4:25 PM \nTo: (USAFLS) \nCc: Spencer Kuvin \nSubject: RE: Epstein Investigation \nOur two client names are: \n2. \nEFTA00014156\n\nif you need any other information please let me know. \nTed \n----Original Message---\nFrom: (USAFLS) [mailto \nSent: Monday, June 30, 2008 5:00 PM \nTo: Ted Leopold \nSubject: Epstein Investigation \nDear Ted: Here is my e-mail address and contact information. \nThank you for your assistance. \nAssistant U.S. Attorney \nWest Palm Beach. FL 334W \nPhone \nFax \nEFTA00014157",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "(FBI)\" <1 \nTo: \nSubject: Re: Epstein Investigation \nDate: Fri, 04 Jul 2008 18:21"
+      },
+      {
+        "name": "Normal \nHey",
+        "role": "extracted",
+        "context": "8 18:21:07 +0000 \nImportance: Normal \nHey happy 4th. FYI, I do not know"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "y want to met with as \nwell. \nOriginal Message \nFrom: \n(USAFLS) \nTo: \nSent:"
+      },
+      {
+        "name": "Fri Jul",
+        "role": "extracted",
+        "context": "From: \n(USAFLS) \nTo: \nSent: Fri Jul 04 11:24:41 2008 \nSubject: FW"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "1 M. (below)? \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom:"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nFrom: Ted Leopold [mailto:"
+      },
+      {
+        "name": "Ted Leopold",
+        "role": "extracted",
+        "context": ", FL 33401 \nPhone \nFax \nFrom: Ted Leopold [mailto: \nSent: Thursday, Jul"
+      },
+      {
+        "name": "Spencer Kuvin",
+        "role": "extracted",
+        "context": "08 4:25 PM \nTo: (USAFLS) \nCc: Spencer Kuvin \nSubject: RE: Epstein Investi"
+      },
+      {
+        "name": "Dear Ted",
+        "role": "extracted",
+        "context": "bject: Epstein Investigation \nDear Ted: Here is my e-mail address an"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-03",
+        "event": "July 03, 2008"
+      },
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.283Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026635",
+    "filename": "EFTA00026635.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026635.pdf",
+    "text": "\n\nFrom: \nTo: \nCc \nSubject: RE: presentment of Jeffrey Epstein \nDate: Mon, 08 Jul 2019 03:11:30 +0000 \nImportance: Normal \nGood evening, \nWe will formally call this in tomorrow morning, but we wanted to advise you that we expect that defendant Jeffrey \nEpstein will be presented tomorrow in United States v. Epstein, 19 Cr. 490. We expect the indictment to be unsealed first \nthing tomorrow morning, and we'll et ou a co immediately when that occurs. Mr. Epstein is represented by retained \ncounsel, including Martin Weinberg nd Reid Weingarten. \nWe are available anytime tomorrow to provide any useful information in connection with your report, either at the email \naddresses here or via phone at the following numbers: \nthank you, \nEFTA00026635",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc \nSubject: RE: presentment of Jeffrey Epstein \nDate: Mon, 08 Jul 2019 03:11:30 +0000 \nImportanc"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "immediately when that occurs. Mr. Epstein is represented by retaine"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc \nSubject: RE: presentment of Jeffrey E"
+      },
+      {
+        "name": "Normal \nGood",
+        "role": "extracted",
+        "context": "9 03:11:30 +0000 \nImportance: Normal \nGood evening, \nWe will formally ca"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "that we expect that defendant Jeffrey \nEpstein will be presented tomorrow in"
+      },
+      {
+        "name": "Martin Weinberg",
+        "role": "extracted",
+        "context": "retained \ncounsel, including Martin Weinberg nd Reid Weingarten. \nWe are a"
+      },
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "including Martin Weinberg nd Reid Weingarten. \nWe are available anytime to"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.717Z"
+}

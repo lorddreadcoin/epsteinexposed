@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00027572",
+    "filename": "EFTA00027572.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027572.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" < \nTo\nCc: \" \n(USANYS)\" \n(USANYS)\" \nSubject: RE: [EXTERNAL] Focus Group Questionnaire \nDate: Tue, 21 Sep 2021 18:05:04 +0000 \nAttachments: GM jury_exercise_verdict_form.docx; GM jury_exercise_RTC_-_revised.docx; Tyrrell_-\nFocus_Group_Questionnaire_(LP.AM) -  TAM.docx \nThanks for this. We've provided some proposed edits to the focus group questionnaire in the attached. Please confirm \nthese changes once you've had a chance to review. \nI've also attached our proposed jury instructions and verdict sheet. We expect to have 8 attendees from the Government \non Saturday. \nThanks, \nFrom: Paulette Taylor 4:1> \nSent: Tuesday, September 21, 2021 11:45 AM \nTo: (USANYS) \nSubject: (EXTERNAL] Focus Group Questionnaire \nGood morning—\n(USANYS) \nYou asked to see the Focus Group Questionnaire before the research exercise on Saturday. \nIt is attached for you to review and comment. \nPlease try to keep comments to a minimum. \nI will need to hear back from you by tomorrow Noon, so I can finalize it before I leave for NYC on Thursday. \nThanks. \nnsulting \nPresident \nEFTA00027572",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To\nCc",
+        "role": "extracted",
+        "context": "From: ' (USANYS)\" < \nTo\nCc: \" \n(USANYS)\" \n(USANYS)\" \nSub"
+      },
+      {
+        "name": "Focus Group",
+        "role": "extracted",
+        "context": "YS)\" \nSubject: RE: [EXTERNAL] Focus Group Questionnaire \nDate: Tue, 21"
+      },
+      {
+        "name": "Questionnaire \nDate",
+        "role": "extracted",
+        "context": "t: RE: [EXTERNAL] Focus Group Questionnaire \nDate: Tue, 21 Sep 2021 18:05:04 +0"
+      },
+      {
+        "name": "Paulette Taylor",
+        "role": "extracted",
+        "context": "on Saturday. \nThanks, \nFrom: Paulette Taylor 4:1> \nSent: Tuesday, Septembe"
+      },
+      {
+        "name": "Questionnaire \nGood",
+        "role": "extracted",
+        "context": "bject: (EXTERNAL] Focus Group Questionnaire \nGood morning—\n(USANYS) \nYou asked"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-21",
+        "event": "September 21, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.561Z"
+}

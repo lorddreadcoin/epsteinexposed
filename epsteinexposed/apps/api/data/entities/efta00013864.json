@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013864",
+    "filename": "EFTA00013864.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013864.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: Epstein \nDate: Fri, 25 Apr 2008 17:45:10 +0000 \nImportance: Normal \nDecision? The victims are applying for social security benefits!!!! \nEFTA00013864",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: Epstein \nDate: Fri, 25 Apr 2008 17:45:10 +0"
+      },
+      {
+        "name": "Normal \nDecision",
+        "role": "extracted",
+        "context": "8 17:45:10 +0000 \nImportance: Normal \nDecision? The victims are applying for"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.604Z"
+}

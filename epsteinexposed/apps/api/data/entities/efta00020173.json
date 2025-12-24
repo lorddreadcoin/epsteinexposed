@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "efta00020173",
+    "filename": "EFTA00020173.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020173.pdf",
+    "text": "\n\nWestern Union Financial Services, Inc. \nAttn: Custodian of Records \n12500 E. Belford Ave, M21A2 \nEnglewood, CO 80112 \nPhone Number: 866-628-5067 \nDelivered via: Email \nThe following are the items that are required to be provided by the attached Subpoena: \nFor the period of inception thru today, any and all available information regarding money transfers, the \npurchase of money orders, including but not limited to, sender's name and address, location of purchase \nincluding name and address of selling agent, form of payment used to purchase money orders, amount \nof money orders purchased, date and time of purchase, the payee's name and address, the amount and \ncurrency distributed. \nPlease utilize the following identifiers: \nNAMES/ENTITIES \nDOB \nSSN \nADDRESS \nPHONE \nEMAIL \nents, please contact orensic Accountant, at \nEFTA00020173",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Western Union",
+        "role": "extracted",
+        "context": "Western Union Financial Services, Inc. \nAtt"
+      },
+      {
+        "name": "Financial Services",
+        "role": "extracted",
+        "context": "Western Union Financial Services, Inc. \nAttn: Custodian of Rec"
+      },
+      {
+        "name": "Belford Ave",
+        "role": "extracted",
+        "context": "ustodian of Records \n12500 E. Belford Ave, M21A2 \nEnglewood, CO 80112"
+      },
+      {
+        "name": "Phone Number",
+        "role": "extracted",
+        "context": ", M21A2 \nEnglewood, CO 80112 \nPhone Number: 866-628-5067 \nDelivered via:"
+      },
+      {
+        "name": "Email \nThe",
+        "role": "extracted",
+        "context": "866-628-5067 \nDelivered via: Email \nThe following are the items that"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Englewood, CO",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "866-628-5067"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.333Z"
+}

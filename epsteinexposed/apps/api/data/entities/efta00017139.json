@@ -1,0 +1,183 @@
+{
+  "document": {
+    "id": "efta00017139",
+    "filename": "EFTA00017139.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017139.pdf",
+    "text": "\n\n2996479 \n06/17/2020 \nWIRELESS \nSUBSCRIBER INFORMATION \nAT&T \nName: \nCredit Address: \nFinancial Liable Party \nSCOTT BORGERSON \nCustomer Since: 03/13/2004 \nPhoto ID Type: Photo ID State:l \nPhoto ID Number: \nDOB: SSN/TaxID/FEIN:I \nContact Name: \nContact Home Phone: Contact Work Phone: \nContact Home Email: Contact Work Email: \nBilling Party \nAccount Number: \nName: SCOTT BORGERSON \nBilling Address: \nAccount Status: Active Billing Cycle:I43 \nUser Information \nMSISDN: INSI: \nMSISDN Active: 09/17/2016 -  Current \nName: G MAX \nUser Address: \nService Start Date: 09/17/2016 Dealer Info: \nQ3LJG Q3LJG Q3LJG \nPayment Type: Postpaid \nContact Name: G MAX \nContact Home Phone: Contact Work Phone:l \nContact Home Email: \nI \nContact Work Email: \nStatus Change History \nStatus Change Reason Status Change Date \nAT&T PROPRIETARY \nThe information contained here is for use by authorized person only and \nis not for general distribution. \nPage I WI \nEFTA00017139\n\n2996479 \n06/17/2020 \nWIRELESS \nSUBSCRIBER INFORMATION \nAT&T \nFinancial Liable Party \nName: \nCredit Address: \nSCOTT BORGERSON \nCustomer Since: 03/13/2004 \nPhoto ID Type: Photo ID State:l \nPhoto ID Number: \nDOB: SSN/TaxID/FEIN:I \nContact Name: \nContact Home Phone: Contact Work Phone: \nContact Home Email: Contact Work Email: \nBilling Party \nAccount Number: \nName: SCOTT BORGERSON \nBilling Address: \nAccount Status:lActive Billing Cycle:I42 \nUser Information \nNSISDN: LMSI: \nMSISDN Active: 09/20/2019 -  Current \nName: NOAH BORGERSON \nUser Address: \nService Start Date: 09/20/2019 Dealer Info: B8GPB B8GPB B8GPB \nPayment Type: Postpaid \nContact Name: NOAH BORGERSON \nContact Home Phone: Contact Work Phone:l \nContact Home Email: \nI \nContact Work Email: \nStatus Change History \nStatus Change Reason Status Change Date \nAT&T PROPRIETARY \nThe information contained here is for use by authorized person only and \nis not for general distribution. \nPage I al I \nEFTA00017140\n\n2996479 \n06/17/2020 \nWIRELESS \nSUBSCRIBER INFORMATION \nAT&T \nName: \nCredit Address: \nFinancial Liable Party \nSCOTT BORGERSON \nCustomer Since: 03/13/2004 \nPhoto ID Type: Photo ID State:l \nPhoto ID Number: \nDOB: SSN/TaxID/FEIN:l \nContact Name: \nContact Home Phone: \nContact Home Email: \nContact Work Work Phone: \nContact Work Email: \nBilling Party \nAccount Number: \nName: SCOTT BORGERSON \nBillie Address: \nAccount Status: Active Billing Cycle: 42 \nUser Information \nMSISDN: IMSI:l \nMSISDN Active: 01/22/2018 -  Current \nName: G WIFI \nUser Address: \nService Start Date: 01/22/2010 Dealer Info: DQHOW DQHOW DQHOW \nPayment Type: Postpaid \nContact Name: G WIFI \nContact Home Phone: Contact Work Phone:l \nContact Home Email: \nI \nContact Work Email: \nStatus Change History \nStatus Chance Reason \n_J \nStatus Chance Date \nAT&T PROPRIETARY \nThe information contained here is for use by authorized person only and \nis not for general distribution. \nPage l  dl \nEFTA00017141\n\n2996479 \n06/17/2020 \nWIRELESS \nSUBSCRIBER INFORMATION \nAT&T \nFinancial Liable Party \nName: \nCredit Address: \nSCOTT BORGERSON \nCustomer Since: 03/13/2004 \nPhoto ID Type: Photo ID State:l \nPhoto ID Number: \nDOB: SSN/TaxID/FEIN:l \nContact Name: \nContact Home Phone: Contact Work Phone: \nContact Home Email: Contact Work Email: \nBilling Party \nAccount Number: \nName: SCOTT BORGERSON \nBillie Address: \nAccount Status: Active Billing Cycle: 43 \nUser Information \nMSISDN: 114SI:l \nMSISDN Active: 07/27/2007 -  Current \nName: SCOTT G BORGERSON \nUser Address: \nService Start Date: 07/22/2007 Dealer Info: AMZOO AMZOO AMZOO \nPayment Type: Postpaid \nContact Name: SCOTT G BORGERSON \nContact Home Phone: Contact Work Phone:l \nContact Home Email: \nI \nContact Work Email: \nStatus Change History \nStatus Change Reason Status Chance Date \nAT&T PROPRIETARY \nThe information contained here is for use by authorized person only and \nis not for general distribution. \nPage I dl \nEFTA00017142",
+    "pageCount": 4,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Credit Address",
+        "role": "extracted",
+        "context": "BER INFORMATION \nAT&T \nName: \nCredit Address: \nFinancial Liable Party \nSCO"
+      },
+      {
+        "name": "Financial Liable",
+        "role": "extracted",
+        "context": "AT&T \nName: \nCredit Address: \nFinancial Liable Party \nSCOTT BORGERSON \nCusto"
+      },
+      {
+        "name": "Customer Since",
+        "role": "extracted",
+        "context": "iable Party \nSCOTT BORGERSON \nCustomer Since: 03/13/2004 \nPhoto ID Type: P"
+      },
+      {
+        "name": "Contact Name",
+        "role": "extracted",
+        "context": "mber: \nDOB: SSN/TaxID/FEIN:I \nContact Name: \nContact Home Phone: Contact"
+      },
+      {
+        "name": "Contact Home",
+        "role": "extracted",
+        "context": "/TaxID/FEIN:I \nContact Name: \nContact Home Phone: Contact Work Phone: \nC"
+      },
+      {
+        "name": "Contact Work",
+        "role": "extracted",
+        "context": "ct Name: \nContact Home Phone: Contact Work Phone: \nContact Home Email: C"
+      },
+      {
+        "name": "Billing Party",
+        "role": "extracted",
+        "context": "e Email: Contact Work Email: \nBilling Party \nAccount Number: \nName: SCOTT"
+      },
+      {
+        "name": "Account Number",
+        "role": "extracted",
+        "context": "t Work Email: \nBilling Party \nAccount Number: \nName: SCOTT BORGERSON \nBill"
+      },
+      {
+        "name": "Billing Address",
+        "role": "extracted",
+        "context": "mber: \nName: SCOTT BORGERSON \nBilling Address: \nAccount Status: Active Bill"
+      },
+      {
+        "name": "Account Status",
+        "role": "extracted",
+        "context": "BORGERSON \nBilling Address: \nAccount Status: Active Billing Cycle:I43 \nUs"
+      },
+      {
+        "name": "Active Billing",
+        "role": "extracted",
+        "context": "ing Address: \nAccount Status: Active Billing Cycle:I43 \nUser Information"
+      },
+      {
+        "name": "User Information",
+        "role": "extracted",
+        "context": "us: Active Billing Cycle:I43 \nUser Information \nMSISDN: INSI: \nMSISDN Active"
+      },
+      {
+        "name": "Current \nName",
+        "role": "extracted",
+        "context": "MSISDN Active: 09/17/2016 -  Current \nName: G MAX \nUser Address: \nServic"
+      },
+      {
+        "name": "User Address",
+        "role": "extracted",
+        "context": "2016 -  Current \nName: G MAX \nUser Address: \nService Start Date: 09/17/2"
+      },
+      {
+        "name": "Service Start",
+        "role": "extracted",
+        "context": "Name: G MAX \nUser Address: \nService Start Date: 09/17/2016 Dealer Info:"
+      },
+      {
+        "name": "Dealer Info",
+        "role": "extracted",
+        "context": "ervice Start Date: 09/17/2016 Dealer Info: \nQ3LJG Q3LJG Q3LJG \nPayment"
+      },
+      {
+        "name": "Payment Type",
+        "role": "extracted",
+        "context": "ler Info: \nQ3LJG Q3LJG Q3LJG \nPayment Type: Postpaid \nContact Name: G MA"
+      },
+      {
+        "name": "Postpaid \nContact",
+        "role": "extracted",
+        "context": "JG Q3LJG Q3LJG \nPayment Type: Postpaid \nContact Name: G MAX \nContact Home Pho"
+      },
+      {
+        "name": "Status Change",
+        "role": "extracted",
+        "context": "ail: \nI \nContact Work Email: \nStatus Change History \nStatus Change Reason"
+      },
+      {
+        "name": "History \nStatus",
+        "role": "extracted",
+        "context": "ct Work Email: \nStatus Change History \nStatus Change Reason Status Change D"
+      },
+      {
+        "name": "Change Reason",
+        "role": "extracted",
+        "context": "Status Change History \nStatus Change Reason Status Change Date \nAT&T PROP"
+      },
+      {
+        "name": "Party \nName",
+        "role": "extracted",
+        "context": "ATION \nAT&T \nFinancial Liable Party \nName: \nCredit Address: \nSCOTT BORG"
+      },
+      {
+        "name": "Work Phone",
+        "role": "extracted",
+        "context": "act Home Email: \nContact Work Work Phone: \nContact Work Email: \nBillin"
+      },
+      {
+        "name": "Billie Address",
+        "role": "extracted",
+        "context": "mber: \nName: SCOTT BORGERSON \nBillie Address: \nAccount Status: Active Bill"
+      },
+      {
+        "name": "Chance Reason",
+        "role": "extracted",
+        "context": "Status Change History \nStatus Chance Reason \n_J \nStatus Chance Date \nAT&T"
+      },
+      {
+        "name": "Status Chance",
+        "role": "extracted",
+        "context": "ry \nStatus Chance Reason \n_J \nStatus Chance Date \nAT&T PROPRIETARY \nThe i"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-17",
+        "event": "06/17/2020"
+      },
+      {
+        "date": "2004-03-13",
+        "event": "03/13/2004"
+      },
+      {
+        "date": "2016-09-17",
+        "event": "09/17/2016"
+      },
+      {
+        "date": "2019-09-20",
+        "event": "09/20/2019"
+      },
+      {
+        "date": "2018-01-22",
+        "event": "01/22/2018"
+      },
+      {
+        "date": "2010-01-22",
+        "event": "01/22/2010"
+      },
+      {
+        "date": "2007-07-27",
+        "event": "07/27/2007"
+      },
+      {
+        "date": "2007-07-22",
+        "event": "07/22/2007"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:54.085Z"
+}

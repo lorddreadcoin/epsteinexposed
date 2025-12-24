@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00032686",
+    "filename": "EFTA00032686.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032686.pdf",
+    "text": "\n\nFrom: \n\" \nTo: Christian Christian Everdell \"Mark S. \nCohen\" \nobbi Sternheim \"'BOBBI C \n, Laura Menninger \nJeff Pagliuc \nCc: \nalMIN>, . \n(USANYS)\" \n, 1=MI \n(USANYS) \n[Contractor]\" \nSubject: US v. Maxwell, 20 \nCr. 330 (AJN) - discovery production \nDate: Fri, 09 Apr 2021 15:05:27 +0000 \nAttachments: 2021.04.09_Maxwell_Discovery_Letter.pdf \nCounsel, \nWe have an additional discovery production ready to send to you today. Attached please find the accompanying cover \nletter. The production is small enough to produce via the FTP site. Would you please send us a link if that is how you \nwould like us to make the production to you? \nWe will send a CD with the new production to the MDC for Ms. Maxwell. Our paralegals have converted all excel files \nwithin this production into PDFs, so your client should be able to review the materials. As always, if you would prefer that \nshe receive the production on a drive, we can either request that the MDC send us one of the drives back to load with the \nproduction, or we can load a new drive if you would like to provide us with one. \nBest, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00032686",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "new production to the MDC for Ms. Maxwell. Our paralegals have conv"
+      },
+      {
+        "name": "Christian Christian",
+        "role": "extracted",
+        "context": "From: \n\" \nTo: Christian Christian Everdell \"Mark S. \nCohen\" \nob"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "obbi Sternheim \"'BOBBI C \n, Laura Menninger \nJeff Pagliuc \nCc: \nalMIN>, ."
+      },
+      {
+        "name": "Jeff Pagliuc",
+        "role": "extracted",
+        "context": "\"'BOBBI C \n, Laura Menninger \nJeff Pagliuc \nCc: \nalMIN>, . \n(USANYS)\" \n,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "provide us with one. \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "one. \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00032686"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.235Z"
+}

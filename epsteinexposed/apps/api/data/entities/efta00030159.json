@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030159",
+    "filename": "EFTA00030159.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030159.pdf",
+    "text": "\n\nFrom: \nHaUSANYS)\" <IMME> \nTo: \"Sr\nSubject: Re: Epstein investigation, prosecution memo \nDate: Tue, 25 Jun 2019 02:57:28 +0000 \nImportance: Normal \nThanks \nSent from my iPhone \no, \nEFTA00030159\n\nEFTA00030160",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sr\nSubject",
+        "role": "extracted",
+        "context": "rom: \nHaUSANYS)\" <IMME> \nTo: \"Sr\nSubject: Re: Epstein investigation, p"
+      },
+      {
+        "name": "Normal \nThanks",
+        "role": "extracted",
+        "context": "9 02:57:28 +0000 \nImportance: Normal \nThanks \nSent from my iPhone \no, \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.145Z"
+}

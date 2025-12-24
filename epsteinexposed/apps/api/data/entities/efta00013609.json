@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00013609",
+    "filename": "EFTA00013609.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013609.pdf",
+    "text": "\n\nFrom: \n<AAcosta@usa.doj.gov> \n\"Acosta, Alex (USAFLS)\" \nSubject: RE: Epstein Documents \nDate: Fri, 14 Sep 2007 17:03:42 +0000 \nImportance: Normal \nhas agreed to help finalize this. I will be out of town beginning tomorrow. \nFrom: \nSent: Frida Se tember 14, 2007 9:52 AM \nTo: Acosta Alex USAFLS • \nSubject: Epstein Documents \nHere are the pro osed lea agreement and information. If any changes need to be made, lease contact \nvia e-mail or a .  I will be out the rest of the day, but you can get me and I will be \nable \nto access e-mail over the weekend. \nThank \nyou! \n<.< File: Information charging 1512 and 113.wpd >> \n<.< File: OLY Plea Agreement v4 1512 and 113 violations.wpd >> \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013609",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Documents",
+        "role": "extracted",
+        "context": "Alex (USAFLS)\" \nSubject: RE: Epstein Documents \nDate: Fri, 14 Sep 2007 17:03"
+      },
+      {
+        "name": "Frida Se",
+        "role": "extracted",
+        "context": "nning tomorrow. \nFrom: \nSent: Frida Se tember 14, 2007 9:52 AM \nTo:"
+      },
+      {
+        "name": "Acosta Alex",
+        "role": "extracted",
+        "context": "tember 14, 2007 9:52 AM \nTo: Acosta Alex USAFLS • \nSubject: Epstein Do"
+      },
+      {
+        "name": "Plea Agreement",
+        "role": "extracted",
+        "context": "and 113.wpd >> \n<.< File: OLY Plea Agreement v4 1512 and 113 violations.wp"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013609"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.972Z"
+}

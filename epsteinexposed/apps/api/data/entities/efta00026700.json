@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00026700",
+    "filename": "EFTA00026700.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026700.pdf",
+    "text": "\n\nFrom: \"a \nTo:'\nSubject: Former Teen Model Describes Jeffrey Epstein's Sex Abuse I  TODAY - YouTube \nDate: Wed, 13 Oct 2021 01:05:10 +0000 \nhttps://m.youtube.com/watch?v \nEFTA00026700",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "om: \"a \nTo:'\nSubject: Former Teen Model Describes Jeffrey Epstein's Sex Abuse I  TODAY - YouTube \nDate: Wed, 13 Oct"
+      },
+      {
+        "name": "Former Teen",
+        "role": "extracted",
+        "context": "From: \"a \nTo:'\nSubject: Former Teen Model Describes Jeffrey Epste"
+      },
+      {
+        "name": "Model Describes",
+        "role": "extracted",
+        "context": "\"a \nTo:'\nSubject: Former Teen Model Describes Jeffrey Epstein's Sex Abuse I"
+      },
+      {
+        "name": "Sex Abuse",
+        "role": "extracted",
+        "context": "l Describes Jeffrey Epstein's Sex Abuse I  TODAY - YouTube \nDate: Wed"
+      },
+      {
+        "name": "Tube \nDate",
+        "role": "extracted",
+        "context": "ein's Sex Abuse I  TODAY - YouTube \nDate: Wed, 13 Oct 2021 01:05:10 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.850Z"
+}

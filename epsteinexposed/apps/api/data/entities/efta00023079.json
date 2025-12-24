@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00023079",
+    "filename": "EFTA00023079.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023079.pdf",
+    "text": "\n\nFrom: \"_USANYS)\nTo: \"USANYS)\" (USANYS)\" \nCc: (USANYS)\" \nSubject: FW: Jeffrey Epstein's final days at NYC jail revealed by inmates - New York Daily News \nDate: Mon, 28 Dec 2020 18:41:23 +0000 \nJust wanted to make sure you were aware of this. \n Ori inal Messa e \nFrom: (USANYS) [Contractor] \nSent: Monday, December 28, 2020 1:02 PM \nTo: USANYS \n(USANYS) \n(USANYS) \nSubject: Jeffrey Epstein's final days at NYC jail revealed by inmates - New York Daily News \nHere's the Daily News story on Efrain Reyes and Jeffrey Epstein. \nhttps://www.nydailynews.cominew-york/ny-epstein-mcc-suicide-20201228-1k2h7hzynzburdqwb44jydlInq-story.html \n.Attorney's Office. SDN\\ \nUSANYS) \nUSANYS) \nEFTA00023079",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "\"USANYS)\" (USANYS)\" \nCc: (USANYS)\" \nSubject: FW: Jeffrey Epstein's final days at NYC jail revealed by inmates - Ne"
+      },
+      {
+        "name": "Daily News",
+        "role": "extracted",
+        "context": "evealed by inmates - New York Daily News \nDate: Mon, 28 Dec 2020 18:41"
+      },
+      {
+        "name": "Efrain Reyes",
+        "role": "extracted",
+        "context": "ere's the Daily News story on Efrain Reyes and Jeffrey Epstein. \nhttps:/"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-28",
+        "event": "December 28, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.215Z"
+}

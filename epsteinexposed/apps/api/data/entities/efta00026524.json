@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00026524",
+    "filename": "EFTA00026524.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026524.pdf",
+    "text": "\n\nFrom: ' \nTo:\nCc: \nSubject: Amended Application for Second Warrant \nDate: Tue, 30 Jun 2020 20:39:23 +0000 \nAttachments: Application_for_Second_Warrant_&_OrderiMaxwell_GPS).pdf; Exhibit_C_- \n2020.06.29_Application for Maxwell GPS Combo.pdf; Exhibit _D_ \n2020.06.29 \nMaxwell_ \nGI'S eombo Viarranr.pdf; Exhibit A_ - \nMaxwell_signed indctmen—t.pdf; Eaibit B - Maxwell arrest wanant_signed.pdf \nDear Judge Parker, \nAttached for the Court's consideration, please find an amended application and amended affidavit in support of a second \nwarrant and order. As detailed in the amended application and amended affidavit, this afternoon, realized \nthat she had inadvertently included two errors in the affidavit submitted to Your Honor yesterday. Accordingly, the \nGovernment respectfully submits these amended materials and requests the issuance of a second warrant and order. \nIf at all possible, we would be extremely grateful if the agent could please swear out this warrant today. I can be reached \nat and the agent can be available at any time convenient for the Court. We apologize for the error and the \ninconvenience. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00026524",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Amended Application",
+        "role": "extracted",
+        "context": "From: ' \nTo:\nCc: \nSubject: Amended Application for Second Warrant \nDate: Tue"
+      },
+      {
+        "name": "Second Warrant",
+        "role": "extracted",
+        "context": "ject: Amended Application for Second Warrant \nDate: Tue, 30 Jun 2020 20:39"
+      },
+      {
+        "name": "Dear Judge",
+        "role": "extracted",
+        "context": "ell arrest wanant_signed.pdf \nDear Judge Parker, \nAttached for the Cou"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ce. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00026524"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.497Z"
+}

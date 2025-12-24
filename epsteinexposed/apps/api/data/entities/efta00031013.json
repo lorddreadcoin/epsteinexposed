@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00031013",
+    "filename": "EFTA00031013.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031013.pdf",
+    "text": "\n\nSubject: RE: Epstein \nFrom: ' \nTo: ' (USANYS)\"  \nCc: le=11.1YS)\"  \nSubject: RE: Epstein \nDate: Sun, 10 Feb 2019 00:16:14 +0000 \nImportance: Normal \n)\"  \n(USANYS)\" \nReceived, thanks — I'll reach out to them first thing Monday. \nthanks again, \nFrom: (USANYS) \nSent: Friday, February 08, 2019 13:04 \nTo: \nCc: (USANYS)\nSubject: Fwd: Epstein \nsee below re the POC's at OPR for the Epstein case. \nThanks \n• \nSent from my iPad \nBegin forwarded message: \n(OPR)\" \n8 2019 at 12:43:39 PM EST \n(USANYS \nOPR 1\" \n(USANYS) < \n(OPR)\" \na, Thanks, for reaching out and the contact info. Copying the primary attorneys handling the OPR matter. \nBest, \nDirector and Chief Counsel \nOffice of Professional Responsibility \nU.S. \nDepartment \nof \nJustice \n Original Message \nFrom: (USANYS)  \nSent: Friday, Febru 8, 2019 12:08 PM \nTo: \n(OPR) • \nEFTA00031013\n\nSubject: Epstein \nThanks for the chat today, The SDNY point of contact for E stein is AUSA \nbe contacted at and his number is \nThanks again \nSent from my iPad \n— he can \nEFTA00031014",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nFrom",
+        "role": "extracted",
+        "context": "Subject: RE: Epstein \nFrom: ' \nTo: ' (USANYS)\"  \nCc: le="
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "c: le=11.1YS)\"  \nSubject: RE: Epstein \nDate: Sun, 10 Feb 2019 00:16:14 +0"
+      },
+      {
+        "name": "Pad \nBegin",
+        "role": "extracted",
+        "context": "se. \nThanks \n• \nSent from my iPad \nBegin forwarded message: \n(OPR)\" \n8"
+      },
+      {
+        "name": "Chief Counsel",
+        "role": "extracted",
+        "context": "matter. \nBest, \nDirector and Chief Counsel \nOffice of Professional Respo"
+      },
+      {
+        "name": "Professional Responsibility",
+        "role": "extracted",
+        "context": "and Chief Counsel \nOffice of Professional Responsibility \nU.S. \nDepartment \nof \nJustic"
+      },
+      {
+        "name": "Justice \n Original",
+        "role": "extracted",
+        "context": "bility \nU.S. \nDepartment \nof \nJustice \n Original Message \nFrom: (USANYS)  \nSen"
+      },
+      {
+        "name": "Message \nFrom",
+        "role": "extracted",
+        "context": "tment \nof \nJustice \n Original Message \nFrom: (USANYS)  \nSent: Friday, Feb"
+      },
+      {
+        "name": "Epstein \nThanks",
+        "role": "extracted",
+        "context": "PR) • \nEFTA00031013\n\nSubject: Epstein \nThanks for the chat today, The SDNY"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-08",
+        "event": "February 08, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.241Z"
+}

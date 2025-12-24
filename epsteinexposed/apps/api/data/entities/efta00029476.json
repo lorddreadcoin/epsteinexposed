@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00029476",
+    "filename": "EFTA00029476.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029476.pdf",
+    "text": "\n\nAO 93 (Rev. 11/13) Search and Seizure Warrant \nUNITED STATES DISTRICT \nCOURT \nfor the \nDistrict of New Hampshire \nIn the Matter of \n(Briefly describe the property to be searched \nor identify the person by name and address) \nTHE USE OF A CELL-SITE SIMULATOR TO LOCATE \nTHE CELLULAR DEVICE ASSIGNED CALL NUMBER \nCase No. \nSEARCH AND SEIZURE WARRANT \nTo: Any authorized law enforcement officer \nAn application by a federal law enforcement officer or an attorney for the government requests the search \nof the following person or property located in the District of \nNew Hampshire \n(identj/j' the person or describe the property to be searched and give its location): \nSee \nAttachment A. \nI  find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or property \ndescribed above, and that such search will reveal (identify thethe person or describe the properry, to be seized): \nSee \nAttachment B. \nYOU ARE COMMANDED to execute this warrant on or before (nor to exceed 14 days) \nO in the daytime 6:00 a.m. to 10:00 p.m. gat any time in the day or night because good cause has been established. \nUnless delayed notice is authorized below, you must give a copy of the warrant and a receipt for the property taken to the \nperson from whom, or from whose premises, the property was taken, or leave the copy and receipt at the place where the \nproperty was taken. \nThe officer executing this warrant, or an officer present during the execution of the warrant, must prepare an inventory \nas required by law and promptly return this warrant and inventory to \n(United States Magistrate Judge) \nIg Pursuant to 18 U.S.C. § 3103a(b), I  find that immediate notification may have an adverse result listed in 18 U.S.C. \n§ 2705 (except for delay of trial), and authorize the officer executing this warrant to delay notice to the person who, or whose \nproperty, will be searched or seized (check the appropriate bar) \nEr for 30 days (not to exceed 30) O until, the facts justifying, the later specific date of \nDate and time issued: \nCity and state: \nConcord. \nNH \nJudge's signature \nPrinted name and title \nEFTA00029476\n\nAO 93 (Rev. 11/13) Search and Seizure Warrant (Page 2) \nReturn \nCase No.: Date and time warrant executed: Copy of warrant and inventory left with: \nInventory made in the presence of : \nInventory of the property taken and name of any person(s) seized: \nCertification \nI declare under penalty of perjury that this inventory is correct and was returned along with the original warrant to the \ndesignated judge. \nDate: \nExecuting officer's signature \nPrinted name and title \nEFTA00029477\n\nATTACHMENT A \nThis warrant authorizes the use of the electronic investigative technique described in \nAttachment B to identify the location of the cellular device assigned phone numbe \nwhose wireless provider is AT&T, and whose listed subscriber is \"G Max.\" \n4 \nEFTA00029478\n\nATTACHMENT B \nPursuant to an investigation of GHISLAINE MAXWELL for a  violation of 18 U.S.C. \n§§ 371, 2422, 2423(a), and 1623, this Warrant authorizes the officers to whom it  is directed to \ndetermine the location of the cellular device identified in Attachment A by collecting and \nexamining: \nI. radio signals emitted by the target cellular device for the purpose of communicating with \ncellular infrastructure, including towers that route and connect individual communications; \nand \n2. radio signals emitted by the target cellular device in response to radio signals sent to the \ncellular device by the officers; \nfor a period of thirty days, during all times of day and night. This warrant does not authorize the \ninterception of any telephone calls, text messages, other electronic communications, and this \nwarrant prohibits the seizure of any tangible property. The Court finds reasonable necessity for \nthe use of the technique authorized above. See 18 U.S.C. § 3103a(b)(2). \n5 \nEFTA00029479",
+    "pageCount": 4,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "78\n\nATTACHMENT B \nPursuant to an investigation of GHISLAINE MAXWELL for a  violation of 18 U.S.C. \n§§ 371, 2422, 2423"
+      },
+      {
+        "name": "Seizure Warrant",
+        "role": "extracted",
+        "context": "AO 93 (Rev. 11/13) Search and Seizure Warrant \nUNITED STATES DISTRICT \nCOUR"
+      },
+      {
+        "name": "New Hampshire",
+        "role": "extracted",
+        "context": "COURT \nfor the \nDistrict of New Hampshire \nIn the Matter of \n(Briefly d"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "DEVICE ASSIGNED CALL NUMBER \nCase No. \nSEARCH AND SEIZURE WARRANT"
+      },
+      {
+        "name": "See \nAttachment",
+        "role": "extracted",
+        "context": "ched and give its location): \nSee \nAttachment A. \nI  find that the affidavi"
+      },
+      {
+        "name": "Magistrate Judge",
+        "role": "extracted",
+        "context": "inventory to \n(United States Magistrate Judge) \nIg Pursuant to 18 U.S.C. §"
+      },
+      {
+        "name": "Ig Pursuant",
+        "role": "extracted",
+        "context": "ted States Magistrate Judge) \nIg Pursuant to 18 U.S.C. § 3103a(b), I  f"
+      },
+      {
+        "name": "Return \nCase",
+        "role": "extracted",
+        "context": "and Seizure Warrant (Page 2) \nReturn \nCase No.: Date and time warrant ex"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.500Z"
+}

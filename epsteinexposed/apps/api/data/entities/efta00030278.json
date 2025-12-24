@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030278",
+    "filename": "EFTA00030278.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030278.pdf",
+    "text": "\n\nFrom \nTo \nSubject. \nDate: Fri, 12 Jul 2019 03:33:53 +0000 \nread this message \"RE: Epstein\" at 2019-07-12 \n03:33:53 UTC. \nEFTA00030278",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject. \nDate: Fri, 12 Jul"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "2019-07-12"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.458Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019458",
+    "filename": "EFTA00019458.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019458.pdf",
+    "text": "\n\nFrom: \"MEn \nTo: \nCc: \nSubject: Protective order for Rule 17(c) materials \nDate: Wed, 24 Nov 2021 06:02:48 +0000 \nAttachments: 2021-11-23,_GM,_govemment_proposed_Rule_17_protective_order.docx \nCounsel, \nWe owe the Court a proposed protective order by noon for the materials responsive to your Rule 17 subpoena. Attached \nis a draft of a short order which just applies the provisions of our existing protective order to these materials. \nPlease either send us a redline so we can discuss or let us know if you agree. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00019458",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "En \nTo",
+        "role": "extracted",
+        "context": "From: \"MEn \nTo: \nCc: \nSubject: Protective or"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "know if you agree. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-23",
+        "event": "2021-11-23"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.936Z"
+}

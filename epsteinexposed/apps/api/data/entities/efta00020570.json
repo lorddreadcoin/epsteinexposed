@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020570",
+    "filename": "EFTA00020570.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020570.pdf",
+    "text": "\n\nFrom: \"(USANYS)\" \nla> \nTo: \n(USANYS)\" \nI\n> \nSubject: RAY Q/A \nDate: Fri, 07 Feb 2020 15:39:37 +0000 \nAttachments: Larry_Ray_Q_&_A_2.7.2020.docx \nThx. \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \n[Mobile: -I Press Office: \nEFTA00020570",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "ay_Q_&_A_2.7.2020.docx \nThx. \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \n[Mobile: -I Pres"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "rict of New York \n[Mobile: -I Press Office: \nEFTA00020570"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.109Z"
+}

@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00032152",
+    "filename": "EFTA00032152.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032152.pdf",
+    "text": "\n\nPage \nI  \nof \nI \n-  \nEpstein \nFrom: \nTo: \nDate: \n7/25/2019 \n1:35 \nPM \nSubject: \nEpstein \nThe \nNational \nSuicide \nPrevention \nCoordinator \nfrom \nCentral \nOffice, \nDr. \nNagle, \ncontacted \nme \ntoday \nabout \nEpstein. \nHe \nthought \nthat \nhousing \nhim \nwith \nanother \nsex \noffender \nin \nSHU \nwould \nbe \na \ngood \nidea. \nI \ntold \nhim \nI \nwould \nspeak \nwith \nthe \nexecutive \nstaff \nabout \nhis \nsuggestion. \nAlso,Mahought \nit \nwise \nthat \nwe \nkeep \nhim \ndown \nhere \nfor \na \nbit \n(as \nis \nthe \nplan \nalready). \nI \nam \nheading \nto \nthe \nhospital \nin \nabout \na \nhalf \nan \nhour \nor \nso. \nIf \nyou \nneed \nme \nfor \nanything, \nfeel \nfree \nto \ncall \nmy \ncell \nphone \nThank \nyou. \nU.S. \nDepartment \nof \nJustice/ \nFederal \nBureau \nof \nPrisons \nMetropolitan \nCorr \nter \nfile:///e/Users/bop19019/AppData/l.ocal/TempAPgrpwise/5D3913001:NYM \nDOM1N \nY \nM... \n8/26/2019 \nEFTA00032152",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nagle",
+        "role": "extracted",
+        "context": "ator \nfrom \nCentral \nOffice, \nDr. \nNagle, \ncontacted \nme \ntoday"
+      },
+      {
+        "name": "Epstein \nFrom",
+        "role": "extracted",
+        "context": "Page \nI  \nof \nI \n-  \nEpstein \nFrom: \nTo: \nDate: \n7/25/2019 \n1:35"
+      },
+      {
+        "name": "Epstein \nThe",
+        "role": "extracted",
+        "context": "/25/2019 \n1:35 \nPM \nSubject: \nEpstein \nThe \nNational \nSuicide \nPreventio"
+      },
+      {
+        "name": "National \nSuicide",
+        "role": "extracted",
+        "context": "PM \nSubject: \nEpstein \nThe \nNational \nSuicide \nPrevention \nCoordinator \nfro"
+      },
+      {
+        "name": "Prevention \nCoordinator",
+        "role": "extracted",
+        "context": "tein \nThe \nNational \nSuicide \nPrevention \nCoordinator \nfrom \nCentral \nOffice, \nDr."
+      },
+      {
+        "name": "Central \nOffice",
+        "role": "extracted",
+        "context": "revention \nCoordinator \nfrom \nCentral \nOffice, \nDr. \nNagle, \ncontacted \nme"
+      },
+      {
+        "name": "Federal \nBureau",
+        "role": "extracted",
+        "context": "S. \nDepartment \nof \nJustice/ \nFederal \nBureau \nof \nPrisons \nMetropolitan \nC"
+      },
+      {
+        "name": "Prisons \nMetropolitan",
+        "role": "extracted",
+        "context": "ustice/ \nFederal \nBureau \nof \nPrisons \nMetropolitan \nCorr \nter \nfile:///e/Users/b"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-25",
+        "event": "7/25/2019"
+      },
+      {
+        "date": "2019-08-26",
+        "event": "8/26/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.750Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015302",
+    "filename": "EFTA00015302.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015302.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nalMin> \nTo: (USANYS)\" alMIE> \nCc: M'il (USANYS)\" \nr>, \"Ma \n(USANYS)\" \n\" (USANYS)\" \nSubject: Re: Epstein FOIA Update \nDate: Wed, 04 Aug 2021 22:30:51 +0000 \nThanks very much! We really appreciated your support and wise insights into how to approach recent issues in \nthe \ncase. \nThanks, \nOn Aug 4, 2021, at 4:18 PM, \n(USANYS) alMINE> \nwrote: \nThanks \nFrom: (USANYS) ‹> \nSent: Wednesday, August 4, 2021 3:58 PM \nTo: (USANYS) \n(USANYS) \nCc: (USANYS); (USANYS) ‹> \nSubject: Epstein FOIA Update \nand \nI understand that Judge Engelmayer has so-ordered the dismissal of the Epstein/BOP FOIA case. \nI know that this was a challenging and thankless matter. \nPlease allow me to thank you on behalf of the Office. The matter required close review of many documents -- with the \njudge was closely watching our every step. \nYou handled the matter with diligence and excellent judgment. \nThank youll \nEFTA00015302",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Update \nDate",
+        "role": "extracted",
+        "context": ")\" \nSubject: Re: Epstein FOIA Update \nDate: Wed, 04 Aug 2021 22:30:51 +0"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "sues in \nthe \ncase. \nThanks, \nOn Aug 4, 2021, at 4:18 PM, \n(USANYS"
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "M, \n(USANYS) alMINE> \nwrote: \nThanks \nFrom: (USANYS) ‹> \nSent: Wednesday"
+      },
+      {
+        "name": "Judge Engelmayer",
+        "role": "extracted",
+        "context": "pdate \nand \nI understand that Judge Engelmayer has so-ordered the dismissal"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-08-04",
+        "event": "August 4, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.420Z"
+}

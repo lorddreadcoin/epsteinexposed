@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016316",
+    "filename": "EFTA00016316.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016316.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n(NY \nBI\nSubject: Re: Epstein - Subpoena Tracker \nDate: Wed, 10 Jun 2020 15:03:11 +0000 \nAs a follow up to our conversation, after you review the productions on hand, I will provide you any productions \nthat are need. \nPlease make the necessary arrangements for me to gain access to USAfx. \nBest \nForensic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nFrom: \nSent: ec nes ay, une , : \nTo: \nCc: \n<1=IMME>: \n<1=I> \nSubject: Re: Epstein - Subpoena Tracker \n>; \nI've been working to get all of the subpoena returns organized for this case. In going through the tracker of bank \nsubpoenas and returns that you sent over on June 2nd, I was unable to find any corresponding returns on our shared \ndrive. I understand that in the past you have been sending them over on discs but given the circumstances would you be \nable to also have them uploaded to USAfx? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1St. Andrew's Plaza \nEFTA00016316\n\nNew York, NY 10007 \nOffic \nCell: \nEFTA00016317",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Subpoena Tracker",
+        "role": "extracted",
+        "context": "NY \nBI\nSubject: Re: Epstein - Subpoena Tracker \nDate: Wed, 10 Jun 2020 15:03"
+      },
+      {
+        "name": "Best \nForensic",
+        "role": "extracted",
+        "context": "me to gain access to USAfx. \nBest \nForensic Accountant \nFBI New York Fiel"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "nsic Accountant \nFBI New York Field Office \n26 Federal Plaza \nNYC, NY 10"
+      },
+      {
+        "name": "Federal Plaza",
+        "role": "extracted",
+        "context": "FBI New York Field Office \n26 Federal Plaza \nNYC, NY 10278 \nOffice: \nFrom"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "uploaded to USAfx? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Offic \nCell",
+        "role": "extracted",
+        "context": "00016316\n\nNew York, NY 10007 \nOffic \nCell: \nEFTA00016317"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.463Z"
+}

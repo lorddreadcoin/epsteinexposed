@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018264",
+    "filename": "EFTA00018264.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018264.pdf",
+    "text": "\n\nFrom: ' \nTo: ' \nSubject: RE: Questionnaires are \nready \nDate: Sat, 13 Nov 2021 16:14:30 +0000 \nAttachments: ICopy_of US_v._Maxwell_Juror_Questionnaire_Review \nMASTER \nCHART_copy.xlsx \nHi \nMy spreadsheet is attached, thanks! \nFrom: \nSent: Friday, November 12, 2021 1:53 PM \nTo: \n>; >; \nCc: \nSubject: RE: Questionnaires are ready \nQuestionnaires from this morning saved here: \nAssignments are in the attached spreadsheet. The questionnaires are uploaded to USAfx and are ready to be shared with \ndefense counsel once you email them to let them know. \n---Original Message \nFrom: \nSent: Friday, November 12, 2021 12:07 PM \nTo: \nCc: \nSubject: RE: Questionnaires are ready \nThanks! Team, as a reminder for planning purposes: your comments/objections to your batch of jurors will be due to \nby 11 a.m. tomorrow morning. I'll work with s today to get this out to the defense and the court and get the \njuror numbers assigned out to the team to review. \n---Original Message \nFrom: \nSent: Friday, November 12, 2021 12:03 PM \nTo: a; \nCc: \nSubject: Questionnaires are ready \nWell let you know \nwhen they're scanned and ready for you. \nSent from my iPhone \nEFTA00018264",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nMy",
+        "role": "extracted",
+        "context": "iew \nMASTER \nCHART_copy.xlsx \nHi \nMy spreadsheet is attached, than"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "il them to let them know. \n---Original Message \nFrom: \nSent: Friday, Novembe"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-12",
+        "event": "November 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.534Z"
+}

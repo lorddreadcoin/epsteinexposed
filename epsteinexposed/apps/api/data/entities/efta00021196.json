@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00021196",
+    "filename": "EFTA00021196.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021196.pdf",
+    "text": "\n\nFrom• \nTo: \nCc: \nSubject: Epstein UMR \nDate: Thu, 08 Aug 2019 17:24:03 +0000 \n—  Please see below. \nTO: THE OFFICE OF THE ATTORNEY GENERAL \nTHE OFFICE OF THE DEPUTY ATTORNEY GENERAL \nFROM: UNITED STATES ATTORNEY \nSOUTHERN DISTRICT OF NEW YORK \nPHONE: 212-637-2200 \nDISTRICT POC: Geoffrey \nS. Berman U.S. Attorney \nPhone: \nSYNOPSIS: \nThe USAO-SDNY, in conjunction with FBI-NY, plans to obtain a search warrant for \"Little Saint James,\" U.S. \nVirgin Islands, the private island residence owned by defendant Jeffrey Epstein (the \"Island Residence\"). We \nplan to seek the warrant this Friday, August 9 and the FBI plans to execute the warrant on Monday, August 12, \n2019. \nDESCRIPTION: \nEpstein was charged by Indictment in July 2019 with one count of sex trafficking of a minor and one count of \nconspiracy to commit sex trafficking of a minor. The charges stem from Epstein's sexual abuse of minor girls in \nPalm Beach, Florida, and New York, New York, from at least in or about 2002, through up to and including in or \nabout 2005. \nSince obtaining the Indictment, we have developed information that Epstein may have committed additional \ncrimes of a similar nature on the Island Residence. We also believe, based in part on evidence recovered during \na prior search of Epstein's New York residence, that the Island Residence may contain evidence, including sexual \nphotographs, of the conduct already charged. Working with the U.S. Attorney's Office for the U.S. Virgin \nIslands, we intend to submit an application for a search warrant for the Island Residence on or about August 9, \n2019. FBI-NY, in conjunction with local authorities, intends to execute the warrant on or about August 12, 2019. \nEFTA00021196",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ", the private island residence owned by defendant Jeffrey Epstein (the \"Island Residence\"). We \nplan to seek the wa"
+      },
+      {
+        "name": "Attorney \nPhone",
+        "role": "extracted",
+        "context": "POC: Geoffrey \nS. Berman U.S. Attorney \nPhone: \nSYNOPSIS: \nThe USAO-SDNY, i"
+      },
+      {
+        "name": "Little Saint",
+        "role": "extracted",
+        "context": "obtain a search warrant for \"Little Saint James,\" U.S. \nVirgin Islands,"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "r \"Little Saint James,\" U.S. \nVirgin Islands, the private island residence"
+      },
+      {
+        "name": "Island Residence",
+        "role": "extracted",
+        "context": "fendant Jeffrey Epstein (the \"Island Residence\"). We \nplan to seek the warra"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "xual abuse of minor girls in \nPalm Beach, Florida, and New York, New Y"
+      },
+      {
+        "name": "Virgin \nIslands",
+        "role": "extracted",
+        "context": "ttorney's Office for the U.S. Virgin \nIslands, we intend to submit an appli"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Little Saint James",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-12",
+        "event": "August 12, \n2019"
+      },
+      {
+        "date": "2019-08-09",
+        "event": "August 9, \n2019"
+      },
+      {
+        "date": "2019-08-12",
+        "event": "August 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "212-637-2200"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.190Z"
+}

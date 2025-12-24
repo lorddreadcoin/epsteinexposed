@@ -1,0 +1,72 @@
+{
+  "document": {
+    "id": "efta00030429",
+    "filename": "EFTA00030429.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030429.pdf",
+    "text": "\n\nConfirmation Number: 90447796 \nDOUBLETREE \nSy 1411.701.• \nDOUBLETREE SUITES BY HILTON SANTA MONICA \n1707 FOURTH STREET \nSANTA MONICA. CA 90401 \nUnited States of America \nTELEPHONE 310-395-3332 • FAX \nReservations \nvwe.doubletree.com or 1-800-222-TREE \nRoom No: 629/NKXI \nArrival Date: 11/13/2019 7:43:00 PM \nDeparture Date: 11/15/2019 12:22:00 PM \nAdult/Child: 1/0 \nCashier ID: VOLT \nRoom Rate: 247.00 \nHH # 992288328 SILVER \nVATS \nFolio No/Che 879282 A \nDOUBLETREE SUITES BY HILTON SANTA MONICA 11/15/2019 12:21:00 PM \nDATE REF NO DESCRIPTION CHARGES \n11/13/2019 6336280 GUEST ROOM $247.00 \n11/13/2019 6336280 OCCUPANCY TAX $35.06 \n11/13/2019 6336280 TMD ASSESSMENT $4.50 \n11/14/2019 6337005 GUEST ROOM $247.00 \n11/14/2019 6337005 OCCUPANCY TAX $35.06 \n11/14/2019 6337005 $4.50 \n11/15/2019 6337280 ($573.12) \nREF=0000879282-01477708 CHIP \n05 \nApplication Label: CHASE VISA \nTC: 902AEFA3AAFC308E \nTVR: 0080008000 \n\"BALANCE\" \nCREDIT CARD DETAIL \nAPPR CODE 075761 MERCHANT ID 150557 \nCARD NUMBER VS '6964 EXP DATE 01/22 \nTRANSACTION ID 6337280 TRANS TYPE Sale \n$0.00 \nPage:1 \nEFTA00030429",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Confirmation Number",
+        "role": "extracted",
+        "context": "Confirmation Number: 90447796 \nDOUBLETREE \nSy 141"
+      },
+      {
+        "name": "Room No",
+        "role": "extracted",
+        "context": "letree.com or 1-800-222-TREE \nRoom No: 629/NKXI \nArrival Date: 11/1"
+      },
+      {
+        "name": "Arrival Date",
+        "role": "extracted",
+        "context": "-222-TREE \nRoom No: 629/NKXI \nArrival Date: 11/13/2019 7:43:00 PM \nDepar"
+      },
+      {
+        "name": "Departure Date",
+        "role": "extracted",
+        "context": "Date: 11/13/2019 7:43:00 PM \nDeparture Date: 11/15/2019 12:22:00 PM \nAdul"
+      },
+      {
+        "name": "Room Rate",
+        "role": "extracted",
+        "context": "Child: 1/0 \nCashier ID: VOLT \nRoom Rate: 247.00 \nHH # 992288328 SILVE"
+      },
+      {
+        "name": "Folio No",
+        "role": "extracted",
+        "context": "HH # 992288328 SILVER \nVATS \nFolio No/Che 879282 A \nDOUBLETREE SUIT"
+      },
+      {
+        "name": "Application Label",
+        "role": "extracted",
+        "context": "0000879282-01477708 CHIP \n05 \nApplication Label: CHASE VISA \nTC: 902AEFA3AAFC"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-13",
+        "event": "11/13/2019"
+      },
+      {
+        "date": "2019-11-15",
+        "event": "11/15/2019"
+      },
+      {
+        "date": "2019-11-14",
+        "event": "11/14/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "310-395-3332",
+      "0000879282",
+      "0080008000"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.855Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00020666",
+    "filename": "EFTA00020666.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020666.pdf",
+    "text": "\n\nFrom: ' \n(USANYS) \n[Contractor \nTo: \" SANYS)\" \nSubject: RE: \nDate: Tue, 14 Jul 2020 21:43:45 +0000 \nAll set. I'll save everything here as it comes in. \nInReEpsteinDeath FBI Case File \n Ori inal Messa e \nFrom: SANYS) \nSent: ues a  ,  u , 5:35 PM \nTo: \n(USANYS) [Contractor] \nSubject: FW: \nFor MCC shared drive - we are getting the FBI case file, so maybe put in a folder titled that? We'll need to \nreview all of these 302s and make discovery decisions. \nFrom: (FBI) \nSent: Tuesda Jul 14 2020 2:51 PM \nTo: (USANYS) \nSubject: \nHey a-\nWhen looking through my case file, this is where_documented the phone number and last call made by \nEpstein. Let me know if you need anything else... \nSpecial Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00020666",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Contractor \nTo",
+        "role": "extracted",
+        "context": "From: ' \n(USANYS) \n[Contractor \nTo: \" SANYS)\" \nSubject: RE: \nDat"
+      },
+      {
+        "name": "Case File",
+        "role": "extracted",
+        "context": "mes in. \nInReEpsteinDeath FBI Case File \n Ori inal Messa e \nFrom: SAN"
+      },
+      {
+        "name": "Tuesda Jul",
+        "role": "extracted",
+        "context": "ecisions. \nFrom: (FBI) \nSent: Tuesda Jul 14 2020 2:51 PM \nTo: (USANYS)"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "if you need anything else... \nSpecial Agent \nFBI New York Field \nOffice"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nE"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "FBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00020666"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field \nOffice \nViolent Crimes Task Force \nEFTA00020666"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:01.309Z"
+}

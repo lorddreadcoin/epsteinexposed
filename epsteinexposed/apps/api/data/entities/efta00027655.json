@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027655",
+    "filename": "EFTA00027655.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027655.pdf",
+    "text": "\n\nSubject: US v. Maxwell, 20 \nCr. 330 (MN) \nDate: Wed, 10 Nov 2021 02:16:17 +0000 \nAttachments: 2021.11.09_Maxwell_Cover_Letter.pdf; \n2021.11.09_U.S._v_Ghislaine_Maxwell_3500_IndexiDefense).pdf; 3502-037.pdf; 3502-\n038.pdf; 3502-039.pdf; Final_Daubert_Hearing_Exhibits.zip \nCounsel, \nWe have a supplemental production of testifying witness material, which I have attached to this email, along with an \naccompanying cover letter and index. I'm also attaching exhibits for tomorrow's hearing. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \n007 \nEFTA00027655",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tomorrow's hearing. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "g. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \n007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.712Z"
+}

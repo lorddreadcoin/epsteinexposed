@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024983",
+    "filename": "EFTA00024983.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024983.pdf",
+    "text": "\n\nFrom: \"S\" \nTo: Brian Bums , Patrick Smith \nCc: \naErIJSAN.IMMI.> \nSubject: Opposition to motions to quash \nDate: Mon, 22 Nov 2021 23:01:25 +0000 \nAttachments: 2021.11.22 JSP_Letter_Response_to_Motions_to_Quash.pdf \nBrian, \nAttached is the defense's response to the motions to quash. The defense filed this letter temporarily under seal, and so \nyou're aware, we anticipate seeking redactions of the victims' private and identifying information in this letter. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00024983",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brian Bums",
+        "role": "extracted",
+        "context": "From: \"S\" \nTo: Brian Bums , Patrick Smith \nCc: \naErIJSA"
+      },
+      {
+        "name": "Patrick Smith",
+        "role": "extracted",
+        "context": "From: \"S\" \nTo: Brian Bums , Patrick Smith \nCc: \naErIJSAN.IMMI.> \nSubjec"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ion in this letter. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.228Z"
+}

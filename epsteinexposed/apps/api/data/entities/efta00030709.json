@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00030709",
+    "filename": "EFTA00030709.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030709.pdf",
+    "text": "\n\nFrom: \n)\" \n<S> \nTo: '\nCc: \nSubject: RE: Call this week \nDate: Thu, 12 Sep 2019 20:02:09 +0000 \nInline-Images: image001.jpg \nPerfect, \nthanks very much. You can call my desk at \nAssistant United States Attorney \nSouthern District of New York \nNew York. NY 10007 \nFrom: \nSent: Thursday, September 12, 2019 3:14 PM \nTo: \nCc: \nSubject: Re: Call this week \nWe will call you at 2:30/4:30 today -- please let me know what number is best to reach you. \nThank you, \nCONFIDENTIALITY NOTICE: The information in this e-mail and in any attachment may contain information \nthat is legally privileged. It is intended only for the attention and use of the named recipient. If you are not the \nintended recipient, you are not authorized to retain, disclose, copy or distribute the message and/or any of its \nattachments. If you received this e-mail in error, please notify sender at the New Mexico Attorney General's \nOffice and delete this message. Thank-you. \nOn Tue, Sep 10, 2019 at 2:00 PM \n< \n> wrote: \nGreat, thanks very much. Could we say 2:30 pm MST / 4:30 pm EST on Thursday afternoon? \nEFTA00030709\n\nAssistant United States Attorney \nSouthern District of \nNew York \nNew York. NY 10007 \nFrom: \nSent: Tuesday, September 10,  2019 1:32 PM \nTo:\nSubject: Re: Call this week \nHi-\nHow is Thursday afternoon? I'm available anytime after 2 pm MST if that works for you. \nThank \nyou, \nCONFIDENTIALITY NOTICE: The information in this e-mail and in any attachment may contain \ninformation that is legally privileged. It is intended only for the attention and use of the named recipient. If \nyou are not the intended recipient, you are not authorized to retain, disclose, copy or distribute the message \nand/or any of its attachments. If you received this e-mail in error, please notify sender at the New Mexico \nAttorney General's Office and delete this message. Thank-you. \nOn Sun, Sep 8, \n2019 at 3:17 PM \nHi=, \nwrote: \nHope you're doing well. Would you be available for a call this week to touch base regarding the Epstein \ncase? \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00030710",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "uch. You can call my desk at \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "my desk at \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York. NY 100"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": ", please notify sender at the New Mexico Attorney General's \nOffice an"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "tify sender at the New Mexico Attorney General's \nOffice and delete this mes"
+      },
+      {
+        "name": "On Tue",
+        "role": "extracted",
+        "context": "ete this message. Thank-you. \nOn Tue, Sep 10, 2019 at 2:00 PM \n<"
+      },
+      {
+        "name": "On Sun",
+        "role": "extracted",
+        "context": "ete this message. Thank-you. \nOn Sun, Sep 8, \n2019 at 3:17 PM \nHi="
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-12",
+        "event": "September 12, 2019"
+      },
+      {
+        "date": "2019-09-10",
+        "event": "September 10,  2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.498Z"
+}

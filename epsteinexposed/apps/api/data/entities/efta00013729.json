@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00013729",
+    "filename": "EFTA00013729.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013729.pdf",
+    "text": "\n\nFrom: \nTo: \n>, \nSubject: \nEpstein \nDate: Mon, 07 Apr 2008 14:35:30 +0000 \nImportance: \nNormal \n\"Acosta, Alex (USAFLS)\" \nFYI — There was an article in Sunday's Palm Beach Post about Epstein's state case. Epstein's attorney is quoted \nas saying that Epstein is being \"treated more harshly because he is wealthy.\" \nAny word from DC? Can we push for an answer today so I can present on the 1541 (one week from tomorrow) \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013729",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \n>, \nSubject: \nEpstein \nDate: Mon, 07 Apr 2008 14:35:30 +0"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "re was an article in Sunday's Palm Beach Post about Epstein's state ca"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013729"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.263Z"
+}

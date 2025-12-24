@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00027257",
+    "filename": "EFTA00027257.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027257.pdf",
+    "text": "\n\nFrom: \"Berman, Geoffrey (USANYS)\"  \nTo: \"= (USANYS) czl \nSubject: RE: Epstein \nDate: Tue, 27 Aug 2019 23:19:53 +0000 \n(USANYS)\" \nI'm glad to hear that,.. It was an extraordinary and memorable day made possible by our fabulous team. Geoff \nFrom: (USANYS) 4 \nSent: Tuesday, August 27, 2019 7:07 PM \nTo: Berman, Geoffrey (USANYS) \nSubject: Epstein \nGeoff and \n(USANYS) < \n> \nJust wanted you both to know that we've been receiving a positive response from NGOs on the Epstein case — not just in \nterms of the charges brought, but also in terms of the opportunity created for victims to be heard. I was in court for part \nof today, and I'm not sure that I've experienced anything like it. I am very proud of the way that our Office has handled \nthis case and investigation, and I hope that it encourages more victims to come forward. \nThank you. \nAssistant United States Attorney \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA00027257",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\"= (USANYS) czl \nSubject: RE: Epstein \nDate: Tue, 27 Aug 2019 23:19:53 +0"
+      },
+      {
+        "name": "Geoff \nFrom",
+        "role": "extracted",
+        "context": "ossible by our fabulous team. Geoff \nFrom: (USANYS) 4 \nSent: Tuesday, A"
+      },
+      {
+        "name": "Epstein \nGeoff",
+        "role": "extracted",
+        "context": ", Geoffrey (USANYS) \nSubject: Epstein \nGeoff and \n(USANYS) < \n> \nJust want"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "to come forward. \nThank you. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne St. Andrew's"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-27",
+        "event": "August 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.863Z"
+}

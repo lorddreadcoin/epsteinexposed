@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00028137",
+    "filename": "EFTA00028137.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028137.pdf",
+    "text": "\n\nFrom: Christian Everdell \nTo:'\nCc: ' \n'BOBBI C \nSTERNHE1N1 \nPagliuca' \n, \nLaura Menninger \nBcc: \n\"USAHUB-USAJournal111\" \nSubject: \nU.S. v. Ghislaine \nMaxwell, 20 Cr. 330 (AJN) -- \nPretrial Motions and \nExhibits (to be Filed \nUnder \nSeal) \nDate: Tue, 26 Jan \n2021 02:45:21 +0000 \nEmbedded: \nU.S._v._Ghislaine_Maxwell,_20_Cr._330_(AJN)_--\nPretrial Motions and \nExhibitt(to_be_Filed_Under Seal).msg \n,'Jeff \nSender: \nSubject: U.S. v. Ghislainc \nMaxwell. ( \n330 \n(MN) \n-- Pretrial Motions and \nExhibits (to be Filed Under Seal) \nMessage\n-Id: \nRecipient: \nEFTA00028137",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: Christian Everdell \nTo:'\nCc: ' \n'BOBBI C \nSTERNH"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "C \nSTERNHE1N1 \nPagliuca' \n, \nLaura Menninger \nBcc: \n\"USAHUB-USAJournal111\""
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "ournal111\" \nSubject: \nU.S. v. Ghislaine \nMaxwell, 20 Cr. 330 (AJN) -- \nPretria"
+      },
+      {
+        "name": "Pretrial Motions",
+        "role": "extracted",
+        "context": "Maxwell, 20 Cr. 330 (AJN) -- \nPretrial Motions and \nExhibits (to be Filed \nU"
+      },
+      {
+        "name": "Filed \nUnder",
+        "role": "extracted",
+        "context": "Motions and \nExhibits (to be Filed \nUnder \nSeal) \nDate: Tue, 26 Jan \n20"
+      },
+      {
+        "name": "Under Seal",
+        "role": "extracted",
+        "context": "ons and \nExhibitt(to_be_Filed_Under Seal).msg \n,'Jeff \nSender: \nSubjec"
+      },
+      {
+        "name": "Jeff \nSender",
+        "role": "extracted",
+        "context": "o_be_Filed_Under Seal).msg \n,'Jeff \nSender: \nSubject: U.S. v. Ghislainc"
+      },
+      {
+        "name": "Ghislainc \nMaxwell",
+        "role": "extracted",
+        "context": "ff \nSender: \nSubject: U.S. v. Ghislainc \nMaxwell. ( \n330 \n(MN) \n-- Pretrial Mo"
+      },
+      {
+        "name": "Filed Under",
+        "role": "extracted",
+        "context": "Motions and \nExhibits (to be Filed Under Seal) \nMessage\n-Id: \nRecipien"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.701Z"
+}

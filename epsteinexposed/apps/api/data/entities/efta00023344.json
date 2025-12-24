@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00023344",
+    "filename": "EFTA00023344.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023344.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: okay with you? \nDate: Wed, 05 Aug 2020 16:10:46 +0000 \nAttachments: 2020.08.05_Maxwell_Discovery_Letter.docx \nHere's the letter. \nAssistant United States Attorney \nEFTA00023344",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ter.docx \nHere's the letter. \nAssistant United States Attorney \nEFTA00023344"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "the letter. \nAssistant United States Attorney \nEFTA00023344"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.767Z"
+}

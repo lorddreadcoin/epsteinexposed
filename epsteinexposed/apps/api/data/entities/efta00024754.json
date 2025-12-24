@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00024754",
+    "filename": "EFTA00024754.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024754.pdf",
+    "text": "\n\nFront \nTo \nSubject: Fwd: Expert Testimony \nDate: Mon, 02 Nov 2020 17:08:52 +0000 \n2 work for you on Wednesday? \nSent from my iPhone \nBegin forwarded message: \nFrom: Dawn Hughes \nDat • - \n- \nTo: \n• \nSubject: Re: Expert Testimony \nYes. I would be happy to speak with you all. I have some open time on Wednesday after 2:00. Let \nme know what works for \nyou. \nBest, \nDr. Hughes \nDAWN M HUGHES, PHD ABPP \nCLINICAL. AND \nFORENSIC \nPSYCHOLOGIST \nOn Thu, Oct 29, 2020 at 3:48 PM wrote: \nDr. \nHughes, \nTogether with \ncolleagues \nI'm one of the federal prosecutors handling \nthe case of United States v.  Ghislaine Maxwell, which is scheduled to go to trial on July 12, 2021 in the \nSouthern District of New York. We would be interested in speaking with you about your availability to \ntestify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss? \nThanks very much, \nEFTA00024754\n\nEFTA00024755",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "osecutors handling \nthe case of United States v.  Ghislaine Maxwell, which is scheduled to go to trial on July 12, 20"
+      },
+      {
+        "name": "Hughes",
+        "role": "extracted",
+        "context": "what works for \nyou. \nBest, \nDr. Hughes \nDAWN M HUGHES, PHD ABPP"
+      },
+      {
+        "name": "Front \nTo",
+        "role": "extracted",
+        "context": "Front \nTo \nSubject: Fwd: Expert Testimo"
+      },
+      {
+        "name": "Expert Testimony",
+        "role": "extracted",
+        "context": "Front \nTo \nSubject: Fwd: Expert Testimony \nDate: Mon, 02 Nov 2020 17:08"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "on Wednesday? \nSent from my iPhone \nBegin forwarded message: \nFrom: Daw"
+      },
+      {
+        "name": "Dawn Hughes",
+        "role": "extracted",
+        "context": "gin forwarded message: \nFrom: Dawn Hughes \nDat • - \n- \nTo: \n• \nSubject:"
+      },
+      {
+        "name": "On Thu",
+        "role": "extracted",
+        "context": "AND \nFORENSIC \nPSYCHOLOGIST \nOn Thu, Oct 29, 2020 at 3:48 PM wrot"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "rial on July 12, 2021 in the \nSouthern District of New York. We would be inte"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.770Z"
+}

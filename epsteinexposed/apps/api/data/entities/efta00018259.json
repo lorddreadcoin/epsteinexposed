@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018259",
+    "filename": "EFTA00018259.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018259.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \n• I. \nSubject: Expert Testimony \nDate: Thu, 29 Oct 2020 19:47:55 +0000 \nDr. Hughes, \nTogether with colleague I'm one of the federal prosecutors handling the case of \nUnited States v. Ghislaine Maxwell, which is scheduled to go to trial on July 12, 2021 in the Southern District of New York. \nWe would be interested in speaking with you about your availability to testify as an expert witness at trial. Are you \navailable for a call tomorrow or next week to discuss? \nThanks very much, \nEFTA00018259",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "rosecutors handling the case of \nUnited States v. Ghislaine Maxwell, which is scheduled to go to trial on July 12, 20"
+      },
+      {
+        "name": "Hughes",
+        "role": "extracted",
+        "context": ", 29 Oct 2020 19:47:55 +0000 \nDr. Hughes, \nTogether with colleague"
+      },
+      {
+        "name": "Expert Testimony",
+        "role": "extracted",
+        "context": "om: \nTo: \nCc: \n• I. \nSubject: Expert Testimony \nDate: Thu, 29 Oct 2020 19:47"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "trial on July 12, 2021 in the Southern District of New York. \nWe would be int"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-12",
+        "event": "July 12, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.523Z"
+}

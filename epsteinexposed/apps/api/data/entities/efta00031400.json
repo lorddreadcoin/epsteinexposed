@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00031400",
+    "filename": "EFTA00031400.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031400.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject has invited you to work together in \"Epstein Death\" folder on Box \nDate: u, ct 019 05:46:14 +0000 \nwants to work with you on Epstein Death \nteinjEps \nEpstein Death \n\"I'd like to share my files with you on Box.\" \nGo to \nFolder \nGet our app to view this on mobile \n@ 2019 I 900 Jefferson Avenue, Redwood City, CA 94063, USA \nAbout Box I Edit Notification Settings I Privacy Policy \nThis is an official notification from the USAfx File Exchange system. \nEFTA00031400",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Death",
+        "role": "extracted",
+        "context": "ited you to work together in \"Epstein Death\" folder on Box \nDate: u, ct 0"
+      },
+      {
+        "name": "Box \nDate",
+        "role": "extracted",
+        "context": "in \"Epstein Death\" folder on Box \nDate: u, ct 019 05:46:14 +0000 \nwa"
+      },
+      {
+        "name": "Eps \nEpstein",
+        "role": "extracted",
+        "context": "th you on Epstein Death \nteinjEps \nEpstein Death \n\"I'd like to share my"
+      },
+      {
+        "name": "Folder \nGet",
+        "role": "extracted",
+        "context": "les with you on Box.\" \nGo to \nFolder \nGet our app to view this on mobil"
+      },
+      {
+        "name": "Jefferson Avenue",
+        "role": "extracted",
+        "context": "this on mobile \n@ 2019 I 900 Jefferson Avenue, Redwood City, CA 94063, USA"
+      },
+      {
+        "name": "Redwood City",
+        "role": "extracted",
+        "context": "2019 I 900 Jefferson Avenue, Redwood City, CA 94063, USA \nAbout Box I E"
+      },
+      {
+        "name": "About Box",
+        "role": "extracted",
+        "context": "Redwood City, CA 94063, USA \nAbout Box I Edit Notification Settings"
+      },
+      {
+        "name": "Edit Notification",
+        "role": "extracted",
+        "context": "y, CA 94063, USA \nAbout Box I Edit Notification Settings I Privacy Policy \nTh"
+      },
+      {
+        "name": "Privacy Policy",
+        "role": "extracted",
+        "context": "Edit Notification Settings I Privacy Policy \nThis is an official notifica"
+      },
+      {
+        "name": "Afx File",
+        "role": "extracted",
+        "context": "icial notification from the USAfx File Exchange system. \nEFTA0003140"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Redwood City, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.001Z"
+}

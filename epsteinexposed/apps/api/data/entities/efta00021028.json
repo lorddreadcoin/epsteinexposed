@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00021028",
+    "filename": "EFTA00021028.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021028.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: \nRE: Maxwell Bail Application Exhibits \nDate: Wed, 09 Dec 2020 15:14:33 +0000 \nAttachments: 2020-12-08_defense_renewed_motionjor_bail_(2of2),_Redacted_Versions.zip \nH=, \nPlease find attached a  zip folder containing the second and final part of the exhibits pertaining to Maxwell's renewed bail \napplication. Thank you, and please let me know if you encounter any issues. \nAll \nthe best, \nF roaM(USANYS) [Contractor] \nSent: Wednesday, December 9, 2020 9:54 AM \nTo \nCc \nSubject: Maxwell Bail Application Exhibits \nI hope you're both well! Please find attached a zip folder containing the exhibits pertaining to Maxwell's renewed bail \napplication. Thank you, and please let me know if you have any questions or encounter any issues. \nTake care, \nParalegal Specialist \nU.S. Attorney's Office I  SDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell: \nEFTA00021028",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Bail",
+        "role": "extracted",
+        "context": "rom: \nTo: \nCc: \nSubject: \nRE: Maxwell Bail Application Exhibits \nDate: W"
+      },
+      {
+        "name": "Application Exhibits",
+        "role": "extracted",
+        "context": ": \nSubject: \nRE: Maxwell Bail Application Exhibits \nDate: Wed, 09 Dec 2020 15:14"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "ay, December 9, 2020 9:54 AM \nTo \nCc \nSubject: Maxwell Bail Applic"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "nter any issues. \nTake care, \nParalegal Specialist \nU.S. Attorney's Office I  SD"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I  SDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nOffice: \nCell"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-09",
+        "event": "December 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.864Z"
+}

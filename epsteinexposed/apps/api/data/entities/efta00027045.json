@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027045",
+    "filename": "EFTA00027045.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027045.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: Update division \nDate: Fri, 01 Mar 2019 14:55:01 +0000 \nImportance: Normal \nEpstein \n• \nChief Public Corruption Unit \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Plaza \nt. \nEFTA00027045",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nEpstein",
+        "role": "extracted",
+        "context": "9 14:55:01 +0000 \nImportance: Normal \nEpstein \n• \nChief Public Corruption U"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "portance: Normal \nEpstein \n• \nChief Public Corruption Unit \nUnited State"
+      },
+      {
+        "name": "Corruption Unit",
+        "role": "extracted",
+        "context": "mal \nEpstein \n• \nChief Public Corruption Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.443Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030293",
+    "filename": "EFTA00030293.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030293.pdf",
+    "text": "\n\nFrom \nSubject: Accepted: Epstein pre-meet \nDate: Sat, 06 Apr 2019 19:27:33 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00030293",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "From \nSubject: Accepted: Epstein pre-meet"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 19:27:33 +0000 \nImportance: Normal \nAttachments: unnamed \nEFTA00030293"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.502Z"
+}

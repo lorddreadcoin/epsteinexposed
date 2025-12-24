@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021032",
+    "filename": "EFTA00021032.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021032.pdf",
+    "text": "\n\nFrom: le alMIE> \nTo: Brad Edwards <=lia>, Brittany Henderson ailla> \nCc: ' \" ' SANYS \" \nI, 11 \nSubject: RE: Response re Rule 17(c) subpoena \nDate: Tue, 23 Nov 2021 01:20:52 +0000 \nAttachments: 2021.11.22_Order re_Rule_17_subpoenas.pdf \nHey Brad, Brittany, \nAttached is the Court's order on the motions. \nFrom: \nSent: Monday, November 22, 20217:28 PM \nTo: Brad Edwards <M>, Brittany Henderson <\nMMEM> \nCc: \nI \n>: \nSubject: Response re Rule 17(c) subpoena \nBrad, Brittany, \nAttached is Maxwell's response to the motions to quash her Rule 17(c) subpoena. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00021032",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "From: le alMIE> \nTo: Brad Edwards <=lia>, Brittany Henderson ai"
+      },
+      {
+        "name": "Brittany Henderson",
+        "role": "extracted",
+        "context": "IE> \nTo: Brad Edwards <=lia>, Brittany Henderson ailla> \nCc: ' \" ' SANYS \" \nI,"
+      },
+      {
+        "name": "Hey Brad",
+        "role": "extracted",
+        "context": "der re_Rule_17_subpoenas.pdf \nHey Brad, Brittany, \nAttached is the C"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ule 17(c) subpoena. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "a. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.874Z"
+}

@@ -1,0 +1,104 @@
+{
+  "document": {
+    "id": "efta00013555",
+    "filename": "EFTA00013555.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013555.pdf",
+    "text": "\n\nU.S. \nDepartment of \nJustice \nWashington, \nD.C. \n20530 \nJune 23, 2008 \nJay \nLefkowitz, Esq. \nKenneth Starr, Esq. \nKirkland and \nEllis LLP \n777 South Figueroa Street \nLos \nAngeles, CA \n90017 \nGentlemen: \nThis Office has completed a \nthorough review of the U.S. Attorney's handling of the matter \ninvolving your client, Jeffrey Epstein. \nWe have received and reviewed your letters of May 19, \nJune 3 and June 19, 2008, the \nattachments to the June 19 letter, as well as your \nsubmissions to \nthe Criminal Division and \nthe U.S. Attorney's Office. Additionally, we \nhave reviewed an \nextensive set of materials provided by the \nU.S. Attorney's Office and conferred with a number of \nhighly experienced Department attorneys about this matter. The Deputy Attorney General has \nalso been briefed. \nAs you know, the Department of Justice vests considerable discretion in its U.S. Attorneys, and \nthe Deputy Attorney General will intervene in only the most unusual of circumstances. We do \nnot believe such intervention is warranted here. Even if we were to substitute our judgment for \nthat of the U.S. Attorney, we believe that federal prosecution of this case is appropriate. \nMoreover, having reviewed your \nallegations of prosecutorial misconduct, and the facts \nunderlying \nthem, we see nothing in the conduct of the U.S. Attorney's Office that gives us any \nreason to alter our opinion. \nSincerely, \nItm \nSenior Associate Deputy Attorney General \ncc: \nAlex Acosta \nEFTA00013555",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "'s handling of the matter \ninvolving your client, Jeffrey Epstein. \nWe have received and reviewed your letters of M"
+      },
+      {
+        "name": "Justice \nWashington",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of \nJustice \nWashington, \nD.C. \n20530 \nJune 23, 2008"
+      },
+      {
+        "name": "Jay \nLefkowitz",
+        "role": "extracted",
+        "context": "D.C. \n20530 \nJune 23, 2008 \nJay \nLefkowitz, Esq. \nKenneth Starr, Esq. \nK"
+      },
+      {
+        "name": "Kenneth Starr",
+        "role": "extracted",
+        "context": ", 2008 \nJay \nLefkowitz, Esq. \nKenneth Starr, Esq. \nKirkland and \nEllis LL"
+      },
+      {
+        "name": "South Figueroa",
+        "role": "extracted",
+        "context": "Kirkland and \nEllis LLP \n777 South Figueroa Street \nLos \nAngeles, CA \n900"
+      },
+      {
+        "name": "Street \nLos",
+        "role": "extracted",
+        "context": "Ellis LLP \n777 South Figueroa Street \nLos \nAngeles, CA \n90017 \nGentleme"
+      },
+      {
+        "name": "This Office",
+        "role": "extracted",
+        "context": "geles, CA \n90017 \nGentlemen: \nThis Office has completed a \nthorough rev"
+      },
+      {
+        "name": "Criminal Division",
+        "role": "extracted",
+        "context": "as your \nsubmissions to \nthe Criminal Division and \nthe U.S. Attorney's Offi"
+      },
+      {
+        "name": "The Deputy",
+        "role": "extracted",
+        "context": "attorneys about this matter. The Deputy Attorney General has \nalso be"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "about this matter. The Deputy Attorney General has \nalso been briefed. \nAs y"
+      },
+      {
+        "name": "Deputy Attorney",
+        "role": "extracted",
+        "context": "its U.S. Attorneys, and \nthe Deputy Attorney General will intervene in onl"
+      },
+      {
+        "name": "Itm \nSenior",
+        "role": "extracted",
+        "context": "ter our opinion. \nSincerely, \nItm \nSenior Associate Deputy Attorney Gen"
+      },
+      {
+        "name": "Associate Deputy",
+        "role": "extracted",
+        "context": "ion. \nSincerely, \nItm \nSenior Associate Deputy Attorney General \ncc: \nAlex A"
+      },
+      {
+        "name": "Alex Acosta",
+        "role": "extracted",
+        "context": "Deputy Attorney General \ncc: \nAlex Acosta \nEFTA00013555"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Los \nAngeles, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-23",
+        "event": "June 23, 2008"
+      },
+      {
+        "date": "2008-06-19",
+        "event": "June 19, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.860Z"
+}

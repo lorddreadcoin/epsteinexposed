@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021349",
+    "filename": "EFTA00021349.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021349.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: some updates \nDate: Thu, 26 Sep 2019 16:59:21 +0000 \n1) The agents think that \nFlorida, whenever that happens. \n2) The agents are in touch with \nboxes of case files that he does not think the FBI ever collected, and he has agreed to provide them to us when/if \nwe meet with him (in Florida). \n3) I asked the agents for more information about the envelopes of cash in Epstein's safe marked They'll get \nback to us. \ns in Florida. They told me they'll plan to approach him the next time we're in \nHe is cooperative but would like a subpoena (which I'll issue). He has \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00021349",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "a (which I'll issue). He has \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ue). He has \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York. NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York. NY 10007 \nEFTA00021349"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.479Z"
+}

@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00015132",
+    "filename": "EFTA00015132.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015132.pdf",
+    "text": "\n\nFrom: \"-(USANYS)\"  \nTo: ' (USANYS)\" \nSubject: FW: victim travel \nDate: Thu, 07 Oct 2021 16:48:00 +0000 \nAttachments: HYDEOP.pdf \nEmbedded: RE:_E-TICKET_RECEIPT_ \n_Ref:_XHKCBU_.msg \n-  Travel Date: 26AUG19 - \nFrom: (USANYS) < \nSent: Thursday, October 7, 2021 12:42 PM \nTo: (USANYS) c (USANYS) \nSubject: RE: victim travel \nI have nothing under the name in 2019. I only found airfare in 2019 that I charged to the GTA for \nThank you! \nFrom: (USANYS) \nSent: Thursday, October 7, 2021 9:29 AM \nTo: (USANYS) \nCc: I (USANYS) \nSubject: Fwd: victim travel \nAnything with this case was handled securely. \nis on Maternity leave, but maybe she will be able to weigh in on this for you. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' (USANYS)\" < \nDate: October 7, 2021 at 9:26:33 AM EDT \nTo: \" (USANYS)\" \nSubject: FW: victim travel \nJudge Berman had a  heading in Epstein all the travel was paid for by SDNY in August 2019 can you look to see if we paid \nfor and \nThanks, \nEFTA00015132\n\nFrom: \nSent: Wednesday, October 6, 2021 10:44 PM \nTo: (USANYS)<> \nCc: (USANYS) \nSubject: victim travel \nHi \nAs we're preparing our disclosures, we wanted to check with you about two things: \n• Did SDNY pay for flights for for the August 2019 hearing? What about the hotel? \n• Did SDNY pay for any travel related expenses for for the August 2019 hearing? What about \nthe hotel? \n• When travelled here in September 2021, our understanding is that the office paid for her flights. \nDid the office pay for her hotel? We recall some correspondence about her booking her own hotel but wanted to \nconfirm. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nEFTA00015133",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel Date",
+        "role": "extracted",
+        "context": "CEIPT_ \n_Ref:_XHKCBU_.msg \n-  Travel Date: 26AUG19 - \nFrom: (USANYS) <"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "this for you. \nSent from my iPhone \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "Judge Berman",
+        "role": "extracted",
+        "context": "Subject: FW: victim travel \nJudge Berman had a  heading in Epstein all"
+      },
+      {
+        "name": "Hi \nAs",
+        "role": "extracted",
+        "context": "NYS) \nSubject: victim travel \nHi \nAs we're preparing our disclosur"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "wanted to \nconfirm. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00015133"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-07",
+        "event": "October 7, 2021"
+      },
+      {
+        "date": "2021-10-06",
+        "event": "October 6, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.090Z"
+}

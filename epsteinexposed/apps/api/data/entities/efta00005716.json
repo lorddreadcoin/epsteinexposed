@@ -1,0 +1,108 @@
+{
+  "document": {
+    "id": "efta00005716",
+    "filename": "EFTA00005716.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00005716.pdf",
+    "text": "\n\nFEDERAL BUREAU OF INVESTIGATION \nTitle: (U) DELTA SERIAL: \nDrafted By: \nMissing \nCase ID #:  31E-MM-108062 (U) EPSTEIN, JEFFREY \nDate: 11/25/2010 \nDetails: UNCLASSIFIED FEDERAL BUREAU OF INVESTIGATION CHS REPORTING \nDOCUMENT Form Classification: \nUNCLASSIFIED Source Id: Date: \n2010-11-26 Case Agent \nName: \nField Office: Jacksonville \nSquad: 10 Date of Contact: -  - icipants/Witnesses: SA \nType of Contact: \nIn \nPerson Location Country: \nUNITED STATES City: \nJacksonville State: Florida Date of Report 2010-11-26 Substantive Case \nFile Number: 31E-MM-108062 Source \nReporting: Source information received \nto date on referred to \nMiami Division \non 11/26/2010 re \n31E-MM-108 D \n.• \nEFTA00005716",
+    "pageCount": 1,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "ON \nTitle: (U) DELTA SERIAL: \nDrafted By: \nMissing \nCase ID #:  31E-MM"
+      },
+      {
+        "name": "Missing \nCase",
+        "role": "extracted",
+        "context": ") DELTA SERIAL: \nDrafted By: \nMissing \nCase ID #:  31E-MM-108062 (U) EPST"
+      },
+      {
+        "name": "Form Classification",
+        "role": "extracted",
+        "context": "ATION CHS REPORTING \nDOCUMENT Form Classification: \nUNCLASSIFIED Source Id: Dat"
+      },
+      {
+        "name": "Source Id",
+        "role": "extracted",
+        "context": "Classification: \nUNCLASSIFIED Source Id: Date: \n2010-11-26 Case Agent"
+      },
+      {
+        "name": "Case Agent",
+        "role": "extracted",
+        "context": "Source Id: Date: \n2010-11-26 Case Agent \nName: \nField Office: Jackson"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "2010-11-26 Case Agent \nName: \nField Office: Jacksonville \nSquad: 10 Date"
+      },
+      {
+        "name": "Jacksonville \nSquad",
+        "role": "extracted",
+        "context": "e Agent \nName: \nField Office: Jacksonville \nSquad: 10 Date of Contact: -  - ici"
+      },
+      {
+        "name": "In \nPerson",
+        "role": "extracted",
+        "context": "nesses: SA \nType of Contact: \nIn \nPerson Location Country: \nUNITED STA"
+      },
+      {
+        "name": "Location Country",
+        "role": "extracted",
+        "context": "Type of Contact: \nIn \nPerson Location Country: \nUNITED STATES City: \nJackso"
+      },
+      {
+        "name": "Jacksonville State",
+        "role": "extracted",
+        "context": "ountry: \nUNITED STATES City: \nJacksonville State: Florida Date of Report 2010-"
+      },
+      {
+        "name": "Florida Date",
+        "role": "extracted",
+        "context": "ES City: \nJacksonville State: Florida Date of Report 2010-11-26 Substant"
+      },
+      {
+        "name": "Substantive Case",
+        "role": "extracted",
+        "context": "ida Date of Report 2010-11-26 Substantive Case \nFile Number: 31E-MM-108062 S"
+      },
+      {
+        "name": "Source \nReporting",
+        "role": "extracted",
+        "context": "e \nFile Number: 31E-MM-108062 Source \nReporting: Source information received"
+      },
+      {
+        "name": "Miami Division",
+        "role": "extracted",
+        "context": "ived \nto date on referred to \nMiami Division \non 11/26/2010 re \n31E-MM-108"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2010-11-25",
+        "event": "11/25/2010"
+      },
+      {
+        "date": "2010-11-26",
+        "event": "11/26/2010"
+      },
+      {
+        "date": "2010-11-26",
+        "event": "2010-11-26"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.133Z"
+}

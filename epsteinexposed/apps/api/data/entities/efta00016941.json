@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00016941",
+    "filename": "EFTA00016941.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016941.pdf",
+    "text": "\n\nFrom: \"III=MM=IIM>\nTo: \" \nIt\nI, II \nCc: \nSubject: RE: Maxwell account \nDate: Tue, 31 Dec 2019 18:57:51 +0000 \nNo problem -- just sent an application off to court. It should come back by the end of the week. \n Ori inal Messa e \nFrom: \nSent: Tuesda December 31 2019 12:56 PM \nTo: \nCc: \nSubject: Maxwell account \nHey all, \nWe \nreceived statements from USAA and Maxwell has an account. Can we get a subpoena and NDO for \nn Looks like she has made quite a few transactions from there and we'd like to see where her packages \nare going right now. The credit card she was using for purchases is under the name Ghislaine Borgerson. \nIdentifiers: \nGhislaine Maxwell and/or Ghislaine Borgerson \nThanks, \nEFTA00016941",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "nder the name Ghislaine Borgerson. \nIdentifiers: \nGhislaine Maxwell and/or Ghislaine Borgerson \nThanks, \nEFTA00016941"
+      },
+      {
+        "name": "Tuesda December",
+        "role": "extracted",
+        "context": "ri inal Messa e \nFrom: \nSent: Tuesda December 31 2019 12:56 PM \nTo: \nCc: \nS"
+      },
+      {
+        "name": "Ghislaine Borgerson",
+        "role": "extracted",
+        "context": "r purchases is under the name Ghislaine Borgerson. \nIdentifiers: \nGhislaine Max"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-31",
+        "event": "December 31 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.727Z"
+}

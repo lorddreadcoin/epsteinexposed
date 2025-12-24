@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026668",
+    "filename": "EFTA00026668.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026668.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Draft SW \nDate: Mon, 01 Jul 2019 23:44:01 +0000 \nImportance: Normal \nAttachments: \nNew_York_Residence_SW_v3.docx \nH \nAttached please find a draft search warrant for the NY residence. I haves the affiant, but let me know if I should \nswitch that to= or someone else. Also, please give me a call if you have any revisions or would like to discuss. Plan is \nto swear this out on the same day as the arrest. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00026668",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 23:44:01 +0000 \nImportance: Normal \nAttachments: \nNew_York_Residence_SW_v3.do"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "day as the arrest. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00026668"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.783Z"
+}

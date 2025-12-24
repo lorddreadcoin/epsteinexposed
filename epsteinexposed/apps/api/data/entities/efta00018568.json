@@ -1,0 +1,104 @@
+{
+  "document": {
+    "id": "efta00018568",
+    "filename": "EFTA00018568.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018568.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\"  \nTo: (USANYS)\"  \nSubject: RE: OPR Matter \nDate: Fri, 07 Aug 2020 15:09:43 +0000 \nGot it. I'm going to copy the file locally and try a few things. \nI \nwill keep you updated on my progress. \nFrom: (USANYS) < \nSent: Friday, August 7, 2020 11:05 AM \nTo: (USANYS) [Contractor] \nSubject: RE: OPR Matter \nI'm still having the issue. The appendix (the last 30 pages or so) is searchable, but the report (the first 370+ pages) isn't. \nSo, for example, if you CTRL+F \"Epstein\" the first hit I get is on page 384, even though he is repeatedly referred to in the \nfirst 370+ pages. \nFrom: (USANYS) [Contractor] < \nSent: Friday, August 7, 2020 11:02 AM \nTo: (USANYS) \nSubject: RE: OPR Matter \nWhat is the exact issue you were facing? The searches that I am conducting in the document are happening without issue. \nCopying the file over to the new location may have solved the issue. \nFrom: (USANYS) < \nSent: Friday, August 7, 2020 10:57 AM \nTo: (USANYS) [Contractor] \nSubject: RE: OPR Matter \nShould now be here: \nThanks \nFrom: (USANYS) [Contractor] < \nSent: Friday, August 7, 2020 10:45 AM \nTo: (USANYS) \nSubject: RE: OPR Matter \nI believe just the drive. \nFrom: (USANYS) < \nSent: Friday, August 7, 2020 10:44 AM \nTo: (USANYS) [Contractor] \nSubject: RE: OPR Matter \nGreat, thanks. Did I add you to the share? Or only the drive? \nEFTA00018568\n\nFrom: (USANYS) [Contractor] < \nSent: Friday, August 7, 2020 10:24 AM \nTo: (USANYS) \nSubject: RE: OPR Matter \nIt hasn't yet made it through. Yes, I'd be happy to help once I have shared access. \nFrom: (USANYS) \n<l\nSent: Friday, August 7, 2020 10:22 AM \nTo: (USANYS) [Contractor] \nSubject: RE: OPR Matter \nI don't know if my email below came through —  the attachment is huge and has been very difficult to send —  but if not, \nand if you're able to help, I'll put it on a share directory you have access to instead. Thanks! \nFrom: (USANYS) \nSent: Friday, August 7, 2020 10:09 AM \nTo: (USANYS) [Contractor] \nSubject: FW: OPR Matter \nDo you have time today to help with a quick but time sensitive project? The attached report is not searchable for \nwhatever reason (the short appendix at the end is, but the first 380+ page report is not). Do you know/are you able to \nresave or convert this in some manner that would make it searchable? Thanks \nFrom: (OPR) \nSent: Thursday, August 6, 2020 2:49 PM \nTo: (USANYS) < \nCc: (USANYS) \nSubject: OPR Matter \nActing United States Attorney \nfor the Southern District of New York \nNew York, New York \nDear Ms. \nPlease find attached a letter from OPR Director regarding OPR's draft report regarding the handling of the \nJeffrey Epstein matter by the U.S. Attorney's Office for the Southern District of Florida in 2006-2008. A copy of the draft \nreport, for your review, is also attached. \nWith regards, \nCounsel \nOffice of Professional Responsibility \nUS. Department of Justice \n950 Pennsylvania Avenue, NXC —  Room 3266 \nWashin ton, D.C. \n20530 \ncc: AUSA \nEFTA00018569\n\nEFTA00018570",
+    "pageCount": 3,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "OPR's draft report regarding the handling of the \nJeffrey Epstein matter by the U.S. Attorney's Office for the Sout"
+      },
+      {
+        "name": "Please",
+        "role": "extracted",
+        "context": "ork \nNew York, New York \nDear Ms. \nPlease find attached a letter f"
+      },
+      {
+        "name": "Matter \nDate",
+        "role": "extracted",
+        "context": "(USANYS)\"  \nSubject: RE: OPR Matter \nDate: Fri, 07 Aug 2020 15:09:43 +0"
+      },
+      {
+        "name": "Matter \nWhat",
+        "role": "extracted",
+        "context": "o: (USANYS) \nSubject: RE: OPR Matter \nWhat is the exact issue you were f"
+      },
+      {
+        "name": "Matter \nShould",
+        "role": "extracted",
+        "context": "Contractor] \nSubject: RE: OPR Matter \nShould now be here: \nThanks \nFrom: ("
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "Matter \nShould now be here: \nThanks \nFrom: (USANYS) [Contractor] < \nSen"
+      },
+      {
+        "name": "Matter \nGreat",
+        "role": "extracted",
+        "context": "Contractor] \nSubject: RE: OPR Matter \nGreat, thanks. Did I add you to the"
+      },
+      {
+        "name": "Matter \nIt",
+        "role": "extracted",
+        "context": "o: (USANYS) \nSubject: RE: OPR Matter \nIt hasn't yet made it through. Y"
+      },
+      {
+        "name": "Matter \nDo",
+        "role": "extracted",
+        "context": "Contractor] \nSubject: FW: OPR Matter \nDo you have time today to help w"
+      },
+      {
+        "name": "Matter \nActing",
+        "role": "extracted",
+        "context": "< \nCc: (USANYS) \nSubject: OPR Matter \nActing United States Attorney \nfor t"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ited States Attorney \nfor the Southern District of New York \nNew York, New Yo"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "New York \nNew York, New York \nDear Ms. \nPlease find attached a lett"
+      },
+      {
+        "name": "Counsel \nOffice",
+        "role": "extracted",
+        "context": "lso attached. \nWith regards, \nCounsel \nOffice of Professional Responsibilit"
+      },
+      {
+        "name": "Professional Responsibility",
+        "role": "extracted",
+        "context": "regards, \nCounsel \nOffice of Professional Responsibility \nUS. Department of Justice \n9"
+      },
+      {
+        "name": "Pennsylvania Avenue",
+        "role": "extracted",
+        "context": "S. Department of Justice \n950 Pennsylvania Avenue, NXC —  Room 3266 \nWashin ton"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-07",
+        "event": "August 7, 2020"
+      },
+      {
+        "date": "2020-08-06",
+        "event": "August 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.208Z"
+}

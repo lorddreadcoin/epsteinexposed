@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019404",
+    "filename": "EFTA00019404.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019404.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: [EXTERNAL] U.S. v. Maxwell, S2 20 Cr. 330 (AJN) - Letter re Proposed Limiting \nInstructions \nDate: Mon, 22 Nov 2021 05:41:44 +0000 \nAttachments: 2021.11.22_Letter to_Judge_Nathan_re_Limiting_Instructions.PDF \nInline-Images: image001.gif; image002.gif \nDear Chambers — \nWith apologies for the delay, attached please find the defendant's letter regarding the proposed limiting instructions in \nthe Court's Opinion and Order, dated November 19, 2021. The defense submits this letter temporarily under seal. \nRegards, \nCOHEN & GRESSER LLP \nview bio \nWWW.COlle Jal \nNew York I  Paris I  Washington DC \nI \nLondon \nCONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended to be reviewed initially by only \nthe individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient. you are hereby notified that any \nreview. dissemination or copying of this e-mail or the infommtion contained herein is prohibited. If you have received this e-mail in error. please immediately notify \nthe sender by telephone and \npermanently \ndelete this e-mail. Thank \nyou. \nPRIVACY: A complete copy of our privacy policy can be viewed al: SIosinoww.cohengresser.comtprivacy-policx\nEFTA00019404",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Proposed Limiting",
+        "role": "extracted",
+        "context": "20 Cr. 330 (AJN) - Letter re Proposed Limiting \nInstructions \nDate: Mon, 22"
+      },
+      {
+        "name": "Instructions \nDate",
+        "role": "extracted",
+        "context": "Letter re Proposed Limiting \nInstructions \nDate: Mon, 22 Nov 2021 05:41:44 +0"
+      },
+      {
+        "name": "Dear Chambers",
+        "role": "extracted",
+        "context": ": image001.gif; image002.gif \nDear Chambers — \nWith apologies for the del"
+      },
+      {
+        "name": "Olle Jal",
+        "role": "extracted",
+        "context": "& GRESSER LLP \nview bio \nWWW.COlle Jal \nNew York I  Paris I  Washing"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-19",
+        "event": "November 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.815Z"
+}

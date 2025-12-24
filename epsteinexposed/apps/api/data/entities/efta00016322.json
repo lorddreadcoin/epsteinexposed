@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016322",
+    "filename": "EFTA00016322.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016322.pdf",
+    "text": "\n\nApp Store LTE 8:17 PM \nghislainemaxwell6 \nGhislainemaxwell \n• • • \n0 9 0 \nPosts \nFollowers Following \nFollow Message \nNo \nPosts Yet \nWhen ghislainemaxwell6 posts, you'll see their \nphotos and videos here. \nSuggested for You See \nAll \nnQBC21 \nEFTA00016322",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "App Store",
+        "role": "extracted",
+        "context": "App Store LTE 8:17 PM \nghislainemaxwell"
+      },
+      {
+        "name": "Posts \nFollowers",
+        "role": "extracted",
+        "context": "islainemaxwell \n• • • \n0 9 0 \nPosts \nFollowers Following \nFollow Message \nNo"
+      },
+      {
+        "name": "Following \nFollow",
+        "role": "extracted",
+        "context": "• • \n0 9 0 \nPosts \nFollowers Following \nFollow Message \nNo \nPosts Yet \nWhen"
+      },
+      {
+        "name": "Message \nNo",
+        "role": "extracted",
+        "context": "Followers Following \nFollow Message \nNo \nPosts Yet \nWhen ghislainemax"
+      },
+      {
+        "name": "Posts Yet",
+        "role": "extracted",
+        "context": "ollowing \nFollow Message \nNo \nPosts Yet \nWhen ghislainemaxwell6 posts"
+      },
+      {
+        "name": "You See",
+        "role": "extracted",
+        "context": "d videos here. \nSuggested for You See \nAll \nnQBC21 \nEFTA00016322"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.473Z"
+}

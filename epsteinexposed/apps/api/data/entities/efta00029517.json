@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00029517",
+    "filename": "EFTA00029517.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029517.pdf",
+    "text": "\n\nFrom:' (USANYS)\"  \nTo: '  \n)\"  \nSubject: RE: Sarah Sacks \nDate: Thu, 08 Oct 2020 14:58:21 +0000 \nVery odd. \nFrom: \nSent: Thursday, October 08, 2020 10:55 AM \nTo: (USANYS) \nSubject: RE: Sarah Sacks \nWell she never filed a notice on the docket or communicated with me. \nFrom: (USANYS) \nSent: Thursday, October 8, 202010:54 AM \nTo: \nSubject: RE: Sarah Sacks \nHmmm. There are emails from her in this FOIA production about a PI coming to visit \"her client.\" \nFrom: \nSent: Thursday, October 08, 202010:53 AM \nTo: \n(USANYS) \nSubject: RE: Sarah Sacks \nNot to my knowledge. \nFrom: (USANYS) \nSent: Thursday, October 8, 2020 10:40 AM \nTo: \nSubject: Sarah Sacks \nDoes she represent Epstein or Tartaglione? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nFax: \nEFTA00029517",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sarah Sacks",
+        "role": "extracted",
+        "context": "\"  \nTo: '  \n)\"  \nSubject: RE: Sarah Sacks \nDate: Thu, 08 Oct 2020 14:58"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "sent Epstein or Tartaglione? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "artaglione? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nF"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-08",
+        "event": "October 08, 2020"
+      },
+      {
+        "date": "2020-10-08",
+        "event": "October 8, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.581Z"
+}

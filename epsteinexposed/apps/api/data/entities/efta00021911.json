@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00021911",
+    "filename": "EFTA00021911.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021911.pdf",
+    "text": "\n\nFrom: ' \nTo: \nCc: al \nC \n)\"  \n(USANYS) [Contractor]\" <1 \nSubject: FW: Marshals Intake Form \nDate: Wed, 22 Jul 2020 21:01:10 +0000 \nAttachments: Maxwell JABS.pdf \ncould you please add this to the share and to the initial discovery production for Maxwell? Thanks. \nFrom: Rosenman, Jeremy (USANYS)<JRosenman@usa.doj.gov> \nSent: Wednesday, July 22, 2020 17:00 \nTo: \nSubject: RE: Marshals Intake Form \nSee attached. \nFrom: \nSent: Wednesday, July 22, 2020 4:46 PM \nTo: USANYS-INVESTIGATORS \nSubject: Marshals Intake Form \nce. \n;  USANYS-INVESTIGATORS < \nC \nPlease process the following: \nRequestor's Phone Number: \nName /  Alias(es): Ghislaine Maxwell \nCourt Number: 20 Cr. 330 (AJN) \nUSAO Number: 2018R01618 \nUSMS Number: 02879-509 \nArrest Date: 07/02/20 \nDate of Birth: \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA00021911",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "g: \nRequestor's Phone Number: \nName /  Alias(es): Ghislaine Maxwell \nCourt Number: 20 Cr. 330 (AJN) \nUSAO Number: 201"
+      },
+      {
+        "name": "Marshals Intake",
+        "role": "extracted",
+        "context": "Contractor]\" <1 \nSubject: FW: Marshals Intake Form \nDate: Wed, 22 Jul 2020"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "Subject: FW: Marshals Intake Form \nDate: Wed, 22 Jul 2020 21:01:10 +0"
+      },
+      {
+        "name": "Form \nSee",
+        "role": "extracted",
+        "context": "Subject: RE: Marshals Intake Form \nSee attached. \nFrom: \nSent: Wedne"
+      },
+      {
+        "name": "Phone Number",
+        "role": "extracted",
+        "context": "s the following: \nRequestor's Phone Number: \nName /  Alias(es): Ghislain"
+      },
+      {
+        "name": "Court Number",
+        "role": "extracted",
+        "context": "Alias(es): Ghislaine Maxwell \nCourt Number: 20 Cr. 330 (AJN) \nUSAO Numbe"
+      },
+      {
+        "name": "Arrest Date",
+        "role": "extracted",
+        "context": "1618 \nUSMS Number: 02879-509 \nArrest Date: 07/02/20 \nDate of Birth: \nDo"
+      },
+      {
+        "name": "Email \nPhoto",
+        "role": "extracted",
+        "context": "0 \nDate of Birth: \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA0002191"
+      },
+      {
+        "name": "Email \nRemarks",
+        "role": "extracted",
+        "context": "th: \nDocuments: Email \nPhoto: Email \nRemarks: \nEFTA00021911"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-22",
+        "event": "July 22, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.665Z"
+}

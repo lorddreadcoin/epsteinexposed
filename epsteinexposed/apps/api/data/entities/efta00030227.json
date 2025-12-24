@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030227",
+    "filename": "EFTA00030227.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030227.pdf",
+    "text": "\n\nFrom: Marc Femich  \nTo:  \nSubject: Fwd: Epstein \nDate: Mon, 08 Jul 2019 13:32:38 +0000 \nMarc Femich, Esq. \nSent from my iPhone \nBegin forwarded message: \nFrom: Marc Femich < \nDate: July 8, 2019 at 9:30:29 AM EDT\nTo: \nSubject: Epstein \nI'm working with Reid and Marty, both phoneless, on Epstein's defense team. For today, can you please \ncommunicate anpertinent case info — especially the judge we draw — to me via email, text or cellphone? \nMy number's.\nThanks a lot, \nMarc \nMarc \nFernich. Esq. \nSent from my iPhone \nEFTA00030227",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Marc Femich",
+        "role": "extracted",
+        "context": "From: Marc Femich  \nTo:  \nSubject: Fwd: Epstein"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Femich  \nTo:  \nSubject: Fwd: Epstein \nDate: Mon, 08 Jul 2019 13:32:38 +0"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "c Femich, Esq. \nSent from my iPhone \nBegin forwarded message: \nFrom: Mar"
+      },
+      {
+        "name": "Marc \nMarc",
+        "role": "extracted",
+        "context": "My number's.\nThanks a lot, \nMarc \nMarc \nFernich. Esq. \nSent from my"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "July 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.325Z"
+}

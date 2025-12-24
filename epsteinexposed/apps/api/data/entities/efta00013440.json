@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00013440",
+    "filename": "EFTA00013440.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013440.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: Barr on Epstein \nDate: Wed, 16 Jan 2019 20:49:06 +0000 \nImportance: Normal \nhttps://www.c-span.orgivideo/?456626-1/attorney-general-nominee-william-barr-confirmation-hearing\nExchange with Sen. Sasse begins around 5:13:00. \nSpecial Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00013440",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "To:' \nCc: ' \nSubject: Barr on Epstein \nDate: Wed, 16 Jan 2019 20:49:06 +0"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "Sasse begins around 5:13:00. \nSpecial Assistant to the U.S. Attorney \nUnited"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Special Assistant to the U.S. Attorney \nUnited States Attorney's Office, SDN"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "to the U.S. Attorney \nUnited States Attorney's Office, SDNY \nEFTA00013440"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.596Z"
+}

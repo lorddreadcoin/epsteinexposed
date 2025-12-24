@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00015876",
+    "filename": "EFTA00015876.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015876.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Re: Jeffrey Epstein investigation \nDate: Thu, 03 Oct 2019 21:01:30 +0000 \nFYI \nFrom: \nSent: Thursday, October 03, 2019 4:37 PM \nTo: \nSubject: Re: Jeffrey Epstein investigation \nDcz \nThan you tor  your interest in the case of \nU.S. \nv. Jeffrey Epstein. Attorney General Barr's chief of staff \nhas forwarded your questions and insights to the U.S. Attorney's Office for the Southern District of New York, as \nthe investigation that resulted in Jeffrey Epstein's July arrest was conducted by our office and the New York \nOffice of the Federal Bureau of Investigation. Your questions and concerns have been forwarded to the \nappropriate people here in our office. As I'm sure you can appreciate, we will be extremely limited in what we \ncan tell you about the ongoing investigation. You may nevertheless feel free to email me with any additional \ninformation or questions, and I will forward them to the appropriate people here. \nJim Margolin \nEFTA00015876",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Re: Jeffrey Epstein investigation \nDate: Thu, 03 Oct 2019 21:01:30 +0"
+      },
+      {
+        "name": "Dcz \nThan",
+        "role": "extracted",
+        "context": "effrey Epstein investigation \nDcz \nThan you tor  your interest in the"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "of \nU.S. \nv. Jeffrey Epstein. Attorney General Barr's chief of staff \nhas fo"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": ".S. Attorney's Office for the Southern District of New York, as \nthe investig"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "d the New York \nOffice of the Federal Bureau of Investigation. Your questi"
+      },
+      {
+        "name": "Jim Margolin",
+        "role": "extracted",
+        "context": "the appropriate people here. \nJim Margolin \nEFTA00015876"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-03",
+        "event": "October 03, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.682Z"
+}

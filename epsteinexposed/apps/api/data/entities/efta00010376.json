@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00010376",
+    "filename": "EFTA00010376.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010376.pdf",
+    "text": "\n\nTo: si\n(USANH)\"alMIM>\n,\nFrom: \nSubject: Fwd: SDNY Premises Search Warrant Bundle (second \nrevised) copy \nDate: Thu, 02 Jul 2020 12:14:18 +0000 \nAttachments: SDNY_Premises_Search_Warrant_Bundleisecond_revisedLcopy.pdf; ATT00001.htm \n(USANH)\" \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDate: Jul 2 2020 at 8:09:59 AM EDT \nTo: \n(USANH)\" \nSubject: SDNY Premises Search Warrant Bundle (second revised) copy \nEFTA00010376",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Premises Search",
+        "role": "extracted",
+        "context": ">\n,\nFrom: \nSubject: Fwd: SDNY Premises Search Warrant Bundle (second \nrevis"
+      },
+      {
+        "name": "Warrant Bundle",
+        "role": "extracted",
+        "context": "ct: Fwd: SDNY Premises Search Warrant Bundle (second \nrevised) copy \nDate:"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": ".htm \n(USANH)\" \nSent from my iPhone \nBegin forwarded message: \nFrom: \nDa"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.843Z"
+}

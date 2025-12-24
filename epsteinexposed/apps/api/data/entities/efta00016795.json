@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016795",
+    "filename": "EFTA00016795.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016795.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: \nFW: Ghislaine Maxwell Triggerfish \nDate: Wed, 23 Dec 2020 19:42:21 +0000 \nr  \na do you need the seal on the DNH triggerfish warrant extended? \nMerry Christmas to you and yours! \nMr. \nFrom: \nSent: Wednesday, December 23, 2020 10:20 AM \nTo: \nSubject: Ghislaine Maxwell Triggerfish \nThe seal on this triggerfish is set to expire soon. \nAm I correct in assuming we can go ahead and let this lapse? \nEFTA00016795",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: ' \nTo:' \nCc: ' \nSubject: \nFW: Ghislaine Maxwell Triggerfish \nDate: Wed, 23 Dec 2020 19:42:21 +000"
+      },
+      {
+        "name": "From",
+        "role": "extracted",
+        "context": "Christmas to you and yours! \nMr. \nFrom: \nSent: Wednesday, Decem"
+      },
+      {
+        "name": "Triggerfish \nDate",
+        "role": "extracted",
+        "context": "bject: \nFW: Ghislaine Maxwell Triggerfish \nDate: Wed, 23 Dec 2020 19:42:21 +0"
+      },
+      {
+        "name": "Merry Christmas",
+        "role": "extracted",
+        "context": "riggerfish warrant extended? \nMerry Christmas to you and yours! \nMr. \nFrom:"
+      },
+      {
+        "name": "Triggerfish \nThe",
+        "role": "extracted",
+        "context": ": \nSubject: Ghislaine Maxwell Triggerfish \nThe seal on this triggerfish is s"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-23",
+        "event": "December 23, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.395Z"
+}

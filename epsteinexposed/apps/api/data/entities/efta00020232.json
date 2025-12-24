@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00020232",
+    "filename": "EFTA00020232.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020232.pdf",
+    "text": "\n\nFrom: \" \" \nTo: \nCc: an \nSubject: Epstein \nDevices SW \nDate: Thu, 25 Jun 2020 16:13:20 +0000 \nAttachments: SW for all_JE_electronic_devices_v5.docx \n=and \nAttached is a draft search warrant affidavit seeking authorization to expand the scope of our search of Epstein's devices. \nThank you so much for your help pulling together the information for this. I leftMas the affiant because I believe he \nswore out the most recent warrant, but let me know if I should switch it to Mandy instead. \nOur hope is to get this to Judge Gorenstein this afternoon and swear it out tomorrow. Whichever of you will be the \naffiant, would you please call me with any corrections/edits to the affidavit? You'll see there's one question in there from \nTed about whether we've seen any photos of Maxwell on the discs seized from the NY residence that I'm hoping you can \nhelp me answer. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York. NY 10007 \nEFTA00020232",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDevices",
+        "role": "extracted",
+        "context": "m: \" \" \nTo: \nCc: an \nSubject: Epstein \nDevices SW \nDate: Thu, 25 Jun 2020 16"
+      },
+      {
+        "name": "Judge Gorenstein",
+        "role": "extracted",
+        "context": ". \nOur hope is to get this to Judge Gorenstein this afternoon and swear it o"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "an \nhelp me answer. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York. NY 10007 \nEFTA00020232"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.446Z"
+}

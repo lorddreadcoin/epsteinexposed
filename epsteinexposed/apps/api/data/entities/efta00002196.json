@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00002196",
+    "filename": "EFTA00002196.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002196.pdf",
+    "text": "\n\nSchedule \n0\n   \nHP \nOfficeJet \nPro \n8720 \nSerial \nNumber: \nCN68F060C1 \n40 \nIP \nAddress: \n192.168.119.6 \nEC\n-8E\n-B5-01 \n-8F-28 \nL\nai\n \nDIRECT\n-a\n-HP \n011Icelet \nPro \n8720 \nEFTA00002196",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jet \nPro",
+        "role": "extracted",
+        "context": "Schedule \n0\n   \nHP \nOfficeJet \nPro \n8720 \nSerial \nNumber: \nCN68F"
+      },
+      {
+        "name": "Serial \nNumber",
+        "role": "extracted",
+        "context": "HP \nOfficeJet \nPro \n8720 \nSerial \nNumber: \nCN68F060C1 \n40 \nIP \nAddress"
+      },
+      {
+        "name": "Icelet \nPro",
+        "role": "extracted",
+        "context": "-28 \nL\nai\n \nDIRECT\n-a\n-HP \n011Icelet \nPro \n8720 \nEFTA00002196"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:27.029Z"
+}

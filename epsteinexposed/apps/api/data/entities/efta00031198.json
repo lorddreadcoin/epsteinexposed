@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031198",
+    "filename": "EFTA00031198.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031198.pdf",
+    "text": "\n\nFrom \nTo \nSubject: \n• \nuestions re: or court \nDate: Wed, 01 Dec 2021 03:03:03 +0000 \nAttachments: 2021.11.30_US_v._Maxwell_Govemment ExhibitindexiAdmitted).pdf \nHi all, \nTwo questions for you. \n1. Do you have 3500 you want to get out tonight? \n2. Khalilah asked me at the end of the day if we could send her a list of all admitted exhibits so far. I've checked my \nnotes of what was admitted against the transcript. Does one of you want to send her the attached (and note that \nDXs LV-3A, LV-3B, LV-4, LV-5, and J-3 were also admitted), or would you like me to do so? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 Saint Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00031198",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: \n• \nuestions re: or"
+      },
+      {
+        "name": "Govemment Exhibitindexi",
+        "role": "extracted",
+        "context": "nts: 2021.11.30_US_v._Maxwell_Govemment ExhibitindexiAdmitted).pdf \nHi all, \nTwo qu"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "u like me to do so? \nThanks, \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Saint Andrew",
+        "role": "extracted",
+        "context": "Attorney's Office I \nSDNY \n1 Saint Andrew's Plaza \nNew York, \nNY 10007"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ice I \nSDNY \n1 Saint Andrew's Plaza \nNew York, \nNY 10007 \nEFTA00031198"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.515Z"
+}

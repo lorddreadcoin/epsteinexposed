@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020994",
+    "filename": "EFTA00020994.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020994.pdf",
+    "text": "\n\nFrom: \nTo: Gloria Allred <IMI> \nSubject: Automatic reply: E-TICKET RECEIPT -\nRef \nXHICCBU \nDate: Mon, 26 Aug 2019 16:11:00 +0000 \n- Travel Date: \n26AUG19 - \nlain currently on trial before the Honorable Ronnie Abrams. I will be checking email at the end of each trial da . If ou need immediate \nassistance in connection with United States v. E stein, 19 Cr. 490 (RMB), please contact AUSA For all other matters, \nplease contact AUSA Thank you. \nEFTA00020994",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Gloria Allred",
+        "role": "extracted",
+        "context": "From: \nTo: Gloria Allred <IMI> \nSubject: Automatic rep"
+      },
+      {
+        "name": "Travel Date",
+        "role": "extracted",
+        "context": "26 Aug 2019 16:11:00 +0000 \n- Travel Date: \n26AUG19 - \nlain currently o"
+      },
+      {
+        "name": "Honorable Ronnie",
+        "role": "extracted",
+        "context": "currently on trial before the Honorable Ronnie Abrams. I will be checking em"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.784Z"
+}

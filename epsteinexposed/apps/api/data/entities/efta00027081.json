@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027081",
+    "filename": "EFTA00027081.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027081.pdf",
+    "text": "\n\nFrom: \"I=EM\n> \nTo: nalE=m>\nSubject: \nSuppression Opp \nDate: Sun, 21 Feb 2021 22:57:33 +0000 \nAttachments: Motion_ \nto_ \nSuppress_Opp_v5.docx \nHi team, \nI turned the edits suggested by the chiefs. Masked that I get this back to them tomorrow. I am hoping to get it back to \nthem by tomorrow early afternoon so I can turn their next round of edits and send to= to review as soon as possible. \nalready reviewed the initial draft I sent to the chiefs, but I wanted to make sure you all had an opportunity to \nreview and comment on this before I send this back to the chiefs. I know it is quite lengthy, so apologies in advance. \nThanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00027081",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Suppression Opp",
+        "role": "extracted",
+        "context": "I=EM\n> \nTo: nalE=m>\nSubject: \nSuppression Opp \nDate: Sun, 21 Feb 2021 22:57"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "gies in advance. \nThanks, \nM \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thanks, \nM \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.503Z"
+}

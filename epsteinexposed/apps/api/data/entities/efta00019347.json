@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019347",
+    "filename": "EFTA00019347.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019347.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nCc: ' \nSubject: RE: Proffer with witness \nDate: Wed, 14 Aug 2019 21:01:52 +0000 \nAttachments: Epstein_Investigative_Reports.pdf \nAs discussed. will join (who's the lead OIG agent) and we will join if we can. Can you send a calendar invite \nto the three of us? Thank you. \nFrom: \nSent: Wednesday, August 14, 2019 4:51 PM \nTo: \nCc: \nSubject: Proffer with witness \nHow is tomorrow (Thursday) at 2:30pm? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00019347",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "morrow (Thursday) at 2:30pm? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "at 2:30pm? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.730Z"
+}

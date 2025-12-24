@@ -1,0 +1,183 @@
+{
+  "document": {
+    "id": "efta00022542",
+    "filename": "EFTA00022542.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022542.pdf",
+    "text": "\n\nPTS DETAILS \nPerson Appearance \nUSMS No Weight I  Height 185 \na^0• \nLast Name \nEPSTEIN \nColors: Eye I  Hair 813/ 8 \nMOWN \nFirst Name \nJEFFREY \nSex I  Race \nMALE 1WHITE/WHITE HISPANIC \nMiddle Name \nEDWARD \nAddress \nNumbers \nStreet Address \n9 EAST 71ST \nFBI No == \nState I  Zip NY \n110021 \nSSN \nCity \nNEW YORK \nAlien No \nOther \nCitizenship \nus \nMarital Status \nSINGLE \nBirth \nPhone \nDOB \nOriginal Location \nPOB City State \nImport Date \n7/11/2019 \nArrest \nDate \n7PR€2019 \nAgain/ Cole \nFSI208 \nAgency Name \nFEDERAL BUREAU OF INVESTIGATION \nRemark \nOffenses \nMeet Foul Disposed No 1 Disposed Rants\nY NOT YET DISPOSED \nRemarks \n18 USC 3715D( TRAFFICKING CONSPIRACY \nANarl Offense \nSEX OFFENSE \nAnal \nStatus \nSeat \nCale a Date \n718/20/9 \nOto0y Me \nMere Date \nMUST NORMAL INTAKE/ARREST/COURT CASE \n7/812019 \nWT\n-TRUE WAITING FOR TRIAL TO CONFUTE \n7/8/2019 \nWI-CASE-RISME WAITING FOR CASE TO RESOLVE \n7/8/2019 \nAliases \nFirst Name \nJEFFREY \nLast \nE OMEN \nLocales \nNONE GIVEN \nOddities \nNONE GIVEN \nVehicles \nNONE GIVEN \nOR AVAILABLE AT DOWNLOAD \nOR AVAILABLE AT DOWNLOAD \nOR AVAILABLE AT DOWNLOAD \nPage: 1 of 2 Date: 7/29/2019 USMS Number \nEFTA00022542\n\nLicense \nOther Numbers \nPASSPORT NUMBER \nORIGINATING POLICE OR IDDMFICATION NUMBER \nSOCIAL SECURITY NUMBER \n-Name saver Makes Oty \nEmployers\nSlate Part accetact came. RemMs Sat Date \nRANKER \nSOUTHERN TRUST COMMIT \nKinfolks \nSELF EMPLOYED \namt \nilea 1 Age\nBROTHER EPSTEIN HARK \nFinancial \nNONE GIVEN OR \nMilitary \nNONE GIVEN OR \nRemarks \nNONE GIVEN OR \nAVAILABLE AT DOWNLOAD \nAVAILABLE AT DOWNLOAD \nAVAILABLE AT DOWNLOAD \nSheet Manna Sate zip cote \nI \n1 1 \nPage: 2 of 2 Date: 7129/2019 USMS Number \nEFTA00022543",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Person Appearance",
+        "role": "extracted",
+        "context": "PTS DETAILS \nPerson Appearance \nUSMS No Weight I  Height 185"
+      },
+      {
+        "name": "No Weight",
+        "role": "extracted",
+        "context": "AILS \nPerson Appearance \nUSMS No Weight I  Height 185 \na^0• \nLast Nam"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "o Weight I  Height 185 \na^0• \nLast Name \nEPSTEIN \nColors: Eye I  Hair"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "rs: Eye I  Hair 813/ 8 \nMOWN \nFirst Name \nJEFFREY \nSex I  Race \nMALE 1"
+      },
+      {
+        "name": "Middle Name",
+        "role": "extracted",
+        "context": "MALE 1WHITE/WHITE HISPANIC \nMiddle Name \nEDWARD \nAddress \nNumbers \nSt"
+      },
+      {
+        "name": "Address \nNumbers",
+        "role": "extracted",
+        "context": "ISPANIC \nMiddle Name \nEDWARD \nAddress \nNumbers \nStreet Address \n9 EAST 71ST"
+      },
+      {
+        "name": "Street Address",
+        "role": "extracted",
+        "context": "me \nEDWARD \nAddress \nNumbers \nStreet Address \n9 EAST 71ST \nFBI No == \nStat"
+      },
+      {
+        "name": "Alien No",
+        "role": "extracted",
+        "context": "110021 \nSSN \nCity \nNEW YORK \nAlien No \nOther \nCitizenship \nus \nMari"
+      },
+      {
+        "name": "Other \nCitizenship",
+        "role": "extracted",
+        "context": "SN \nCity \nNEW YORK \nAlien No \nOther \nCitizenship \nus \nMarital Status \nSINGLE"
+      },
+      {
+        "name": "Marital Status",
+        "role": "extracted",
+        "context": "n No \nOther \nCitizenship \nus \nMarital Status \nSINGLE \nBirth \nPhone \nDOB \nO"
+      },
+      {
+        "name": "Birth \nPhone",
+        "role": "extracted",
+        "context": "us \nMarital Status \nSINGLE \nBirth \nPhone \nDOB \nOriginal Location \nPOB"
+      },
+      {
+        "name": "Original Location",
+        "role": "extracted",
+        "context": "s \nSINGLE \nBirth \nPhone \nDOB \nOriginal Location \nPOB City State \nImport Date"
+      },
+      {
+        "name": "City State",
+        "role": "extracted",
+        "context": "DOB \nOriginal Location \nPOB City State \nImport Date \n7/11/2019 \nArre"
+      },
+      {
+        "name": "Import Date",
+        "role": "extracted",
+        "context": "nal Location \nPOB City State \nImport Date \n7/11/2019 \nArrest \nDate \n7PR"
+      },
+      {
+        "name": "Arrest \nDate",
+        "role": "extracted",
+        "context": "tate \nImport Date \n7/11/2019 \nArrest \nDate \n7PR€2019 \nAgain/ Cole \nFSI20"
+      },
+      {
+        "name": "Agency Name",
+        "role": "extracted",
+        "context": "PR€2019 \nAgain/ Cole \nFSI208 \nAgency Name \nFEDERAL BUREAU OF INVESTIGAT"
+      },
+      {
+        "name": "Remark \nOffenses",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nRemark \nOffenses \nMeet Foul Disposed No 1 Disp"
+      },
+      {
+        "name": "Meet Foul",
+        "role": "extracted",
+        "context": "ESTIGATION \nRemark \nOffenses \nMeet Foul Disposed No 1 Disposed Rants"
+      },
+      {
+        "name": "Disposed No",
+        "role": "extracted",
+        "context": "Remark \nOffenses \nMeet Foul Disposed No 1 Disposed Rants\nY NOT YET DI"
+      },
+      {
+        "name": "Disposed Rants",
+        "role": "extracted",
+        "context": "nses \nMeet Foul Disposed No 1 Disposed Rants\nY NOT YET DISPOSED \nRemarks"
+      },
+      {
+        "name": "Narl Offense",
+        "role": "extracted",
+        "context": "15D( TRAFFICKING CONSPIRACY \nANarl Offense \nSEX OFFENSE \nAnal \nStatus \nS"
+      },
+      {
+        "name": "Anal \nStatus",
+        "role": "extracted",
+        "context": "ANarl Offense \nSEX OFFENSE \nAnal \nStatus \nSeat \nCale a Date \n718/20/9"
+      },
+      {
+        "name": "Seat \nCale",
+        "role": "extracted",
+        "context": "e \nSEX OFFENSE \nAnal \nStatus \nSeat \nCale a Date \n718/20/9 \nOto0y Me \nM"
+      },
+      {
+        "name": "Me \nMere",
+        "role": "extracted",
+        "context": "Cale a Date \n718/20/9 \nOto0y Me \nMere Date \nMUST NORMAL INTAKE/ARRE"
+      },
+      {
+        "name": "Aliases \nFirst",
+        "role": "extracted",
+        "context": "OR CASE TO RESOLVE \n7/8/2019 \nAliases \nFirst Name \nJEFFREY \nLast \nE OMEN"
+      },
+      {
+        "name": "License \nOther",
+        "role": "extracted",
+        "context": "19 USMS Number \nEFTA00022542\n\nLicense \nOther Numbers \nPASSPORT NUMBER \nORI"
+      },
+      {
+        "name": "Makes Oty",
+        "role": "extracted",
+        "context": "SECURITY NUMBER \n-Name saver Makes Oty \nEmployers\nSlate Part accetac"
+      },
+      {
+        "name": "Employers\nSlate",
+        "role": "extracted",
+        "context": "UMBER \n-Name saver Makes Oty \nEmployers\nSlate Part accetact came. RemMs Sat"
+      },
+      {
+        "name": "Ms Sat",
+        "role": "extracted",
+        "context": "Slate Part accetact came. RemMs Sat Date \nRANKER \nSOUTHERN TRUST"
+      },
+      {
+        "name": "Sheet Manna",
+        "role": "extracted",
+        "context": "NLOAD \nAVAILABLE AT DOWNLOAD \nSheet Manna Sate zip cote \nI \n1 1 \nPage:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-11",
+        "event": "7/11/2019"
+      },
+      {
+        "date": "2019-07-08",
+        "event": "7/8/2019"
+      },
+      {
+        "date": "2019-07-29",
+        "event": "7/29/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:07.114Z"
+}

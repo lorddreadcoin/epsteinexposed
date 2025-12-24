@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00026571",
+    "filename": "EFTA00026571.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026571.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: The Sun article \nDate: Sun, 07 Jun 2020 22:47:56 +0000 \nhttps://www.thesun.co.ukinews/11805488/prince-andrew-quizzed-over-jeffrey-epstein-links/ \nAssistant United States \nAttorney \nSouthern District of New York \nNew York \nNY \n10007 \nTel.: \nFax: \nEFTA00026571",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "The Sun",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: The Sun article \nDate: Sun, 07 Jun 20"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "-over-jeffrey-epstein-links/ \nAssistant United States \nAttorney \nSouthern Di"
+      },
+      {
+        "name": "States \nAttorney",
+        "role": "extracted",
+        "context": "tein-links/ \nAssistant United States \nAttorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tant United States \nAttorney \nSouthern District of New York \nNew York \nNY \n10"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.587Z"
+}

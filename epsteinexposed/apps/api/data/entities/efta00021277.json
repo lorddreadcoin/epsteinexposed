@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00021277",
+    "filename": "EFTA00021277.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021277.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Re: Daily Beast has it \nDate: Sun, 07 Jul 2019 01:17:35 +0000 \nImportance: Normal \nNY Times has it: https://www.google.com/amp/s/www.nytimes.com/2019/07/06/nmgion/jeffrey-e  stein-\narrested-sex-trafficking.amp.html\nOn Jul 6, 2019, at 9:13 PM, vrote: \nMiami Herald has it now too \nhttps://www.google.com/amp/s/amp.miamiherald.corninews/state/florida/article232374872.html \nSent from my iPhone \nOn \nJul 6, 2019, at 9:10 PM, wrote: \nYeah they're literally just leaking the press release — \nThe case is being handled by the Public \nCorruption Unit of the Southern District of \nNew York, with assistance from the district's human-trafficking officials and the \nFBI. \nand the sealed indictment — \naccording to details of the arrest \nand indictment shared by two officials. \nFrom \nSent: Saturday, July 06, 2019 21:08 \nTo: \nCc: \nSubject: Re: Daily Beast has it \nAnd now is reporting that it's our unit \nSent from my iPhone \nOn Jul 6, 2019, at 8:06 PM, mote: \nhttps://www.thedailybeast.comijeffreyspstein-arrested-for-sex-trafficking-of-minors-source \nFBI is leaking the content of the indictment. \nEFTA00021277\n\nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021278",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Daily Beast",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Re: Daily Beast has it \nDate: Sun, 07 Jul 201"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "sted-sex-trafficking.amp.html\nOn Jul 6, 2019, at 9:13 PM, vrote:"
+      },
+      {
+        "name": "Miami Herald",
+        "role": "extracted",
+        "context": "6, 2019, at 9:13 PM, vrote: \nMiami Herald has it now too \nhttps://www.g"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "232374872.html \nSent from my iPhone \nOn \nJul 6, 2019, at 9:10 PM, wro"
+      },
+      {
+        "name": "Public \nCorruption",
+        "role": "extracted",
+        "context": "case is being handled by the Public \nCorruption Unit of the Southern District"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ublic \nCorruption Unit of the Southern District of \nNew York, with assistance"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ent shared by two officials. \nFrom \nSent: Saturday, July 06, 2019 21:0"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "EFTA00021277\n\nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-06",
+        "event": "July 06, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.334Z"
+}

@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00014121",
+    "filename": "EFTA00014121.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014121.pdf",
+    "text": "\n\nFrom: (USAFLS)\" alMIN> \nTo: (USAFLS)\" alMIN> \nSubject: Re: Agreement \nDate: Thu, 14 Aug 2008 13:59:10 +0000 \nImportance: Normal \nOk \n--- Original Message \nFrom: (USAFLS) \nTo: (USAFLS) \nSent: Thu Aug 14 09:58:36 2008 \nSubject: Agreement \nHi IM —  Just talked to and he disagrees with our strategy. He is going to call and explain his reasoning. Here are the three \ndocuments. \n«Epstein \nAgnnt001.pdra> \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014121",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Agreement \nDate",
+        "role": "extracted",
+        "context": "USAFLS)\" alMIN> \nSubject: Re: Agreement \nDate: Thu, 14 Aug 2008 13:59:10 +0"
+      },
+      {
+        "name": "Normal \nOk",
+        "role": "extracted",
+        "context": "8 13:59:10 +0000 \nImportance: Normal \nOk \n--- Original Message \nFrom:"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "Importance: Normal \nOk \n--- Original Message \nFrom: (USAFLS) \nTo: (USAFLS)"
+      },
+      {
+        "name": "Thu Aug",
+        "role": "extracted",
+        "context": "(USAFLS) \nTo: (USAFLS) \nSent: Thu Aug 14 09:58:36 2008 \nSubject: Ag"
+      },
+      {
+        "name": "Agreement \nHi",
+        "role": "extracted",
+        "context": "ug 14 09:58:36 2008 \nSubject: Agreement \nHi IM —  Just talked to and he d"
+      },
+      {
+        "name": "Epstein \nAgnnt",
+        "role": "extracted",
+        "context": "e are the three \ndocuments. \n«Epstein \nAgnnt001.pdra> \nAssistant U.S. Atto"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "gnnt001.pdra> \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014121"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.188Z"
+}

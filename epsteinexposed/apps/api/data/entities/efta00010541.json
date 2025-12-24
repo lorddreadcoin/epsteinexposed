@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00010541",
+    "filename": "EFTA00010541.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010541.pdf",
+    "text": "\n\n(USANYS)\" \nSubject: FW: Yesterday's Epstein hearing \nDate: Tue, 25 Jun 2019 13:55:03 +0000 \nImportance: Normal \nIn case you didn't see: \nFrom: SANYS) [Contractor] \nSent: Tuesda June 25, 2019 9:50 AM \nTo:(USANYS) c> USANYS)  >; \n(USANYS); (USANYS) \nSubject: Yesterday's Epstein hearing \nhttps://www.miamiherald.cominewsistate/florida/article231916968.html \nSpecial Assistant to the U.S. Attorney \n• rney's Office, SDNY \nEFTA00010541",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nIn",
+        "role": "extracted",
+        "context": "9 13:55:03 +0000 \nImportance: Normal \nIn case you didn't see: \nFrom: S"
+      },
+      {
+        "name": "Tuesda June",
+        "role": "extracted",
+        "context": "m: SANYS) [Contractor] \nSent: Tuesda June 25, 2019 9:50 AM \nTo:(USANYS)"
+      },
+      {
+        "name": "Special Assistant",
+        "role": "extracted",
+        "context": "lorida/article231916968.html \nSpecial Assistant to the U.S. Attorney \n• rney'"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-06-25",
+        "event": "June 25, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:42.182Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00001361",
+    "filename": "EFTA00001361.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0002\\EFTA00001361.pdf",
+    "text": "\n\nSearch \nPersoonel Name\nS:T77\n41INIPMEIPMS1 \nAmmeY\nCoot. Number \nStara \nCompleted \n(Mat X Is Bo* \nEFTA00001361",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search \nPersoonel",
+        "role": "extracted",
+        "context": "Search \nPersoonel Name\nS:T77\n41INIPMEIPMS1 \nAmm"
+      },
+      {
+        "name": "Number \nStara",
+        "role": "extracted",
+        "context": "77\n41INIPMEIPMS1 \nAmmeY\nCoot. Number \nStara \nCompleted \n(Mat X Is Bo* \nEF"
+      },
+      {
+        "name": "Is Bo",
+        "role": "extracted",
+        "context": "ber \nStara \nCompleted \n(Mat X Is Bo* \nEFTA00001361"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:25.444Z"
+}

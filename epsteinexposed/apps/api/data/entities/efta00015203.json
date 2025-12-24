@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015203",
+    "filename": "EFTA00015203.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015203.pdf",
+    "text": "\n\nFrom: \"Strauss, Audrey \n(USANYS)\"  \nTo: \nSubject: FW: Q and A \nDate: Tue, 30 Jun 2020 19:24:38 +0000 \nAttachments: \nMaxwell_possible_QA_v2.docx \nFor our 3:30 Q and A prep \nFrom: \nSent: Tuesday, June 30, 2020 2:47 PM \nTo: Strauss, Audrey (USANYS) \nSubject: RE: Q and A \nFrom: Strauss, Audrey (USANYS) \nSent: Tuesday, June 30, 2020 2:41 PM \nTo: \nSubject: Q and A \n< \nWould you please resend? \nAudrey Strauss \nDeputy United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel.: \nEFTA00015203",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Audrey Strauss",
+        "role": "extracted",
+        "context": "< \nWould you please resend? \nAudrey Strauss \nDeputy United States Attorne"
+      },
+      {
+        "name": "Deputy United",
+        "role": "extracted",
+        "context": "ease resend? \nAudrey Strauss \nDeputy United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Audrey Strauss \nDeputy United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel.:"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-30",
+        "event": "June 30, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.194Z"
+}

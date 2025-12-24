@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00031403",
+    "filename": "EFTA00031403.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031403.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: ' (USANYS)\"  \nSubject: RE: \nDate: Thu, 31 Oct 2019 13:31:19 +0000 \nSure. \nI'm leaving early today for trick or treating, but will still be around then. \nFrom: (USANYS) < \nSent: Thursday, October 31, 2019 9:31 AM \nTo: (USANYS) < \nSubject: Fwd: \nOkay for me - good for you? \nSent from my iPhone \nBegin forwarded message: \nFrom: ' . (NY) (FBI)\"\nDate: October \n3 I   2019 at 8:31:20 AM EDT \nTo: '     (USANYS)\" \nSubject: \nRE: \nWant to do a call at 3? \n(USANYS)\" \nOn Oct 30, 2019 6:29 PM,' (USANYS)\" a> wrote: \nWe met with our team this afternoon. You have time to catch up tomorrow or Friday afternoon? \nFrom: \n• (NY) \n(FBI) sc\n)* \nSent: Wednesday, October 30, 2019 3:44 PM \nTo: (USANYS) cc:3 (USANYS)  \nl> \nSubject: \nThoughts on Epstein status meeting? \nEFTA00031403",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "good for you? \nSent from my iPhone \nBegin forwarded message: \nFrom: ' ."
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "o do a call at 3? \n(USANYS)\" \nOn Oct 30, 2019 6:29 PM,' (USANYS)\""
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-31",
+        "event": "October 31, 2019"
+      },
+      {
+        "date": "2019-10-30",
+        "event": "October 30, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.008Z"
+}

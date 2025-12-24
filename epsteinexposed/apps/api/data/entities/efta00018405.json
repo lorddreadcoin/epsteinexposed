@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "efta00018405",
+    "filename": "EFTA00018405.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018405.pdf",
+    "text": "\n\nFrom: \nTo:  )\"\n ci \nSubject: Re: EMail 1  of 2: EPSTEIN - \nSr \n<I \nDate: Thu, 29 Oct 2020 18:03:07 +0000 \n,  signed application/affidavit \nYou are the best! \nOn Oct 29, 2020, at 2:02 PM, ) < \nYep, I sent \nThanks! \n> wrote: \nthe attachments, saved them on the share, and included them in the discovery production folder. \nFrom: \n(\n) \nSent: Thursday, October 29, 2020 2:O0 PM \nTo: \nSubject: Re: EMail 1 of 2: EPSTEIN - signed application/affidavit \nI think the application had attachments right? We should include those on the version we save on the shared (you are \nprobably on top of this already) \nOn Oct 29, 2020, at 1:45 PM, wrote: \nAttached are the signed warrant materials. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nFrom: \nSent: Thursday, October 29, 2020 11:51 AM \nTo: \nCc: \nSubject: FW: EMail 1 of 2: EPSTEIN - signed application/affidavit \nGood Morning \nYour signed Warrants are attached. \nEFTA00018405\n\n<finage003.jpg> \nArraignment Unit Clerk \nUnited States District Court \nf New York \nFrom: \nSent: Wednesday, October 28, 2020 7:18 PM \nTo: \nCc: \nSubject: FW: EMail 1 of 2: EPSTEIN - signed application/affidavit \nFrom \nSent: Tuesday, October 27, 2020 7:18 PM \nTo: \nSubject: EMail 1 of 2: EPSTEIN - signed \napplication/affidavit \nUSDC-SDNY \nSent from my mobile device \nCO MAG 11668 df> \nCO MAG 11668. .pdf> \nEFTA00018406",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "affidavit \nYou are the best! \nOn Oct 29, 2020, at 2:02 PM, ) < \nYe"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "warrant materials. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      },
+      {
+        "name": "Good Morning",
+        "role": "extracted",
+        "context": "signed application/affidavit \nGood Morning \nYour signed Warrants are att"
+      },
+      {
+        "name": "Arraignment Unit",
+        "role": "extracted",
+        "context": "FTA00018405\n\n<finage003.jpg> \nArraignment Unit Clerk \nUnited States District"
+      },
+      {
+        "name": "Clerk \nUnited",
+        "role": "extracted",
+        "context": "age003.jpg> \nArraignment Unit Clerk \nUnited States District Court \nf New"
+      },
+      {
+        "name": "States District",
+        "role": "extracted",
+        "context": "rraignment Unit Clerk \nUnited States District Court \nf New York \nFrom: \nSen"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "signed application/affidavit \nFrom \nSent: Tuesday, October 27, 2020 7:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-29",
+        "event": "October 29, 2020"
+      },
+      {
+        "date": "2020-10-28",
+        "event": "October 28, 2020"
+      },
+      {
+        "date": "2020-10-27",
+        "event": "October 27, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.845Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00010129",
+    "filename": "EFTA00010129.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010129.pdf",
+    "text": "\n\nFrom: \nTo: \n(CRM)\" < \nSANYS)\" \nSubject: letter \nreferencing Ghislaine Maxwell \nDate: Tue, 09 Nov 2021 12:33:02 +0000 \nAttachments: Zgmail.com_-_incoming.eml.pdf; 20210626_093804.jpg \nP,usdoj.gov> \nColleagues, \nMy office received the attached email as citizen correspondence. Because it references Jeffrey Epstein and \nGhislaine Maxwell, I am forwarding it to you for whatever consideration you deem appropriate. Consistent \nwith our standard response, we will simply advise the writer to contact the FBI. Please let me know if you have \nany questions. Thanks very much, \nDeputy Chief tor Policy and Legislation \nChild Exploitation and Obscenity Section \nU.S. Department of Justice \n(mobile) \nEFTA00010129",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "as citizen correspondence. Because it references Jeffrey Epstein and \nGhislaine Maxwell, I am forwarding it to you"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "(CRM)\" < \nSANYS)\" \nSubject: letter \nreferencing Ghislaine Maxwell \nDate: Tue, 09 Nov 2021 12:33:02 +0000 \nAttachmen"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "questions. Thanks very much, \nDeputy Chief tor Policy and Legislation \nC"
+      },
+      {
+        "name": "Legislation \nChild",
+        "role": "extracted",
+        "context": "Deputy Chief tor Policy and Legislation \nChild Exploitation and Obscenity Se"
+      },
+      {
+        "name": "Obscenity Section",
+        "role": "extracted",
+        "context": "ation \nChild Exploitation and Obscenity Section \nU.S. Department of Justice"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.335Z"
+}

@@ -1,0 +1,66 @@
+{
+  "document": {
+    "id": "efta00013550",
+    "filename": "EFTA00013550.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013550.pdf",
+    "text": "\n\nFrom: \" . (USAFLS)\" < \nTo: \"-(USAFLS)\" \nSubject: RE: Any word on Epstein? \nDate: Fri, 28 Mar 2008 18:39:41 +0000 \nImportance: Normal \nYes. The doctor thinks my recovery is miraculous. I should be back in on Monday, but probably only for a half-day. \nAssistant U.S. Attorney \nFax 561 820-8777 \n----Ori inal Message \nFrom: (USAFLS) \nSent: Frida , March 28, 2008 2:39 PM \nTo: . (USAFLS) \nSubject: Re: Any word on Epstein? \nThanks. R u ok? \n--------- ---------- ---\nSent from my BlackBerry Wireless Handheld \nOriginal Messa e —\nFrom: . (USAFLS) \nTo: (USAFLS) \nSent: Fri Mar 28 14:38:04 2008 \nSubject: RE: Any word on Epstein? \nI heard you had knee surgery. Hope everything is okay. \nI explained to MI that our grand jury will not have a quorum on April 8th, so if we do not indict on April 1st we have to wait \nuntil the 15th. \nAssistant U.S. Attorney \nFax 561 820-8777 \nFrom: (USAFLS) \nSent: Frida March 28, 2008 10:25 AM \nTo: (USAFLS) \nSubject: RE: Any word on Epstein? \nNo but I'll see what I can find out. \n. (USAFLS) \nMarch 27, 2008 2:20 PM \nUSAFLS); -\n(USAFLS) \nSubject: Any word on Epstein? \n(USAFLS) \nHi all —  I am finally home from the hospital. I was wondering whether you have heard anything. \nEFTA00013550\n\nThank you. \nAssistant U.S. Attorney \nFax 561 820-8777 \nEFTA00013551",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nYes",
+        "role": "extracted",
+        "context": "8 18:39:41 +0000 \nImportance: Normal \nYes. The doctor thinks my recover"
+      },
+      {
+        "name": "Attorney \nFax",
+        "role": "extracted",
+        "context": "r a half-day. \nAssistant U.S. Attorney \nFax 561 820-8777 \n----Ori inal Me"
+      },
+      {
+        "name": "Message \nFrom",
+        "role": "extracted",
+        "context": "ax 561 820-8777 \n----Ori inal Message \nFrom: (USAFLS) \nSent: Frida , Marc"
+      },
+      {
+        "name": "Berry Wireless",
+        "role": "extracted",
+        "context": "------- ---\nSent from my BlackBerry Wireless Handheld \nOriginal Messa e —"
+      },
+      {
+        "name": "Handheld \nOriginal",
+        "role": "extracted",
+        "context": "t from my BlackBerry Wireless Handheld \nOriginal Messa e —\nFrom: . (USAFLS) \nT"
+      },
+      {
+        "name": "Fri Mar",
+        "role": "extracted",
+        "context": "(USAFLS) \nTo: (USAFLS) \nSent: Fri Mar 28 14:38:04 2008 \nSubject: RE"
+      },
+      {
+        "name": "Frida March",
+        "role": "extracted",
+        "context": "0-8777 \nFrom: (USAFLS) \nSent: Frida March 28, 2008 10:25 AM \nTo: (USAFL"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-03-28",
+        "event": "March 28, 2008"
+      },
+      {
+        "date": "2008-03-27",
+        "event": "March 27, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "561 820-8777"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.848Z"
+}

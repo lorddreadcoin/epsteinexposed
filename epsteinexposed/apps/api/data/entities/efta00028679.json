@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00028679",
+    "filename": "EFTA00028679.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028679.pdf",
+    "text": "\n\nFrom \nSubject: FW: OPR Epstein Final Report \nDate: Mon, 16 Nov 2020 20:31:56 +0000 \nAttachments: OPR-_458587-v1-Epstein_Report_transmittal_to_SDNYiletter signed).PDF; OPR-\n_458557-v1-Epstein_Report_of Investigation_and_Exhibits_pd1PDF \nSent: Thursday, November 12, 2020 10:07 AM \nTo: Strauss, Audrey (USANYS) \nCc: (USANYS) sc>; \nSubject: OPR Epstein Final Report \nOPR) \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00028679",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ") \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \nEFTA00028679"
+      },
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "From \nSubject: FW: OPR Epstein Final Report"
+      },
+      {
+        "name": "Epstein Final",
+        "role": "extracted",
+        "context": "From \nSubject: FW: OPR Epstein Final Report \nDate: Mon, 16 Nov 202"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "ubject: FW: OPR Epstein Final Report \nDate: Mon, 16 Nov 2020 20:31:56 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-12",
+        "event": "November 12, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.719Z"
+}

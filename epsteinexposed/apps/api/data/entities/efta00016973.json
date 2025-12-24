@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00016973",
+    "filename": "EFTA00016973.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016973.pdf",
+    "text": "\n\nFrom: Bruce Barket <bbarket@barketepstein.com> \nTo: \nCc: Aida Leisenrin \nSubject: viewing evi ince \nDate: Fri. 10 Jan 2020 14:19:15 +0000 \nI am told by hat you will arrange for us to view physical evidence from the July 23rd attempted suicide by \nJeffery Epstein while he was incarcerated in the same cell as Mr. Tartaglione. Please let us know some dates and times for \nthe viewing. Thanks \nBruce A. Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP \nwww.barketepstein.com \nThis transmittal may be a confidential attorney client communication or may otherwise be privileged or confidential. If it is not clear \nthat you are the intended recipient, you are hereby notified that you have received this transmittal in error; any review, dissemination, \ndistribution or copying of this transmittal is strictly prohibited. If you suspect that you have received this communication in error, \nplease notify us immediately by telephone or email and immediately delete this message and all its attachments \nEFTA00016973",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tartaglione",
+        "role": "extracted",
+        "context": "arcerated in the same cell as Mr. Tartaglione. Please let us know some"
+      },
+      {
+        "name": "Bruce Barket",
+        "role": "extracted",
+        "context": "From: Bruce Barket <bbarket@barketepstein.com>"
+      },
+      {
+        "name": "Aida Leisenrin",
+        "role": "extracted",
+        "context": "@barketepstein.com> \nTo: \nCc: Aida Leisenrin \nSubject: viewing evi ince \nD"
+      },
+      {
+        "name": "Jeffery Epstein",
+        "role": "extracted",
+        "context": "ly 23rd attempted suicide by \nJeffery Epstein while he was incarcerated in"
+      },
+      {
+        "name": "Thanks \nBruce",
+        "role": "extracted",
+        "context": "s and times for \nthe viewing. Thanks \nBruce A. Barket, Esq. \nBarket Epste"
+      },
+      {
+        "name": "Barket Epstein",
+        "role": "extracted",
+        "context": "hanks \nBruce A. Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP"
+      },
+      {
+        "name": "Kearon Aldea",
+        "role": "extracted",
+        "context": "Barket, Esq. \nBarket Epstein Kearon Aldea & LoTurco, LLP \nwww.barketeps"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.787Z"
+}

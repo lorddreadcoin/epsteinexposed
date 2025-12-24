@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019021",
+    "filename": "EFTA00019021.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019021.pdf",
+    "text": "\n\nFrom: ' \nTo:' \n(USANYS)\" < \n(USANYS) [Contractorl\" < \nSubject: FW: Maxwell Review \nDate: Wed, 17 Mar 2021 19:32:43 +0000 \nFrom: (USANYS) <> \nSent: Wednesday, March 17, 2021 3:26 PM \nTo: (USANYS) < (USANYS) \n< \nCc: (USANYS) \nSubject: RE: Maxwell Review \nGot it. \nFrom: (USANYS) \nSent: Wednesday, March 17, 2021 3:20 PM \nTo: (USANYS) \nCc: (USANYS) \nSubject: Maxwell Review \nHi \n(USANYS)<> \nJust want to put an issue on your radar. As you may recall, we paid a vendor to scan the SDFL Epstein file in October, and \nwe are hopeful that it will be loaded into Relativity by the end of March (the delay was unfortunate, but we're hopeful \nPAE can make it happen soon). In order to meet pretrial disclosure deadlines, we need to review the file (which we \nunderstand to be 30k documents) to determine what has already been produced. We have recruited 4 paralegals and an \nintern in PC to help conduct this review, and have requested an additional 3-4 paralegals from Darcy to assist. The \ndeadline is the end of April, so the team has about a month to complete the review. \nHappy to discuss any further if you have any questions. \nThanks very much, \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nCell \nEFTA00019021",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Review",
+        "role": "extracted",
+        "context": "[Contractorl\" < \nSubject: FW: Maxwell Review \nDate: Wed, 17 Mar 2021 19:32"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "uestions. \nThanks very much, \nDeputy Chief, Public Corruption Unit \nU.S."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "nks very much, \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ruption Unit \nU.S. Attorney's Office \nSouthern District of New York \nDesk \nC"
+      },
+      {
+        "name": "Desk \nCell",
+        "role": "extracted",
+        "context": "outhern District of New York \nDesk \nCell \nEFTA00019021"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-17",
+        "event": "March 17, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.129Z"
+}

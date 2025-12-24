@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00007704",
+    "filename": "EFTA00007704.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007704.pdf",
+    "text": "\n\n'V\n€ST1UA \n;.( \n-10111. \nFEBWIt \nBUREAU OF \nINVESTIGATION \niv\nFEDERAL BU \n* \nEFTA00007704\n\nIZ\n-\nLELI \nOZ-LIII \nEFTA00007705\n\nAll \ndocuments and \nPhotographs \nEnclosed \nhave been \nDigitized. \nNegatives \nand/or \nmedia \nhave \nnot \nbeen \ncaptured. \nOL-02 Media v0.1 \nApril 3018 \nEFTA00007706\n\nPALM BEACH POLICE \nDEPARTMENT 05-368 \nEFTA00007707\n\nos - lo g .)--\nEFTA00007708\n\n)S 7- ~ \nL \nEFTA00007709\n\n1\n11111 \nI/ \nI \n©'Y \n(octi \nOA \nEFTA00007710\n\nITEM \nWAS NOT \nSCANNED \nDESCRIPTION \nEFTA00007711\n\ni \nEFTA00007712\n\nPALM BEACH POLICE DEPARTMENT 05-368 \nEFTA00007713",
+    "pageCount": 10,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Photographs \nEnclosed",
+        "role": "extracted",
+        "context": "00007705\n\nAll \ndocuments and \nPhotographs \nEnclosed \nhave been \nDigitized. \nNegat"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "3018-04-01",
+        "event": "1 \nApril 3018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.221Z"
+}

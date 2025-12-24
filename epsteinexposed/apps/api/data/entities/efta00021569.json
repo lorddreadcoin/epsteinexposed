@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00021569",
+    "filename": "EFTA00021569.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021569.pdf",
+    "text": "\n\nFrom: \nTo: r \nCc: \nSubject: RE: SDNY investigation (re: Epstein) \nDate: Tue, 16 Jul 2019 18:09:24 +0000 \n, \"Mark S. \nCohen\" \nThanks, MI. That works for us. We'll see you at 5pm. \nFrom: \nSent: Tuesday, July 16, 2019 2:07 PM \nTo: Christian Everdell; Mark S. Cohen \nCc: \nSubject: RE: SDNY \ninvestigation (re: Epstein) \nChris, \nSorry to have missed your call, and I hope you and Mark are still able to get this —  we can meet at 5:00 today, if that's \nconvenient for you both, and I'm happy to ask the CSOs to allow you to retain your phones. Please let us know if that \nworks, and we'll put it on our calendars. \nthanks, \nFrom: Christian Everdell \nSent: Tuesday, July 16, 2019 13:38 \nTo: \nCc: \nSubject: RE: SDNY investigation (re: Epstein) \nHi= - \n>; \nMark S. Cohen \nI just tried your desk. Do we have a time this afternoon when you can meet? Let us know as soon as you can because \nMark will be in court soon and will not have his phone. \nAlso, would you mind asking the CSOs to allow us to bring our phones into the building? Let me know if that's a problem. \nThanks, \nChris \nFrom: \nSent: Monday, July 15, 2019 7:57 PM \nTo: Christian Everdell; Mark S. Cohen \nCc: \nSubject: RE: SDNY \ninvestigation (re: Epstein) \nChris, Mark, \nEFTA00021569\n\nFollowing up on my very brief conversation with Chris earlier this afternoon, and the voicemail you left earlier, thanks for \ngetting in touch regarding your representation of Ms. Maxwell. I understand you'll be in our neighborhood tomorrow \nafternoon; we can make ourselves available to meet, but will that have been enough time for you to speak with your \nclient? Let us know what you think would be best to proceed, and we'll figure out next steps. \nthanks, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021570",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "arding your representation of Ms. Maxwell. I understand you'll be i"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "y, July 16, 2019 2:07 PM \nTo: Christian Everdell; Mark S. Cohen \nCc: \nSubject:"
+      },
+      {
+        "name": "Cohen \nCc",
+        "role": "extracted",
+        "context": ": Christian Everdell; Mark S. Cohen \nCc: \nSubject: RE: SDNY \ninvestig"
+      },
+      {
+        "name": "Chris \nFrom",
+        "role": "extracted",
+        "context": "f that's a problem. \nThanks, \nChris \nFrom: \nSent: Monday, July 15, 2019"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthanks, \nM \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thanks, MI",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-07-16",
+        "event": "July 16, 2019"
+      },
+      {
+        "date": "2019-07-15",
+        "event": "July 15, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.923Z"
+}

@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00015337",
+    "filename": "EFTA00015337.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015337.pdf",
+    "text": "\n\nFrom: ' USANYS)\"  \nTo: ' YS) 4\" czl \nSubject: FW: Epstein \nDate: Thu, 24 Jan 2019 14:20:27 +0000 \nImportance: Normal \nAttachments: Letter_l.pdf \nNot sure if this went through last night. Prepare to be disgusted. \nFrom: \nSent: Wednesday, January 23, 2019 6:39 PM \nTo: (USANYS) \nCc: (USANYS) \n(USANYS) \nSubject: RE: Epstein \nYes, got 'em, but unfortunately most of the files are too big to send via email— I'll send an email to Lou asking for share \ndrive access for you both, and when you get access the defense letters we currently have are here (the smallest one is \nattached): \nUsa.doj.gov\\ clouaNYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationViflorida Scans \\Jeffrey \nEpstein \\Letters from Epstein's attorneys \nand the indictment materials we currently have, including draft indictments, are here: \nUsa.doj.gov\\ clouaNYS StAndrews \\Shared \\ USvEpstein-2018R01618 InvestigationViflorida Scans \\Jeffrey Epstein\\GJ\nthanks, \nAlex. \nFrom: (USANYS) \nc\nSent: Wednesday, January 23, 2019 18:25 \nTo: \nAbigail (USANYS) \nCc: (USANYS) \n< \nSubject: Epstein \n!c> \n>; \nKurland, \nAny progress in getting the scanned does from the trip? Particularly interested in seeing the draft indictment and defense \nsubmissions. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00015337",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "vEpstein-2018R01618 InvestigationViflorida Scans \\Jeffrey Epstein\\GJ\nthanks, \nAlex. \nFrom: (USANYS) \nc\nSent: Wednes"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "o: ' YS) 4\" czl \nSubject: FW: Epstein \nDate: Thu, 24 Jan 2019 14:20:27 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 14:20:27 +0000 \nImportance: Normal \nAttachments: Letter_l.pdf \nNot sure if th"
+      },
+      {
+        "name": "Epstein \nYes",
+        "role": "extracted",
+        "context": "ANYS) \n(USANYS) \nSubject: RE: Epstein \nYes, got 'em, but unfortunately m"
+      },
+      {
+        "name": "Viflorida Scans",
+        "role": "extracted",
+        "context": "stein-2018R01618 InvestigationViflorida Scans \\Jeffrey \nEpstein \\Letters fr"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "InvestigationViflorida Scans \\Jeffrey \nEpstein \\Letters from Epstein's attor"
+      },
+      {
+        "name": "Deputy Chief",
+        "role": "extracted",
+        "context": "nt and defense \nsubmissions. \nDeputy Chief, Public Corruption Unit \nU.S."
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "submissions. \nDeputy Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000153"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-01-23",
+        "event": "January 23, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.478Z"
+}

@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00030708",
+    "filename": "EFTA00030708.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030708.pdf",
+    "text": "\n\nFrom: )\"\nTo: \nCc: \" \" , \" )\" \n<  \" )\" \nSubject: Warrants \nDate: Tue, 10 Sep 2019 21:14:32 +0000 \nAttachments: USVI Devices SW v3.docx; SW for 6 binders v3.docx \nAttached are the final versions of the two warrants we need to swear out. One is for the six binders that were incorrectly \ndescribed in our prior warrant for the contents of the suitcases recovered from the New York residence. The second is for \nthe electronic devices seized in the Virgin Islands. \nPlease read both of these very closely and give me a call if you see any inaccuracies or errors. Once you're signed off, let \nme know, and I'll send these to the Judge. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00030708",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Warrants \nDate",
+        "role": "extracted",
+        "context": "\" \" , \" )\" \n<  \" )\" \nSubject: Warrants \nDate: Tue, 10 Sep 2019 21:14:32 +0"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "ctronic devices seized in the Virgin Islands. \nPlease read both of these v"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "these to the Judge. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nI  St. Andrew's"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nI  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00030708"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.494Z"
+}

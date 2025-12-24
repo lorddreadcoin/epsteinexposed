@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00018844",
+    "filename": "EFTA00018844.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018844.pdf",
+    "text": "\n\nCase 1:20-cr-00330-AJN Document 337 Filed 10/05/21 Page 1 of 1 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDKY \nDOCUMENT \nELECTRONICALLY FILED \nDOC 0: \nDATE \nFILED:10/5/21 \n20-CR-330 (AJN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is currently in the process of planning logistics for trial in this matter and \nrequires the parties' best and current estimate of length of trial. The Court plans to have the jury \nsit 5 days a week from 9am until 5pm. Given that jury selection will be complete by November \n19 and opening statements will occur on November 29, the Court requests that the parties \nprovide their best estimate as to when the jury is likely to begin deliberations. This will allow \nthe Court to assess the likelihood that trial may continue after the Christmas holiday and \ntherefore whether the jury may be required to sit some days during the week between Christmas \nand New Year's Day. Accordingly, on or before October 12, 2021, the parties are ORDERED to \nconfer and submit a joint letter with their best and current estimate as to when the jury is likely to \nbegin deliberations. \nSO \nORDERED. \nDated: October 5, 2021 \nNew York, New York \nNNW \n1 \nALISON J. NATHAN \nUnited States District Judge \nEFTA00018844",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "TRICT OF NEW YORK \nUnited States of America, \n—v—\nGhislaine Maxwell, \nDefendant. \nUSDC SDKY \nDOCUMENT \nELECTRONICALLY"
+      },
+      {
+        "name": "District Judge",
+        "role": "extracted",
+        "context": "JN) \nORDER \nALISON J. NATHAN, District Judge: \nThe Court is currently in t"
+      },
+      {
+        "name": "New Year",
+        "role": "extracted",
+        "context": "e week between Christmas \nand New Year's Day. Accordingly, on or bef"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-10-12",
+        "event": "October 12, 2021"
+      },
+      {
+        "date": "2021-10-05",
+        "event": "October 5, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.780Z"
+}

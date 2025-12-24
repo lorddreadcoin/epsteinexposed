@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024658",
+    "filename": "EFTA00024658.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024658.pdf",
+    "text": "\n\nFrom• \nTo: \nCc: \nSubject: New BOP Does \nDate: Fri, 24 Jul 2020 02:10:37 +0000 \nn\nIn the new materials from BOP, documents that should be withheld because they may impact Tartaglione are: \nFrom the \n\"All Dots\" \n272 —  286, 517-539, 543-562, 637-641, 657-661, 666-688, 772-778, 827-849, 861-871, 902-918 (reports related to July 23 \nincident/Epstein mental health) \n898 (Tartaglione disciplinary history, with reference to July 23 incident as well) \nFrom \nthe \"Assoc Warden\" \n62-64, 66-68, 166-168, 171-172, 174-176, 278-279, 303, 306, 347, 405 (reports related to July 23 incident/Epstein mental \nhealth) \n401-402 (Tartaglione disciplinary history, with reference to July 23 incident as well) \nLet me know if you have any questions. \nCo-Chief, Narcotics Unit \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nEFTA00024658",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Does \nDate",
+        "role": "extracted",
+        "context": "• \nTo: \nCc: \nSubject: New BOP Does \nDate: Fri, 24 Jul 2020 02:10:37 +0"
+      },
+      {
+        "name": "All Dots",
+        "role": "extracted",
+        "context": "Tartaglione are: \nFrom the \n\"All Dots\" \n272 —  286, 517-539, 543-56"
+      },
+      {
+        "name": "Assoc Warden",
+        "role": "extracted",
+        "context": "incident as well) \nFrom \nthe \"Assoc Warden\" \n62-64, 66-68, 166-168, 171-"
+      },
+      {
+        "name": "Narcotics Unit",
+        "role": "extracted",
+        "context": "ave any questions. \nCo-Chief, Narcotics Unit \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "nit \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.585Z"
+}

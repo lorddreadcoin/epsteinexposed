@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00026964",
+    "filename": "EFTA00026964.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026964.pdf",
+    "text": "\n\nFrom: \n'\n''' \nTo:'\nSubject: SDNY Non-Public Investigations and Matters for Transition \nDate: Wed, 13 Jan 2021 15:15:10 +0000 \nAttachments: SDNY_Non-publicinvestigationsi1.13.21).pdf \nAttached please find SDNY's response to the transition team's request for significant, non-public matters. Please let us \nknow if you need anything else. \nI \nChief \nCounsel \nU.S. Attorneys Office for the Southern District of New York \nOne St. Andrew's Plaza, New York. New York 10007 \nDesk: \nEFTA00026964",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Public Investigations",
+        "role": "extracted",
+        "context": "'\n''' \nTo:'\nSubject: SDNY Non-Public Investigations and Matters for Transition \nD"
+      },
+      {
+        "name": "Transition \nDate",
+        "role": "extracted",
+        "context": "nvestigations and Matters for Transition \nDate: Wed, 13 Jan 2021 15:15:10 +0"
+      },
+      {
+        "name": "Chief \nCounsel",
+        "role": "extracted",
+        "context": "f you need anything else. \nI \nChief \nCounsel \nU.S. Attorneys Office for th"
+      },
+      {
+        "name": "Attorneys Office",
+        "role": "extracted",
+        "context": "lse. \nI \nChief \nCounsel \nU.S. Attorneys Office for the Southern District of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "U.S. Attorneys Office for the Southern District of New York \nOne St. Andrew's"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza, New York. Ne"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.259Z"
+}

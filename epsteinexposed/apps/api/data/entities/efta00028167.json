@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00028167",
+    "filename": "EFTA00028167.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028167.pdf",
+    "text": "\n\nFrom: (USANYS)\" cz\nIMIE> \nTo: 'lf)\" \n' (BOP)\" \nCc: ' \" ' \nSubject: US v. Maxwell - Call tomorrow \nDate: Thu, 04 Nov 2021 04:51:19 +0000 \nAttachments: 20cr330_Order 1_11.3.21.pdf \nPlease see attached order Judge Nathan issued. Can we please schedule a call tomorrow to discuss? Please let us know \nwhat times work for you tomorrow. \nThanks very much, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nNew York, New York 10007 \nTel: \nEFTA00028167",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "df \nPlease see attached order Judge Nathan issued. Can we please schedul"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tomorrow. \nThanks very much, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.762Z"
+}

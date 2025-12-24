@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00018098",
+    "filename": "EFTA00018098.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018098.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: Discovery Letter in Maxwell \nDate: Tue, 03 Nov 2020 21:50:33 +0000 \nAttachments: 2020-10-07_GM _letter to judge_Nathan_re_discovery_from_other_agencies_(FINAL).pdf \nAssuming that's what you want it's attached. If not, just let me know and I'll try to get you what you're looking for. \nFrom \nSent: Tuesday, November 3, 2020 4:49 PM \nTo: \nSubject: RE: Discovery Letter in Maxwell \nSure —  which one? The one in which we outlined the various materials we planned to gather from other offices? \nFrom: \nSent: Tuesday, November 3, 2020 2:15 PM \nTo: \nSubject: Discovery Letter in Maxwell \nCan you send me the final as filed? I want to refer to it as an example to some other AUSAs. Tx \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018098",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Discovery Lette"
+      },
+      {
+        "name": "Discovery Letter",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Discovery Letter in Maxwell \nDate: Tue, 03 Nov"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "ject: RE: Discovery Letter in Maxwell \nDate: Tue, 03 Nov 2020 21:50:33 +0"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "you what you're looking for. \nFrom \nSent: Tuesday, November 3, 2020 4:"
+      },
+      {
+        "name": "Maxwell \nSure",
+        "role": "extracted",
+        "context": "ject: RE: Discovery Letter in Maxwell \nSure —  which one? The one in whic"
+      },
+      {
+        "name": "Maxwell \nCan",
+        "role": "extracted",
+        "context": "Subject: Discovery Letter in Maxwell \nCan you send me the final as file"
+      },
+      {
+        "name": "Tx \nUnited",
+        "role": "extracted",
+        "context": "example to some other AUSAs. Tx \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "some other AUSAs. Tx \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "Tx \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00018098"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-11-03",
+        "event": "November 3, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.169Z"
+}

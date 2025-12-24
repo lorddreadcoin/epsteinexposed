@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019662",
+    "filename": "EFTA00019662.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019662.pdf",
+    "text": "\n\nFrom: \" (OIG)\"  \nTo: ' (USANYS)\" czl \nSubject: Re: Question from HQ \nDate: Sat, 17 Aug 2019 00:21:09 +0000 \nI  will ask. That was all I got \nSent from mobile device, please excuse typos. \nSpecial Agent \nOffice of the Inspector General \nOn Aug 16, 2019, at 8:10 PM, \nWhat do you mean by \"memorialize phone calls\"? \nOn Aug 16, 2019, at 7:17 PM, \nand \n(USANYS) < wrote: \n. (OIG) < > wrote: \nMy HQ has the following question on the underlying case, can you please forward this to the prosecutors on the \nunderlying case? Thank you. \no  In addition to BOP policies, did SDNY have requirements to memorialize Epstein's phone calls related to \nthe underlying case? If so, were they followed? \nU.S. Department of Justice \nOffice of the Inspector General \nNew York Field Office \nEFTA00019662",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "device, please excuse typos. \nSpecial Agent \nOffice of the Inspector Gene"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "Special Agent \nOffice of the Inspector General \nOn Aug 16, 2019, at 8:10 PM,"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "ice of the Inspector General \nOn Aug 16, 2019, at 8:10 PM, \nWhat d"
+      },
+      {
+        "name": "Justice \nOffice",
+        "role": "extracted",
+        "context": "followed? \nU.S. Department of Justice \nOffice of the Inspector General \nNew"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "e Inspector General \nNew York Field Office \nEFTA00019662"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.347Z"
+}

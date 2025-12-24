@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030121",
+    "filename": "EFTA00030121.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030121.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Automatic reply: Epstein Case A Turning Point In Prosecutorial Accountability? \nDate: Tue, 12 Feb 2019 11:29:41 +0000 \nImportance: Normal \nI am currently on trial. \nFor emergencies requiring immediate assistance, please contact AUSA \na' \nEFTA00030121",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Case",
+        "role": "extracted",
+        "context": "o: \nSubject: Automatic reply: Epstein Case A Turning Point In Prosecutor"
+      },
+      {
+        "name": "Turning Point",
+        "role": "extracted",
+        "context": "tomatic reply: Epstein Case A Turning Point In Prosecutorial Accountabili"
+      },
+      {
+        "name": "In Prosecutorial",
+        "role": "extracted",
+        "context": "Epstein Case A Turning Point In Prosecutorial Accountability? \nDate: Tue, 1"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.057Z"
+}

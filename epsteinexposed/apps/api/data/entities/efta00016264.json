@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00016264",
+    "filename": "EFTA00016264.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016264.pdf",
+    "text": "\n\nFrom: \nTo: Robert Glassman <la \nCc: \naJSANYS)\" \nca, \n. \nSubject: Rule 412 \nDate: Fri, 29 Oct 2021 19:24:32 +0000 \nAttachments: Defl_412_Mot.for Glassman Redacted.pdf \nRobert, \nAs we discussed this morning, I'm attaching a copy of the Rule 412 motion, which was filed under seal. Our response will \nbe filed under seal on Monday. If the Court holds a hearing on the motion, it will be in camera on Friday, November 5, \n2021. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016264",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Robert Glassman",
+        "role": "extracted",
+        "context": "From: \nTo: Robert Glassman <la \nCc: \naJSANYS)\" \nca, \n."
+      },
+      {
+        "name": "Glassman Redacted",
+        "role": "extracted",
+        "context": "Attachments: Defl_412_Mot.for Glassman Redacted.pdf \nRobert, \nAs we discussed"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "November 5, \n2021. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "1. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00016264"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-11-05",
+        "event": "November 5, \n2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.332Z"
+}

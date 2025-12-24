@@ -1,0 +1,42 @@
+{
+  "document": {
+    "id": "efta00026664",
+    "filename": "EFTA00026664.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026664.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Fwd: Epstein Travel \nDate: Thu, 27 Jun 2019 18:16:19 +0000 \nAttachments: Travel_searches_6.1.192o_6.27.19.pdf; ATT00001.htm \nBegin forwarded message: \nFront: ' \nDate: June 27, 2019 at 13:52:15 EDT \nTo:\" \nSubject: Epstein Travel \nHey! \nI searched Epstein's travel records from 6/1/2019 to 6/27/2019 at noon and attached the record. His last record \nshows an OUTBOUND flight on 6/14/2019 to Paris. \nSearch capabilities only show international travel and are limited if he travels to the islands because it is US \nTerritory. It is unclear why some OUTBOUND/INFBOUND records show Epstein going to/from the islands \nand others don't but it is likely up to how CBP inputs their information. \nHope this helps! \nEFTA00026664",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Travel",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Fwd: Epstein Travel \nDate: Thu, 27 Jun 2019 18:16"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-01",
+        "event": "6/1/2019"
+      },
+      {
+        "date": "2019-06-27",
+        "event": "6/27/2019"
+      },
+      {
+        "date": "2019-06-14",
+        "event": "6/14/2019"
+      },
+      {
+        "date": "2019-06-27",
+        "event": "June 27, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.774Z"
+}

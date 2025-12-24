@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00030009",
+    "filename": "EFTA00030009.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030009.pdf",
+    "text": "\n\nU.S. v. \nGhislaine Maxwell \n• MAXWELL HAS BEEN CHARGED WITH FACILITATING \nTHE SEXUAL ABUSE OF UNDERAGED GIRLS FOR \nJEFFREY EPSTEIN. \n•  THE CHARGED CONDUCT OCCURRED IN NEW YORK CITY, \nPALM BEACH, FLORIDA, SANTA FE, NEW MEXICO, AND \nLONDON, ENGLAND. \n• IF YOU RECOGNIZE EITHER OF THESE PERSONS AND \nFEEL YOU MAY BE A VICTIM, PLEASE CALL THE \nFOLLOWING NUMBER: \n1-800\n-CALL FBI \nEFTA00030009\n\nU.S. v. \nGhislaine Maxwell \nProperties Owned by Epstein Where Alleged \nGrooming and/or \nAbuse of Minor Victims Occurred: \nNew York, New York \nPalm Beach, Florida \nSanta Fe, New Mexico \nEFTA00030010",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "ITATING \nTHE SEXUAL ABUSE OF UNDERAGED GIRLS FOR \nJEFFREY EPSTEIN. \n•  THE CHARGED CONDUCT OCCURRED IN NEW YORK CIT"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "U.S. v. \nGhislaine Maxwell \n• MAXWELL HAS BEEN CHARGED WITH FACILITATING \nTH"
+      },
+      {
+        "name": "Properties Owned",
+        "role": "extracted",
+        "context": "U.S. v. \nGhislaine Maxwell \nProperties Owned by Epstein Where Alleged \nGro"
+      },
+      {
+        "name": "Epstein Where",
+        "role": "extracted",
+        "context": "Maxwell \nProperties Owned by Epstein Where Alleged \nGrooming and/or \nAbu"
+      },
+      {
+        "name": "Alleged \nGrooming",
+        "role": "extracted",
+        "context": "erties Owned by Epstein Where Alleged \nGrooming and/or \nAbuse of Minor Victim"
+      },
+      {
+        "name": "Minor Victims",
+        "role": "extracted",
+        "context": "ed \nGrooming and/or \nAbuse of Minor Victims Occurred: \nNew York, New York"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ccurred: \nNew York, New York \nPalm Beach, Florida \nSanta Fe, New Mexic"
+      },
+      {
+        "name": "Florida \nSanta",
+        "role": "extracted",
+        "context": "w York, New York \nPalm Beach, Florida \nSanta Fe, New Mexico \nEFTA00030010"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "alm Beach, Florida \nSanta Fe, New Mexico \nEFTA00030010"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Santa Fe",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.768Z"
+}

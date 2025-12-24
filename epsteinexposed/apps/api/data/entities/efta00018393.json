@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00018393",
+    "filename": "EFTA00018393.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018393.pdf",
+    "text": "\n\nFrom: \" \nTo:' \n(USANYS)\" \nCc: (USANYS)\" \nSubject: Fwd: Epstein \nDate: Thu, 25 Jul 2019 02:32:35 +0000 \nSent from my iPhone \nBegin forwarded message: \nFrom: ' \n(USANYS)\"11 \nDate: Jul 24 2019 at 10:25:31 PM \nTo: \" \n(USANYS)\" \n(USANYS)\" \nCc: \"Margolin, James (USANYS) [Contractor]\" < , \"Blase, Nicholas (USANYS)\" \nSubject: Epstein \nNBC 4 will run a story about Epstein tonight at 11—that he was either attacked or attempted to hurt himself. \nNational NBC will pick it up tonight/tomorrow. I declined to comment and didn't confirm anything. \nEFTA00018393",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: (USANYS)\" \nSubject: Fwd: Epstein \nDate: Thu, 25 Jul 2019 02:32:35 +0"
+      },
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "02:32:35 +0000 \nSent from my iPhone \nBegin forwarded message: \nFrom: '"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.821Z"
+}

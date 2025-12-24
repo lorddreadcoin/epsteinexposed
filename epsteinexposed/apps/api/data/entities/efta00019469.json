@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019469",
+    "filename": "EFTA00019469.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019469.pdf",
+    "text": "\n\nFrom: 'IMMe\ni\nTo: \"M, \n(USANYS) \n[Contractor]\" alMEL \nSubject: WBTW/Epstein \nDate: Mon, 13 Jul 2020 17:33:50 +0000 \nHi=, \nJust wanted to say that I know you've done a ton of work on both of these cases, and I know everyone on both tea ms \nreally appreciates your hard work. Thanks so much, and hope you're doing welll \nBest, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00019469",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ractor]\" alMEL \nSubject: WBTW/Epstein \nDate: Mon, 13 Jul 2020 17:33:50 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "pe you're doing welll \nBest, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "elll \nBest, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00019469"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.963Z"
+}

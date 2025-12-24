@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00026793",
+    "filename": "EFTA00026793.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026793.pdf",
+    "text": "\n\nFrom: ' \nTo: 1 \nSubject: RE: Jeffrey Pop \nDate: Mon, 24 Feb 2020 18:26:07 +0000 \nI'm prepping for and I also have the bandwidth to prep for \nprincipally and lead the interview? Just let me know. And the • \nif either of you wants to focus on that, say the word. \nFrom: \nSent: Monday, February 24, 2020 12:39 \nTo: \nSubject: Jeffrey Pop \nbut does either of you want to take that on \nprep largely overlaps with I think, but again \nI noticed in the DB presentation materials that there is a 6/13/17 transfer from Epstein to Jeffrey Pop, with note \n\"Reference Doe 43 v. Epstein et al.\" was a defendant in that lawsuit (it's docket 17 Civ. 616 (JGK), so I guess not \nparticularly surprising, but worth being aware of I guess. I added the complaint to witness folder. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00026793",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Pop",
+        "role": "extracted",
+        "context": "From: ' \nTo: 1 \nSubject: RE: Jeffrey Pop \nDate: Mon, 24 Feb 2020 18:26"
+      },
+      {
+        "name": "Reference Doe",
+        "role": "extracted",
+        "context": "n to Jeffrey Pop, with note \n\"Reference Doe 43 v. Epstein et al.\" was a d"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "complaint to witness folder. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ess folder. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00026793"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-24",
+        "event": "February 24, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.842Z"
+}

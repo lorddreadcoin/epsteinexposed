@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00026839",
+    "filename": "EFTA00026839.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026839.pdf",
+    "text": "\n\nFrom: \n\" \nalMIE> \nTo: \nMIEliry\n,\nSubject: letter \nDate: Mon, 19 Apr 2021 22:58:06 +0000 \nAttachments: 2021-04-19_Govit_response_to_April_19_Order.docx \n(USANYS)\" \nHere's a really quick draft. It doesn't really strike the right tone, but I wanted to get something to you quickly, and am \nhoping you can do some editing magic. Thanks, team. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00026839",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "editing magic. Thanks, team. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "anks, team. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00026839"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.948Z"
+}

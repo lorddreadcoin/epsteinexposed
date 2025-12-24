@@ -1,0 +1,72 @@
+{
+  "document": {
+    "id": "efta00021522",
+    "filename": "EFTA00021522.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021522.pdf",
+    "text": "\n\nGOlt U.S. GPO: 2016394373 --- \n \nFD\n-597 (Rev. 4.13.2015) \nCase ID: \nPage  /  of  _1\nUNITED STATES DEPARTMENT OF \nJUSTICE \nFEDERAL BUREAU OF INVESTIGATION \nReceipt for Property \nOn \n(date)  \n7 \n(Name)  MdfC\n(Street Address) \nitem (s) listed below were: \nCollected/Seized \nte\nceived Froln \nturned To \nReleased To \n(City)  \nDescription of Item \n(s):  \n60KOIA \nOve \ne \nSe \nL Lim; \n—(why- \n5 ,,iss \n1444).2 S i)--°\n/ \n15\n-  C2  \nLverkA \nt'tS \nPaissfritt \nAgit \nCd0e \n1474 \nMgr \n(Avner Cn \nt1 \nfon, s \n•-( \n&Ad.,\nMedi/ere \nHimAtti Cad \nunits \ncite< \nCL\"J\nI \nAt \n/Secit \n   \n5,0.47 \nReceived By: \n(Signature) \nPrinted \nName/Tide:Allik \nReceived From: \nPrinted Name/Title: \nEFTA00021522",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Property \nOn",
+        "role": "extracted",
+        "context": "OF INVESTIGATION \nReceipt for Property \nOn \n(date)  \n7 \n(Name)  MdfC\n(St"
+      },
+      {
+        "name": "Street Address",
+        "role": "extracted",
+        "context": "On \n(date)  \n7 \n(Name)  MdfC\n(Street Address) \nitem (s) listed below were:"
+      },
+      {
+        "name": "To \nReleased",
+        "role": "extracted",
+        "context": "ized \nte\nceived Froln \nturned To \nReleased To \n(City)  \nDescription of I"
+      },
+      {
+        "name": "Paissfritt \nAgit",
+        "role": "extracted",
+        "context": "°\n/ \n15\n-  C2  \nLverkA \nt'tS \nPaissfritt \nAgit \nCd0e \n1474 \nMgr \n(Avner Cn"
+      },
+      {
+        "name": "Avner Cn",
+        "role": "extracted",
+        "context": "ritt \nAgit \nCd0e \n1474 \nMgr \n(Avner Cn \nt1 \nfon, s \n•-( \n&Ad.,\nMedi/"
+      },
+      {
+        "name": "Atti Cad",
+        "role": "extracted",
+        "context": "n, s \n•-( \n&Ad.,\nMedi/ere \nHimAtti Cad \nunits \ncite< \nCL\"J\nI \nAt \n/S"
+      },
+      {
+        "name": "Received By",
+        "role": "extracted",
+        "context": "\"J\nI \nAt \n/Secit \n   \n5,0.47 \nReceived By: \n(Signature) \nPrinted \nName/"
+      },
+      {
+        "name": "Printed \nName",
+        "role": "extracted",
+        "context": "7 \nReceived By: \n(Signature) \nPrinted \nName/Tide:Allik \nReceived From: \nP"
+      },
+      {
+        "name": "Allik \nReceived",
+        "role": "extracted",
+        "context": "ignature) \nPrinted \nName/Tide:Allik \nReceived From: \nPrinted Name/Title: \nE"
+      },
+      {
+        "name": "Printed Name",
+        "role": "extracted",
+        "context": "e/Tide:Allik \nReceived From: \nPrinted Name/Title: \nEFTA00021522"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "2016394373"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.835Z"
+}

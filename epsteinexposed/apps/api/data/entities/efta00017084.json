@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00017084",
+    "filename": "EFTA00017084.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017084.pdf",
+    "text": "\n\nFrom: \"Moyne, Parvin\" \nTo: ' \nCc: \"DiPiero Jose h\" \nSubject: RE: Epstein \naccounts \nDate: Mon, 03 Aug 2020 16:12:20 +0000 \ner, Thomas\" \nI hope you are well and getting some time \"off\" this summer. I'm reaching out via email as it may be the most efficient \nway to tee-up the inquiry we have received, but we can circulate a dial-in at a convenient time for you if you'd like to \ndiscuss anything. \nDeutsche Bank has received a third-party subpoena from the Attorney General's Office of the U.S. Virgin Islands in \nconnection with a pending civil suit they have filed against Jeffrey Epstein's estate, the executors of the estate, and \nothers. One of the requests is for a copy of any government subpoenas received by the Bank relating to Epstein, and a \ncopy of any productions made pursuant to the subpoenas. Do we have your permission to disclose your subpoena and \nour production to you to the U.S.V.I. AG? Would you prefer us to refer the office to you directly or provide you with \ncontact information? I'm happy to send you a copy of the U.S.V.I. AG subpoena if helpful in evaluating the request. \nBest, \nParvin \nParvin Daphne Moyne \nAKIN  GUMP STRAUSS  HAUER & FELD LLP \nDirect: Internal= \nThe information contained in this e-mail message is intended only for the personal and confidential use of the \nrecipient(s) named above. If you have received this communication in error, please notify us immediately by e-\nmail, and delete the original message. \nEFTA00017084",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "with a pending civil suit they have filed against Jeffrey Epstein's estate, the executors of the estate, and \nother"
+      },
+      {
+        "name": "Piero Jose",
+        "role": "extracted",
+        "context": "Moyne, Parvin\" \nTo: ' \nCc: \"DiPiero Jose h\" \nSubject: RE: Epstein \nacc"
+      },
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "d like to \ndiscuss anything. \nDeutsche Bank has received a third-party su"
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "third-party subpoena from the Attorney General's Office of the U.S. Virgin I"
+      },
+      {
+        "name": "Virgin Islands",
+        "role": "extracted",
+        "context": "General's Office of the U.S. Virgin Islands in \nconnection with a pending"
+      },
+      {
+        "name": "Parvin \nParvin",
+        "role": "extracted",
+        "context": "aluating the request. \nBest, \nParvin \nParvin Daphne Moyne \nAKIN  GUMP STRA"
+      },
+      {
+        "name": "Daphne Moyne",
+        "role": "extracted",
+        "context": "quest. \nBest, \nParvin \nParvin Daphne Moyne \nAKIN  GUMP STRAUSS  HAUER &"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.971Z"
+}

@@ -1,0 +1,101 @@
+{
+  "document": {
+    "id": "efta00014181",
+    "filename": "EFTA00014181.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014181.pdf",
+    "text": "\n\nEvent: Epstein/call in from \nStart Date: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nOrganizer: \nLocation: ofc. \nClass: X-PERSONAL \nDate Created: 2008-06-11 15:27:49 +0000 \nDate Modified: 2022-10-02 08:11:24 +0000 \nPriority: 5 \nDTSTAMP: 2008-06-11 15:27:38 +0000 \nWhen: \nFriday, \n June 13, 2008 10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere:Mot \n*     * * * * * * * \n*  * \nyou can participate by phone. Let me know best number, Thanks, \n  Original Message \nFrom: \nTo: \nCc: \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE: Epstein \nSpoke with Everyone is good for 10:00 this Friday morning. will be calling Mffice \nFrom: \nSent: Wednesday, June 11, 2008 10:21 AM \nTo: \nCc: \nSubject: RE: Epstein \nEFTA00014181\n\nI'm available anytime \nFrom: \nSent: Wednesday, June 11, 2008 10:09 AM \nTo: \nCc: \nSubject: RE: Epstein \nAbsolutely, I'm available from 10 to 11 and after 11 have a conflict. \nFrom: \nSent: Wednesda une 11, 2008 10:02 AM \nTo \nCc \nSubject: Epstein \nWould you guys be available Friday morning by telephone to discuss? \nEFTA00014182",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Epstein/call in from \nStart Date: 2008-06-13 14:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "ion: ofc. \nClass: X-PERSONAL \nDate Created: 2008-06-11 15:27:49 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2008-06-11 15:27:49 +0000 \nDate Modified: 2022-10-02 08:11:24 +0000 \nP"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere:Mot \n*"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "know best number, Thanks, \n  Original Message \nFrom: \nTo: \nCc: \nSent: Wed J"
+      },
+      {
+        "name": "Wed Jun",
+        "role": "extracted",
+        "context": "ssage \nFrom: \nTo: \nCc: \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE"
+      },
+      {
+        "name": "Epstein \nSpoke",
+        "role": "extracted",
+        "context": "1 10:29:23 2008 \nSubject: RE: Epstein \nSpoke with Everyone is good for 10:"
+      },
+      {
+        "name": "Mffice \nFrom",
+        "role": "extracted",
+        "context": "iday morning. will be calling Mffice \nFrom: \nSent: Wednesday, June 11, 2"
+      },
+      {
+        "name": "Epstein \nAbsolutely",
+        "role": "extracted",
+        "context": "09 AM \nTo: \nCc: \nSubject: RE: Epstein \nAbsolutely, I'm available from 10 to 11"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "dnesda une 11, 2008 10:02 AM \nTo \nCc \nSubject: Epstein \nWould you"
+      },
+      {
+        "name": "Epstein \nWould",
+        "role": "extracted",
+        "context": "08 10:02 AM \nTo \nCc \nSubject: Epstein \nWould you guys be available Friday"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-06-13",
+        "event": "2008-06-13"
+      },
+      {
+        "date": "2008-06-11",
+        "event": "2008-06-11"
+      },
+      {
+        "date": "2022-10-02",
+        "event": "2022-10-02"
+      },
+      {
+        "date": "2008-06-13",
+        "event": "June 13, 2008"
+      },
+      {
+        "date": "2008-06-11",
+        "event": "June 11, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.336Z"
+}

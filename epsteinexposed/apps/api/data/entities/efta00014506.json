@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00014506",
+    "filename": "EFTA00014506.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014506.pdf",
+    "text": "\n\nCase 16-3945, Document 56, 07/18/2017, 2081160, Pagel of 1 \nUnited States Court of Appeals for the Second Circuit \nThurgood Marshall U.S. Courthouse\nNew York, NY 10007 \nROBERT A. KATZMANN \nCHIEFJUDGE \nDate: July 18, 2017 \nDocket #: 16-3945cv \nShort Title: v. Maxwell \nCLERK OF COURT \nDC Docket #: \n15-cv-7433 \nDC \nCourt: SDNY (NEW YORK \nCITY) \nDC Judge: \nSweet \nNOTICE OF CASE MANAGER CHANGE \nThe case manager assigned to this matter has been changed. \nInquiries regarding this case may be directed to \nEFTA00014506",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Second Circuit",
+        "role": "extracted",
+        "context": "ates Court of Appeals for the Second Circuit \nThurgood Marshall U.S. Court"
+      },
+      {
+        "name": "Thurgood Marshall",
+        "role": "extracted",
+        "context": "peals for the Second Circuit \nThurgood Marshall U.S. Courthouse\nNew York, NY"
+      },
+      {
+        "name": "Courthouse\nNew",
+        "role": "extracted",
+        "context": "rcuit \nThurgood Marshall U.S. Courthouse\nNew York, NY 10007 \nROBERT A. KAT"
+      },
+      {
+        "name": "Short Title",
+        "role": "extracted",
+        "context": "8, 2017 \nDocket #: 16-3945cv \nShort Title: v. Maxwell \nCLERK OF COURT"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2017-07-18",
+        "event": "07/18/2017"
+      },
+      {
+        "date": "2017-07-18",
+        "event": "July 18, 2017"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.986Z"
+}

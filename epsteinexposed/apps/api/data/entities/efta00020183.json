@@ -1,0 +1,82 @@
+{
+  "document": {
+    "id": "efta00020183",
+    "filename": "EFTA00020183.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020183.pdf",
+    "text": "\n\nFrom: ' \n)\" \nTo: ' (USANYS)\"  \nSubject: RE: Epstein Pros Memo \nDate: Wed, 14 Aug 2019 17:55:02 +0000 \nAttachments: 2019-07-09,_initial_conference.pdf: 2019-07-09,_presentment.pdf; 2019-07-\n15,_bail_hearing.pdf; 2019-07-18,_bail_decision.pdf; 2019-07-31,_conference.pdf \nTranscripts for each attached. The first three were related to presentment and arraignment, and then bail; the most \nrecent was a scheduling conference. \nFrom: (USANYS) \nSent: Wednesday, August 14, 2019 13:52 \nTo: \nSubject: RE: Epstein Pros Memo \nThanks. And last thing, sorry, can you send me the court dates and what happened at them? \nFrom: \nSent: Wednesday, August 14, 2019 1:48 PM \nTo: (USANYS) \nSubject: RE: Epstein Pros Memo \n19-490 \nFrom: (USANYS) ct> \nSent: Wednesday, August 14, 2019 13:48 \nTo: \nSubject: RE: Epstein Pros Memo \nThanks! What was the docket? \nFrom: \nSent: Wednesday, August 14, 2019 1:45 PM \nTo: (USANYS) \nCc: \n) \nSubject: RE: Epstein Pros Memo \nSure, attached. Depending on what exactly you're looking for, the ODAG memo and UMR from when we were charging, \nalso attached, may also be useful. \nFrom: (USANYS) \nSent: Wednesday, August 14, 2019 13:15 \nTo: \n; \n(tS \nSubject: Epstein Pros Memo \nCan you send it to me? \nEFTA00020183\n\nAssistant \nUnited States \nAttorney \nSouthern \nDistrict of New \nYork \nTel: \nEFTA00020184",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Pros",
+        "role": "extracted",
+        "context": "o: ' (USANYS)\"  \nSubject: RE: Epstein Pros Memo \nDate: Wed, 14 Aug 2019"
+      },
+      {
+        "name": "Memo \nDate",
+        "role": "extracted",
+        "context": "\"  \nSubject: RE: Epstein Pros Memo \nDate: Wed, 14 Aug 2019 17:55:02 +0"
+      },
+      {
+        "name": "Memo \nThanks",
+        "role": "extracted",
+        "context": "o: \nSubject: RE: Epstein Pros Memo \nThanks. And last thing, sorry, can y"
+      },
+      {
+        "name": "Memo \nSure",
+        "role": "extracted",
+        "context": ") \nSubject: RE: Epstein Pros Memo \nSure, attached. Depending on what"
+      },
+      {
+        "name": "Memo \nCan",
+        "role": "extracted",
+        "context": "; \n(tS \nSubject: Epstein Pros Memo \nCan you send it to me? \nEFTA00020"
+      },
+      {
+        "name": "Assistant \nUnited",
+        "role": "extracted",
+        "context": "send it to me? \nEFTA00020183\n\nAssistant \nUnited States \nAttorney \nSouthern \nD"
+      },
+      {
+        "name": "States \nAttorney",
+        "role": "extracted",
+        "context": "TA00020183\n\nAssistant \nUnited States \nAttorney \nSouthern \nDistrict of New \nY"
+      },
+      {
+        "name": "Southern \nDistrict",
+        "role": "extracted",
+        "context": "ant \nUnited States \nAttorney \nSouthern \nDistrict of New \nYork \nTel: \nEFTA00020"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "torney \nSouthern \nDistrict of New \nYork \nTel: \nEFTA00020184"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "2019-07-09"
+      },
+      {
+        "date": "2019-07-18",
+        "event": "2019-07-18"
+      },
+      {
+        "date": "2019-07-31",
+        "event": "2019-07-31"
+      },
+      {
+        "date": "2019-08-14",
+        "event": "August 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.353Z"
+}

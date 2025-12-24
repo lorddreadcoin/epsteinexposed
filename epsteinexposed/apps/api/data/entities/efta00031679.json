@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031679",
+    "filename": "EFTA00031679.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031679.pdf",
+    "text": "\n\nFrom: \nTo: \nOIG)\" \nCc: \n) (OGA)\"\nSubject: FW: FBINET to UNET Uploaded \nFiles \nDate: Fri, 30 Aug 2019 16:58:06 +0000 \nAttachments: Interview_of -  DRAFT.pdf \nDRAFT 302 of. \nSpecial Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00031679",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Uploaded \nFiles",
+        "role": "extracted",
+        "context": "\"\nSubject: FW: FBINET to UNET Uploaded \nFiles \nDate: Fri, 30 Aug 2019 16:58"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "-  DRAFT.pdf \nDRAFT 302 of. \nSpecial Agent \nFBI New York Field \nOffice"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field \nOffice \nViolent Crimes Task Force \nE"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "FBI New York Field \nOffice \nViolent Crimes Task Force \nEFTA00031679"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "Field \nOffice \nViolent Crimes Task Force \nEFTA00031679"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.594Z"
+}

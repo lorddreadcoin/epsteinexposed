@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00031916",
+    "filename": "EFTA00031916.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031916.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM <bcstemheim@mac.com> \nTo: Nathan NYSD \nChambers \nCc: \n, \"Christian Everdell\" \n<CEverdell@CohenGresser.com>, Laura Menninger Imenninger®Innflaw.com>, Jeff \nPagliuca <jpagliuca@lunflaw.com> \nSubject: U.S. v. Ghislaine Maxwell 20 Cr. 330 (MN) submission under seal \nDate: Tue, 16 Mar 2021 22:33:47 +0000 \nAttachments: Maxwell_Cover_Letter_3-16-21.pdf; ATT00001.htm \nGood evening-\nAs set forth in the attached cover letter (to be filed via ECF) \nand pursuant to Rule 2(8) of the Court's individual rules, \nattached for the Court and government is an unredacted version \nof the Reply Memorandum In Support of Ms. Maxwell's pending bail application. \nThank you. \nBest-\nBobbi \nEFTA00031916",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "agliuca <jpagliuca@lunflaw.com> \nSubject: U.S. v. Ghislaine Maxwell 20 Cr. 330 (MN) submission under seal \nDate: Tue,"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "eply Memorandum In Support of Ms. Maxwell's pending bail applicatio"
+      },
+      {
+        "name": "Chambers \nCc",
+        "role": "extracted",
+        "context": "im@mac.com> \nTo: Nathan NYSD \nChambers \nCc: \n, \"Christian Everdell\" \n<CE"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "athan NYSD \nChambers \nCc: \n, \"Christian Everdell\" \n<CEverdell@CohenGresser.com"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "<CEverdell@CohenGresser.com>, Laura Menninger Imenninger®Innflaw.com>, Jeff"
+      },
+      {
+        "name": "Jeff \nPagliuca",
+        "role": "extracted",
+        "context": "nger Imenninger®Innflaw.com>, Jeff \nPagliuca <jpagliuca@lunflaw.com> \nSubj"
+      },
+      {
+        "name": "Reply Memorandum",
+        "role": "extracted",
+        "context": "an unredacted version \nof the Reply Memorandum In Support of Ms. Maxwell's p"
+      },
+      {
+        "name": "In Support",
+        "role": "extracted",
+        "context": "sion \nof the Reply Memorandum In Support of Ms. Maxwell's pending bail"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.207Z"
+}

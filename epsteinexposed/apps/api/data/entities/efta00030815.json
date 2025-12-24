@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "efta00030815",
+    "filename": "EFTA00030815.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030815.pdf",
+    "text": "\n\nFrom: \n(USAVI)\" \n<a \nTo: '=111S' r>, \"MaWier \n, ' (USANYS)\" \nSubject: Jeffrey Epstein Estate/Southem Country International Bank/USVl \nDate: Thu, 02 Apr 2020 12:03:10 +0000 \nImportance: Normal \nAttachments: unnamed \nToll Free Number: 866-421-2611 \nPasscode: 1950230U \nEFTA00030815",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "To: '=111S' r>, \"MaWier \n, ' (USANYS)\" \nSubject: Jeffrey Epstein Estate/Southem Country International Bank/USVl \nD"
+      },
+      {
+        "name": "Southem Country",
+        "role": "extracted",
+        "context": "bject: Jeffrey Epstein Estate/Southem Country International Bank/USVl \nDate"
+      },
+      {
+        "name": "International Bank",
+        "role": "extracted",
+        "context": "pstein Estate/Southem Country International Bank/USVl \nDate: Thu, 02 Apr 2020"
+      },
+      {
+        "name": "Vl \nDate",
+        "role": "extracted",
+        "context": "Country International Bank/USVl \nDate: Thu, 02 Apr 2020 12:03:10 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "0 12:03:10 +0000 \nImportance: Normal \nAttachments: unnamed \nToll Free Number: 8"
+      },
+      {
+        "name": "Toll Free",
+        "role": "extracted",
+        "context": "Normal \nAttachments: unnamed \nToll Free Number: 866-421-2611 \nPasscod"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "866-421-2611"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.728Z"
+}

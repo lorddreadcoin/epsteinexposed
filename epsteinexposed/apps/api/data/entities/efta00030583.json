@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00030583",
+    "filename": "EFTA00030583.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030583.pdf",
+    "text": "\n\nFrom: \" \n< \nTo: I\"\nMIIISYS)\" \nCc: altANYS)\" \nSubject: FW: US v. Maxwell Case No. 20-3061, [Unredacted Reply Brief] \nDate: Thu, 08 Oct 2020 21:22:43 +0000 \nAttachments: 2020.10.08_Unredacted_Reply_Brielpdf; \n2020.10.08_Motionfor Leave_to_File_RB_Under Seal.pdf \nInline-Images: image001.jpg \n(USANYS)\" \nFYI \nFrom: Nicole Simmons \nSent: Thursday, October 8, 2020 4:55 PM \nCc: Adam \nMueller < \n>; Ty Gee \n<->; Laura Menninger \nShin, Won (USANYS) \n>; \n■>; \n(USANYS)< \n>; \nMetzner, Karl (USANYS) \nSubject: US v. Maxwell Case No. 20-3061, [Unredacted Reply Brief] \nTo Whom It May Concern: \nAt the request of Adam Mueller, please see attached the Unredacted version of Ms. Maxwell's Reply Brief in the above \nreferenced matter. Please let me know if you have any questions or concerns. \nRegards, \nNicole \nNicole Simmons \nHaddon, Morgan and \nForeman. P.C. \nwww.hmflaw.com \nEFTA00030583",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "hed the Unredacted version of Ms. Maxwell's Reply Brief in the abov"
+      },
+      {
+        "name": "Maxwell Case",
+        "role": "extracted",
+        "context": "altANYS)\" \nSubject: FW: US v. Maxwell Case No. 20-3061, [Unredacted Repl"
+      },
+      {
+        "name": "Unredacted Reply",
+        "role": "extracted",
+        "context": "v. Maxwell Case No. 20-3061, [Unredacted Reply Brief] \nDate: Thu, 08 Oct 202"
+      },
+      {
+        "name": "Motionfor Leave",
+        "role": "extracted",
+        "context": "d_Reply_Brielpdf; \n2020.10.08_Motionfor Leave_to_File_RB_Under Seal.pdf \nIn"
+      },
+      {
+        "name": "Under Seal",
+        "role": "extracted",
+        "context": "08_Motionfor Leave_to_File_RB_Under Seal.pdf \nInline-Images: image001."
+      },
+      {
+        "name": "Nicole Simmons",
+        "role": "extracted",
+        "context": "01.jpg \n(USANYS)\" \nFYI \nFrom: Nicole Simmons \nSent: Thursday, October 8, 2"
+      },
+      {
+        "name": "Adam \nMueller",
+        "role": "extracted",
+        "context": "October 8, 2020 4:55 PM \nCc: Adam \nMueller < \n>; Ty Gee \n<->; Laura Menn"
+      },
+      {
+        "name": "Ty Gee",
+        "role": "extracted",
+        "context": "5 PM \nCc: Adam \nMueller < \n>; Ty Gee \n<->; Laura Menninger \nShin,"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "m \nMueller < \n>; Ty Gee \n<->; Laura Menninger \nShin, Won (USANYS) \n>; \n■>;"
+      },
+      {
+        "name": "To Whom",
+        "role": "extracted",
+        "context": "61, [Unredacted Reply Brief] \nTo Whom It May Concern: \nAt the reque"
+      },
+      {
+        "name": "It May",
+        "role": "extracted",
+        "context": "edacted Reply Brief] \nTo Whom It May Concern: \nAt the request of A"
+      },
+      {
+        "name": "Adam Mueller",
+        "role": "extracted",
+        "context": "y Concern: \nAt the request of Adam Mueller, please see attached the Unre"
+      },
+      {
+        "name": "Reply Brief",
+        "role": "extracted",
+        "context": "cted version of Ms. Maxwell's Reply Brief in the above \nreferenced matt"
+      },
+      {
+        "name": "Nicole \nNicole",
+        "role": "extracted",
+        "context": "tions or concerns. \nRegards, \nNicole \nNicole Simmons \nHaddon, Morgan and"
+      },
+      {
+        "name": "Simmons \nHaddon",
+        "role": "extracted",
+        "context": "ns. \nRegards, \nNicole \nNicole Simmons \nHaddon, Morgan and \nForeman. P.C. \nw"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-08",
+        "event": "October 8, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.203Z"
+}

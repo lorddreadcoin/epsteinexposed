@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00016509",
+    "filename": "EFTA00016509.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016509.pdf",
+    "text": "\n\nFrom: \"a\" alMIN> \nTo: Nathan NYSD Chambers <\nE> \nCc: SANYS \nbcsternheim_mac.com \nLaura Mennin er \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) - Motion to Preclude \nDate: Sun, 28 Nov 2021 03:35:33 +0000 \nAttachments: 2021-11-27_GM_mot_to_preclude_cross_final.pdf \nII \nChambers, \nAttached please find a letter motion to preclude cross-examination. The Government respectfully submits this filing \nunder seal. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00016509",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": ": SANYS \nbcsternheim_mac.com \nLaura Mennin er \nSubject: US v. Maxwell, 2"
+      },
+      {
+        "name": "Preclude \nDate",
+        "role": "extracted",
+        "context": "20 Cr. 330 (AJN) - Motion to Preclude \nDate: Sun, 28 Nov 2021 03:35:33 +0"
+      },
+      {
+        "name": "The Government",
+        "role": "extracted",
+        "context": "o preclude cross-examination. The Government respectfully submits this fil"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "al. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00016509"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.823Z"
+}

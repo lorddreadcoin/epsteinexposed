@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026672",
+    "filename": "EFTA00026672.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026672.pdf",
+    "text": "\n\nFrom: \"M> \nTo:'\nCc: \" \nSubject: SORNA registration \nDate: Sun, 16 Jun 2019 21:21:42 +0000 \nImportance: Normal \nHi \nCould you please pull Epstein's most recent SORNA registration documents? It looks like the filing we have is from April \n2018, so he may have registered in the last two months. Would be helpful to get the most recent registration documents. \nThanks! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00026672",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "9 21:21:42 +0000 \nImportance: Normal \nHi \nCould you please pull Epstei"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "stration documents. \nThanks! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00026672"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.793Z"
+}

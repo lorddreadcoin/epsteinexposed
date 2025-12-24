@@ -1,0 +1,88 @@
+{
+  "document": {
+    "id": "efta00030981",
+    "filename": "EFTA00030981.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030981.pdf",
+    "text": "\n\nFrom: \" \nTo\nCc:'\"< \nSubject: FW: EMail 1 of 2: EPSTEIN -\nDate: Thu, 29 Oct 2020  17:45:53 -HYXFO \nAttachments: 20 MAG 11668 \nInline-Images: image003.jpg \n> ' \nsigned application/affidavit \npdf; 20_MAG_11668.1_ pdf \nAttached are the signed warrant materials. \n..hanks \nAssistant United States Attorney \ncnnthem Dietrirt of \nNew York \nNew York NY 10007 \nFrom: \nSent: Thursday, October 29, 2020 11:51 AM \nTo: \nCc: \nSubject: FW: EMail 1 of 2: EPSTEIN \nGood \nMorning=, \nYour \nsigned Warrants are attached. \nArraignment Unit Clerk \nUnited States District Court \nMs. of New York \nNew York. NY 10007 \nFrom \nSent: Wednesday, October 28, 2020 7:18 PM \nsigned application/affidavit \nEFTA00030981\n\nTo \nCc: \nSubject: FW: EMail 1 of 2: EPSTEIN signed application/affidavit \nFrom: \nSent: Tuesda October 27 2020 7:18 PM \nTo: \nSubject: EMail 1 of 2: EPSTEIN \nUSDC-SONY \nSent from my mobile device \nsigned application/affidavit \nEFTA00030982",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "To\nCc",
+        "role": "extracted",
+        "context": "From: \" \nTo\nCc:'\"< \nSubject: FW: EMail 1 of"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "warrant materials. \n..hanks \nAssistant United States Attorney \ncnnthem Diet"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \n..hanks \nAssistant United States Attorney \ncnnthem Dietrirt of \nNew Yor"
+      },
+      {
+        "name": "Good \nMorning",
+        "role": "extracted",
+        "context": "t: FW: EMail 1 of 2: EPSTEIN \nGood \nMorning=, \nYour \nsigned Warrants are"
+      },
+      {
+        "name": "Arraignment Unit",
+        "role": "extracted",
+        "context": "igned Warrants are attached. \nArraignment Unit Clerk \nUnited States District"
+      },
+      {
+        "name": "Clerk \nUnited",
+        "role": "extracted",
+        "context": "e attached. \nArraignment Unit Clerk \nUnited States District Court \nMs. of"
+      },
+      {
+        "name": "States District",
+        "role": "extracted",
+        "context": "rraignment Unit Clerk \nUnited States District Court \nMs. of New York \nNew Y"
+      },
+      {
+        "name": "Court \nMs",
+        "role": "extracted",
+        "context": "Clerk \nUnited States District Court \nMs. of New York \nNew York. NY 10"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "New York \nNew York. NY 10007 \nFrom \nSent: Wednesday, October 28, 2020"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "tion/affidavit \nEFTA00030981\n\nTo \nCc: \nSubject: FW: EMail 1 of 2:"
+      },
+      {
+        "name": "Tuesda October",
+        "role": "extracted",
+        "context": "ation/affidavit \nFrom: \nSent: Tuesda October 27 2020 7:18 PM \nTo: \nSubject"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-29",
+        "event": "October 29, 2020"
+      },
+      {
+        "date": "2020-10-28",
+        "event": "October 28, 2020"
+      },
+      {
+        "date": "2020-10-27",
+        "event": "October 27 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.167Z"
+}

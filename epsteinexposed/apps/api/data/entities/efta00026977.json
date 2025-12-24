@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026977",
+    "filename": "EFTA00026977.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026977.pdf",
+    "text": "\n\nFrom: \n r  \n \nTo: (USANYS)\"  \nCc: ') \nSubject: Re: Subject: Epstein/Brunel and US/French international justice (journalist question) \nDate: Fri, 07 Feb 2020 02:55:17 +0000 \nThanks, M. \nSent from my iPhone \nOn Feb 6, 2020, at 12:52 PM, (USANYS) < > wrote: \nFYI. Thx. \nFrom: (USANYS) \nSent: Thursday, February 6, 2020 12:52 PM \nTo: \nCc: (USANYS) [Contractor] \nSubject: Subject: Epstein/Brunel and US/French international justice (journalist question) \nPhillipe: \nforwarded your query. As you might anticipate, we cannot discuss matters that aren't in the public record, \nand in any event, as a matter of office policy, prosecutors in our office are not available for interviews, on the record, on \nbackground, or off-the-record. \nPlease note that any future inquiries about this or any other case brought by the Office should be directed toward me or \nmy colleague, copied here. \nBest regards, \nPublic Information Officer \nUnited States Department of Justice \nU.S. Attorney's Office 'Southern District of New York \nMobile: I Press Office: \nEFTA00026977",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "00 \nThanks, M. \nSent from my iPhone \nOn Feb 6, 2020, at 12:52 PM, (US"
+      },
+      {
+        "name": "Public Information",
+        "role": "extracted",
+        "context": "copied here. \nBest regards, \nPublic Information Officer \nUnited States Depart"
+      },
+      {
+        "name": "Officer \nUnited",
+        "role": "extracted",
+        "context": "regards, \nPublic Information Officer \nUnited States Department of Justice"
+      },
+      {
+        "name": "States Department",
+        "role": "extracted",
+        "context": "c Information Officer \nUnited States Department of Justice \nU.S. Attorney's O"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nU.S. Attorney's Office 'Southern District of New York \nMobile: I Press"
+      },
+      {
+        "name": "Press Office",
+        "role": "extracted",
+        "context": "strict of New York \nMobile: I Press Office: \nEFTA00026977"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-02-06",
+        "event": "February 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.286Z"
+}

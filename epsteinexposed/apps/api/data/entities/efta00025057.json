@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00025057",
+    "filename": "EFTA00025057.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025057.pdf",
+    "text": "\n\nFrom: \"M=.=\n'' \nTo: \nCc \nSubject: US v. Maxwell, 20 Cr. 330 (AJN) \nDate: Tue, 26 Oct 2021 02:31:11 +0000 \nAttachments: 2021.10.25_Maxwell_Discovery_Letter.pdf; 2021.10.25_Maxwell_Cover_Letter_Final.pdf; \n2021.10.25_U.S._v_Ghislaine Maxwell 3500 Index (Defense_Copy).pdf; \n2021.10.25 U.S. v  Ghislaine Maxwell Non-\nTestifying_Witness_MaterialiDefense_Copy).pdf \nCounsel, \nWe have an additional discovery production ready to send to you. Attached please find the accompanying cover letter. \nThe production will be made via USAfx. \nIn additional, a supplemental production of testifying witness and non-testifying witness material is also ready to send to \nyou. Attached please find the accompanying cover letter and indices. The production will be made via USAfx. \nWe will send a CD with the materials to the MDC for Ms. Maxwell. If you would prefer that she receive the production on \na drive, we can either request that the MDC send us one of the drives back to load with the production, or we can load a \nnew drive if you would like to provide us with one. \nShanks \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York New York 10007 \nTel: \nEFTA00025057",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "axwell_Cover_Letter_Final.pdf; \n2021.10.25_U.S._v_Ghislaine Maxwell 3500 Index (Defense_Copy).pdf; \n2021.10.25 U.S. v"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "the materials to the MDC for Ms. Maxwell. If you would prefer that"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \"M=.=\n'' \nTo: \nCc \nSubject: US v. Maxwell, 20 Cr. 330 (A"
+      },
+      {
+        "name": "Shanks \nAssistant",
+        "role": "extracted",
+        "context": "like to provide us with one. \nShanks \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "anks \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York New York 10007 \nTel: \nEF"
+      },
+      {
+        "name": "York New",
+        "role": "extracted",
+        "context": "One St. Andrew's Plaza \nNew York New York 10007 \nTel: \nEFTA0002505"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.381Z"
+}

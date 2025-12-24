@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00025173",
+    "filename": "EFTA00025173.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025173.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nallIMIE> \nTo: \n(USANYS)' \nalMliff' \nCc: \" \n(USANYS)\"\nSubject: Re: Tartaglione Taint Team Question \nDate: Wed, 21 Apr 2021 23:51:33 +0000 \nSent from my iPhone \nOn Apr 21, 2021, at 7:04 PM, \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \n<US v Tartaglione, ECF 119.pdf> \n(USANYS) alMIN> \nwrote: \nEFTA00025173",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Tartaglione Taint",
+        "role": "extracted",
+        "context": "Cc: \" \n(USANYS)\"\nSubject: Re: Tartaglione Taint Team Question \nDate: Wed, 21"
+      },
+      {
+        "name": "Team Question",
+        "role": "extracted",
+        "context": "ubject: Re: Tartaglione Taint Team Question \nDate: Wed, 21 Apr 2021 23:51"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "23:51:33 +0000 \nSent from my iPhone \nOn Apr 21, 2021, at 7:04 PM, \nTh"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": ", 2021, at 7:04 PM, \nThanks, \nAssistant United States Attorney \n300 Quarropa"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "M, \nThanks, \nAssistant United States Attorney \n300 Quarropas Street \nWhite"
+      },
+      {
+        "name": "Quarropas Street",
+        "role": "extracted",
+        "context": "t United States Attorney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTele"
+      },
+      {
+        "name": "White Plains",
+        "role": "extracted",
+        "context": "torney \n300 Quarropas Street \nWhite Plains, NY 10601 \nTelephone: \n<US v"
+      }
+    ],
+    "locations": [
+      {
+        "name": "White Plains, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.620Z"
+}

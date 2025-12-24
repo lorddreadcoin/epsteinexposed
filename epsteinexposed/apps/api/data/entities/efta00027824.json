@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00027824",
+    "filename": "EFTA00027824.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027824.pdf",
+    "text": "\n\nFrom. \"> \nTo:'\nSubject: RE: M lawsuit \nDate: Thu, 26 Mar 2020 14:59:04 +0000 \nStill, some details about Doe's lawsuit are \nraising eyebrows—in particular because \nthe allegations seem to match up \nwith at least one of Epstein's alleged co-\nconspirators. \nIf this complaint was filed by \none of his co-conspirators, \nwho \"played an outsized role in Jeffrey \nEpstein's \ndevastating abuse of minors for over a decade and \nprofited handsomely including owning a company \naffiliated with Epstein, it is a \nbrazen abuse of our civil \njustice system,\" said Sigrid McCawley, a \npartner at \nBoies Schiller Flexner LLP who represents multiple \nvictims of Epstein. \"But above \nall, it is a shameless act \nand a disgraceful insult \nto the real victims.\" \nFrom: \nSent: Thursday, March 26, 2020 10:38 \nTo: l'; '(> \nSubject: RE: l= lawsuit \nI can't get past the paywall. What's the Sigrid quote? \nEFTA00027824\n\nFrom: \nSent: Wednesday, March 25, 2020 10:03 PM \nTo: \nSubject: lawsuit \nSigrid is . . . displeased. \n>; \nhttps://www.thedailybeast.com/is-one-of-jeffrey-epsteins-co-conspirators-suing-his-estate \nEFTA00027825",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "o \"played an outsized role in Jeffrey \nEpstein's \ndevastating abuse of minor"
+      },
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "civil \njustice system,\" said Sigrid McCawley, a \npartner at \nBoies S"
+      },
+      {
+        "name": "Boies Schiller",
+        "role": "extracted",
+        "context": "grid McCawley, a \npartner at \nBoies Schiller Flexner LLP who represents mu"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-26",
+        "event": "March 26, 2020"
+      },
+      {
+        "date": "2020-03-25",
+        "event": "March 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.052Z"
+}

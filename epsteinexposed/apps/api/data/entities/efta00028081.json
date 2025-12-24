@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00028081",
+    "filename": "EFTA00028081.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028081.pdf",
+    "text": "\n\nEvent: Accepted: Conference: Jeffrey Epstein \nStart Date: 2019-07-18 15:30:00 +0000 \nEnd Date: 2019-07-18 17:30:00 +0000 \nLocation: Courtroom 17B, 500 Pearl \nClass: X-PERSONAL \nComment: \nDate Created: 2019-07-17 21:10:56 +0000 \nDate Modified: 2019-07-17 21:10:56 +0000 \nPriority: 5 \nDTSTAMP: 2019-07-17 19:23:42 +0000 \nAttendee: I> \nEFTA00028081",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Event: Accepted: Conference: Jeffrey Epstein \nStart Date: 2019-07-18 15:30:00 +0000 \nEnd Date:"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Conference: Jeffrey Epstein \nStart Date: 2019-07-18 15:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-07-18 15:30:00 +0000 \nEnd Date: 2019-07-18 17:30:00 +0000 \nL"
+      },
+      {
+        "name": "Pearl \nClass",
+        "role": "extracted",
+        "context": "Location: Courtroom 17B, 500 Pearl \nClass: X-PERSONAL \nComment: \nDate C"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-07-17 21:10:56 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-07-17 21:10:56 +0000 \nDate Modified: 2019-07-17 21:10:56 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-18",
+        "event": "2019-07-18"
+      },
+      {
+        "date": "2019-07-17",
+        "event": "2019-07-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.591Z"
+}

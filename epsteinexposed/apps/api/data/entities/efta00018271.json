@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00018271",
+    "filename": "EFTA00018271.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018271.pdf",
+    "text": "\n\nFrom: \nTo: \n• \n)\"cj \n(USANYS \nSANYS Contractor]\" \n• \n(USANYS)\" \nSubject: FW: Filing \nDate: Fri, 12 Jul 2019 21:30:42 +0000 \nImportance: Normal \nAttachments: 2019-07-12,_JE,_govemment_opposition_to_bail_motioniwith_exhibits).pdf; 2019-07-\n12 JE_govemment_opposition_to_bail_motion_(without_exhibits).pdf \nWith exhibits and without. \nFrom: \nSent: Friday, July 12, 2019 17:27 \nTo: (USANYS) \n(USANYS) \nCc: \nSubject: RE: Filing \nJust a few last-last-minute edits : )   All filed, and attached for records. \nFrom: \nSent: Friday, July 12, 2019 17:23 \nTo: (USANYS)\nCc: \nSubject: Filing \n(USANYS) \n) \nI'm logged on remotely while waiting for my flight and am happy to file the bail reply letter if the final version is ready and \nis still tied up. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00018271",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Filing \nDate",
+        "role": "extracted",
+        "context": "\" \n• \n(USANYS)\" \nSubject: FW: Filing \nDate: Fri, 12 Jul 2019 21:30:42 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 21:30:42 +0000 \nImportance: Normal \nAttachments: 2019-07-12,_JE,_govemment_op"
+      },
+      {
+        "name": "Filing \nJust",
+        "role": "extracted",
+        "context": "(USANYS) \nCc: \nSubject: RE: Filing \nJust a few last-last-minute edits"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ready and \nis still tied up. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ll tied up. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00018271"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "2019-07-12"
+      },
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.548Z"
+}

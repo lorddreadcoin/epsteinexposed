@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00032026",
+    "filename": "EFTA00032026.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032026.pdf",
+    "text": "\n\nFrom: Thomas Brown <I \nTo: \" \nCc: \"I \n< \nSubject: Computer Forensics - Budget Estimate \nDate: Tue, 23 Jun 2020 20:29:21 +0000 \nInline-Images: Unage001.png; image002.png \nTo follow up on our conversation late last week, here is an estimate that covers the scope of work that we discussed. \nHere is what I would suggest as a statement of work: \nSpecific deliverables known at this time include receiving, inventorying and forensically processing approximately 57 \ndevices (a mix of computer hard drives, mobile devices, and portable media); extracting and parsing relevant data from \nthose devices (parsing may involve, for example, review of backups, compressed files or other data that is not initially \ncategorized by forensic tools); creating Relativity load files; preparing summaries and analyses of the data; and briefing \nthe investigative team on the contractor's findings. \nAs to staffing the engagement, I would propose having two junior-level staff members conduct the review, to be \nsupervised and assisted as necessary by a senior staff member (a former FBI computer scientist). A managing director \nwould have overall responsibility for the project and would coordinate with SDNY. \nAs to timing: we are available to start work immediately. Estimated time to complete the engagement would be 30 days \n(or less). \nAs to a  budget, I would estimate between $85,000 to $135,000 as follows: \nPosition Rate Est. Hours (Lowl Fees Est. Hours (High) Est. Fees \nDirector \n$ 603.00 50 $ \n30,150.00 75 \n$ \n45,225.00 \nStaff \n$ 356.00 150 \n$ \n53,400.00 250 \n$ \n89,000.00 \nTotal \n$ \n83,550.00 \nTotal \n$ \n134,225.00 \nIn addition to the foregoing hourly fees, we charge $200 per blank hard drive and $45 per blank thumb drive, to the \nextent they are required; as well as a fixed fee of $500 per device image (basically an equipment and software recovery \nfee for the specialized tools we use for forensics). \nThank you again for considering us for this important matter. \nPlease let me know if you have any questions. \nBest regards, \nTom \nThomas Brown I Managing Director \nBerkeley Research Group, LLC \nI New York, NY 10019 \nI \nthinkbrg.com \nEFTA00032026\n\n•BRG \nBERKELEY RESEARCH GROUP. LLC  (TOGETHER WITH ITS AFFIUATES,\"BRG\" - NOTICE \nTHIS EMAIL TRANSMISSION AND ANY ATTACHMENTS HERETO CONTAIN INFORMATION FROM BRG WHICH MAY BE CONFIDENTIAL AND PRIVILEGED. THE INFORMATION \nIS INTENDED FOR THE SOLE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED. IF YOU ARE NOT THE INTENDED RECIPIENT, YOUR USE, DISSEMINATION, \nFORWARDING, PRINTING OR COPYING OF THIS INFORMATION IS PROHIBITED. \nTAX ADVICE \nDISCLOSURE \nANY TAX ADVICE CONTAINED IN THIS COMMUNICATION (INCLUDING ANY ATTACHMENTS) IS NOT INTENDED OR WRITTEN TO BE USED, AND CANNOT BE USED, FOR THE \nPURPOSE OF (I) AVOIDING PENALTIES UNDER THE INTERNAL REVENUE CODE OR \n(II) \nPROMOTING, MARKETING OR RECOMMENDING TO ANOTHER PARTY ANY \nTRANSACTION OR MATTER ADDRESSED HEREIN. \nBRG IS (I) NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL ADVICE AND (II) NOT A CPA FIRM AND DOES NOT PROVIDE AUDIT, ATTEST OR PUBLIC ACCOUNTING \nSERVICES. \nEFTA00032027",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Thomas Brown",
+        "role": "extracted",
+        "context": "From: Thomas Brown <I \nTo: \" \nCc: \"I \n< \nSubject"
+      },
+      {
+        "name": "Computer Forensics",
+        "role": "extracted",
+        "context": "I \nTo: \" \nCc: \"I \n< \nSubject: Computer Forensics - Budget Estimate \nDate: Tue,"
+      },
+      {
+        "name": "Budget Estimate",
+        "role": "extracted",
+        "context": "Subject: Computer Forensics - Budget Estimate \nDate: Tue, 23 Jun 2020 20:29"
+      },
+      {
+        "name": "Position Rate",
+        "role": "extracted",
+        "context": ",000 to $135,000 as follows: \nPosition Rate Est. Hours (Lowl Fees Est. Ho"
+      },
+      {
+        "name": "Lowl Fees",
+        "role": "extracted",
+        "context": "s: \nPosition Rate Est. Hours (Lowl Fees Est. Hours (High) Est. Fees"
+      },
+      {
+        "name": "Fees \nDirector",
+        "role": "extracted",
+        "context": "l Fees Est. Hours (High) Est. Fees \nDirector \n$ 603.00 50 $ \n30,150.00 75"
+      },
+      {
+        "name": "Tom \nThomas",
+        "role": "extracted",
+        "context": "ny questions. \nBest regards, \nTom \nThomas Brown I Managing Director \nBe"
+      },
+      {
+        "name": "Managing Director",
+        "role": "extracted",
+        "context": "regards, \nTom \nThomas Brown I Managing Director \nBerkeley Research Group, LLC"
+      },
+      {
+        "name": "Berkeley Research",
+        "role": "extracted",
+        "context": "as Brown I Managing Director \nBerkeley Research Group, LLC \nI New York, NY 10"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.460Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00018394",
+    "filename": "EFTA00018394.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018394.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nci\nTo: \n(USANYS)\".c \nCc: ' (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Thu, 25 Jul 2019 15:55:28 +0000 \nSure \nFrom: \n(USANYS) \nSent: Thursday, July 25, 2019 11:55 AM \nTo: (USANYS) \nCc: (USANYS) \nSubject: RE: Epstein \nNow? \nFrom: (USANYS) \nSent: Thursday, July 25, 2019 11:53 AM \nTo: (USANYS) \nCc: (USANYS) \nSubject: Epstein \nI would like to discuss when you have a moment: \nhttps://abcnews.go.com/US/millionaire-convicted-sex-offender-jeffrey-epstein-put-suicide/story? \nid=64562129&cid=social twitter abcn \nMillionaire and convicted sex offender Jeffrey Epstein, facing charges of federal sex trafficking, was placed on \nsuicide watch after being found unresponsive and with injuries to his neck at a federal lockup in New York City, \naccording to a law enforcement official briefed on the incident \nhttps://www.nytimes.com/2019/07/25Thyregionneffrey-epstein-injured-jail.html? \naction=click&module=Top%20Stories&pgtype=Homepage \nA week after being denied bail, Jeffrey E. Epstein was found unconscious in his cell on Tuesday at a \nfederal jail in Manhattan with marks on his neck, and prison officials were treating the incident as a \npossible suicide attempt, a law enforcement official who had been briefed on the matter said. \nMr. Epstein's injuries were not serious, said the official, who requested his \nname not be published because he was not authorized to speak on the matter. \nAnd of course there is the WNBC report... \nEFTA00018394",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "tter abcn \nMillionaire and convicted sex offender Jeffrey Epstein, facing charges of federal sex trafficking, was p"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "briefed on the matter said. \nMr. Epstein's injuries were not serio"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "' (USANYS)\" \nI \nSubject: RE: Epstein \nDate: Thu, 25 Jul 2019 15:55:28 +0"
+      },
+      {
+        "name": "Sure \nFrom",
+        "role": "extracted",
+        "context": ", 25 Jul 2019 15:55:28 +0000 \nSure \nFrom: \n(USANYS) \nSent: Thursday, J"
+      },
+      {
+        "name": "Epstein \nNow",
+        "role": "extracted",
+        "context": ") \nCc: (USANYS) \nSubject: RE: Epstein \nNow? \nFrom: (USANYS) \nSent: Thurs"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-25",
+        "event": "July 25, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.824Z"
+}

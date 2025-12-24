@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00019467",
+    "filename": "EFTA00019467.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019467.pdf",
+    "text": "\n\nFrom: Robert Glassman\nTo:' \nCc: \" \"' , Nathan \nWerksman , Keilah Betts \nSubject: Request for Tangible and Documentary Evidence (Touhy Request); Jane Doe v. Indyke et al., \nSDNY Case No. I :20-cv-00484-JGK-DCF \nDate: Mon, 08 Jun 2020 19:08:25 +0000 \nImportance: High \nAttachments: 6 8 20 Ltr re Jane Doe Touhy_request.pdf _ _ _ _ _ _ _ \nDear Mr. \nPlease see the attached letter of today's date. A copy will also be sent via Fedex. Thank you. \nRobert Glassman \nRobert Glassman, Esq. \nPanish Shea & Boyle LLP \n11111 Santa Monica Boulevard, Suite 700 \nLos Angeles, CA 90025 \nWeb: www.psblaw.com \nCONFIDENTIALITY NOTICE: \nThis e-mail may contain confidential and privileged material for the sole use of the intended recipient(s). Any review, use, distribution \nor disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please \ncontact the sender by reply e-mail or telephone, and delete all copies of this message. \nIf you are a potential client, the information you disclose to us by email will be kept in strict confidence and will be protected to the \nfull extent of the law. Please be advised, however, that Panish Shea & Boyle LLP and its lawyers do not represent you until you have \nsigned a retainer agreement with the firm. Until that time, you are responsible for any statutes of limitations or other deadlines for \nyour case or potential case. \nEFTA00019467",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Please",
+        "role": "extracted",
+        "context": "quest.pdf _ _ _ _ _ _ _ \nDear Mr. \nPlease see the attached letter"
+      },
+      {
+        "name": "Robert Glassman",
+        "role": "extracted",
+        "context": "From: Robert Glassman\nTo:' \nCc: \" \"' , Nathan \nWerk"
+      },
+      {
+        "name": "Nathan \nWerksman",
+        "role": "extracted",
+        "context": "ert Glassman\nTo:' \nCc: \" \"' , Nathan \nWerksman , Keilah Betts \nSubject: Requ"
+      },
+      {
+        "name": "Keilah Betts",
+        "role": "extracted",
+        "context": "Cc: \" \"' , Nathan \nWerksman , Keilah Betts \nSubject: Request for Tangibl"
+      },
+      {
+        "name": "Documentary Evidence",
+        "role": "extracted",
+        "context": "ect: Request for Tangible and Documentary Evidence (Touhy Request); Jane Doe v."
+      },
+      {
+        "name": "Touhy Request",
+        "role": "extracted",
+        "context": "ble and Documentary Evidence (Touhy Request); Jane Doe v. Indyke et al.,"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "ary Evidence (Touhy Request); Jane Doe v. Indyke et al., \nSDNY Case"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "e Doe v. Indyke et al., \nSDNY Case No. I :20-cv-00484-JGK-DCF \nDate"
+      },
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "0 19:08:25 +0000 \nImportance: High \nAttachments: 6 8 20 Ltr re Jane Doe Touhy"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": "hy_request.pdf _ _ _ _ _ _ _ \nDear Mr. \nPlease see the attached let"
+      },
+      {
+        "name": "Panish Shea",
+        "role": "extracted",
+        "context": "ssman \nRobert Glassman, Esq. \nPanish Shea & Boyle LLP \n11111 Santa Moni"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "anish Shea & Boyle LLP \n11111 Santa Monica Boulevard, Suite 700 \nLos Ang"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.959Z"
+}

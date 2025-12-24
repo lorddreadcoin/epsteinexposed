@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00021052",
+    "filename": "EFTA00021052.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021052.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: USAEO-Foreign Travel ..tj \nCc: IMIEllr)\" \nSubject: FW: ECC package \n- AUSA \nDate: Fri, 24 Jan 2020 19:30:52 +0000 \nImportance: High \nAttachments: _ECC_package_2.3.20.pdf \nECC ackage \n(USANYS)\" \nHi RMP, Please see the attached ECC request package for-\nIf required, please inform the traveler how to determine who the POC is for this trip. \nHi Please let EOUSA know if you have checked to see if a visa is required for your destination. \nHew the state dept. link for the country you are traveling to visa link for the county you we traveling to. \nPisa policies may be found on the Department ofState's website or on the website hosted by each countryl embassy: \nhttps://travelstate.govicontentipasports/enkountryhtml \nTraveler; Consult EOUSA usaeo.foreign.travel@usdutgra mailbox to obtain a visa for you. \nTo provide sufficient time for the State Dept. to issue the authorization letter and for the foreign government to process the visa \nrequest, it is recommended that visa request package be submitted to EOUSAX RMP Travel. \nStaff IS business days prior to the proposed date of departure. \nThank you \n---Original Message----\nFrom: \nSent: Friday, January 24, 2020 1:41 PM \nTo: (USANYS) \nSubject: FW: ITINERARY ONLY - R  - Travel Date: 03FEB20 - \nRef: \nHEZZTD \n(USANYS) \n< \nFinally have a correct itinerary! This is for both the passport application and the request for approval of the travel. \nThanks so much for your help. \nFrom: \nSent: Friday, January 24, 2020 10:39 AM \nTo: (USANYS) \nCc: (USANYS).ca \nSubject: RE: Sorry One more thing - EOUSA also needs your OIA \napproval email. Thanks \ncfl \nWe have reached out to OIA and are awaiting their approval. We'll send it as soon as we have it. \nFrom: (USANYS).> \nSent: Friday, January 24, 2020 10:39 AM \nTo: \nCc: (USANYS) \nSubject: Sorry One more thing - EOUSA also needs your OIA approval \nemail. Thanks \nEFTA00021052\n\nSorry, One more thing - EOUSA also needs your OIA approval email. Thanks \nFrom: \nSent: Friday, January 24, 2020 10:33 AM \nTo: (USANYS) c:J; \nSubject: RE: Questionnaire - Hi We also need this one ASAP. Thanks \nAttached is my questionairre \n Original Message \nFrom: (USANYS) \nSent: Thursday, January 23, 2020 2:28 PM \nTo: USAEO-Foreign Travel \nCc: (USANYS) \nSubject: FW: ITINERARY ONLY - \nC \nHi \nC \nR - Travel Date: 04FEB20 - Ref: HEZZTD \n> \nAttached is AUSA flight itinerary for her upcoming foreign travel. I know you needed this for the passport. We \nwill be routing a travel authorization for her trip soon. \nThank you! \nOriginal Message \nFrom: \nSent: Thursday, January 23, 2020 2:26 PM \nTo: (USANYS) c (USANYS) \nSubject: FW: ITINERARY ONLY - \nHi, \nR - Travel Date: 04FEB20 - Ref: HEZZTD \nAttached is my itinerary with the revised dates (2/4/20 through 2/6/20) for the trip to Sweden. Should have the draft \ntravel memo ready to send shortly. \nThanks, \nEFTA00021053",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Foreign Travel",
+        "role": "extracted",
+        "context": "From: ' (USANYS)\"  \nTo: USAEO-Foreign Travel ..tj \nCc: IMIEllr)\" \nSubject:"
+      },
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "0 19:30:52 +0000 \nImportance: High \nAttachments: _ECC_package_2.3.20.pdf \nECC"
+      },
+      {
+        "name": "Hi Please",
+        "role": "extracted",
+        "context": "ho the POC is for this trip. \nHi Please let EOUSA know if you have ch"
+      },
+      {
+        "name": "State Dept",
+        "role": "extracted",
+        "context": "ovide sufficient time for the State Dept. to issue the authorization l"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "of departure. \nThank you \n---Original Message----\nFrom: \nSent: Friday, Janu"
+      },
+      {
+        "name": "Travel Date",
+        "role": "extracted",
+        "context": "ct: FW: ITINERARY ONLY - R  - Travel Date: 03FEB20 - \nRef: \nHEZZTD \n(US"
+      },
+      {
+        "name": "Sorry One",
+        "role": "extracted",
+        "context": "Cc: (USANYS).ca \nSubject: RE: Sorry One more thing - EOUSA also needs"
+      },
+      {
+        "name": "Thanks \nFrom",
+        "role": "extracted",
+        "context": "eeds your OIA approval email. Thanks \nFrom: \nSent: Friday, January 24, 2"
+      },
+      {
+        "name": "Hi We",
+        "role": "extracted",
+        "context": "Subject: RE: Questionnaire - Hi We also need this one ASAP. Than"
+      },
+      {
+        "name": "Thanks \nAttached",
+        "role": "extracted",
+        "context": "i We also need this one ASAP. Thanks \nAttached is my questionairre \n Origina"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-24",
+        "event": "January 24, 2020"
+      },
+      {
+        "date": "2020-01-23",
+        "event": "January 23, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.921Z"
+}

@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00023242",
+    "filename": "EFTA00023242.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023242.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo:  \nI(USANYS)\n„\nSubject: FW: the safe on Epstein's private island.... \nDate: Fri, 12 Jul 2019 17:46:47 +0000 \nImportance: Normal \nNot sure if-sent this to you or not, but just in case... \nFrom: i(BLOOMBERG/ NEWSROOM: \nSent: Friday, July 12, 2019 1:09 PM \nTo: (USANYS) \nCc: (USANYS)  \nSubject: the safe on Epstein's private island.... \nJust wanted to make sure your team saw this reference in today's story to a \nsuper-secret safe in Epstein's island getaway: \nhttps://www.bloomberg.com/news/articles/2019-07-12/jeffrey-epstein-s-\nprivate-island-in-the-caribbean-has-gone-guiet?srnd=premium \n\"The level of secrecy around a steel safe in Epstein's office, in \nparticular, suggested it contained much more than just money, he said. \nOutside of an occasional visit by a housekeeper, no one was allowed \nin \nthose rooms.\" \nBloomberg News \nEFTA00023242",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nNot",
+        "role": "extracted",
+        "context": "9 17:46:47 +0000 \nImportance: Normal \nNot sure if-sent this to you or n"
+      },
+      {
+        "name": "Bloomberg News",
+        "role": "extracted",
+        "context": "s allowed \nin \nthose rooms.\" \nBloomberg News \nEFTA00023242"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "2019-07-12"
+      },
+      {
+        "date": "2019-07-12",
+        "event": "July 12, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.539Z"
+}

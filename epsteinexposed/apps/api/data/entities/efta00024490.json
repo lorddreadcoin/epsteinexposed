@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00024490",
+    "filename": "EFTA00024490.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024490.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: FW: SDNY Investigation \nDate: Tue, 07 Jul 2020 21:24:42 +0000 \nAttachments: WinZip_Extraction_Directions.pdf; disclaim.txt \nInline-Images: image001.png \nHi \nIn a moment, I'll forward you two emails with subpoena returns from UBS. Could you please unzip the files (password \nbelow), save them in the Epstein shared, update the subpoena tracker, and reach out to to provide him with a \ncopy? \nThanks! \nFrom: \nSent: Tuesday, July 7, 2020 5:22 PM \nTo: \nCc: \nSubject: RE: SDNY Investigation \nYou're welcome. The password for all is Max_0707. Winzip directions are attached and 7-zip.org is also useful for opening \nfiles. \nFrom: \nSent: Tuesday, July 7, 2020 4:17 PM \nTo: Canter, Nicole \n<nicole.canter@ubs.com>\nCc: \n; Wills, Theodore \n<theodore.wills@ubs.com>\nSubject: [External] RE: SDNY Investigation \nReceived, and thanks very much. \nBest, \nFrom: nicole.canter@ubs.com \n<nicole.canter@ubs.com>\nSent: Tuesday, July 7, 2020 5:13 PM \nEFTA00024490\n\nTo: \nCc: \nSubject: SDNY Investigation \nCounsel, \nI am sending, in multiple emails, account statements for 2020. Once I receive confirmation of receipt, I will send the \npassword. \nI have also requested a CD containing account statements for 2018 and 2019; I anticipate overnighting it tomorrow for \ndelivery on Thursday. \nUBS \nParalegal —  Authorized Officer \nUBS Group AG \nLegal - SLG \nNashville. TN 37238 \nwww.ubs.com \nEFTA00024491",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Investigation \nDate",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: FW: SDNY Investigation \nDate: Tue, 07 Jul 2020 21:24:42 +0"
+      },
+      {
+        "name": "Hi \nIn",
+        "role": "extracted",
+        "context": "Inline-Images: image001.png \nHi \nIn a moment, I'll forward you tw"
+      },
+      {
+        "name": "Investigation \nYou",
+        "role": "extracted",
+        "context": "To: \nCc: \nSubject: RE: SDNY Investigation \nYou're welcome. The password for"
+      },
+      {
+        "name": "Investigation \nReceived",
+        "role": "extracted",
+        "context": "Subject: [External] RE: SDNY Investigation \nReceived, and thanks very much. \nBest,"
+      },
+      {
+        "name": "Investigation \nCounsel",
+        "role": "extracted",
+        "context": "4490\n\nTo: \nCc: \nSubject: SDNY Investigation \nCounsel, \nI am sending, in multiple e"
+      },
+      {
+        "name": "Authorized Officer",
+        "role": "extracted",
+        "context": "Thursday. \nUBS \nParalegal —  Authorized Officer \nUBS Group AG \nLegal - SLG \nN"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-07",
+        "event": "July 7, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.259Z"
+}

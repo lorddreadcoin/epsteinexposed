@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031238",
+    "filename": "EFTA00031238.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031238.pdf",
+    "text": "\n\nFrom: Jordan Merson <jmerson@mersonlaw.com> \nTo: cc\nIME> \nCc: Jesse Mautner \ncjmautner@mersonlaw.com> \nSubject: This \nEpstein accuser is 'ecstatic' over Ghislaine Maxwell's arrest \nDate: Fri, 03 Jul 2020 01:00:39 +0000 \nDear Mr. \nYou previously reached out to me but my client is ready to help. Let me know the next steps. \nhttps://nypost.corn/2020/07/02/this-epstein-accuser-is-ecstatic-over-ghislaine-maxwells-arrest/ \nSent from my iPhone \nEFTA00031238",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Subject: This \nEpstein accuser is 'ecstatic' over Ghislaine Maxwell's arrest \nDate: Fri, 03 Jul 2020 01:00:39 +0000"
+      },
+      {
+        "name": "You",
+        "role": "extracted",
+        "context": "Jul 2020 01:00:39 +0000 \nDear Mr. \nYou previously reached out t"
+      },
+      {
+        "name": "Jordan Merson",
+        "role": "extracted",
+        "context": "From: Jordan Merson <jmerson@mersonlaw.com> \nTo:"
+      },
+      {
+        "name": "Jesse Mautner",
+        "role": "extracted",
+        "context": "sonlaw.com> \nTo: cc\nIME> \nCc: Jesse Mautner \ncjmautner@mersonlaw.com> \nSu"
+      },
+      {
+        "name": "This \nEpstein",
+        "role": "extracted",
+        "context": "tner@mersonlaw.com> \nSubject: This \nEpstein accuser is 'ecstatic' over Gh"
+      },
+      {
+        "name": "Dear Mr",
+        "role": "extracted",
+        "context": ", 03 Jul 2020 01:00:39 +0000 \nDear Mr. \nYou previously reached out"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.620Z"
+}

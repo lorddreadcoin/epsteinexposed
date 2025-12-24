@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019056",
+    "filename": "EFTA00019056.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019056.pdf",
+    "text": "\n\nFrom: Nathan NYSD Chambers \nTo: Jeff Pagliuca ipagliuca®hmflaw.com>, Laura Mennin er <lmennin e hmflaw.com>, \nbcstemheim mac.com <bcsternheim i  mac.com>, \" \nSANYS \n\"CEverdell@CohenGresser.com\" <CEverdell®CohenGresseccom>, ' \nSubject: 20cr330, US v. Maxwell \nDate: Mon, 01 Nov 2021 21:44:31 +0000 \nAttachments: 20cr330_Order 11.1.21.pdf \nCounsel: \nAttached please find an Order issued by Judge Nathan, which will be docketed tomorrow morning. \nPlease confirm receipt. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00019056",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers \nTo",
+        "role": "extracted",
+        "context": "From: Nathan NYSD Chambers \nTo: Jeff Pagliuca ipagliuca®hmfl"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "om: Nathan NYSD Chambers \nTo: Jeff Pagliuca ipagliuca®hmflaw.com>, Laura"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "gliuca ipagliuca®hmflaw.com>, Laura Mennin er <lmennin e hmflaw.com>, \nb"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": ">, ' \nSubject: 20cr330, US v. Maxwell \nDate: Mon, 01 Nov 2021 21:44:31 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "lease find an Order issued by Judge Nathan, which will be docketed tomor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.198Z"
+}

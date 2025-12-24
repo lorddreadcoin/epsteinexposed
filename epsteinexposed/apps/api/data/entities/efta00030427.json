@@ -1,0 +1,137 @@
+{
+  "document": {
+    "id": "efta00030427",
+    "filename": "EFTA00030427.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030427.pdf",
+    "text": "\n\nInstructions:  Complete the form (page 2) and break down your travel hours in this format. Once this form is completed return to Nick Siu \nin the Human Resources Office. The hours deemed creditable will be forwarded to your supervisor for approval then your \ntimekeeper for processing. Not all time is creditable so it is important that you provide as much detail as you possibly can. \nie. Travel Lo \nEXAMPLE \nTRAVEL LOG DESCRIPTION OF TIME PERIOD TIME CLAIMED FOR HR USE ONLY \nPart I   -  Travel to TDY Station \nFrom To \nWaiting at airport 9:30am 1:30pm \nLGA to Washington 1:30pm 3:00pm \nConnecting flight -  Washington to Columbia, SC (flight delay 2 hours) 3:00pm 6:30pm \nAirport to hotel 6:30pm 7:00pm \nAdditional Information Regarding Compensatory Time for Travel \n• FLSA Status- AUSAs are exempt; Support staff GS-8 and below are generally non-exempt. \n• Compensatory time for travel (CT/T) from office to airport during hours that are not part of your Tour-of-Duty is creditable. \n• Compensatory time for travel (CT/T) is a different entitlement that other OT/CT benefits and has different rules. \n• Compensable time can only be credited in full 15 minute increments. Rounding is not appropriate. \n• Time driving to airport from home is not creditable if airport is within boundaries of Official Duty Station (defined as a  50 mile radius of workplace). \n• Time driving to home from airport, after return flight from TDY, is not creditable. \n• Creditable time at airport awaiting a  departing flight cannot exceed two (2) hours. \n• Personal time for bona fide meal periods, sleep, rest, etc., during the waiting periods are excluded. \n• Time that falls within or during en employee's regular duty hours is not creditable. \n• When travel is driving personal or government vehicle from home to a  TDY location outside the Official Duty Station, creditable time starts at time \nleft home, but agency must reduce time by the employee's normal commute time from his/her home to office. \n• When employee must go to workplace before starting travel to TDY location, creditable time starts when employee leaves the office. \n• Regular commuting time for trips to and from the initial and final departure terminal and home are excluded. \nEFTA00030427\n\nREQUEST FOR COMPENSATORY TIME (CT/T) FOR TRAVEL REQUEST AND CERTIFICATION \nName: SSN. *FLSA(V): Exempt NonExempt= Date \nof \nRequest:  \n11/06/19\nTour of Duty: tie.. 9:00 am \n-5:30pm)  \n9:30 a.m. - \n5:30 p.m. \nTiinekeeper: \nDestination: \nSanta Monica, \nCA \nDate of departure:  \nWednesday, Nov. 13, 2019 \nNormal Commute Time to Work: 15 minutes \nDate of return from travel:  \nFriday, Nov. 15. 2019 \nPar Period: 23\nV After travel has been completed, complete the applicable items below and \ncertify \ninformation provided. Time claimed mast he in 15 minute increments. \nTRAVEL LOG DESCRIPTION OF TIME PERIOD \nTIME CLAIMED FOR MR USE ONLY \nPart I  - Travel to TDY Station \nFrom To \nTravel to JFK (11/13) 2:00 p.m. 2:55 p.m. \nWaft \nfor flight at JFK (11/13) \n2:55 p.m. \n3:30 p.m. \nJFK to LAX flight (11/13) \n3:30 \np.m. \n10:10 \np.m. \nLAX to hotel (11/13) \n10:10 p.m. \n10:40 p.m. \n• NOTE: these times are all local time for consistency \nPART II - Travel from TDY Station \n\"NOTE: these \ntimes are all local time for consistency \nINDIA' \nshred \nby \nEmployee Certification (Sign):  \nDa,: 2019.11.06 19:12:11 .05'00* \nSupervisory Certification (Sign): \nTotal CT/T Hours Approved:  Approved by: \nDate:  \n18 November 2019 \nDate: \nDate: \nEFTA00030428",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Nick Siu",
+        "role": "extracted",
+        "context": "s form is completed return to Nick Siu \nin the Human Resources Offic"
+      },
+      {
+        "name": "Human Resources",
+        "role": "extracted",
+        "context": "ed return to Nick Siu \nin the Human Resources Office. The hours deemed cred"
+      },
+      {
+        "name": "Travel Lo",
+        "role": "extracted",
+        "context": "ail as you possibly can. \nie. Travel Lo \nEXAMPLE \nTRAVEL LOG DESCRIPT"
+      },
+      {
+        "name": "Station \nFrom",
+        "role": "extracted",
+        "context": "LY \nPart I   -  Travel to TDY Station \nFrom To \nWaiting at airport 9:30am"
+      },
+      {
+        "name": "To \nWaiting",
+        "role": "extracted",
+        "context": "Travel to TDY Station \nFrom To \nWaiting at airport 9:30am 1:30pm \nLGA"
+      },
+      {
+        "name": "Additional Information",
+        "role": "extracted",
+        "context": "rport to hotel 6:30pm 7:00pm \nAdditional Information Regarding Compensatory Time f"
+      },
+      {
+        "name": "Regarding Compensatory",
+        "role": "extracted",
+        "context": ":00pm \nAdditional Information Regarding Compensatory Time for Travel \n• FLSA Statu"
+      },
+      {
+        "name": "Official Duty",
+        "role": "extracted",
+        "context": "rport is within boundaries of Official Duty Station (defined as a  50 mil"
+      },
+      {
+        "name": "Exempt Non",
+        "role": "extracted",
+        "context": "ICATION \nName: SSN. *FLSA(V): Exempt NonExempt= Date \nof \nRequest:  \n1"
+      },
+      {
+        "name": "Santa Monica",
+        "role": "extracted",
+        "context": "Tiinekeeper: \nDestination: \nSanta Monica, \nCA \nDate of departure:  \nWe"
+      },
+      {
+        "name": "Normal Commute",
+        "role": "extracted",
+        "context": ":  \nWednesday, Nov. 13, 2019 \nNormal Commute Time to Work: 15 minutes \nDat"
+      },
+      {
+        "name": "Par Period",
+        "role": "extracted",
+        "context": "vel:  \nFriday, Nov. 15. 2019 \nPar Period: 23\nV After travel has been c"
+      },
+      {
+        "name": "To \nTravel",
+        "role": "extracted",
+        "context": "- Travel to TDY Station \nFrom To \nTravel to JFK (11/13) 2:00 p.m. 2:55"
+      },
+      {
+        "name": "Employee Certification",
+        "role": "extracted",
+        "context": "nsistency \nINDIA' \nshred \nby \nEmployee Certification (Sign):  \nDa,: 2019.11.06 19:"
+      },
+      {
+        "name": "Supervisory Certification",
+        "role": "extracted",
+        "context": "2019.11.06 19:12:11 .05'00* \nSupervisory Certification (Sign): \nTotal CT/T Hours App"
+      },
+      {
+        "name": "Hours Approved",
+        "role": "extracted",
+        "context": "ification (Sign): \nTotal CT/T Hours Approved:  Approved by: \nDate:  \n18 No"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      },
+      {
+        "name": "LGA",
+        "type": "airport"
+      },
+      {
+        "name": "LAX",
+        "type": "airport"
+      },
+      {
+        "name": "Columbia, SC",
+        "type": "city"
+      },
+      {
+        "name": "Santa Monica, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-18",
+        "event": "18 November 2019"
+      }
+    ],
+    "flights": [
+      {
+        "from": "JFK",
+        "to": "LAX",
+        "date": "unknown",
+        "passengers": []
+      }
+    ],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.852Z"
+}

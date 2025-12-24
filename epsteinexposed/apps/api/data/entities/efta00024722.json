@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024722",
+    "filename": "EFTA00024722.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024722.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Epstein Mansions in New York and Palm Beach for Sale for $110 Million - The New York Times \nDate: Thu, 23 Jul 2020 16:23:57 +0000 \nhttps://www.nytimes.corn/2020/07/23/nyregion/jeffrey-epstein-address-homes.html \nSent from my iPhone \nEFTA00024722",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Mansions",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Epstein Mansions in New York and Palm Beach fo"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "tein Mansions in New York and Palm Beach for Sale for $110 Million - T"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "h for Sale for $110 Million - The New York Times \nDate: Thu, 23 Jul"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "le for $110 Million - The New York Times \nDate: Thu, 23 Jul 2020 16:23"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.698Z"
+}

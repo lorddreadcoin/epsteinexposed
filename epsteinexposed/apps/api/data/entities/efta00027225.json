@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00027225",
+    "filename": "EFTA00027225.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027225.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" < \nTo: ' (USANYS) [Contractor]\" <1 \nSubject: RE: Subpoenas to Serve \nDate: Mon, 19 Aug 2019 16:06:08 +0000 \nDon't need to scan the OB211 form in. For the fax confirmations, I'm good with you just retaining the record. \nFrom: (USANYS) [Contractor] < \nSent: Monday, August 19, 2019 11:54 AM \nTo: (USANYS) \nSubject: RE: Subpoenas to Serve \nThey are all sent. Do I need to resave the subpoenas with the OB211 attached in pdf form? I just printed them separately \nand combined them in hard copy form. Also, with the fax confirmations shall I scan them and merge them with the \nsubpoenas with which they were served? \nFrom: (USANYS) < \nSent: Saturday, August 17, 2019 3:55 PM \nTo: (USANYS) [Contractor) \nSubject: Subpoenas to Serve \nCan you send all of these out? All Epstein related. To each of them can you attach the OB211 form at the end, which I've \nalso attached. Thanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00027225",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Serve \nDate",
+        "role": "extracted",
+        "context": "<1 \nSubject: RE: Subpoenas to Serve \nDate: Mon, 19 Aug 2019 16:06:08 +0"
+      },
+      {
+        "name": "Serve \nThey",
+        "role": "extracted",
+        "context": "S) \nSubject: RE: Subpoenas to Serve \nThey are all sent. Do I need to re"
+      },
+      {
+        "name": "Serve \nCan",
+        "role": "extracted",
+        "context": "actor) \nSubject: Subpoenas to Serve \nCan you send all of these out? Al"
+      },
+      {
+        "name": "All Epstein",
+        "role": "extracted",
+        "context": "an you send all of these out? All Epstein related. To each of them can"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "I've \nalso attached. Thanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ed. Thanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-19",
+        "event": "August 19, 2019"
+      },
+      {
+        "date": "2019-08-17",
+        "event": "August 17, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.793Z"
+}

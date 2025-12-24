@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00029965",
+    "filename": "EFTA00029965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029965.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Laptop for Ghislaine Maxwell (Reg. No. 02879-509) \nDate: Mon, 16 Nov 2020 18:58:05 +0000 \nAttachments: 2020-11-17 GM letter to MDC re laptop.pdf \nGood afternoon, \nI  am planning to bring a laptop and charger for inmate Ghislaine Maxwell (Reg. No. 02879-509) to use when reviewing \ndiscovery produced from my office. Attached please find the accompanying cover letter, which I will hand deliver with the \nlaptop. I am available to make this delivery tomorrow. Would you please let me know what time I should arrive with the \nlaptop? \nMy understanding from is that I should bring the laptop to the East Building, located on 29th Street near \n3rd Avenue and that I should go to the front lobby and ask \nfoj \nwho will then come and retrieve the laptop. \nPlease let me know if that is correct, or if I should take any different steps. \nAs always, I can be reached on my cellphone at with any questions or concerns. \nThank you, \nMaurene \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00029965",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: Laptop for Ghislaine Maxwell (Reg. No. 02879-509) \nDate: Mon, 16 Nov 2020 18:5"
+      },
+      {
+        "name": "East Building",
+        "role": "extracted",
+        "context": "hould bring the laptop to the East Building, located on 29th Street near"
+      },
+      {
+        "name": "Maurene \nAssistant",
+        "role": "extracted",
+        "context": "ons or concerns. \nThank you, \nMaurene \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "rene \nAssistant United States Attorney \nSouthern District of New York \nNew Yor"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-11-17",
+        "event": "2020-11-17"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.661Z"
+}

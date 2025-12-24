@@ -1,0 +1,147 @@
+{
+  "document": {
+    "id": "efta00018698",
+    "filename": "EFTA00018698.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018698.pdf",
+    "text": "\n\n7/19/2021 Student Info \n• \nEnrollment \nEnrollment Code .•Drop Date Drop Code \nView (R02) Re-entry from another school same district 03/07/2002 (W26) W/D \nView (R02) Re-entry from another school same district 10/11/2001 (W02) In DL \nView (EM) Original Entry of Adult 09/20/2001 (W32) Adul \nView (EM) Original Entry of Adult Co3/13/2001 (W47) Adul \nView (EM) Original Entry of Adult 08/15/2000 (W47) Adult \nView (E01) In District Previous Year Co3/16/1999 (W03) In or \nView (E01) In District Previous Year 06/09/1999 (W02) In \nDi! \nView (E01) In District Previous Year C8/20/1997 (W22) Whei \nView (E01) In District Previous Year 06/10/1998 (WO1) In Scl \nView (R03) Re-entry Unexpected same Dist after wd 06/11/1997 (W02) In \nDi! \nView (E01) In District Previous Year 08/22/1994 \nView (E01) In District Previous Year 06/10/1994 (W02) In Di! \nView (E01) In District Previous Year 06/11/1993 \n(W01) In Scl \nView (E01) In District Previous Year 06/11/1992 \n(W01) In Scl \nView (E01) In District Previous Year 06/13/1991 \n(W01) In Scl \nView (E01) In District Previous Year 06/13/1990 \ni \n(W02) In Di,\nJ \nhttpslisis.palmbeachschools.org/focus/Modules.php?modname=Students/Student.php&search_modfunc=result&student_ 1/1 \nEFTA00018698",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Student Info",
+        "role": "extracted",
+        "context": "7/19/2021 Student Info \n• \nEnrollment \nEnrollment Co"
+      },
+      {
+        "name": "Enrollment \nEnrollment",
+        "role": "extracted",
+        "context": "7/19/2021 Student Info \n• \nEnrollment \nEnrollment Code .•Drop Date Drop Code \nV"
+      },
+      {
+        "name": "Drop Date",
+        "role": "extracted",
+        "context": "Enrollment \nEnrollment Code .•Drop Date Drop Code \nView (R02) Re-entr"
+      },
+      {
+        "name": "Drop Code",
+        "role": "extracted",
+        "context": "Enrollment Code .•Drop Date Drop Code \nView (R02) Re-entry from ano"
+      },
+      {
+        "name": "Original Entry",
+        "role": "extracted",
+        "context": "1/2001 (W02) In DL \nView (EM) Original Entry of Adult 09/20/2001 (W32) Adu"
+      },
+      {
+        "name": "Adul \nView",
+        "role": "extracted",
+        "context": "try of Adult 09/20/2001 (W32) Adul \nView (EM) Original Entry of Adult"
+      },
+      {
+        "name": "Adult Co",
+        "role": "extracted",
+        "context": "View (EM) Original Entry of Adult Co3/13/2001 (W47) Adul \nView (EM"
+      },
+      {
+        "name": "Adult \nView",
+        "role": "extracted",
+        "context": "try of Adult 08/15/2000 (W47) Adult \nView (E01) In District Previous Ye"
+      },
+      {
+        "name": "In District",
+        "role": "extracted",
+        "context": "/2000 (W47) Adult \nView (E01) In District Previous Year Co3/16/1999 (W0"
+      },
+      {
+        "name": "Previous Year",
+        "role": "extracted",
+        "context": "Adult \nView (E01) In District Previous Year Co3/16/1999 (W03) In or \nView"
+      },
+      {
+        "name": "In \nDi",
+        "role": "extracted",
+        "context": "revious Year 06/09/1999 (W02) In \nDi! \nView (E01) In District Prev"
+      },
+      {
+        "name": "Whei \nView",
+        "role": "extracted",
+        "context": "revious Year C8/20/1997 (W22) Whei \nView (E01) In District Previous Ye"
+      },
+      {
+        "name": "In Scl",
+        "role": "extracted",
+        "context": "revious Year 06/10/1998 (WO1) In Scl \nView (R03) Re-entry Unexpect"
+      },
+      {
+        "name": "In Di",
+        "role": "extracted",
+        "context": "revious Year 06/10/1994 (W02) In Di! \nView (E01) In District Prev"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-07-19",
+        "event": "7/19/2021"
+      },
+      {
+        "date": "2002-03-07",
+        "event": "03/07/2002"
+      },
+      {
+        "date": "2001-10-11",
+        "event": "10/11/2001"
+      },
+      {
+        "date": "2001-09-20",
+        "event": "09/20/2001"
+      },
+      {
+        "date": "2000-08-15",
+        "event": "08/15/2000"
+      },
+      {
+        "date": "1999-06-09",
+        "event": "06/09/1999"
+      },
+      {
+        "date": "1998-06-10",
+        "event": "06/10/1998"
+      },
+      {
+        "date": "1997-06-11",
+        "event": "06/11/1997"
+      },
+      {
+        "date": "1994-08-22",
+        "event": "08/22/1994"
+      },
+      {
+        "date": "1994-06-10",
+        "event": "06/10/1994"
+      },
+      {
+        "date": "1993-06-11",
+        "event": "06/11/1993"
+      },
+      {
+        "date": "1992-06-11",
+        "event": "06/11/1992"
+      },
+      {
+        "date": "1991-06-13",
+        "event": "06/13/1991"
+      },
+      {
+        "date": "1990-06-13",
+        "event": "06/13/1990"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.509Z"
+}

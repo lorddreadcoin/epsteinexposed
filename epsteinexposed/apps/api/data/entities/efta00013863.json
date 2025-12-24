@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013863",
+    "filename": "EFTA00013863.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013863.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Epstein \nDate: Tue, 22 Apr 2008 17:16:46 +0000 \nImportance: Normal \nDid you ever hear from will be gone after the 101h for several weeks.\nEFTA00013863",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Epstein \nDate: Tue, 22 Apr 2008 17:16:46 +0"
+      },
+      {
+        "name": "Normal \nDid",
+        "role": "extracted",
+        "context": "8 17:16:46 +0000 \nImportance: Normal \nDid you ever hear from will be go"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.602Z"
+}

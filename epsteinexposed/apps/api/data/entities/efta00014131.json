@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00014131",
+    "filename": "EFTA00014131.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014131.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nBcc• \nSubject: Fw: Draft Response to Edwards' Oct 15, 2008 letter \nDate: Wed, 05 Nov 2008 19:19:30 +0000 \nImportance: Normal \nWhat do you all think? \nFrom: \nTo: \nSent: Wed Nov 05 14:08:17 2008 \nSubject: RE: Draft Response to Edwards' Oct 15, 2008 letter \nI am not averse to completely ignoring Edwards' October 15, 2008 letter, if that is what you would prefer. \nFrom: \nSent: Wednesday, November 05, 2008 10:38 AM \nTo: \nCc: \nSubject: Re: Draft Response to Oct 15, 2008 letter \nHi I am out of the office today so I can't edit the letter from my Blackberry. I hate the idea of writing yet another \nletter that will be attached to a pleading or quoted in the paper. \nI would feel more comfortable with something that says: \nThank you for your letter. The Office is involved in the criminal investigation of Mr. Epstein and is neither a party to nor \ninvolved in any civil suits against him. If you have any documentary evidence thatyou believe establishes a breach of the \nNon-Prosecution Agreement, you can forward that evidence to AUS The Office will then conduct its \nown review in accordance with the terms of the Non-Prosecution Agreement. \nAnd leave it at that. What do you all think? \nFrom: \nTo: \nCc: \nSent: Tue Nov 04 10:56:20 2008 \nSubject: Draft Response to Edwards' Oct 15, 2008 letter \nAttached please find my draft response to Edwards' Oct 15, 2008 letter. Please ensure that it is factually \ncorrect, particularly with regard to what Epstein agreed to during the negotiations. Thanks. \nEFTA00014131\n\n<<edwards_respfir_101508.wpd>> \nEFTA00014132",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "the criminal investigation of Mr. Epstein and is neither a party to"
+      },
+      {
+        "name": "Draft Response",
+        "role": "extracted",
+        "context": "To: \nCc: \nBcc• \nSubject: Fw: Draft Response to Edwards' Oct 15, 2008 lett"
+      },
+      {
+        "name": "Normal \nWhat",
+        "role": "extracted",
+        "context": "8 19:19:30 +0000 \nImportance: Normal \nWhat do you all think? \nFrom: \nTo:"
+      },
+      {
+        "name": "Wed Nov",
+        "role": "extracted",
+        "context": "all think? \nFrom: \nTo: \nSent: Wed Nov 05 14:08:17 2008 \nSubject: RE"
+      },
+      {
+        "name": "The Office",
+        "role": "extracted",
+        "context": ": \nThank you for your letter. The Office is involved in the criminal i"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "ablishes a breach of the \nNon-Prosecution Agreement, you can forward that evidenc"
+      },
+      {
+        "name": "Tue Nov",
+        "role": "extracted",
+        "context": "hink? \nFrom: \nTo: \nCc: \nSent: Tue Nov 04 10:56:20 2008 \nSubject: Dr"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-10-15",
+        "event": "October 15, 2008"
+      },
+      {
+        "date": "2008-11-05",
+        "event": "November 05, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.223Z"
+}

@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00031693",
+    "filename": "EFTA00031693.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031693.pdf",
+    "text": "\n\nFrom: ' \nTo: ' (USANYS)\"  \nSubject: RE: Rule 17 subpoenas \nDate: Mon, 03 May 2021 20:39:32 +0000 \nAttachments: 2021.04.27 Order re Rule 17 subpoenas.pdf \nSorry about that —  order attached. Thanks! \nFrom: (USANYS) \n< \nSent: Monday, May 3, 2021 4:34 PM \nTo: \nSubject: RE: Rule 17 subpoenas \nWould you mind sending me AJN's order on the subpoena when you can (I think you sent us the one on the pretrial \nmotions a bit ago...) Thanks. \nFrom: \nSent: Monday, May 3, 2021 3:13 PM \nTo: (USANYS) \nCc: \n<*; \nSubject: Rule 17 subpoenas \nHey \n(USANYS) \n(USANYS) \nWe owe Judge Nathan a letter tomorrow about our views on three of Maxwell's subpoena requests. Attached is a draft \nresponse. \nFor your reference, I've also attached (1) Judge Nathan's order, and (2) the letters on the subject from Maxwell and Boies \nSchiller. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00031693",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "y \n(USANYS) \n(USANYS) \nWe owe Judge Nathan a letter tomorrow about our v"
+      },
+      {
+        "name": "Boies \nSchiller",
+        "role": "extracted",
+        "context": "the subject from Maxwell and Boies \nSchiller. \nThanks, \nAssistant United S"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nd Boies \nSchiller. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00031693"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-03",
+        "event": "May 3, 2021"
+      },
+      {
+        "date": "2021-05-03",
+        "event": "03 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.625Z"
+}

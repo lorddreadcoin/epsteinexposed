@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00005731",
+    "filename": "EFTA00005731.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00005731.pdf",
+    "text": "\n\n• \nsits \nren. \no \ny\no-nek-e \ner\ne \nN \ny \nEFTA00005731\n\n4 \nOIL \nek \nz\n. \n(2\\ \njc\\4.\\-4/\\\\Qpa \nc900,ar \nNyA \nv\nAN-c\nAtfc\neigk \n0- \nparrs \nvEW,ACCteltv—r \nel/et \nva \ngyo \n72\n1.87 \n_cup, \np7 \ncws-e.s- \nT\n/e \n7 1-\nST/CE \n/IL \nAte3 \n/Areal \nal\ns4s- \nreit. \nof \nX\n,\ntare-e \nA/7/070,3 \nEFTA00005732\n\na \neJusticeNY Integrated \nJustice Ponal \nPage \n1  of 1 \neJusticeNYINTEGRATED \nJUSTICE PORTAL \nPeopI\n  • \npNIV \nPhoto \nSystem \n•  DMv \nPhoto \nReavest \n1+• \nFeedback \nDMV Photo Request \nDMV \nPhoto \nase \nNumber: \name: \nlientID: \nDMV Transaction \nNumber: \nDMV \nTransaction \nDate/Time: \n0 \nDI \nJune 6, 2019 \n11:41 AM \nED \n... \n6/6/2019 \nEFTA00005733\n\nEFTA00005734\n\nEFTA00005735\n\nEFTA00005736\n\nEFTA00005737\n\nEFTA00005738\n\nEFTA00005739",
+    "pageCount": 9,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Integrated \nJustice",
+        "role": "extracted",
+        "context": "EFTA00005732\n\na \neJusticeNY Integrated \nJustice Ponal \nPage \n1  of 1 \neJustic"
+      },
+      {
+        "name": "Ponal \nPage",
+        "role": "extracted",
+        "context": "JusticeNY Integrated \nJustice Ponal \nPage \n1  of 1 \neJusticeNYINTEGRATE"
+      },
+      {
+        "name": "Photo \nSystem",
+        "role": "extracted",
+        "context": "TICE PORTAL \nPeopI\n  • \npNIV \nPhoto \nSystem \n•  DMv \nPhoto \nReavest \n1+•"
+      },
+      {
+        "name": "Mv \nPhoto",
+        "role": "extracted",
+        "context": "• \npNIV \nPhoto \nSystem \n•  DMv \nPhoto \nReavest \n1+• \nFeedback \nDMV"
+      },
+      {
+        "name": "Photo Request",
+        "role": "extracted",
+        "context": "Reavest \n1+• \nFeedback \nDMV Photo Request \nDMV \nPhoto \nase \nNumber: \nam"
+      },
+      {
+        "name": "Transaction \nNumber",
+        "role": "extracted",
+        "context": "Number: \name: \nlientID: \nDMV Transaction \nNumber: \nDMV \nTransaction \nDate/Time"
+      },
+      {
+        "name": "Transaction \nDate",
+        "role": "extracted",
+        "context": "MV Transaction \nNumber: \nDMV \nTransaction \nDate/Time: \n0 \nDI \nJune 6, 2019 \n1"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-06",
+        "event": "6/6/2019"
+      },
+      {
+        "date": "2019-06-06",
+        "event": "June 6, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.146Z"
+}

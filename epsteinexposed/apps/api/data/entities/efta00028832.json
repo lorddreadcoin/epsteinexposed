@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00028832",
+    "filename": "EFTA00028832.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028832.pdf",
+    "text": "\n\nFrom: \n\" \naIMIE> \nTo: [Contractor]\"\nSubject: Letter to mail out \nDate: The, 22 Oct 2019 20:06:55 +0000 \nAttachments: 2019-10-22, _letter to_TD_Bank.pdf \nHis \nAny chance you could please mail a copy of the attached letter (re the Epstein case) to the recipient listed at the top? \nThanlcs I \nEFTA00028832",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "His \nAny",
+        "role": "extracted",
+        "context": "0-22, _letter to_TD_Bank.pdf \nHis \nAny chance you could please mail"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-22",
+        "event": "2019-10-22"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.256Z"
+}

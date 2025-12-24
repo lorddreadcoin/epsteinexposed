@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031247",
+    "filename": "EFTA00031247.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031247.pdf",
+    "text": "\n\nFrom:' (USANYS) [Contractor]\" \n.. > \nTo:  \nSubject: us v epstein \nDate: Mon, 13 Jul 2020 14:03:56 +0000 \nInline-Images: image001.png \neasystore (F:) \nA \nA \nName Date modified Type Size \nI \nO BlacklightMacsNY \nO IDE drives \nU \nIsland Macs 7/6/202012:08 PM File folder \nO Island Windows 7/8/202011:41 AM File folder \n[ Loose Media 7/7/202012:45 PM File folder \nL \nNY Macs 7/8/202012:03 PM File folder \nNY \nWindows 7/8/202012:04 PM File folder \n7/7/202011:34 AM File folder \n7/7/2020 12:22 PM File folder \nEFTA00031247",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Name Date",
+        "role": "extracted",
+        "context": "01.png \neasystore (F:) \nA \nA \nName Date modified Type Size \nI \nO Blac"
+      },
+      {
+        "name": "Type Size",
+        "role": "extracted",
+        "context": "F:) \nA \nA \nName Date modified Type Size \nI \nO BlacklightMacsNY \nO IDE"
+      },
+      {
+        "name": "Island Macs",
+        "role": "extracted",
+        "context": "lightMacsNY \nO IDE drives \nU \nIsland Macs 7/6/202012:08 PM File folder"
+      },
+      {
+        "name": "Island Windows",
+        "role": "extracted",
+        "context": "6/202012:08 PM File folder \nO Island Windows 7/8/202011:41 AM File folder"
+      },
+      {
+        "name": "Loose Media",
+        "role": "extracted",
+        "context": "8/202011:41 AM File folder \n[ Loose Media 7/7/202012:45 PM File folder"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-07-07",
+        "event": "7/7/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.644Z"
+}

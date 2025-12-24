@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00015935",
+    "filename": "EFTA00015935.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015935.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Deutsche Bank Production \nDate: Wed, 20 Nov 2019 14:29:54 +0000 \nAttachments: 2019.11.19 DB Submission to SDNY.pdf \nFollowing up on last night's submission, we realized that one of the files included in the Sharefile link we provided was \nmislabeled. The correct file was provided, but the file name was in error—a corrected copy is attached for your records. \nApologies for any confusion, and please let us know if you have any questions. \nBest \nFrom: \nSentTh 19 2019 10:35 PM milimin3ff \nTo: \n<jdi \nSubject: Deutsche Bank Production \nOn behalf of our client, Deutsche Bank, the link below contains an additional production of documents in response to \nyour July 11, 2019 subpoena. Also attached is the accompanying cover letter for today's production, as well as an \nupdated version of the production index we previously provided. I will send the password shortly under separate cover. \nPlease do not hesitate to reach out if you have any questions. \nRegards, \nCitrix Attachments \nExpires May 17, 2020 \n2019.11.19 DB Submission to NYAG.pdf \n155.3 KB \nAppendix A.xlsx \n229.2 KB \nAppendix B.pdf \n174.5 KB \nEFTA00015935\n\nCitrix Attachments \nExpires May 17, 2020 \nDB-SDNY-Prod011.zip \n287.3 MB \nDownload Attachments \nses Citrix Files to share documents securely. \nThe information contained in this e-mail message is intended only for the personal and confidential use of the \nrecipient(s) named above. If you have received this communication in error, please notify us immediately by e-\nmail, and delete the original message. \nEFTA00015936",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Deutsche Bank",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Deutsche Bank Production \nDate: Wed, 20 Nov"
+      },
+      {
+        "name": "Production \nDate",
+        "role": "extracted",
+        "context": ": \nSubject: RE: Deutsche Bank Production \nDate: Wed, 20 Nov 2019 14:29:54 +0"
+      },
+      {
+        "name": "Best \nFrom",
+        "role": "extracted",
+        "context": "w if you have any questions. \nBest \nFrom: \nSentTh 19 2019 10:35 PM mil"
+      },
+      {
+        "name": "Production \nOn",
+        "role": "extracted",
+        "context": "<jdi \nSubject: Deutsche Bank Production \nOn behalf of our client, Deutsch"
+      },
+      {
+        "name": "Citrix Attachments",
+        "role": "extracted",
+        "context": "ave any questions. \nRegards, \nCitrix Attachments \nExpires May 17, 2020 \n2019.1"
+      },
+      {
+        "name": "Expires May",
+        "role": "extracted",
+        "context": "Regards, \nCitrix Attachments \nExpires May 17, 2020 \n2019.11.19 DB Submi"
+      },
+      {
+        "name": "Download Attachments",
+        "role": "extracted",
+        "context": "B-SDNY-Prod011.zip \n287.3 MB \nDownload Attachments \nses Citrix Files to share do"
+      },
+      {
+        "name": "Citrix Files",
+        "role": "extracted",
+        "context": "MB \nDownload Attachments \nses Citrix Files to share documents securely."
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-11",
+        "event": "July 11, 2019"
+      },
+      {
+        "date": "2020-05-17",
+        "event": "May 17, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.799Z"
+}

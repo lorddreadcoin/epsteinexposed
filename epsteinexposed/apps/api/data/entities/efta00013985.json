@@ -1,0 +1,101 @@
+{
+  "document": {
+    "id": "efta00013985",
+    "filename": "EFTA00013985.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013985.pdf",
+    "text": "\n\nEvent: Epstein/call in from \nStart Date: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nOrganizer:\nLocation: ofc. \nClass: X-PERSONAL \nDate Created: 2017-04-04 01:32:47 +0000 \nDate Modified: 2017-04-04 01:32:47 +0000 \nPriority: 5 \nDTSTAMP: 2008-06-11 15:27:38 +0000 \nAttendee: \nWhen: Friday, June 13, 2008 10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere: ofc. \n*     * * * * * * * \n*  * \nyou can participate by phone. Let me know best number, Thanks, IM \n  Original Messa \nFrom: \nTo: \nCc: \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE: Epstein \nS  oke wit .  Everyone is good for 10:00 this Friday morning. will be calling■ office \nFrom \nSent: We nes ay, June 11, 2008 10:21 AM \nTo: \nCc: \nSubject: RE: Epstein \nEFTA00013985\n\nI'm available anytime \nFrom: \nSent: Wednesday, June 11, 2008 10:09 AM \nTo \nCc \nSubject: RE: Epstein \nAbsolutely, I'm available from 10 to 11 and after 11 have a conflict. \nFrom: \nSent: Wednesday, June 11, 2008 10:02 AM \nTo: \nCc: \nSubject: Epstein \nWould you guys be available Friday morning by telephone to discuss? \nEFTA00013986",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Epstein/call in from \nStart Date: 2008-06-13 14:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2008-06-13 14:00:00 +0000 \nEnd Date: 2008-06-13 14:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "ion: ofc. \nClass: X-PERSONAL \nDate Created: 2017-04-04 01:32:47 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2017-04-04 01:32:47 +0000 \nDate Modified: 2017-04-04 01:32:47 +0000 \nP"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "10:00 AM-10:30 AM (GMT-05:00) Eastern Time (US & Canada). \nWhere: ofc."
+      },
+      {
+        "name": "Original Messa",
+        "role": "extracted",
+        "context": "ow best number, Thanks, IM \n  Original Messa \nFrom: \nTo: \nCc: \nSent: Wed J"
+      },
+      {
+        "name": "Wed Jun",
+        "role": "extracted",
+        "context": "Messa \nFrom: \nTo: \nCc: \nSent: Wed Jun 11 10:29:23 2008 \nSubject: RE"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ing. will be calling■ office \nFrom \nSent: We nes ay, June 11, 2008 10:"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "sday, June 11, 2008 10:09 AM \nTo \nCc \nSubject: RE: Epstein \nAbsolu"
+      },
+      {
+        "name": "Epstein \nAbsolutely",
+        "role": "extracted",
+        "context": "0:09 AM \nTo \nCc \nSubject: RE: Epstein \nAbsolutely, I'm available from 10 to 11"
+      },
+      {
+        "name": "Epstein \nWould",
+        "role": "extracted",
+        "context": "10:02 AM \nTo: \nCc: \nSubject: Epstein \nWould you guys be available Friday"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thanks, IM",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-06-13",
+        "event": "2008-06-13"
+      },
+      {
+        "date": "2017-04-04",
+        "event": "2017-04-04"
+      },
+      {
+        "date": "2008-06-11",
+        "event": "2008-06-11"
+      },
+      {
+        "date": "2008-06-13",
+        "event": "June 13, 2008"
+      },
+      {
+        "date": "2008-06-11",
+        "event": "June 11, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.873Z"
+}

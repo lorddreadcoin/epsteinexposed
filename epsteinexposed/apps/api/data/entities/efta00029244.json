@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00029244",
+    "filename": "EFTA00029244.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029244.pdf",
+    "text": "\n\nFrom: \nSubject: RE: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:58:56 +0000 \nThanks, I think that should work. We will give you a call then. \nFrom: \nSent: Friday, January 29, 2021 5:55 PM \nTo: \nSubject: RE: OPR Epstein Final Report \nOf course. Why don't you call me\nlet me know. \nFrom: \nSent: Friday, January 29, 2021 5:33 PM \nTo: \nCc: \nSubject: Re: OPR Epstein Final Report \nat your convenience around 9:30 am? If another time works better, just \nI hope this finds you well. Do you have some time to connect early next week on this matter? If there's a good \ntime Monday morning, in particular, please let us know. Thanks, \nSent from my iPhone \nOn Nov 12, 2020, at 10:06 AM, wrote: \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \n<OPR-#458587-v1-Epstein_Report_transmittal_to_SDNYilettersigned).PDF> \n<OPR-#458557-v1-Epstein_Report_of_Investigation_and_Exhibits_pdf.PDF> \nEFTA00029244",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ": \nAttached please find OPR's final Report in the Jeffrey Epstein matter, and a transmittal letter. \n<OPR-#458587-v"
+      },
+      {
+        "name": "Epstein Final",
+        "role": "extracted",
+        "context": "From: \nSubject: RE: OPR Epstein Final Report \nDate: Fri, 29 Jan 202"
+      },
+      {
+        "name": "Report \nDate",
+        "role": "extracted",
+        "context": "ubject: RE: OPR Epstein Final Report \nDate: Fri, 29 Jan 2021 22:58:56 +0"
+      },
+      {
+        "name": "Report \nOf",
+        "role": "extracted",
+        "context": "ubject: RE: OPR Epstein Final Report \nOf course. Why don't you call me"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "know. Thanks, \nSent from my iPhone \nOn Nov 12, 2020, at 10:06 AM, wr"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-29",
+        "event": "January 29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.084Z"
+}

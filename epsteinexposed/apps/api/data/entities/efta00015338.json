@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00015338",
+    "filename": "EFTA00015338.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015338.pdf",
+    "text": "\n\nFrom: '11.=(USANYS) 4\" <I \nTo: \"1 \n(USANYS)\"  \nCc: \"1 \n(USANYS)\"  \nSubject: FW: 2019.02.15 Agenda Meeting with Mdocx \nDate: Thu, 14 Feb 2019 22:48:27 +0000 \nImportance: Normal \nAttachments: 2019.02.15_Agenda_Meeting_with_ docx \nattached is a draft agenda for tomorrow's meeting wither We plan to go through the program, our \nroles/responsibilities, recent issues, and some case highlights. I will pepper in some lessons learned from the \nsituation, as discussed earlier today. Let us know if you have any additions/thoughts. Thanks! \nFrom: USANYS) \nSent: Thursday, February 14, 2019 5:21 PM \nTo: \n(USANYS) 4 \nSubject: 2019 02.15 Agenda Meeting with I:locx \nUpdated \nEFTA00015338",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Agenda Meeting",
+        "role": "extracted",
+        "context": "S)\"  \nSubject: FW: 2019.02.15 Agenda Meeting with Mdocx \nDate: Thu, 14 Feb"
+      },
+      {
+        "name": "Mdocx \nDate",
+        "role": "extracted",
+        "context": "019.02.15 Agenda Meeting with Mdocx \nDate: Thu, 14 Feb 2019 22:48:27 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 22:48:27 +0000 \nImportance: Normal \nAttachments: 2019.02.15_Agenda_Meeting_wi"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-02-14",
+        "event": "February 14, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.480Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00018549",
+    "filename": "EFTA00018549.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018549.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Jimenez 302 \nDate: Fri, 30 Aug 2019 16:53:33 \n+0000 \nAttachments: Jimenez_302.pdf \nFinalized 302 Jimenez (Inmate) \nSpecial Agent \nFBI New York Field \nOffice \nViolent Crimes Task \nForce \nDesk \nCell: \nEFTA00018549",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "nalized 302 Jimenez (Inmate) \nSpecial Agent \nFBI New York Field \nOffice"
+      },
+      {
+        "name": "Field \nOffice",
+        "role": "extracted",
+        "context": "Special Agent \nFBI New York Field \nOffice \nViolent Crimes Task \nForce"
+      },
+      {
+        "name": "Violent Crimes",
+        "role": "extracted",
+        "context": "FBI New York Field \nOffice \nViolent Crimes Task \nForce \nDesk \nCell: \nEFT"
+      },
+      {
+        "name": "Task \nForce",
+        "role": "extracted",
+        "context": "Field \nOffice \nViolent Crimes Task \nForce \nDesk \nCell: \nEFTA00018549"
+      },
+      {
+        "name": "Desk \nCell",
+        "role": "extracted",
+        "context": "Violent Crimes Task \nForce \nDesk \nCell: \nEFTA00018549"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.164Z"
+}

@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00031453",
+    "filename": "EFTA00031453.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031453.pdf",
+    "text": "\n\nFrom: \n\" ana \nTo: Sta. \nSubject: Fact witness travel form - Maxwell victim & family \nDate: Mon, 16 Aug 2021 14:09:56 +0000 \nAttachments: -_Fact_Witness_Travel_Request.docx \nHi \nAttached please find the fact witness travel form for the Maxwell victim we've previously discussed. I'll swing by your \noffice of chat about this in a bit. \nThanks, \nEFTA00031453",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "_Witness_Travel_Request.docx \nHi \nAttached please find the fact witness"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.121Z"
+}

@@ -1,0 +1,97 @@
+{
+  "document": {
+    "id": "efta00019058",
+    "filename": "EFTA00019058.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019058.pdf",
+    "text": "\n\nU.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio .1. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober \n29, 2021 \nVIA CERTIFIED MAIL \nGhislaine Maxwell (Reg. No. 02879-509) \nMDC Brooklyn \nMetropolitan Detention Center \nP.O. Box 329002 \nBrooklyn, NY 11232 \nRe: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nEnclosed are discovery materials and Government Exhibits pertinent to the following inmate: \n• \nGhislaine Maxwell: 02879-509 \nVery truly yours, \nUnited States Attorney \nby: sl \nAssistant United States Attorneys \n(212) \n637-2225/2343/2345 \nEnclosure \nEFTA00019058",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ork 10007 \nOctober \n29, 2021 \nVIA CERTIFIED MAIL \nGhislaine Maxwell (Reg. No. 02879-509) \nMDC Brooklyn \nMetropolitan"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Department of Justice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio .1. M"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio .1. Mollo Building \nOne Saint"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "t of New York \nThe Silvio .1. Mollo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "he Silvio .1. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober"
+      },
+      {
+        "name": "Brooklyn \nMetropolitan",
+        "role": "extracted",
+        "context": "ell (Reg. No. 02879-509) \nMDC Brooklyn \nMetropolitan Detention Center \nP.O. Box 32"
+      },
+      {
+        "name": "Detention Center",
+        "role": "extracted",
+        "context": ") \nMDC Brooklyn \nMetropolitan Detention Center \nP.O. Box 329002 \nBrooklyn, N"
+      },
+      {
+        "name": "Government Exhibits",
+        "role": "extracted",
+        "context": "d are discovery materials and Government Exhibits pertinent to the following in"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ited States Attorney \nby: sl \nAssistant United States Attorneys \n(212) \n637-"
+      },
+      {
+        "name": "States Attorneys",
+        "role": "extracted",
+        "context": "ney \nby: sl \nAssistant United States Attorneys \n(212) \n637-2225/2343/2345 \nE"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Brooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-29",
+        "event": "October \n29, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(212) \n637-2225"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.203Z"
+}

@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00018981",
+    "filename": "EFTA00018981.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018981.pdf",
+    "text": "\n\nFrom: \nTo:'\nCc: ' \n\" \" \nI I \n7 7 \nSubject: Re: Phone call \nDate: Sun, 11 Aug 2019 19:35:18 +0000 \nWarden is good for 10:00 am tomorrow at SDNY. Please provide me location details with in SDNY so I can \nforward it to him. Thank you \nSent from \nmobile device, please excuse typos. \nSpecial Agent \nOffice \nof the Inspector General \n1  Battery Park Plaza, 29th floor \nNew York NY 10004 \nCell \nOffice \n> On Aug 11, 2019, at 3:08 pm, \nwrote: \n> Understood, thanks. \n> Can we set up a meeting with the warden for tomorrow? and I are free any time. Thank you. \n> \nOri inal Messa e \n> \nFrom: \n> Sent: Sunday, August 11, 2019 2:53 PM \n> \nTo: \n> Subject: Phone call \n> It appears there is new information about the phone call at 7:17pm Friday night. \n> The Warden briefed OIG SAC Modano that the call was 19 minutes long. I did not brief the Warden on any \ninformation regarding that call. \n> Epstein was never in general population, because of that he did not need an approved list of people to call. \n> On Friday he had a legal visit that lasted from 8:00ish an until almost 7:00pm. He was supervised the entire \ntime by BOP staff. \n> Sent from mobile device, \nplease excuse typos. \n> \nSpecial Agent \n> Office of \nthe Inspector General \nEFTA00018981\n\n> I  Battery Park Plaza, 29th floor \n> New \nYork. NY 10004 \n Cell \nOffice \nEFTA00018982",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "device, please excuse typos. \nSpecial Agent \nOffice \nof the Inspector Gen"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "Special Agent \nOffice \nof the Inspector General \n1  Battery Park Plaza, 29th"
+      },
+      {
+        "name": "Battery Park",
+        "role": "extracted",
+        "context": "of the Inspector General \n1  Battery Park Plaza, 29th floor \nNew York N"
+      },
+      {
+        "name": "Cell \nOffice",
+        "role": "extracted",
+        "context": "9th floor \nNew York NY 10004 \nCell \nOffice \n> On Aug 11, 2019, at 3:08 p"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "ork NY 10004 \nCell \nOffice \n> On Aug 11, 2019, at 3:08 pm, \nwrote:"
+      },
+      {
+        "name": "The Warden",
+        "role": "extracted",
+        "context": "ll at 7:17pm Friday night. \n> The Warden briefed OIG SAC Modano that t"
+      },
+      {
+        "name": "On Friday",
+        "role": "extracted",
+        "context": "ed list of people to call. \n> On Friday he had a legal visit that las"
+      },
+      {
+        "name": "New \nYork",
+        "role": "extracted",
+        "context": "ery Park Plaza, 29th floor \n> New \nYork. NY 10004 \n Cell \nOffice \nEFT"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-11",
+        "event": "August 11, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.059Z"
+}

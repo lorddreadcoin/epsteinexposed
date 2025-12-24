@@ -1,0 +1,70 @@
+{
+  "document": {
+    "id": "efta00031360",
+    "filename": "EFTA00031360.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031360.pdf",
+    "text": "\n\nFrom: \" )\" < \nTo: \"6 \nII \n). \n(USANYS)\" \nSubject: FW: Epstein \nDate: Mon, 10 Dec 2018 17:47:38 +0000 \nImportance: Normal \nYou guys available? This should be quick. \nFrom: \nSent: Monday, December 10, 2018 12:46 PM \nTo: \n) \nCc: N. (NY) (FBI) \n<a; \nMM, \n(USANYS) \nSubject: Re: Epstein \n• \nWe are available now if you would like to call but I am on the road so you will have to conference us in separately. \nOn Dec 10, 2018, at 12:12, \nand \nwrote: \nAny chance you're free for a brief call this afternoon? We wanted to touch base about a few items. I'm sure you're both \nvery busy in preparation for Wednesday, so we promise to keep it short. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031360",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "). \n(USANYS)\" \nSubject: FW: Epstein \nDate: Mon, 10 Dec 2018 17:47:38 +0"
+      },
+      {
+        "name": "Normal \nYou",
+        "role": "extracted",
+        "context": "8 17:47:38 +0000 \nImportance: Normal \nYou guys available? This should b"
+      },
+      {
+        "name": "On Dec",
+        "role": "extracted",
+        "context": "conference us in separately. \nOn Dec 10, 2018, at 12:12, \nand \nwro"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e to keep it short. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00031360"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-12-10",
+        "event": "December 10, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.931Z"
+}

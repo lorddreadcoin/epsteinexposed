@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030829",
+    "filename": "EFTA00030829.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030829.pdf",
+    "text": "\n\nFrom: ' \nTo: '1 \nSubject: FW: RE: Epstein investigation / \nDate: Tue, 09 Jul 2019 15:44:48 +0000 \nImportance: Normal \nr   \nAnd as similarly promised, here is his info: \nMichael Bachner (counsel to \nFrom: \nSent: Tuesday, July 09, 2019 11:44 \nCc: \nSubject: RE: Epstein investigation / \nMr. Bachner, \nFollowing up on our conversation earlier this morning, we wanted to provide you with the additional information and \nmaterials we discussed. In the first instance, so that you have full contact info for the team, please feel free to reach out \nto any of us at any time; we're all available via email or at the following phone numbers: \nAdditionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in Florida, and a \nblank version of our standard proffer agreement, both as discussed. \nAs we mentioned, please don't hesitate to reach out with any questions, and we look forward to setting a time to speak \nagain after you're able to confer with \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00030829",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bachner",
+        "role": "extracted",
+        "context": "RE: Epstein investigation / \nMr. Bachner, \nFollowing up on our con"
+      },
+      {
+        "name": "Michael Bachner",
+        "role": "extracted",
+        "context": "promised, here is his info: \nMichael Bachner (counsel to \nFrom: \nSent: Tue"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "h \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-09",
+        "event": "July 09, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.760Z"
+}

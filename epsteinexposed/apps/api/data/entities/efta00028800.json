@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00028800",
+    "filename": "EFTA00028800.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028800.pdf",
+    "text": "\n\nFrom: \nTo:\" \nSubject: RE: \nDate: Thu, 07 Nov 2019 22:30:31 +0000 \nAttachments: 2019.11.07_-_Fact_Witness_Trayel_Requestal.docx \nThanks very much, Attached is the filled out form. \nWould it be possible to book the following flights? \nOutbound on Wednesday Nov 20 —Jet Blue —  Flight 748: 12:17 pm from Las Vegas, arriving JFK 8:09 pm \nReturn on Thursday Nov 21 —Jet Blue — Flight 611: 7:36 pm from JFK, arriving Las Vegas 10:29 pm \nAlso, we will be meeting with her in midtown at Madison and 501h. Is it possible to put in a hotel as close to that \nintersection as possible, please? \nThanks again, \nFrom: \nSent: Thursday, November 7, 2019 2:29 PM \nTo: \nSubject: \nVictim Witness Coordinator \nUnited States Attorney's Office \nSouthern District of New York \nTel. \n> \nEFTA00028800",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Wednesday Nov",
+        "role": "extracted",
+        "context": "llowing flights? \nOutbound on Wednesday Nov 20 —Jet Blue —  Flight 748: 1"
+      },
+      {
+        "name": "Jet Blue",
+        "role": "extracted",
+        "context": "Outbound on Wednesday Nov 20 —Jet Blue —  Flight 748: 12:17 pm from"
+      },
+      {
+        "name": "Las Vegas",
+        "role": "extracted",
+        "context": "—  Flight 748: 12:17 pm from Las Vegas, arriving JFK 8:09 pm \nReturn"
+      },
+      {
+        "name": "Thursday Nov",
+        "role": "extracted",
+        "context": "riving JFK 8:09 pm \nReturn on Thursday Nov 21 —Jet Blue — Flight 611: 7:"
+      },
+      {
+        "name": "Victim Witness",
+        "role": "extracted",
+        "context": "2019 2:29 PM \nTo: \nSubject: \nVictim Witness Coordinator \nUnited States At"
+      },
+      {
+        "name": "Coordinator \nUnited",
+        "role": "extracted",
+        "context": "To: \nSubject: \nVictim Witness Coordinator \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "m Witness Coordinator \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "tor \nUnited States Attorney's Office \nSouthern District of New York \nTel. \n>"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-11-07",
+        "event": "November 7, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:21.007Z"
+}

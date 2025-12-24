@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00013761",
+    "filename": "EFTA00013761.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013761.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: Thu, 29 Nov 2007 16:37:04 +0000 \nImportance: Normal \nAttachments: 11-08-07_Ltr toiHtfromiPL.pdf \nIT: pstem \nFrom: Jay Leflowitz \n,  2007 6:01 PM \nTSeonillnin: \nSubject: Epstein \nAs requested, attached is our response to your November 5 \nletter. \nRegards, \nJay \nThe information contained in \nthis communication is \nconfidential, may be attorney-client \nprivileged, may \nconstitute inside information, \nand is intended only for \nthe use of the addressee. It is the property of \nKirkland & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication \nin error, please notify us immediately by \nreturn e-mail or by \ne-mail to postmaster@kirkland.com, and \ndestroy this communication and all copies thereof, \nincluding \nall attachments. \nEFTA00013761",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "7 16:37:04 +0000 \nImportance: Normal \nAttachments: 11-08-07_Ltr toiHtfromiPL.pd"
+      },
+      {
+        "name": "Jay Leflowitz",
+        "role": "extracted",
+        "context": "fromiPL.pdf \nIT: pstem \nFrom: Jay Leflowitz \n,  2007 6:01 PM \nTSeonillnin"
+      },
+      {
+        "name": "Epstein \nAs",
+        "role": "extracted",
+        "context": "01 PM \nTSeonillnin: \nSubject: Epstein \nAs requested, attached is our re"
+      },
+      {
+        "name": "Jay \nThe",
+        "role": "extracted",
+        "context": "ovember 5 \nletter. \nRegards, \nJay \nThe information contained in \nthi"
+      },
+      {
+        "name": "Ellis International",
+        "role": "extracted",
+        "context": "and & Ellis LLP or Kirkland & Ellis International LLP. \nUnauthorized use, discl"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.338Z"
+}

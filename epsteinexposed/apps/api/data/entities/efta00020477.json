@@ -1,0 +1,111 @@
+{
+  "document": {
+    "id": "efta00020477",
+    "filename": "EFTA00020477.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020477.pdf",
+    "text": "\n\nOFFICIAL \nRECORD \n[make IRev. S 23-171 \nUNCLASSIFIED \nTI \nFEDERAL BUREAU OF INVESTIGATION \nIntake \nDate: 38/06/2020 \nCase ID #: 50D-NY-3027571 (U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 08/06/2020 10:12 AM EDT \nDetails: \nOn 08/06 2020, at 10:12 a.m. Eastern Time, \ninternational cellular telephone numbe \n, date of birth \n, address \nCambridge, UK, called the FBI National \nThreat Operations Center (NTOC) to report \"significant\" information \nrelated to the Epstein/Maxwell case. \nprovided the following information: \nIn \n2007, \nwas introduced to New York photographer Eliot Siegel, \npersonal identifiers unknown, by mutual friends. Siegel asked to \nattend a modeling event at the O2 Arena in London, England for a test \nshoot. attended the event and discovered it was an annual S&M \nmodeling event. While at the event, London photographer Patrick James \nFitzgerald (or might be James Patrick Fitzgerald), personal identifiers \nunknown, spoke with and offered to photograph her for modeling. \nFitzgerald told \nWhile Fitzgerald was talking to \nMaxwell came over and stared at \nthat she would be on the front cover of a magazine. \n, Jeffrey Epstein and Ghislaine \n. Epstein and Maxwell did not say \nanything to Fitzgerald and only looked at her. did not accept \nFitzgerald's modeling offer. \nAround a month \n(name \nunknown) \ntried to start \nwere typing to \nchat with no audio. saw the subject had a man standing behind him \nafter the event, was contacted online by a subject \nin Miami, FL. The subject was a very handsome man and \na romantic relationship with . The subject and \neach other, but at the same time were connected by a video \nUNCLASSIFIED \nEFTA00020477\n\nUNCLASSIFIED \nRe: 50D-NY\n-3027571, \n08/06/2020 \nthat appeared to be coaching him what to say. The subject did not know \ncould see the man. The subject tried to convince to travel to \nFlorida \nto meet with him. \ngot angry with the subject and told him \nthat she was going to contact police and blocked him. did not \nfollow \nthrough and contact police because at the time she was dealing with other \nmatter. At the time, father was trying to sleep with her and she \nhad been told that her \nneighbor was trying to film her in her home. \nOn \n08/05/2020, \nsaw a news articles about Scott Borgerson, personal \nidentifiers \nunknown, that included photos. recognized Borgerson as \nthe subject that contacted her online and tried to convince her to \ntravel \nto \nFlorida. \nbelieves her encounters are related to the Epstein/Maxwell case. \nadvised she also met Prince William in England \nand believes that \nmight \nalso be connected. \n.• \nUNCLASSIFIED \nEFTA00020478",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "she would be on the front cover of a magazine. \n, Jeffrey Epstein and Ghislaine \n. Epstein and Maxwell did not say"
+      },
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nIntake \nDate: 38/06/2020 \nCase ID #: 50D-N"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "FREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 08/06/2"
+      },
+      {
+        "name": "Time Received",
+        "role": "extracted",
+        "context": "RAFFICKING \nDrafted By: \nDate/Time Received: 08/06/2020 10:12 AM EDT \nDet"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "On 08/06 2020, at 10:12 a.m. Eastern Time, \ninternational cellular tele"
+      },
+      {
+        "name": "National \nThreat",
+        "role": "extracted",
+        "context": "Cambridge, UK, called the FBI National \nThreat Operations Center (NTOC) to r"
+      },
+      {
+        "name": "Operations Center",
+        "role": "extracted",
+        "context": "lled the FBI National \nThreat Operations Center (NTOC) to report \"significant"
+      },
+      {
+        "name": "Eliot Siegel",
+        "role": "extracted",
+        "context": "uced to New York photographer Eliot Siegel, \npersonal identifiers unknow"
+      },
+      {
+        "name": "Patrick James",
+        "role": "extracted",
+        "context": "he event, London photographer Patrick James \nFitzgerald (or might be Jame"
+      },
+      {
+        "name": "James Patrick",
+        "role": "extracted",
+        "context": "ames \nFitzgerald (or might be James Patrick Fitzgerald), personal identif"
+      },
+      {
+        "name": "While Fitzgerald",
+        "role": "extracted",
+        "context": "r modeling. \nFitzgerald told \nWhile Fitzgerald was talking to \nMaxwell came"
+      },
+      {
+        "name": "Scott Borgerson",
+        "role": "extracted",
+        "context": "0, \nsaw a news articles about Scott Borgerson, personal \nidentifiers \nunkno"
+      },
+      {
+        "name": "Prince William",
+        "role": "extracted",
+        "context": "l case. \nadvised she also met Prince William in England \nand believes that"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Cambridge, UK",
+        "type": "city"
+      },
+      {
+        "name": "Miami, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-38-06",
+        "event": "38/06/2020"
+      },
+      {
+        "date": "2020-08-06",
+        "event": "08/06/2020"
+      },
+      {
+        "date": "2020-08-05",
+        "event": "08/05/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.929Z"
+}

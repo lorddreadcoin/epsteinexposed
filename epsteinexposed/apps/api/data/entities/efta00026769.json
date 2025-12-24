@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00026769",
+    "filename": "EFTA00026769.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026769.pdf",
+    "text": "\n\nFrom: (USANYS) [Contractor]\" •,:: \n> \nTo:\nSubject: RE: and interview \nnotes \nDate: Fri, 21 Aug 2020 13:29:51 +0000 \nI've added everything. Just want to confirm that these two were the notes you meant to send. They were in the previous \nemail as well. \nFrom: \n‹> \nSent: Friday, August 21, 2020 7:45 AM \nTo: USANYS Contractor] c> \nSubject: Fwd: and interview notes \nHi M, \nCould you please save these in the witness folder? Thanks. \nSent from my iPhone \nBegin forwarded \nmessage: \nFrom: ' \nTo: ' \n(USANYS \nSubject: and interview notes \nSee attached. \n) (FBI)\" \nRegarding the -interview from yesterday to summarize it went well. He is very cooperative and willing \nto speak again if needed. He recalls in some fashion him and recruiting and or bringing girls to \nEpstein. He recalls that Epstein and only Epstein would pay him $200 for the girls he brought. His interactions \nwith Maxwell were very limited as he remembers. He didn't seem to think they chatted about bringing girls to \nthe house. He does recall recruiting and giving her the pre massage speech about how it all goes \ndown. \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00026769",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "older? Thanks. \nSent from my iPhone \nBegin forwarded \nmessage: \nFrom: '"
+      },
+      {
+        "name": "Child Exploitation",
+        "role": "extracted",
+        "context": "own. \nDetective \nNYPD /  FBI \nChild Exploitation Human Trafficking Task Force"
+      },
+      {
+        "name": "Human Trafficking",
+        "role": "extracted",
+        "context": "PD /  FBI \nChild Exploitation Human Trafficking Task Force \nOffice: \nCell: \nF"
+      },
+      {
+        "name": "Task Force",
+        "role": "extracted",
+        "context": "xploitation Human Trafficking Task Force \nOffice: \nCell: \nFax: \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-08-21",
+        "event": "August 21, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.798Z"
+}

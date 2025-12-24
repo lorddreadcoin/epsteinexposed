@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00021010",
+    "filename": "EFTA00021010.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021010.pdf",
+    "text": "\n\nFrom: \nTo:\" \nCc: '  \n(NY) (FBI)\"  \nSubject: Re: Flight Logs.pdf \nDate: Sat, 10 Aug 2019 21:48:49 +0000 \nBetween January and November of 2005 records show was in St Thomas approximately 9 separate times \nnot including commercial flights. \nOn \nAug 10, 2019, at 15:44, \nThanks, really appreciate the quick review. I'll add this to the application. \nSent from my iPhone \nOn \nAug 10, 2019, at 3:42 PM, \nwrote: \n> wrote: \nLooks to be that traveler to St Thomas approximately once a month between October 2001-\nNovember of 2005. \nOn Aug 10, 2019, at 15:06, > wrote: \nand —could you please review so that we can add a summary of flights to the USVI to the \nwarrant? A high level summary is fine, we don't need to list all the dates—just frequency and time span. Thanks. \n<Flight Logs.pdf> \nEFTA00021010",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Flight Logs",
+        "role": "extracted",
+        "context": "(NY) (FBI)\"  \nSubject: Re: Flight Logs.pdf \nDate: Sat, 10 Aug 2019 2"
+      },
+      {
+        "name": "Between January",
+        "role": "extracted",
+        "context": ", 10 Aug 2019 21:48:49 +0000 \nBetween January and November of 2005 records"
+      },
+      {
+        "name": "St Thomas",
+        "role": "extracted",
+        "context": "r of 2005 records show was in St Thomas approximately 9 separate time"
+      },
+      {
+        "name": "On \nAug",
+        "role": "extracted",
+        "context": "ncluding commercial flights. \nOn \nAug 10, 2019, at 15:44, \nThanks,"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "e application. \nSent from my iPhone \nOn \nAug 10, 2019, at 3:42 PM, \nw"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "ober 2001-\nNovember of 2005. \nOn Aug 10, 2019, at 15:06, > wrote:"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.822Z"
+}

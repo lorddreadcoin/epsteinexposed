@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00017093",
+    "filename": "EFTA00017093.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017093.pdf",
+    "text": "\n\nFrom: \nTo:\nSubject: SecureMail Encryption Response \nDate: Mon, 09 Sep 2019 21:41:29 +0000 \nYour message was successfully encrypted. \nMessage Details: \nFrom: \nTo: \nSubject: Epstein File - Redactions \nEFTA00017093",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mail Encryption",
+        "role": "extracted",
+        "context": "From: \nTo:\nSubject: SecureMail Encryption Response \nDate: Mon, 09 Sep 2"
+      },
+      {
+        "name": "Response \nDate",
+        "role": "extracted",
+        "context": "ubject: SecureMail Encryption Response \nDate: Mon, 09 Sep 2019 21:41:29 +0"
+      },
+      {
+        "name": "Message Details",
+        "role": "extracted",
+        "context": "was successfully encrypted. \nMessage Details: \nFrom: \nTo: \nSubject: Epstei"
+      },
+      {
+        "name": "Epstein File",
+        "role": "extracted",
+        "context": "etails: \nFrom: \nTo: \nSubject: Epstein File - Redactions \nEFTA00017093"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.993Z"
+}

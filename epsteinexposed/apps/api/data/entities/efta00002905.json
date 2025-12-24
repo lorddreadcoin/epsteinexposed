@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00002905",
+    "filename": "EFTA00002905.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0003\\EFTA00002905.pdf",
+    "text": "\n\nDesigned \nby \nApple \nin \nCalifornia \nAssembled \nin \nChina \nModel \nNumber: \nA1419 \n100-240V—, \n50.60Hz \n4A. \nApparaten \nskall \nanslutas \ntill \njordat \nnätuttag. \nCAN \nICES\n-3 \n(B)/NMB-3(B) \nContains \nFCC \nID: \nQDS-BRCM1070 \nand \nIC:4324A-BRCM1070 \nIll \nI \nI \nHMI \nIIII \n111111 \nIIII \nI \nIIII \nIIIIIIII \nII \nIII \nSerial \nNo.: \nCO2NM1MOFY14 \nEMCNo.: \n2806 \nEFTA00002905",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "California \nAssembled",
+        "role": "extracted",
+        "context": "Designed \nby \nApple \nin \nCalifornia \nAssembled \nin \nChina \nModel \nNumber: \nA"
+      },
+      {
+        "name": "China \nModel",
+        "role": "extracted",
+        "context": "n \nCalifornia \nAssembled \nin \nChina \nModel \nNumber: \nA1419 \n100-240V—,"
+      },
+      {
+        "name": "Serial \nNo",
+        "role": "extracted",
+        "context": "I \nIIII \nIIIIIIII \nII \nIII \nSerial \nNo.: \nCO2NM1MOFY14 \nEMCNo.: \n280"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.324Z"
+}

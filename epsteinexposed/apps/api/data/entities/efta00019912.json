@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019912",
+    "filename": "EFTA00019912.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019912.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: (USANYS)\" \nSubject: FW: Letter re GM Flashlight Checks \nDate: Wed, 05 May 2021 13:08:33 +0000 \nAttachments: 2021.04.29_AJN_Order re_GM_Sleeping_Conditions.pdf; 2021-05-\n04_GM _letter re_flashlight_checks_y2.docx \nFrom: (USANYS) \nSent: Tuesday, May 4, 20217:52 PM \nTo: (USANYS) \nCc: \nI\nSubject: Letter re GM Flashlight Checks \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \n(USANYS) \nEFTA00019912",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Flashlight Checks",
+        "role": "extracted",
+        "context": ")\" \nSubject: FW: Letter re GM Flashlight Checks \nDate: Wed, 05 May 2021 13:08"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "tter re GM Flashlight Checks \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ight Checks \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \n("
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-05",
+        "event": "05 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.842Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00014962",
+    "filename": "EFTA00014962.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014962.pdf",
+    "text": "\n\n11/26/21, 6:56 PM Mail - \nMader, \nR. (NY) (FBI) - \nOutlook \nUpdate \nWed 10/14/2020 4:16 PM \nTo: \nHey just tried calling you. Give me a  call when you have a  sec \nOn Oct 14, 2020 7:53 PM, \n> \nwrote: \nHey Mandy-\nJust spoke to M, and he was wondering if to and if not if you could set up a \ncall to get an update (You, me, and.\nThe biggest thing he was asking about is what are the devices we will be reviewing (once it's split \nbetween us and SDNY), and once we know which devices to review if we can start on it right away. \nI'll be at work for a few hours still if you want call me! \nhttpstoutlook.office365.usimailideeplinkTpopoutv2=1&version=20211025002.13 \n1/1 \nEFTA00014962",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Outlook \nUpdate",
+        "role": "extracted",
+        "context": "l - \nMader, \nR. (NY) (FBI) - \nOutlook \nUpdate \nWed 10/14/2020 4:16 PM \nTo:"
+      },
+      {
+        "name": "On Oct",
+        "role": "extracted",
+        "context": "a  call when you have a  sec \nOn Oct 14, 2020 7:53 PM, \n> \nwrote:"
+      },
+      {
+        "name": "Hey Mandy",
+        "role": "extracted",
+        "context": "14, 2020 7:53 PM, \n> \nwrote: \nHey Mandy-\nJust spoke to M, and he was"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-14",
+        "event": "10/14/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.868Z"
+}

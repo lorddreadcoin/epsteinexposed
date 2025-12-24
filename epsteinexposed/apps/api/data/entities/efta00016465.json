@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00016465",
+    "filename": "EFTA00016465.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016465.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Maxwell Bail Application Exhibits \nDate: Wed, 09 Dec 2020 15:10:22 +0000 \nAttachments: 2020-12-08 defense_renewed motion for bail (lof2).zip \nPlease find attached a zip folder containing the Part 1 of the exhibits pertaining to Maxwell's renewed bail application. I \napologize, my previous email was not delivered to you because the single file size was too large. A second email \ncontaining Part 2 of the exhibits is forthcoming momentarily. Thank you very much, and please let me know if you \nencounter any issues. \nAll the best, \nFrom [Contractor] \nSent: Wednesday, December 9, 2020 9:54 AM \nTo: \nSubject: Maxwell Bail Application Exhibits \nHi \nI hope you're both well! Please find attached a zip folder containing the exhibits pertaining to Maxwell's renewed bail \napplication. Thank you, and please let me know if you have any questions or encounter any issues. \nTake care, \nParalegal Specialist \nU.S. Attorney's Office I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016465",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Bail",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Maxwell Bail Application Exhibits \nDate: W"
+      },
+      {
+        "name": "Application Exhibits",
+        "role": "extracted",
+        "context": "c: \nSubject: RE: Maxwell Bail Application Exhibits \nDate: Wed, 09 Dec 2020 15:10"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "nter any issues. \nTake care, \nParalegal Specialist \nU.S. Attorney's Office I \nSD"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "ffice I \nSDNY \n1 St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00016465"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-08",
+        "event": "2020-12-08"
+      },
+      {
+        "date": "2020-12-09",
+        "event": "December 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.729Z"
+}

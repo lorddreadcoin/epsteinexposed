@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00016218",
+    "filename": "EFTA00016218.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016218.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: US v. Maxwell, 20 CR. \n330 (AIN) - Government Opposition to Defense Motions \nDate: Th\ne, 23 Mar 2021 03:12:41 +0000 \nAttachments: 2021-03-22_GM _letter re_pre-trial_opposition_redactionsifinal).pdf; \n2021.02.26 Government Omnibus_Opposition_to_Maxwell Defense Motions_FINAL_(Pr \noposed_Redactions_Per Order_and_Defense_Requested_Redaction).pdf; \nExhibit_l liProposed_Redactionsfer Order).pdf \nGood evening, \nAttached please find the Government's letter relating to redactions filed on ECF this evening, as well as the Government's \nproposed redactions to its omnibus memorandum of law and the proposed redactions to Exhibit 11. \nRespectfully submitted, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York \nNew York 10007 \nEFTA00016218",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Government Opposition",
+        "role": "extracted",
+        "context": "Maxwell, 20 CR. \n330 (AIN) - Government Opposition to Defense Motions \nDate: Th"
+      },
+      {
+        "name": "Defense Motions",
+        "role": "extracted",
+        "context": "N) - Government Opposition to Defense Motions \nDate: Th\ne, 23 Mar 2021 03:1"
+      },
+      {
+        "name": "Government Omnibus",
+        "role": "extracted",
+        "context": "tionsifinal).pdf; \n2021.02.26 Government Omnibus_Opposition_to_Maxwell Defense"
+      },
+      {
+        "name": "Maxwell Defense",
+        "role": "extracted",
+        "context": "ernment Omnibus_Opposition_to_Maxwell Defense Motions_FINAL_(Pr \noposed_Red"
+      },
+      {
+        "name": "Per Order",
+        "role": "extracted",
+        "context": "_FINAL_(Pr \noposed_Redactions_Per Order_and_Defense_Requested_Redacti"
+      },
+      {
+        "name": "Redactionsfer Order",
+        "role": "extracted",
+        "context": "n).pdf; \nExhibit_l liProposed_Redactionsfer Order).pdf \nGood evening, \nAttached"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "11. \nRespectfully submitted, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York \nNe"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York \nNew York 10007 \nEFTA000"
+      },
+      {
+        "name": "York \nNew",
+        "role": "extracted",
+        "context": "One St. Andrew's Plaza \nNew York \nNew York 10007 \nEFTA00016218"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.246Z"
+}

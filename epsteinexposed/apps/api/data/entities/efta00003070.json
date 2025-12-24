@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00003070",
+    "filename": "EFTA00003070.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003070.pdf",
+    "text": "\n\n'NO \na \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress, \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nLSJE, \nLLC \n6I \nok \nuarters. \nSuite \n13-3, \nSt. \nThomas, \nVI \n00802-1348 \nPhi \nE-mail: \nthesaintjamcs.group(a)gmail.com \nI \nmergency \nContact \nForm \n01/11/18 \nSylvester \nGaillard \nfi\nde/Position: \nKupenesor \nAllergies \nor \nHealth \nConcerns: \nNone \nriabetic \nMedications \nCurrent \nMedications: \nDoctors \nName: \nDoctor's \nName: \nDr. \nAlah \nIn \ncase \nof \nemergency, \nplease \ncontact: \nName: Name: \nSt \nThomas, \nV1 \nRelationship: Relationship: \nStan \nDate: \nDate \nof \nBirth: \nStThomas, \nVI \nI\nMOther \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nDoctor's \nPhone: \nDoctor's \nPhone: \nSingle \nPhone: Phone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \n0 \nUnknown \n11\nEFTA00003070",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Alah \nIn",
+        "role": "extracted",
+        "context": "tors \nName: \nDoctor's \nName: \nDr. \nAlah \nIn \ncase \nof \nemergency, \np"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "'NO \na \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress, \nMailing"
+      },
+      {
+        "name": "Physical \nAddress",
+        "role": "extracted",
+        "context": "ay's \nDate: \nEmployee \nName: \nPhysical \nAddress, \nMailing \nAddress: \nCell \nPh"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "e \nName: \nPhysical \nAddress, \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nLSJE"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "Address, \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nLSJE, \nLLC \n6I \nok"
+      },
+      {
+        "name": "Contact \nForm",
+        "role": "extracted",
+        "context": "oup(a)gmail.com \nI \nmergency \nContact \nForm \n01/11/18 \nSylvester \nGaillar"
+      },
+      {
+        "name": "Sylvester \nGaillard",
+        "role": "extracted",
+        "context": "ncy \nContact \nForm \n01/11/18 \nSylvester \nGaillard \nfi\nde/Position: \nKupenesor"
+      },
+      {
+        "name": "Kupenesor \nAllergies",
+        "role": "extracted",
+        "context": "r \nGaillard \nfi\nde/Position: \nKupenesor \nAllergies \nor \nHealth \nConcerns: \nNone"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "n: \nKupenesor \nAllergies \nor \nHealth \nConcerns: \nNone \nriabetic \nMedications"
+      },
+      {
+        "name": "Medications \nCurrent",
+        "role": "extracted",
+        "context": "h \nConcerns: \nNone \nriabetic \nMedications \nCurrent \nMedications: \nDoctors \nName:"
+      },
+      {
+        "name": "Doctors \nName",
+        "role": "extracted",
+        "context": "tions \nCurrent \nMedications: \nDoctors \nName: \nDoctor's \nName: \nDr. \nAlah"
+      },
+      {
+        "name": "St \nThomas",
+        "role": "extracted",
+        "context": "lease \ncontact: \nName: Name: \nSt \nThomas, \nV1 \nRelationship: Relations"
+      },
+      {
+        "name": "Stan \nDate",
+        "role": "extracted",
+        "context": "Relationship: Relationship: \nStan \nDate: \nDate \nof \nBirth: \nStThomas,"
+      },
+      {
+        "name": "Other \nPhone",
+        "role": "extracted",
+        "context": "of \nBirth: \nStThomas, \nVI \nI\nMOther \nPhone \n(other): \nMarital \nStatus:"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "I \nI\nMOther \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nDoc"
+      },
+      {
+        "name": "License \nNo",
+        "role": "extracted",
+        "context": "Marital \nStatus: \nDriver's \nLicense \nNo: \nDoctor's \nPhone: \nDoctor's"
+      },
+      {
+        "name": "Single \nPhone",
+        "role": "extracted",
+        "context": "'s \nPhone: \nDoctor's \nPhone: \nSingle \nPhone: Phone: \nThis \ninformation \ni"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.665Z"
+}

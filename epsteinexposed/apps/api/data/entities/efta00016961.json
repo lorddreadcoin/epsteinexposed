@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016961",
+    "filename": "EFTA00016961.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016961.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: \nRe: \nDate: Wed, 22 Jan 2020 13:04:53 \n+0000 \nYes, we \nwill have them reach \nout and follow up. \nSent from \nmy iPhone \n> On Jan \n22, 2020, at 7:33 AM, \n> \n> Can \nsomeone from the Epstein team \ncontact the Trustees \ntoday for the prior trusts. \nwrote: \nEFTA00016961",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: \nRe: \nDate: Wed"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: \nRe: \nDate: Wed, 22 Jan 2020"
+      },
+      {
+        "name": "On Jan",
+        "role": "extracted",
+        "context": "up. \nSent from \nmy iPhone \n> On Jan \n22, 2020, at 7:33 AM, \n> \n>"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.761Z"
+}

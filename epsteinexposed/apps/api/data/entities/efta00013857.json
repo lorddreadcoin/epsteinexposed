@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00013857",
+    "filename": "EFTA00013857.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013857.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Out of Office AutoReply: Epstein issue with State Attorney's Office \nDate: Tue, 04 Aug 2009 18:13:18 +0000 \nImportance: Normal \nI am out of the office and will not return until Monday, August 10. You may contact my assistant, at \nshould you require assistance. \nEFTA00013857",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Office Auto",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Out of Office AutoReply: Epstein issue with Stat"
+      },
+      {
+        "name": "State Attorney",
+        "role": "extracted",
+        "context": "AutoReply: Epstein issue with State Attorney's Office \nDate: Tue, 04 Aug 2"
+      },
+      {
+        "name": "Office \nDate",
+        "role": "extracted",
+        "context": "n issue with State Attorney's Office \nDate: Tue, 04 Aug 2009 18:13:18 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.591Z"
+}

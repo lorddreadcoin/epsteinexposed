@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00021687",
+    "filename": "EFTA00021687.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021687.pdf",
+    "text": "\n\nFrom: \nTo:\n,\nCc: alSANY\nI\nSaMMIlry,\nEl \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Fri, 08 Oct 2021 14:00:36 +0000 \nAttachments: 500 Series _ - _ Financial Exhibits.zip \nHope you're both doing well. Following up on our last conversation, we wanted to send along a few documents in order \nto facilitate our conversation about identifying an appropriate witness from JP Morgan. Attached is a zip file containing a \nfew draft exhibits. We are still working on finalizing exhibits, but we thought it made sense to start the conversation about \nthis sooner rather than later. Please let us know if you have any questions or if a call would be useful. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021687",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "alSANY\nI\nSaMMIlry,\nEl \nSubject: United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN) \nDate: Fri, 08 Oct 2021 14:00:3"
+      },
+      {
+        "name": "El \nSubject",
+        "role": "extracted",
+        "context": "To:\n,\nCc: alSANY\nI\nSaMMIlry,\nEl \nSubject: United States v. Ghislaine M"
+      },
+      {
+        "name": "Financial Exhibits",
+        "role": "extracted",
+        "context": "Attachments: 500 Series _ - _ Financial Exhibits.zip \nHope you're both doing w"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ll would be useful. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "l. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00021687"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.188Z"
+}

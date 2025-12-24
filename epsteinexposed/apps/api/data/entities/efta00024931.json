@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "efta00024931",
+    "filename": "EFTA00024931.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024931.pdf",
+    "text": "\n\nFrom: (USANYS)\" eza \nTo: Christian Everdell , \"Mark S. \nCohen\" \nSTERNHEIM \n\"'Laura Menningerm ,  Jeff Pagtrill...). \nCc:  I II   ,, II \nI/ II \nSubject: US v. Maxwell - Letter Due Today \nDate: Wed, 05 May 2021 18:12:49 +0000 \nAttachments: 2021-05-05_GM_Ietter re_flashlight_checksjinal.pdf \nCounsel, \nIn accordance with Judge Nathan's Order dated April 29, 2021 (Dkt. No. 257), the Government is sharing its letter so you \ncan indicate if you believe any private medical information needs to be redacted before public filing. We do not believe \nany redactions are necessary. Please let us know if you think any redactions are needed. \nThanks, \nLara \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nEFTA00024931",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "From: (USANYS)\" eza \nTo: Christian Everdell , \"Mark S. \nCohen\" \nSTERNHEIM"
+      },
+      {
+        "name": "Laura Menningerm",
+        "role": "extracted",
+        "context": "Mark S. \nCohen\" \nSTERNHEIM \n\"'Laura Menningerm ,  Jeff Pagtrill...). \nCc:  I"
+      },
+      {
+        "name": "Jeff Pagtrill",
+        "role": "extracted",
+        "context": "RNHEIM \n\"'Laura Menningerm ,  Jeff Pagtrill...). \nCc:  I II   ,, II \nI/ I"
+      },
+      {
+        "name": "Letter Due",
+        "role": "extracted",
+        "context": "II \nSubject: US v. Maxwell - Letter Due Today \nDate: Wed, 05 May 2021"
+      },
+      {
+        "name": "Today \nDate",
+        "role": "extracted",
+        "context": "t: US v. Maxwell - Letter Due Today \nDate: Wed, 05 May 2021 18:12:49 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "Counsel, \nIn accordance with Judge Nathan's Order dated April 29, 2021"
+      },
+      {
+        "name": "Lara \nAssistant",
+        "role": "extracted",
+        "context": "actions are needed. \nThanks, \nLara \nAssistant United States Attorney \nUnite"
+      },
+      {
+        "name": "Attorney \nUnited",
+        "role": "extracted",
+        "context": "Lara \nAssistant United States Attorney \nUnited States Attorney's Office \nSou"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "nited States Attorney \nUnited States Attorney's Office \nSouthern District o"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-04-29",
+        "event": "April 29, 2021"
+      },
+      {
+        "date": "2021-05-05",
+        "event": "05 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.131Z"
+}

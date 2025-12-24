@@ -1,0 +1,81 @@
+{
+  "document": {
+    "id": "efta00030816",
+    "filename": "EFTA00030816.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030816.pdf",
+    "text": "\n\nEvent: Jeffrey Epstein Estate/Southern Country International Bank/USVI \nStart Date: 2020-04-03 15:00:00 +0000 \nEnd Date: 2020-04-03 16:00:00 +0000 \nOrganizer: (USAVI) < \nLocation: Conference Line Call-In (see below) \nClass: X-PERSONAL \nDate Created: 2020-04-02 12:28:26 +0000 \nDate Modified: 2020-04-02 12:28:26 +0000 \nPriority: 5 \nDTSTAMP: 2020-04-02 12:03:06 +0000 \nAttendee: (USAVI) ; (USANYS) \n>; (USANYS) > \nAlarm: Display the following message 4h before start \nReminder \nToll Free Number: 866-421-2611 \nPasscode: 1950230# \nEFTA00030816",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Event: Jeffrey Epstein Estate/Southern Country International Bank/USVI"
+      },
+      {
+        "name": "Southern Country",
+        "role": "extracted",
+        "context": "Event: Jeffrey Epstein Estate/Southern Country International Bank/USVI \nStar"
+      },
+      {
+        "name": "International Bank",
+        "role": "extracted",
+        "context": "stein Estate/Southern Country International Bank/USVI \nStart Date: 2020-04-03"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "ntry International Bank/USVI \nStart Date: 2020-04-03 15:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-04-03 15:00:00 +0000 \nEnd Date: 2020-04-03 16:00:00 +0000 \nO"
+      },
+      {
+        "name": "Conference Line",
+        "role": "extracted",
+        "context": "ganizer: (USAVI) < \nLocation: Conference Line Call-In (see below) \nClass: X"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "ee below) \nClass: X-PERSONAL \nDate Created: 2020-04-02 12:28:26 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-04-02 12:28:26 +0000 \nDate Modified: 2020-04-02 12:28:26 +0000 \nP"
+      },
+      {
+        "name": "Reminder \nToll",
+        "role": "extracted",
+        "context": "wing message 4h before start \nReminder \nToll Free Number: 866-421-2611 \nPa"
+      },
+      {
+        "name": "Free Number",
+        "role": "extracted",
+        "context": "before start \nReminder \nToll Free Number: 866-421-2611 \nPasscode: 1950"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-04-03",
+        "event": "2020-04-03"
+      },
+      {
+        "date": "2020-04-02",
+        "event": "2020-04-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "866-421-2611"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.730Z"
+}

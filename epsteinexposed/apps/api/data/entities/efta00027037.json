@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00027037",
+    "filename": "EFTA00027037.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00027037.pdf",
+    "text": "\n\nCase 1:19-cv-03377-LAP Document 101 Filed 12/20/19 Page 1 of 2 \nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF NEW YORK \nPlaintiff. \nv. \nALAN DERSHOWITZ, \nDefendant. \nALAN DERSHOWITZ, \nCounterclaim Plaintiff, \nv. \nCounterclaim Defendant. \nCivil Action No. 1:19-cv-3377 (LAP) \nDECLARATION OF HALEY N. \nPROCTOR \nHALEY PROCTOR hereby declares pursuant to 28 U.S.C. § 1746 as follows: \nI. I  make this declaration in support of Plaintiff motion for leave \nto file an Amended Complaint. \n2. Attached hereto as Exhibit A is a true and correct copy of the Amended Complaint \nPlaintiff proposes to file. \n3. Attached hereto as Exhibit B is a true and correct copy of the proposed Amended \nComplaint in which the non-formatting changes from the Complaint are identified in redline. \n4. Attached hereto as Exhibit C is a  true and correct copy of a  transcript of the \nDecember 2, 2019, status conference held before the Court and referred to in the accompanying \nmemorandum of law. \nEFTA00027037\n\nCase 1:19-cv-03377-LAP Document 101 Filed 12/20/19 Page 2 of 2 \nDated: December 20, 2019 \nIs/ Haley N. Proctor \nHaley N. Proctor \n2 \nEFTA00027038",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Alan Dershowitz",
+        "role": "extracted",
+        "context": "T \nSOUTHERN DISTRICT OF NEW YORK \nPlaintiff. \nv. \nALAN DERSHOWITZ, \nDefendant. \nALAN DERSHOWITZ, \nCounterclaim Plai"
+      },
+      {
+        "name": "Counterclaim Plaintiff",
+        "role": "extracted",
+        "context": "Defendant. \nALAN DERSHOWITZ, \nCounterclaim Plaintiff, \nv. \nCounterclaim Defendant."
+      },
+      {
+        "name": "Counterclaim Defendant",
+        "role": "extracted",
+        "context": "Counterclaim Plaintiff, \nv. \nCounterclaim Defendant. \nCivil Action No. 1:19-cv-33"
+      },
+      {
+        "name": "Civil Action",
+        "role": "extracted",
+        "context": "v. \nCounterclaim Defendant. \nCivil Action No. 1:19-cv-3377 (LAP) \nDECLA"
+      },
+      {
+        "name": "Amended Complaint",
+        "role": "extracted",
+        "context": "motion for leave \nto file an Amended Complaint. \n2. Attached hereto as Exhib"
+      },
+      {
+        "name": "Amended \nComplaint",
+        "role": "extracted",
+        "context": "correct copy of the proposed Amended \nComplaint in which the non-formatting c"
+      },
+      {
+        "name": "Proctor \nHaley",
+        "role": "extracted",
+        "context": "cember 20, 2019 \nIs/ Haley N. Proctor \nHaley N. Proctor \n2 \nEFTA00027038"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-12-02",
+        "event": "December 2, 2019"
+      },
+      {
+        "date": "2019-12-20",
+        "event": "December 20, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:17.429Z"
+}

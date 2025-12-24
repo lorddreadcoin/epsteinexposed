@@ -1,0 +1,77 @@
+{
+  "document": {
+    "id": "efta00030336",
+    "filename": "EFTA00030336.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030336.pdf",
+    "text": "\n\nEvent: Request for Information Relating to Jeffrey Epstein \nStart Date: 2020-05-04 17:45:00 +0000 \nEnd Date: 2020-05-04 18:15:00 +0000 \nOrganizer: \nClass: X-PERSONAL \nDate Created: 2020-04-30 20:04:49 +0000 \nDate Modified: 2020-04-30 20:04:49 +0000 \nPriority: 5 \nDTSTAMP: 2020-04-30 19:51:05 +0000 \nAttendee: \nAlarm: Display the following message 15m before start \nReminder \n-- Do not delete or change any of the following text. --\nJoin Webex Meeting \nMeeting number (access code): 470 899 616 Meeting password: RxPNmCtV685 \nJoin from a video system or application \nDial 470899616@khf.webex.com \nYou can also dial 173.243.2.68 and enter your meeting number. \nJoin by phone \nTap to call in from a mobile device (attendees only) \n+1-415-655-0001 US Toll \nGlobal call-in numbers \nCan't join the meeting? \nIf you are a host, go here to view host information. IMPORTANT NOTICE: Please note that this \nEFTA00030336\n\nWebex service allows audio and other information sent during the session to be recorded, which \nmay be discoverable in a legal matter. By joining this session, you automatically consent to such \nrecordings. If you do not consent to being recorded, discuss your concerns with the host or do \nnot join the session. \nThis email and its attachments may contain information that is confidential and/or protected \nfrom disclosure by the attorney-client, work product or other applicable legal privilege. If you are \nnot the intended recipient of the email, please be aware that any unauthorized review, use, \ndisclosure, dissemination, distribution, or copying of this communication, or any of its contents, \nis strictly prohibited. If you have received this communication in error, please notify the sender \nimmediately and destroy all copies of the message from your computer system. Thank you. \nEFTA00030337",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Event: Request for Information Relating to Jeffrey Epstein \nStart Date: 2020-05-04 17:45:00 +0000 \nEnd Date:"
+      },
+      {
+        "name": "Information Relating",
+        "role": "extracted",
+        "context": "Event: Request for Information Relating to Jeffrey Epstein \nStart Dat"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Relating to Jeffrey Epstein \nStart Date: 2020-05-04 17:45:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-05-04 17:45:00 +0000 \nEnd Date: 2020-05-04 18:15:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "rganizer: \nClass: X-PERSONAL \nDate Created: 2020-04-30 20:04:49 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-04-30 20:04:49 +0000 \nDate Modified: 2020-04-30 20:04:49 +0000 \nP"
+      },
+      {
+        "name": "Join Webex",
+        "role": "extracted",
+        "context": "any of the following text. --\nJoin Webex Meeting \nMeeting number (acce"
+      },
+      {
+        "name": "Meeting \nMeeting",
+        "role": "extracted",
+        "context": "following text. --\nJoin Webex Meeting \nMeeting number (access code): 470 899"
+      },
+      {
+        "name": "Toll \nGlobal",
+        "role": "extracted",
+        "context": "ees only) \n+1-415-655-0001 US Toll \nGlobal call-in numbers \nCan't join t"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-04",
+        "event": "2020-05-04"
+      },
+      {
+        "date": "2020-04-30",
+        "event": "2020-04-30"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "415-655-0001",
+      "+1-415-655-0001"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.610Z"
+}

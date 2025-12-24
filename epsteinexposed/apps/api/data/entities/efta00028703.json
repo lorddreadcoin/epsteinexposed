@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00028703",
+    "filename": "EFTA00028703.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028703.pdf",
+    "text": "\n\nFrom: ' \nTo:'\nSubject: FW: US v. Epstein \nDate: Wed, 02 Jun 2021 17:12:33 +0000 \nAttachments: Copy_of USVP00300765_-_Possible_PROD_BEG_BATES.xlsx \nFrom: \nSent: Wednesday, June 2, 2021 1:00 PM \nTo: \nSubject: RE: US v. Epstein \nHello \nPlease use the attached spreadsheet for this meeting. \n› \nFrom: \nSent: Tuesday, June 1, 2021 1:00 PM \nTo: \nSubject: RE: US v. Epstein \nWill do, thanks. \nFrom: \nSent: Tuesday, June 1, 2021 12:58 PM \nTo: \nSubject: RE: US v. Epstein \nThe day and time works. Just send me the dial-in information. \nThank you. \nFrom: \nSent: Tuesday, June 1, 2021 12:32 PM \nTo: \nSubject: RE: US v. Epstein \nHi=, \nYes definitely, let's have a call on Wednesday (tomorrow). Would 12:30pm work? \nThanks, \nEFTA00028703\n\nFrom: \nSent: Tuesday, June 1, 2021 10:45 AM \nTo: \nSubject: US v. Epstein \nHello \n> \nI wanted to know if you had time this week for a call as me and the vendor wanted to discuss a few items with you from \nour last call and give you something to review. It will be easier to discuss if we are all on the phone at the same time. Me \nand the vendor can be available either Wednesday or Friday of this week. Please let me know what works for you. \nThank you. \nEFTA00028704",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "m: ' \nTo:'\nSubject: FW: US v. Epstein \nDate: Wed, 02 Jun 2021 17:12:33 +0"
+      },
+      {
+        "name": "Epstein \nHello",
+        "role": "extracted",
+        "context": "0 PM \nTo: \nSubject: RE: US v. Epstein \nHello \nPlease use the attached spre"
+      },
+      {
+        "name": "Epstein \nWill",
+        "role": "extracted",
+        "context": "0 PM \nTo: \nSubject: RE: US v. Epstein \nWill do, thanks. \nFrom: \nSent: Tue"
+      },
+      {
+        "name": "Epstein \nThe",
+        "role": "extracted",
+        "context": "8 PM \nTo: \nSubject: RE: US v. Epstein \nThe day and time works. Just send"
+      },
+      {
+        "name": "Epstein \nHi",
+        "role": "extracted",
+        "context": "2 PM \nTo: \nSubject: RE: US v. Epstein \nHi=, \nYes definitely, let's have"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-06-02",
+        "event": "June 2, 2021"
+      },
+      {
+        "date": "2021-06-01",
+        "event": "June 1, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.770Z"
+}

@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00015297",
+    "filename": "EFTA00015297.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015297.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: \"Berman, Geoffrey (USANYS)\" \nSubject: Re: Epstein \nDate: Sat, 10 Aug 2019 12:35:45 +0000 \nI'm not far from the office if you need me. \nSent from my iPhone \n> On Aug 10, 2019, at 8:24 AM, Berman, Geoffrey (USANYS) a wrote: \n> I just got a call from that Epstein committed suicide this morning. He died on the way to the \nhospital. \nEFTA00015297",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "ffrey (USANYS)\" \nSubject: Re: Epstein \nDate: Sat, 10 Aug 2019 12:35:45 +0"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "d me. \nSent from my iPhone \n> On Aug 10, 2019, at 8:24 AM, Berman,"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.407Z"
+}

@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00032554",
+    "filename": "EFTA00032554.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032554.pdf",
+    "text": "\n\nFrom: \n• \nTo: (USANYS)\"  \nCc: alSSANa>\n.;a .•1Mir) \nI. \nSubject: RE: Epstein \nDate: Fri, 17 Jan 2020 17:49:26 +0000 \nAttachments: 2019-07-\n°8, JE,_initial_govemment_bail_memorandumjas_submitted_to_Judge_Pittnan).pdf; \n2019-07-12, JE,_govemment_opposition_to_bail_motionidocketed,with_exhibits).pdf \nNo problem — nothing was filed under seal, and both of our submissions are attached. \nFrom: \n(USANYS) \ncu\nSent: Friday, January 17, 2020 11:41 \nTo: \nCc: \nSubject: Epstein \n(USANYS) \nCan you guys please send me our filings on bail when you can? Want to provide to Civ Div, so please let me know if \nanything was filed under seal. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nEFTA00032554",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ".;a .•1Mir) \nI. \nSubject: RE: Epstein \nDate: Fri, 17 Jan 2020 17:49:26 +0"
+      },
+      {
+        "name": "Civ Div",
+        "role": "extracted",
+        "context": "n you can? Want to provide to Civ Div, so please let me know if \nan"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "filed under seal. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nEFTA00032554"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-12",
+        "event": "2019-07-12"
+      },
+      {
+        "date": "2020-01-17",
+        "event": "January 17, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.914Z"
+}

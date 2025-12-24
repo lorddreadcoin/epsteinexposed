@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00025225",
+    "filename": "EFTA00025225.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025225.pdf",
+    "text": "\n\nUNITED STATES DEPARTMENT OF JUSTICE \nOffice of the Inspector General \nWARNINGS AND ASSURANCES TO EMPLOYEE REQUESTED \nTO PROVIDE INFORMATION ON A VOLUNTARY BASIS \nYou are being asked to provide information as part of an investigation being conducted by the Office \nof the Inspector General. This investigation is being conducted pursuant to the Inspector General \nAct of 1978, as amended. \nThis investigation pertains to: \nThis is a voluntary interview. Accordingly, you do not have to answer questions. No disciplinary \naction will be taken against you if you choose not to answer questions. \nAny statement you furnish may be used as evidence in any future criminal proceedings or agency \ndisciplinary proceeding, or both. \nWAIVER \nI understand the warnings and assurances stated above and I am willing to make a  statement and \nanswer questions. No promises or threats have been made to me and no pressure or coercion of \nany kind has been used against me. \nSignature of the Office of the Inspector Employee's Signature \nGeneral Special Agent \nName of the Office of the Inspector Employee's Name \nGeneral Special Agent \nSignature of Witness Date and Time \nName of Witness Place \nMG Form 111.226/2 (05/03/21) Non-Custodial/Employee \nEFTA00025225",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "ENT OF JUSTICE \nOffice of the Inspector General \nWARNINGS AND ASSURANCES TO E"
+      },
+      {
+        "name": "Inspector Employee",
+        "role": "extracted",
+        "context": "ignature of the Office of the Inspector Employee's Signature \nGeneral Special"
+      },
+      {
+        "name": "Signature \nGeneral",
+        "role": "extracted",
+        "context": "e of the Inspector Employee's Signature \nGeneral Special Agent \nName of the Of"
+      },
+      {
+        "name": "Special Agent",
+        "role": "extracted",
+        "context": "Employee's Signature \nGeneral Special Agent \nName of the Office of the In"
+      },
+      {
+        "name": "Name \nGeneral",
+        "role": "extracted",
+        "context": "e of the Inspector Employee's Name \nGeneral Special Agent \nSignature of W"
+      },
+      {
+        "name": "Witness Date",
+        "role": "extracted",
+        "context": "l Special Agent \nSignature of Witness Date and Time \nName of Witness Pla"
+      },
+      {
+        "name": "Time \nName",
+        "role": "extracted",
+        "context": "Signature of Witness Date and Time \nName of Witness Place \nMG Form 111"
+      },
+      {
+        "name": "Witness Place",
+        "role": "extracted",
+        "context": "itness Date and Time \nName of Witness Place \nMG Form 111.226/2 (05/03/21)"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.733Z"
+}

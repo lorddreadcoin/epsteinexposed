@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00013554",
+    "filename": "EFTA00013554.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013554.pdf",
+    "text": "\n\nFrom: \" \n(ODAG)\"<IIIIIIIIIIIIIIIII \nTo: \n\" \n(USAFLS)\" < \nSubject: FW: Epstein \nDate: Mon, 23 Jun 2008 21:25:28 +0000 \nImportance: Normal \nAttachments: scan0001.pclf \n(USAFLS)\" \nFYI \n-----Ori inal Message \nFrom: (ODAG) \nSent: Monday, June 23, 2008 5:25 PM \nTo: 'Starr, Ken'; Jay Lefkowitz; Kenneth Starr \nCc: Acosta, Alex (USAFLS) \nSubject: Epstein \nGentlemen: \nAttached please find a letter regarding the Epstein matter. \nEFTA00013554",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\" \n(USAFLS)\" < \nSubject: FW: Epstein \nDate: Mon, 23 Jun 2008 21:25:28 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 21:25:28 +0000 \nImportance: Normal \nAttachments: scan0001.pclf \n(USAFLS)\" \nFY"
+      },
+      {
+        "name": "Message \nFrom",
+        "role": "extracted",
+        "context": "(USAFLS)\" \nFYI \n-----Ori inal Message \nFrom: (ODAG) \nSent: Monday, June 2"
+      },
+      {
+        "name": "Jay Lefkowitz",
+        "role": "extracted",
+        "context": "08 5:25 PM \nTo: 'Starr, Ken'; Jay Lefkowitz; Kenneth Starr \nCc: Acosta, A"
+      },
+      {
+        "name": "Kenneth Starr",
+        "role": "extracted",
+        "context": "'Starr, Ken'; Jay Lefkowitz; Kenneth Starr \nCc: Acosta, Alex (USAFLS) \nS"
+      },
+      {
+        "name": "Epstein \nGentlemen",
+        "role": "extracted",
+        "context": "osta, Alex (USAFLS) \nSubject: Epstein \nGentlemen: \nAttached please find a lett"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-06-23",
+        "event": "June 23, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.856Z"
+}

@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00016157",
+    "filename": "EFTA00016157.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016157.pdf",
+    "text": "\n\nU.S. v. \nGhislaine Maxwell \n•   Maxwell has been charged with facilitating \nthe sexual abuse \nof underaged girls by Jeffrey \nEpstein. \n•  The charged conduct occurred in New York city, \nPalm Beach, Florida, Santa Fe, New Mexico, and \nLondon, England. \n•   If you recognize either of these persons and feel \nyou may be a  victim, please call the following \nnumber: \n1-800\n-CALL FBI \nEFTA00016157\n\nU.S. v. \nGhislaine \nMaxwell \nProperties \nOwned by Epstein \nWhere \nAlleged \nGrooming and/or \nAbuse of \nMinor Victims \nOccurred: \nNew York, New York \nPalm \nBeach, Florida \nSanta \nFe, New Mexico \nEFTA00016158",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "U.S. v. \nGhislaine Maxwell \n•   Maxwell has been charged with facilitating"
+      },
+      {
+        "name": "Jeffrey \nEpstein",
+        "role": "extracted",
+        "context": "abuse \nof underaged girls by Jeffrey \nEpstein. \n•  The charged conduct occu"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "t occurred in New York city, \nPalm Beach, Florida, Santa Fe, New Mexic"
+      },
+      {
+        "name": "Santa Fe",
+        "role": "extracted",
+        "context": "k city, \nPalm Beach, Florida, Santa Fe, New Mexico, and \nLondon, Eng"
+      },
+      {
+        "name": "New Mexico",
+        "role": "extracted",
+        "context": "alm Beach, Florida, Santa Fe, New Mexico, and \nLondon, England. \n•   I"
+      },
+      {
+        "name": "Ghislaine \nMaxwell",
+        "role": "extracted",
+        "context": "L FBI \nEFTA00016157\n\nU.S. v. \nGhislaine \nMaxwell \nProperties \nOwned by Epstein"
+      },
+      {
+        "name": "Properties \nOwned",
+        "role": "extracted",
+        "context": "U.S. v. \nGhislaine \nMaxwell \nProperties \nOwned by Epstein \nWhere \nAlleged \nG"
+      },
+      {
+        "name": "Epstein \nWhere",
+        "role": "extracted",
+        "context": "Maxwell \nProperties \nOwned by Epstein \nWhere \nAlleged \nGrooming and/or \nAb"
+      },
+      {
+        "name": "Alleged \nGrooming",
+        "role": "extracted",
+        "context": "ies \nOwned by Epstein \nWhere \nAlleged \nGrooming and/or \nAbuse of \nMinor Victi"
+      },
+      {
+        "name": "Minor Victims",
+        "role": "extracted",
+        "context": "d \nGrooming and/or \nAbuse of \nMinor Victims \nOccurred: \nNew York, New Yor"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "ccurred: \nNew York, New York \nPalm \nBeach, Florida \nSanta \nFe, New Mexi"
+      },
+      {
+        "name": "Florida \nSanta",
+        "role": "extracted",
+        "context": "York, New York \nPalm \nBeach, Florida \nSanta \nFe, New Mexico \nEFTA00016158"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Santa Fe",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.126Z"
+}

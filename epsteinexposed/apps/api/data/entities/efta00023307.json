@@ -1,0 +1,112 @@
+{
+  "document": {
+    "id": "efta00023307",
+    "filename": "EFTA00023307.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023307.pdf",
+    "text": "\n\nFrom: Lyft Ride Receipt <no-reply@lyftmail.com> \nTo: \nSubject: Your ride within February 26 \nDate: Wed, 26 Feb 2020 10:56:02 +0000 \n[;',Iyft \nFEBRUARY 26, 2020 AT 4:53 AM \nThanks for \nriding with \nLyft fare (12.32mi, 27m 21s) $45.89 \nNew York Sales Tax $4.07 \nBlack Car Fund Surcharge $1.15 \nTip $7.67 \n$58.78 \nRide Map \nPickup 4:53 AM \nDrop-off 5:20 AM \nLong Island, JFK Access Rd, Jamaica, NY \nTIP DRIVER \nFIND LOST ITEM \nEFTA00023307\n\nREQUEST REVIEW \nReview price in the Lyft app help tab \nDispatching Base: Tri-City (B02510). Affiliated Base: (B02875) \nVehicle License Number: T738469C. Driver TLC License: 5939003. \nTo submit a complaint to the NYC TLC, please call 311. \nHelp Center \nReceipt #1376134985404169114 \nWe never share your address with your driver after a ride. \nLearn more about our commitment to safety. \nMapbox © OpenStreetMap Improve \nthis map \n© 2020 Lyft, Inc. \n548 Market St., P.O. Box 68514 \nSan Francisco, CA 94104 \nCPUC ID No. TCP0032513 - P \nWork at Lyft \nBecome a Driver \nEFTA00023308",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Lyft Ride",
+        "role": "extracted",
+        "context": "From: Lyft Ride Receipt <no-reply@lyftmail.co"
+      },
+      {
+        "name": "Sales Tax",
+        "role": "extracted",
+        "context": "mi, 27m 21s) $45.89 \nNew York Sales Tax $4.07 \nBlack Car Fund Surchar"
+      },
+      {
+        "name": "Black Car",
+        "role": "extracted",
+        "context": "89 \nNew York Sales Tax $4.07 \nBlack Car Fund Surcharge $1.15 \nTip $7."
+      },
+      {
+        "name": "Fund Surcharge",
+        "role": "extracted",
+        "context": "rk Sales Tax $4.07 \nBlack Car Fund Surcharge $1.15 \nTip $7.67 \n$58.78 \nRid"
+      },
+      {
+        "name": "Ride Map",
+        "role": "extracted",
+        "context": "rge $1.15 \nTip $7.67 \n$58.78 \nRide Map \nPickup 4:53 AM \nDrop-off 5:2"
+      },
+      {
+        "name": "Long Island",
+        "role": "extracted",
+        "context": "up 4:53 AM \nDrop-off 5:20 AM \nLong Island, JFK Access Rd, Jamaica, NY"
+      },
+      {
+        "name": "Access Rd",
+        "role": "extracted",
+        "context": "off 5:20 AM \nLong Island, JFK Access Rd, Jamaica, NY \nTIP DRIVER \nFIN"
+      },
+      {
+        "name": "Dispatching Base",
+        "role": "extracted",
+        "context": "ice in the Lyft app help tab \nDispatching Base: Tri-City (B02510). Affiliate"
+      },
+      {
+        "name": "Affiliated Base",
+        "role": "extracted",
+        "context": "hing Base: Tri-City (B02510). Affiliated Base: (B02875) \nVehicle License Nu"
+      },
+      {
+        "name": "Vehicle License",
+        "role": "extracted",
+        "context": "). Affiliated Base: (B02875) \nVehicle License Number: T738469C. Driver TLC"
+      },
+      {
+        "name": "Help Center",
+        "role": "extracted",
+        "context": "he NYC TLC, please call 311. \nHelp Center \nReceipt #1376134985404169114"
+      },
+      {
+        "name": "Map Improve",
+        "role": "extracted",
+        "context": "o safety. \nMapbox © OpenStreetMap Improve \nthis map \n© 2020 Lyft, Inc."
+      },
+      {
+        "name": "Market St",
+        "role": "extracted",
+        "context": "s map \n© 2020 Lyft, Inc. \n548 Market St., P.O. Box 68514 \nSan Francis"
+      },
+      {
+        "name": "Lyft \nBecome",
+        "role": "extracted",
+        "context": "D No. TCP0032513 - P \nWork at Lyft \nBecome a Driver \nEFTA00023308"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      },
+      {
+        "name": "Jamaica, NY",
+        "type": "city"
+      },
+      {
+        "name": "San Francisco, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-26",
+        "event": "FEBRUARY 26, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.681Z"
+}

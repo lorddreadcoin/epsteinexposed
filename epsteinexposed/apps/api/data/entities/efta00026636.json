@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026636",
+    "filename": "EFTA00026636.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026636.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Pretrial Jeffrey Epstein \nDate: Mon, 08 Jul 2019 12:04:42 +0000 \nImportance: Normal \nAttachments: 19_Cr._490_Epstein_Sealed_Indictment.pdf \nH \nThe indictment is attached. We hope to have it unsealed within the next hour or so. The defendant's date of birth is \n1/20/53. The • seeking detention in this case, and if you have any questions please feel free to give me \na call. My cell i \nThanks, \nFrom: \nSe • \nTo: \nCc: \nSubject: Pretna le rey Epstein \nGood morning all, \nI was notified that Mr. Epstein will be arriving today. \nCan you please provide me with his pedigree information, a copy of the charging instrument and the estimated time of \narrival he will be at Pretrial Services \nSent from my iPhone \nEFTA00026636",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Pretrial Jeffrey Epstein \nDate: Mon, 08 Jul 2019 12:04:42 +0000 \nImportanc"
+      },
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "ing all, \nI was notified that Mr. Epstein will be arriving today."
+      },
+      {
+        "name": "Pretrial Jeffrey",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Pretrial Jeffrey Epstein \nDate: Mon, 08 Jul 20"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Subject: RE: Pretrial Jeffrey Epstein \nDate: Mon, 08 Jul 2019 12:04:42 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 12:04:42 +0000 \nImportance: Normal \nAttachments: 19_Cr._490_Epstein_Sealed_In"
+      },
+      {
+        "name": "Epstein \nGood",
+        "role": "extracted",
+        "context": "Cc: \nSubject: Pretna le rey Epstein \nGood morning all, \nI was notified"
+      },
+      {
+        "name": "Pretrial Services",
+        "role": "extracted",
+        "context": "ime of \narrival he will be at Pretrial Services \nSent from my iPhone \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:14.719Z"
+}

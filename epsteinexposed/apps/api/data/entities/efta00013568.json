@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00013568",
+    "filename": "EFTA00013568.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013568.pdf",
+    "text": "\n\nFrom \nTo \nSubject: Well, our victim notification letter has been filed in court \nDate: Fri, 18 Jul 2008 20:48:47 +0000 \nImportance: Normal \nOur victim notification letter has been filed in court in connection with one of the federal civil suits against \nEpstein. \nAbout 10 letters have gone out so far. The FBI's victim coordinator is updating the addresses on the rest and \nthey will go out on Monday. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013568",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: Well, our victim no"
+      },
+      {
+        "name": "Normal \nOur",
+        "role": "extracted",
+        "context": "8 20:48:47 +0000 \nImportance: Normal \nOur victim notification letter ha"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013568"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.881Z"
+}

@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00031579",
+    "filename": "EFTA00031579.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031579.pdf",
+    "text": "\n\nFrom: 'ENIMIN\nI=1.> \nTo: Ica=' \nBee: \"USAHUB-USAJouma1111\" \nSubject: RE: Maxwell / Transition \nDate: Tue, 29 Dec 2020 21:30:10 +0000 \nEmbedded: RE:_Maxwell Transition.msg \nSender: \nSubject: RE: Maxwell / Transition \nMessage-Id: \n<BN3P110MB03713EIB943A11F8D9E209C708CDS0@BN3P110MB0371.NAMP110.PROD.OUTLOOK.CO \nM> \nTo \nTo \nEFTA00031579",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Transition \nDate",
+        "role": "extracted",
+        "context": "1111\" \nSubject: RE: Maxwell / Transition \nDate: Tue, 29 Dec 2020 21:30:10 +0"
+      },
+      {
+        "name": "Maxwell Transition",
+        "role": "extracted",
+        "context": "21:30:10 +0000 \nEmbedded: RE:_Maxwell Transition.msg \nSender: \nSubject: RE: Ma"
+      },
+      {
+        "name": "Transition \nMessage",
+        "role": "extracted",
+        "context": "nder: \nSubject: RE: Maxwell / Transition \nMessage-Id: \n<BN3P110MB03713EIB943A11"
+      },
+      {
+        "name": "To \nTo",
+        "role": "extracted",
+        "context": ".NAMP110.PROD.OUTLOOK.CO \nM> \nTo \nTo \nEFTA00031579"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.444Z"
+}

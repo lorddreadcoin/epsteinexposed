@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00029711",
+    "filename": "EFTA00029711.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029711.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nI < \nSubject: Re: Florida \nDate: Fri, 09 Aug 2019 16:02:34 +0000 \nOk call my cell phone in about 30 minutes we will be back in the car. \nOn Aug \n9, 2019, at 10:35, \nHi team, \nJust following up on this. Please let us know when you can. Thanks. \nFrom: \nSent: Thursday, August 8, 2019 10:46 AM \nTo: (NY) (FBI) .:>; \nCc: \nI • \nSubject: Florida \n>; \n> wrote: \nI know you're traveling this morning, but when we spoke last night we discussed finalizing by this morning your \navailability for a proffer with late next week. Can you please let us know your availability? We are \ncoordinating with her attorney, who has a busy schedule next week, and would like to get something on the calendar. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029711",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Florida \nDate",
+        "role": "extracted",
+        "context": "To: \nCc: \nI < \nSubject: Re: Florida \nDate: Fri, 09 Aug 2019 16:02:34 +0"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "we will be back in the car. \nOn Aug \n9, 2019, at 10:35, \nHi team,"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ng on the calendar. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029711"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-08",
+        "event": "August 8, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.028Z"
+}

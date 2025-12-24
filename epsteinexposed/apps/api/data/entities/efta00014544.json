@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00014544",
+    "filename": "EFTA00014544.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014544.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: subpoena of \nDate: Thu, 01 Aug 2019 02:59:56 \n+0000 \nFollowing up on our conversation earlier this week, I wanted to write to confirm that we are requesting records in the \ncustody and control of relating to flights on Mr. Epstein jet(s), including but not limited toMlog book(s). I \nexpect that we will formally issue a subpoena but wanted to let you know in the first instance. We also discussed \nfollowing up on the topics of how came to work for Mr. Epstein, both in 2005 and 2015. Please let me \nknow if any additional information would be helpful, and we look forward to being in touch. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00014544",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "rol of relating to flights on Mr. Epstein jet(s), including but not"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.062Z"
+}

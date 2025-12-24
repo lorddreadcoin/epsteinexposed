@@ -1,0 +1,119 @@
+{
+  "document": {
+    "id": "efta00020508",
+    "filename": "EFTA00020508.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020508.pdf",
+    "text": "\n\nDrumm RI CORD \nmiaketitin..5-23-m \niii \nUNCLASSIFIED \nFEDERAL BUREAU OF INVESTIGATION \nIntake \nDate: 10/09/2020 \nCase ID #: 50D-NY-3027571 (U) EPSTEIN, JEFFREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 10/09/2020 07:22 PM EDT \nDetails: \nOn 10/09/2020, at 7:22:58 PM Eastern Time, \nnumber called the FBI National Threat Operations Center (NTOC) to report information \nregarding a Jeffrey Epstein party. \ndate of birth cellular telephone \nprovided the following information: \nmet Lisa Villeneuve at a hospital where they were roommates in 2000. Villeneuve now goes by \nGhislaine Lisa Villeneuve and sells real estate in Irving California. \nAfter and Villeneuve left the hospital they remained friends. Later that year in 2000 around \nChristmas time Villeneuve invited to a party on Palm Beach Island, FL. believes the house \nbelong to Epstein. Before the part Villeneuve took to meet Bobby Cox. Cox was a young man and \nintroduced himself as a model scout. Villeneuve laughed in response to Cox's introduction and said \"No, \nyou're a pimp.\" Villeneuve, Cox and then went to the party. They entered the property through the \nback yard and Villeneuve said she would go inside to speak with the hostess which believes was \nGhislaine Maxwell. When Villeneuve took inside Villeneuve told to stay close and not go into \nany of the rooms. Villeneuve took to meet a  man named Curt Schmidt, who is currently the CEO of \nBlue Buffalo. When Villeneuve and approached Schmidt he asked Villeneuve if was cool. \nstated she was cool. Villeneuve said no, he means cool to have sex. Schmidt said no he meant \ncocaine. Villeneuve took back inside and someone told the party that Donald Trump had invited \nthem all to a party at Mar a  Lago. told Villeneuve she wanted to go, but Villeneuve told it \nwasn't that kind of party, it was for prostitutes. \n♦♦ \nhasn't spoken to Villeneuve since 2002. \nUNCLASSIFIED \nEFTA00020508",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "Center (NTOC) to report information \nregarding a Jeffrey Epstein party. \ndate of birth cellular telephone \nprovide"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "ide to speak with the hostess which believes was \nGhislaine Maxwell. When Villeneuve took inside Villeneuve told to s"
+      },
+      {
+        "name": "Donald Trump",
+        "role": "extracted",
+        "context": "took back inside and someone told the party that Donald Trump had invited \nthem all to a party at Mar a  Lago."
+      },
+      {
+        "name": "Intake \nDate",
+        "role": "extracted",
+        "context": "ERAL BUREAU OF INVESTIGATION \nIntake \nDate: 10/09/2020 \nCase ID #: 50D-N"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "FREY; CHILD SEX \nTRAFFICKING \nDrafted By: \nDate/Time Received: 10/09/2"
+      },
+      {
+        "name": "Time Received",
+        "role": "extracted",
+        "context": "RAFFICKING \nDrafted By: \nDate/Time Received: 10/09/2020 07:22 PM EDT \nDet"
+      },
+      {
+        "name": "Eastern Time",
+        "role": "extracted",
+        "context": "On 10/09/2020, at 7:22:58 PM Eastern Time, \nnumber called the FBI Natio"
+      },
+      {
+        "name": "National Threat",
+        "role": "extracted",
+        "context": "Time, \nnumber called the FBI National Threat Operations Center (NTOC) to r"
+      },
+      {
+        "name": "Operations Center",
+        "role": "extracted",
+        "context": "alled the FBI National Threat Operations Center (NTOC) to report information"
+      },
+      {
+        "name": "Lisa Villeneuve",
+        "role": "extracted",
+        "context": "e following information: \nmet Lisa Villeneuve at a hospital where they were"
+      },
+      {
+        "name": "Ghislaine Lisa",
+        "role": "extracted",
+        "context": "2000. Villeneuve now goes by \nGhislaine Lisa Villeneuve and sells real est"
+      },
+      {
+        "name": "Irving California",
+        "role": "extracted",
+        "context": "euve and sells real estate in Irving California. \nAfter and Villeneuve left t"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "leneuve invited to a party on Palm Beach Island, FL. believes the hous"
+      },
+      {
+        "name": "Bobby Cox",
+        "role": "extracted",
+        "context": "part Villeneuve took to meet Bobby Cox. Cox was a young man and \nint"
+      },
+      {
+        "name": "When Villeneuve",
+        "role": "extracted",
+        "context": "ieves was \nGhislaine Maxwell. When Villeneuve took inside Villeneuve told t"
+      },
+      {
+        "name": "Curt Schmidt",
+        "role": "extracted",
+        "context": "uve took to meet a  man named Curt Schmidt, who is currently the CEO of"
+      },
+      {
+        "name": "Blue Buffalo",
+        "role": "extracted",
+        "context": "who is currently the CEO of \nBlue Buffalo. When Villeneuve and approach"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Beach Island, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-09",
+        "event": "10/09/2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.977Z"
+}

@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00025004",
+    "filename": "EFTA00025004.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00025004.pdf",
+    "text": "\n\nED-I \n036.1 \nRe.. \nI 0-16-2\n_011' \nUNCLASSIFIED//FOUO \nt•• OFFICIAL RECORD \nFEDERAL BUREAU \nOF INVESTIGATION \nImport Form \nForm Type: Fp-1023 - Confidential Human Source Date: 10/i9/2020 \nReporting Document \nTitle: \nApproved By: \nDrafted By: \nCase ID #: (U//FOUO) 2020 Election Influence Threat \nAssessment; FBI Los Angeles Area of \nResponsibility; Type 3 Assessment; \nIntelligence Products \n(U) \nEPSTEIN, JEFFREY; CHILI) SEX \nTRAFFICKING \nSynopsis: (U) Foreign influence or: U.S. officials by Israel, Russia, and \nUAE \nEnclosure(s): Enclosed are the following items: \n1. (U) DELTA Imported Attachment \n2. (::) :)E:.TA Imported Attachment. \nA \nImported Attachment \n•• \nUNCLASSIFIED//FOUO \nEFTA00025004",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Import Form",
+        "role": "extracted",
+        "context": "RAL BUREAU \nOF INVESTIGATION \nImport Form \nForm Type: Fp-1023 - Confide"
+      },
+      {
+        "name": "Form Type",
+        "role": "extracted",
+        "context": "F INVESTIGATION \nImport Form \nForm Type: Fp-1023 - Confidential Human"
+      },
+      {
+        "name": "Confidential Human",
+        "role": "extracted",
+        "context": "rt Form \nForm Type: Fp-1023 - Confidential Human Source Date: 10/i9/2020 \nRepo"
+      },
+      {
+        "name": "Source Date",
+        "role": "extracted",
+        "context": "Fp-1023 - Confidential Human Source Date: 10/i9/2020 \nReporting Docume"
+      },
+      {
+        "name": "Reporting Document",
+        "role": "extracted",
+        "context": "uman Source Date: 10/i9/2020 \nReporting Document \nTitle: \nApproved By: \nDrafte"
+      },
+      {
+        "name": "Approved By",
+        "role": "extracted",
+        "context": "Reporting Document \nTitle: \nApproved By: \nDrafted By: \nCase ID #: (U/"
+      },
+      {
+        "name": "Drafted By",
+        "role": "extracted",
+        "context": "cument \nTitle: \nApproved By: \nDrafted By: \nCase ID #: (U//FOUO) 2020 E"
+      },
+      {
+        "name": "Election Influence",
+        "role": "extracted",
+        "context": "y: \nCase ID #: (U//FOUO) 2020 Election Influence Threat \nAssessment; FBI Los A"
+      },
+      {
+        "name": "Threat \nAssessment",
+        "role": "extracted",
+        "context": "FOUO) 2020 Election Influence Threat \nAssessment; FBI Los Angeles Area of \nRes"
+      },
+      {
+        "name": "Intelligence Products",
+        "role": "extracted",
+        "context": "sibility; Type 3 Assessment; \nIntelligence Products \n(U) \nEPSTEIN, JEFFREY; CHILI"
+      },
+      {
+        "name": "Imported Attachment",
+        "role": "extracted",
+        "context": "ollowing items: \n1. (U) DELTA Imported Attachment \n2. (::) :)E:.TA Imported Att"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.286Z"
+}

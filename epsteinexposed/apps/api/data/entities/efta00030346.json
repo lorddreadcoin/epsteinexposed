@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00030346",
+    "filename": "EFTA00030346.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030346.pdf",
+    "text": "\n\nFrom: ' \nTo: NY) (FBI)\"\nSubject: FW: Signed warrant \nDate: Mon, 29 Jun 2020 21:38:15 +0000 \nAttachments: Application_for_Maxwell_GPS_Combo.pdf; Maxwell_arrest_warrant_signed.pdf \nYou'll need to pull the warrants from the PDF, but they're attached. Thanks! \nFrom: \nSent: Monday, June 29, 2020 5:36 PM \nTo: \n<.>\nSubject: Fwd: Signed warrant \nGet Outlook for iOS \nFrom: KHP_Warrants NYSD \nSent: Monday, June 29, 2020 5:31:08 PM \nTo: \nCc: \nSubject: Fw: Signed warrant \nFrom: \nSent: Monday, June 29, 2020 8:56 PM \nTo: \n>; \nArraignment NYSD \n> \nCc: KHP_Warrants NYSD \nSubject: Signed warrant \nGet Outlook for iOS \nEFTA00030346",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Get Outlook",
+        "role": "extracted",
+        "context": "Subject: Fwd: Signed warrant \nGet Outlook for iOS \nFrom: KHP_Warrants N"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.635Z"
+}

@@ -1,0 +1,158 @@
+{
+  "document": {
+    "id": "efta00023431",
+    "filename": "EFTA00023431.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023431.pdf",
+    "text": "\n\nU.S. Department of Justice \nFederal Bureau of Prisons \nCentral Office \n320 First St., NW \nWashington, DC 20534 \nSeptember 23, 2019 \nDanielle Ivory \nThe New York Times \n620 Eighth Avenuse \nNew York, NY 10018 \nRequest Number: 2019-05665 \nDear Ms. Ivory: \nThis is in response to the above referenced Freedom of Information Act (FOIA) request, \nwhich we received on August 13, 2019. Specifically, you request various documents \nregarding inmate Jeffrey Epstein. \nAfter a thorough review of your request, we have determined that any records \nresponsive to your request are categorically exempt from disclosure. Accordingly, this \nOffice is not required to conduct a search for the requested records. Pursuant to the \nFreedom of Information Act, 5 U.S.C. § 552, records are withheld in full from disclosure \nto you under the following exemptions: \n(b)(5) - inter- or intra-agency correspondence which would not be available to a party \nother than a party in litigation with the agency \n(b)(6) - constitutes a clearly unwarranted invasion of personal privacy \n(b)(7)(A) - could reasonably be expected to interfere with law enforcement proceedings \n(b)(7)(C) - constitutes an unwarranted invasion of personal privacy \n(b)(7)(E) - discloses investigative techniques and procedures \n(b)(7)(F) - could reasonably be expected to endanger the life or physical safety of any \nindividual \nPlease note, exemption (b)(7)(A) is a temporary exemption utilized to protect active and \non-going law enforcement proceedings. Because of its temporary nature, you may wish \nto consider refiling your request for records in the future. Should you chose to refile your \nrequest, the status of law enforcement proceedings will be reevaluated and a \ndetermination made at that time as to the continued applicability of exemption (b)(7)(A). \nIf you have questions about this response please feel free to contact me at \n or the Federal Bureau of Prisons' (BOP) FOIA Public Liaison, \nEFTA00023431\n\nat   or 320 First Street NW, Suite 936, Washington \nDC 20534 o \nAdditionally, you may contact the Office of Government Information Services (OGIS) at \nthe National Archives and Records Administration to inquire about the FOIA mediation \nservices they offer. The contact information for OGIS is as follows: Office of \nGovernment Information Services National Archives and Records Administration, Room \n2510, 8601 Adelphi Road, College Park, Maryland 20740-6001; telephone at \n; toll free at or facsimile at \nIf you are not satisfied with my response to this request, you may administratively \nappeal by writing to the Director, Office of Information Policy (OIP), United States \nDepartment of Justice, Sixth Floor, 441 G Street NW, Washington, DC 20001. Your \nappeal must be postmarked within 90 days of the date of my response to your request. \nIf you submit your appeal by mail, both the letter and the envelope should be clearly \nmarked \"Freedom of Information Act Appeal.\" \nSincerely, \nSupervisory Attorney \nEFTA00023432",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": ", you request various documents \nregarding inmate Jeffrey Epstein. \nAfter a thorough review of your request, we hav"
+      },
+      {
+        "name": "Ivory",
+        "role": "extracted",
+        "context": "uest Number: 2019-05665 \nDear Ms. Ivory: \nThis is in response to"
+      },
+      {
+        "name": "Justice \nFederal",
+        "role": "extracted",
+        "context": "U.S. Department of Justice \nFederal Bureau of Prisons \nCentral Of"
+      },
+      {
+        "name": "Prisons \nCentral",
+        "role": "extracted",
+        "context": "of Justice \nFederal Bureau of Prisons \nCentral Office \n320 First St., NW \nWa"
+      },
+      {
+        "name": "First St",
+        "role": "extracted",
+        "context": "Prisons \nCentral Office \n320 First St., NW \nWashington, DC 20534 \nS"
+      },
+      {
+        "name": "Danielle Ivory",
+        "role": "extracted",
+        "context": "DC 20534 \nSeptember 23, 2019 \nDanielle Ivory \nThe New York Times \n620 Eigh"
+      },
+      {
+        "name": "The New",
+        "role": "extracted",
+        "context": "ber 23, 2019 \nDanielle Ivory \nThe New York Times \n620 Eighth Avenus"
+      },
+      {
+        "name": "York Times",
+        "role": "extracted",
+        "context": "2019 \nDanielle Ivory \nThe New York Times \n620 Eighth Avenuse \nNew York"
+      },
+      {
+        "name": "Eighth Avenuse",
+        "role": "extracted",
+        "context": "vory \nThe New York Times \n620 Eighth Avenuse \nNew York, NY 10018 \nRequest"
+      },
+      {
+        "name": "Request Number",
+        "role": "extracted",
+        "context": "Avenuse \nNew York, NY 10018 \nRequest Number: 2019-05665 \nDear Ms. Ivory:"
+      },
+      {
+        "name": "Dear Ms",
+        "role": "extracted",
+        "context": "Request Number: 2019-05665 \nDear Ms. Ivory: \nThis is in response"
+      },
+      {
+        "name": "Information Act",
+        "role": "extracted",
+        "context": "e above referenced Freedom of Information Act (FOIA) request, \nwhich we rec"
+      },
+      {
+        "name": "Federal Bureau",
+        "role": "extracted",
+        "context": "ree to contact me at \n or the Federal Bureau of Prisons' (BOP) FOIA Public"
+      },
+      {
+        "name": "Public Liaison",
+        "role": "extracted",
+        "context": "Bureau of Prisons' (BOP) FOIA Public Liaison, \nEFTA00023431\n\nat   or 320 F"
+      },
+      {
+        "name": "First Street",
+        "role": "extracted",
+        "context": "n, \nEFTA00023431\n\nat   or 320 First Street NW, Suite 936, Washington \nDC"
+      },
+      {
+        "name": "Government Information",
+        "role": "extracted",
+        "context": "you may contact the Office of Government Information Services (OGIS) at \nthe Natio"
+      },
+      {
+        "name": "National Archives",
+        "role": "extracted",
+        "context": "ation Services (OGIS) at \nthe National Archives and Records Administration to"
+      },
+      {
+        "name": "Records Administration",
+        "role": "extracted",
+        "context": "at \nthe National Archives and Records Administration to inquire about the FOIA med"
+      },
+      {
+        "name": "Services National",
+        "role": "extracted",
+        "context": "ce of \nGovernment Information Services National Archives and Records Administ"
+      },
+      {
+        "name": "Adelphi Road",
+        "role": "extracted",
+        "context": "inistration, Room \n2510, 8601 Adelphi Road, College Park, Maryland 20740"
+      },
+      {
+        "name": "College Park",
+        "role": "extracted",
+        "context": "oom \n2510, 8601 Adelphi Road, College Park, Maryland 20740-6001; telepho"
+      },
+      {
+        "name": "Information Policy",
+        "role": "extracted",
+        "context": "ng to the Director, Office of Information Policy (OIP), United States \nDepartm"
+      },
+      {
+        "name": "Sixth Floor",
+        "role": "extracted",
+        "context": "tates \nDepartment of Justice, Sixth Floor, 441 G Street NW, Washington,"
+      },
+      {
+        "name": "Supervisory Attorney",
+        "role": "extracted",
+        "context": "ion Act Appeal.\" \nSincerely, \nSupervisory Attorney \nEFTA00023432"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Washington, DC",
+        "type": "city"
+      },
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-09-23",
+        "event": "September 23, 2019"
+      },
+      {
+        "date": "2019-08-13",
+        "event": "August 13, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.957Z"
+}

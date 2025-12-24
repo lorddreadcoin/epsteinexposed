@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00029894",
+    "filename": "EFTA00029894.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029894.pdf",
+    "text": "\n\nFrom: \nTo: \nCc \nSubject: \nDate: \nAttachments: \nDocuments for tomorrow \nWed, 28 Jul 2021 20:56:59 +0000 \nSDNY_GM_02753552-02753555.pdf; SDNY_GM 02753556-02753559.pdf; \nSDNY GM 02753560-02753563.pdf; SDNY_GM- 02753564-02753567.pdf; \nSDNY GM 02753568-02753570.pdf; SDNY_GM- 02753571-02753574.pdf; \nSDNY_GM_02753575-02753577.pdf; SDNY_GM- 02753578-02753581.pdf; \nSDNY GM_ 02753582-02753584.pdf; SDNY GM- 02753585-02753588.pdf; 2006-09-\n06 \nDESCRIPTION_ \nOF PROPERTY LOG IIEGARDING EPSTEIN JEFFREYI_ _ \n, 207-a-\n10 INVESTIGATIVE CASE MANAGEMENT COLLECTED ITEMS FOR_A_CASE_0 \n8 To 201:1SOs;  2006-11-15,lainterview_302.pdfr 2006-117\ninterview notes.pdf \nMandy, \nAs discussed, here are the documents to be printed for our meeting with \ntomorrow. \nGive \nme \na call \nif \nyou have any \nquestions. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00029894",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc \nSubject: \nDate: \nAttachments: \nDocume"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ave any \nquestions. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2006-11-15",
+        "event": "2006-11-15"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.485Z"
+}

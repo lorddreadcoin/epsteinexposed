@@ -1,0 +1,94 @@
+{
+  "document": {
+    "id": "efta00019683",
+    "filename": "EFTA00019683.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019683.pdf",
+    "text": "\n\nFrom: 'ME, (USANYS)\"\nTo:' \n\" \naMIE> \nCc: \n\" aNIMIE> \nSubject: RE: Travel \nDate: Wed, 28 Aug 2019 13:08:23 +0000 \nGood \nmorning and \nBefore I reserve the \nconference room, please send me approval from to reserve a conference room for \nthis trip to West Palm Beach, FL from 9/3 to \n914/19. \nI'll get started on booking your airfare and hotel rooms \nshortly. Thanks as always! \nU.S. \nAttorney's Office (SDNY) \nLe al Assistant Public Corruption \n Ori inal Messa e \nFrom:\nSent: Wednesda , August 28, 2019 9:03 AM \nTo:USANYS \nCc: \n  MM. \nSubject: \nTravel \nand I are traveling to West Palm Beach next week for the Epstein case. Could you please help book our \ntravel? Here is my information— can let you know whether she would like the same arrangements. \nThanks so much for your help. \nHotel: Hilton Palm Beach, 600 Okeechobee Blvd, West Palm Beach. Checking in on 9/3 and checking out 9/4. \nConference Room: please book a conference room at the Hilton for both Tuesday and Wednesday. If they have a \nroom called \"the social\" available, that would be great. \nFlights: \nOutbound, leaving at 920 am on 9/3 from EWR to PBI \nInbound, leaving at 6:12 pm on 9/4 from PBI to JFK \nThanks! \nSent from my iPhone \nEFTA00019683",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Travel \nDate",
+        "role": "extracted",
+        "context": "Cc: \n\" aNIMIE> \nSubject: RE: Travel \nDate: Wed, 28 Aug 2019 13:08:23 +0"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "erence room for \nthis trip to West Palm Beach, FL from 9/3 to \n914/19"
+      },
+      {
+        "name": "Assistant Public",
+        "role": "extracted",
+        "context": "torney's Office (SDNY) \nLe al Assistant Public Corruption \n Ori inal Messa e"
+      },
+      {
+        "name": "Corruption \n Ori",
+        "role": "extracted",
+        "context": "SDNY) \nLe al Assistant Public Corruption \n Ori inal Messa e \nFrom:\nSent: Wed"
+      },
+      {
+        "name": "Hilton Palm",
+        "role": "extracted",
+        "context": "o much for your help. \nHotel: Hilton Palm Beach, 600 Okeechobee Blvd, W"
+      },
+      {
+        "name": "Okeechobee Blvd",
+        "role": "extracted",
+        "context": "Hotel: Hilton Palm Beach, 600 Okeechobee Blvd, West Palm Beach. Checking in"
+      },
+      {
+        "name": "Conference Room",
+        "role": "extracted",
+        "context": "on 9/3 and checking out 9/4. \nConference Room: please book a conference roo"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      },
+      {
+        "name": "PBI",
+        "type": "airport"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2019-08-28",
+        "event": "August 28, 2019"
+      }
+    ],
+    "flights": [
+      {
+        "from": "EWR",
+        "to": "PBI",
+        "date": "unknown",
+        "passengers": []
+      },
+      {
+        "from": "PBI",
+        "to": "JFK",
+        "date": "unknown",
+        "passengers": []
+      }
+    ],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.380Z"
+}

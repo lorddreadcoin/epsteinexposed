@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00013590",
+    "filename": "EFTA00013590.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013590.pdf",
+    "text": "\n\nFrom: \" . (USAFLS)\" </O=USA/OU=FLS/CN=RECIPIENTS/Cle \nTo: \" (USAFLS)\" < (USAFLS)\" \n(USAFLS)\" < \nCc: \" . \n(FBI)\" < \n(FBI)\" \nSubject: Emailing: 081208 Capt Ltrwpd Ltr re Epstein work release \nDate: Tue, 09 Dec 2008 22:45:33 +0000 \nImportance: Normal \nAttachments: 081208_CapteLtrwpd \nHi everyone -- Can you please review and comment on the attached? I wanted to give you one more piece of info that will \nblow your minds. \nI finally heard back from Epstein's work release supervisor. She had told that even though Epstein's paperwork \nshows a late September release date (with credit for gain time), he will actually be eligible for release on July 23rd. I called \nto ask why and this is the answer. The September date just takes into account statutorily mandated gain time. For each \nweek that he is on work release, he gets an additional two days off of his sentence. Yes, not only does Mr. Epstein get to \nspend 12 hours each day lounging in his high-rise office building, but he also gets to shorten his sentence by two months in \ndoing so! \nSo, please let me know what you think. I would like to send it out asap. Thanks. \nThe message is ready to be sent with the following file or link attachments: \n081208 Capt Ltr.wpd \nNote: To protect against computer viruses, e-mail programs may prevent sending or receiving certain types of file \nattachments. Check your e-mail security settings to determine how attachments are handled. \nEFTA00013590",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein",
+        "role": "extracted",
+        "context": "sentence. Yes, not only does Mr. Epstein get to \nspend 12 hours ea"
+      },
+      {
+        "name": "Cle \nTo",
+        "role": "extracted",
+        "context": "</O=USA/OU=FLS/CN=RECIPIENTS/Cle \nTo: \" (USAFLS)\" < (USAFLS)\" \n(US"
+      },
+      {
+        "name": "Capt Ltrwpd",
+        "role": "extracted",
+        "context": ")\" \nSubject: Emailing: 081208 Capt Ltrwpd Ltr re Epstein work release"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 22:45:33 +0000 \nImportance: Normal \nAttachments: 081208_CapteLtrwpd \nHi every"
+      },
+      {
+        "name": "Ltrwpd \nHi",
+        "role": "extracted",
+        "context": "mal \nAttachments: 081208_CapteLtrwpd \nHi everyone -- Can you please re"
+      },
+      {
+        "name": "The September",
+        "role": "extracted",
+        "context": "k why and this is the answer. The September date just takes into account"
+      },
+      {
+        "name": "Capt Ltr",
+        "role": "extracted",
+        "context": "or link attachments: \n081208 Capt Ltr.wpd \nNote: To protect against"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:46.929Z"
+}

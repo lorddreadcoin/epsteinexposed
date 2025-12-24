@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00014960",
+    "filename": "EFTA00014960.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014960.pdf",
+    "text": "\n\n11/26/21, \n7:21 PM Mail R. (NY) (FBI) - \nOutlook \nRe: Photos for Maxwell Trial \nThu 11/4/2021 4:47 PM \nTo: \nThank youl \nFrom: \nSent:  Thursday, November 4, 2021 4:44:42 PM \nTo: \nSubject: Photos for \nMaxwell Trial \nHey \nThis is the spreadsheet you mentioned the other day. \nLet me know if you need anything else! \nhttps://oullook.office365.us/mail/deeplink7popouN2=1&versionE20211025002.13 \n1/1 \nEFTA00014960",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Outlook \nRe",
+        "role": "extracted",
+        "context": "7:21 PM Mail R. (NY) (FBI) - \nOutlook \nRe: Photos for Maxwell Trial \nTh"
+      },
+      {
+        "name": "Maxwell Trial",
+        "role": "extracted",
+        "context": "I) - \nOutlook \nRe: Photos for Maxwell Trial \nThu 11/4/2021 4:47 PM \nTo:"
+      },
+      {
+        "name": "Hey \nThis",
+        "role": "extracted",
+        "context": "t: Photos for \nMaxwell Trial \nHey \nThis is the spreadsheet you mentio"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-04",
+        "event": "11/4/2021"
+      },
+      {
+        "date": "2021-11-04",
+        "event": "November 4, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.864Z"
+}

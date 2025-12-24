@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00023255",
+    "filename": "EFTA00023255.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023255.pdf",
+    "text": "\n\nFrom: \nTo: Sigrid McCawley \nCc: \nBee: \"USAHUB-USAJouma1111\" \nSubject: bail application \nDate: Thu, 03 Dec 2020 01:36:12 +0000 \nEmbedded: bail_application.msg \nSender: \nSubject: bail application \nMessa \nTo: \nEFTA00023255",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "From: \nTo: Sigrid McCawley \nCc: \nBee: \"USAHUB-USAJ"
+      },
+      {
+        "name": "Cawley \nCc",
+        "role": "extracted",
+        "context": "From: \nTo: Sigrid McCawley \nCc: \nBee: \"USAHUB-USAJouma1111\""
+      },
+      {
+        "name": "Messa \nTo",
+        "role": "extracted",
+        "context": ": \nSubject: bail application \nMessa \nTo: \nEFTA00023255"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.561Z"
+}

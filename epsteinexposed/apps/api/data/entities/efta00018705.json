@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018705",
+    "filename": "EFTA00018705.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018705.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nTo: (USANYS)\" \nCc: (USANYS) [Contractor]\" \n(USANYS)\" \nSubject: RE: New Epstein Search? \nDate: Thu, 11 Jul 2019 19:33:51 +0000 \nImportance: Normal \nUSANYS)\" \nYes. But correct to decline. \nFrom: USANYS) \nSen 11, 2019 3:34 PM \nTo: USANYS) \nUSANYS \nCc: SANYS) [Contractor], \n(USANYS) \nSubject: New Epstein Search? \nThe Journal just got a tip that about a dozen FBI agents in jackets were back at the mansion at around 2:50 this afternoon. \nI obviously declined, but is this a thing? \nPublic Affairs \nUnited States Department of Justice \nU.S. Attorney's Office I Southern District of New York \nEFTA00018705",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "New Epstein",
+        "role": "extracted",
+        "context": "or]\" \n(USANYS)\" \nSubject: RE: New Epstein Search? \nDate: Thu, 11 Jul 20"
+      },
+      {
+        "name": "The Journal",
+        "role": "extracted",
+        "context": "Subject: New Epstein Search? \nThe Journal just got a tip that about a d"
+      },
+      {
+        "name": "Public Affairs",
+        "role": "extracted",
+        "context": "clined, but is this a thing? \nPublic Affairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office I Southern District of New York \nEFTA00018705"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.515Z"
+}

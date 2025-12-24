@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019080",
+    "filename": "EFTA00019080.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019080.pdf",
+    "text": "\n\nFrom: \n\"SP\" aNIMIE>\nTo: '\nillaYSl\ni\nSubject: FW: Friendly \nSubpoena to \nDate: Fri, 26 Mar 2021 22:59:30 +0000 \nAttachments: \n2021.03.26. \nAttorney \n(USANYS)\" \nFYI, haven't \nheard from Audrey. \nFrom: \nSent: Friday, March 26, 2021 12:05 PM \nTo: Strauss, Audrey (USANYS)\nCc: \n(USANYS) (USANYS) \n(USANYS) \nSubject: Friendly Subpoena to \nHi Audrey, \nAttorney \nThe Maxwell team would like to send the attached \"friendly subpoena\" to attorney \nDuring our interviews in Florida, informed me that he has a copy of the settlement agreement between and \nEpstein, which resolved 2009 civil suit against Epstein. MI is willing to provide us with a copy of the \nagreement, but he indicated that he believes he needs a subpoena before he can do so. His firm has already provided us \nwith copies of all other court filings and deposition transcripts from the civil case voluntarily. The settlement agreement \nresolving the case is relevant to our ongoing investigation into Maxwell's participation in the abuse of and other \nunderage girls. \nThanks, \nEFTA00019080",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Friendly \nSubpoena",
+        "role": "extracted",
+        "context": "To: '\nillaYSl\ni\nSubject: FW: Friendly \nSubpoena to \nDate: Fri, 26 Mar 2021 22"
+      },
+      {
+        "name": "Friendly Subpoena",
+        "role": "extracted",
+        "context": "(USANYS) \n(USANYS) \nSubject: Friendly Subpoena to \nHi Audrey, \nAttorney \nThe"
+      },
+      {
+        "name": "Hi Audrey",
+        "role": "extracted",
+        "context": "ubject: Friendly Subpoena to \nHi Audrey, \nAttorney \nThe Maxwell team"
+      },
+      {
+        "name": "Attorney \nThe",
+        "role": "extracted",
+        "context": "ndly Subpoena to \nHi Audrey, \nAttorney \nThe Maxwell team would like to se"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-03-26",
+        "event": "March 26, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.248Z"
+}

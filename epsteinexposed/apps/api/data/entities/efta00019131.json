@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "efta00019131",
+    "filename": "EFTA00019131.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019131.pdf",
+    "text": "\n\nEvent: Epstein Estate \nStart Date: 2020-11-09 21:30:00 +0000 \nEnd Date: 2020-11-09 22:00:00 +0000 \nOrganizer: Weinstein, Marc A. \nLocation: Skype Meeting; Conference ID: 570 579 045; \nClass: X-PERSONAL \nDate Created: 2020-11-09 15:53:08 +0000 \nDate Modified: 2020-11-09 15:53:08 +0000 \nPriority: 5 \nDTSTAMP: 2020-11-09 15:30:14 +0000 \nAttendee: \n; Andrew Tomback <ATomba \nAlarm: Display the following message 15m before start \nReminder \nDial-In Information (for meetings with no presentations or video) \nDial-In Number: \nConference ID: \n+1 (201) 630-0824 \n570579045 \nOne touch dial-in from mobile phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil +55 11 3181-5692 \nCanada +1 647-749-1240 \nChina +86 400 842 8305 \nFrance +33 1 73 24 04 53 \nGermany +49 69 667737017 \nIndia +91 22 6001 6148 \nIreland +353 1 566 1143 \nIsrael +972 3 3762055 \nJapan +81 3-4510-7259 \nKorea (Seoul) +82 70-7488-2208 \nSingapore +65 3157 0147 \nUnited Kingdom -F44 20 3443 6288 \nUnited States \nEFTA00019131\n\nFull list of dial-in numbers \nMeetings with I  presentation or video \nConnect from computer or mobile device (via network/internet connection) \nHelp \nTry Skype Web App if you are having trouble joining \nJoining from I  computer using the \"Connect from computer or mobile device\" link provides \nadditional capabilities, however you can simply call in from your telephone using the number \nprovided above if your meeting will not include video or I  presentation. Click the \"Help\" link for \nadditional information if you are I  guest joining I  Skype for Business meeting from your \ncomputer or mobile device for the first time. \nFor meeting organizers: Reset your dial-in PIN? \nUOC([CUSTOMINVITE])!I \nEFTA00019132",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Estate",
+        "role": "extracted",
+        "context": "Event: Epstein Estate \nStart Date: 2020-11-09 21:30"
+      },
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: Epstein Estate \nStart Date: 2020-11-09 21:30:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2020-11-09 21:30:00 +0000 \nEnd Date: 2020-11-09 22:00:00 +0000 \nO"
+      },
+      {
+        "name": "Skype Meeting",
+        "role": "extracted",
+        "context": "Weinstein, Marc A. \nLocation: Skype Meeting; Conference ID: 570 579 045;"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "579 045; \nClass: X-PERSONAL \nDate Created: 2020-11-09 15:53:08 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2020-11-09 15:53:08 +0000 \nDate Modified: 2020-11-09 15:53:08 +0000 \nP"
+      },
+      {
+        "name": "Andrew Tomback",
+        "role": "extracted",
+        "context": "15:30:14 +0000 \nAttendee: \n; Andrew Tomback <ATomba \nAlarm: Display the f"
+      },
+      {
+        "name": "Tomba \nAlarm",
+        "role": "extracted",
+        "context": "Attendee: \n; Andrew Tomback <ATomba \nAlarm: Display the following messag"
+      },
+      {
+        "name": "Reminder \nDial",
+        "role": "extracted",
+        "context": "ing message 15m before start \nReminder \nDial-In Information (for meetings"
+      },
+      {
+        "name": "In Information",
+        "role": "extracted",
+        "context": "before start \nReminder \nDial-In Information (for meetings with no present"
+      },
+      {
+        "name": "In Number",
+        "role": "extracted",
+        "context": "presentations or video) \nDial-In Number: \nConference ID: \n+1 (201) 63"
+      },
+      {
+        "name": "Additional Dial",
+        "role": "extracted",
+        "context": "phone (via cellular service) \nAdditional Dial-In Numbers \nBrazil +55 11 318"
+      },
+      {
+        "name": "In Numbers",
+        "role": "extracted",
+        "context": "lar service) \nAdditional Dial-In Numbers \nBrazil +55 11 3181-5692 \nCan"
+      },
+      {
+        "name": "United Kingdom",
+        "role": "extracted",
+        "context": "208 \nSingapore +65 3157 0147 \nUnited Kingdom -F44 20 3443 6288 \nUnited Sta"
+      },
+      {
+        "name": "Help \nTry",
+        "role": "extracted",
+        "context": "network/internet connection) \nHelp \nTry Skype Web App if you are havi"
+      },
+      {
+        "name": "Skype Web",
+        "role": "extracted",
+        "context": "ternet connection) \nHelp \nTry Skype Web App if you are having trouble"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-09",
+        "event": "2020-11-09"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "647-749-1240",
+      "400 842 8305",
+      "(201) 630-0824",
+      "+1 647-749-1240"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.357Z"
+}

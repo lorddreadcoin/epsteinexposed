@@ -1,0 +1,97 @@
+{
+  "document": {
+    "id": "efta00014096",
+    "filename": "EFTA00014096.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014096.pdf",
+    "text": "\n\nFrom: \nTo: \n(FBI)\" `t\nIME> \n(USAFLS)\"\nSubject: Re: Epstein Investigation \nDate: Fri, 04 Jul 2008 15:39:28 +0000 \nImportance: Normal \nYeah, I'm at Sanibel Island right now. Just finished watching the 4th parade. I  do believe there was a possibly in the message \npads but she was never fully identified. There were only a couple of other names in the message pads that we didn't get Id'd , including \nand (girls I  believe brought). I have a feeling we'll be hearing about many other victims since his conviction. \nHope you have a Happy 4th of July! \n--- Original Message ----\nFrom: \n(USAFLS) \nTo: \nSent: Fri Jul 04 11:29:08 2008 \nSubject: RE: Epstein Investigation \nStrange. huh? Did you get to go away? Have a great weekend. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message----\nFrom: (FBI) \nSent: Friday, July 04, 2008 11:26 AM \nTo: (USAFLS) \nSubject: Re: Epstein Investigation \nNo \n--- Original Message \nFrom: (USAFLS) \nTo: \nSent: Fri Jul 04 11:24:41 2008 \nSubject: FW: Epstein Investigation \nHi guys —  Have we ever heard of.. (below)? \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nEFTA00014096\n\nPhone \nFax \nFrom: Ted Leopold [mailto: \nSent: Thursday, July 03, 2008 4:25 PM \nTo: (USAFLS) \nCc: Spencer Kuvin \nSubject: RE: Epstein Investigation \nOur two client names are: \nif you need any other information please let me know. \nTed \n----Original Message--\nFrom: (USAFLS) [math° \nSent: Monday, June 30, 2008 5:00 PM \nTo: Ted Leopold \nSubject: Epstein Investigation \nDear Ted: Here is my e-mail address and contact information. \nThank you for your assistance. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00014097",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Investigation",
+        "role": "extracted",
+        "context": "IME> \n(USAFLS)\"\nSubject: Re: Epstein Investigation \nDate: Fri, 04 Jul 2008 15:39"
+      },
+      {
+        "name": "Normal \nYeah",
+        "role": "extracted",
+        "context": "8 15:39:28 +0000 \nImportance: Normal \nYeah, I'm at Sanibel Island right"
+      },
+      {
+        "name": "Sanibel Island",
+        "role": "extracted",
+        "context": "ortance: Normal \nYeah, I'm at Sanibel Island right now. Just finished watc"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ave a Happy 4th of July! \n--- Original Message ----\nFrom: \n(USAFLS) \nTo: \nSe"
+      },
+      {
+        "name": "Fri Jul",
+        "role": "extracted",
+        "context": "-\nFrom: \n(USAFLS) \nTo: \nSent: Fri Jul 04 11:29:08 2008 \nSubject: RE"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "reat weekend. \nAssistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "Assistant U.S. Attorney \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Or"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \n----Original Message----\nFro"
+      },
+      {
+        "name": "Ted Leopold",
+        "role": "extracted",
+        "context": "TA00014096\n\nPhone \nFax \nFrom: Ted Leopold [mailto: \nSent: Thursday, Jul"
+      },
+      {
+        "name": "Spencer Kuvin",
+        "role": "extracted",
+        "context": "08 4:25 PM \nTo: (USAFLS) \nCc: Spencer Kuvin \nSubject: RE: Epstein Investi"
+      },
+      {
+        "name": "Dear Ted",
+        "role": "extracted",
+        "context": "bject: Epstein Investigation \nDear Ted: Here is my e-mail address an"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-07-04",
+        "event": "July 04, 2008"
+      },
+      {
+        "date": "2008-07-03",
+        "event": "July 03, 2008"
+      },
+      {
+        "date": "2008-06-30",
+        "event": "June 30, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.111Z"
+}

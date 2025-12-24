@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00032382",
+    "filename": "EFTA00032382.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032382.pdf",
+    "text": "\n\nFrom: '\n\" c=1=1=> \nTo:\nCc: ' \nSubject: Tova Noel \nDate: Wed, 14 Aug 2019 15:02:28 +0000 \nAttachments: 2019.08.14 Tova Noel Subpoena.pdf \nMr. Foy, \nBased on our phone conversation, I understand that you represent Ms. Noel and are authorized to accept service of this \nsubpoena on her behalf. Please see attached. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00032382",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Foy",
+        "role": "extracted",
+        "context": "08.14 Tova Noel Subpoena.pdf \nMr. Foy, \nBased on our phone conv"
+      },
+      {
+        "name": "Noel",
+        "role": "extracted",
+        "context": "understand that you represent Ms. Noel and are authorized to acc"
+      },
+      {
+        "name": "Tova Noel",
+        "role": "extracted",
+        "context": "c=1=1=> \nTo:\nCc: ' \nSubject: Tova Noel \nDate: Wed, 14 Aug 2019 15:02"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "lease see attached. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "d. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000323"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:31.498Z"
+}

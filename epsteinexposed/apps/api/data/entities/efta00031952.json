@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00031952",
+    "filename": "EFTA00031952.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00031952.pdf",
+    "text": "\n\nFrom: ' \n \nr<I \nTo: a\" <1 \n• \nSubject: FW: Letter re: Briefing \nSchedule \nDate: Fri, 04 Dec 2020 16:57:40 +0000 \nAttachments: 2020.12.04_Letter_tojudge_Nathan_re_Briefing_Schedule.DOCX \nInline-Images: image005.jpg; image006.jpg \n(USANYS)\" \nFine with me. Any issues on your end? \nFrom: Christian Everdell .c\nM> \nSent: Friday, December 4, 2020 11:44 AM \nTo: \n(USANYS) ‹> \nCc: Mark S. Cohen c:.; 'BOBBI C \nSTERNHEIM' \nSubject: Letter re: Briefing Schedule \nand M—\n>.; \nAttached is a draft of the letter to Judge Nathan regarding the briefing schedule. Unless you have any comments, we will \nsend it to the judge in the next hour or so. \nThanks, \nChris \nChristian R \nEverdell \nCOHEN & GRESSER LLP \nview bio \n. ....N.cohengresser.com \nNew York I  Paris I  Washington DC \nI \nLondon \nCONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended to be reviewed initially by only \nthe individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient. you are hereby notified that any \nreview. dissemination or copying of this e-mail or the information contained herein is prohibited. If you have received this e-mail in error. please immediately notify \nthe sender by telephone and permanently delete this e-mail. Thank you. \nPRIVACY: A complete copy of our privacy policy can be viewed \nat: \nhttps:/Avww.cohengressercom/privacy-policy\nEFTA00031952",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Briefing \nSchedule",
+        "role": "extracted",
+        "context": "1 \n• \nSubject: FW: Letter re: Briefing \nSchedule \nDate: Fri, 04 Dec 2020 16:57"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "ny issues on your end? \nFrom: Christian Everdell .c\nM> \nSent: Friday, December"
+      },
+      {
+        "name": "Briefing Schedule",
+        "role": "extracted",
+        "context": "ERNHEIM' \nSubject: Letter re: Briefing Schedule \nand M—\n>.; \nAttached is a dr"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "d is a draft of the letter to Judge Nathan regarding the briefing schedu"
+      },
+      {
+        "name": "Chris \nChristian",
+        "role": "extracted",
+        "context": "he next hour or so. \nThanks, \nChris \nChristian R \nEverdell \nCOHEN & GRESSER"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-04",
+        "event": "December 4, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:29.287Z"
+}

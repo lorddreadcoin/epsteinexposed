@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00024310",
+    "filename": "EFTA00024310.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024310.pdf",
+    "text": "\n\nFrom• \nTo: \nSubject: Exhibit \nDate: Wed, 16 Dec 2020 20:15:25 +0000 \nAttachments: Y1451702itled_Montpelier TrusUpreviously_the_Angara_Trust).pdf \nEFTA00024310",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Exhibit \nDate",
+        "role": "extracted",
+        "context": "From• \nTo: \nSubject: Exhibit \nDate: Wed, 16 Dec 2020 20:15:25 +0"
+      },
+      {
+        "name": "Montpelier Trus",
+        "role": "extracted",
+        "context": "0 \nAttachments: Y1451702itled_Montpelier TrusUpreviously_the_Angara_Trust)."
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:10.863Z"
+}

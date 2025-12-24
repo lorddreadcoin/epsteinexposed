@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027443",
+    "filename": "EFTA00027443.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027443.pdf",
+    "text": "\n\nFrom: \"=IM\n> \nTo:'\nCc: \nSubject: RE: FOIA matter \nDate: Tue, 12 May 2020 13:17:48 +0000 \nGreat. We will pass along your contact info. \n Ori inal Messa e \nFrom: \nSent: Monda , Ma 11 2020 1:20 PM \nTo: \nCc: \nSubject: RE: FOIA matter \nHIM, \nThat's fine. I'll likely pass them along to our General Counsel's Office who handles these issues. \n Ori inal Messa e \nFrom: \nSent: Monda , Ma 11, 2020 1:18 PM \nTo: \nCc: \nSubject: FOIA matter \nI wanted to give you a heads up that an AUSA in our Civil Division is handling an Epstein-related FOIA request. \nHe has been keeping us informed as that matter proceeds. He may need to speak with someone in OIG, so if it's \nokay with you, we would pass along your name and contact info. \nHope ou're \ndoing well, \nSent from my iPhone \nEFTA00027443",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "General Counsel",
+        "role": "extracted",
+        "context": "likely pass them along to our General Counsel's Office who handles these is"
+      },
+      {
+        "name": "Civil Division",
+        "role": "extracted",
+        "context": "heads up that an AUSA in our Civil Division is handling an Epstein-relate"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-12",
+        "event": "12 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.289Z"
+}

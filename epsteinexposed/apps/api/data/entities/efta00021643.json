@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021643",
+    "filename": "EFTA00021643.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021643.pdf",
+    "text": "\n\nFrom \nTo \nCc \nSubject: RE: SDNY investigation \nDate: Fri, 19 Jul 2019 16:16:35 +0000 \nAttachments: 2019-07-13, JE,_individual_subpoenadf \nFollowing up on our hone conversation a few minutes ago, thank you for being in touch and advising us of your \nrepresentation of in connection with his receipt of a grand jury subpoena, which is attached. So you have \ncontact info for our full team, we're all reachable anytime at the copied emails or by phone at: \nAs we discussed on the phone, I understand you'll need to have the opportunity to speak with him further, and so it's fine \nfor us to speak mid-next week. And as I also mentioned, we don't currently have any reason to believe \nthat'\nI  has \ndone anything wrong; we would like to speak with him about his knowledge of and interactions with Jeffrey Epstein, \nparticularly in connection with recent statements he has made to the press about comments Epstein made to him about \nEpstein's prior conduct. \nPlease let us know if any additional information would be helpful, and we look forward to being in touch with you next \nweek. \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021643",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "him about his knowledge of and interactions with Jeffrey Epstein, \nparticularly in connection with recent statemen"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: SDNY invest"
+      },
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nSubject: RE: SDNY investigation \nDate"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthank you, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-13",
+        "event": "2019-07-13"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.110Z"
+}

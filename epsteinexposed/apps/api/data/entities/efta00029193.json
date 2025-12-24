@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00029193",
+    "filename": "EFTA00029193.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029193.pdf",
+    "text": "\n\nEvent: Accepted: TC with Reid Weingarten re Epstein \nStart Date: 2019-11-19 21:30:00 +0000 \nEnd Date: 2019-11-19 22:00:00 +0000 \nLocation: Es office \nClass: X-PERSONAL \nComment: \nDate Created: 2019-11-19 23:51:15 +0000 \nDate Modified: 2019-11-19 23:51:15 +0000 \nPriority: 5 \nDTSTAMP: 2019-11-19 20:17:10 +0000 \nAttendee: (USANYS) \n<I \nEFTA00029193",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Reid Weingarten",
+        "role": "extracted",
+        "context": "Event: Accepted: TC with Reid Weingarten re Epstein \nStart Date: 2019-"
+      },
+      {
+        "name": "Epstein \nStart",
+        "role": "extracted",
+        "context": "d: TC with Reid Weingarten re Epstein \nStart Date: 2019-11-19 21:30:00 +00"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2019-11-19 21:30:00 +0000 \nEnd Date: 2019-11-19 22:00:00 +0000 \nL"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "Class: X-PERSONAL \nComment: \nDate Created: 2019-11-19 23:51:15 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2019-11-19 23:51:15 +0000 \nDate Modified: 2019-11-19 23:51:15 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-11-19",
+        "event": "2019-11-19"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:22.952Z"
+}

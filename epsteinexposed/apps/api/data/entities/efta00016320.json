@@ -1,0 +1,192 @@
+{
+  "document": {
+    "id": "efta00016320",
+    "filename": "EFTA00016320.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016320.pdf",
+    "text": "\n\nInstagram Business Record Page 1 \nService \nTarget \nAccount \nIdentifier \nAccount Type \nGenerated \nDate Range \nNcmec Reports \nDefinition \nInstagram \n1322128817 \nghislainemaxwell \nInstagramUser \n2020-01-04 21:03:00 UTC \n2019-08-08 00:00:00 UTC to 2019-12-11 23:59:59 UTC \nNCMEC Cybertips: NCMEC cybertip reports associated to the account of the sender. \nCyberTip ID: Unique identifier associated with the cybertip. \nTime: Date and time the NCMEC cybertip was sent. \nResponsible Id: Identification number of the sender's Facebook account associated with the NCMEC \ncybertip report. \nNCMEC No responsive records located \nCyberTip \nNumbers \nName Name: Name provided by the account holder. \nDefinition First: First name provided by the account holder. \nMiddle: Middle name provided by the account holder. \nLast: Last name provided by the account holder. \nName First Ghislaine Maxwell \nEmails Registered Email Addresses: Displays a list of registered email addresses. To \"register\" an address, it \nDefinition requires confirmation by the account holder. \nRegistered \nEmail \nAddresses \nVanity Vanity: Username associated with the account. \nDefinition \nVanity Name ghislainemaxwell \nRegistration Registration Date: Date and time of account creation. \nDate Definition \nRegistration 2014-05-10 17:10:23 UTC \nDate \nRegistration fp IP address associated with account creation. \nDefinition \nRegistration 1p 69.203.141.229 \nEFTA00016320\n\nInstagram Business Record Page 2 \nAccount End \nDate Definition \nAccount End Date: Displays the status of the account at the time the records were generated. \nAccount Account Still true \nClosure Date Active \nPhone Phone numbers: Phone number(s) provided by the account holder. \"Verified\" indicates the account \nNumbers holder responded to a text sent to the listed phone number. \nDefinition \nPhone No responsive records located \nNumbers \nLogins Logins: Information collected at the time the account was logged into. \nDefinition IP Address: IP address associated to the login. \nTime: Date and time of the login. \nLocation: Location of the login. \nLogins IP Address 104.219.99.170 \nTime 2019-08-15 00:41:29 UTC \nIP Address 104.219.99.170 \nTime 2019-08-14 21:31:18 UTC \nEFTA00016321",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "name provided by the account holder. \nName First Ghislaine Maxwell \nEmails Registered Email Addresses: Displays a li"
+      },
+      {
+        "name": "Instagram Business",
+        "role": "extracted",
+        "context": "Instagram Business Record Page 1 \nService \nTarge"
+      },
+      {
+        "name": "Record Page",
+        "role": "extracted",
+        "context": "Instagram Business Record Page 1 \nService \nTarget \nAccount"
+      },
+      {
+        "name": "Service \nTarget",
+        "role": "extracted",
+        "context": "agram Business Record Page 1 \nService \nTarget \nAccount \nIdentifier \nAccount"
+      },
+      {
+        "name": "Account \nIdentifier",
+        "role": "extracted",
+        "context": "cord Page 1 \nService \nTarget \nAccount \nIdentifier \nAccount Type \nGenerated \nDat"
+      },
+      {
+        "name": "Account Type",
+        "role": "extracted",
+        "context": "Target \nAccount \nIdentifier \nAccount Type \nGenerated \nDate Range \nNcmec"
+      },
+      {
+        "name": "Generated \nDate",
+        "role": "extracted",
+        "context": "nt \nIdentifier \nAccount Type \nGenerated \nDate Range \nNcmec Reports \nDefinit"
+      },
+      {
+        "name": "Range \nNcmec",
+        "role": "extracted",
+        "context": "Account Type \nGenerated \nDate Range \nNcmec Reports \nDefinition \nInstagra"
+      },
+      {
+        "name": "Reports \nDefinition",
+        "role": "extracted",
+        "context": "Generated \nDate Range \nNcmec Reports \nDefinition \nInstagram \n1322128817 \nghisl"
+      },
+      {
+        "name": "Responsible Id",
+        "role": "extracted",
+        "context": "the NCMEC cybertip was sent. \nResponsible Id: Identification number of the"
+      },
+      {
+        "name": "Tip \nNumbers",
+        "role": "extracted",
+        "context": "ponsive records located \nCyberTip \nNumbers \nName Name: Name provided by"
+      },
+      {
+        "name": "Name Name",
+        "role": "extracted",
+        "context": "s located \nCyberTip \nNumbers \nName Name: Name provided by the account"
+      },
+      {
+        "name": "Definition First",
+        "role": "extracted",
+        "context": "vided by the account holder. \nDefinition First: First name provided by the a"
+      },
+      {
+        "name": "Name First",
+        "role": "extracted",
+        "context": "vided by the account holder. \nName First Ghislaine Maxwell \nEmails Reg"
+      },
+      {
+        "name": "Emails Registered",
+        "role": "extracted",
+        "context": "Name First Ghislaine Maxwell \nEmails Registered Email Addresses: Displays a l"
+      },
+      {
+        "name": "Email Addresses",
+        "role": "extracted",
+        "context": "ne Maxwell \nEmails Registered Email Addresses: Displays a list of registere"
+      },
+      {
+        "name": "Registered \nEmail",
+        "role": "extracted",
+        "context": "ation by the account holder. \nRegistered \nEmail \nAddresses \nVanity Vanity: Us"
+      },
+      {
+        "name": "Addresses \nVanity",
+        "role": "extracted",
+        "context": "t holder. \nRegistered \nEmail \nAddresses \nVanity Vanity: Username associated w"
+      },
+      {
+        "name": "Definition \nVanity",
+        "role": "extracted",
+        "context": "associated with the account. \nDefinition \nVanity Name ghislainemaxwell \nRegist"
+      },
+      {
+        "name": "Registration Registration",
+        "role": "extracted",
+        "context": "Vanity Name ghislainemaxwell \nRegistration Registration Date: Date and time of accoun"
+      },
+      {
+        "name": "Date Definition",
+        "role": "extracted",
+        "context": "nd time of account creation. \nDate Definition \nRegistration 2014-05-10 17:1"
+      },
+      {
+        "name": "Date \nRegistration",
+        "role": "extracted",
+        "context": "tion 2014-05-10 17:10:23 UTC \nDate \nRegistration fp IP address associated with"
+      },
+      {
+        "name": "Definition \nRegistration",
+        "role": "extracted",
+        "context": "iated with account creation. \nDefinition \nRegistration 1p 69.203.141.229 \nEFTA000163"
+      },
+      {
+        "name": "Account End",
+        "role": "extracted",
+        "context": "agram Business Record Page 2 \nAccount End \nDate Definition \nAccount End"
+      },
+      {
+        "name": "Account Account",
+        "role": "extracted",
+        "context": "the records were generated. \nAccount Account Still true \nClosure Date Acti"
+      },
+      {
+        "name": "Closure Date",
+        "role": "extracted",
+        "context": "Account Account Still true \nClosure Date Active \nPhone Phone numbers:"
+      },
+      {
+        "name": "Active \nPhone",
+        "role": "extracted",
+        "context": "ount Still true \nClosure Date Active \nPhone Phone numbers: Phone number(s"
+      },
+      {
+        "name": "Definition \nPhone",
+        "role": "extracted",
+        "context": "to the listed phone number. \nDefinition \nPhone No responsive records located"
+      },
+      {
+        "name": "Numbers \nLogins",
+        "role": "extracted",
+        "context": "o responsive records located \nNumbers \nLogins Logins: Information collected"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-01-04",
+        "event": "2020-01-04"
+      },
+      {
+        "date": "2019-08-08",
+        "event": "2019-08-08"
+      },
+      {
+        "date": "2019-12-11",
+        "event": "2019-12-11"
+      },
+      {
+        "date": "2014-05-10",
+        "event": "2014-05-10"
+      },
+      {
+        "date": "2019-08-15",
+        "event": "2019-08-15"
+      },
+      {
+        "date": "2019-08-14",
+        "event": "2019-08-14"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "1322128817"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.472Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00028457",
+    "filename": "EFTA00028457.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028457.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: questionnaire \nDate: Fri, 24 Jan 2020 15:52:07 +0000 \nAttachments: Questionnairefor_Official_Foreign_Travel,_Stocltholm,2020iM).pdf \nAssistant United States Attorney \nSouthern District of New York \nEFTA00028457",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "avel,_Stocltholm,2020iM).pdf \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "2020iM).pdf \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00028457"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.275Z"
+}

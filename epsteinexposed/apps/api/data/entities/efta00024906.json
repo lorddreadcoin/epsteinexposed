@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00024906",
+    "filename": "EFTA00024906.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024906.pdf",
+    "text": "\n\nSubject: RE: Witness-3 - proposed redactions \nDate: Sun, 21 Nov 2021 03:25:03 +0000 \nAttachments: 2021.11.11 Letter to Judge_Nathan re Response_to_Government Letters_re_Accuser-_ _ _ _ \n3  Evidence_[revised_proposed redactions].pdf \nCounsel -  we have a corrected version of one of these filings regarding Witness-3. Attached are our proposed redactions. \nThanks, \nFrom \nSent: Saturday, November 20, 2021 9:50 PM \nTo: aura Menninger Jeff Pagliuca \nu 'Act. Witness- - ro ose •  re. act \nCounsel, \nAttached are our proposed redactions to the supplemental filings and order regarding Witness-3. \nThanks \nssista nt United States Attorney \nSouthern District of New York \nEFTA00024906",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Government Letters",
+        "role": "extracted",
+        "context": "o Judge_Nathan re Response_to_Government Letters_re_Accuser-_ _ _ _ \n3  Eviden"
+      },
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "roposed redactions. \nThanks, \nFrom \nSent: Saturday, November 20, 2021"
+      },
+      {
+        "name": "Menninger Jeff",
+        "role": "extracted",
+        "context": "er 20, 2021 9:50 PM \nTo: aura Menninger Jeff Pagliuca \nu 'Act. Witness- -"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "anks \nssista nt United States Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-11-20",
+        "event": "November 20, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.081Z"
+}

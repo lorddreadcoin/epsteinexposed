@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00030947",
+    "filename": "EFTA00030947.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030947.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: ' >, ' (USANYS)\" \nSubject: Request re Ghisliane Maxwell \nDate: Thu, 07 Jan 2021 21:35:28 +0000 \nGood afternoon, \nAt the request of defense counsel, our office is preparing a new drive with a copy of discovery material that was \npreviously produced to Ghislaine Maxwell on a CD, but which she has been unable to view. The drive will be ready \ntomorrow. Today, defense counsel asked that Maxwell be able to review those materials over this coming weekend, but \nno one from our office is available to hand deliver the drive tomorrow, and we understand that Maxwell would not \nreceive a FedEx package sent out tomorrow until next week. Defense counsel has offered to pick the drive up from our \noffice and hand deliver it to the MDC themselves tomorrow. Would that be permissible? \nThank you, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY \n10007 \nEFTA00030947",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "scovery material that was \npreviously produced to Ghislaine Maxwell on a CD, but which she has been unable to view. T"
+      },
+      {
+        "name": "Ghisliane Maxwell",
+        "role": "extracted",
+        "context": "USANYS)\" \nSubject: Request re Ghisliane Maxwell \nDate: Thu, 07 Jan 2021 21:35"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "be permissible? \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY \n10"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.081Z"
+}

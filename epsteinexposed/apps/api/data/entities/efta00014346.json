@@ -1,0 +1,39 @@
+{
+  "document": {
+    "id": "efta00014346",
+    "filename": "EFTA00014346.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014346.pdf",
+    "text": "\n\nFrom: \nTo: USA-5 Mail Utility \n<usa5.sender®usa.doj.gov> \nSubject: Automatic reply: USA-5 Reminder for 08/18/2019 - 08/24/2019 \nDate: Tue, 27 Aug 2019 07:13:20 +0000 \nI am currently on trial before the Honorable Ronnie Abrams. I will be checking email at the end of each trial da . If ou need immediate \nassistance in connection with United States v. E stein, 19 Cr. 490 (RMB), please contact AUS .  For all other matters, \nplease coma Thank you. \nEFTA00014346",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mail Utility",
+        "role": "extracted",
+        "context": "From: \nTo: USA-5 Mail Utility \n<usa5.sender®usa.doj.gov> \nS"
+      },
+      {
+        "name": "Honorable Ronnie",
+        "role": "extracted",
+        "context": "currently on trial before the Honorable Ronnie Abrams. I will be checking em"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-18",
+        "event": "08/18/2019"
+      },
+      {
+        "date": "2019-08-24",
+        "event": "08/24/2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.666Z"
+}

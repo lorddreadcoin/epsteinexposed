@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "efta00013660",
+    "filename": "EFTA00013660.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013660.pdf",
+    "text": "\n\nFrom \nTo \nCc: \nSubject: Epstein \nDate: Mon, 21 Apr 2008 13:28:25 +0000 \nImportance: Normal \nHi —  I did not hear from you last week, which probably means that you did not hear from DOJ. We \nhave to get an answer today or I  may not be able to indict Epstein before I  leave on my 3-week vacation in May, \nand we cannot put this off that long. \nOn the issue of assigning another AUSA, I  know that talked with you about assigning \nsomeone from Miami, but in Fort Pierce is myfirst c  owe. In Miami, my first choice is \njib I am just worried a out t  e trave for \nThank you! \nI am off to Mag Court but should be back around \nnoon. \nAssistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013660",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc: \nSubject: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nCc: \nSubject: Epstein \nDate: Mon, 21 Apr 2008 13:28:25 +0"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 13:28:25 +0000 \nImportance: Normal \nHi —  I did not hear from you la"
+      },
+      {
+        "name": "Fort Pierce",
+        "role": "extracted",
+        "context": "g \nsomeone from Miami, but in Fort Pierce is myfirst c  owe. In Miami,"
+      },
+      {
+        "name": "In Miami",
+        "role": "extracted",
+        "context": "ort Pierce is myfirst c  owe. In Miami, my first choice is \njib I am"
+      },
+      {
+        "name": "Mag Court",
+        "role": "extracted",
+        "context": "for \nThank you! \nI am off to Mag Court but should be back around \nno"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "sistant U.S. Attorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nPhone \nFax"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "0 \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013660"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Miami",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.109Z"
+}

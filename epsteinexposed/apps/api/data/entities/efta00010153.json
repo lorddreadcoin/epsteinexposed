@@ -1,0 +1,25 @@
+{
+  "document": {
+    "id": "efta00010153",
+    "filename": "EFTA00010153.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00010153.pdf",
+    "text": "\n\nFrom: Mail Delivery Subsystem <MAILER-DAEMON@DJJMDCJCO1-PPOINT08.jcots.jutnet.net> \nTo: a> \nSubject: [EXTERNAL) Returned mail: see transcript for details \nDate: Mon, 15 Nov 2021 03:34:03 +0000 \nEmbedded: unnamed \nThe original message was received at Mon, 15 Nov 2021 03:33:57 GMT \nfrom [10.187.9.62] \n The following addresses had permanent fatal errors ----\n<besstemheim®mac.com> \n(reason: 550 5.1.1 <bcssternheim@mac.com>: user does not exist) \n Transcript of session follows ----\n... while talking to mx02.mail.icloud.com.: \n>» \nDATA \n<<< 550 5.1.1 <bcssterrtheim®mac.com>: user does not exist \n550 5.1.1 <bcsstemheim@mac.com>... User unknown \ncc< 554 \n5.5.1 Error no valid recipients \nEFTA00010153",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mail Delivery",
+        "role": "extracted",
+        "context": "From: Mail Delivery Subsystem <MAILER-DAEMON@DJJM"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:41.397Z"
+}

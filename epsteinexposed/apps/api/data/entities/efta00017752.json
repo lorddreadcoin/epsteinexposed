@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00017752",
+    "filename": "EFTA00017752.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017752.pdf",
+    "text": "\n\nFrom: \nTo: \n(USANYS)\"  \nCc: \n(USANYS)\" \nI \nSubject: Epstein \nDate: Tue, 02 Apr 2019 18:13:59 \n+0000 \nImportance: Normal \nFBI Florida wants us to obtain the consent of SDLF for FBI to turn over to us all the grand jury materials they have from the \noriginal Epstein case (we already obtained some files without them raising this issue, but now they have). Sharing grand \njury material between different federal grand juries is specifically approved in Rule 6(e), and we have done this before \nwith a letter acknowledgement, so this shouldn't be an issue. \nThe question is whether we should have contact their crim chief on this issue (since the last contact was Lisa to the \ncrim chief), or have ODAG coordinate. Let us know what you think? \nUnited States Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's Pal \nEFTA00017752",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "Cc: \n(USANYS)\" \nI \nSubject: Epstein \nDate: Tue, 02 Apr 2019 18:13:59 \n+"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "es Attorney's Office for the \nSouthern District of New York \n1 St. Andrew's P"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.521Z"
+}

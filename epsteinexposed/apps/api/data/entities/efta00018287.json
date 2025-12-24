@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00018287",
+    "filename": "EFTA00018287.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018287.pdf",
+    "text": "\n\nFrom: ' \nTo:' \nSubject: FW: NPA \nDate: Tue, 23 Feb 2021 17:53:09 +0000 \nAttachments: 2021-02-26_GM_Government_OppositioniNPAUMC).doex \nHi M— do you want to look next or should I? I'm pretty flexible this afternoon, so happy to defer to your schedule. \nFrom: \nSent: Tuesday, February 23, 2021 12:46 PM \nTo: \na; \nSubject: RE: NPA \nThanks very much, .  I think this is in great shape and is very compelling. Some small edits and my responses to your \ncomments attached. Happy to jump on a call if that would be useful. \nFrom: \nSent: Tuesday, February 23, 2021 2:02 AM \nTo: \nIMME> \nSubject: NPA \nAll, \nAttached is the most recent draft of the NPA brief. Apologies for the delay, I really struggled with this one. I think our \narguments in the first half are strong, but I'm really not wild about the second half. Would very much appreciate your \ncomments/edits. I've also flagged a few issues for consideration/discussion. If you're able to review tomorrow morning, \nthat would be great. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nEFTA00018287",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hat would be great. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00018287"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-02-23",
+        "event": "February 23, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.570Z"
+}

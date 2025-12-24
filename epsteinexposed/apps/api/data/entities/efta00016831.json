@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016831",
+    "filename": "EFTA00016831.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016831.pdf",
+    "text": "\n\nFrom: \n\" aNIMIW \nTo: ' (USANYS)\" \nCc: inn \nSubject: Fact Witness Travel Request \nDate: Thu, 30 Jan 2020 17:37:24 +0000 \nAttachments: \nHi \nAttached please find a fact witness travel request for a witness who is needed for grand jury prep on February 7th in the \nEpstein case. The witness will need to fly up from Florida the day before (February 6th).  His cellphone number is included \nin the request form, and he should be expecting a  call from you or someone in your department to work out the logistics. \nLet me know if you need any other information, and thank you so much for your help. \nEFTA00016831",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "(USANYS)\" \nCc: inn \nSubject: Fact Witness Travel Request \nDate: Thu, 30"
+      },
+      {
+        "name": "Travel Request",
+        "role": "extracted",
+        "context": "c: inn \nSubject: Fact Witness Travel Request \nDate: Thu, 30 Jan 2020 17:37"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "17:37:24 +0000 \nAttachments: \nHi \nAttached please find a fact witness tr"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:53.461Z"
+}

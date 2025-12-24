@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00028161",
+    "filename": "EFTA00028161.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028161.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Maxwell update to the Court \nDate: Tue, 02 Feb 2021 20:26:28 +0000 \nAttachments: 2021.02.02_AJN_Order Denying_Motion_to_Vacate_Order re_MDCJaptop_access.pdf \nAll, \nJudge Nathan just issued the attached order denying the application to vacate her prior order regarding Maxwell's access \nto the laptop. \nPlease let me know if there is a good time for a call tomorrow to discuss the update letter that is due this Friday. \nThank you, \nAssistant United States Attorney \nSouthern District of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent: Monday, February 1, 20217:44 PM \nTo: \nCc: \nSubject: Maxwell update to the Court \nAll, \nAttached please find a letter, which we just filed on ECF, informing the Court that although our office generally has no \nobjection to Maxwell having additional laptop access, we defer to the MDC's judgment regarding how to manage its \ninmates, including in this situation. The defense has not filed a letter in response to your request to vacate the Court's \nprior order, but I will send you a copy if and when they do. \nRelatedly, our next update regarding Maxwell's conditions of confinement is due to the Court this Friday, February \n5th \nPer the attached order, we need to update Judge Nathan regarding the following topics: \n• Access to discovery (we have discussed this topic repeatedly, and my understanding is there are no material \nchanges here, but we need to confirm) \n• Access to legal mail (confirming Maxwell is receiving her legal mail on the same basis as all other inmates) \n• Access to legal email (confirming that Maxwell has access to email with legal counsel via the BOP desktop \ncomputer) \nEFTA00028161\n\n• Ability to communicate with legal counsel (confirming the frequency with which Maxwell receives legal calls and \nVTCs) \n• The frequency of searches of Maxwell (including all patdowns, mouth searches, ear searches, strip searches, \nbody scans, cell searches, and nighttime monitoring) \nIs there a time in the next couple days when we could have a quick phone call to check in on these topics, please? \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nl  St. Andrew's Plaza \nNew York, NY 10007 \nEFTA00028162",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Court \nDate",
+        "role": "extracted",
+        "context": "ct: RE: Maxwell update to the Court \nDate: Tue, 02 Feb 2021 20:26:28 +0"
+      },
+      {
+        "name": "Order Denying",
+        "role": "extracted",
+        "context": "Attachments: 2021.02.02_AJN_Order Denying_Motion_to_Vacate_Order re_MDC"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "e_MDCJaptop_access.pdf \nAll, \nJudge Nathan just issued the attached orde"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "due this Friday. \nThank you, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "Thank you, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 St. Andrew's P"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "t of New York \n1 St. Andrew's Plaza \nNew York, NY 10007 \nFrom: \nSent:"
+      },
+      {
+        "name": "Court \nAll",
+        "role": "extracted",
+        "context": "ubject: Maxwell update to the Court \nAll, \nAttached please find a lett"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.752Z"
+}

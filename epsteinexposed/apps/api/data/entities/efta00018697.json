@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "efta00018697",
+    "filename": "EFTA00018697.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018697.pdf",
+    "text": "\n\nTHE SCHOOL DISTRICT OF DAWN \nPUMPHREY DEEPAK \nAGARWAL \nPALM BEACH COUNTY, FLORIDA DIRECTOR \nCHIEF INFORMATION Officer \nIT ENTERPRISE APPLICATIONS \n   Ae.1\nBag; \n3300 FOREST HILL BOULEVARD, SUITE 6.241 \nWEST \nPALM BEACH, FL 33406 \nPHONE: \n561-434-8029 \nFAX: 561.434.8660 \nwww.palmbeachschools.ory \nJuly, 2021 \nRE: RELEASE OF \nSTUDENT RECORDS \nDear Sir or Madam, \nAs per your \nsubpoena / \nrecords request, we are \nenclosing the \nstudent's \nrecords. \nic\na\nIf we can be of \nfurther assistance. please contoa \nt \nAttachment \nThe \nSchool District of Palm \nBeach County, Florida \nA Top-Rated District by the \nFlorida Department of \nEducation Since 2005 \nAn \nEquol Education Opportunity \nProvider and Employer \nEFTA00018697",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Dear Sir",
+        "role": "extracted",
+        "context": "RELEASE OF \nSTUDENT RECORDS \nDear Sir or Madam, \nAs per your \nsubpo"
+      },
+      {
+        "name": "Attachment \nThe",
+        "role": "extracted",
+        "context": "assistance. please contoa \nt \nAttachment \nThe \nSchool District of Palm \nBea"
+      },
+      {
+        "name": "School District",
+        "role": "extracted",
+        "context": "e contoa \nt \nAttachment \nThe \nSchool District of Palm \nBeach County, Florid"
+      },
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "ment \nThe \nSchool District of Palm \nBeach County, Florida \nA Top-Rated"
+      },
+      {
+        "name": "Rated District",
+        "role": "extracted",
+        "context": "Beach County, Florida \nA Top-Rated District by the \nFlorida Department of"
+      },
+      {
+        "name": "Florida Department",
+        "role": "extracted",
+        "context": "A Top-Rated District by the \nFlorida Department of \nEducation Since 2005 \nAn"
+      },
+      {
+        "name": "Education Since",
+        "role": "extracted",
+        "context": "y the \nFlorida Department of \nEducation Since 2005 \nAn \nEquol Education Opp"
+      },
+      {
+        "name": "An \nEquol",
+        "role": "extracted",
+        "context": "ent of \nEducation Since 2005 \nAn \nEquol Education Opportunity \nProvid"
+      },
+      {
+        "name": "Education Opportunity",
+        "role": "extracted",
+        "context": "ucation Since 2005 \nAn \nEquol Education Opportunity \nProvider and Employer \nEFTA0"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "561-434-8029",
+      "561.434.8660"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.506Z"
+}

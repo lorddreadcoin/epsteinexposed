@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00031006",
+    "filename": "EFTA00031006.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031006.pdf",
+    "text": "\n\nFrom: \"Berman, Geoffrey (USANYS)\"  \nTo: ' \n. \n(ODAG)\"  \nSubject: Fwd: Epstein OCME \nDate: Fri, 16 Aug 2019 19:36:47 +0000 \nSee below. Geoff \nBegin forwarded message: \nFrom: ' (USANYS)\" < \nDate: August 16, 2019 at 2:48:14 PM EDT \nTo: \"Berman, Geoffre \n(USANYS \" \n(USANYS)\" \n(USANYS \nCc: ' (USANYS)\" < \nSubject: Epstein OCME \nThe team has just learned from the City Medical Examiner that OCME has officially concluded Epstein's cause of death \nwas hanging and the manner of death was suicide. \nOCME plans to issue a press release and the official death certificate indicating as much later this afternoon. \nEFTA00031006",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Geoff \nBegin",
+        "role": "extracted",
+        "context": "19 19:36:47 +0000 \nSee below. Geoff \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "City Medical",
+        "role": "extracted",
+        "context": "eam has just learned from the City Medical Examiner that OCME has offici"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-16",
+        "event": "August 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.224Z"
+}

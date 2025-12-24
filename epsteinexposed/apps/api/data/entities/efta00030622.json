@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030622",
+    "filename": "EFTA00030622.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030622.pdf",
+    "text": "\n\nfe' \nDIESER \nREISEPASS \nGILT \nMk \nALLE  STAATEN \nCE PASSEPORT EST \nVALABLE POUR \nTO US\n \nDER  WELT\n \nDU \nMONDE \nTHIS PASSPORT IS VALID  FOR \nLEs PAYS \nALL \nCOUNTRIES OF \nTHE \nWORLD \nStempel-\nmarke \nDIE \nGÜLTIGKEIT \nDIESES \nREISEPASSES \nENDET \nAM \nLA \nVALIDITE \nDE \nCE \nPASSEPORT \nEXPIRE \nLE \nTHE \nVALIDITY \nOF \nTHIS \nPASSPORT \nEXPIRES \nOrt \nund \nDatum \nLieu \net \ndate \nPlace \nand \ndate \n2 \nI. \nMai \n1987 \nBundespolasidasktion \nWisp. \neraltikinkaggaxa \nOberkommissär \nDie \nGültigkeitsdauer \ndieses \nReisepasses \nwird \nverlängert \nbis  \nLa \nvalidity \nde ce \npasseport \nen \nprorogde \njusqu'au \nThe \nvalidity of \nthis \npassport is \nrenewed \nuntil \nBehörde \nAutoritä \nAuthority \nOrt und \nDatum \nLieu et date \nPlace and date \nUnterschrift \n/  Signature I \nSignature \nDie \nGültigkeitsdauer dieses \nReisepasses wird verlängert bis  \nLa validity de \nce passeport est \nprorogie jusqu'au \nThe \nvalidity of this \npassport is renewed \nuntil \nOrt und \nDatum \nLieu et date \nPlace \nand date \nUnterschrift \n/ \nSignature \nI \nSignature \n• \n1 \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \no \n• \n* \n• \n• \n2 \nI, \n• \n• \n•• \n• \n• \n• \n• \n• \n• • \n• \n• \nII \n• \n• \n11 \n• \n• \n• \n• \n• \n• \no• \n• \na \n• \n• \n• \ns• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \nea \n• \n• \n• \nIF \n• • \n• \n• \n• \n• \n• \n••• \n• \n• \n• \nft• \n• 000 \n• \n• \n• \n• \n4 \n• \nEFTA00030622",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Datum \nLieu",
+        "role": "extracted",
+        "context": "PASSPORT \nEXPIRES \nOrt \nund \nDatum \nLieu \net \ndate \nPlace \nand \ndate"
+      },
+      {
+        "name": "Bundespolasidasktion \nWisp",
+        "role": "extracted",
+        "context": "and \ndate \n2 \nI. \nMai \n1987 \nBundespolasidasktion \nWisp. \neraltikinkaggaxa \nOberkommi"
+      },
+      {
+        "name": "Authority \nOrt",
+        "role": "extracted",
+        "context": "ed \nuntil \nBehörde \nAutoritä \nAuthority \nOrt und \nDatum \nLieu et date \nPla"
+      },
+      {
+        "name": "Signature \nDie",
+        "role": "extracted",
+        "context": "Unterschrift \n/  Signature I \nSignature \nDie \nGültigkeitsdauer dieses \nRei"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.302Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00008417",
+    "filename": "EFTA00008417.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 5\\VOL00005\\IMAGES\\0001\\EFTA00008417.pdf",
+    "text": "\n\n.; \n• \n5.1222 \nRequest10 \n112048 \n1832 \n08112/2319 \nNYCO22211.\n \nPC \nDerivative \nConi \nOne \ncl) \nSeagate \nBarroomla \n102008 \nMOO, \nST1000OM003, \nSIN \nW1O3826E. \ncontaining \nttitt \nClone \nCopy \no4 \n1812 \nhard \nague \n(Seagate \nConstellation \nFS \nfOOGP \nHOD \nSt5ClNt.4OO11 \nSrm \n21#4,110': \n'ad \nvia \n1x-1 \n;'N \nOODFC\n,  \n• \n'V\n. \n• \nJR  \n• \n. \n• \n,\nr \nr   \n \n... \n* \n• \na\n•  • \n. \n• \n•• \n• \n1 \n.\n••• \nt \nqi \n. \n4\n. \nli \n \n•  • \nEFTA00008417",
+    "pageCount": 1,
+    "dataset": "Dataset 5"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Derivative \nConi",
+        "role": "extracted",
+        "context": "08112/2319 \nNYCO22211.\n \nPC \nDerivative \nConi \nOne \ncl) \nSeagate \nBarroomla"
+      },
+      {
+        "name": "Seagate \nBarroomla",
+        "role": "extracted",
+        "context": "Derivative \nConi \nOne \ncl) \nSeagate \nBarroomla \n102008 \nMOO, \nST1000OM003,"
+      },
+      {
+        "name": "Clone \nCopy",
+        "role": "extracted",
+        "context": "W1O3826E. \ncontaining \nttitt \nClone \nCopy \no4 \n1812 \nhard \nague \n(Seaga"
+      },
+      {
+        "name": "Seagate \nConstellation",
+        "role": "extracted",
+        "context": "Copy \no4 \n1812 \nhard \nague \n(Seagate \nConstellation \nFS \nfOOGP \nHOD \nSt5ClNt.4OO1"
+      }
+    ],
+    "locations": [
+      {
+        "name": "SIN",
+        "type": "airport"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:38.496Z"
+}

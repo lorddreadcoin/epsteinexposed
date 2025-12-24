@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00018855",
+    "filename": "EFTA00018855.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018855.pdf",
+    "text": "\n\nFrom: ' (USANYS) [Contractor]\" \nTo: \naUSANYS)\" \nCc: ' USANYS) \n[Contractor]\" \nSubject: GX from \nDate: Tue, 28 Sep 2021 22:45:21 +0000 \nImportance: Normal \nI mentioned this to earlier, I don't think we ever specified the files we pulled for MEM GX following our call \nwith her before she went on leave. Below is a list of the exhibits we pulled and their location on the shared for your \nreference. \n\"Iihanks \nFaceplates/People Photos: \n•  Epstein (from photobook) \n•  Maxwell (from photobook) \n• (from photobook) \n• from photobook) \n(from group photo) \no  Included group photo as one exhibit and close up cropped image of just CA as another \nPB search warrant photos, video of search, property receipts:I \nPhotos of places (subsequently added GM London townhouse photo): \nFedEx records \nFlight records: \nAT&T records:I \ndeposition and \nMar-A-Lago records: \nMaps: \nParalegal Specialist \nU.S. Attorney's Office I  SDNY \nsworn statement: \nEFTA00018855\n\nOffice:\nCell:• \nEFTA00018856",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Iihanks \nFaceplates",
+        "role": "extracted",
+        "context": "shared for your \nreference. \n\"Iihanks \nFaceplates/People Photos: \n•  Epstein (f"
+      },
+      {
+        "name": "People Photos",
+        "role": "extracted",
+        "context": "erence. \n\"Iihanks \nFaceplates/People Photos: \n•  Epstein (from photobook)"
+      },
+      {
+        "name": "Paralegal Specialist",
+        "role": "extracted",
+        "context": "Mar-A-Lago records: \nMaps: \nParalegal Specialist \nU.S. Attorney's Office I  SD"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.814Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00029230",
+    "filename": "EFTA00029230.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029230.pdf",
+    "text": "\n\nFrom: ' \n)\" <1 \nTo: \" (USANYS) W\n1 czl \n[Contractorr\nSubject: CD with Maxwell files \nDate: Mon, 05 Apr 2021 17:55:13 +0000 \nan \nOn Friday, the FBI brought me a CD containing additional files that I need to review for Maxwell. It should be sitting in my \noffice on the 4th floor on my keyboard at my desk. Would one of you (or another paralegal who is in the office) be able to \nplease grab the CD and load its contents onto the Epstein share? You can save everything from the CD here: \nUsa.doj.gov\\ cloud NYS\\StAndrewAShared USvEpstein-2018R01618‘Investigation FBI NY Case File as of August \n2020\\1B items not \nincluded ink \nbox \nThanks so much, \nEFTA00029230",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Contractorr\nSubject",
+        "role": "extracted",
+        "context": "<1 \nTo: \" (USANYS) W\n1 czl \n[Contractorr\nSubject: CD with Maxwell files \nDate:"
+      },
+      {
+        "name": "On Friday",
+        "role": "extracted",
+        "context": "Apr 2021 17:55:13 +0000 \nan \nOn Friday, the FBI brought me a CD cont"
+      },
+      {
+        "name": "Case File",
+        "role": "extracted",
+        "context": "18R01618‘Investigation FBI NY Case File as of August \n2020\\1B items n"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.052Z"
+}

@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00014031",
+    "filename": "EFTA00014031.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014031.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nDate: Thu, 11 Dec 2008 01:10:49 +0000 \nImportance: Normal \ne: ps em \nWhat ois your schedule tomorrow, lets talk am if possible. \nOri • inal Messa:e \nFro \nTo: \nSent: Wed Dec 10 19:05:30 2008 \nSubject: Fw: Epstein \nI  was hoping to preempt this. \nFrom: \nTo: \nSent: Wed Dec 10 18:41:55 2008 \nSubject: Epstein \nArticle coming out tomorrow about Epstein's work release. It will be in a small Palm Beach paper. U can c article tonight online. Call me if \nu have a problem finding it and I  will get more info. Both Herman and Goldberger are quoted. \nEFTA00014031",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fro \nTo",
+        "role": "extracted",
+        "context": "ossible. \nOri • inal Messa:e \nFro \nTo: \nSent: Wed Dec 10 19:05:30 2"
+      },
+      {
+        "name": "Wed Dec",
+        "role": "extracted",
+        "context": "inal Messa:e \nFro \nTo: \nSent: Wed Dec 10 19:05:30 2008 \nSubject: Fw"
+      },
+      {
+        "name": "Epstein \nArticle",
+        "role": "extracted",
+        "context": "ec 10 18:41:55 2008 \nSubject: Epstein \nArticle coming out tomorrow about Eps"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "elease. It will be in a small Palm Beach paper. U can c article tonigh"
+      },
+      {
+        "name": "Both Herman",
+        "role": "extracted",
+        "context": "it and I  will get more info. Both Herman and Goldberger are quoted. \nE"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.976Z"
+}

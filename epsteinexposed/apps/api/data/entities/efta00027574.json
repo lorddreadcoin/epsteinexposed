@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027574",
+    "filename": "EFTA00027574.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027574.pdf",
+    "text": "\n\nFrom: \n\" \nTo: \n\" \nSubject: Call with \nDate: Tue, 21 Sep 2021 21:17:58 +0000 \nCall with \n• \n. \nwas sold \n•  Could recognize her signature at the time — it was just a scroll. \n.   Has destroyed all her notes \n• \nAssistant United States Attorney \nSouthern District of New York \nNew York, New York 10007 \nEFTA00027574",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "s destroyed all her notes \n• \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "er notes \n• \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, New Yo"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.565Z"
+}

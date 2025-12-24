@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00003055",
+    "filename": "EFTA00003055.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003055.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas. \nVI \n00802 \nTel: \nFax: \nDate: \n03/19118 \nEmployee \nName: \nHihan \nBedminster \nAddress: \nI \nnit? \nPositior: \nEmergency \nInfornw \nAllergies \nor \nHealth \nConcerns: \nBlood \nType \nSNOinD \nEmergency \nContact \nForm \nMarital \nStatus \nStart \nDate: \nDate \nof \nBirth: \nE\n-Mail \nCurrent \nMedication: \nDoctor's \nName: \nPhone: \nDoctor's \nName: \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact \n: \nRelationship \nMother \nPhone \nName\nme \nAnn \nRelationship \nAmy \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003055",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas. \nVI \n00802"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "Tel: \nFax: \nDate: \n03/19118 \nEmployee \nName: \nHihan \nBedminster \nAddress:"
+      },
+      {
+        "name": "Hihan \nBedminster",
+        "role": "extracted",
+        "context": ": \n03/19118 \nEmployee \nName: \nHihan \nBedminster \nAddress: \nI \nnit? \nPositior:"
+      },
+      {
+        "name": "Emergency \nInfornw",
+        "role": "extracted",
+        "context": "Address: \nI \nnit? \nPositior: \nEmergency \nInfornw \nAllergies \nor \nHealth \nConce"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "ency \nInfornw \nAllergies \nor \nHealth \nConcerns: \nBlood \nType \nSNOinD \nEmerge"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "rgies \nor \nHealth \nConcerns: \nBlood \nType \nSNOinD \nEmergency \nContact"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "ncerns: \nBlood \nType \nSNOinD \nEmergency \nContact \nForm \nMarital \nStatus \nStart"
+      },
+      {
+        "name": "Form \nMarital",
+        "role": "extracted",
+        "context": "SNOinD \nEmergency \nContact \nForm \nMarital \nStatus \nStart \nDate: \nDate"
+      },
+      {
+        "name": "Status \nStart",
+        "role": "extracted",
+        "context": "ency \nContact \nForm \nMarital \nStatus \nStart \nDate: \nDate \nof \nBirth: \nE\n-"
+      },
+      {
+        "name": "Mail \nCurrent",
+        "role": "extracted",
+        "context": "Date: \nDate \nof \nBirth: \nE\n-Mail \nCurrent \nMedication: \nDoctor's \nName:"
+      },
+      {
+        "name": "Relationship \nMother",
+        "role": "extracted",
+        "context": "ergency, \nPlease \ncontact \n: \nRelationship \nMother \nPhone \nName\nme \nAnn \nRelatio"
+      },
+      {
+        "name": "Phone \nName",
+        "role": "extracted",
+        "context": "act \n: \nRelationship \nMother \nPhone \nName\nme \nAnn \nRelationship \nAmy \nP"
+      },
+      {
+        "name": "Ann \nRelationship",
+        "role": "extracted",
+        "context": "ship \nMother \nPhone \nName\nme \nAnn \nRelationship \nAmy \nPhone \nThis \nInformatio"
+      },
+      {
+        "name": "Amy \nPhone",
+        "role": "extracted",
+        "context": "Name\nme \nAnn \nRelationship \nAmy \nPhone \nThis \nInformation \nis \nfor"
+      },
+      {
+        "name": "This \nInformation",
+        "role": "extracted",
+        "context": "nn \nRelationship \nAmy \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.617Z"
+}

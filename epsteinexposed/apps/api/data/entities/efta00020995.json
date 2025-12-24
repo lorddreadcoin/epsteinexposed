@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00020995",
+    "filename": "EFTA00020995.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020995.pdf",
+    "text": "\n\nFrom:S\" \nTo: \n(USANYS)\" \nSubject: Automatic reply: Web Update — does this work? \nDate: Tue, 27 Aug 2019 19:34:42 +0000 \nI am currently on trial before the Honorable Ronnie Abrams. I will be checking email at the end of each trial da .  If ou need immediate \nassistance in connection with United States v. E stein, 19 Cr. 490 (RMB), please contact AUSA at For all other matters, \nplease contact AUSAat Thank you. \nEFTA00020995",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Web Update",
+        "role": "extracted",
+        "context": ")\" \nSubject: Automatic reply: Web Update — does this work? \nDate: Tue,"
+      },
+      {
+        "name": "Honorable Ronnie",
+        "role": "extracted",
+        "context": "currently on trial before the Honorable Ronnie Abrams. I will be checking em"
+      },
+      {
+        "name": "Aat Thank",
+        "role": "extracted",
+        "context": "r matters, \nplease contact AUSAat Thank you. \nEFTA00020995"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.786Z"
+}

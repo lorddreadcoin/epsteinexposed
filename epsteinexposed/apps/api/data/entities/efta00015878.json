@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015878",
+    "filename": "EFTA00015878.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015878.pdf",
+    "text": "\n\nFrom \nTo: \nBee: \"USAHUB-USAJouma1111\" \nSubject: RE: [EXTERNAL EMAIL] - RE: Ghislaine Maxwell Triggerfish \nDate: Mon, 28 Dec 2020 19:05:20 +0000 \nEmbedded: REJEXTERNAL_EMAIL]_-_RE:_Ghislaine_Maxwell_Triggerfish.msg \nSender \nSubject: RE: [EXTERNAL EMAIL] - RE: Ghislaine Maxwell Triggerfish \nMessage-Id: \n<SN5P110MB05426EFA688683F697249B3492D90@SN5P110MB0542.NAMP110.PROD.OUTLOOK.COM> \nEFTA00015878",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "SAJouma1111\" \nSubject: RE: [EXTERNAL EMAIL] - RE: Ghislaine Maxwell Triggerfish \nDate: Mon, 28 Dec 2020 19:05:20 +000"
+      },
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \nBee: \"USAHUB-USAJouma1111\""
+      },
+      {
+        "name": "Triggerfish \nDate",
+        "role": "extracted",
+        "context": "MAIL] - RE: Ghislaine Maxwell Triggerfish \nDate: Mon, 28 Dec 2020 19:05:20 +0"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "aine_Maxwell_Triggerfish.msg \nSender \nSubject: RE: [EXTERNAL EMAIL] - RE: G"
+      },
+      {
+        "name": "Triggerfish \nMessage",
+        "role": "extracted",
+        "context": "MAIL] - RE: Ghislaine Maxwell Triggerfish \nMessage-Id: \n<SN5P110MB05426EFA688683"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:51.685Z"
+}

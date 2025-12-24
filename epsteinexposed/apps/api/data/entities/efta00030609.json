@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030609",
+    "filename": "EFTA00030609.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030609.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: \"Hutner, Florence (OCME)\" \n•tta \nCc: \n(USANYS)\"\nSubject: Epstein File - \nRedactions \nDate: \nMon, 09 Sep 2019 21:20:56 +0000 \nAttachments: 2019.09.09_USAO_Redactions_to_OCME_Report_and_File.pdf; \n2019.09.09_Letter to_OCME.pdf \nFlorence, \nPlease see the attached letter and attachment. Please let us know if you have any questions. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00030609",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein File",
+        "role": "extracted",
+        "context": "•tta \nCc: \n(USANYS)\"\nSubject: Epstein File - \nRedactions \nDate: \nMon, 09"
+      },
+      {
+        "name": "Redactions \nDate",
+        "role": "extracted",
+        "context": "YS)\"\nSubject: Epstein File - \nRedactions \nDate: \nMon, 09 Sep 2019 21:20:56 +"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "have any questions. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "s. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000306"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.270Z"
+}

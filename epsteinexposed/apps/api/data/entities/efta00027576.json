@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00027576",
+    "filename": "EFTA00027576.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027576.pdf",
+    "text": "\n\nFrom: \nTo:\" \nCc:'\n11> \nSubject: RE: [EXTERNAL] Focus Group Questionnaire \nDate: Thu, 23 Sep 2021 15:19:03 +0000 \nAttachments: GM jury_exercise_RTC_-_revised.docx; GM jury_exercise_verdictionn.docx \nConfirming with team but my understanding is what we sent back to (attached) is final. \n Original Message \nFrom: \nSent: Thursday, September 23, 2021 11:18 AM \nTo: \nSubject: RE: [EXTERNAL] Focus Group Questionnaire \nHi M, \nCertainly, will do. Arc these the final versions, or is it possible that any changes will be made today or tomorrow? \nThanks, \n Original Message \nFrom: \nSent: Thursday, September 23, 2021 11:13 AM \nTo: \nSubject: FW: [EXTERNAL] Focus Group Questionnaire \nHi Not sure if the team relayed this, but are you able to make copies for Saturday, as outlined below? \n Original Message \nFrom: Taylor <paulettetaylorlVicloud.com> \nSent: Wednesday, September 22, 2021 2:15 PM \nTo: \nCc: \nSubject: Re: [EXTERNAL] Focus Group Questionnaire \nHello—\nI have made the changes to the Focus Group Questionnaire that you requested. \nThe Jury Instructions are ready to print. Please bring 40 copies (stapled upper left) with you to the focus group on Saturday. \nThe Verdict Questions are printed at the end of the questionnaire. The facilitators orally encourage the juries to reach a unanimous \nverdict, but ultimately each juror marks their own verdict sheet with their own individual vote. If the verdict is not unanimous, we see \nwhich jurors voted for the defense, and during the debrief after the deliberations on each count we find out why they voted the way they \ndid. \nWill you be bringing binders with copies of documents for jurors to refer to? \nEFTA00027576\n\n> On Sep 21, 2021, at 11:05 AM, Echenberg, (USANYS) wrote: \n> <Fyrrell - Focus Group Questionnaire (LP.AM) TAM.docx> \nEFTA00027577",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Focus Group",
+        "role": "extracted",
+        "context": "11> \nSubject: RE: [EXTERNAL] Focus Group Questionnaire \nDate: Thu, 23"
+      },
+      {
+        "name": "Questionnaire \nDate",
+        "role": "extracted",
+        "context": "t: RE: [EXTERNAL] Focus Group Questionnaire \nDate: Thu, 23 Sep 2021 15:19:03 +0"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "ack to (attached) is final. \n Original Message \nFrom: \nSent: Thursday, Septe"
+      },
+      {
+        "name": "Questionnaire \nHi",
+        "role": "extracted",
+        "context": "t: RE: [EXTERNAL] Focus Group Questionnaire \nHi M, \nCertainly, will do. Arc t"
+      },
+      {
+        "name": "Questionnaire \nHello",
+        "role": "extracted",
+        "context": "t: Re: [EXTERNAL] Focus Group Questionnaire \nHello—\nI have made the changes to t"
+      },
+      {
+        "name": "The Jury",
+        "role": "extracted",
+        "context": "ionnaire that you requested. \nThe Jury Instructions are ready to pri"
+      },
+      {
+        "name": "The Verdict",
+        "role": "extracted",
+        "context": "the focus group on Saturday. \nThe Verdict Questions are printed at the"
+      },
+      {
+        "name": "On Sep",
+        "role": "extracted",
+        "context": "to refer to? \nEFTA00027576\n\n> On Sep 21, 2021, at 11:05 AM, Echenb"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-09-23",
+        "event": "September 23, 2021"
+      },
+      {
+        "date": "2021-09-22",
+        "event": "September 22, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.571Z"
+}

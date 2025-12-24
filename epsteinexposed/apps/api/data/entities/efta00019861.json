@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00019861",
+    "filename": "EFTA00019861.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019861.pdf",
+    "text": "\n\nFrom \nCc\nop.gov> \nSubject Epstein \nDate: Tue, 13 Aug 2019 11:53:30 +0000 \nGood morning all, \nDo you have records from his prior incarceration? Do you have a contact for his prior facility or the USAO in Florida? I have \nbeen asked to track down certain documentation in reference thereto in relation to the various investigations into the \nincident this past weekend. \nThank you, \nSupervisory Staff Attorney \nCLC New York \nMetropolitan Correctional Center \n150 Park Row \nNew York, New York 10007 \nEFTA00019861",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nCc",
+        "role": "extracted",
+        "context": "From \nCc\nop.gov> \nSubject Epstein \nDat"
+      },
+      {
+        "name": "Subject Epstein",
+        "role": "extracted",
+        "context": "From \nCc\nop.gov> \nSubject Epstein \nDate: Tue, 13 Aug 2019 11:53"
+      },
+      {
+        "name": "Supervisory Staff",
+        "role": "extracted",
+        "context": "is past weekend. \nThank you, \nSupervisory Staff Attorney \nCLC New York \nMetro"
+      },
+      {
+        "name": "Metropolitan Correctional",
+        "role": "extracted",
+        "context": "Staff Attorney \nCLC New York \nMetropolitan Correctional Center \n150 Park Row \nNew Yor"
+      },
+      {
+        "name": "Park Row",
+        "role": "extracted",
+        "context": "itan Correctional Center \n150 Park Row \nNew York, New York 10007 \nEF"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.723Z"
+}

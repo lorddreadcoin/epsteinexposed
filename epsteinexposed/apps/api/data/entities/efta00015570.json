@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00015570",
+    "filename": "EFTA00015570.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015570.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Epstein cars current registrations \nDate: Thu, 04 Jul 2019 01:34:21 +0000 \nImportance: Normal \nYukon 2015 \nSuburban 2019 \nSuburban 2016 \nSuburban 2018 \nExpress 2017 \nBentley 2017 \nSuburban 2016 \nEscalade 2012 \n2010 Suburba \n2015 Suburban \n2013 Expedition \n2008 Range Rover \n2007 Hummer II \n2002 Benz 500 \n2010 Suburban • \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00015570",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nYukon",
+        "role": "extracted",
+        "context": "9 01:34:21 +0000 \nImportance: Normal \nYukon 2015 \nSuburban 2019 \nSuburban"
+      },
+      {
+        "name": "Range Rover",
+        "role": "extracted",
+        "context": "burban \n2013 Expedition \n2008 Range Rover \n2007 Hummer II \n2002 Benz 50"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "10 Suburban • \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.997Z"
+}

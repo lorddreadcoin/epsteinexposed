@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00013967",
+    "filename": "EFTA00013967.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013967.pdf",
+    "text": "\n\nFrom• \nFBI)\" ca \nTo: (USAFLS)\" \nSubject: Epstein \nDate: Fri, 13 Jun 2008 17:05:14 +0000 \nImportance: Normal \nHow did the conf call go! Sony couldn't wait longer! \nEFTA00013967",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "\" ca \nTo: (USAFLS)\" \nSubject: Epstein \nDate: Fri, 13 Jun 2008 17:05:14 +0"
+      },
+      {
+        "name": "Normal \nHow",
+        "role": "extracted",
+        "context": "8 17:05:14 +0000 \nImportance: Normal \nHow did the conf call go! Sony co"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.841Z"
+}

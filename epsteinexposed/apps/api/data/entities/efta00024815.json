@@ -1,0 +1,64 @@
+{
+  "document": {
+    "id": "efta00024815",
+    "filename": "EFTA00024815.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024815.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo:'\nSubject: RE: Agenda \nDate: Fri, 06 Nov 2020 20:03:36 +0000 \nSame here, thank you. And thanks for the agenda! \nFrom: \nSent: Friday, November 06, 2020 2:16 PM \nTo: \n1\nsr-\n> \nCc: (USANYS) \nSubject: RE: Agenda \ncla \nI'm open other than the two calls we have on the calendar for this case. \nFrom: \nSent: Friday, November 6, 2020 2:13 PM \nTo: \n) `c\n> \nCc: (USANYS) \nSubject: Re: Agenda \nWhat time works for everyone on Wednesday afternoon? \nSent from my iPhone \nOn Nov 6, 2020, at 2:12 PM, wrote: \nThanks very much, This all looks right to me and makes sense. If we are pushing this past Monday, I'd ask that it \nbe Wednesday afternoon, or anytime Thursday, please. I've got a lengthy grand jury presentation to make on Tuesday. \nFrom: \nSent: Friday, November 6, 2020 2:09 PM \nTo: \nSubject: Agenda \nTeam, \n> \n(USANYS) \nIn preparation for our call (which we can reschedule to a time following the discovery deadline), I wanted to send \naround a list of topics to discuss for potential next steps. I'm sure I've missed some items, but this is a starting point at a \nleast. \nFor context, I think we currently expect to call at least the following witnesses at trial: \nEFTA00024815\n\n• *Records custodian from \n• *Records custodian from \n• *Court reporter(s) from \n*We haven't identified/spoken to these witnesses yet, so that's on the trial prep to-do list as well. \nThe following are some potential next steps —  either individuals to interview or re-interview, records to search \nfor/identify, and so forth. \n• Relativity review of GM emails \n• Identify an employee (likely retired) who managed donor relations with Epstein/can authenticate \ndocuments \n• Identify a PBPD detective who can authenticate items recovered from search of PB house \n• Talk to Lo make sure has searched all her emails for relevant communications \n• Potentially \ninterview \nclient \n• Potentially re-interview \n• Meet with \n• Interview \n• Interview \n• Interview \n• Re-interview \n• Interview \n• Review victim interview notes and interview any outcry witnesses we haven't spoken to yet, including \n• Interview \n• Investigate immigration records/travel records re: \n• Re-interview (with counsel) \n• Interview \n• Review deposition transcripts for GM (keeping in mind SOL is approaching) \n• Tip-line leads that flagged \nAssistant United States Attorney \nSouthern District of New York \nEFTA00024816",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Agenda \nDate",
+        "role": "extracted",
+        "context": "(USANYS)\"  \nTo:'\nSubject: RE: Agenda \nDate: Fri, 06 Nov 2020 20:03:36 +0"
+      },
+      {
+        "name": "Agenda \nWhat",
+        "role": "extracted",
+        "context": "> \nCc: (USANYS) \nSubject: Re: Agenda \nWhat time works for everyone on We"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "day afternoon? \nSent from my iPhone \nOn Nov 6, 2020, at 2:12 PM, wrot"
+      },
+      {
+        "name": "Agenda \nTeam",
+        "role": "extracted",
+        "context": ", 2020 2:09 PM \nTo: \nSubject: Agenda \nTeam, \n> \n(USANYS) \nIn preparation"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "Tip-line leads that flagged \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "hat flagged \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00024816"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-11-06",
+        "event": "November 06, 2020"
+      },
+      {
+        "date": "2020-11-06",
+        "event": "November 6, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.886Z"
+}

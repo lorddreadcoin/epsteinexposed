@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030174",
+    "filename": "EFTA00030174.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030174.pdf",
+    "text": "\n\nFrom \nTo \nSubject: RE: Epstein \nDate: Sun, 07 Jul 2019 15:55:25 +0000 \nImportance: Normal \nthanks man ) \nFrom: \nSen • \nTo: \nSub . \nCongrats! \nSent from my iPhone \nOn Jul \n7, 2019, at 11:12 AM, \nit is indeed \nFrom:\nwrote: \nSent: Sunday, July 07. 201910:45 \nTo: \nSu ject. Epstein \nI assume this is you? \nhttps://www.go_ggle.corn/amp/s/www.nytimes.corn/2019/07/06/nyngion/jeffrey-epstein-arrested-sex-\ntrafficking.amp.html \nSent from my iPhone \nEFTA00030174",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From \nTo \nSubject: RE: Epstein \nDate: Sun, 07 Jul 2019 15:55:25 +0"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "b . \nCongrats! \nSent from my iPhone \nOn Jul \n7, 2019, at 11:12 AM, \ni"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.181Z"
+}

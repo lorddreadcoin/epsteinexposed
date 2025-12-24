@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00026802",
+    "filename": "EFTA00026802.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00026802.pdf",
+    "text": "\n\nFrom: \"-N. (NY) (FBI)\" \nTo: aa, \nCc: air> \n' \nSubject: GM investigation \nDate: Wed, 26 Feb 2020 18:44:19 +0000 \nAttachments: 20200225_220138.jpg; 20200225_220146.jpg; 20200225_220156.jpg; \n20200225 220217.jpg \nnotes attached. I  had to take pictures since I  have not been able to scan them. So they're coming in a \ncouple emails. Here's the first 4 pages \nOn Feb 24, 2020 9:28 AM, ' \nHi =and \nwrote: \nIn connection with the Maxwell investigation, I know this is a travel week, but if at all possible, are you able to assist with \nthe following? It would be great to get some of these in motion this week: \n1) Are you able to spend some time reviewing the message pads seized from Epstein's residence, to search for any \nmessages left by (or regarding) any of the individuals relating to the GM case? In particular, it would be helpful to \nknow if there are messages relating to: \n2) I recognize that we do not have a complete picture of Maxwell's current finances. I don't think it makes sense to \nrequest additional financial information, but it would be helpful to have a snapshot of what we already know \nabout her current assets. In addition, it would be helpful to know if there are any significant transfers from \nEpstein's account to Maxwell since 2005. Along the same line, a check for more recent alerts in FinCEN would be \nhelpful. \n3) On the topic of assets, can you tell us what properties Maxwell currently owns? \n4) Could you please send us the current tracking document for the hotline? It would be helpful for us to check \nthrough the leads regarding Maxwell. \n5) I think we emailed about this last month, but can you let us know how you know that she has UK and French \ncitizenship? \n6) Could you please send us the notes from the interview? \nThanks in advance, and sorry to pile on, I know everyone is busy. \nEFTA00026802\n\nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00026803",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On Feb",
+        "role": "extracted",
+        "context": "ls. Here's the first 4 pages \nOn Feb 24, 2020 9:28 AM, ' \nHi =and"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ryone is busy. \nEFTA00026802\n\nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "FTA00026802\n\nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00026803"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:16.874Z"
+}

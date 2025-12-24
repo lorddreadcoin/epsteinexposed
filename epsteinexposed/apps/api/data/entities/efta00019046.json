@@ -1,0 +1,55 @@
+{
+  "document": {
+    "id": "efta00019046",
+    "filename": "EFTA00019046.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019046.pdf",
+    "text": "\n\nFrom: ' \n< \nTo: rrSANYS\" \nSubject: FW: 404(b) \nnotice \nDate: Fri, 08 Oct 2021 19:49:11 +0000 \nAttachments: 2021.10.11_Maxwell_Rule_404(b)_letternTAWIE.docx \nFrom: (USANYS) \n<\nSent: Friday, October 8, 2021 3:40 PM \nTo: \nIc\"; \nCc: (USANYS) \nSubject: RE: 404(b) notice \nHere is one comment from me and Janis. \nFrom: \nl\nSent: Friday, October 8, 2021 2MI \nCc: \n>; \n(USANYS) >; \n<M\n> \n(USANYS) < \nsta \n(USANYS) <IM\nME> \n-)<\nSubject: 404(b) notice \nChiefs, \nAttached for your review is the draft of our Rule 404(b) letter. It's due on Monday. \nThanks, \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 100. \nEFTA00019046",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "It's due on Monday. \nThanks, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "y. \nThanks, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 100. \nEFTA00019046"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-10-08",
+        "event": "October 8, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.178Z"
+}

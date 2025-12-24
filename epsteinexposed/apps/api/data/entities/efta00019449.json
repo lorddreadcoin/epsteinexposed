@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019449",
+    "filename": "EFTA00019449.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019449.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: US v. Maxwell, 20 Cr. \n330 (MN) \nDate: Sat, 20 Nov 2021 04:35:55 +0000 \nAttachments: 2021.11.18_Voir Diredproposed_redactions].pdf; \n2021.11.16_Voir Diredproposed_redactions].pdf; \n2021.11.17_Voir_Diredproposed_redactions].pdf \nChambers, \nAttached please find proposed redactions to the transcripts of voir dire. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern District of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA00019449",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Voir Diredproposed",
+        "role": "extracted",
+        "context": "0000 \nAttachments: 2021.11.18_Voir Diredproposed_redactions].pdf; \n2021.11.16_"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "re. \nRespectfully submitted, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "submitted, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \n1 Saint Andrews"
+      },
+      {
+        "name": "Saint Andrews",
+        "role": "extracted",
+        "context": "thern District of New York \n1 Saint Andrews Plaza \nNew York, New York 100"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \n1 Saint Andrews Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.916Z"
+}

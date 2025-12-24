@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00027391",
+    "filename": "EFTA00027391.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027391.pdf",
+    "text": "\n\nFrom: \" \nTo:' \nCc: \nSubject: Fact Witness Travel Request \nDate: Mon. 02 Aug 2021 13:50:01 +0000 \nAttachments: Fact_ Witness_Travel_Request.dotx _ \nHi \nAttached please find a request for to travel to SDNY for trial prep with me this month. I'll need to meet \nwith him on August 17th at 2pm and August 18th at loam. \nThanks so much, \nEFTA00027391",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "From: \" \nTo:' \nCc: \nSubject: Fact Witness Travel Request \nDate: Mon. 02"
+      },
+      {
+        "name": "Travel Request",
+        "role": "extracted",
+        "context": "' \nCc: \nSubject: Fact Witness Travel Request \nDate: Mon. 02 Aug 2021 13:50"
+      },
+      {
+        "name": "Hi \nAttached",
+        "role": "extracted",
+        "context": "itness_Travel_Request.dotx _ \nHi \nAttached please find a request for to"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.166Z"
+}

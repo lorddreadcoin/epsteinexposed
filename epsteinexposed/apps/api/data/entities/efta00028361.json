@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00028361",
+    "filename": "EFTA00028361.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00028361.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Epstein \nDate: Wed, 10 Jul 2019 20:54:19 +0000 \nImportance: Normal \nJust go this \nemail. \nFrom: Joseph \nWalsh \n<\nSent: Wednesday, July 10, 2019 4:51 PM \nTo: \nSubject: Epstein \nIs Former U.S. Attny'. Joyce Vance correct in saying because there is no statute of limitations w/ these crimes; \nthere is no limitation on the Obstruction of \nJustice \ntenets of the case as well.' ? Thanks, jw \nhttps://www.amazon.com/dp/1983209848/ref=sr_1_2?s=books&ie=UTF8&qid=1529548656&sr=1-\n2&keywords=11%2F1l+-+Retributionthlos.+R.+Walsh \nEFTA00028361",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Epstein \nDate: Wed, 10 Jul 2019 20:54:19 +0"
+      },
+      {
+        "name": "Normal \nJust",
+        "role": "extracted",
+        "context": "9 20:54:19 +0000 \nImportance: Normal \nJust go this \nemail. \nFrom: Joseph"
+      },
+      {
+        "name": "Joseph \nWalsh",
+        "role": "extracted",
+        "context": "Just go this \nemail. \nFrom: Joseph \nWalsh \n<\nSent: Wednesday, July 10,"
+      },
+      {
+        "name": "Epstein \nIs",
+        "role": "extracted",
+        "context": ", 2019 4:51 PM \nTo: \nSubject: Epstein \nIs Former U.S. Attny'. Joyce Van"
+      },
+      {
+        "name": "Joyce Vance",
+        "role": "extracted",
+        "context": "stein \nIs Former U.S. Attny'. Joyce Vance correct in saying because the"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-10",
+        "event": "July 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "1983209848",
+      "1529548656"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:20.097Z"
+}

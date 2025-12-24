@@ -1,0 +1,85 @@
+{
+  "document": {
+    "id": "efta00017740",
+    "filename": "EFTA00017740.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00017740.pdf",
+    "text": "\n\nFrom: \nTo \nCc: \n\" < \n>, I\nSubject: RE: Jeffrey Epstein/Ghislaine Maxwell/FOIA \nDate: Thu, 11 Mar 2021 15:50:27 +0000 \nI am working with EOUSA presently and should have an answer \nshortly. \nFOIA \nOffice \nPh:\nCell \nFrom: \nSent: Wednesday, March 10, 2021 5:44 PM \nTo: \n) < \nCc: \nSubject: RE: Jeffrey Epstein/Ghislaine Maxwell/FOIA \nOh, sorry: our FOIA Tracking Database is designed to cover FOIA requests that are directed to our Office; it \ndoes not track FOIA requests to, e.g., the FBI, that end up in litigation in the SDNY and that our Civ Div \ndefends. \nFrom: \nSent: Wednesday, March 10, 2021 5:40 PM \nTo: \nCc: \n) < \n5=> \nSubject: RE: Jeffrey Epstein/Ghislaine Maxwell/FOIA \nThanks,= could you please check your records and let us know if there are any other cases? FromEs list, it \nseems like at least one case is missing (there is a civil case involving a FOIA request from Radar Online). \nFrom: \nSent: Wednesday, March 10, 2021 5:23 PM \nTo: \nCc: \nSubject: RE: Jeffrey Epstein/Ghislaine Maxwell/FOIA \n• \n(USANYS) \nAs we \njust discussed: \nHere is what we have in our FOIA tracking database regarding Epstein FOlAs. \nAnd also attached is the letter in PPI about discovery vs FOIA (see p. 8) \nFrom: \nSent: Wednesday, March 10, 2021 5:20 PM \nTo: \nCc: \n < \n >; \nEFTA00017740\n\nSubject: Jeffrey Epstein/Ghislaine Maxwell/FOIA \nHope you're doing well. Maurene and Lara and I are trying to assemble a list of eve FOIA request our office has ever \nreceived (at any point) relating to Jeffrey Epstein and/or Ghislaine Maxwell. suggested that you'd be the \nbest point of contact to help us figure this out. Could you please send us the following information: \n•  A list of all FOIA requests our office has received; \n•  For each case, whether a production was made in response to the request; and \n•  Who the AUSA point of contact for the request is. \nThat would be a big help. Please let us know if you need any information from us to run the search. \nThanks very much, \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00017741",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: \n\" < \n>, I\nSubject: RE: Jeffrey Epstein/Ghislaine Maxwell/FOIA \nDate: Thu, 11 Mar 2021 15"
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "To \nCc: \n\" < \n>, I\nSubject: RE: Jeffrey Epstein/Ghislaine Maxwell/FOIA \nDate: Thu, 11 Mar 2021 15:50:27 +0000 \nI am"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "From: \nTo \nCc: \n\" < \n>, I\nSubject: RE: Jeff"
+      },
+      {
+        "name": "Office \nPh",
+        "role": "extracted",
+        "context": "ve an answer \nshortly. \nFOIA \nOffice \nPh:\nCell \nFrom: \nSent: Wednesday"
+      },
+      {
+        "name": "Cell \nFrom",
+        "role": "extracted",
+        "context": "shortly. \nFOIA \nOffice \nPh:\nCell \nFrom: \nSent: Wednesday, March 10,"
+      },
+      {
+        "name": "Tracking Database",
+        "role": "extracted",
+        "context": "ell/FOIA \nOh, sorry: our FOIA Tracking Database is designed to cover FOIA req"
+      },
+      {
+        "name": "Civ Div",
+        "role": "extracted",
+        "context": "tion in the SDNY and that our Civ Div \ndefends. \nFrom: \nSent: Wedne"
+      },
+      {
+        "name": "Radar Online",
+        "role": "extracted",
+        "context": "involving a FOIA request from Radar Online). \nFrom: \nSent: Wednesday, Ma"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "e search. \nThanks very much, \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "very much, \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-03-10",
+        "event": "March 10, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.498Z"
+}

@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00029810",
+    "filename": "EFTA00029810.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029810.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Mon, 29 Jun 2020 22:49:54 +0000 \nSony, I've been jammed. If you want, I can probably look at something after this Thursday. \nFrom: (USANYS)<> \nSent: Monday, June 29, 2020 2:24 PM \nTo: \nCc: \nSubject: :  pstem \n5) \nSANYS) <LFogelman@usa.doj.gov> \nOkay, I've never done anything like this. Anything I can look at? \nFrom: McEnany, John (USANYS) < \nSent: Monday, June 29, 2020 2:14 PM \nTo: (USANYS) \nCc: Fogelman, Lawrence (USANYS) <LFogelman@usa.doj,gov> \nSubject: RE: Epstein \nYes. We need to apply for a new order with an application that would discuss why we need to disclose; privacy \nconcerns; potential protective orders; should we give notice to the people we got the trust agreements from (and \nif not why not), etc. \nFrom: (USANYS)\nSent: Monday, June 29, 2020 2:05 PM \nTo: \nCc: \nSubject: FW: Epstein \nNYS) <LFogelman@usa.doj,gov>\nThis is the original order, which does seem to suggest we need \"further order of the court\" to further disclose. \nFrom: (USANYS) \nSent: Wednesday, January 29, 2020 9:33 AM \nTo: \nSubject: Epstein \nWill come by in a  second. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA00029810",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Epstein \nDate: Mon, 29 Jun 2020 22:49:54 +0"
+      },
+      {
+        "name": "Epstein \nYes",
+        "role": "extracted",
+        "context": "an@usa.doj,gov> \nSubject: RE: Epstein \nYes. We need to apply for a new o"
+      },
+      {
+        "name": "Epstein \nWill",
+        "role": "extracted",
+        "context": ", 2020 9:33 AM \nTo: \nSubject: Epstein \nWill come by in a  second. \nCo-Chi"
+      },
+      {
+        "name": "Public Corruption",
+        "role": "extracted",
+        "context": "e by in a  second. \nCo-Chief, Public Corruption Unit \nU.S. Attorney's Office"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "S. Attorney's Office for the \nSouthern District of New York \nTel. \nEFTA000298"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      },
+      {
+        "date": "2020-01-29",
+        "event": "January 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:24.281Z"
+}

@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00018653",
+    "filename": "EFTA00018653.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018653.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: RE: Jeffrey Epstein: About the sex trafficking case & accusations F Miami Herald \nDate: Sat, 01 Dec 2018 00:11:38 +0000 \nImportance: Normal \nIs it staffed already? \n \nOriginal Message \nFrom: \nSent: Frida \nTo: \nCc: \nSubject: Re: Jeffrey Epstein: About the sex trafficking case & accusations j  Miami Herald \nNovember 30, 2018 7:06 PM \nYes. As of today. On the d/1 for now. \nSent from my iPhone \n> On \nNov 30, 2018, at 6:56 PM, \n> Are we open on this? Can we be? \n> https://vvvvvv.miamiherald.cotn/news/local/article220097825.html \note: \nEFTA00018653",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nCc: \nSubject: RE: Jeffrey Epstein: About the sex trafficking case & accusations F M"
+      },
+      {
+        "name": "Miami Herald",
+        "role": "extracted",
+        "context": "fficking case & accusations F Miami Herald \nDate: Sat, 01 Dec 2018 00:11"
+      },
+      {
+        "name": "Normal \nIs",
+        "role": "extracted",
+        "context": "8 00:11:38 +0000 \nImportance: Normal \nIs it staffed already? \n \nOrigin"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "al \nIs it staffed already? \n \nOriginal Message \nFrom: \nSent: Frida \nTo: \nCc:"
+      },
+      {
+        "name": "Frida \nTo",
+        "role": "extracted",
+        "context": "riginal Message \nFrom: \nSent: Frida \nTo: \nCc: \nSubject: Re: Jeffrey E"
+      },
+      {
+        "name": "On \nNov",
+        "role": "extracted",
+        "context": "now. \nSent from my iPhone \n> On \nNov 30, 2018, at 6:56 PM, \n> Are"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Miami",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2018-11-30",
+        "event": "November 30, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:57.395Z"
+}

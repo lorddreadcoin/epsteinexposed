@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00019325",
+    "filename": "EFTA00019325.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019325.pdf",
+    "text": "\n\nFrom: (USANYS)\" clIMIIM> \nTo \nUSANYS\" \n \ncMIMIIM>, \nSubject: TC with USM re Epstein \nDate: Mon, 19 Aug 2019 19:48:34 +0000 \n(USANYS)\" \nI spoke with-. There is no \"suicidal tendencies\" form that the USM have or would have made Epstein sign. \nShe reviewed USM's entire Epstein file and other than the standard intake documents, it contained copies of his DL and \ninsurance cards and credit card. There were no other forms. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00019325",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "IM>, \nSubject: TC with USM re Epstein \nDate: Mon, 19 Aug 2019 19:48:34 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": ". There were no other forms. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ther forms. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00019325"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.683Z"
+}

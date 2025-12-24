@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024515",
+    "filename": "EFTA00024515.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024515.pdf",
+    "text": "\n\nFrom: ' \nSubject: Page Six: Ghislaine Maxwell's powerful contacts protecting her in safe houses \nDate: Thu, 02 Jan 2020 18:29:09 +0000 \nhttps://pagesix.com/2020/01/01/ghislaine-maxwells-powerful-contacts-protecting-her-in-safe-houses/ \nI'm sure you've seen this already. Totally just FWIW — NBC has heard that she's staying in Colorado with wealthy ex-\nassociates of Epstein. \nPublic \nAffairs \nUnited States Department of Justice \nU.S. Attorney's Office [ Southern District of New York \nMobile: \nEFTA00024515",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: ' \nSubject: Page Six: Ghislaine Maxwell's powerful contacts protecting her in safe houses"
+      },
+      {
+        "name": "Page Six",
+        "role": "extracted",
+        "context": "From: ' \nSubject: Page Six: Ghislaine Maxwell's powerful"
+      },
+      {
+        "name": "Public \nAffairs",
+        "role": "extracted",
+        "context": "y ex-\nassociates of Epstein. \nPublic \nAffairs \nUnited States Department of"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "ice \nU.S. Attorney's Office [ Southern District of New York \nMobile: \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.309Z"
+}

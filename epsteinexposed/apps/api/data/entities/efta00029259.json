@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00029259",
+    "filename": "EFTA00029259.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029259.pdf",
+    "text": "\n\nFrom: \nTo: \nCc: \nSubject: Jimenez 302 \nDate: Tue, 03 Sep 2019 13:30:13 +0000 \nImportance: Normal \nAttachments: Jimenez_302.pdf \nPlease see attached. We have no issues with this being produced to the defense, but do you have a  protective order in \nyour case? Thanks. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00029259",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 13:30:13 +0000 \nImportance: Normal \nAttachments: Jimenez_302.pdf \nPlease see"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "order in \nyour case? Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "se? Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00029259"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.111Z"
+}

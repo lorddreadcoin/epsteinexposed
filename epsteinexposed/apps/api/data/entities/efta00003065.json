@@ -1,0 +1,100 @@
+{
+  "document": {
+    "id": "efta00003065",
+    "filename": "EFTA00003065.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003065.pdf",
+    "text": "\n\nas\nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nLSJE, \nLLC \n6100 \nRed \nI \nlook \nQuarters, \nSuite \n13-3, \nSt. \nThomas, \nVI \n00802-1348 \nPhone: \nE-mail: \nthesaintjames.group@gmail.com \n1\n10/21/18 \nPeter \nSt \nOmer \nOperator \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nCurrent \nMedications: \nDoctor's \nName: \nDoctors \nName: \nN/A \nIn \ncase \nof \nemergency, \nplease \ncontact \nName: \nName: \nkishma \n'Demers \nEmergency \nContact \nForm \nRelationship: \nRelationship: \nFriend \n!Son \nStart \nDate: \nDate \nof \nBirth: \nPhone \n(other): \nMarital \nStatus: \nDriver's \nlicense \nNo: \nDoctors \nPhone: \nDoctor's \nPhone: \n!Married \nPhone: \nPhone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nUnknown \nEFTA00003065",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "as\nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing"
+      },
+      {
+        "name": "Physical \nAddress",
+        "role": "extracted",
+        "context": "ay's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPh"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "e \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitl"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "Address: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nL"
+      },
+      {
+        "name": "Peter \nSt",
+        "role": "extracted",
+        "context": ".group@gmail.com \n1\n10/21/18 \nPeter \nSt \nOmer \nOperator \nAllergies \no"
+      },
+      {
+        "name": "Omer \nOperator",
+        "role": "extracted",
+        "context": "l.com \n1\n10/21/18 \nPeter \nSt \nOmer \nOperator \nAllergies \nor \nHealth \nConce"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "mer \nOperator \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nCurrent \nMedi"
+      },
+      {
+        "name": "Current \nMedications",
+        "role": "extracted",
+        "context": "lth \nConcerns: \nBlood \ntype: \nCurrent \nMedications: \nDoctor's \nName: \nDoctors \nN"
+      },
+      {
+        "name": "Doctors \nName",
+        "role": "extracted",
+        "context": "edications: \nDoctor's \nName: \nDoctors \nName: \nN/A \nIn \ncase \nof \nemergenc"
+      },
+      {
+        "name": "Demers \nEmergency",
+        "role": "extracted",
+        "context": "ntact \nName: \nName: \nkishma \n'Demers \nEmergency \nContact \nForm \nRelationship:"
+      },
+      {
+        "name": "Contact \nForm",
+        "role": "extracted",
+        "context": "kishma \n'Demers \nEmergency \nContact \nForm \nRelationship: \nRelationship:"
+      },
+      {
+        "name": "Son \nStart",
+        "role": "extracted",
+        "context": "hip: \nRelationship: \nFriend \n!Son \nStart \nDate: \nDate \nof \nBirth: \nPho"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "of \nBirth: \nPhone \n(other): \nMarital \nStatus: \nDriver's \nlicense \nNo: \nDoc"
+      },
+      {
+        "name": "Doctors \nPhone",
+        "role": "extracted",
+        "context": "tus: \nDriver's \nlicense \nNo: \nDoctors \nPhone: \nDoctor's \nPhone: \n!Married"
+      },
+      {
+        "name": "Married \nPhone",
+        "role": "extracted",
+        "context": "s \nPhone: \nDoctor's \nPhone: \n!Married \nPhone: \nPhone: \nThis \ninformation"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.652Z"
+}

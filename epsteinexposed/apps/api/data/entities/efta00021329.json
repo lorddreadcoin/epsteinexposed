@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00021329",
+    "filename": "EFTA00021329.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021329.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Jeffrey Epstein's UES Mansion; 270 Park Renderings; Brookfield's 666 Fifth Avenue Reno \nDate: Tue, 15 Oct 2019 23:21:54 +0000 \nhttps://therealdeal.com/2019/10/15/brook field-kicks-off-666-fi fth-rehab-jeffrey-epsteins-manse-could-soon-hit-\nmarket-daily-digest/ \nIf this is true, it would be inconsistent with what they represented to us. \nSent from my iPhone \nEFTA00021329",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Jeffrey Epstein's UES Mansion; 270 Park Renderings; Brookfield's"
+      },
+      {
+        "name": "Park Renderings",
+        "role": "extracted",
+        "context": "ey Epstein's UES Mansion; 270 Park Renderings; Brookfield's 666 Fifth Avenu"
+      },
+      {
+        "name": "Fifth Avenue",
+        "role": "extracted",
+        "context": "Renderings; Brookfield's 666 Fifth Avenue Reno \nDate: Tue, 15 Oct 2019"
+      },
+      {
+        "name": "Reno \nDate",
+        "role": "extracted",
+        "context": "Brookfield's 666 Fifth Avenue Reno \nDate: Tue, 15 Oct 2019 23:21:54 +0"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.438Z"
+}

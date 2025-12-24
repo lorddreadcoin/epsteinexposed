@@ -1,0 +1,69 @@
+{
+  "document": {
+    "id": "efta00011349",
+    "filename": "EFTA00011349.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011349.pdf",
+    "text": "\n\nFrom: \nTo:'\nSubject: RE: Call \nDate: Wed, 22 Sep 2021 03:54:20 +0000 \nInline-Images: image001.jpg: image002.jpg; image005.jpg \nHi \nI checked with the public corruption supervisors and, at least based on what we know now, we don't intend to move \nforward with criminal charges on any of the people you mentioned on the call, so you should go ahead with your \ninterviews. \nFrom: \nSent: Monday, September 20, 2021 1:11 PM \nTo: \nSubject: RE: Call \nCan we do 1:30 pm today? \nSpecial \nAgent== \nU.S. Department of Justice • Office of the Inspector General • New York Field Office \nNew York, NY 10004 \nFrom: \nSent: Monday, September 20, 2021 12:38 PM \nTo: \nSubject: RE: Call \nHi —  Want to talk today? When are you free? \nFrom: \nSent: Thursday, September 16, 2021 9:15 AM \nTo: \nSubject: Call \nGood Morning M, \nPlease let me know if you have a few minutes to speak with myself and SSA \nThank you. \nSpecial \nAgent \nU.S. Department of Justice • Office of the Inspector General • New York Field Office \nNew York, NY 10004 \nregarding the Epstein case. \nEFTA00011349\n\nEFTA00011350",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Call \nDate",
+        "role": "extracted",
+        "context": "From: \nTo:'\nSubject: RE: Call \nDate: Wed, 22 Sep 2021 03:54:20 +0"
+      },
+      {
+        "name": "Call \nCan",
+        "role": "extracted",
+        "context": "21 1:11 PM \nTo: \nSubject: RE: Call \nCan we do 1:30 pm today? \nSpecial"
+      },
+      {
+        "name": "Special \nAgent",
+        "role": "extracted",
+        "context": "ll \nCan we do 1:30 pm today? \nSpecial \nAgent== \nU.S. Department of Justice"
+      },
+      {
+        "name": "Inspector General",
+        "role": "extracted",
+        "context": "nt of Justice • Office of the Inspector General • New York Field Office \nNew"
+      },
+      {
+        "name": "Field Office",
+        "role": "extracted",
+        "context": "Inspector General • New York Field Office \nNew York, NY 10004 \nFrom: \nS"
+      },
+      {
+        "name": "Call \nHi",
+        "role": "extracted",
+        "context": "1 12:38 PM \nTo: \nSubject: RE: Call \nHi —  Want to talk today? When a"
+      },
+      {
+        "name": "Call \nGood",
+        "role": "extracted",
+        "context": ", 2021 9:15 AM \nTo: \nSubject: Call \nGood Morning M, \nPlease let me kno"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-20",
+        "event": "September 20, 2021"
+      },
+      {
+        "date": "2021-09-16",
+        "event": "September 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.458Z"
+}

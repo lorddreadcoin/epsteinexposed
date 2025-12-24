@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00029523",
+    "filename": "EFTA00029523.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029523.pdf",
+    "text": "\n\nFrom: ' (USANYS)\"  \nTo: '  (NY) (FBI)\"  \nSubject: RE: Epstein \nDate: Wed, 10 Jul 2019 15:41:13 -4)000 \nImportance: Normal \nJust tried you. Am at my desk: or, failing that, cell is \nFrom: (NY) (FBI) <> \nSent: Wednesday, July 10, 2019 11:30 AM \nTo: (USANYS) \nSubject: Re: Epstein \nGood morning M, \nCan you give me a call when you have a second? \nThank you \nOn Jul 2, 2019 3:58 PM, ' (USANYS)\" < \n> \nwrote: \nHey —  Quick follow up to yesterday's meeting. Let me know if you have a few minutes for a call this afternoon. \nThanks, \nEFTA00029523",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "'  (NY) (FBI)\"  \nSubject: RE: Epstein \nDate: Wed, 10 Jul 2019 15:41:13 -4"
+      },
+      {
+        "name": "Normal \nJust",
+        "role": "extracted",
+        "context": "15:41:13 -4)000 \nImportance: Normal \nJust tried you. Am at my desk: or,"
+      },
+      {
+        "name": "Epstein \nGood",
+        "role": "extracted",
+        "context": "M \nTo: (USANYS) \nSubject: Re: Epstein \nGood morning M, \nCan you give me a"
+      },
+      {
+        "name": "On Jul",
+        "role": "extracted",
+        "context": "ou have a second? \nThank you \nOn Jul 2, 2019 3:58 PM, ' (USANYS)\""
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-10",
+        "event": "July 10, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.591Z"
+}

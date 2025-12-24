@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00030831",
+    "filename": "EFTA00030831.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030831.pdf",
+    "text": "\n\nFrom: ' )\"  \nTo: ' (USANYS)\"  \nSubject: RE: Epstein Bail Letter \nDate: Wed, 10 Jul 2019 00:22:49 +0000 \nImportance: Normal \nAttachments: 2019-07-08,JE,Jetentionmemo,finaLdocx \nHere you go! \nFrom: (USANYS) \nSent: Tuesday, July 9, 2019 4:44 PM \nTo: \nSubject: Epstein Bail Letter \nC \nCould you send me a word doc of you bail letter in Epstein? I am preparing a written detention app based on risk of flight \nand would love to crib some of your case law/rhetoric. Thanks!!! \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nEFTA00030831",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Bail",
+        "role": "extracted",
+        "context": "o: ' (USANYS)\"  \nSubject: RE: Epstein Bail Letter \nDate: Wed, 10 Jul 201"
+      },
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "\"  \nSubject: RE: Epstein Bail Letter \nDate: Wed, 10 Jul 2019 00:22:49 +0"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "9 00:22:49 +0000 \nImportance: Normal \nAttachments: 2019-07-08,JE,Jetentionmemo,"
+      },
+      {
+        "name": "Ldocx \nHere",
+        "role": "extracted",
+        "context": "19-07-08,JE,Jetentionmemo,finaLdocx \nHere you go! \nFrom: (USANYS) \nSent"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "case law/rhetoric. Thanks!!! \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": ". Thanks!!! \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nOne Saint Andrew"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-07-08",
+        "event": "2019-07-08"
+      },
+      {
+        "date": "2019-07-09",
+        "event": "July 9, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.765Z"
+}

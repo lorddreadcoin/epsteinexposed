@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "efta00014150",
+    "filename": "EFTA00014150.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00014150.pdf",
+    "text": "\n\nFrom: \nTo: \"RBlack \nBcc: \nSubject: Re: Epstein \nDate: Fri, 05 Dec 2008 23:25:48 +0000 \nImportance: Normal \nThank you for taking the time to meet with us yesterday. \n---- Original Message \nFrom: Roy BLACK \nTo: JLeflcovi \nCc: \nSent: Fri Dec 05 18:22:16 2008 \nSubject: Re: Epstein \nThanks for the notice= \n-----Original Message-- \nCILeflcor \nFrom \nTo: \nTo: Ro BLACK \nCc \nSent: 12/5/2008 6:17:23 PM \nSubject: Epstein \nDear Roy and Jay: \nThis afternoon Brad Edwards filed the Non-Prosecution Agreement with the Court in the Jane Does v USA case. He filed it under seal and \nthen asked the Court to unseal it. \nI  will fax his papers to you on Monday. \nEFTA00014150",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Black \nBcc",
+        "role": "extracted",
+        "context": "From: \nTo: \"RBlack \nBcc: \nSubject: Re: Epstein \nDate:"
+      },
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": ": \"RBlack \nBcc: \nSubject: Re: Epstein \nDate: Fri, 05 Dec 2008 23:25:48 +0"
+      },
+      {
+        "name": "Normal \nThank",
+        "role": "extracted",
+        "context": "8 23:25:48 +0000 \nImportance: Normal \nThank you for taking the time to me"
+      },
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": "meet with us yesterday. \n---- Original Message \nFrom: Roy BLACK \nTo: JLeflco"
+      },
+      {
+        "name": "Leflcovi \nCc",
+        "role": "extracted",
+        "context": "essage \nFrom: Roy BLACK \nTo: JLeflcovi \nCc: \nSent: Fri Dec 05 18:22:16 2"
+      },
+      {
+        "name": "Fri Dec",
+        "role": "extracted",
+        "context": "CK \nTo: JLeflcovi \nCc: \nSent: Fri Dec 05 18:22:16 2008 \nSubject: Re"
+      },
+      {
+        "name": "Epstein \nThanks",
+        "role": "extracted",
+        "context": "5 18:22:16 2008 \nSubject: Re: Epstein \nThanks for the notice= \n-----Origina"
+      },
+      {
+        "name": "Leflcor \nFrom",
+        "role": "extracted",
+        "context": "= \n-----Original Message-- \nCILeflcor \nFrom \nTo: \nTo: Ro BLACK \nCc \nSent:"
+      },
+      {
+        "name": "Cc \nSent",
+        "role": "extracted",
+        "context": "cor \nFrom \nTo: \nTo: Ro BLACK \nCc \nSent: 12/5/2008 6:17:23 PM \nSubjec"
+      },
+      {
+        "name": "Epstein \nDear",
+        "role": "extracted",
+        "context": "2/5/2008 6:17:23 PM \nSubject: Epstein \nDear Roy and Jay: \nThis afternoon"
+      },
+      {
+        "name": "Brad Edwards",
+        "role": "extracted",
+        "context": "Roy and Jay: \nThis afternoon Brad Edwards filed the Non-Prosecution Agr"
+      },
+      {
+        "name": "Prosecution Agreement",
+        "role": "extracted",
+        "context": "on Brad Edwards filed the Non-Prosecution Agreement with the Court in the Jane Do"
+      },
+      {
+        "name": "Jane Does",
+        "role": "extracted",
+        "context": "reement with the Court in the Jane Does v USA case. He filed it under"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2008-12-05",
+        "event": "12/5/2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.269Z"
+}

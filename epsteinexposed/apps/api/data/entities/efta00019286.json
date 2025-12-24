@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00019286",
+    "filename": "EFTA00019286.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019286.pdf",
+    "text": "\n\nFrom: ' \nTo: ' (USANYS)\"  \nSubject: RE: Doud trial \nDate: Fri, 18 Dec 2020 02:34:01 +0000 \nFine too. \nFrom: (USANYS) \nSent: Thursday, December 17, 2020 2:49 PM \nTo: \nSubject: RE: Doud trial \nYea that probably works. Or else sometime in the fall when covid is totally gone since Doud is old. \nFrom: \nSent: Thursday, December 17, 2020 2:31 PM \nTo: (USANYS) \nSubject: RE: Doud trial \nSo maybe we aim for a mid-July date for Doud, if defense can do it? And assuming you can still do it. \nFrom: (USANYS) < \nSent: Thursday, December 17, 2020 2:19 PM \nTo: \nSubject: RE: Doud trial \nHere's my chaotic summer schedule: \n- 5/24: U.S. v. Steve Bannon et al (3-4 weeks probably) \n- 6/21: U.S. v. Noel (MCC Epstein guards) (1 week) \n- 8/16: U.S. v. Adams (MCC guard bribery) (1 week) \n- U.S. v. Lev Parnas et al (2-3 weeks) = was scheduled for March but judge moving it to some times in August — October \n2021. I'll know in the next week or two what the date is. \nI'm not thinking I'll be able to do all of these. Doud would be top 3 trial for me but probably not #1. \nFrom: \nSent: Thursday, December 17, 2020 1:40 PM \nTo: (USANYS) \nSubject: Doud trial \nHi —  Remind me of your schedule this summer for trial. When are you first available? \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nTel: \nEFTA00019286",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Steve Bannon",
+        "role": "extracted",
+        "context": "er schedule: \n- 5/24: U.S. v. Steve Bannon et al (3-4 weeks probably) \n-"
+      },
+      {
+        "name": "Lev Parnas",
+        "role": "extracted",
+        "context": "bribery) (1 week) \n- U.S. v. Lev Parnas et al (2-3 weeks) = was sched"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "hen are you first available? \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "available? \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nTel: \nEFTA000"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-12-17",
+        "event": "December 17, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.606Z"
+}

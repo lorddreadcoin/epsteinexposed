@@ -1,0 +1,105 @@
+{
+  "document": {
+    "id": "efta00003062",
+    "filename": "EFTA00003062.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003062.pdf",
+    "text": "\n\nLSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802 \nTel: \nay. \nEmergency \nContact \nForm \nDate: \n04 \n09 \n18 \nStart \nDate: \nEmployee \nName: \nOnel \nPierresaint \nAddress: \nDate \nof \nBirth: \nPhone: \nCell: \nE\n-Mail: \nTitle \n/ \nPosition: \nMarital \nStatus: \nMarried \nLicense: \n)nergency \nInformation: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype \nuw.pe \nBlood \nType: \nCurrent \nMedication: \n \nDoctor's \nName: \nRosa' \nJosemp \nPhone: \nDoctor's \nName: \nPhone: \nIn \ncase \nof \nan \nEmergency, \nPlease \ncontact \n: \nRelationship \nS\nI\n' \nRelationship \nWife \nPhone \nFriend \nPhone \nThis \nInformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers \nEFTA00003062",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Red \nHook",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nT"
+      },
+      {
+        "name": "Quarters \nSuite",
+        "role": "extracted",
+        "context": "LSJE, \nLLC \n6100 \nRed \nHook \nQuarters \nSuite \nB-3 \nSt. \nThomas, \nVI \n00802"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "homas, \nVI \n00802 \nTel: \nay. \nEmergency \nContact \nForm \nDate: \n04 \n09 \n18 \nSta"
+      },
+      {
+        "name": "Form \nDate",
+        "role": "extracted",
+        "context": "el: \nay. \nEmergency \nContact \nForm \nDate: \n04 \n09 \n18 \nStart \nDate: \nE"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "act \nForm \nDate: \n04 \n09 \n18 \nStart \nDate: \nEmployee \nName: \nOnel \nPier"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "e: \n04 \n09 \n18 \nStart \nDate: \nEmployee \nName: \nOnel \nPierresaint \nAddress:"
+      },
+      {
+        "name": "Onel \nPierresaint",
+        "role": "extracted",
+        "context": "tart \nDate: \nEmployee \nName: \nOnel \nPierresaint \nAddress: \nDate \nof \nBirth:"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "-Mail: \nTitle \n/ \nPosition: \nMarital \nStatus: \nMarried \nLicense: \n)nergenc"
+      },
+      {
+        "name": "Married \nLicense",
+        "role": "extracted",
+        "context": "Position: \nMarital \nStatus: \nMarried \nLicense: \n)nergency \nInformation: \nAl"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "Information: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype \nuw.pe \nBlood"
+      },
+      {
+        "name": "Blood \nType",
+        "role": "extracted",
+        "context": "oncerns: \nBlood \ntype \nuw.pe \nBlood \nType: \nCurrent \nMedication: \n \nDoc"
+      },
+      {
+        "name": "Current \nMedication",
+        "role": "extracted",
+        "context": "d \ntype \nuw.pe \nBlood \nType: \nCurrent \nMedication: \n \nDoctor's \nName: \nRosa' \nJ"
+      },
+      {
+        "name": "Josemp \nPhone",
+        "role": "extracted",
+        "context": "n: \n \nDoctor's \nName: \nRosa' \nJosemp \nPhone: \nDoctor's \nName: \nPhone: \nIn"
+      },
+      {
+        "name": "Relationship \nWife",
+        "role": "extracted",
+        "context": "tact \n: \nRelationship \nS\nI\n' \nRelationship \nWife \nPhone \nFriend \nPhone \nThis"
+      },
+      {
+        "name": "Phone \nFriend",
+        "role": "extracted",
+        "context": "p \nS\nI\n' \nRelationship \nWife \nPhone \nFriend \nPhone \nThis \nInformation \nis"
+      },
+      {
+        "name": "Phone \nThis",
+        "role": "extracted",
+        "context": "ionship \nWife \nPhone \nFriend \nPhone \nThis \nInformation \nis \nfor \nyour"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.644Z"
+}

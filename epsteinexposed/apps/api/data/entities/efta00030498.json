@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00030498",
+    "filename": "EFTA00030498.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030498.pdf",
+    "text": "\n\nFrom \nSubject: Prince Andrew 'a person of interest' in Epstein probe - source I  Reuters \nDate: \nTue, 17 Aug 2021 13:56:22 +0000 \nhttps://wwwseuters.com/world/uk/prince-andrew-a-person-interest-epstein-probe-source-2021-08-16/ \nSent from my iPhone \nEFTA00030498",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Prince Andrew",
+        "role": "extracted",
+        "context": "From \nSubject: Prince Andrew 'a person of interest' in Epstein probe - source"
+      },
+      {
+        "name": "From \nSubject",
+        "role": "extracted",
+        "context": "From \nSubject: Prince Andrew 'a person of i"
+      },
+      {
+        "name": "Reuters \nDate",
+        "role": "extracted",
+        "context": "in Epstein probe - source I  Reuters \nDate: \nTue, 17 Aug 2021 13:56:22 +"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-08-16",
+        "event": "2021-08-16"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:25.990Z"
+}

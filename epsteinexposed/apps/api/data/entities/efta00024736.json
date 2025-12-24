@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00024736",
+    "filename": "EFTA00024736.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024736.pdf",
+    "text": "\n\nFrom \nTo \nCc \nBee: \"USAHUB-USAJouma1111\" \nSubject: RE: GM -- search warrant returns \nDate: Tue, 20 Oct 2020 21:34:25 +0000 \nEmbedded: RELGMnsearch_warrant retums.msg \nSender \nSubject: RE: GM -- search warrant returns \nMessage\n-Id: \n<SN5P110MB05421E03E40332DF48C70BA8921F0@SN5P110MB0542.NAMP110.PROD.OUTLOOK.COM \nTo: \nTo\n.\nCc \nCc \nEFTA00024736",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nBee: \"USAHUB-USAJouma111"
+      },
+      {
+        "name": "Cc \nBee",
+        "role": "extracted",
+        "context": "From \nTo \nCc \nBee: \"USAHUB-USAJouma1111\" \nSubje"
+      },
+      {
+        "name": "Sender \nSubject",
+        "role": "extracted",
+        "context": "GMnsearch_warrant retums.msg \nSender \nSubject: RE: GM -- search warrant ret"
+      },
+      {
+        "name": "Cc \nCc",
+        "role": "extracted",
+        "context": "0.PROD.OUTLOOK.COM \nTo: \nTo\n.\nCc \nCc \nEFTA00024736"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.730Z"
+}

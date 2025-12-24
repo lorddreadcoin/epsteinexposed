@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00022454",
+    "filename": "EFTA00022454.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022454.pdf",
+    "text": "\n\nFrom: BOBBI C STERNHEIM \nT • \nIt \nCc: Christian Everdell \nJeff Pagliuca \nSubject: U.S. v. Maxwell, S2 20 Cr. \n330 (AJN) \nDate: Fri, 07 May 2021 19:38:50 +0000 \nAttachments: Reply_to_Dkt_270.pdf; ATT00001.htm \nLaura Mennin er \nGood \nafternoon-\nAttached is a courtesy copy of today's ECF filing. \nEnjoy the weekend, \nBobbi \nEFTA00022454",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "It \nCc",
+        "role": "extracted",
+        "context": "From: BOBBI C STERNHEIM \nT • \nIt \nCc: Christian Everdell \nJeff Pag"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "BBI C STERNHEIM \nT • \nIt \nCc: Christian Everdell \nJeff Pagliuca \nSubject: U.S."
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "It \nCc: Christian Everdell \nJeff Pagliuca \nSubject: U.S. v. Maxwell, S2"
+      },
+      {
+        "name": "Laura Mennin",
+        "role": "extracted",
+        "context": "to_Dkt_270.pdf; ATT00001.htm \nLaura Mennin er \nGood \nafternoon-\nAttached"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-07",
+        "event": "07 May 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:06.896Z"
+}

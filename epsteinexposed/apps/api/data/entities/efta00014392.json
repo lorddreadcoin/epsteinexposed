@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014392",
+    "filename": "EFTA00014392.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014392.pdf",
+    "text": "\n\nFrom: 'a \nTo:'\nSubject: detention \nmemo \nDate: Wed, 01 Jul 2020 16:50:35 +0000 \nAttachments: 2020-07-01,_GM,_detention_memo.docx \nHere's the most recent version. Thanks. \nAssistant United States Attorney \nSouthern District of New York \nNew York, NY 10007 \nEFTA00014392",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "most recent version. Thanks. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "on. Thanks. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nNew York, NY 100"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-07-01",
+        "event": "2020-07-01"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.760Z"
+}

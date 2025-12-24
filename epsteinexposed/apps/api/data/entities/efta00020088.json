@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00020088",
+    "filename": "EFTA00020088.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020088.pdf",
+    "text": "\n\nFrom: \nTo: \n• \nSubject: FW: Request for Tangible and Documentary Evidence (Touhy Request); Jane Doe v. Indyke \net al., SDNY Case No. I :20-cv-00484-JGK-DCF \nDate: Tue, 09 Jun 2020 03:51:05 +0000 \nImportance: High \nAttachments: 6 8 20 Ltr re Jane Doe Touhy_request.pdf \nHi all, \nWill you be able to gather the responsive documents for Glassman's request, as with the request from Kaplan? Except for \nItem 8, this request seems fairly contained—and they have expressly cabined their request to not seek documents that \nwould interfere with ongoing proceedings. Please let me know if we need to discuss. Otherwise, I'll draft a letter once we \nhave the dots gathered (happy to do redactions again if helpful). \nThanks, \nFrom: Robert Glassman c \nSent: Monday, June 8, 2020 3:08 PM \nTo: \nCc: >; Nathan Werksman Keilah \nBetts \nSubject: Request for Tangible and Documentary Evidence (Touhy Request); Jane Doe v. Indyke et al., SDNY Case No. 1:20-\ncv-00484-JGK-DCF \nImportance: High \nDear Mr. \nPlease see the attached letter of today's date. A copy will also be sent via Fedex. Thank you. \nRobert Glassman \nRobert Glassman, Esq. \nPanish Shea & Boyle LLP \nEmail: \nWeb: www.psblaw.com \nCONFIDENTIALITY NOTICE: \nThis e-mail may contain confidential and privileged material for the sole use of the intended recipient(s). Any review, use, distribution \nor disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please \ncontact the sender by reply e-mail or telephone, and delete all copies of this message. \nIf you are a potential client, the information you disclose to us by email will be kept in strict confidence and will be protected to the \nfull extent of the law. Please be advised, however, that Panish Shea & Boyle LLP and its lawyers do not represent you until you have \nsigned a retainer agreement with the firm. Until that time, you are responsible for any statutes of limitations or other deadlines for \nyour case or potential case. \nEFTA00020088\n\nEFTA00020089",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Please",
+        "role": "extracted",
+        "context": "K-DCF \nImportance: High \nDear Mr. \nPlease see the attached letter"
+      },
+      {
+        "name": "Documentary Evidence",
+        "role": "extracted",
+        "context": "FW: Request for Tangible and Documentary Evidence (Touhy Request); Jane Doe v."
+      },
+      {
+        "name": "Touhy Request",
+        "role": "extracted",
+        "context": "ble and Documentary Evidence (Touhy Request); Jane Doe v. Indyke \net al.,"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "ary Evidence (Touhy Request); Jane Doe v. Indyke \net al., SDNY Case"
+      },
+      {
+        "name": "Case No",
+        "role": "extracted",
+        "context": "e Doe v. Indyke \net al., SDNY Case No. I :20-cv-00484-JGK-DCF \nDate"
+      },
+      {
+        "name": "High \nAttachments",
+        "role": "extracted",
+        "context": "0 03:51:05 +0000 \nImportance: High \nAttachments: 6 8 20 Ltr re Jane Doe Touhy"
+      },
+      {
+        "name": "Robert Glassman",
+        "role": "extracted",
+        "context": "if helpful). \nThanks, \nFrom: Robert Glassman c \nSent: Monday, June 8, 2020"
+      },
+      {
+        "name": "Nathan Werksman",
+        "role": "extracted",
+        "context": "8, 2020 3:08 PM \nTo: \nCc: >; Nathan Werksman Keilah \nBetts \nSubject: Reque"
+      },
+      {
+        "name": "Keilah \nBetts",
+        "role": "extracted",
+        "context": "To: \nCc: >; Nathan Werksman Keilah \nBetts \nSubject: Request for Tangibl"
+      },
+      {
+        "name": "High \nDear",
+        "role": "extracted",
+        "context": "cv-00484-JGK-DCF \nImportance: High \nDear Mr. \nPlease see the attached"
+      },
+      {
+        "name": "Panish Shea",
+        "role": "extracted",
+        "context": "ssman \nRobert Glassman, Esq. \nPanish Shea & Boyle LLP \nEmail: \nWeb: www"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-08",
+        "event": "June 8, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.169Z"
+}

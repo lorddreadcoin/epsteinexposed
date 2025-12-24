@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00014585",
+    "filename": "EFTA00014585.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014585.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: FW: Letter \nDate: Fri, 02 Oct 2020 13:11:31 +0000 \nAttachments: 2020.10.1_Letter_to_Government_re_Discovety.PDF \nInline-Images: image005.jpg; image006.jpg \nYou guys have some time to discuss this later today? \nFrom: Christian Everdell \nSent: Thursday, October \nTo: \nSubject: Letter \nPlease see the attached letter. \nRegards, \nChris \nChristian \nEverdell \nCOHEN & GRESSER LLP \nNew York I  Seoul I  Paris I  Washington DC \nI  London \nCONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended fo be reviewed initially by only \nthe individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient. you are hereby notified that any \nreview. dissemination or copying of this e-mail or the information contained tenant is tentlibited. I! \nLeo \nhave received this e-mail in error. please immediately notify \nthe sender by telephone and permanently delete this e-mail. Thank \nyes.\nPRIVACY:A complete copy of our privacy policy can be viewed at \nhtlps./Atraw.cohangrossaccomtpnvacy-policy\nEFTA00014585",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Letter \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: FW: Letter \nDate: Fri, 02 Oct 2020 13:11:31 +0"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "cuss this later today? \nFrom: Christian Everdell \nSent: Thursday, October \nTo:"
+      },
+      {
+        "name": "October \nTo",
+        "role": "extracted",
+        "context": "ian Everdell \nSent: Thursday, October \nTo: \nSubject: Letter \nPlease see"
+      },
+      {
+        "name": "Letter \nPlease",
+        "role": "extracted",
+        "context": "rsday, October \nTo: \nSubject: Letter \nPlease see the attached letter. \nReg"
+      },
+      {
+        "name": "Chris \nChristian",
+        "role": "extracted",
+        "context": "e attached letter. \nRegards, \nChris \nChristian \nEverdell \nCOHEN & GRESSER LL"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:49.139Z"
+}

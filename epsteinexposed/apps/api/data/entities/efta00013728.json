@@ -1,0 +1,49 @@
+{
+  "document": {
+    "id": "efta00013728",
+    "filename": "EFTA00013728.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013728.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: \nEpstein \nDate: \nFri, 04 Apr 2008 17:20:14 +0000 \nImportance: Normal \nHi —  I am back. Just got a child molester to plead to 360 to life, so I am feeling good. \nWondering if you have heard anything from Drew and, if not, if you would mind if I drop an e-mail. \nStrangely enough, neither Jay nor Ken has followed up on my e-mail to them. \nThank you. \nAssistant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013728",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: \nEpstein \nDate: \nFri, 04 Apr 2008 17:20:14 +"
+      },
+      {
+        "name": "Normal \nHi",
+        "role": "extracted",
+        "context": "8 17:20:14 +0000 \nImportance: Normal \nHi —  I am back. Just got a chil"
+      },
+      {
+        "name": "Australian Ave",
+        "role": "extracted",
+        "context": "istant U.S. \nAttorney \n500 S. Australian Ave, Suite 400 \nWest Palm Beach,"
+      },
+      {
+        "name": "West Palm",
+        "role": "extracted",
+        "context": "S. Australian Ave, Suite 400 \nWest Palm Beach, FL 33401 \nEFTA00013728"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.261Z"
+}

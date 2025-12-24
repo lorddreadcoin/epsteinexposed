@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00027952",
+    "filename": "EFTA00027952.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027952.pdf",
+    "text": "\n\nFrom: \nTo: cj \nCc: Clara Moran \nSubject: Continued investigation into possible collaborators of Jeffrey Epstein \nDate: Tue, 17 Sep 2019 18:04:44 +0000 \nAttachments: 9-17-19 Letter to AUSAa_re_Epstein.pdf \nMs. \nPlease see the attached correspondence from Chief Deputy Attorney General Clara Moran. \nYou can access the materials referenced in the letter by following this link and entering this password: \n• \nNMAG \nfiles \n• Password (without quotes) — \"7e4DzyfvYC\" \nNote that this link will expire on October 16, 2019. \nA CD containing this correspondence and the attached materials will also be arriving shortly via U.S. Mail. \nHave a good day. \nAssistant Attorne General \nCell: \nEFTA00027952",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "nued investigation into possible collaborators of Jeffrey Epstein \nDate: Tue, 17 Sep 2019 18:04:44 +0000 \nAttachmen"
+      },
+      {
+        "name": "Please",
+        "role": "extracted",
+        "context": "tter to AUSAa_re_Epstein.pdf \nMs. \nPlease see the attached corresp"
+      },
+      {
+        "name": "Clara Moran",
+        "role": "extracted",
+        "context": "From: \nTo: cj \nCc: Clara Moran \nSubject: Continued investiga"
+      },
+      {
+        "name": "Chief Deputy",
+        "role": "extracted",
+        "context": "attached correspondence from Chief Deputy Attorney General Clara Moran."
+      },
+      {
+        "name": "Attorney General",
+        "role": "extracted",
+        "context": "respondence from Chief Deputy Attorney General Clara Moran. \nYou can access"
+      },
+      {
+        "name": "Assistant Attorne",
+        "role": "extracted",
+        "context": "U.S. Mail. \nHave a good day. \nAssistant Attorne General \nCell: \nEFTA00027952"
+      },
+      {
+        "name": "General \nCell",
+        "role": "extracted",
+        "context": "good day. \nAssistant Attorne General \nCell: \nEFTA00027952"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-10-16",
+        "event": "October 16, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:19.329Z"
+}

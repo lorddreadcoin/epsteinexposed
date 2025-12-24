@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "efta00024996",
+    "filename": "EFTA00024996.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024996.pdf",
+    "text": "\n\nFrom: ' \ny.\nTo: \"Chris R. Rodgers\" < >, Jack Scarola\nCc: \n\" \n' \nUSANYS)\" \n, Mary McCann , \"Wendy P. Calvet\" \nSubject: RE: \n- \nDiscovery Responses \nDate: Wed, 20 Jan 2021 03:03:39 +0000 \nReceived, thank you. \nFrom: Chris R. Rodgers c\nni> \nSent: Tuesday, January 19, 2021 1:50 PM \nTo: \nCc: \nSubject: RE: \n; Wendy P. Calvet \n- Discovery Responses \n;Jack Scarola \n(USANYS) \nAttached please find the Discovery Responses filed on behalf in her civil matter against Epstein. \nI  Privileged and Confidential I  Electronic communication is not a secure mode of communication and may be \naccessed by unauthorized persons. This communication originates from the law firm of Searcy Denney Scarola \nBarnhart & Shipley, P.A. and is protected under the Electronic Communication Privacy Act, 18 U.S.C. S2510-\n2521. The information contained in this E-mail message is privileged and confidential under Fla. it Jud. Admin. \n2.420 and information intended only for the use of the individual(s) named above. If the reader of this message is \nnot the intended recipient, you are hereby notified that any dissemination, distribution, or copy of this \ncommunication is strictly prohibited. Personal messages express views solely of the sender and shall not be \nattributed to the law firm. If you received this communication in error, please notify the sender immediately by \ne-mail or by telephone at (800) 780-8607 and destroy all copies of the original message. Thank you. \n****************************************************************************************** \nEFTA00024996",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jack Scarola",
+        "role": "extracted",
+        "context": ".\nTo: \"Chris R. Rodgers\" < >, Jack Scarola\nCc: \n\" \n' \nUSANYS)\" \n, Mary M"
+      },
+      {
+        "name": "Mary Mc",
+        "role": "extracted",
+        "context": "carola\nCc: \n\" \n' \nUSANYS)\" \n, Mary McCann , \"Wendy P. Calvet\" \nSubj"
+      },
+      {
+        "name": "Discovery Responses",
+        "role": "extracted",
+        "context": "P. Calvet\" \nSubject: RE: \n- \nDiscovery Responses \nDate: Wed, 20 Jan 2021 03:03"
+      },
+      {
+        "name": "Searcy Denney",
+        "role": "extracted",
+        "context": "iginates from the law firm of Searcy Denney Scarola \nBarnhart & Shipley,"
+      },
+      {
+        "name": "Scarola \nBarnhart",
+        "role": "extracted",
+        "context": "the law firm of Searcy Denney Scarola \nBarnhart & Shipley, P.A. and is protec"
+      },
+      {
+        "name": "Electronic Communication",
+        "role": "extracted",
+        "context": "A. and is protected under the Electronic Communication Privacy Act, 18 U.S.C. S2510-"
+      },
+      {
+        "name": "Privacy Act",
+        "role": "extracted",
+        "context": "the Electronic Communication Privacy Act, 18 U.S.C. S2510-\n2521. The i"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-01-19",
+        "event": "January 19, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [
+      "(800) 780-8607"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:12.267Z"
+}

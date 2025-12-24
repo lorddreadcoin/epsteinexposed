@@ -1,0 +1,80 @@
+{
+  "document": {
+    "id": "efta00024806",
+    "filename": "EFTA00024806.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0005\\EFTA00024806.pdf",
+    "text": "\n\n • \nDate: 7/13/06 \nPALM BEACH \nPOLICE DEPARTMENT \nTime: \n9:27:55 \nPage: 44 \nIncident Report \nProgram: \nCMS301L \n****************************NARRATIVE # 13 \n*** ******** \n*************** \nNA \nReported By: \nall11.01111111110MINISIS \n10/20/05 \nEntered By.: \n11/07/05 \nOn \nOctober 20, 2005, at \napproximately 8:30 a.m., \nThursday morning, I \nwas \nadvised \nby \nCaptain \nMEMPEIthat a search warrant \nwould be executed \nand \nthat I was to assemble \nthe Crime Scene \nInvestigative Team and \nstand by the south \nside of the building ready \nto go. I designated \nEvidence \nSpecialist to \nhandle the inventory return, \nthe \ndocumentation of the \nproperty receipts and the \ncollection and bagging \nof the evidence at \nthe scene. I further \ninstructed CSI ID \n, to \naccompany us and perform \nthe role of \nphotographing the \nscene and the items that \nmay be taken into \ncustody by the \naffiant, \nDetective \nID # \nMy \nresponsibility was to go through \nfrom the reading of \nthe warrant to \nthe final exit from \nthe residence and \nperform a video \nrecording of the \nreading of the \nwarrant, the initial \nwalk through of the \nresidence \nshowing the \ncurrent condition \nand then finally a \nwalk through of the \nresidence at \nthe time of the \npolice exit. \nWe started out \ntowards the \nresidence, which \nwas located at \nand \narrived at \napproximately 9:33 \na.m. The \nsearch was \nconducted, items were \ncollected by \nEvidence \nSpecialists 400mg, \nEFTA00024806\n\n• \nDate: 7/13/06 \nPALM BEACH POLICE DEPARTMENT \nTime: \n9:27:55 \nPage: \n• \n45 \nIncident Report Program: \nCMS301L \nCase \nNo  \n1-05-000368 (Continued) \nphotographed by CSI I \nand then videotaped by myself. The \nsearch \nwas concluded at \napproximately 3:05 p.m. whereupon \nDetective\nand I were the last two \nofficers in the house. Upon \nsecuring the \nresidence \nwe met with the gentleman \nwho identified himself \nto \nDetective \nas the lawyer for \nthe defendant and he was informed \nthat the \nresidence was secured and that copies of \nthe inventory return \nhad been left \non the first floor table of \nthe personal assistant's \noffice. \nDetective \nand I \nreturned to \nPolice \nHeadquarters \nand \nsecured \nfor \nthe day. \nEFTA00024807",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Incident Report",
+        "role": "extracted",
+        "context": "NT \nTime: \n9:27:55 \nPage: 44 \nIncident Report \nProgram: \nCMS301L \n*********"
+      },
+      {
+        "name": "Reported By",
+        "role": "extracted",
+        "context": "******* \n*************** \nNA \nReported By: \nall11.01111111110MINISIS \n1"
+      },
+      {
+        "name": "Entered By",
+        "role": "extracted",
+        "context": "01111111110MINISIS \n10/20/05 \nEntered By.: \n11/07/05 \nOn \nOctober 20,"
+      },
+      {
+        "name": "On \nOctober",
+        "role": "extracted",
+        "context": "0/05 \nEntered By.: \n11/07/05 \nOn \nOctober 20, 2005, at \napproximately 8"
+      },
+      {
+        "name": "Crime Scene",
+        "role": "extracted",
+        "context": "that I was to assemble \nthe Crime Scene \nInvestigative Team and \nstan"
+      },
+      {
+        "name": "Investigative Team",
+        "role": "extracted",
+        "context": "to assemble \nthe Crime Scene \nInvestigative Team and \nstand by the south \nside"
+      },
+      {
+        "name": "Evidence \nSpecialist",
+        "role": "extracted",
+        "context": "g ready \nto go. I designated \nEvidence \nSpecialist to \nhandle the inventory retu"
+      },
+      {
+        "name": "Evidence \nSpecialists",
+        "role": "extracted",
+        "context": "ed, items were \ncollected by \nEvidence \nSpecialists 400mg, \nEFTA00024806\n\n• \nDate"
+      },
+      {
+        "name": "Case \nNo",
+        "role": "extracted",
+        "context": "ent Report Program: \nCMS301L \nCase \nNo  \n1-05-000368 (Continued) \nph"
+      },
+      {
+        "name": "Police \nHeadquarters",
+        "role": "extracted",
+        "context": "etective \nand I \nreturned to \nPolice \nHeadquarters \nand \nsecured \nfor \nthe day."
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2005-10-20",
+        "event": "October 20, 2005"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:11.869Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00016265",
+    "filename": "EFTA00016265.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016265.pdf",
+    "text": "\n\nFrom: Nathan NYSD Chambers\nTo: Jeff Pagliuca •, Laura Mennirper \nbcstemheim mac.com \nSubject: 20cr330, US v. Maxwell \nDate: Sun, 31 Oct 2021 18:06:35 +0000 \nAttachments: 20cr330 Order 10.31.21.pdf \nCounsel: \nAttached please find an Order issued by Judge Nathan, which will be docketed tomorrow morning. \nPlease confirm receipt. \nSincerely, \nChambers of the Hon. Alison J. Nathan \nEFTA00016265",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Chambers\nTo",
+        "role": "extracted",
+        "context": "From: Nathan NYSD Chambers\nTo: Jeff Pagliuca •, Laura Menni"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "rom: Nathan NYSD Chambers\nTo: Jeff Pagliuca •, Laura Mennirper \nbcstemhei"
+      },
+      {
+        "name": "Laura Mennirper",
+        "role": "extracted",
+        "context": "Chambers\nTo: Jeff Pagliuca •, Laura Mennirper \nbcstemheim mac.com \nSubject:"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": ".com \nSubject: 20cr330, US v. Maxwell \nDate: Sun, 31 Oct 2021 18:06:35 +0"
+      },
+      {
+        "name": "Judge Nathan",
+        "role": "extracted",
+        "context": "lease find an Order issued by Judge Nathan, which will be docketed tomor"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.335Z"
+}

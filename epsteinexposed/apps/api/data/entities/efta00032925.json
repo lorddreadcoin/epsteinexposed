@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00032925",
+    "filename": "EFTA00032925.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032925.pdf",
+    "text": "\n\nFrom \nTo: \"Strauss, Audrey (USANYS)\" \nSubject: Automatic reply: Your opening \nDate: Tue, 27 Aug 2019 14:15:42 +0000 \nI am currently on trial before the Honorable Ronnie Abrams. I will be checking email at the end of each trial da .  If ou need immediate \nassistance in connect\" a Cr. 490 (RMB), please contact AUSA at For all other matters, \nplease contact AUSA Thank you. \nEFTA00032925",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nTo",
+        "role": "extracted",
+        "context": "From \nTo: \"Strauss, Audrey (USANYS)\""
+      },
+      {
+        "name": "Honorable Ronnie",
+        "role": "extracted",
+        "context": "currently on trial before the Honorable Ronnie Abrams. I will be checking em"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.804Z"
+}

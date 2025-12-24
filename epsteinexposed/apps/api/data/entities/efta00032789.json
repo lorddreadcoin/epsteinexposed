@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00032789",
+    "filename": "EFTA00032789.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032789.pdf",
+    "text": "\n\nFrom: Nathan NYSD Chambers <a \nTo: \"CEverdell®CohenGresser.com\" <CEverdell®CohenGressercom>, Jeff Pagliuca \n<jpagliuca®lunflawcom>, Laura Menninger <Imenninger@hmflaw.com>, \n\"meohen@cohengressercom\" <mcohen cohen tl sser.com>, bc_stemheimlaw.com \n<be \nemheimlawcom>, ' \n(USANYS)\" \nSubject: Order in 20-cr-330, US v Maxwell \nDate: Fri, 16 Apr 2021 15:42:50 +0000 \nAttachments: 20cr330_Order 4.16.21.pdf \nCounsel, \nPlease see attached an order in the above-captioned case, which will be entered into the public docket shortly. \nRespectfully, \nLaw Clerk to the Hon. \nAlison J. Nathan \nEFTA00032789",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "<CEverdell®CohenGressercom>, Jeff Pagliuca \n<jpagliuca®lunflawcom>, Laur"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": "iuca \n<jpagliuca®lunflawcom>, Laura Menninger <Imenninger@hmflaw.com>, \n\"me"
+      },
+      {
+        "name": "Maxwell \nDate",
+        "role": "extracted",
+        "context": "ect: Order in 20-cr-330, US v Maxwell \nDate: Fri, 16 Apr 2021 15:42:50 +0"
+      },
+      {
+        "name": "Law Clerk",
+        "role": "extracted",
+        "context": "cket shortly. \nRespectfully, \nLaw Clerk to the Hon. \nAlison J. Nathan"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.488Z"
+}

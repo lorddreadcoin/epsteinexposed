@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00009868",
+    "filename": "EFTA00009868.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00009868.pdf",
+    "text": "\n\nFrom: ' \n< \nTo: IMINIIANYS)\" \nSubject: FW: Filing \nDate: Tue, 15 Dec 2020 18:37:37 +0000 \nAttachments: atement_in_Opp._to_Bail.pdf \nI \n)\" \nFrom: \nSent: Tuesday, December 15, 2020 1:30 PM \nTo: \nSubject: Filing \nHello \nyou, \nBest, \n—  please let me know if the attached works for your \nfiling or if you would like it in a different format. Thank \nThe information contained in this electronic message is confidential information intended only for the use of the named recipient(s) and may contain information that. \namong other protections, is the subject of attorney-client privilege, attorney work product or exempt from disclosure \nunder \napplicable law. If the reader of this \nelectronic message is not the named recipient, or the employee or agent responsible to \ndeliver \nit to the named recipient, you are hereby notified that any \ndissemination, distribution, copying or \nother \nuse of this communication is strictly prohibited and no privilege is waived. If you have received this communication in \nerror, please immediately notify the send& by replying to this electronic message and then deleting this electronic message from your computer. tv.1 08201831BS9 \nEFTA00009868",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Filing \nDate",
+        "role": "extracted",
+        "context": "o: IMINIIANYS)\" \nSubject: FW: Filing \nDate: Tue, 15 Dec 2020 18:37:37 +0"
+      },
+      {
+        "name": "Filing \nHello",
+        "role": "extracted",
+        "context": ", 2020 1:30 PM \nTo: \nSubject: Filing \nHello \nyou, \nBest, \n—  please let m"
+      },
+      {
+        "name": "Thank \nThe",
+        "role": "extracted",
+        "context": "ike it in a different format. Thank \nThe information contained in this"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-12-15",
+        "event": "December 15, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:40.816Z"
+}

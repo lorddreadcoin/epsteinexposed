@@ -1,0 +1,59 @@
+{
+  "document": {
+    "id": "efta00031510",
+    "filename": "EFTA00031510.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031510.pdf",
+    "text": "\n\nFrom: \nSubject: RE: Mark Epstein Emails \nDate: Tue, 26 May 2020 14:31:03 +0000 \nThanks for this. Sorry I was so out of the loop on this all weekend. I'm always happy to help out —  just let me know if \nthere's anything I can do. \nFrom: Donaleski, Rebekah (USANYS) \nSent: Tuesday, May 26, 2020 10:29 AM \nTo: \nSubject: Mark Epstein Emails \nSaved here: \\\\ usa.doj.gov\\ clouanys\\StAndrews\\ Shared \\ InReEpsteinDeath-2019R01059 \\ Mark Epstein \nAssistant United States Attorney \nSouthern District of New York \nTel: \nEFTA00031510",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "role": "extracted",
+        "context": "From: \nSubject: RE: Mark Epstein Emails \nDate: Tue, 26 May 202"
+      },
+      {
+        "name": "Emails \nDate",
+        "role": "extracted",
+        "context": "m: \nSubject: RE: Mark Epstein Emails \nDate: Tue, 26 May 2020 14:31:03 +0"
+      },
+      {
+        "name": "Emails \nSaved",
+        "role": "extracted",
+        "context": "M \nTo: \nSubject: Mark Epstein Emails \nSaved here: \\\\ usa.doj.gov\\ clouany"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "th-2019R01059 \\ Mark Epstein \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "ark Epstein \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nTel: \nEFTA000315"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-05-26",
+        "event": "May 26, 2020"
+      },
+      {
+        "date": "2020-05-26",
+        "event": "26 May 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.271Z"
+}

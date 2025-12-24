@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00011363",
+    "filename": "EFTA00011363.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00011363.pdf",
+    "text": "\n\nFrom: Sigrid McCawley <I \nTo:\" \nSubject: FW: GM vs. Estate \nDate: Wed, 18 Mar 2020 15:32:08 -4)000 \nAttachments: sean.pdf; ATT0000I.htm \n> \nHello - I just received this from a reporter. It is an indemnification action filed in USVI by Maxwell. It contains \nstatements that are directly contradictory to Maxwell's previous sworn depositions including that Epstein was not \nassisting in any of her legal bills and she didn't receive anything of value from him etc. and it also references \ncorrespondence that she never produced in that case and lists companies that she was apparently employed by. \nI am still reviewing but I wanted to get it to you quickly. Looks like ABC is doing a story on it. \nSigrid McCawley \nPartner \nBOIES \nSCHILLER FLEXNER LLP \nFort Lauderdale. FL. 33301 \n(I) \n(n) \nwww.bsfllp.com \nFrom: Hill, James E. [mailto: \nSent: Wednesday, March 18, 2020 11:12 AM \nTo: Sigrid McCawley \nSubject: GM vs. Estate \nCAUTION: External email. Please do not respond to or click on links/attachments unless you recognize the sender. \nThe information contained in this electronic message is confidential information intended \nonly \nfor the use of the named recipient(s) and may contain information that, \namong other protections, is the subject of attorney-client privilege. attorney work product or exempt from disclosure under applicable law If the reader of this \nelectronic message is not the named recipient. or the employee or agent responsible to deliver it to the named recipient. you are hereby notified that any \ndissemination. distribution. copying or other use of this communication is strictly prohibited and no privilege is waived. If you have received this communication in \nerror. please immediately notify the sender by replying to this \nelectronic \nmessage and then deleting this electronic message from your computer. Iv 1 082018318SF) \nEFTA00011363",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sigrid Mc",
+        "role": "extracted",
+        "context": "From: Sigrid McCawley <I \nTo:\" \nSubject: FW:"
+      },
+      {
+        "name": "Estate \nDate",
+        "role": "extracted",
+        "context": "<I \nTo:\" \nSubject: FW: GM vs. Estate \nDate: Wed, 18 Mar 2020 15:32:08 -4"
+      },
+      {
+        "name": "Cawley \nPartner",
+        "role": "extracted",
+        "context": "oing a story on it. \nSigrid McCawley \nPartner \nBOIES \nSCHILLER FLEXNER LLP"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "role": "extracted",
+        "context": "BOIES \nSCHILLER FLEXNER LLP \nFort Lauderdale. FL. 33301 \n(I) \n(n) \nwww.bsf"
+      },
+      {
+        "name": "Cawley \nSubject",
+        "role": "extracted",
+        "context": ", 2020 11:12 AM \nTo: Sigrid McCawley \nSubject: GM vs. Estate \nCAUTION: Exte"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-03-18",
+        "event": "March 18, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:43.487Z"
+}

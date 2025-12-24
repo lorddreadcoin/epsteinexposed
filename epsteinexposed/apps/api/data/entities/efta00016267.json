@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00016267",
+    "filename": "EFTA00016267.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016267.pdf",
+    "text": "\n\nFrom: \n'• \n(USANYS)\" \n'\nTo: 'S'S)\"\n>, • \n(USANYS)\" \nSubject: FW: U.S. v. Maxwell, 20Cr330 (AJN) [Ms. Maxwell's Rule 16 \nDisclosures] \nDate: Tue, 02 Nov 2021 02:25:01 +0000 \nAttachments: Maxwell's_Rule_16(bX1)(C)_Disclosures.zip \nInline-Images: image001.jpg \nFrom: Nicole Simmons \nSent: Monday, November 1, 202110:18 PM \nTo: \n(USANYS) \nCc: Jeff Pagliuca c1=II::; Laura Menninger \ncfl \nSubject: [EXTERNAL] U.S. v. Maxwell, 20Cr330 (AJN) [Ms. Maxwell's Rule 16 Disclosures] \nDear Counsel: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxwell's Rule 16(b)(1)(C) Disclosures. \nThank you, \nNicole \nNicole \nSimmons \nHaddon. Morgan and \nForeman, P.C. \nwww.hmflow.corn \nEFTA00016267",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "S. v. Maxwell, 20Cr330 (AJN) [Ms. Maxwell's Rule 16 \nDisclosures]"
+      },
+      {
+        "name": "Nicole Simmons",
+        "role": "extracted",
+        "context": "e-Images: image001.jpg \nFrom: Nicole Simmons \nSent: Monday, November 1, 20"
+      },
+      {
+        "name": "Jeff Pagliuca",
+        "role": "extracted",
+        "context": "110:18 PM \nTo: \n(USANYS) \nCc: Jeff Pagliuca c1=II::; Laura Menninger \ncfl"
+      },
+      {
+        "name": "Laura Menninger",
+        "role": "extracted",
+        "context": ") \nCc: Jeff Pagliuca c1=II::; Laura Menninger \ncfl \nSubject: [EXTERNAL] U.S"
+      },
+      {
+        "name": "Dear Counsel",
+        "role": "extracted",
+        "context": "xwell's Rule 16 Disclosures] \nDear Counsel: \nAt the request of Jeffrey P"
+      },
+      {
+        "name": "Jeffrey Pagliuca",
+        "role": "extracted",
+        "context": "r Counsel: \nAt the request of Jeffrey Pagliuca, please see attached Ms. Maxw"
+      },
+      {
+        "name": "Nicole \nNicole",
+        "role": "extracted",
+        "context": "(C) Disclosures. \nThank you, \nNicole \nNicole \nSimmons \nHaddon. Morgan and"
+      },
+      {
+        "name": "Simmons \nHaddon",
+        "role": "extracted",
+        "context": "Thank you, \nNicole \nNicole \nSimmons \nHaddon. Morgan and \nForeman, P.C. \nw"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.339Z"
+}

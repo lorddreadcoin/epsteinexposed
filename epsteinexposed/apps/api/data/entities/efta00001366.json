@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00001366",
+    "filename": "EFTA00001366.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0002\\EFTA00001366.pdf",
+    "text": "\n\nSearch \nPersonnel \nName \ni\nlitifidtrnParde \nlegli\nfr\n414\nAgency \nContact \nNumber \nSearch \nCompleted \n(Place \nX \nIn \nBox) \nEFTA00001366",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Search \nPersonnel",
+        "role": "extracted",
+        "context": "Search \nPersonnel \nName \ni\nlitifidtrnParde \nleg"
+      },
+      {
+        "name": "Agency \nContact",
+        "role": "extracted",
+        "context": "litifidtrnParde \nlegli\nfr\n414\nAgency \nContact \nNumber \nSearch \nCompleted \n("
+      },
+      {
+        "name": "Number \nSearch",
+        "role": "extracted",
+        "context": "legli\nfr\n414\nAgency \nContact \nNumber \nSearch \nCompleted \n(Place \nX \nIn \nBo"
+      },
+      {
+        "name": "In \nBox",
+        "role": "extracted",
+        "context": "Search \nCompleted \n(Place \nX \nIn \nBox) \nEFTA00001366"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:25.454Z"
+}

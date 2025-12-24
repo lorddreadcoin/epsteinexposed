@@ -1,0 +1,60 @@
+{
+  "document": {
+    "id": "efta00032722",
+    "filename": "EFTA00032722.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0008\\EFTA00032722.pdf",
+    "text": "\n\nFrom: ' \nTo: MIMIlairls ....1YS\" \nSubject: Fwd: Ghislaine Maxwell \n02879-509 \nDate: Wed, 16 Jun 2021 14:37:07 +0000 \nBegin forwarded message: \nFrom: BOBBI C STERNHEIM < \nDate: June 16, 2021 at 10:23:09 AM EDT \nTo: Sophia Papapetru \nCc: ' \nSubject: \n(Atha:tine \nMaxwell 02879-509 \n, Christian Everdell \nGood \nmorning-\nAs reported yesterday, the modifications made in the VTC room \nare negatively impacting attorney-client communication. \nThe video is blurry; the audio includes distorting noises. \nI am requesting that these problems be remedied immediately. \nAlso, I am bringing to your attention the inappropriate behavior of the \nguards presently on Ms. Maxwell's detail: threatening discipline if \nMs. Maxwell is \"off camera\" while leaning against a wall to soothe her aching \nback; barking orders regarding the noise emanating from the washing machine \nand the pace of her gait when walking; laughing amongst themselves as if any of this is funny. \nThe manner in which some of the guards responded to me on Sunday gives me reason to be concerned \nabout how they treat Ms. Maxwell when out of public view. \nThe \ncourtesy of a response is requested. \nThank you-\nBobbi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi \nC. \nSternheim \nNew York, NY 10011 \nMain: \nCell: \nFax: \n\"Covid-19 Notice: The office is currently closed but we continue to work remotely. \nPlease use entail or fax, instead of regular mail, for all correspondence during this time. \nEFTA00032722\n\nWe continue to work regular business hours throughout this situation. \nThank you for your consideration. Our best wishes for your good health and well being. \nThis message and any attached documents contain information from the Law Offices of Bobbi C. Stemheim \nthat may be confidential and/or privileged. \nIf you are not the intended recipient, you may not read, copy, distribute, or use this information. \nIf you have received this transmission in error, please notify the sender immediately by reply e-mail and \nthen delete this message. Thank you. \nEFTA00032723",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "From: ' \nTo: MIMIlairls ....1YS\" \nSubject: Fwd: Ghislaine Maxwell \n02879-509 \nDate: Wed, 16 Jun 2021 14:37:07 +0000"
+      },
+      {
+        "name": "Maxwell",
+        "role": "extracted",
+        "context": "r of the \nguards presently on Ms. Maxwell's detail: threatening dis"
+      },
+      {
+        "name": "Sophia Papapetru",
+        "role": "extracted",
+        "context": "2021 at 10:23:09 AM EDT \nTo: Sophia Papapetru \nCc: ' \nSubject: \n(Atha:tine"
+      },
+      {
+        "name": "Christian Everdell",
+        "role": "extracted",
+        "context": "ha:tine \nMaxwell 02879-509 \n, Christian Everdell \nGood \nmorning-\nAs reported y"
+      },
+      {
+        "name": "Law Offices",
+        "role": "extracted",
+        "context": "bi \nBOBBI C. STERNHEIM, ESQ. \nLaw Offices of Bobbi \nC. \nSternheim \nNew"
+      },
+      {
+        "name": "Sternheim \nNew",
+        "role": "extracted",
+        "context": "Q. \nLaw Offices of Bobbi \nC. \nSternheim \nNew York, NY 10011 \nMain: \nCell:"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-06-16",
+        "event": "June 16, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:32.328Z"
+}

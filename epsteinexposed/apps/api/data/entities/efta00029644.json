@@ -1,0 +1,65 @@
+{
+  "document": {
+    "id": "efta00029644",
+    "filename": "EFTA00029644.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00029644.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: NY Times: Jeffrey Epstein's Charity: An Image Boost Built on Deception \nDate: Tue, 26 Nov 2019 19:08:50 +0000 \nhttps://www.nytimes.com/2019/11/26/business/jeffrey-epstein-chanty.ht m I? \naction=click&module=Top%20Stories&pgtype=Homepage \nAssistant United States Attorney \nSouthern District of New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029644",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: NY Times: Jeffrey Epstein's Charity: An Image Boost Built on Deception \nDat"
+      },
+      {
+        "name": "An Image",
+        "role": "extracted",
+        "context": "s: Jeffrey Epstein's Charity: An Image Boost Built on Deception \nDat"
+      },
+      {
+        "name": "Boost Built",
+        "role": "extracted",
+        "context": "y Epstein's Charity: An Image Boost Built on Deception \nDate: Tue, 26 N"
+      },
+      {
+        "name": "Deception \nDate",
+        "role": "extracted",
+        "context": "rity: An Image Boost Built on Deception \nDate: Tue, 26 Nov 2019 19:08:50 +0"
+      },
+      {
+        "name": "Homepage \nAssistant",
+        "role": "extracted",
+        "context": "k&module=Top%20Stories&pgtype=Homepage \nAssistant United States Attorney \nSouth"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "page \nAssistant United States Attorney \nSouthern District of New York \nOne Sai"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne Saint Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "New York \nOne Saint Andrew's Plaza \nNew York, NY 10007 \nEFTA00029644"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.866Z"
+}

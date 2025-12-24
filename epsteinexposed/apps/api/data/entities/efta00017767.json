@@ -1,0 +1,37 @@
+{
+  "document": {
+    "id": "efta00017767",
+    "filename": "EFTA00017767.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00017767.pdf",
+    "text": "\n\nFrom: \"==\n> \nCc \nSubject: co-conspirator memo \nDate: Wed, 14 Aug 2019 18:36:01 -4)000 \nAttachments: \nA draft of the memo is attached. and I jointly drafted, and we had a little difficulty with more detail because \nwe're waiting for the FBI to send us some interview notes, but this is the level of detail we're able to provide at this point. \nThanks, \nAssistant United States Attorney \n)007 \n(212) 637-2225 \nEFTA00017767",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Cc \nSubject",
+        "role": "extracted",
+        "context": "From: \"==\n> \nCc \nSubject: co-conspirator memo \nDate: W"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "vide at this point. \nThanks, \nAssistant United States Attorney \n)007 \n(212)"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "t. \nThanks, \nAssistant United States Attorney \n)007 \n(212) 637-2225 \nEFTA00"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [
+      "(212) 637-2225"
+    ],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:55.546Z"
+}

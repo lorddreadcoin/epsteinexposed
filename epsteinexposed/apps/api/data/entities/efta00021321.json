@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00021321",
+    "filename": "EFTA00021321.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021321.pdf",
+    "text": "\n\nFrom: ' \nTo:'\nSubject: Fwd: New York search warrant materials \nDate: Wed, 09 Oct 2019 00:15:10 +0000 \nHave we heard anything from them since this? \nSent from my iPhone \nBegin forwarded message: \nFrom: ' (NY) (FBI)\" \nDate: \nSepicinhcr \nU. \n2019 at 3:22:53 PM EDT \nTo: \nSubject: New York search warrant materials \nSo the short answer is that the load files are not completed yet. One machine alone had over 800,000 emails. \nThe limitation of the load files is that they can only be generated with 25,000 entries at a time. So I got out as \nquickly as I could what fit that bill. Now along has come all the stuff from the Island that had an expiration \ndate, so that took priority. I can now go back and try to generate the stuff that has yet to be processed into load \nfiles, but the process is slow and painful. Just as an FYI, all the content is available for taint review in FTK \nright now. \nSenior Forensic Examiner \ndesk \nOn Sea2019 3:13 PM, ' \nHey=, \n. (NY) (FBI)\" < wrote: \nI've copied here who has handled all of the Epstein evidence that was sent to CART. He should \nbe able to answer your questions regarding what he's processed. \nOn Sep 30, \n2019 1:57 PM, '1 \nss \n)11 < \nwrote: \nThe taint team here apparently received materials from the search of the New York house but it's way fewer \ndocuments than we would have expected. Can you please let us know exactly how many electronic devices \n(phones, computers, hard drives, thumb drives, and/or discs) were sent to CART for processing, and how many \nwere in fact processed and sent back to us? Or if it's easier to just put us in touch with the CART people directly, \nthat's fine too. My understanding was that they were processing the materials in the attached, which appears to \nEFTA00021321\n\nlist approximately 38 computers and/or electronic storage devices seized along with an additional approximately 55 \nCDs. \nthanks, \n= \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00021322",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phone \nBegin",
+        "role": "extracted",
+        "context": "em since this? \nSent from my iPhone \nBegin forwarded message: \nFrom: ' ("
+      },
+      {
+        "name": "Senior Forensic",
+        "role": "extracted",
+        "context": "nt review in FTK \nright now. \nSenior Forensic Examiner \ndesk \nOn Sea2019 3:"
+      },
+      {
+        "name": "On Sea",
+        "role": "extracted",
+        "context": "nior Forensic Examiner \ndesk \nOn Sea2019 3:13 PM, ' \nHey=, \n. (NY)"
+      },
+      {
+        "name": "On Sep",
+        "role": "extracted",
+        "context": "garding what he's processed. \nOn Sep 30, \n2019 1:57 PM, '1 \nss \n)1"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": ". \nthanks, \n= \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.424Z"
+}

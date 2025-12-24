@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00030517",
+    "filename": "EFTA00030517.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030517.pdf",
+    "text": "\n\nFrom: ' \nTo:' \" < \nSubject: First stab at document subpoenas \nDate: Fri, 02 Aug 2019 16:52:29 +0000 \nAttachments: 2019-08-02,_JE,_individual_sub oena, \nocx; \n2019-08-\n02, \nJE,_individual_subpoena, \n.docx; 2019-08-\n02, JE, individual subpoena, Ghislane Maxwell.docx; 2019-08-\n.docx; 2019-08-\nocx; \n2019-08-\n; 2019-08-\ndocx \n)\"   \n02,_JE,_individual_subpoena, \n02,_JE,_individual_subpoena, \n02,_JE,_individual_subpoena, \n02,_JE,_individual_subpoena \nI threw together the attached as a first attempt to put together some document subpoenas. Please let me know if there's \nanything you think I should add/remove/rephrase. Also not sure whether we actually want to serve all of these people, or \nif there are others that we will also want to subpoena, but let me know. \nAssistant United States Attorney \nSouthern District of New York \nEFTA00030517",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislane Maxwell",
+        "role": "extracted",
+        "context": "02, JE, individual subpoena, Ghislane Maxwell.docx; 2019-08-\n.docx; 2019-08"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "o subpoena, but let me know. \nAssistant United States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "et me know. \nAssistant United States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "stant United States Attorney \nSouthern District of New York \nEFTA00030517"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-02",
+        "event": "2019-08-02"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.041Z"
+}

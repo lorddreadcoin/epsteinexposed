@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00016303",
+    "filename": "EFTA00016303.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00016303.pdf",
+    "text": "\n\nFrom: \nTo: \"FreemanNYSDChambers@nysd.uscourts.gov\" \n<FreemanNYSDChambers@nysd.uscourts.gov> \nCc: \nSubject: Doe v. Indyke, et al., 20 Civ. 484 (DCF) (JGK) \nDate: Sat, 05 Sep 2020 02:16:54 +0000 \nAttachments: 2020-09-04,_GM,Government Jetter_in_support_of stay_application.pdf \nGood evening, \nAttached for Judge Freeman's consideration please find a letter from the Government in support of a stay in the above-\nreferenced matter. \nRespectfully submitted, \nEFTA00016303",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Government Jetter",
+        "role": "extracted",
+        "context": "Attachments: 2020-09-04,_GM,Government Jetter_in_support_of stay_applicatio"
+      },
+      {
+        "name": "Judge Freeman",
+        "role": "extracted",
+        "context": "Good evening, \nAttached for Judge Freeman's consideration please find a"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-09-04",
+        "event": "2020-09-04"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:52.432Z"
+}

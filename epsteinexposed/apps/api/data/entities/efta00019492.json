@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00019492",
+    "filename": "EFTA00019492.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019492.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: Review \nDate: Fri, 26 Mar 2021 16:28:34 +0000 \nAttachments: USVP00157303.pdf; USVP00157304.pdf \nHi — I came across this email and attachment while doing the review. I tagged it for further review, but wanted to \ncirculate. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00019492",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Review \nDate",
+        "role": "extracted",
+        "context": "From: \nTo: \nSubject: Review \nDate: Fri, 26 Mar 2021 16:28:34 +0"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "nted to \ncirculate. \nThanks, \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "e. \nThanks, \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:59.013Z"
+}

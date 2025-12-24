@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00031506",
+    "filename": "EFTA00031506.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031506.pdf",
+    "text": "\n\nFrom: \nTo: \nSubject: RE: Bail orders \nDate: Wed, 25 Mar 2020 19:11:00 +0000 \nAttachments: 2020-03-XX_-_Letter_Opposing_Bail_v2.doex \nThis is \nwhat I filed with Buchwald that led to the Order circulated a  little while ago. It responded to, what I have \nbeen calling, the defense-circulated boilerplate \"airing of grievances\" about BOP. \nFrom \nSent: Wednesday, March 25, 2020 3:06 PM \nTo: \nSubject: RE: Bail orders \nAll \nI am guessing everyone is getting inundated with these. If possible, could people reply all with the word version \nof what they've been submitting? I am assuming that the requests fall in the following categories: \nI. Boilerplate request (i.e., pretrial detention and defendant has no risk factors) \n2. Pretrial detention with certain risk factors (heart condition; asthma, etc.) \n3. Post plea, pre\n-sentence \n4. Post \nsentence \nI am attaching one I did in a post sentence case. The defendant has to go through BOP process before applying \nto the court for compassionate release. I am also attaching two from a gang case (one defendant had diabetes \nand the other was more general). These were filed before the confirmed MCC case. With respect to the diabetic \ndefendant, Judge Daniels just denied the order without an opinion. \nBut, as we are handling many of these, it would be helpful to see what others are arguing. \nHope everyone is doing well! \nFrom: \nSent: Wednesday, March 25, 2020 2:54 PM \nTo: \nSubject: Bail orders \nAttached is an order issued by Judge Engelmayer last week in a bail appeal. To the extent we end up consenting to bail or \na judge orders bail, this order is a helpful example. \nAlso attached is an order from Judge Buchwald denying bail where defense raises the boilerplate COVID-19 argument \nwe've been seeing in some cases. This could be helpful as we see more and more of these filed. \nAssistant United States Attorney \nEFTA00031506\n\nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, NY \n10007 \nEFTA00031507",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "ng of grievances\" about BOP. \nFrom \nSent: Wednesday, March 25, 2020 3:"
+      },
+      {
+        "name": "Judge Daniels",
+        "role": "extracted",
+        "context": "t to the diabetic \ndefendant, Judge Daniels just denied the order without"
+      },
+      {
+        "name": "Judge Engelmayer",
+        "role": "extracted",
+        "context": "ttached is an order issued by Judge Engelmayer last week in a bail appeal. T"
+      },
+      {
+        "name": "Judge Buchwald",
+        "role": "extracted",
+        "context": "lso attached is an order from Judge Buchwald denying bail where defense ra"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "ore and more of these filed. \nAssistant United States Attorney \nEFTA00031506"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "hese filed. \nAssistant United States Attorney \nEFTA00031506\n\nSouthern Distr"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tates Attorney \nEFTA00031506\n\nSouthern District of New York \nOne St. Andrew's"
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, NY"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, NY \n10007 \nEFTA00031507"
+      }
+    ],
+    "locations": [
+      {
+        "name": "New York, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-03-25",
+        "event": "March 25, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:28.264Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00015291",
+    "filename": "EFTA00015291.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015291.pdf",
+    "text": "\n\nFrom: \" \nTo: \nSubject: RE: Epstein \nDate: Mon, 10 Dec 2018 20:31:10 +0000 \nImportance: Normal \nGot it \nFrom: \nSent: Monday, December 10, 2018 3:23 PM \nTo: \nSubject: RE: Epstein \nHe told us he sent a brief write up and told her we were open on it —  he hasn't heard back yet. \nFrom: \nSent: Monday, December 10, 2018 3:20 PM \nTo: \nSubject: Epstein \nDo you know whether mentioned it to ODAG? \nEFTA00015291",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein \nDate",
+        "role": "extracted",
+        "context": "From: \" \nTo: \nSubject: RE: Epstein \nDate: Mon, 10 Dec 2018 20:31:10 +0"
+      },
+      {
+        "name": "Normal \nGot",
+        "role": "extracted",
+        "context": "8 20:31:10 +0000 \nImportance: Normal \nGot it \nFrom: \nSent: Monday, Dece"
+      },
+      {
+        "name": "Epstein \nHe",
+        "role": "extracted",
+        "context": "18 3:23 PM \nTo: \nSubject: RE: Epstein \nHe told us he sent a brief write"
+      },
+      {
+        "name": "Epstein \nDo",
+        "role": "extracted",
+        "context": ", 2018 3:20 PM \nTo: \nSubject: Epstein \nDo you know whether mentioned it"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2018-12-10",
+        "event": "December 10, 2018"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.391Z"
+}

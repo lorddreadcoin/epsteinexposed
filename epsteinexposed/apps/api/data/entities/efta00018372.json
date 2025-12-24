@@ -1,0 +1,50 @@
+{
+  "document": {
+    "id": "efta00018372",
+    "filename": "EFTA00018372.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00018372.pdf",
+    "text": "\n\nFrom: \";'' \nTo: \nSubject: \nDate: Thu, 04 Nov 2021 16:35:41 +0000 \nAttachments: 2021-11-03_Defense_Motionforjuror_Name_Reconsideration.pdf \nSines It Kessler, 17 Civ. 72 (KNM) (W.D. Va.) \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nEFTA00018372",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sines It",
+        "role": "extracted",
+        "context": "ror_Name_Reconsideration.pdf \nSines It Kessler, 17 Civ. 72 (KNM) (W."
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "17 Civ. 72 (KNM) (W.D. Va.) \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "(W.D. Va.) \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nOne St."
+      },
+      {
+        "name": "One St",
+        "role": "extracted",
+        "context": "outhern District of New York \nOne St. Andrew's Plaza \nNew York, Ne"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "of New York \nOne St. Andrew's Plaza \nNew York, New York 10007 \nTel: \nE"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:56.778Z"
+}

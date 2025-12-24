@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "efta00007965",
+    "filename": "EFTA00007965.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00007965.pdf",
+    "text": "\n\nI \nTown \nof \nPalm \nBeach \nv‘oti\\\n-\n-\nPolice \nDepartment \nrail, \nEVIDENCE \n*\n*--4'11\n1---\n;\nCASE \nitni-\n2\n \n46 \n \nPROPERTY \nI\n \n0\n6\n,-\n79\nCONTENTS \na\n• \n• \n• \nEFTA00007965\n\nITEM \nWAS \nNOT \nSCANNED \nDESCRIPTION \nEFTA00007966\n\n- \nEFTA00007967",
+    "pageCount": 3,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Palm \nBeach",
+        "role": "extracted",
+        "context": "I \nTown \nof \nPalm \nBeach \nv‘oti\\\n-\n-\nPolice \nDepartmen"
+      },
+      {
+        "name": "Police \nDepartment",
+        "role": "extracted",
+        "context": "of \nPalm \nBeach \nv‘oti\\\n-\n-\nPolice \nDepartment \nrail, \nEVIDENCE \n*\n*--4'11\n1"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:37.575Z"
+}

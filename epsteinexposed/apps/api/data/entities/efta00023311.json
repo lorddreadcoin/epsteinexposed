@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00023311",
+    "filename": "EFTA00023311.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00023311.pdf",
+    "text": "\n\nFrom: Lyft Ride Receipt <no-replyglyilmail.com> \nTo: \nSubject: Your ride with Mon February 26 \nDate: Wed, 26 Feb 2020 23:52:08 +0000 \n4dyft \nFEBRUARY 26, 2020 AT 10:51 AM \nThanks for riding with \nLyft fare (11.29mi, 39m 49s) $27.59 \nTip $4.14 \n$31.73 \nRide Map \nPickup \n10:51 AM \nLos Angeles Intl Airport, Los Angeles, CA \nDrop-off \nFAVORITE DRIVER \nTIP DRIVER \nFIND LOST ITEM \nEFTA00023311\n\nREQUEST REVIEW \nReview price in the Lyft app help tab \nHelp Center \nReceipt #1376271668412774216 \nWe never share your address with your driver after a ride. \nLearn more about our commitment to safety. \nMapbox © OpenStreetMap Improve \nthis map \n© 2020 Lyft, Inc. \n548 Market St., P.O. Box 68514 \nSan Francisco, CA 94104 \nCPUC ID No. TCP0032513 - P \nWork at Lyft \nBecome a Driver \nEFTA00023312",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Lyft Ride",
+        "role": "extracted",
+        "context": "From: Lyft Ride Receipt <no-replyglyilmail.co"
+      },
+      {
+        "name": "Mon February",
+        "role": "extracted",
+        "context": "To: \nSubject: Your ride with Mon February 26 \nDate: Wed, 26 Feb 2020 23"
+      },
+      {
+        "name": "Ride Map",
+        "role": "extracted",
+        "context": "s) $27.59 \nTip $4.14 \n$31.73 \nRide Map \nPickup \n10:51 AM \nLos Angele"
+      },
+      {
+        "name": "Intl Airport",
+        "role": "extracted",
+        "context": "Pickup \n10:51 AM \nLos Angeles Intl Airport, Los Angeles, CA \nDrop-off \nF"
+      },
+      {
+        "name": "Help Center",
+        "role": "extracted",
+        "context": "ice in the Lyft app help tab \nHelp Center \nReceipt #1376271668412774216"
+      },
+      {
+        "name": "Map Improve",
+        "role": "extracted",
+        "context": "o safety. \nMapbox © OpenStreetMap Improve \nthis map \n© 2020 Lyft, Inc."
+      },
+      {
+        "name": "Market St",
+        "role": "extracted",
+        "context": "s map \n© 2020 Lyft, Inc. \n548 Market St., P.O. Box 68514 \nSan Francis"
+      },
+      {
+        "name": "Lyft \nBecome",
+        "role": "extracted",
+        "context": "D No. TCP0032513 - P \nWork at Lyft \nBecome a Driver \nEFTA00023312"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Los Angeles, CA",
+        "type": "city"
+      },
+      {
+        "name": "San Francisco, CA",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-02-26",
+        "event": "FEBRUARY 26, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:08.688Z"
+}

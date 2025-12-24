@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00022055",
+    "filename": "EFTA00022055.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00022055.pdf",
+    "text": "\n\nU.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober \n19, 2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h \nStreet \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe passes • containing discovery materials pertinent to Ghislaine Maxwell \n(02879-509) is \nVery truly yours, \nAUDREY \nSTRAUSS \nActin United States Attorne \nby: \nssis an ni e tates Attorneys \nEFTA00022055",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "role": "extracted",
+        "context": "Street \nBrooklyn, NY 11232 \nRe: United States v.  Ghislaine Maxwell, 20 Cr. 330 (AJN) \nThe passes • containing discov"
+      },
+      {
+        "name": "Justice \nUnited",
+        "role": "extracted",
+        "context": "U.S. \nDepartment of \nJustice \nUnited States Attorney \nSouthern Dis"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "epartment of \nJustice \nUnited States Attorney \nSouthern District of New Yor"
+      },
+      {
+        "name": "Southern District",
+        "role": "extracted",
+        "context": "tice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mo"
+      },
+      {
+        "name": "The Silvio",
+        "role": "extracted",
+        "context": "outhern District of New York \nThe Silvio J. Mollo Building \nOne Saint"
+      },
+      {
+        "name": "Mollo Building",
+        "role": "extracted",
+        "context": "ct of New York \nThe Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNe"
+      },
+      {
+        "name": "One Saint",
+        "role": "extracted",
+        "context": "The Silvio J. Mollo Building \nOne Saint Andrew's Plaza \nNew York, New"
+      },
+      {
+        "name": "Plaza \nNew",
+        "role": "extracted",
+        "context": "Building \nOne Saint Andrew's Plaza \nNew York, New York 10007 \nOctober"
+      },
+      {
+        "name": "Metropolitan Detention",
+        "role": "extracted",
+        "context": "2020 \nBY FEDERAL EXPRESS \nMDC—Metropolitan Detention Center \nLegal Department \n80"
+      },
+      {
+        "name": "Center \nLegal",
+        "role": "extracted",
+        "context": "S \nMDC—Metropolitan Detention Center \nLegal Department \n80 29'h \nStreet"
+      },
+      {
+        "name": "Street \nBrooklyn",
+        "role": "extracted",
+        "context": "r \nLegal Department \n80 29'h \nStreet \nBrooklyn, NY 11232 \nRe: United States"
+      },
+      {
+        "name": "Actin United",
+        "role": "extracted",
+        "context": "ruly yours, \nAUDREY \nSTRAUSS \nActin United States Attorne \nby: \nssis an"
+      },
+      {
+        "name": "States Attorne",
+        "role": "extracted",
+        "context": "AUDREY \nSTRAUSS \nActin United States Attorne \nby: \nssis an ni e tates Atto"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Street \nBrooklyn, NY",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-19",
+        "event": "October \n19, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:05.924Z"
+}

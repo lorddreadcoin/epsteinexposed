@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "efta00003039",
+    "filename": "EFTA00003039.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 1\\DataSet 1\\VOL00001\\IMAGES\\0004\\EFTA00003039.pdf",
+    "text": "\n\nN•R \nC \nAl \nCu \nDc \nDc \nIn \n( \nNar \n;Aar \n-D\nec \n40 \nCoyvtle \ne \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nLSJE, \nLLC \n6100 \ners, \nSuite \n8-3, \nSt. \nThomas, \nVI \n00802-1348 \nPhone: \nE-mail: \nthesaintjames.group@gmail.com \nEmergency \nContact \nForm \nAiicitoias \nVir4vitt \nStart \nDate: \nDate \nof \nBirth: \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nA- \nD \nA+ \nq \nAB- \nO \nAB+ \nq \nB- \nO \nEl+ \nD \n0- \nE \n0+ \nD \nUnknown \nCurrent \nMedications: \nDoctors \nName: \nDoctor's \nName: \nDoctor's \nPhone: \nDoctor's \nPhone: \nin \ncase \nof \nemergency, \nplease \ncontact: \nName, \nName: \nRclationahip. \nRelationship: \nPhone: \nPhone: \nThis \ninformation \nis \nfor \nyour \nsafety \nand \nthe \nsafety \nof \nothers. \nEFTA00003039",
+    "pageCount": 1,
+    "dataset": "Dataset 1"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Al \nCu",
+        "role": "extracted",
+        "context": "N•R \nC \nAl \nCu \nDc \nDc \nIn \n( \nNar \n;Aar \n-D"
+      },
+      {
+        "name": "Dc \nDc",
+        "role": "extracted",
+        "context": "N•R \nC \nAl \nCu \nDc \nDc \nIn \n( \nNar \n;Aar \n-D\nec \n40"
+      },
+      {
+        "name": "Employee \nName",
+        "role": "extracted",
+        "context": "Coyvtle \ne \nToday's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing"
+      },
+      {
+        "name": "Physical \nAddress",
+        "role": "extracted",
+        "context": "ay's \nDate: \nEmployee \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPh"
+      },
+      {
+        "name": "Mailing \nAddress",
+        "role": "extracted",
+        "context": "e \nName: \nPhysical \nAddress: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitl"
+      },
+      {
+        "name": "Cell \nPhone",
+        "role": "extracted",
+        "context": "Address: \nMailing \nAddress: \nCell \nPhone: \nE-mail: \nTitle/Position: \nL"
+      },
+      {
+        "name": "Emergency \nContact",
+        "role": "extracted",
+        "context": "hesaintjames.group@gmail.com \nEmergency \nContact \nForm \nAiicitoias \nVir4vitt"
+      },
+      {
+        "name": "Form \nAiicitoias",
+        "role": "extracted",
+        "context": "mail.com \nEmergency \nContact \nForm \nAiicitoias \nVir4vitt \nStart \nDate: \nDate"
+      },
+      {
+        "name": "Start \nDate",
+        "role": "extracted",
+        "context": "Form \nAiicitoias \nVir4vitt \nStart \nDate: \nDate \nof \nBirth: \nPhone \n(o"
+      },
+      {
+        "name": "Marital \nStatus",
+        "role": "extracted",
+        "context": "of \nBirth: \nPhone \n(other): \nMarital \nStatus: \nDriver's \nLicense \nNo: \nAll"
+      },
+      {
+        "name": "License \nNo",
+        "role": "extracted",
+        "context": "Marital \nStatus: \nDriver's \nLicense \nNo: \nAllergies \nor \nHealth \nConc"
+      },
+      {
+        "name": "Health \nConcerns",
+        "role": "extracted",
+        "context": "License \nNo: \nAllergies \nor \nHealth \nConcerns: \nBlood \ntype: \nA- \nD \nA+ \nq"
+      },
+      {
+        "name": "Unknown \nCurrent",
+        "role": "extracted",
+        "context": "B- \nO \nEl+ \nD \n0- \nE \n0+ \nD \nUnknown \nCurrent \nMedications: \nDoctors \nName:"
+      },
+      {
+        "name": "Doctors \nName",
+        "role": "extracted",
+        "context": "known \nCurrent \nMedications: \nDoctors \nName: \nDoctor's \nName: \nDoctor's"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Thomas, VI",
+        "type": "city"
+      }
+    ],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:28.575Z"
+}

@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00019320",
+    "filename": "EFTA00019320.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00019320.pdf",
+    "text": "\n\nFrom: (USANYS)\" \nalMIE> \nTo: (USANYS)\" <MIMIMIE> \nSubject: FW: \nsec \nDate: Fri, 16 Aug 2019 21:13:23 +0000 \nI connected with \n Original Message \nFrom: Cowley, (USANYS) <a> \nSent: Frida , Au ust 16, 2019 9:26 AM \nCc: USANYS)\n \n; \nTo: (USANYS) \nSubject: Re: sec \nDude, I started my email by apologizing for the ping! \nThe SEC's failure to register as an IA case most continue! \nThx \nSent from my iPhone \n(USANYS) 6 \n> On Aug 16, 2019, at 9:23 AM, (USANYS) <MIMMIN> wrote: \n> This fell down the priority list after, you know, he strangled himself the morning after our call. But may \nhave spoken to the team about it? If not we'll try to today. \n> Sent from my iPhone \n» \nOn Aug 16, 2019, at 9:19 \nAM, Cowley, \n(USANYS) wrote: \n» Guys, \n>> Sony for the ping on this, but Sec called me about Epstein stuff. I  think where we left off is you were going \nto confirm that you hadn't seen anything in the records consistent with him investing other people's money. \n>> \nSent from my iPhone \nEFTA00019320",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Original Message",
+        "role": "extracted",
+        "context": ":23 +0000 \nI connected with \n Original Message \nFrom: Cowley, (USANYS) <a>"
+      },
+      {
+        "name": "Thx \nSent",
+        "role": "extracted",
+        "context": "as an IA case most continue! \nThx \nSent from my iPhone \n(USANYS) 6 \n>"
+      },
+      {
+        "name": "On Aug",
+        "role": "extracted",
+        "context": "from my iPhone \n(USANYS) 6 \n> On Aug 16, 2019, at 9:23 AM, (USANYS"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:58.672Z"
+}

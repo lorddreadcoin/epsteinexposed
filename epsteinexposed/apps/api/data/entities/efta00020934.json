@@ -1,0 +1,195 @@
+{
+  "document": {
+    "id": "efta00020934",
+    "filename": "EFTA00020934.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00020934.pdf",
+    "text": "\n\nFact Witness Travel Request (Domestic Witness Travel) \nUse this form for all fact witnesses within the U.S. except government employees and military personnel, for whom a Request for \nArmed Forces or Government-Employee Witness should be used. For foreign witnesses, use the International Witness Travel \nRequest. Complete an Early or Extended stay memo if the witness is being brought in more than 3 business days prior to court/G1 \ntestimony. Note that witnesses may only be brought in under the FE WS appropriation for grand jury testimony, court testimony, \nor preparation for same. NB: as to grand iury. this aoolies \nonly in the relatively infreouent occasions where time in the grand jury \nhas been scheduled and the witness is intended to testify. Any other witness travel for investigative interviews must be covered \nby the investigating component from litigative funds (it is generally more common for investigators to travel to the witness). See \n28 C.F.R. Part 21, Witness Fees; USAP 3-19.000, Fact Witnesses and Fees and Expenses of Witnesses (FEW) Appropriation; \nGuiding Principles for Obtaining Witness Services Under the Fees and Expenses of Witnesses Appropriation, \nlittp://dojnet.doj.gov/usaofeousa/ole/usabookiwittilindexiam \nTo: SDNY Victim/Witness Unit \nAUSA \nUnited States v. Jeffrey Epstein \nCourt Docket Number: 19 Cr. 490 (RMB) \nWitness Name: \n(Name/DOB as printed here will be forwarded to travel agency and then to TSA and must exactly match the witness's driver's \nlicense or other travel ID or TSA will not permit the witness to fly) \nWitness Address: \nWitness Telephone Numbers (mobile): \nWitness e-mail: \nUSA° \nNo: 2018R01618 \nWitness \nDOB: \nNeeded to Appear in SDNY on August 1, 2019 at 1 p.m. \ndate \ntime \nFor: Trial ( ) \nTrial Date \nGrand Jury ( ) Trial/GJ \nPrep (x) \nDate Date \nIs the person a Fact Witness and not an Expert Witness? \n(Yes/No) Yes_ \nCurrent Federal Civilian or Military Employee? \n(Yes/No) No \nIs the Witness Facing Criminal Charges? \n(Yes/No) No \nDoes the Witness Reside Outside the Continental United States? (Yes/No) \nNo \nIs this Witness a Victim-Witness \n(Yes/No) _Yes_ \nHotel Required \n(Yes/No) Yes \nEst. Date of Arrival  Est. Date of Departure \nEFTA00020934",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "SDNY Victim/Witness Unit \nAUSA \nUnited States v. Jeffrey Epstein \nCourt Docket Number: 19 Cr. 490 (RMB) \nWitness N"
+      },
+      {
+        "name": "Fact Witness",
+        "role": "extracted",
+        "context": "Fact Witness Travel Request (Domestic Witn"
+      },
+      {
+        "name": "Travel Request",
+        "role": "extracted",
+        "context": "Fact Witness Travel Request (Domestic Witness Travel) \nUs"
+      },
+      {
+        "name": "Domestic Witness",
+        "role": "extracted",
+        "context": "Fact Witness Travel Request (Domestic Witness Travel) \nUse this form for al"
+      },
+      {
+        "name": "Armed Forces",
+        "role": "extracted",
+        "context": "nnel, for whom a Request for \nArmed Forces or Government-Employee Witnes"
+      },
+      {
+        "name": "Employee Witness",
+        "role": "extracted",
+        "context": "r \nArmed Forces or Government-Employee Witness should be used. For foreign w"
+      },
+      {
+        "name": "International Witness",
+        "role": "extracted",
+        "context": "or foreign witnesses, use the International Witness Travel \nRequest. Complete an"
+      },
+      {
+        "name": "Travel \nRequest",
+        "role": "extracted",
+        "context": "use the International Witness Travel \nRequest. Complete an Early or Extende"
+      },
+      {
+        "name": "Witness Fees",
+        "role": "extracted",
+        "context": "ess). See \n28 C.F.R. Part 21, Witness Fees; USAP 3-19.000, Fact Witnesse"
+      },
+      {
+        "name": "Fact Witnesses",
+        "role": "extracted",
+        "context": "Witness Fees; USAP 3-19.000, Fact Witnesses and Fees and Expenses of Witn"
+      },
+      {
+        "name": "Guiding Principles",
+        "role": "extracted",
+        "context": "tnesses (FEW) Appropriation; \nGuiding Principles for Obtaining Witness Service"
+      },
+      {
+        "name": "Obtaining Witness",
+        "role": "extracted",
+        "context": "tion; \nGuiding Principles for Obtaining Witness Services Under the Fees and E"
+      },
+      {
+        "name": "Services Under",
+        "role": "extracted",
+        "context": "nciples for Obtaining Witness Services Under the Fees and Expenses of Witn"
+      },
+      {
+        "name": "Witnesses Appropriation",
+        "role": "extracted",
+        "context": "nder the Fees and Expenses of Witnesses Appropriation, \nlittp://dojnet.doj.gov/usao"
+      },
+      {
+        "name": "Witness Unit",
+        "role": "extracted",
+        "context": "ttilindexiam \nTo: SDNY Victim/Witness Unit \nAUSA \nUnited States v. Jeffr"
+      },
+      {
+        "name": "Court Docket",
+        "role": "extracted",
+        "context": "ed States v. Jeffrey Epstein \nCourt Docket Number: 19 Cr. 490 (RMB) \nWit"
+      },
+      {
+        "name": "Witness Name",
+        "role": "extracted",
+        "context": "ket Number: 19 Cr. 490 (RMB) \nWitness Name: \n(Name/DOB as printed here w"
+      },
+      {
+        "name": "Witness Address",
+        "role": "extracted",
+        "context": "t permit the witness to fly) \nWitness Address: \nWitness Telephone Numbers ("
+      },
+      {
+        "name": "Witness Telephone",
+        "role": "extracted",
+        "context": "ss to fly) \nWitness Address: \nWitness Telephone Numbers (mobile): \nWitness e-"
+      },
+      {
+        "name": "Trial Date",
+        "role": "extracted",
+        "context": "date \ntime \nFor: Trial ( ) \nTrial Date \nGrand Jury ( ) Trial/GJ \nPre"
+      },
+      {
+        "name": "Grand Jury",
+        "role": "extracted",
+        "context": "For: Trial ( ) \nTrial Date \nGrand Jury ( ) Trial/GJ \nPrep (x) \nDate"
+      },
+      {
+        "name": "Date Date",
+        "role": "extracted",
+        "context": "Jury ( ) Trial/GJ \nPrep (x) \nDate Date \nIs the person a Fact Witness"
+      },
+      {
+        "name": "Expert Witness",
+        "role": "extracted",
+        "context": "son a Fact Witness and not an Expert Witness? \n(Yes/No) Yes_ \nCurrent Fede"
+      },
+      {
+        "name": "Current Federal",
+        "role": "extracted",
+        "context": "pert Witness? \n(Yes/No) Yes_ \nCurrent Federal Civilian or Military Employee"
+      },
+      {
+        "name": "Military Employee",
+        "role": "extracted",
+        "context": "Current Federal Civilian or Military Employee? \n(Yes/No) No \nIs the Witness"
+      },
+      {
+        "name": "No \nIs",
+        "role": "extracted",
+        "context": "Military Employee? \n(Yes/No) No \nIs the Witness Facing Criminal C"
+      },
+      {
+        "name": "Witness Facing",
+        "role": "extracted",
+        "context": "mployee? \n(Yes/No) No \nIs the Witness Facing Criminal Charges? \n(Yes/No) N"
+      },
+      {
+        "name": "Criminal Charges",
+        "role": "extracted",
+        "context": "No) No \nIs the Witness Facing Criminal Charges? \n(Yes/No) No \nDoes the Witne"
+      },
+      {
+        "name": "No \nDoes",
+        "role": "extracted",
+        "context": "g Criminal Charges? \n(Yes/No) No \nDoes the Witness Reside Outside th"
+      },
+      {
+        "name": "Witness Reside",
+        "role": "extracted",
+        "context": "arges? \n(Yes/No) No \nDoes the Witness Reside Outside the Continental Unite"
+      },
+      {
+        "name": "Continental United",
+        "role": "extracted",
+        "context": "he Witness Reside Outside the Continental United States? (Yes/No) \nNo \nIs this"
+      },
+      {
+        "name": "Hotel Required",
+        "role": "extracted",
+        "context": "ctim-Witness \n(Yes/No) _Yes_ \nHotel Required \n(Yes/No) Yes \nEst. Date of A"
+      },
+      {
+        "name": "Yes \nEst",
+        "role": "extracted",
+        "context": "es_ \nHotel Required \n(Yes/No) Yes \nEst. Date of Arrival  Est. Date o"
+      },
+      {
+        "name": "Arrival  Est",
+        "role": "extracted",
+        "context": "d \n(Yes/No) Yes \nEst. Date of Arrival  Est. Date of Departure \nEFTA00020"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-08-01",
+        "event": "August 1, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:03.649Z"
+}

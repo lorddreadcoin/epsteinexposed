@@ -1,0 +1,54 @@
+{
+  "document": {
+    "id": "efta00029306",
+    "filename": "EFTA00029306.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00029306.pdf",
+    "text": "\n\nFrom: ' (USANYS)\" ctl \nTo: alai.> \"I\nIIII.JSAls..1YS\" \n. (NY) (OGA) (FBI)\" \nCc: (USANYS)\"  \nSubject: RE: Response to Epstein Touhy Requests \nDate: Wed, 04 Sep 2019 00:13:11 +0000 \nImportance: Normal \nGreat. Thank you! \nFrom: (NY) (FBI) <> \nSent: Tuesday, September 3, 2019 4:40 PM \nTo: (USANYS) ‹; (NY) (OGA) (FBI) c> \nCc: (USANYS); \nSubject: RE: Response to Epstein Touhy Requests \nHere is info: \nTel: \nEmail: \nFrom: (USANYS) [ma ilto: \nSent: Tuesday, September 03, 2019 12:08 PM \nTo: (NY) (OGA) se; \nCc: (USANYS) \nSubject: Response to Epstein Touhy Requests \n(USANYS) \nHey guys — \n• (NY) \n(FBI) \n•z\n> \n(USANYS) \nAUSA in our Civil Division and copied here, is handling the Touhy requests from Epstein's lawyers and wanted to \nmake sure that he spoke with the right FBI P0C about the request to FBI (attached). Could you provide us with the \ncontact information for ?  Thanks! \nEFTA00029306",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Epstein Touhy",
+        "role": "extracted",
+        "context": ")\"  \nSubject: RE: Response to Epstein Touhy Requests \nDate: Wed, 04 Sep 2"
+      },
+      {
+        "name": "Requests \nDate",
+        "role": "extracted",
+        "context": "RE: Response to Epstein Touhy Requests \nDate: Wed, 04 Sep 2019 00:13:11 +0"
+      },
+      {
+        "name": "Normal \nGreat",
+        "role": "extracted",
+        "context": "9 00:13:11 +0000 \nImportance: Normal \nGreat. Thank you! \nFrom: (NY) (FBI)"
+      },
+      {
+        "name": "Requests \nHere",
+        "role": "extracted",
+        "context": "RE: Response to Epstein Touhy Requests \nHere is info: \nTel: \nEmail: \nFrom:"
+      },
+      {
+        "name": "Civil Division",
+        "role": "extracted",
+        "context": "•z\n> \n(USANYS) \nAUSA in our Civil Division and copied here, is handling"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-09-03",
+        "event": "September 3, 2019"
+      },
+      {
+        "date": "2019-09-03",
+        "event": "September 03, 2019"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:23.200Z"
+}

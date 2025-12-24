@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00030762",
+    "filename": "EFTA00030762.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030762.pdf",
+    "text": "\n\nFrom: ' \nTo: \"MMI (USANYS)\"  \nk \nII \nCc: \n11.r.h.:„.1YS  \nk \n(USANYS)\" \nSubject: RE: Order no. 15JA5421F00000068 Scanning project U.S. v. Maxwell Epstein \nDate: Wed, 14 Jul 2021 17:19:35 +0000 \nGood Afternoon M, \nWe never received any of the boxes to process for this project. \nThanks, \nFrom: (USANYS) \nSent: Tuesday, July 13, 2021 9:44 AM \nTo: \nCc: (USANYS); (Other) -\nSubject: Order no. 151A5421F00000068 Scanning project U.S. v. Maxwell Epstein \nEXTERNAL EMAIL - This email originated from outside of CACI. Do not click any links or attachments unless you \nrecognize and trust the sender. \nH=-\nThe task order expired 5/31/2021. Have all invoices been sent for payment? \nThis electronic message contains information from CACI International Inc or subsidiary companies. which may be company sensitive, proprietary. privileged or \notherwise protected from disclosure. The information is intended to be used solely by the recipient(s) named above. If you are not an intended recipient. be aware \nthat any \nreview, \ndisclosure, \ncopying, \ndistribution or use of this transmission or its contents is prohibited. If you have received this transmission in \nerror, \nplease notify \nthe sender immediately. \nEFTA00030762",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Maxwell Epstein",
+        "role": "extracted",
+        "context": "0068 Scanning project U.S. v. Maxwell Epstein \nDate: Wed, 14 Jul 2021 17:19"
+      },
+      {
+        "name": "Good Afternoon",
+        "role": "extracted",
+        "context": ", 14 Jul 2021 17:19:35 +0000 \nGood Afternoon M, \nWe never received any of"
+      },
+      {
+        "name": "International Inc",
+        "role": "extracted",
+        "context": "ontains information from CACI International Inc or subsidiary companies. whic"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2021-05-31",
+        "event": "5/31/2021"
+      },
+      {
+        "date": "2021-07-13",
+        "event": "July 13, 2021"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.600Z"
+}

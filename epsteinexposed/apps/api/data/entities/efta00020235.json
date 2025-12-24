@@ -1,0 +1,44 @@
+{
+  "document": {
+    "id": "efta00020235",
+    "filename": "EFTA00020235.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0003\\EFTA00020235.pdf",
+    "text": "\n\nFrom: \nTo: \nCc. \nSubject: RE: RE: for mailing \nDate: Mon, 29 Jun 2020 14:13:33 +0000 \nAttachments: 2020-06-29, pdf; 2020-06-29, pdf \nAdding to this, two more for this morning, please, attached. For the please mail; for the \nif you could please mail it to the address but also fax it to the fax number listed? Thanks again. \nFrom \nSent: Monday, June 29, 2020 09:36 \nTo \nCc:\nSubject: RE: subpoena \nfor mailing \nAs discussed, could you please put the attached subpoena in the mail this morning? Let me know if any questions or \nissues, otherwise should be all set. \nthanks very much, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA00020235",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "From \nSent",
+        "role": "extracted",
+        "context": "number listed? Thanks again. \nFrom \nSent: Monday, June 29, 2020 09:36"
+      },
+      {
+        "name": "To \nCc",
+        "role": "extracted",
+        "context": "Monday, June 29, 2020 09:36 \nTo \nCc:\nSubject: RE: subpoena \nfor m"
+      },
+      {
+        "name": "Attorney \nSouthern",
+        "role": "extracted",
+        "context": "ks very much, \nAssistant U.S. Attorney \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-06-29",
+        "event": "2020-06-29"
+      },
+      {
+        "date": "2020-06-29",
+        "event": "June 29, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:00.451Z"
+}

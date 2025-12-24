@@ -1,0 +1,74 @@
+{
+  "document": {
+    "id": "efta00013943",
+    "filename": "EFTA00013943.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0001\\EFTA00013943.pdf",
+    "text": "\n\nFrom: \" (USAFLS)\" aMIIM> \nTo: :r >, Roy BLACK \nCc: (USAFLS)\" \nalMIE> \nBcc: (USAFLS)\" alMIN> \nSubject: Jeffrey Epstein \nDate: Thu, 21 Aug 2008 21:31:45 +0000 \nImportance: Normal \nAttachments: 080821_ Itr to_Lefkowitz_and_Black.pdf; DE26_080821_Protective_Order.pdf \nDear Jay and Roy —  I have attached a letter in response to Jay's letter of August 18, 2008, and an Order we \nreceived today in the Jane Doe v. United States litigation. \n«080821 Itr to Lefkowitz and Black.pdt>> \n«DE26_080821_Protective Order.pdf» \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013943",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "USAFLS)\" \nalMIE> \nBcc: (USAFLS)\" alMIN> \nSubject: Jeffrey Epstein \nDate: Thu, 21 Aug 2008 21:31:45 +0000 \nImportanc"
+      },
+      {
+        "name": "Normal \nAttachments",
+        "role": "extracted",
+        "context": "8 21:31:45 +0000 \nImportance: Normal \nAttachments: 080821_ Itr to_Lefkowitz_and"
+      },
+      {
+        "name": "Dear Jay",
+        "role": "extracted",
+        "context": "_080821_Protective_Order.pdf \nDear Jay and Roy —  I have attached a"
+      },
+      {
+        "name": "Jane Doe",
+        "role": "extracted",
+        "context": "der we \nreceived today in the Jane Doe v. United States litigation."
+      },
+      {
+        "name": "Protective Order",
+        "role": "extracted",
+        "context": "and Black.pdt>> \n«DE26_080821_Protective Order.pdf» \nAssistant U.S. \nAttorne"
+      },
+      {
+        "name": "Attorney \nWest",
+        "role": "extracted",
+        "context": "e Order.pdf» \nAssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone"
+      },
+      {
+        "name": "Palm Beach",
+        "role": "extracted",
+        "context": "ssistant U.S. \nAttorney \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00"
+      },
+      {
+        "name": "Phone \nFax",
+        "role": "extracted",
+        "context": "y \nWest Palm Beach, FL 33401 \nPhone \nFax \nEFTA00013943"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Palm Beach",
+        "type": "location"
+      },
+      {
+        "name": "Palm Beach, FL",
+        "type": "city"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2008-08-18",
+        "event": "August 18, 2008"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:47.790Z"
+}

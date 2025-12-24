@@ -1,0 +1,35 @@
+{
+  "document": {
+    "id": "efta00030596",
+    "filename": "EFTA00030596.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00030596.pdf",
+    "text": "\n\nFrom: \n(USANYS)\" \nTo: (USANYS)\" \nalMIE> \nSubject: Re: Question re emails \nDate: Sat, 10 Oct 2020 \n12:17:49 +0000 \nOk, will respond. \nOn \nOct 10, 2020, at 8:17 AM, \n(USANYS) c:a \nwrote: \nI agree. \nSent from my iPhone \nOn \nOct 10, 2020, at 8:15 AM, \n(USANYS) c\nMIN> \nwrote: \nThis seems right to me. First, this goes beyond what we said we would do or told the court we would do. \nSecond, in any event they are separately gathering any potentially relevant emails from the agent with \nvictims. Third, we have no reason to believe there were significant gaps in retention or collection for \nsuch that any of his emails would be in what we already have. \nBegin forwarded message: \nFrom: \"S\" aNIMIN\n>\nDate: October 9, 2020 at 9:05:09 PM EDT \nTo: \" USANYS)\" \n(USANYS)\" \nSubject: Question re emails \nChiefs, \n(USANYS)\" \n)\" \nToday, we spoke with SA one of the original FBI agents from the Florida investigation of Epstein. \ntold us he has a number of emails with AUSA regarding the case. Our view is that we do not need to \ncollect those emails from because we have already received thousands of emails, which were \ncollected by OPR and should encompass any emails with the FBI about the Epstein case. is going to send us \nany emails he received from victims or witnesses. We also discussed other documents has in his possession \nfrom the Epstein investigation and asked him to send us any that sounded potentially discoverable. \nPlease let us know if this approach sounds right to you or if you would like to discuss. \nThanks, \nEFTA00030596\n\nEFTA00030597",
+    "pageCount": 2,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "On \nOct",
+        "role": "extracted",
+        "context": ":49 +0000 \nOk, will respond. \nOn \nOct 10, 2020, at 8:17 AM, \n(USANY"
+      },
+      {
+        "name": "Phone \nOn",
+        "role": "extracted",
+        "context": "ote: \nI agree. \nSent from my iPhone \nOn \nOct 10, 2020, at 8:15 AM, \n("
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2020-10-09",
+        "event": "October 9, 2020"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:26.240Z"
+}

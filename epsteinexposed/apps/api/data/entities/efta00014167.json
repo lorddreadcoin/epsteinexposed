@@ -1,0 +1,53 @@
+{
+  "document": {
+    "id": "efta00014167",
+    "filename": "EFTA00014167.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00014167.pdf",
+    "text": "\n\nEvent: 10:00 Epstein meeting \nStart Date: 2007-09-24 12:00:00 +0000 \nEnd Date: 2007-09-24 12:30:00 +0000 \nOrganizer: \nClass: X-PERSONAL \nDate Created: 2007-09-19 18:13:08 +0000 \nDate Modified: 2010-11-11 02:32:10 +0000 \nPriority: 5 \nEFTA00014167",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Start Date",
+        "role": "extracted",
+        "context": "Event: 10:00 Epstein meeting \nStart Date: 2007-09-24 12:00:00 +0000 \nE"
+      },
+      {
+        "name": "End Date",
+        "role": "extracted",
+        "context": "e: 2007-09-24 12:00:00 +0000 \nEnd Date: 2007-09-24 12:30:00 +0000 \nO"
+      },
+      {
+        "name": "Date Created",
+        "role": "extracted",
+        "context": "rganizer: \nClass: X-PERSONAL \nDate Created: 2007-09-19 18:13:08 +0000 \nD"
+      },
+      {
+        "name": "Date Modified",
+        "role": "extracted",
+        "context": "d: 2007-09-19 18:13:08 +0000 \nDate Modified: 2010-11-11 02:32:10 +0000 \nP"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2007-09-24",
+        "event": "2007-09-24"
+      },
+      {
+        "date": "2007-09-19",
+        "event": "2007-09-19"
+      },
+      {
+        "date": "2010-11-11",
+        "event": "2010-11-11"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:48.304Z"
+}

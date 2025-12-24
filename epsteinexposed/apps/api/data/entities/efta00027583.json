@@ -1,0 +1,40 @@
+{
+  "document": {
+    "id": "efta00027583",
+    "filename": "EFTA00027583.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0006\\EFTA00027583.pdf",
+    "text": "\n\nFrom: \nTo: (USANYS re \n(USANYS) [Contractor)\" \nContractor\nCc: \nI I II \n(USANYS)\" \n9 \nSubject: \na3500 \nDate: Mon, 27 Sep 2021 20:15:22 +0000 \nEmbedded: [EXTERNAL] msg \nPlease add t 3500 and witness folder. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA00027583",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Contractor\nCc",
+        "role": "extracted",
+        "context": "S re \n(USANYS) [Contractor)\" \nContractor\nCc: \nI I II \n(USANYS)\" \n9 \nSubje"
+      },
+      {
+        "name": "Assistant United",
+        "role": "extracted",
+        "context": "and witness folder. \nThanks! \nAssistant United States Attorney \nUnited State"
+      },
+      {
+        "name": "States Attorney",
+        "role": "extracted",
+        "context": "r. \nThanks! \nAssistant United States Attorney \nUnited States Attorney's Off"
+      },
+      {
+        "name": "Office \nSouthern",
+        "role": "extracted",
+        "context": "ney \nUnited States Attorney's Office \nSouthern District of New York \nEFTA000"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:18.585Z"
+}

@@ -1,0 +1,45 @@
+{
+  "document": {
+    "id": "efta00031392",
+    "filename": "EFTA00031392.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0007\\EFTA00031392.pdf",
+    "text": "\n\nFrom: \"Margolin, James (USANYS) \n[Contractor]\" \nTo: \n, \"Blase, Nicholas (USANYS)\" \nSubject: Pathologist Michael Baden says Jeffrey Epstein was homicide victim \nDate: Wed, 30 Oct 2019 12:22:50 +0000 \nFYI. \nhttps://nypost.corn/2019/10/30/famed-pathologist-michael-baden-says-jeffrey-epsteins-death-was-homicide/ \nJames Margolin \nChief Public Information Officer \nU.S. \nAttorney's Office, SDNY \nEFTA00031392",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "role": "extracted",
+        "context": "USANYS)\" \nSubject: Pathologist Michael Baden says Jeffrey Epstein was homicide victim \nDate: Wed, 30 Oct 2019 12:22"
+      },
+      {
+        "name": "Pathologist Michael",
+        "role": "extracted",
+        "context": "Nicholas (USANYS)\" \nSubject: Pathologist Michael Baden says Jeffrey Epstein wa"
+      },
+      {
+        "name": "James Margolin",
+        "role": "extracted",
+        "context": "epsteins-death-was-homicide/ \nJames Margolin \nChief Public Information Off"
+      },
+      {
+        "name": "Chief Public",
+        "role": "extracted",
+        "context": "as-homicide/ \nJames Margolin \nChief Public Information Officer \nU.S. \nAt"
+      },
+      {
+        "name": "Information Officer",
+        "role": "extracted",
+        "context": "James Margolin \nChief Public Information Officer \nU.S. \nAttorney's Office, SDN"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:27.981Z"
+}

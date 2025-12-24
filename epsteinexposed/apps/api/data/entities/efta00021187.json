@@ -1,0 +1,227 @@
+{
+  "document": {
+    "id": "efta00021187",
+    "filename": "EFTA00021187.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0004\\EFTA00021187.pdf",
+    "text": "\n\n09/21/2021 11:31 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nnter Person Detail \nLast Name First Name Middle Initial Gender Date of Birth \nMAXWELL GHISLAINE \nDocumem Number Document Type Document Country Class of Admission Admit \nUnli \nDate \nPASSPORT FRANCE \nEncounter Person Detail \nti \nEnooteiter Line Type Encounter Date Encounter Time (Enteen) Terminal Lane elte/Encountec Location \nADVANCED PASSENGER \nRECORD \n07/20/1993 19:3C EF03 4701 - 4701 \nIntmundfOutbound Processing Result Primary Query Result Reamed To Agency \nINBOUND 3 NOT REFERRED \nManliest \nData \nManifest Indicator Passenger Status Updated Passenger Status Fliql*Vessel Number Departure Location \n113 LHR - LONDON / HEATHROW \nINTL \nTransmitted By Carrier Cede Arrival Location \nRTZ IBA JFK - JOHN F KENNEDY INTL \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00021187",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Border \nProtection",
+        "role": "extracted",
+        "context": "1 11:31 EDT \nU.S. Customs and Border \nProtection \nU.S. Department of Homeland"
+      },
+      {
+        "name": "Homeland Security",
+        "role": "extracted",
+        "context": "rotection \nU.S. Department of Homeland Security \nPerson Encounter Detail \nGen"
+      },
+      {
+        "name": "Person Encounter",
+        "role": "extracted",
+        "context": "artment of Homeland Security \nPerson Encounter Detail \nGenerated \nBy: \nPage"
+      },
+      {
+        "name": "Detail \nGenerated",
+        "role": "extracted",
+        "context": "nd Security \nPerson Encounter Detail \nGenerated \nBy: \nPage 1 \nof 1 \nnter Pers"
+      },
+      {
+        "name": "Person Detail",
+        "role": "extracted",
+        "context": "ated \nBy: \nPage 1 \nof 1 \nnter Person Detail \nLast Name First Name Middle"
+      },
+      {
+        "name": "Last Name",
+        "role": "extracted",
+        "context": "1 \nof 1 \nnter Person Detail \nLast Name First Name Middle Initial Gen"
+      },
+      {
+        "name": "First Name",
+        "role": "extracted",
+        "context": "nter Person Detail \nLast Name First Name Middle Initial Gender Date of"
+      },
+      {
+        "name": "Middle Initial",
+        "role": "extracted",
+        "context": "Detail \nLast Name First Name Middle Initial Gender Date of Birth \nMAXWELL"
+      },
+      {
+        "name": "Gender Date",
+        "role": "extracted",
+        "context": "ame First Name Middle Initial Gender Date of Birth \nMAXWELL GHISLAINE"
+      },
+      {
+        "name": "Documem Number",
+        "role": "extracted",
+        "context": "of Birth \nMAXWELL GHISLAINE \nDocumem Number Document Type Document Countr"
+      },
+      {
+        "name": "Document Type",
+        "role": "extracted",
+        "context": "ELL GHISLAINE \nDocumem Number Document Type Document Country Class of Adm"
+      },
+      {
+        "name": "Document Country",
+        "role": "extracted",
+        "context": "Documem Number Document Type Document Country Class of Admission Admit \nUnl"
+      },
+      {
+        "name": "Admission Admit",
+        "role": "extracted",
+        "context": "ype Document Country Class of Admission Admit \nUnli \nDate \nPASSPORT FRANCE"
+      },
+      {
+        "name": "Unli \nDate",
+        "role": "extracted",
+        "context": "try Class of Admission Admit \nUnli \nDate \nPASSPORT FRANCE \nEncounter P"
+      },
+      {
+        "name": "Encounter Person",
+        "role": "extracted",
+        "context": "Unli \nDate \nPASSPORT FRANCE \nEncounter Person Detail \nti \nEnooteiter Line T"
+      },
+      {
+        "name": "Enooteiter Line",
+        "role": "extracted",
+        "context": "Encounter Person Detail \nti \nEnooteiter Line Type Encounter Date Encounter"
+      },
+      {
+        "name": "Type Encounter",
+        "role": "extracted",
+        "context": "n Detail \nti \nEnooteiter Line Type Encounter Date Encounter Time (Enteen)"
+      },
+      {
+        "name": "Date Encounter",
+        "role": "extracted",
+        "context": "nooteiter Line Type Encounter Date Encounter Time (Enteen) Terminal Lane e"
+      },
+      {
+        "name": "Terminal Lane",
+        "role": "extracted",
+        "context": "Date Encounter Time (Enteen) Terminal Lane elte/Encountec Location \nADVA"
+      },
+      {
+        "name": "Encountec Location",
+        "role": "extracted",
+        "context": "e (Enteen) Terminal Lane elte/Encountec Location \nADVANCED PASSENGER \nRECORD"
+      },
+      {
+        "name": "Outbound Processing",
+        "role": "extracted",
+        "context": ":3C EF03 4701 - 4701 \nIntmundfOutbound Processing Result Primary Query Result R"
+      },
+      {
+        "name": "Result Primary",
+        "role": "extracted",
+        "context": "IntmundfOutbound Processing Result Primary Query Result Reamed To Agency"
+      },
+      {
+        "name": "Query Result",
+        "role": "extracted",
+        "context": "und Processing Result Primary Query Result Reamed To Agency \nINBOUND 3 N"
+      },
+      {
+        "name": "Reamed To",
+        "role": "extracted",
+        "context": "g Result Primary Query Result Reamed To Agency \nINBOUND 3 NOT REFERRE"
+      },
+      {
+        "name": "Manliest \nData",
+        "role": "extracted",
+        "context": "ency \nINBOUND 3 NOT REFERRED \nManliest \nData \nManifest Indicator Passenger"
+      },
+      {
+        "name": "Manifest Indicator",
+        "role": "extracted",
+        "context": "NOT REFERRED \nManliest \nData \nManifest Indicator Passenger Status Updated Pass"
+      },
+      {
+        "name": "Passenger Status",
+        "role": "extracted",
+        "context": "est \nData \nManifest Indicator Passenger Status Updated Passenger Status Fliq"
+      },
+      {
+        "name": "Updated Passenger",
+        "role": "extracted",
+        "context": "st Indicator Passenger Status Updated Passenger Status Fliql*Vessel Number De"
+      },
+      {
+        "name": "Status Fliql",
+        "role": "extracted",
+        "context": "nger Status Updated Passenger Status Fliql*Vessel Number Departure Locat"
+      },
+      {
+        "name": "Vessel Number",
+        "role": "extracted",
+        "context": "pdated Passenger Status Fliql*Vessel Number Departure Location \n113 LHR -"
+      },
+      {
+        "name": "Departure Location",
+        "role": "extracted",
+        "context": "er Status Fliql*Vessel Number Departure Location \n113 LHR - LONDON / HEATHROW"
+      },
+      {
+        "name": "Transmitted By",
+        "role": "extracted",
+        "context": "HR - LONDON / HEATHROW \nINTL \nTransmitted By Carrier Cede Arrival Location"
+      },
+      {
+        "name": "Carrier Cede",
+        "role": "extracted",
+        "context": "EATHROW \nINTL \nTransmitted By Carrier Cede Arrival Location \nRTZ IBA JFK"
+      },
+      {
+        "name": "Arrival Location",
+        "role": "extracted",
+        "context": "Transmitted By Carrier Cede Arrival Location \nRTZ IBA JFK - JOHN F KENNEDY"
+      },
+      {
+        "name": "For Official",
+        "role": "extracted",
+        "context": "BA JFK - JOHN F KENNEDY INTL \nFor Official Use Only / Law \nEnforcement S"
+      },
+      {
+        "name": "Use Only",
+        "role": "extracted",
+        "context": "F KENNEDY INTL \nFor Official Use Only / Law \nEnforcement Sensitive"
+      },
+      {
+        "name": "Law \nEnforcement",
+        "role": "extracted",
+        "context": "INTL \nFor Official Use Only / Law \nEnforcement Sensitive \nEFTA00021187"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Jfk",
+        "type": "location"
+      },
+      {
+        "name": "JFK",
+        "type": "airport"
+      },
+      {
+        "name": "LHR",
+        "type": "airport"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-09-21",
+        "event": "09/21/2021"
+      },
+      {
+        "date": "1993-07-20",
+        "event": "07/20/1993"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:26:04.166Z"
+}

@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "efta00015083",
+    "filename": "EFTA00015083.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 8\\VOL00008\\IMAGES\\0002\\EFTA00015083.pdf",
+    "text": "\n\n10/6/21, 12:30 PM \nNCIC \nDelayed Response \nAdditional Inquiry \nResponse \nORI: NYFBINYOO \nFederal  Bureau of Investigation - New York \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210. Te1:1-800-262-DOS \nMichael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services \n•  Federal NCIC \nWARNING: Release of any NCIC information to unauthorized individuals or agencics,including the subject of the \ndata, is prohibited. Please refer to section 4.2 of the CJIS security policy and Title 28, Part 20 of the code of \nFederal Regulations for the proper accss, use, and dissemination of the information contained in the NCIC \nrestricted and non-restricted files. \nThe following information is provided in response to your request for a search \nof the NCIC - Protection Order File based on: \nDNA/N \nORI IS LOS ANGELES CO SO LOS \nANGELES \nPC0/04 - THE \nSUBJECT IS REQUIRED TO STAY AWAY FROM THE RESIDENCE, PROPERTY, \nPCO/SCHOOL, OR \nPLACE OF EMPLOYMENT OF THE PROTECTED PERSON OR OTHER FAMILY OR \nPCO/HOUSEHOLD MEMBER. \nPC0/05 - THE \nSUBJECT IS RESTRAINED FROM MAKING ANY COMMUNICATION WITH THE \nPCO/PROTECTED PERSON INCLUDING BUT NOT LIMITED TO, PERSONAL, WRITTEN, OR \nPCO/TELEPHONE CONTACT, OR THEIR EMPLOYERS, EMPLOYEES OR FELLOW WORKERS, OR \nPCO/OTHERS WITH WHOM THE \nCOMMUNICATION WOULD BE LIKELY \nTO CAUSE ANNOYANCE OR \nPCO/ALARM THE VICTIM. \nPCO/07 - THE SUBJECT IS PROHIBITED FROM POSSESSING AND/OR \nPURCHASING A FIREARM \nPCO/OR OTHER WEAPONS AS IDENTIFIED IN THE MISCELLANEOUS FIELD. \nPCO/09 - THE PROTECTED PERSON IS AWARDED TEMPORARY EXCLUSIVE CUSTODY OF THE \nPCO/CHILD(REN) NAMED. \n171 \nEFTA00015083",
+    "pageCount": 1,
+    "dataset": "Dataset 8"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Delayed Response",
+        "role": "extracted",
+        "context": "10/6/21, 12:30 PM \nNCIC \nDelayed Response \nAdditional Inquiry \nResponse"
+      },
+      {
+        "name": "Additional Inquiry",
+        "role": "extracted",
+        "context": "0 PM \nNCIC \nDelayed Response \nAdditional Inquiry \nResponse \nORI: NYFBINYOO \nFe"
+      },
+      {
+        "name": "Federal  Bureau",
+        "role": "extracted",
+        "context": "ry \nResponse \nORI: NYFBINYOO \nFederal  Bureau of Investigation - New York"
+      },
+      {
+        "name": "State Division",
+        "role": "extracted",
+        "context": "tigation - New York \nNew York State Division of Criminal Justice Services"
+      },
+      {
+        "name": "Criminal Justice",
+        "role": "extracted",
+        "context": "k \nNew York State Division of Criminal Justice Services \nAlfred E. Smith Bui"
+      },
+      {
+        "name": "Services \nAlfred",
+        "role": "extracted",
+        "context": "Division of Criminal Justice Services \nAlfred E. Smith Building, 80 South S"
+      },
+      {
+        "name": "Smith Building",
+        "role": "extracted",
+        "context": "l Justice Services \nAlfred E. Smith Building, 80 South Swan St. \nAlbany, N"
+      },
+      {
+        "name": "South Swan",
+        "role": "extracted",
+        "context": "Alfred E. Smith Building, 80 South Swan St. \nAlbany, New York 12210."
+      },
+      {
+        "name": "Executive Deputy",
+        "role": "extracted",
+        "context": "800-262-DOS \nMichael C.Green, Executive Deputy Commissioner of the NYS Divis"
+      },
+      {
+        "name": "Federal Regulations",
+        "role": "extracted",
+        "context": "e 28, Part 20 of the code of \nFederal Regulations for the proper accss, use, an"
+      },
+      {
+        "name": "Protection Order",
+        "role": "extracted",
+        "context": "t for a search \nof the NCIC - Protection Order File based on: \nDNA/N \nORI IS"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:50.038Z"
+}

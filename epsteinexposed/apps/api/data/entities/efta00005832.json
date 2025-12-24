@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "efta00005832",
+    "filename": "EFTA00005832.pdf",
+    "path": "C:\\Users\\user\\CascadeProjects\\epsteinexposed\\apps\\web\\DataSet 4\\VOL00004\\IMAGES\\0001\\EFTA00005832.pdf",
+    "text": "\n\nEFTA00005832\n\nDot \nSA\nN \nuNic\ni\nfiNvv \n-ft \ntAiw \nSavzot, \nVntrtik \n- \nVezeLio \nOSA\nv\n1\n/\n4\n) \n(2- \npis\n \n2-0 \nyrs\n-\n/rob \n-  \n2,1->o \nca \n^ \nu\n-2t\n, \n.4t \n2-0O5. \nEFTA00005833\n\nEFTA00005834\n\nEFTA00005835\n\nEFTA00005836\n\nEFTA00005837\n\nEFTA00005838\n\nEFTA00005839\n\neJusticeNY Integrated Justice Portal \nPage 1 of 1 \neJusticeNY. \nINTEGRATED JUSTICE PORTAL \nPeople • Pmv Photo System  •  pnw Photo \nReatieSt+ \nFeedback\nI\nDMV Photo Request \nDMV \nPhoto \nSubject \nInformation \nName: \nlent1D: \nase \nNumber: \nMV Transaction Number: \nMV Transaction Date/Time: \n31ENY3027175 \n1168491 \n2019-06-06 \n13:44:13:513 \nAbout \nSite Mae Site Policies \nlune 6, )019 1 - 40 PM FUT \nhttps://www.ejustice.ny.gov/wps/myportalnut/p/al/jY_LcoJAEEW \nJQu3OwlEHJdYiQTLi... \n6/6/2019 \nEFTA00005840\n\nEFTA00005841\n\nEFTA00005842\n\nEFTA00005843\n\nEFTA00005844\n\nEFTA00005845\n\nEFTA00005846\n\nEFTA00005847",
+    "pageCount": 16,
+    "dataset": "Dataset 4"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Aiw \nSavzot",
+        "role": "extracted",
+        "context": "ot \nSA\nN \nuNic\ni\nfiNvv \n-ft \ntAiw \nSavzot, \nVntrtik \n- \nVezeLio \nOSA\nv"
+      },
+      {
+        "name": "Integrated Justice",
+        "role": "extracted",
+        "context": "838\n\nEFTA00005839\n\neJusticeNY Integrated Justice Portal \nPage 1 of 1 \neJustice"
+      },
+      {
+        "name": "Portal \nPage",
+        "role": "extracted",
+        "context": "eJusticeNY Integrated Justice Portal \nPage 1 of 1 \neJusticeNY. \nINTEGRAT"
+      },
+      {
+        "name": "Pmv Photo",
+        "role": "extracted",
+        "context": "ATED JUSTICE PORTAL \nPeople • Pmv Photo System  •  pnw Photo \nReatieS"
+      },
+      {
+        "name": "Photo \nReatie",
+        "role": "extracted",
+        "context": "le • Pmv Photo System  •  pnw Photo \nReatieSt+ \nFeedback\nI\nDMV Photo Requ"
+      },
+      {
+        "name": "Photo Request",
+        "role": "extracted",
+        "context": "to \nReatieSt+ \nFeedback\nI\nDMV Photo Request \nDMV \nPhoto \nSubject \nInforma"
+      },
+      {
+        "name": "Photo \nSubject",
+        "role": "extracted",
+        "context": "ack\nI\nDMV Photo Request \nDMV \nPhoto \nSubject \nInformation \nName: \nlent1D:"
+      },
+      {
+        "name": "Information \nName",
+        "role": "extracted",
+        "context": "Request \nDMV \nPhoto \nSubject \nInformation \nName: \nlent1D: \nase \nNumber: \nMV T"
+      },
+      {
+        "name": "Transaction Number",
+        "role": "extracted",
+        "context": "e: \nlent1D: \nase \nNumber: \nMV Transaction Number: \nMV Transaction Date/Time:"
+      },
+      {
+        "name": "Transaction Date",
+        "role": "extracted",
+        "context": ": \nMV Transaction Number: \nMV Transaction Date/Time: \n31ENY3027175 \n1168491"
+      },
+      {
+        "name": "About \nSite",
+        "role": "extracted",
+        "context": "91 \n2019-06-06 \n13:44:13:513 \nAbout \nSite Mae Site Policies \nlune 6, )0"
+      },
+      {
+        "name": "Mae Site",
+        "role": "extracted",
+        "context": "06 \n13:44:13:513 \nAbout \nSite Mae Site Policies \nlune 6, )019 1 - 40"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "date": "2019-06-06",
+        "event": "6/6/2019"
+      },
+      {
+        "date": "2019-06-06",
+        "event": "2019-06-06"
+      }
+    ],
+    "flights": [],
+    "phone_numbers": [],
+    "organizations": []
+  },
+  "processedAt": "2025-12-23T12:25:33.195Z"
+}
