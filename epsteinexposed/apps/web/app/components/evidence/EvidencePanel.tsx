@@ -34,7 +34,7 @@ export function EvidencePanel({ entityName, entityType, onClose, onViewDocument 
     
     try {
       const response = await fetch(
-        `http://localhost:3001/trpc/document.getEntityDocuments?input=${encodeURIComponent(JSON.stringify({ entityName }))}`
+        `/api/documents/entity?name=${encodeURIComponent(entityName)}`
       );
       const data = await response.json();
       

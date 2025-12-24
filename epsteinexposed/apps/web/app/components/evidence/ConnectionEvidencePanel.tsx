@@ -41,7 +41,7 @@ export function ConnectionEvidencePanel({
     
     try {
       const response = await fetch(
-        `http://localhost:3001/trpc/document.getConnectionDocuments?input=${encodeURIComponent(JSON.stringify({ entity1, entity2 }))}`
+        `/api/documents/connection?entity1=${encodeURIComponent(entity1)}&entity2=${encodeURIComponent(entity2)}`
       );
       const data = await response.json();
       

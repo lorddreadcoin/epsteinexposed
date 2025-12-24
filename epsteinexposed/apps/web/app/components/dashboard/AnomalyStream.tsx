@@ -32,7 +32,7 @@ export function AnomalyStream() {
   
   const fetchDiscoveries = useCallback(async () => {
     try {
-      const response = await fetch('http://localhost:3001/trpc/graph.getDiscoveries');
+      const response = await fetch('/api/discoveries');
       const data = await response.json();
       
       if (data.result?.data) {

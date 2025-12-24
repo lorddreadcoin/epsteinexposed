@@ -27,7 +27,7 @@ export function SearchPanel() {
     setLoading(true);
     try {
       const response = await fetch(
-        `http://localhost:3001/trpc/graph.searchEntities?input=${encodeURIComponent(JSON.stringify({ query: searchQuery, limit: 20 }))}`
+        `/api/search?query=${encodeURIComponent(searchQuery)}&limit=20`
       );
       const data = await response.json();
       

@@ -15,7 +15,7 @@ export function PDFViewer({ documentId, filename, highlightEntities = [], onClos
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   
-  const pdfUrl = `http://localhost:3001/pdf/${encodeURIComponent(documentId)}`;
+  const pdfUrl = `/api/pdf/${encodeURIComponent(documentId)}`;
   
   return (
     <AnimatePresence>

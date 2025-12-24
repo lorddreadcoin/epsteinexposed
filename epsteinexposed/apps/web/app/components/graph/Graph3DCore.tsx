@@ -247,7 +247,7 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
   useEffect(() => {
     const fetchGraph = async () => {
       try {
-        const response = await fetch('http://localhost:3001/trpc/graph.getGraph?input={}');
+        const response = await fetch('/api/graph');
         const data = await response.json();
         
         if (data.result?.data) {

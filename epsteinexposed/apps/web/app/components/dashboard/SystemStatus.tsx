@@ -35,7 +35,7 @@ export function SystemStatus() {
   
   const fetchMetrics = useCallback(async () => {
     try {
-      const response = await fetch('http://localhost:3001/trpc/graph.getMetrics');
+      const response = await fetch('/api/metrics');
       if (!response.ok) throw new Error('API error');
       
       const data = await response.json();
