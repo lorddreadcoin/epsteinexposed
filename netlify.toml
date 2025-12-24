@@ -1,6 +1,6 @@
 [build]
   base = "epsteinexposed"
-  command = "corepack enable && pnpm install --frozen-lockfile && pnpm run build"
+  command = "corepack enable && pnpm install --frozen-lockfile && pnpm --filter web build"
   publish = "epsteinexposed/apps/web/.next"
 
 [build.environment]
