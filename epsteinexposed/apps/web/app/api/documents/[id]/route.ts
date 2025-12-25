@@ -1,39 +1,18 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { readFile } from 'fs/promises';
-import path from 'path';
+import { createClient } from '@supabase/supabase-js';
 
-// PDF Index cache
-interface PdfEntry {
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.SUPABASE_SERVICE_ROLE_KEY!
+);
+
+interface DocumentResult {
   id: string;
-  filename: string;
-  storagePath: string;
-  publicUrl: string;
+  title: string;
+  pdfUrl: string;
   source: string;
-  isUnredacted: boolean;
-}
-
-interface PdfIndex {
-  totalCount: number;
-  pdfs: PdfEntry[];
-  byId: Record<string, PdfEntry>;
-  byFilename: Record<string, PdfEntry>;
-  baseUrl: string;
-}
-
-let pdfIndexCache: PdfIndex | null = null;
-
-async function loadPdfIndex(): Promise<PdfIndex> {
-  if (pdfIndexCache) return pdfIndexCache;
-  try {
-    const indexPath = path.join(process.cwd(), 'public', 'pdf-index.json');
-    const data = await readFile(indexPath, 'utf-8');
-    pdfIndexCache = JSON.parse(data);
-    console.log('[DOC API] Loaded index with', pdfIndexCache?.totalCount, 'documents');
-    return pdfIndexCache!;
-  } catch (err) {
-    console.error('[DOC API] Failed to load PDF index:', err);
-    return { totalCount: 0, pdfs: [], byId: {}, byFilename: {}, baseUrl: '' };
-  }
+  isRedacted: boolean;
+  type: string;
 }
 
 export async function GET(
@@ -48,60 +27,46 @@ export async function GET(
       return NextResponse.json({ error: 'Document ID required' }, { status: 400 });
     }
 
-    console.log('[DOC API] Looking for:', docId);
+    console.log('[DOC API] Querying Supabase for document:', docId);
 
-    // Load the PDF index (generated from Supabase Storage)
-    const index = await loadPdfIndex();
-    
-    // Try multiple lookup strategies
-    let doc: PdfEntry | undefined = index.byId?.[docId];
-    
-    if (!doc) {
-      // Try without hyphens
-      doc = index.byId?.[docId.replace(/-/g, '')];
+    // Query Supabase for documents mentioning this entity or with this ID
+    // First, try to find entities with this name
+    const { data: entities, error: entityError } = await supabase
+      .from('entities')
+      .select('name, document_count')
+      .ilike('name', `%${docId}%`)
+      .limit(5);
+
+    if (entityError) {
+      console.error('[DOC API] Entity query error:', entityError);
     }
-    
-    if (!doc) {
-      // Try as filename
-      doc = index.byFilename?.[`${docId}.pdf`];
-    }
-    
-    if (!doc) {
-      // Try with .pdf extension
-      doc = index.byFilename?.[docId.endsWith('.pdf') ? docId : `${docId}.pdf`];
-    }
-    
-    if (!doc && index.pdfs) {
-      // Fuzzy search - find partial match
-      doc = index.pdfs.find((p: PdfEntry) => 
-        p.id.includes(docId) || 
-        p.filename.toLowerCase().includes(docId) ||
-        p.storagePath.toLowerCase().includes(docId)
-      );
-    }
-    
-    if (doc) {
-      console.log('[DOC API] Found:', doc.filename);
+
+    // If we found entities, return information about them
+    if (entities && entities.length > 0) {
+      const entity = entities[0]!;
+      console.log('[DOC API] Found entity:', entity.name, 'with', entity.document_count, 'documents');
+      
       return NextResponse.json({
-        id: doc.id,
-        title: doc.filename.replace(/\.pdf$/i, '').replace(/-/g, ' '),
-        pdfUrl: doc.publicUrl,
-        source: doc.source,
-        isRedacted: !doc.isUnredacted,
-        storagePath: doc.storagePath,
-        type: 'pdf'
+        id: docId,
+        title: entity.name,
+        entityName: entity.name,
+        documentCount: entity.document_count,
+        type: 'entity',
+        message: `Found entity "${entity.name}" mentioned in ${entity.document_count} documents. Use the AI Investigation to explore this entity's connections.`,
+        relatedEntities: entities.slice(1).map(e => ({ name: e.name, documentCount: e.document_count }))
       });
     }
 
-    // Not found
-    console.log('[DOC API] Not found:', docId);
-    console.log('[DOC API] Index has', index.totalCount, 'documents');
+    // If no entity found, try searching for actual document files
+    // This would require a documents table in Supabase (which we should add)
+    console.log('[DOC API] No entity found for:', docId);
     
     return NextResponse.json({
       error: 'Document not found',
       docId,
-      message: `Document "${docId}" not found. Index has ${index.totalCount || 0} documents.`,
-      availableSample: Object.keys(index.byId || {}).slice(0, 10)
+      message: `Document "${docId}" not found. Searching for: "${docId}"`,
+      suggestion: 'Try searching for entity names like "Donald Trump", "Jeffrey Epstein", "Palm Beach, FL" etc.',
+      searchQuery: docId
     }, { status: 404 });
 
   } catch (error) {
