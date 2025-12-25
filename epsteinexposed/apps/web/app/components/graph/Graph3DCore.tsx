@@ -537,8 +537,8 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
       if (!isBackgroundRefresh) setLoading(true);
       
       try {
-        // Request 500 nodes and 1500 connections for a robust graph
-        const res = await fetch(`/api/graph?nodeLimit=500&connectionLimit=1500&offset=${offset}`);
+        // Request 2000 nodes and 8000 connections for a DENSE, impressive graph
+        const res = await fetch(`/api/graph?nodeLimit=2000&connectionLimit=8000&offset=${offset}`);
         
         if (!res.ok) {
           console.error('[GRAPH] API returned status:', res.status);

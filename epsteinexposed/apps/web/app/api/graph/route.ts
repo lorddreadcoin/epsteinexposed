@@ -82,11 +82,11 @@ async function fetchGraphData(edgeLimit: number, nodeLimit: number, offset: numb
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    // Increased limits for more robust graph - 500 nodes, 1500 edges
-    const requestedNodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '500'), 800);
-    const requestedEdgeLimit = Math.min(parseInt(searchParams.get('connectionLimit') || '1500'), 3000);
-    // Offset for variety on refresh (0-500 range for different slices)
-    const offset = Math.min(parseInt(searchParams.get('offset') || '0'), 500);
+    // MASSIVELY increased limits for robust, dense graph - 2000 nodes, 8000 edges
+    const requestedNodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '2000'), 3000);
+    const requestedEdgeLimit = Math.min(parseInt(searchParams.get('connectionLimit') || '8000'), 15000);
+    // Offset for variety on refresh
+    const offset = Math.min(parseInt(searchParams.get('offset') || '0'), 1000);
 
     console.log('[GRAPH] Fetching nodeLimit:', requestedNodeLimit, 'edgeLimit:', requestedEdgeLimit, 'offset:', offset);
 
