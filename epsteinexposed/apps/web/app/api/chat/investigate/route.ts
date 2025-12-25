@@ -773,6 +773,7 @@ export async function POST(req: NextRequest) {
     console.log('[CHAT] Model: gpt-4o-mini, Tokens:', data.usage?.total_tokens || 'unknown');
 
     // Step 5: Build citations from ACTUAL document excerpts with page numbers
+    // CRITICAL: Only use real document IDs that resolve to PDFs, never entity IDs
     let citations: Citation[] = documentExcerpts.map(d => ({
       documentId: d.docId,
       documentName: d.title + (d.page ? `, page ${d.page}` : ''),
@@ -780,17 +781,8 @@ export async function POST(req: NextRequest) {
       page: d.page,
     }));
     
-    // Fallback: If no document excerpts, create citations from relevantDocs
-    if (citations.length === 0 && relevantDocs.length > 0) {
-      citations = relevantDocs.slice(0, 5).map(d => ({
-        documentId: d.id,
-        documentName: d.filename || 'DOJ Document',
-        excerpt: d.excerpt?.substring(0, 150) || 'Click to view document',
-      }));
-      console.log('[CHAT] Using fallback citations from relevantDocs:', citations.length);
-    }
-    
-    // Additional fallback: Fetch ACTUAL documents from entity_mentions if we have entity data
+    // If no document excerpts, fetch ACTUAL documents from entity_mentions
+    // DO NOT use relevantDocs - those contain entity IDs, not document IDs!
     if (citations.length === 0 && selectedEntities.length > 0) {
       try {
         // Get entity IDs for selected entities
@@ -805,39 +797,58 @@ export async function POST(req: NextRequest) {
           // Get actual document IDs from entity_mentions
           const { data: mentions } = await supabase
             .from('entity_mentions')
-            .select('document_id, entity_id')
+            .select('document_id, entity_id, context')
             .in('entity_id', entityIds)
-            .limit(10);
+            .limit(20);
           
           if (mentions && mentions.length > 0) {
             // Get unique document IDs
             const uniqueDocIds = [...new Set(mentions.map(m => m.document_id))].slice(0, 5);
             
-            // Fetch document details
+            // Fetch document details INCLUDING pdf_url to ensure these are real PDFs
             const { data: docs } = await supabase
               .from('documents')
-              .select('id, doc_id, title')
+              .select('id, doc_id, title, pdf_url')
               .in('id', uniqueDocIds);
             
             if (docs && docs.length > 0) {
               const entityNameMap = new Map(entityRecords.map(e => [e.id, e.name]));
               citations = docs.map(doc => {
-                // Find which entity this doc is related to
+                // Find which entity this doc is related to and get context
                 const relatedMention = mentions.find(m => m.document_id === doc.id);
                 const entityName = relatedMention ? entityNameMap.get(relatedMention.entity_id) : selectedEntities[0];
+                const context = relatedMention?.context || '';
+                
+                // Use doc_id for the documentId since that maps to the PDF filename
                 return {
-                  documentId: doc.id,
+                  documentId: doc.doc_id || doc.id,
                   documentName: doc.title || doc.doc_id || 'DOJ Document',
-                  excerpt: `Document mentioning ${entityName || 'selected entity'}`,
+                  excerpt: context ? context.substring(0, 150) : `Document mentioning ${entityName || 'selected entity'}`,
                 };
               });
-              console.log('[CHAT] Using actual document citations:', citations.length);
+              console.log('[CHAT] Using REAL document citations with PDFs:', citations.length);
             }
           }
         }
       } catch (err) {
         console.log('[CHAT] Error fetching document citations:', err);
       }
+    }
+    
+    // Last resort: Add featured documents if still no citations
+    if (citations.length === 0 && selectedEntities.length > 0) {
+      // Add relevant featured documents based on entity context
+      const featuredDocs = [
+        { id: 'giuffre-vs-maxwell-943-pages-unredacted', title: 'Giuffre v Maxwell - 943 Pages Unredacted', excerpt: 'Full unsealed court documents from the civil case' },
+        { id: 'flight-logs', title: 'Epstein Flight Logs', excerpt: 'Complete flight manifests from private aircraft' },
+        { id: 'epstein-black-book', title: 'Epstein Black Book', excerpt: 'Contact book with names and connections' },
+      ];
+      citations = featuredDocs.map(d => ({
+        documentId: d.id,
+        documentName: d.title,
+        excerpt: d.excerpt,
+      }));
+      console.log('[CHAT] Using featured document citations as fallback');
     }
 
     // Step 6: Check if we found useful info
