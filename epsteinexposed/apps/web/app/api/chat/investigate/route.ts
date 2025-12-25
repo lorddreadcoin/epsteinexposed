@@ -549,12 +549,40 @@ export async function POST(req: NextRequest) {
     console.log('[CHAT] Model: gpt-4o-mini, Tokens:', data.usage?.total_tokens || 'unknown');
 
     // Step 5: Build citations from ACTUAL document excerpts with page numbers
-    const citations: Citation[] = documentExcerpts.map(d => ({
+    let citations: Citation[] = documentExcerpts.map(d => ({
       documentId: d.docId,
       documentName: d.title + (d.page ? `, page ${d.page}` : ''),
       excerpt: d.excerpt.substring(0, 150) + (d.excerpt.length > 150 ? '...' : ''),
       page: d.page,
     }));
+    
+    // Fallback: If no document excerpts, create citations from relevantDocs
+    if (citations.length === 0 && relevantDocs.length > 0) {
+      citations = relevantDocs.slice(0, 5).map(d => ({
+        documentId: d.id,
+        documentName: d.filename || 'DOJ Document',
+        excerpt: d.excerpt?.substring(0, 150) || 'Click to view document',
+      }));
+      console.log('[CHAT] Using fallback citations from relevantDocs:', citations.length);
+    }
+    
+    // Additional fallback: Create citations from connections if we have entity data
+    if (citations.length === 0 && connections.length > 0) {
+      // Get unique entity names from connections
+      const entityNames = new Set<string>();
+      connections.slice(0, 5).forEach(c => {
+        if (c.entityA) entityNames.add(c.entityA);
+        if (c.entityB) entityNames.add(c.entityB);
+      });
+      
+      // Create placeholder citations for entities
+      citations = Array.from(entityNames).slice(0, 5).map(name => ({
+        documentId: name.toLowerCase().replace(/\s+/g, '-'),
+        documentName: `Entity: ${name}`,
+        excerpt: 'View documents mentioning this entity',
+      }));
+      console.log('[CHAT] Using entity-based citations:', citations.length);
+    }
 
     // Step 6: Check if we found useful info
     const noDocumentResults = documentExcerpts.length === 0 && connections.length === 0;
