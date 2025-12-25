@@ -13,7 +13,8 @@
     "reimport:entities": "tsx scripts/reimport-entities.ts",
     "build:connections": "tsx scripts/build-connections.ts",
     "download:external": "tsx scripts/download-external-sources.ts",
-    "upload:storage": "tsx scripts/upload-to-storage.ts"
+    "upload:storage": "tsx scripts/upload-to-storage.ts",
+    "index:pdfs": "tsx scripts/index-pdfs.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

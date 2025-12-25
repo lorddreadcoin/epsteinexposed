@@ -1,4 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { readFile } from 'fs/promises';
+import path from 'path';
 import { supabase } from '@/lib/supabase';
 
 // Known hosted PDFs from Supabase Storage
@@ -35,6 +37,33 @@ const HOSTED_PDFS: Record<string, { title: string; url: string; source: string; 
   }
 };
 
+// PDF Index cache
+interface PdfEntry {
+  id: string;
+  filename: string;
+  relativePath: string;
+  size: number;
+}
+interface PdfIndex {
+  totalCount: number;
+  pdfs: PdfEntry[];
+  byId: Record<string, PdfEntry>;
+  byFilename: Record<string, PdfEntry>;
+}
+let pdfIndexCache: PdfIndex | null = null;
+
+async function loadPdfIndex(): Promise<PdfIndex | null> {
+  if (pdfIndexCache) return pdfIndexCache;
+  try {
+    const indexPath = path.join(process.cwd(), 'public', 'pdf-index.json');
+    const data = await readFile(indexPath, 'utf-8');
+    pdfIndexCache = JSON.parse(data);
+    return pdfIndexCache;
+  } catch {
+    return null;
+  }
+}
+
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
@@ -46,7 +75,7 @@ export async function GET(
       return NextResponse.json({ error: 'Document ID required' }, { status: 400 });
     }
 
-    // Check known hosted PDFs first
+    // 1. Check known hosted PDFs first
     const hostedPdf = HOSTED_PDFS[id] || HOSTED_PDFS[id.toLowerCase().replace(/[^a-z0-9-]/g, '-')];
     if (hostedPdf) {
       return NextResponse.json({
@@ -55,11 +84,46 @@ export async function GET(
         pdfUrl: hostedPdf.url,
         source: hostedPdf.source,
         isRedacted: !hostedPdf.isUnredacted,
+        hosted: true,
         type: 'pdf'
       });
     }
 
-    // Try documents table
+    // 2. Check local PDF index (for 11,622 DOJ documents)
+    const index = await loadPdfIndex();
+    if (index) {
+      // Try exact ID match (e.g., "efta00009676")
+      let pdfEntry = index.byId[id.toLowerCase()];
+      
+      // Try filename match
+      if (!pdfEntry) {
+        pdfEntry = index.byFilename[`${id}.pdf`] || index.byFilename[`${id}.PDF`];
+      }
+      
+      // Try partial match
+      if (!pdfEntry) {
+        const match = index.pdfs.find((p: PdfEntry) => 
+          p.id.includes(id.toLowerCase()) || 
+          p.filename.toLowerCase().includes(id.toLowerCase())
+        );
+        if (match) pdfEntry = match;
+      }
+      
+      if (pdfEntry) {
+        return NextResponse.json({
+          id: pdfEntry.id,
+          title: pdfEntry.filename.replace('.pdf', '').replace('.PDF', ''),
+          pdfUrl: `/api/pdf/${pdfEntry.relativePath}`,
+          source: 'doj',
+          isRedacted: true,
+          hosted: false,
+          localPath: pdfEntry.relativePath,
+          type: 'pdf'
+        });
+      }
+    }
+
+    // 3. Try documents table in Supabase
     const { data: doc } = await supabase
       .from('documents')
       .select('*')
@@ -73,11 +137,12 @@ export async function GET(
         pdfUrl: doc.pdf_url,
         source: doc.source || 'doj',
         isRedacted: true,
+        hosted: true,
         type: 'pdf'
       });
     }
 
-    // Try by UUID
+    // 4. Try by UUID
     const { data: docById } = await supabase
       .from('documents')
       .select('*')
@@ -91,11 +156,12 @@ export async function GET(
         pdfUrl: docById.pdf_url,
         source: docById.source || 'doj',
         isRedacted: true,
+        hosted: true,
         type: 'pdf'
       });
     }
 
-    // Check if this is an entity ID
+    // 5. Check if this is an entity ID
     const { data: entity } = await supabase
       .from('entities')
       .select('id, name, type, document_count, connection_count, metadata')

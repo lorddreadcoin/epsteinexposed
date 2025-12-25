@@ -18,18 +18,16 @@ interface DocumentData {
   documentCount?: number
   connectionCount?: number
   content?: string
-}
-
-interface ErrorData {
-  error: string
+  hosted?: boolean
+  localPath?: string
+  availableDocuments?: string[]
+  error?: string
   message?: string
-  suggestion?: string
 }
 
 export default function DocumentViewer() {
   const params = useParams()
   const [doc, setDoc] = useState<DocumentData | null>(null)
-  const [error, setError] = useState<ErrorData | null>(null)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -37,15 +35,14 @@ export default function DocumentViewer() {
       try {
         const res = await fetch(`/api/documents/${params.id}`)
         const data = await res.json()
-        
-        if (!res.ok) {
-          setError(data)
-          return
-        }
-        
         setDoc(data)
       } catch (err) {
-        setError({ error: 'Failed to load document', message: String(err) })
+        setDoc({ 
+          id: String(params.id), 
+          type: 'error', 
+          error: 'Failed to load document', 
+          message: String(err) 
+        })
       } finally {
         setLoading(false)
       }
@@ -67,16 +64,31 @@ export default function DocumentViewer() {
     )
   }
 
-  if (error || !doc) {
+  if (doc?.error || !doc?.pdfUrl) {
     return (
       <div className="flex items-center justify-center h-screen bg-[#0a0a0f]">
         <div className="text-center max-w-md px-6">
           <AlertCircle className="w-16 h-16 text-red-400 mx-auto mb-4" />
           <h1 className="text-2xl font-bold text-red-400 mb-2">Document Not Available</h1>
-          <p className="text-gray-400 mb-4">{error?.message || 'Document not found'}</p>
-          {error?.suggestion && (
-            <p className="text-gray-500 text-sm mb-6">{error.suggestion}</p>
+          <p className="text-gray-400 mb-4">{doc?.message || 'Document not found'}</p>
+          
+          {doc?.availableDocuments && doc.availableDocuments.length > 0 && (
+            <div className="mb-6">
+              <p className="text-gray-500 text-sm mb-2">Try one of these documents:</p>
+              <div className="flex flex-wrap gap-2 justify-center">
+                {doc.availableDocuments.map((docId) => (
+                  <Link
+                    key={docId}
+                    href={`/documents/${docId}`}
+                    className="px-3 py-1 bg-cyan-900/30 text-cyan-400 rounded hover:bg-cyan-900/50 text-sm"
+                  >
+                    {docId}
+                  </Link>
+                ))}
+              </div>
+            </div>
           )}
+          
           <Link 
             href="/" 
             className="inline-flex items-center gap-2 text-cyan-400 hover:text-cyan-300 transition-colors"
