@@ -465,12 +465,26 @@ export async function POST(req: NextRequest) {
     // Step 6: Check if we found useful info
     const noDocumentResults = documentExcerpts.length === 0 && connections.length === 0;
 
+    // Step 7: Generate follow-up suggestions based on the entities
+    const suggestions: string[] = [];
+    if (selectedEntities.length > 0) {
+      const mainEntity = selectedEntities[0];
+      suggestions.push(`What is ${mainEntity}'s role in the Epstein case?`);
+      if (connections.length > 0 && connections[0]) {
+        const topConnection = connections[0];
+        const otherEntity = topConnection.entityA === mainEntity ? topConnection.entityB : topConnection.entityA;
+        suggestions.push(`Tell me more about ${otherEntity}`);
+      }
+      suggestions.push(`Search the web for recent news about ${mainEntity}`);
+    }
+
     return NextResponse.json({
       response: responseText,
       citations,
       noDocumentResults,
       documentsSearched: documentExcerpts.length,
       connectionsFound: connections.length,
+      suggestions: suggestions.slice(0, 3),
       model: 'gpt-4o-mini',
       tokens: data.usage?.total_tokens
     });

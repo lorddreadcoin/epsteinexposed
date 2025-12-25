@@ -20,6 +20,7 @@ interface Message {
   role: 'user' | 'assistant' | 'system';
   content: string;
   citations?: Citation[];
+  suggestions?: string[];
   timestamp: Date;
   isStreaming?: boolean;
 }
@@ -211,6 +212,7 @@ export function InvestigationChat({
               ...msg,
               content: data.response,
               citations: data.citations,
+              suggestions: data.suggestions,
               isStreaming: false,
             }
           : msg
@@ -303,6 +305,27 @@ export function InvestigationChat({
               ))}
             </div>
           </details>
+        )}
+        
+        {/* Suggestion bubbles - Follow-up questions */}
+        {message.suggestions && message.suggestions.length > 0 && (
+          <div className="mt-3 pt-2 border-t border-[#ffffff08]">
+            <p className="text-xs text-[#606070] mb-2">Ask about the documents...</p>
+            <div className="flex flex-wrap gap-2">
+              {message.suggestions.map((suggestion, idx) => (
+                <button
+                  key={idx}
+                  onClick={() => sendMessage(suggestion)}
+                  disabled={isLoading}
+                  className="px-3 py-1.5 bg-[#00d4ff]/10 border border-[#00d4ff]/30 
+                           text-[#00d4ff] text-xs rounded-full hover:bg-[#00d4ff]/20 
+                           transition-colors disabled:opacity-50"
+                >
+                  {suggestion}
+                </button>
+              ))}
+            </div>
+          </div>
         )}
       </div>
     );
