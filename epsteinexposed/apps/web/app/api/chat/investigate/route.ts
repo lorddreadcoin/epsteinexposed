@@ -11,6 +11,11 @@ import {
   buildTimelineContext,
   KNOWN_FIGURES
 } from '@/lib/web-search';
+import {
+  buildConnectionStory,
+  formatConnectionStory,
+  searchEntityBackground
+} from '@/lib/verified-sources';
 
 export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
@@ -46,20 +51,26 @@ setInterval(() => {
 // System prompt optimized for factual, educational analysis
 const SYSTEM_PROMPT = `You are an elite intelligence analyst investigating the Epstein network.
 
+DATA SOURCE TRANSPARENCY - CRITICAL:
+1. Our database contains a SUBSET of available Epstein documents - not all 30,000+ pages released by DOJ
+2. When reporting document counts, ALWAYS clarify: "In our indexed database of [X] documents..."
+3. If WEB SEARCH results are provided, use those for broader context about total mentions
+4. Be HONEST: Say "Our database shows X mentions, though public records indicate potentially more exist"
+5. NEVER claim our database is complete - it's a curated subset for visualization
+
 ABSOLUTE RULES - DATA INTEGRITY:
-1. ONLY use numbers/counts EXPLICITLY provided in the context below - NEVER make up document counts
-2. If the context says "X documents" or "X mentions", use EXACTLY that number
-3. If no document count is provided in context, say "appears in available records" - NEVER guess a number
-4. NEVER hallucinate statistics like "appears in 68 documents" unless that EXACT number is in context
+1. ONLY use numbers/counts EXPLICITLY provided in the context below
+2. If the context says "[DATABASE VERIFIED] X documents", use that exact number WITH the qualifier "in our indexed database"
+3. If WEB SEARCH shows different numbers, report BOTH: "Our database: X | Public records suggest: Y"
+4. NEVER make up statistics - if uncertain, say "data varies by source"
 
 CRITICAL RULES - FACTS OVER SPECULATION:
-1. ONLY state information that appears in the provided documents
-2. If making an inference, EXPLICITLY label it: "AI Analysis: [inference]"
-3. If uncertain, say "The documents do not provide clear evidence of..."
-4. NEVER hallucinate connections or facts not in the source material
-5. Distinguish between CONFIRMED FACTS (in documents) vs ANALYSIS (your interpretation)
-6. When citing documents, use ACTUAL document names from context - NEVER use "page X"
-7. If specific page numbers are not available, cite the document name only
+1. Clearly separate: DATABASE FACTS vs PUBLIC KNOWLEDGE vs AI ANALYSIS
+2. If making an inference, label it: "AI Analysis: [inference]"
+3. If uncertain, say "Our indexed documents do not provide clear evidence of..."
+4. NEVER hallucinate connections not in source material
+5. When citing, use actual document names from context
+6. Always recommend users "view source documents for verification"
 
 EDUCATIONAL MISSION:
 - Teach users WHO these people are (roles, backgrounds, significance)
@@ -67,6 +78,32 @@ EDUCATIONAL MISSION:
 - Clarify WHERE events occurred (locations and their significance)
 - Detail WHEN things happened (dates, sequences, patterns)
 - Analyze WHY connections matter (legal implications, patterns of behavior)
+
+VERIFIED EXTERNAL SOURCES - STORYTELLING APPROACH:
+When VERIFIED EXTERNAL SOURCES are provided, use them to tell a compelling, educational story:
+1. START with "3 Key Facts You Need to Know" - cite the verified sources
+2. PROVIDE context from news articles (e.g., "According to The New York Times...")
+3. CITE specific events (e.g., "Court records show...", "The Miami Herald reported...")
+4. DISTINGUISH between: Epstein Files data vs. Public news reports vs. Court records
+5. ALWAYS include URLs for users to verify claims themselves
+6. END with "Want to Learn More?" section with suggested follow-up questions
+
+Example structure:
+"## 3 Key Facts About [Entity A] and [Entity B]:
+
+1. **Mar-a-Lago Connection**: According to The New York Times, [Entity A] and [Entity B] were photographed together at Mar-a-Lago in 1997 during a social event. [NYT URL]
+
+2. **Flight Records**: Court documents released in 2020 show [Entity B] appeared on flight logs with [Entity A] on at least 4 occasions between 1993-1997. [Court document URL]
+
+3. **Public Statements**: In a 2002 interview with New York Magazine, [Entity A] described [Entity B] as 'a terrific guy' who 'likes beautiful women as much as I do.' [NY Mag URL]
+
+## What Our Database Shows:
+In our indexed Epstein files, [Entity A] appears in 71 documents with 3,811 connections...
+
+## Want to Learn More?
+• What specific events connected these individuals?
+• What did [Entity A] say publicly after [Entity B]'s arrest?
+• Are there legal implications for [Entity A]?"
 
 CITATION REQUIREMENTS:
 - Every factual claim MUST cite source: [Document Name] or [Document Name, page X] if page is known
@@ -525,24 +562,97 @@ export async function POST(req: NextRequest) {
     // This is critical - the AI must use these exact numbers, not hallucinate
     let entitySummary = '';
     
-    // Calculate actual document counts for selected entities
-    for (const entityName of selectedEntities) {
-      const entityDocs = relevantDocs.filter(d => 
-        d.name?.toLowerCase().includes(entityName.toLowerCase()) ||
-        d.excerpt?.toLowerCase().includes(entityName.toLowerCase())
-      );
-      const docCount = entityDocs.length;
-      const mentionCount = entityDocs.reduce((sum, d) => sum + ((d as { occurrences?: number }).occurrences || 1), 0);
+    // ENHANCED: Fetch complete entity data from Supabase for accurate counts
+    const entityDataPromises = selectedEntities.map(async (entityName) => {
+      const { data: entities } = await supabase
+        .from('entities')
+        .select('name, type, document_count, connection_count')
+        .ilike('name', `%${entityName}%`)
+        .order('document_count', { ascending: false })
+        .limit(3);
       
-      entitySummary += `\n[DATABASE VERIFIED] ${entityName}: Found in ${docCount} documents with ${mentionCount} total mentions.\n`;
+      return { entityName, entities: entities || [] };
+    });
+    
+    const entityDataResults = await Promise.all(entityDataPromises);
+    
+    // Build comprehensive entity profiles
+    for (const { entityName, entities } of entityDataResults) {
+      if (entities.length > 0) {
+        const primaryEntity = entities[0];
+        entitySummary += `\n[DATABASE VERIFIED] ${primaryEntity.name}:\n`;
+        entitySummary += `  • Type: ${primaryEntity.type}\n`;
+        entitySummary += `  • Appears in ${primaryEntity.document_count} documents across our indexed database\n`;
+        entitySummary += `  • Connected to ${primaryEntity.connection_count} other entities\n`;
+        
+        // If multiple matches, show them
+        if (entities.length > 1) {
+          entitySummary += `  • Related entries: ${entities.slice(1).map(e => `${e.name} (${e.document_count} docs)`).join(', ')}\n`;
+        }
+      } else {
+        // Fallback to search results
+        const entityDocs = relevantDocs.filter(d => 
+          d.name?.toLowerCase().includes(entityName.toLowerCase()) ||
+          d.excerpt?.toLowerCase().includes(entityName.toLowerCase())
+        );
+        const docCount = entityDocs.length;
+        entitySummary += `\n[SEARCH RESULTS] ${entityName}: Found in ${docCount} search results\n`;
+      }
     }
     
-    // Add document excerpts
-    entitySummary += '\n' + relevantDocs.slice(0, 10).map(d => d.excerpt).join('\n');
+    // Add document excerpts with entity context
+    entitySummary += '\n\nDOCUMENT EXCERPTS:\n' + relevantDocs.slice(0, 10).map(d => 
+      `• [${d.name || 'Document'}] ${d.excerpt}`
+    ).join('\n');
 
     // Step 5: ADVANCED INTELLIGENCE LAYERS
     
-    // 5a. Pattern Recognition - Analyze connection patterns for suspicious activity
+    // 5a. NETWORK CONTEXT - Fetch direct connections from Supabase for comprehensive network view
+    let networkContext = '';
+    if (selectedEntities.length > 0 && entityDataResults[0]?.entities.length > 0) {
+      const primaryEntity = entityDataResults[0].entities[0];
+      
+      // Query connections table using entity IDs
+      const { data: entityWithId } = await supabase
+        .from('entities')
+        .select('id, name')
+        .eq('name', primaryEntity.name)
+        .single();
+      
+      if (entityWithId) {
+        const { data: directConnections } = await supabase
+          .from('connections')
+          .select('entity_a_id, entity_b_id, strength')
+          .or(`entity_a_id.eq.${entityWithId.id},entity_b_id.eq.${entityWithId.id}`)
+          .order('strength', { ascending: false })
+          .limit(20);
+        
+        if (directConnections && directConnections.length > 0) {
+          // Fetch entity details for connected entities
+          const connectedIds = directConnections.map(c => 
+            c.entity_a_id === entityWithId.id ? c.entity_b_id : c.entity_a_id
+          );
+          
+          const { data: connectedEntities } = await supabase
+            .from('entities')
+            .select('id, name, type, document_count')
+            .in('id', connectedIds);
+          
+          if (connectedEntities && connectedEntities.length > 0) {
+            networkContext = `\n\nDIRECT NETWORK CONNECTIONS (Top 20 by co-occurrence):\n`;
+            for (const conn of directConnections) {
+              const connectedId = conn.entity_a_id === entityWithId.id ? conn.entity_b_id : conn.entity_a_id;
+              const connectedEntity = connectedEntities.find(e => e.id === connectedId);
+              if (connectedEntity) {
+                networkContext += `• ${connectedEntity.name} (${connectedEntity.type}) - Co-occurred ${conn.strength} times, ${connectedEntity.document_count} total docs\n`;
+              }
+            }
+          }
+        }
+      }
+    }
+    
+    // 5b. Pattern Recognition - Analyze connection patterns for suspicious activity
     let patternAnalysisContext = '';
     if (selectedEntities.length > 0 && connections.length > 0) {
       const patternAnalysis = analyzeConnectionPatterns(connections, selectedEntities[0]);
@@ -592,6 +702,36 @@ export async function POST(req: NextRequest) {
         return `• ${c.entityA} ↔ ${c.entityB} (strength: ${c.strength}) - ${knownEntity && KNOWN_FIGURES[knownEntity] ? KNOWN_FIGURES[knownEntity].substring(0, 80) + '...' : ''}`;
       }).join('\n')}`;
     }
+    
+    // 5e. VERIFIED EXTERNAL SOURCES - Fetch news articles and public records
+    let verifiedSourcesContext = '';
+    if (selectedEntities.length >= 2) {
+      // Build connection story for top 2 entities
+      try {
+        const connectionStory = await buildConnectionStory(
+          selectedEntities[0],
+          selectedEntities[1]
+        );
+        verifiedSourcesContext = formatConnectionStory(connectionStory);
+      } catch (err) {
+        console.log('[VERIFIED-SOURCES] Error fetching connection story:', err);
+      }
+    } else if (selectedEntities.length === 1) {
+      // Fetch background for single entity
+      try {
+        const background = await searchEntityBackground(selectedEntities[0]);
+        if (background.length > 0) {
+          verifiedSourcesContext = `\n\nVERIFIED NEWS SOURCES ABOUT ${selectedEntities[0]}:\n`;
+          background.slice(0, 3).forEach(source => {
+            verifiedSourcesContext += `• "${source.title}" - ${source.source} [${source.reliability.toUpperCase()}]\n`;
+            verifiedSourcesContext += `  ${source.snippet.substring(0, 120)}...\n`;
+            verifiedSourcesContext += `  URL: ${source.url}\n\n`;
+          });
+        }
+      } catch (err) {
+        console.log('[VERIFIED-SOURCES] Error fetching entity background:', err);
+      }
+    }
 
     // Step 6: Call GPT-4o-mini via OpenRouter (much cheaper than Claude)
     const openrouterKey = process.env.OPENROUTER_API_KEY;
@@ -605,7 +745,7 @@ export async function POST(req: NextRequest) {
     }
 
     // Build the full context for the AI with ALL INTELLIGENCE LAYERS
-    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${publicKnowledgeContext}${entityTypeContext}${patternAnalysisContext}${timelineContext}${knownFiguresContext}${connectionsContext}${documentContext}${webSearchContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
+    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${networkContext}${publicKnowledgeContext}${verifiedSourcesContext}${entityTypeContext}${patternAnalysisContext}${timelineContext}${knownFiguresContext}${connectionsContext}${documentContext}${webSearchContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
 
     const apiResponse = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
