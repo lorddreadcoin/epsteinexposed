@@ -45,9 +45,12 @@ interface ViewingDocument {
 interface NodeData {
   id: string;
   label: string;
+  name?: string;
   type: string;
   documentCount?: number;
   connections?: number;
+  connectionCount?: number;
+  connectedEntities?: string[]; // Names of connected entities
 }
 
 export default function Home() {
@@ -165,7 +168,7 @@ export default function Home() {
               <div className="p-4">
                 <div className="flex items-start justify-between mb-4">
                   <div>
-                    <h3 className="text-white font-semibold">{selectedEntity.label}</h3>
+                    <h3 className="text-white font-semibold">{selectedEntity.label || selectedEntity.name}</h3>
                     <p className="text-[#606070] text-xs font-mono capitalize">{selectedEntity.type}</p>
                   </div>
                   <button onClick={() => setSelectedEntity(null)} className="p-1 hover:bg-[#ffffff10] rounded">
@@ -181,8 +184,27 @@ export default function Home() {
                   </div>
                   <div className="flex justify-between text-sm">
                     <span className="text-[#606070]">Connections</span>
-                    <span className="text-[#ffb800] font-mono">{selectedEntity.connections || 0}</span>
+                    <span className="text-[#ffb800] font-mono">{selectedEntity.connections || selectedEntity.connectionCount || 0}</span>
                   </div>
+                  
+                  {/* Connected Entities - show who this entity is connected to */}
+                  {selectedEntity.connectedEntities && selectedEntity.connectedEntities.length > 0 && (
+                    <div className="pt-2 border-t border-[#ffffff10]">
+                      <p className="text-[#606070] text-xs mb-2">CONNECTED TO</p>
+                      <div className="flex flex-wrap gap-1 max-h-24 overflow-y-auto">
+                        {selectedEntity.connectedEntities.slice(0, 10).map((name, i) => (
+                          <span key={i} className="px-2 py-0.5 bg-[#ffb800]/20 text-[#ffb800] text-xs rounded">
+                            {name}
+                          </span>
+                        ))}
+                        {selectedEntity.connectedEntities.length > 10 && (
+                          <span className="px-2 py-0.5 bg-[#ffffff10] text-[#606070] text-xs rounded">
+                            +{selectedEntity.connectedEntities.length - 10} more
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  )}
                   
                   {/* Source Badges - shows which data sources this entity appears in */}
                   <div className="pt-2 border-t border-[#ffffff10]">
@@ -200,7 +222,12 @@ export default function Home() {
                 </div>
                 <button
                   onClick={() => { 
-                    setSelectedEntities([selectedEntity.label]); 
+                    // Include connected entities in the investigation
+                    const entitiesToInvestigate = [
+                      selectedEntity.label || selectedEntity.name || '',
+                      ...(selectedEntity.connectedEntities || []).slice(0, 5)
+                    ].filter(Boolean);
+                    setSelectedEntities(entitiesToInvestigate); 
                     setChatCollapsed(false); 
                     setAutoInvestigate(true);
                   }}

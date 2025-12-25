@@ -21,6 +21,7 @@ interface NodeData {
   connectionCount: number;
   connections: number;
   documentCount: number;
+  connectedEntities?: string[];
 }
 
 interface EdgeData {
@@ -331,10 +332,30 @@ function GraphScene({
           setTimeout(() => onAnalyzeConnection(names, selectedNodes), 100);
         }
         
-        // Update single node select for sidebar
+        // Update single node select for sidebar - include connected entity names
         if (newSet.size === 1) {
           const singleId = Array.from(newSet)[0] as string;
-          onNodeSelect(nodeMap.get(singleId) || null);
+          const selectedNode = nodeMap.get(singleId);
+          if (selectedNode) {
+            // Find all entities connected to this node
+            const connectedEntityNames: string[] = [];
+            edges.forEach(edge => {
+              if (edge.source === singleId) {
+                const targetNode = nodeMap.get(edge.target);
+                if (targetNode) connectedEntityNames.push(targetNode.name);
+              } else if (edge.target === singleId) {
+                const sourceNode = nodeMap.get(edge.source);
+                if (sourceNode) connectedEntityNames.push(sourceNode.name);
+              }
+            });
+            // Pass node with connected entities
+            onNodeSelect({
+              ...selectedNode,
+              connectedEntities: connectedEntityNames
+            });
+          } else {
+            onNodeSelect(null);
+          }
         } else if (newSet.size === 0) {
           onNodeSelect(null);
         }
