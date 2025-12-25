@@ -55,10 +55,10 @@ export function SearchPanel() {
   
   return (
     <>
-      {/* Search Toggle Button */}
+      {/* Search Toggle Button - Fixed position with high z-index */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed top-8 left-1/2 -translate-x-1/2 z-50 bg-black/90 border border-gray-800 rounded-full px-4 py-2 flex items-center gap-2 hover:border-amber-500/50 transition-colors"
+        className="fixed top-20 left-1/2 -translate-x-1/2 z-[60] bg-black/95 border-2 border-cyan-500/50 rounded-full px-5 py-2.5 flex items-center gap-3 hover:border-cyan-400 hover:bg-cyan-950/50 transition-all shadow-lg shadow-cyan-500/20"
       >
         <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
