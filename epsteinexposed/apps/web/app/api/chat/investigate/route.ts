@@ -811,22 +811,54 @@ export async function POST(req: NextRequest) {
       console.log('[CHAT] Using fallback citations from relevantDocs:', citations.length);
     }
     
-    // Additional fallback: Create citations from connections if we have entity data
-    if (citations.length === 0 && connections.length > 0) {
-      // Get unique entity names from connections
-      const entityNames = new Set<string>();
-      connections.slice(0, 5).forEach(c => {
-        if (c.entityA) entityNames.add(c.entityA);
-        if (c.entityB) entityNames.add(c.entityB);
-      });
-      
-      // Create placeholder citations for entities
-      citations = Array.from(entityNames).slice(0, 5).map(name => ({
-        documentId: name.toLowerCase().replace(/\s+/g, '-'),
-        documentName: `Entity: ${name}`,
-        excerpt: 'View documents mentioning this entity',
-      }));
-      console.log('[CHAT] Using entity-based citations:', citations.length);
+    // Additional fallback: Fetch ACTUAL documents from entity_mentions if we have entity data
+    if (citations.length === 0 && selectedEntities.length > 0) {
+      try {
+        // Get entity IDs for selected entities
+        const { data: entityRecords } = await supabase
+          .from('entities')
+          .select('id, name')
+          .in('name', selectedEntities.slice(0, 3));
+        
+        if (entityRecords && entityRecords.length > 0) {
+          const entityIds = entityRecords.map(e => e.id);
+          
+          // Get actual document IDs from entity_mentions
+          const { data: mentions } = await supabase
+            .from('entity_mentions')
+            .select('document_id, entity_id')
+            .in('entity_id', entityIds)
+            .limit(10);
+          
+          if (mentions && mentions.length > 0) {
+            // Get unique document IDs
+            const uniqueDocIds = [...new Set(mentions.map(m => m.document_id))].slice(0, 5);
+            
+            // Fetch document details
+            const { data: docs } = await supabase
+              .from('documents')
+              .select('id, doc_id, title')
+              .in('id', uniqueDocIds);
+            
+            if (docs && docs.length > 0) {
+              const entityNameMap = new Map(entityRecords.map(e => [e.id, e.name]));
+              citations = docs.map(doc => {
+                // Find which entity this doc is related to
+                const relatedMention = mentions.find(m => m.document_id === doc.id);
+                const entityName = relatedMention ? entityNameMap.get(relatedMention.entity_id) : selectedEntities[0];
+                return {
+                  documentId: doc.id,
+                  documentName: doc.title || doc.doc_id || 'DOJ Document',
+                  excerpt: `Document mentioning ${entityName || 'selected entity'}`,
+                };
+              });
+              console.log('[CHAT] Using actual document citations:', citations.length);
+            }
+          }
+        }
+      } catch (err) {
+        console.log('[CHAT] Error fetching document citations:', err);
+      }
     }
 
     // Step 6: Check if we found useful info
