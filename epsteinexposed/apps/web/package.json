@@ -11,7 +11,9 @@
     "check-types": "next typegen && tsc --noEmit",
     "import:supabase": "tsx scripts/import-to-supabase.ts",
     "reimport:entities": "tsx scripts/reimport-entities.ts",
-    "build:connections": "tsx scripts/build-connections.ts"
+    "build:connections": "tsx scripts/build-connections.ts",
+    "download:external": "tsx scripts/download-external-sources.ts",
+    "upload:storage": "tsx scripts/upload-to-storage.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

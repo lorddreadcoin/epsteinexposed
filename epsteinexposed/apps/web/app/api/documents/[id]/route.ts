@@ -1,6 +1,40 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
 
+// Known hosted PDFs from Supabase Storage
+const HOSTED_PDFS: Record<string, { title: string; url: string; source: string; isUnredacted: boolean }> = {
+  'giuffre-v-maxwell-unsealed-2024': {
+    title: 'Giuffre v Maxwell Unsealed Documents (2024)',
+    url: 'https://lyzpmfvujegnbsdptypz.supabase.co/storage/v1/object/public/documents/court-filings/giuffre-v-maxwell-unsealed-2024.pdf',
+    source: 'court-filings',
+    isUnredacted: false
+  },
+  'maxwell-criminal-complaint': {
+    title: 'Maxwell Criminal Complaint',
+    url: 'https://lyzpmfvujegnbsdptypz.supabase.co/storage/v1/object/public/documents/court-filings/maxwell-criminal-complaint.pdf',
+    source: 'court-filings',
+    isUnredacted: false
+  },
+  'epstein-flight-manifests-gawker': {
+    title: 'Epstein Flight Manifests (Flight Logs)',
+    url: 'https://lyzpmfvujegnbsdptypz.supabase.co/storage/v1/object/public/documents/flight-logs/epstein-flight-manifests-gawker.pdf',
+    source: 'flight-logs',
+    isUnredacted: true
+  },
+  'flight-logs': {
+    title: 'Epstein Flight Manifests (Flight Logs)',
+    url: 'https://lyzpmfvujegnbsdptypz.supabase.co/storage/v1/object/public/documents/flight-logs/epstein-flight-manifests-gawker.pdf',
+    source: 'flight-logs',
+    isUnredacted: true
+  },
+  'giuffre-maxwell': {
+    title: 'Giuffre v Maxwell Unsealed Documents (2024)',
+    url: 'https://lyzpmfvujegnbsdptypz.supabase.co/storage/v1/object/public/documents/court-filings/giuffre-v-maxwell-unsealed-2024.pdf',
+    source: 'court-filings',
+    isUnredacted: false
+  }
+};
+
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
@@ -12,15 +46,63 @@ export async function GET(
       return NextResponse.json({ error: 'Document ID required' }, { status: 400 });
     }
 
-    // First, check if this is an entity ID (since we're using entity IDs as "document" references)
-    const { data: entity, error: entityError } = await supabase
+    // Check known hosted PDFs first
+    const hostedPdf = HOSTED_PDFS[id] || HOSTED_PDFS[id.toLowerCase().replace(/[^a-z0-9-]/g, '-')];
+    if (hostedPdf) {
+      return NextResponse.json({
+        id,
+        title: hostedPdf.title,
+        pdfUrl: hostedPdf.url,
+        source: hostedPdf.source,
+        isRedacted: !hostedPdf.isUnredacted,
+        type: 'pdf'
+      });
+    }
+
+    // Try documents table
+    const { data: doc } = await supabase
+      .from('documents')
+      .select('*')
+      .eq('doc_id', id)
+      .single();
+
+    if (doc?.pdf_url) {
+      return NextResponse.json({
+        id: doc.doc_id,
+        title: doc.title,
+        pdfUrl: doc.pdf_url,
+        source: doc.source || 'doj',
+        isRedacted: true,
+        type: 'pdf'
+      });
+    }
+
+    // Try by UUID
+    const { data: docById } = await supabase
+      .from('documents')
+      .select('*')
+      .eq('id', id)
+      .single();
+
+    if (docById?.pdf_url) {
+      return NextResponse.json({
+        id: docById.doc_id || docById.id,
+        title: docById.title,
+        pdfUrl: docById.pdf_url,
+        source: docById.source || 'doj',
+        isRedacted: true,
+        type: 'pdf'
+      });
+    }
+
+    // Check if this is an entity ID
+    const { data: entity } = await supabase
       .from('entities')
       .select('id, name, type, document_count, connection_count, metadata')
       .eq('id', id)
       .single();
 
     if (entity) {
-      // Return entity info as a "document"
       return NextResponse.json({
         id: entity.id,
         name: entity.name,
@@ -34,7 +116,7 @@ export async function GET(
     }
 
     // If not an entity, try to find related connections
-    const { data: connections, error: connError } = await supabase
+    const { data: connections } = await supabase
       .from('connections')
       .select(`
         id,
@@ -48,7 +130,6 @@ export async function GET(
       .limit(50);
 
     if (connections && connections.length > 0) {
-      // Get entity names for these connections
       const entityIds = new Set<string>();
       connections.forEach(c => {
         entityIds.add(c.entity_a_id);
@@ -80,8 +161,9 @@ export async function GET(
     return NextResponse.json(
       { 
         error: 'Document not found',
-        message: `No entity or document found with ID: ${id}. This may be an OCR artifact or the document has not been indexed.`,
-        suggestion: 'Try searching for the entity name in the graph or Investigation Assistant.',
+        docId: id,
+        message: 'This document is not yet available. We are working on hosting all 11,622 DOJ documents.',
+        suggestion: 'Try searching for the document by name or entity.',
       },
       { status: 404 }
     );
