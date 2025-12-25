@@ -1,13 +1,13 @@
-import { NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
+import { NextResponse } from 'next/server';
 
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const nodeLimit = parseInt(searchParams.get('nodeLimit') || '500');
-    const connectionLimit = parseInt(searchParams.get('connectionLimit') || '2000');
-    
-    // Fetch entities (nodes) from Supabase - top by connection count
+    const nodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '500'), 1000);
+    const connectionLimit = Math.min(parseInt(searchParams.get('connectionLimit') || '2000'), 5000);
+
+    // Fetch top entities by connection count
     const { data: entities, error: entitiesError } = await supabase
       .from('entities')
       .select('id, name, type, document_count, connection_count')
@@ -15,29 +15,53 @@ export async function GET(request: Request) {
       .limit(nodeLimit);
 
     if (entitiesError) {
-      console.error('[GRAPH] Entities error:', entitiesError);
-      throw entitiesError;
+      console.error('Entities error:', entitiesError);
+      return NextResponse.json({ error: entitiesError.message }, { status: 500 });
     }
 
-    // Get entity IDs for filtering connections
-    const entityIds = (entities || []).map(e => e.id);
-    
-    // Fetch only connections between visible nodes
+    if (!entities || entities.length === 0) {
+      return NextResponse.json({ 
+        result: { 
+          data: { nodes: [], edges: [] } 
+        } 
+      });
+    }
+
+    const entityIds = entities.map(e => e.id);
+
+    // Fetch connections - simpler query that works
     const { data: connections, error: connectionsError } = await supabase
       .from('connections')
-      .select('entity_a_id, entity_b_id, strength')
-      .in('entity_a_id', entityIds)
-      .in('entity_b_id', entityIds)
+      .select('entity_a_id, entity_b_id, strength, connection_type')
       .order('strength', { ascending: false })
       .limit(connectionLimit);
 
     if (connectionsError) {
-      console.error('[GRAPH] Connections error:', connectionsError);
-      throw connectionsError;
+      console.error('Connections error:', connectionsError);
+      // Don't fail completely - return nodes without edges
+      return NextResponse.json({
+        result: {
+          data: {
+            nodes: entities.map(e => ({
+              id: e.id,
+              label: e.name,
+              type: e.type,
+              documentCount: e.document_count || 0,
+              connections: e.connection_count || 0,
+            })),
+            edges: []
+          }
+        }
+      });
     }
 
-    // Format nodes for graph visualization
-    const nodes = (entities || []).map(e => ({
+    // Filter connections to only those between visible nodes (in JS, not SQL)
+    const entityIdSet = new Set(entityIds);
+    const filteredConnections = (connections || []).filter(c => 
+      entityIdSet.has(c.entity_a_id) && entityIdSet.has(c.entity_b_id)
+    );
+
+    const nodes = entities.map(e => ({
       id: e.id,
       label: e.name,
       type: e.type,
@@ -45,8 +69,7 @@ export async function GET(request: Request) {
       connections: e.connection_count || 0,
     }));
 
-    // Format edges for graph visualization
-    const edges = (connections || []).map(c => ({
+    const edges = filteredConnections.map(c => ({
       from: c.entity_a_id,
       to: c.entity_b_id,
       strength: c.strength || 1,
@@ -59,9 +82,10 @@ export async function GET(request: Request) {
         data: { nodes, edges } 
       } 
     });
+
   } catch (error: unknown) {
     const errorMessage = error instanceof Error ? error.message : 'Unknown error';
-    console.error('[GRAPH] API Error:', errorMessage);
-    return NextResponse.json({ error: 'Failed to load graph' }, { status: 500 });
+    console.error('Graph API error:', errorMessage);
+    return NextResponse.json({ error: errorMessage }, { status: 500 });
   }
 }

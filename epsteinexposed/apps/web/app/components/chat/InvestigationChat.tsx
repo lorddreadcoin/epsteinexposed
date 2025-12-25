@@ -278,7 +278,7 @@ export function InvestigationChat({
       className={`
         bg-[#0a0a0f] border-t border-[#ffffff15] 
         transition-all duration-300 ease-out flex flex-col
-        relative z-50 mb-12 sm:mb-14
+        fixed bottom-16 left-0 right-0 z-50
         ${isCollapsed ? 'h-12' : 'h-[25vh] min-h-[200px]'}
       `}
     >
