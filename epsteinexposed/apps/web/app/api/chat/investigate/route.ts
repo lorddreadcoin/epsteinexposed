@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { headers } from 'next/headers';
 import { supabase } from '@/lib/supabase';
+import { searchWeb, formatSearchResults } from '@/lib/web-search';
 
 export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
@@ -33,7 +34,7 @@ setInterval(() => {
   }
 }, 300000); // Every 5 minutes
 
-// System prompt optimized for token efficiency
+// System prompt optimized for token efficiency with citation format
 const SYSTEM_PROMPT = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents and 1.3M entity connections.
 
 RULES:
@@ -45,13 +46,18 @@ RULES:
 - Connect dots between entities - this is your PRIMARY job
 - If connections data is provided, ALWAYS explain the relationships
 
+CITATION FORMAT:
+When citing documents, use format: [DOC-ID, page X] or quote directly.
+Example: "Epstein met with Clinton in 2002 [DOC-abc123, page 47]"
+If page number unknown, cite as: [Document Title]
+
 RESPONSE STYLE:
 Write in plain prose. Short paragraphs. Like a senior analyst giving a 30-second briefing.
 
 Example good response:
-"Bobbi Stemheim connects to Jeffrey Epstein through States Attorney (strength 47) and Laura Menninger (strength 32). She appears in 5 documents related to Maxwell court proceedings. The connection pattern suggests involvement in legal defense coordination."
+"Christian Everdell served as lead prosecutor in the Maxwell case [USA v. Maxwell, page 12]. He connects to Laura Menninger (defense counsel, strength 284) through 47 shared court filings. The connection pattern shows adversarial legal proceedings with Everdell presenting evidence against Maxwell while Menninger defended."
 
-Be direct. Be specific. No fluff.`;
+Be direct. Be specific. Cite your sources. No fluff.`;
 
 interface DocumentResult {
   id: string;
@@ -361,6 +367,27 @@ export async function POST(req: NextRequest) {
     const selectedEntities = context?.selectedEntities || [];
     const conversationHistory = context?.conversationHistory || [];
     
+    // Check if user is requesting web search
+    const isWebSearch = message.toLowerCase().includes('search the web') || 
+                        message.toLowerCase().includes('recent news') ||
+                        message.toLowerCase().includes('latest news') ||
+                        context?.useWebSearch === true;
+    
+    // Step 0: If web search requested, do that first
+    let webSearchContext = '';
+    if (isWebSearch) {
+      const searchQuery = selectedEntities.length > 0 
+        ? `${selectedEntities[0]} Epstein case news`
+        : message.replace(/search the web for|recent news about|latest news/gi, '').trim();
+      
+      console.log('[CHAT] Performing web search for:', searchQuery);
+      const webResults = await searchWeb(searchQuery, 5);
+      
+      if (webResults.length > 0) {
+        webSearchContext = `\n\nWEB SEARCH RESULTS (external sources):\n${formatSearchResults(webResults)}`;
+      }
+    }
+    
     // Step 1: Search documents for relevant content
     const searchTerms = [
       ...selectedEntities,
@@ -407,7 +434,7 @@ export async function POST(req: NextRequest) {
     }
 
     // Build the full context for the AI with REAL evidence
-    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${connectionsContext}${documentContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
+    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${connectionsContext}${documentContext}${webSearchContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
 
     const apiResponse = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
