@@ -9,7 +9,9 @@
     "start": "next start",
     "lint": "eslint --max-warnings 0",
     "check-types": "next typegen && tsc --noEmit",
-    "import:supabase": "tsx scripts/import-to-supabase.ts"
+    "import:supabase": "tsx scripts/import-to-supabase.ts",
+    "reimport:entities": "tsx scripts/reimport-entities.ts",
+    "build:connections": "tsx scripts/build-connections.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
