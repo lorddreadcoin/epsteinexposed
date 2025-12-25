@@ -23,61 +23,63 @@ const FALLBACK_EDGES = [
 ];
 
 async function fetchGraphData(edgeLimit: number, nodeLimit: number, offset: number = 0) {
-  // Fetch connections with timeout handling
-  // Use offset to get different "slices" of the data for variety
+  // PRIORITY: Fetch PERSON entities first (victims, perpetrators, high-profile names)
+  // Then fill remaining slots with locations/orgs
+  const personLimit = Math.floor(nodeLimit * 0.7); // 70% people
+  const otherLimit = nodeLimit - personLimit; // 30% locations/orgs
+  
+  // Fetch high-profile PEOPLE with most connections (victims, perpetrators, witnesses)
+  const { data: peopleEntities, error: peopleError } = await supabase
+    .from('entities')
+    .select('id, name, type, document_count, connection_count')
+    .eq('type', 'person')
+    .order('connection_count', { ascending: false })
+    .range(offset, offset + personLimit - 1);
+
+  if (peopleError) {
+    console.error('[GRAPH] People fetch error:', peopleError);
+    throw new Error(peopleError.message);
+  }
+
+  // Fetch top locations/organizations
+  const { data: otherEntities, error: otherError } = await supabase
+    .from('entities')
+    .select('id, name, type, document_count, connection_count')
+    .in('type', ['location', 'organization'])
+    .order('connection_count', { ascending: false })
+    .limit(otherLimit);
+
+  if (otherError) {
+    console.error('[GRAPH] Other entities fetch error:', otherError);
+  }
+
+  // Combine entities - people first
+  const entities = [...(peopleEntities || []), ...(otherEntities || [])];
+  console.log('[GRAPH] Fetched', peopleEntities?.length || 0, 'people,', otherEntities?.length || 0, 'other entities');
+
+  if (entities.length === 0) {
+    throw new Error('No entities found');
+  }
+
+  // Get entity IDs
+  const entityIds = entities.map(e => e.id);
+
+  // Fetch connections BETWEEN these entities
   const { data: topConnections, error: connError } = await supabase
     .from('connections')
     .select('entity_a_id, entity_b_id, strength')
+    .or(`entity_a_id.in.(${entityIds.join(',')}),entity_b_id.in.(${entityIds.join(',')})`)
     .order('strength', { ascending: false })
-    .range(offset, offset + edgeLimit - 1);
+    .limit(edgeLimit);
 
   if (connError) {
     console.error('[GRAPH] Connection error:', connError);
     throw new Error(connError.message);
   }
 
-  if (!topConnections || topConnections.length === 0) {
-    console.error('[GRAPH] No connections found');
-    throw new Error('No connections');
-  }
-
-  console.log('[GRAPH] Got', topConnections.length, 'connections');
-
-  // Extract unique entity IDs from connections
-  const entityIdSet = new Set<string>();
-  for (const conn of topConnections) {
-    entityIdSet.add(conn.entity_a_id);
-    entityIdSet.add(conn.entity_b_id);
-  }
+  console.log('[GRAPH] Got', topConnections?.length || 0, 'connections');
   
-  // Limit to nodeLimit
-  const entityIds = Array.from(entityIdSet).slice(0, nodeLimit);
-  console.log('[GRAPH] Unique entities in connections:', entityIds.length);
-
-  // Fetch entity details in batches to avoid timeout
-  const batchSize = 100;
-  const entities: Array<{ id: string; name: string; type: string; document_count: number; connection_count: number }> = [];
-  
-  for (let i = 0; i < entityIds.length; i += batchSize) {
-    const batch = entityIds.slice(i, i + batchSize);
-    const { data: batchEntities, error: entityError } = await supabase
-      .from('entities')
-      .select('id, name, type, document_count, connection_count')
-      .in('id', batch);
-
-    if (entityError) {
-      console.error('[GRAPH] Entity fetch error:', entityError);
-      throw new Error(entityError.message);
-    }
-    
-    if (batchEntities) {
-      entities.push(...batchEntities);
-    }
-  }
-
-  console.log('[GRAPH] Fetched', entities.length, 'entity details');
-  
-  return { topConnections, entities };
+  return { topConnections: topConnections || [], entities };
 }
 
 export async function GET(request: NextRequest) {
@@ -144,7 +146,7 @@ export async function GET(request: NextRequest) {
       }
     }
 
-    // Filter out garbage entities (PDF parsing errors, UI elements)
+    // Filter out garbage entities (PDF parsing errors, UI elements, random dates)
     const GARBAGE_ENTITY_PATTERNS = [
       /^(Normal|Dear|Edit|Online|Network|Manual|Single|Double|Triple)$/i,
       /^(Login|Logout|Sign|Email|Help|Only|Mode|View|Click|Button)$/i,
@@ -152,6 +154,9 @@ export async function GET(request: NextRequest) {
       /^(Submit|Cancel|Save|Delete|Update|Refresh|Load|Search)$/i,
       /^(Yes|No|OK|Cancel|Close|Open|Start|Stop|Exit)$/i,
       /^(On|Off|True|False|Enable|Disable|Show|Hide)$/i,
+      /^On (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/i, // "On August", "On January"
+      /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d{1,2}$/i, // "Aug 15", "January 3"
+      /^\d{1,2}\/\d{1,2}\/\d{2,4}$/i, // Date formats like "8/15/2019"
     ];
     
     const isGarbageEntity = (name: string): boolean => {
