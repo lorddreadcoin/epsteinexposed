@@ -29,16 +29,20 @@ export async function GET(request: Request) {
 
     const entityIds = entities.map(e => e.id);
 
-    // Fetch connections - simpler query that works
+    // Fetch MORE connections to ensure we get enough after filtering
+    // We need to fetch extra because many will be filtered out
+    const fetchLimit = connectionLimit * 10; // Fetch 10x more to compensate for filtering
+    
     const { data: connections, error: connectionsError } = await supabase
       .from('connections')
       .select('entity_a_id, entity_b_id, strength, connection_type')
       .order('strength', { ascending: false })
-      .limit(connectionLimit);
+      .limit(fetchLimit);
+
+    console.log('[GRAPH API] Raw connections from DB:', connections?.length || 0);
 
     if (connectionsError) {
       console.error('Connections error:', connectionsError);
-      // Don't fail completely - return nodes without edges
       return NextResponse.json({
         result: {
           data: {
@@ -55,11 +59,14 @@ export async function GET(request: Request) {
       });
     }
 
-    // Filter connections to only those between visible nodes (in JS, not SQL)
+    // Filter connections to only those between visible nodes
     const entityIdSet = new Set(entityIds);
     const filteredConnections = (connections || []).filter(c => 
       entityIdSet.has(c.entity_a_id) && entityIdSet.has(c.entity_b_id)
-    );
+    ).slice(0, connectionLimit); // Limit after filtering
+    
+    console.log('[GRAPH API] Filtered connections (both endpoints in visible nodes):', filteredConnections.length);
+    console.log('[GRAPH API] Entity IDs count:', entityIds.length);
 
     const nodes = entities.map(e => ({
       id: e.id,
