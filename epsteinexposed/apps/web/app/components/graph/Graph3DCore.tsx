@@ -540,7 +540,7 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
       
       try {
         // Request 2000 nodes and 8000 connections for a DENSE, impressive graph
-        const res = await fetch(`/api/graph?nodeLimit=2000&connectionLimit=8000&offset=${offset}`);
+        const res = await fetch(`/api/graph?nodeLimit=350&connectionLimit=1500&offset=${offset}`);
         
         if (!res.ok) {
           console.error('[GRAPH] API returned status:', res.status);
@@ -632,82 +632,6 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
     setGraphOffset(prev => (prev + 100) % 500);
   };
 
-  // Load more entities (add to existing) - fetch DIFFERENT entities using exclude list
-  const handleLoadMore = async () => {
-    try {
-      // Get IDs of entities we already have to exclude them
-      const currentIds = nodes.map(n => n.id);
-      const excludeParam = currentIds.slice(0, 100).join(','); // Limit to avoid URL too long
-      const newOffset = graphOffset + nodes.length;
-      
-      const res = await fetch(`/api/graph?nodeLimit=200&connectionLimit=600&offset=${newOffset}&exclude=${excludeParam}`);
-      if (!res.ok) return;
-      
-      const data = await res.json();
-      const rawNodes = data.nodes || [];
-      const rawEdges = data.edges || [];
-      
-      if (rawNodes.length === 0) return;
-      
-      // Get existing node IDs to avoid duplicates
-      const existingIds = new Set(currentIds);
-      
-      const maxConn = Math.max(...rawNodes.map((n: any) => n.connectionCount || n.connections || 1));
-      const newNodes: NodeData[] = rawNodes
-        .filter((node: any) => !existingIds.has(node.id))
-        .map((node: any, i: number) => {
-          const total = rawNodes.length;
-          const phi = Math.acos(-1 + (2 * i + 1) / total);
-          const theta = Math.sqrt(total * Math.PI) * phi;
-          const connCount = node.connectionCount || node.connections || 1;
-          const connRatio = connCount / maxConn;
-          const radius = 100 + (1 - connRatio) * 50;
-          const nodeName = node.label || node.name || 'Unknown';
-          
-          return {
-            id: node.id,
-            name: nodeName,
-            label: nodeName,
-            type: node.type || 'other',
-            x: radius * Math.cos(theta) * Math.sin(phi),
-            y: radius * Math.sin(theta) * Math.sin(phi),
-            z: radius * Math.cos(phi),
-            size: Math.max(0.5, Math.min(connRatio * 4 + 0.5, 3)),
-            connectionCount: connCount,
-            connections: connCount,
-            documentCount: node.documentCount || node.document_count || 0,
-          };
-        });
-      
-      // Filter edges to only include nodes we have
-      const allNodeIds = new Set([...existingIds, ...newNodes.map(n => n.id)]);
-      const newEdges: EdgeData[] = rawEdges
-        .filter((e: any) => {
-          const source = e.from || e.source || e.entity_a_id;
-          const target = e.to || e.target || e.entity_b_id;
-          return allNodeIds.has(source) && allNodeIds.has(target);
-        })
-        .map((e: any) => ({
-          source: e.from || e.source || e.entity_a_id,
-          target: e.to || e.target || e.entity_b_id,
-          weight: e.strength || e.weight || 1,
-        }));
-      
-      // Merge with existing
-      setNodes(prev => [...prev, ...newNodes]);
-      setEdges(prev => {
-        const existingEdgeKeys = new Set(prev.map(e => `${e.source}-${e.target}`));
-        const uniqueNewEdges = newEdges.filter(e => !existingEdgeKeys.has(`${e.source}-${e.target}`));
-        return [...prev, ...uniqueNewEdges];
-      });
-      setGraphOffset(newOffset);
-      
-      console.log('[GRAPH] Loaded more:', newNodes.length, 'nodes,', newEdges.length, 'edges');
-    } catch (err) {
-      console.error('[GRAPH] Load more error:', err);
-    }
-  };
-
   if (loading) {
     return (
       <div className="w-full h-full flex items-center justify-center bg-[#0a0a0f]">
@@ -752,16 +676,6 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
           <span className="text-purple-400 font-bold">{edges.length.toLocaleString()}</span>
           <span className="text-gray-400"> connections</span>
         </div>
-        <button
-          onClick={handleLoadMore}
-          className="bg-black/80 backdrop-blur px-3 py-2 rounded-lg border border-purple-500/30 text-purple-400 hover:bg-purple-500/20 hover:border-purple-400 transition-all text-sm font-mono flex items-center gap-2"
-          title="Add more entities to the graph"
-        >
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
-          </svg>
-          <span className="hidden sm:inline">Load More</span>
-        </button>
         <button
           onClick={handleRefreshGraph}
           className="bg-black/80 backdrop-blur px-3 py-2 rounded-lg border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/20 hover:border-cyan-400 transition-all text-sm font-mono flex items-center gap-2"
@@ -812,8 +726,8 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
           <div className="flex items-start gap-2">
             <span className="text-purple-400 font-bold flex-shrink-0">4.</span>
             <div>
-              <span className="text-white font-semibold">Load More</span>
-              <span className="text-gray-400 hidden sm:inline"> (top right) to expand the network</span>
+              <span className="text-white font-semibold">Refresh</span>
+              <span className="text-gray-400 hidden sm:inline"> (top right) to see different entities</span>
             </div>
           </div>
         </div>
