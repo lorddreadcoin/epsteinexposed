@@ -15,7 +15,8 @@
     "download:external": "tsx scripts/download-external-sources.ts",
     "upload:storage": "tsx scripts/upload-to-storage.ts",
     "index:pdfs": "tsx scripts/index-pdfs.ts",
-    "upload:all-pdfs": "tsx scripts/upload-all-pdfs.ts"
+    "upload:all-pdfs": "tsx scripts/upload-all-pdfs.ts",
+    "download:joshwho": "tsx scripts/download-joshwho.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

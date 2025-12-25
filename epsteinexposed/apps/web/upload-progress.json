@@ -11608,14 +11608,20 @@
     "external/external/court-filings/maxwell-criminal-complaint.pdf",
     "external/external/court-filings/maxwell-indictment.pdf",
     "external/external/flight-logs/epstein-flight-manifests-gawker.pdf",
-    "external/external/unredacted/little-black-book-original.pdf"
+    "external/external/unredacted/little-black-book-original.pdf",
+    "external/external/unredacted/epstein-black-book-full-unredacted.pdf",
+    "external/external/unredacted/giuffre-vs-maxwell-943-pages-unredacted.pdf"
   ],
   "failed": [
+    {
+      "path": "doj/dataset-8/VOL00008/IMAGES/0001/EFTA00012111.pdf",
+      "error": "The object exceeded the maximum allowed size"
+    },
     {
       "path": "doj/dataset-8/VOL00008/IMAGES/0001/EFTA00012111.pdf",
       "error": "The object exceeded the maximum allowed size"
     }
   ],
   "startedAt": "2025-12-25T04:17:26.157Z",
-  "lastUpdated": "2025-12-25T04:34:52.906Z"
+  "lastUpdated": "2025-12-25T04:42:08.260Z"
 }

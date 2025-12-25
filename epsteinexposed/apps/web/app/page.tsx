@@ -12,6 +12,7 @@ import { MobileNav } from './components/mobile/MobileNav';
 import { SearchPanel } from './components/search/SearchPanel';
 import { Footer } from './components/layout/Footer';
 import { ColorLegend } from './components/graph/ColorLegend';
+import UnredactedBanner from './components/UnredactedBanner';
 import './styles/design-system.css';
 
 const Graph3DCore = dynamic(
@@ -150,6 +151,11 @@ export default function Home() {
       </header>
       
       <div className="flex-1 flex flex-col min-h-0">
+        {/* Unredacted Files Banner */}
+        <div className="px-4 pt-2 shrink-0">
+          <UnredactedBanner />
+        </div>
+        
         <div className={`relative transition-all duration-300 ease-out ${chatCollapsed ? 'flex-1' : 'h-[75%]'}`}>
           <Graph3DCore onNodeSelect={handleNodeSelect} onAnalyzeConnection={handleAnalyzeConnection} />
           
