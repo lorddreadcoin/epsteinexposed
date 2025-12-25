@@ -239,35 +239,29 @@ export function InvestigationChat({
           {message.content}
         </p>
         
-        {/* Citations */}
+        {/* Citations - Clean collapsible display */}
         {message.citations && message.citations.length > 0 && (
-          <div className="mt-3 pt-3 border-t border-[#ffffff10]">
-            <p className="text-xs text-[#606070] mb-2 font-mono">SOURCES:</p>
-            <div className="space-y-2">
+          <details className="mt-3 pt-2 border-t border-[#ffffff08]">
+            <summary className="cursor-pointer text-xs text-[#606070] hover:text-[#808090] transition-colors flex items-center gap-1">
+              <FileText className="w-3 h-3" />
+              View {message.citations.length} source{message.citations.length > 1 ? 's' : ''}
+            </summary>
+            <div className="mt-2 space-y-1 pl-2 border-l border-[#ffffff10]">
               {message.citations.map((citation, idx) => (
                 <button
                   key={idx}
                   onClick={() => onViewDocument(citation.documentId)}
-                  className="w-full text-left p-2 rounded bg-[#1a1a24] hover:bg-[#22222e] 
-                           border border-[#ffffff10] hover:border-[#00d4ff]/30 
-                           transition-all duration-200 group"
+                  className="w-full text-left px-2 py-1 rounded hover:bg-[#ffffff08] 
+                           transition-colors group flex items-center gap-2"
                 >
-                  <div className="flex items-center gap-2">
-                    <FileText className="w-4 h-4 text-[#ffb800]" />
-                    <span className="text-sm text-[#ffb800] font-mono truncate">
-                      {citation.documentName}
-                    </span>
-                    <ExternalLink className="w-3 h-3 text-[#606070] group-hover:text-[#00d4ff] ml-auto" />
-                  </div>
-                  {citation.excerpt && (
-                    <p className="text-xs text-[#a0a0b0] mt-1 line-clamp-2">
-                      &ldquo;{citation.excerpt}&rdquo;
-                    </p>
-                  )}
+                  <span className="text-xs text-[#a0a0a0] group-hover:text-[#00d4ff] truncate">
+                    {citation.documentName.replace(/^Entity:\s*/, '')}
+                  </span>
+                  <ExternalLink className="w-3 h-3 text-[#404050] group-hover:text-[#00d4ff] ml-auto shrink-0" />
                 </button>
               ))}
             </div>
-          </div>
+          </details>
         )}
       </div>
     );
