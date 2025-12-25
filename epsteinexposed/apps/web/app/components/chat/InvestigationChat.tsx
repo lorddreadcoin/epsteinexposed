@@ -276,10 +276,10 @@ export function InvestigationChat({
   return (
     <div 
       className={`
-        bg-[#0a0a0f] border-t border-[#ffffff15] 
+        bg-[#0a0a0f]/95 backdrop-blur-md border-t border-[#00d4ff30] 
         transition-all duration-300 ease-out flex flex-col
-        fixed bottom-16 left-0 right-0 z-50
-        ${isCollapsed ? 'h-12' : 'h-[25vh] min-h-[200px]'}
+        fixed left-0 right-0 z-50
+        ${isCollapsed ? 'h-14 bottom-14' : 'h-[28vh] min-h-[220px] bottom-14'}
       `}
     >
       {/* Header bar */}

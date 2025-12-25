@@ -43,11 +43,17 @@ interface Graph3DCoreProps {
 const DEFAULT_COLOR = { main: '#00d4ff', glow: 'rgba(0, 212, 255, 0.6)' };
 
 const NODE_COLORS: Record<string, { main: string; glow: string }> = {
-  person: { main: '#00d4ff', glow: 'rgba(0, 212, 255, 0.6)' },
-  location: { main: '#ffb800', glow: 'rgba(255, 184, 0, 0.6)' },
-  organization: { main: '#ff3366', glow: 'rgba(255, 51, 102, 0.6)' },
-  date: { main: '#00ff88', glow: 'rgba(0, 255, 136, 0.6)' },
+  person: { main: '#00D4FF', glow: 'rgba(0, 212, 255, 0.6)' },
+  location: { main: '#FF6B35', glow: 'rgba(255, 107, 53, 0.6)' },
+  organization: { main: '#7C3AED', glow: 'rgba(124, 58, 237, 0.6)' },
+  date: { main: '#FBBF24', glow: 'rgba(251, 191, 36, 0.6)' },
+  flight: { main: '#10B981', glow: 'rgba(16, 185, 129, 0.6)' },
+  phone: { main: '#F472B6', glow: 'rgba(244, 114, 182, 0.6)' },
+  email: { main: '#60A5FA', glow: 'rgba(96, 165, 250, 0.6)' },
 };
+
+// Top N entities will always show labels
+const ALWAYS_SHOW_LABEL_COUNT = 30;
 
 function getNodeColor(type: string) {
   return NODE_COLORS[type] || DEFAULT_COLOR;
@@ -72,6 +78,7 @@ function GraphNode({
   isSelected,
   isHovered,
   isMultiSelected,
+  isTopEntity,
   onHover,
   onClick,
 }: {
@@ -79,6 +86,7 @@ function GraphNode({
   isSelected: boolean;
   isHovered: boolean;
   isMultiSelected: boolean;
+  isTopEntity: boolean;
   onHover: (node: Node | null) => void;
   onClick: (node: Node, event: ThreeEvent<MouseEvent>) => void;
 }) {
@@ -87,7 +95,8 @@ function GraphNode({
   const ringRef = useRef<THREE.Mesh>(null);
   
   const colors = getNodeColor(node.type);
-  const baseSize = 0.15 + Math.log10(Math.max(node.documentCount, 1) + 1) * 0.15;
+  // Bigger size scaling based on connections
+  const baseSize = 0.2 + Math.log10(Math.max(node.connections || node.documentCount, 1) + 1) * 0.25;
   
   const targetScale = useMemo(() => {
     if (isSelected || isMultiSelected) return baseSize * ANIMATION_CONFIG.selectedScale;
@@ -138,46 +147,77 @@ function GraphNode({
     document.body.style.cursor = 'default';
   }, [onHover]);
   
+  // Always show labels for top entities, hovered, or selected
+  const showLabel = isTopEntity || isHovered || isSelected || isMultiSelected;
+  
   return (
     <group position={node.position}>
-      {/* Reduced glow effect - much smaller and less intense */}
-      <mesh ref={glowRef} scale={baseSize * 1.5}>
+      {/* Outer glow ring for important entities */}
+      {isTopEntity && (
+        <mesh scale={baseSize * 2.5}>
+          <sphereGeometry args={[1, 16, 16]} />
+          <meshBasicMaterial color={colors.main} transparent opacity={0.08} depthWrite={false} />
+        </mesh>
+      )}
+      
+      {/* Inner glow */}
+      <mesh ref={glowRef} scale={baseSize * 1.8}>
         <sphereGeometry args={[1, 16, 16]} />
-        <meshBasicMaterial color={colors.main} transparent opacity={0.05} depthWrite={false} />
+        <meshBasicMaterial color={colors.main} transparent opacity={isSelected ? 0.25 : 0.12} depthWrite={false} />
       </mesh>
       
+      {/* Main sphere - solid colors, no transparency issues */}
       <mesh ref={meshRef} onClick={handleClick} onPointerEnter={handlePointerEnter} onPointerLeave={handlePointerLeave}>
         <sphereGeometry args={[1, 32, 32]} />
         <meshStandardMaterial
-          color={colors.main}
+          color={isSelected ? '#FFFFFF' : colors.main}
           emissive={colors.main}
-          emissiveIntensity={isSelected || isMultiSelected ? 0.8 : isHovered ? 0.5 : 0.2}
-          metalness={0.3}
-          roughness={0.4}
+          emissiveIntensity={isSelected || isMultiSelected ? 1.0 : isHovered ? 0.7 : isTopEntity ? 0.4 : 0.2}
+          metalness={0.4}
+          roughness={0.3}
         />
       </mesh>
       
+      {/* Selection ring */}
       {isMultiSelected && (
-        <mesh ref={ringRef} rotation={[Math.PI / 2, 0, 0]} scale={baseSize * 2.2}>
+        <mesh ref={ringRef} rotation={[Math.PI / 2, 0, 0]} scale={baseSize * 2.5}>
           <ringGeometry args={[0.85, 1.0, 32]} />
-          <meshBasicMaterial color="#ffffff" transparent opacity={0.9} side={THREE.DoubleSide} />
+          <meshBasicMaterial color="#FFFFFF" transparent opacity={0.9} side={THREE.DoubleSide} />
         </mesh>
       )}
       
       {isSelected && !isMultiSelected && (
-        <mesh rotation={[Math.PI / 2, 0, 0]} scale={baseSize * 1.8}>
+        <mesh rotation={[Math.PI / 2, 0, 0]} scale={baseSize * 2.2}>
           <ringGeometry args={[0.9, 1.1, 32]} />
-          <meshBasicMaterial color={colors.main} transparent opacity={0.8} side={THREE.DoubleSide} />
+          <meshBasicMaterial color={colors.main} transparent opacity={0.9} side={THREE.DoubleSide} />
         </mesh>
       )}
       
-      {(isHovered || isSelected || isMultiSelected) && (
+      {/* ALWAYS VISIBLE LABELS for top entities */}
+      {showLabel && (
         <>
-          <Text position={[0, baseSize * 2 + 0.3, 0]} fontSize={0.15} color="#ffffff" anchorX="center" anchorY="middle" outlineWidth={0.015} outlineColor="#000000">
+          <Text 
+            position={[0, baseSize * 2.5 + 0.4, 0]} 
+            fontSize={isSelected ? 0.22 : isTopEntity ? 0.18 : 0.15} 
+            color="#FFFFFF" 
+            anchorX="center" 
+            anchorY="middle" 
+            outlineWidth={0.02} 
+            outlineColor="#000000"
+            font="/fonts/Inter-Bold.woff"
+          >
             {node.label}
           </Text>
-          <Text position={[0, baseSize * 2 + 0.1, 0]} fontSize={0.08} color={colors.main} anchorX="center" anchorY="middle">
-            {node.documentCount} docs • {node.connections} connections
+          <Text 
+            position={[0, baseSize * 2.5 + 0.15, 0]} 
+            fontSize={0.1} 
+            color={colors.main} 
+            anchorX="center" 
+            anchorY="middle"
+            outlineWidth={0.01}
+            outlineColor="#000000"
+          >
+            {node.documentCount} docs • {node.connections} conn
           </Text>
         </>
       )}
@@ -195,13 +235,23 @@ function ConnectionLine({ edge, nodes, isHighlighted }: { edge: Edge; nodes: Nod
   
   if (!fromNode || !toNode) return null;
   
-  const baseOpacity = Math.min(0.08 + (edge.strength / 100) * 0.3, 0.4);
-  const opacity = isHighlighted ? 0.8 : baseOpacity;
-  const lineWidth = isHighlighted ? 2 : 0.5 + (edge.strength / 50);
-  const color = isHighlighted ? '#00d4ff' : '#ffffff';
+  // More visible connections with strength-based styling
+  const normalizedStrength = Math.min(edge.strength / 20, 1);
+  const baseOpacity = 0.15 + normalizedStrength * 0.35;
+  const opacity = isHighlighted ? 0.95 : baseOpacity;
+  const lineWidth = isHighlighted ? 3 : 1 + normalizedStrength * 2;
+  
+  // Electric blue for highlighted, gradient based on strength for normal
+  const color = isHighlighted ? '#00FFFF' : `rgb(${100 + normalizedStrength * 100}, ${180 + normalizedStrength * 75}, 255)`;
   
   return (
-    <Line points={[fromNode.position, toNode.position]} color={color} lineWidth={lineWidth} transparent opacity={opacity} />
+    <Line 
+      points={[fromNode.position, toNode.position]} 
+      color={color} 
+      lineWidth={lineWidth} 
+      transparent 
+      opacity={opacity}
+    />
   );
 }
 
@@ -453,8 +503,17 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
         {graphData.edges.map(edge => (
           <ConnectionLine key={`${edge.from}-${edge.to}`} edge={edge} nodes={graphData.nodes} isHighlighted={highlightedEdges.has(`${edge.from}-${edge.to}`)} />
         ))}
-        {graphData.nodes.map(node => (
-          <GraphNode key={node.id} node={node} isSelected={selectedNode?.id === node.id} isHovered={hoveredNode?.id === node.id} isMultiSelected={multiSelectedNodes.has(node.id)} onHover={setHoveredNode} onClick={handleNodeClick} />
+        {graphData.nodes.map((node, index) => (
+          <GraphNode 
+            key={node.id} 
+            node={node} 
+            isSelected={selectedNode?.id === node.id} 
+            isHovered={hoveredNode?.id === node.id} 
+            isMultiSelected={multiSelectedNodes.has(node.id)} 
+            isTopEntity={index < ALWAYS_SHOW_LABEL_COUNT}
+            onHover={setHoveredNode} 
+            onClick={handleNodeClick} 
+          />
         ))}
       </Canvas>
     </div>

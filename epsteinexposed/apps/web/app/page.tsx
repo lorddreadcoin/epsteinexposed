@@ -11,6 +11,7 @@ import { TimelineView } from './components/timeline/TimelineView';
 import { MobileNav } from './components/mobile/MobileNav';
 import { SearchPanel } from './components/search/SearchPanel';
 import { Footer } from './components/layout/Footer';
+import { ColorLegend } from './components/graph/ColorLegend';
 import './styles/design-system.css';
 
 const Graph3DCore = dynamic(
@@ -193,6 +194,9 @@ export default function Home() {
             </div>
           )}
         </div>
+        
+        {/* Color Legend for entity types */}
+        <ColorLegend />
         
         <InvestigationChat
           selectedEntities={selectedEntities}
