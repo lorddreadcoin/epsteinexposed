@@ -1,0 +1,34 @@
+# Epstein Exposed - Public Document Archive
+# All content is from public court records and government sources
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://epsteinexposed.netlify.app/sitemap.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1
+
+# Allow all search engines to index
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Social media crawlers for link previews
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
