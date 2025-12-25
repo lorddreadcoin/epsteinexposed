@@ -68,6 +68,78 @@ interface Citation {
   page?: number;
 }
 
+// Fetch actual document excerpts where entities appear together
+async function fetchDocumentExcerpts(entityNames: string[], limit = 5): Promise<Array<{
+  docId: string;
+  title: string;
+  excerpt: string;
+  entities: string[];
+}>> {
+  if (entityNames.length === 0) return [];
+  
+  try {
+    // First, get entity IDs
+    const { data: entities } = await supabase
+      .from('entities')
+      .select('id, name')
+      .in('name', entityNames);
+    
+    if (!entities || entities.length === 0) return [];
+    
+    const entityIds = entities.map(e => e.id);
+    const entityNameMap = new Map(entities.map(e => [e.id, e.name]));
+    
+    // Get entity mentions with context
+    const { data: mentions } = await supabase
+      .from('entity_mentions')
+      .select('document_id, entity_id, context, page_number')
+      .in('entity_id', entityIds)
+      .not('context', 'is', null)
+      .limit(50);
+    
+    if (!mentions || mentions.length === 0) return [];
+    
+    // Group by document to find docs with multiple entities
+    const docMentions = new Map<string, { entities: Set<string>; contexts: string[]; page?: number }>();
+    
+    for (const m of mentions) {
+      if (!docMentions.has(m.document_id)) {
+        docMentions.set(m.document_id, { entities: new Set(), contexts: [], page: m.page_number || undefined });
+      }
+      const doc = docMentions.get(m.document_id)!;
+      const entityName = entityNameMap.get(m.entity_id);
+      if (entityName) doc.entities.add(entityName);
+      if (m.context) doc.contexts.push(m.context);
+    }
+    
+    // Get document titles
+    const docIds = Array.from(docMentions.keys()).slice(0, limit * 2);
+    const { data: docs } = await supabase
+      .from('documents')
+      .select('id, doc_id, title')
+      .in('id', docIds);
+    
+    const docTitleMap = new Map((docs || []).map(d => [d.id, d.title || d.doc_id || 'Unknown Document']));
+    
+    // Build results, prioritizing docs with multiple entities
+    const results = Array.from(docMentions.entries())
+      .map(([docId, data]) => ({
+        docId,
+        title: docTitleMap.get(docId) || 'Document',
+        excerpt: data.contexts.slice(0, 2).join(' ... ').substring(0, 300),
+        entities: Array.from(data.entities),
+        entityCount: data.entities.size
+      }))
+      .sort((a, b) => b.entityCount - a.entityCount)
+      .slice(0, limit);
+    
+    return results;
+  } catch (err) {
+    console.error('[EXCERPTS] Error fetching document excerpts:', err);
+    return [];
+  }
+}
+
 // Strip any markdown that slips through
 function stripMarkdown(text: string): string {
   return text
@@ -298,29 +370,30 @@ export async function POST(req: NextRequest) {
     const searchResult = await searchDocuments(searchTerms, selectedEntities, 20);
     const { results: relevantDocs, searchType, connections } = searchResult;
     
-    console.log(`[CHAT] Found ${relevantDocs.length} documents (${searchType}), ${connections.length} connections for:`, searchTerms);
+    // Step 2: Fetch ACTUAL document excerpts where entities appear
+    const documentExcerpts = await fetchDocumentExcerpts(selectedEntities.slice(0, 5), 5);
     
-    // Step 2: Build context from documents
-    const documentContext = relevantDocs.map(doc => ({
-      id: doc.id,
-      name: doc.filename,
-      content: doc.excerpt,
-      entities: doc.entities,
-    }));
+    console.log(`[CHAT] Found ${relevantDocs.length} entities (${searchType}), ${connections.length} connections, ${documentExcerpts.length} doc excerpts for:`, searchTerms);
     
     // Step 3: Build connections context - THE KEY FEATURE
     let connectionsContext = '';
     if (connections.length > 0) {
-      const topConnections = connections.slice(0, 20);
-      connectionsContext = `\n\nKEY CONNECTIONS FOUND:\n${topConnections.map(c => 
-        `${c.entityA} ↔ ${c.entityB} (strength: ${c.strength}, type: ${c.type})`
+      const topConnections = connections.slice(0, 15);
+      connectionsContext = `\n\nKEY CONNECTIONS:\n${topConnections.map(c => 
+        `${c.entityA} ↔ ${c.entityB} (strength: ${c.strength})`
       ).join('\n')}`;
     }
     
-    // Build context for the AI
-    const contextText = documentContext
-      .map(d => `Source: ${d.name}\nEntities: ${d.entities.join(', ')}\nContent: ${d.content}`)
-      .join('\n\n---\n\n');
+    // Step 4: Build REAL document context with actual excerpts
+    let documentContext = '';
+    if (documentExcerpts.length > 0) {
+      documentContext = `\n\nDOCUMENT EVIDENCE:\n${documentExcerpts.map(d => 
+        `[${d.title}] "${d.excerpt}" (mentions: ${d.entities.join(', ')})`
+      ).join('\n\n')}`;
+    }
+    
+    // Build entity summary
+    const entitySummary = relevantDocs.slice(0, 10).map(d => d.excerpt).join('\n');
 
     // Step 4: Call GPT-4o-mini via OpenRouter (much cheaper than Claude)
     const openrouterKey = process.env.OPENROUTER_API_KEY;
@@ -333,8 +406,8 @@ export async function POST(req: NextRequest) {
       });
     }
 
-    // Build the full context for the AI
-    const fullContext = `${contextText ? `INTELLIGENCE:\n${contextText}` : 'Limited data.'}${connectionsContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
+    // Build the full context for the AI with REAL evidence
+    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${connectionsContext}${documentContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
 
     const apiResponse = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
@@ -382,18 +455,22 @@ export async function POST(req: NextRequest) {
     // Log cost tracking
     console.log('[CHAT] Model: gpt-4o-mini, Tokens:', data.usage?.total_tokens || 'unknown');
 
-    // Step 5: Extract citations from response
-    const citations = extractCitations(responseText, relevantDocs);
+    // Step 5: Build citations from ACTUAL document excerpts (not entity IDs)
+    const citations: Citation[] = documentExcerpts.map(d => ({
+      documentId: d.docId,
+      documentName: d.title,
+      excerpt: d.excerpt.substring(0, 150) + (d.excerpt.length > 150 ? '...' : ''),
+    }));
 
     // Step 6: Check if we found useful info
-    const noDocumentResults = relevantDocs.length === 0 || 
-      responseText.toLowerCase().includes('not found in the available documents');
+    const noDocumentResults = documentExcerpts.length === 0 && connections.length === 0;
 
     return NextResponse.json({
       response: responseText,
       citations,
       noDocumentResults,
-      documentsSearched: relevantDocs.length,
+      documentsSearched: documentExcerpts.length,
+      connectionsFound: connections.length,
       model: 'gpt-4o-mini',
       tokens: data.usage?.total_tokens
     });

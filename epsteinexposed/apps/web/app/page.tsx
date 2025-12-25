@@ -184,7 +184,7 @@ export default function Home() {
                   </div>
                   <div className="flex justify-between text-sm">
                     <span className="text-[#606070]">Connections</span>
-                    <span className="text-[#ffb800] font-mono">{selectedEntity.connections || selectedEntity.connectionCount || 0}</span>
+                    <span className="text-[#ffb800] font-mono">{selectedEntity.connectedEntities?.length || selectedEntity.connections || selectedEntity.connectionCount || 0}</span>
                   </div>
                   
                   {/* Connected Entities - show who this entity is connected to */}
