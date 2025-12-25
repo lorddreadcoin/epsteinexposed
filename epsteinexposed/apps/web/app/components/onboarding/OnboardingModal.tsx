@@ -48,6 +48,13 @@ const ONBOARDING_STEPS: OnboardingStep[] = [
     icon: <FileText className="w-8 h-8" />,
     position: 'center',
   },
+  {
+    id: 'donate',
+    title: 'Support the Mission',
+    description: 'This platform is free and open to the public. Donations help maintain the infrastructure and support ongoing research. A portion of all donations is dedicated to supporting Epstein victims.',
+    icon: <div className="w-8 h-8 flex items-center justify-center text-2xl">💚</div>,
+    position: 'center',
+  },
 ];
 
 const STORAGE_KEY = 'epstein-exposed-onboarding-complete';
