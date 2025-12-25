@@ -196,15 +196,57 @@ export function MobileNav({
 
                 {/* DOJ Files Link */}
                 <a
-                  href="https://www.justice.gov/usao-sdny/united-states-v-ghislaine-maxwell"
+                  href="https://www.justice.gov/epstein/court-records"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 w-full p-3 rounded-lg bg-blue-500/10 border border-blue-500/30 text-blue-400"
                 >
                   <ExternalLink className="w-5 h-5" />
                   <div className="text-left">
-                    <span className="font-medium block">DOJ Files PDF Links</span>
+                    <span className="font-medium block">DOJ Court Records</span>
                     <span className="text-xs text-blue-400/60">Official justice.gov documents</span>
+                  </div>
+                </a>
+
+                {/* Epstein Archive */}
+                <a
+                  href="https://www.epsteinarchive.org/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 w-full p-3 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-400"
+                >
+                  <ExternalLink className="w-5 h-5" />
+                  <div className="text-left">
+                    <span className="font-medium block">Epstein Archive</span>
+                    <span className="text-xs text-amber-400/60">Depositions, interviews, FBI docs</span>
+                  </div>
+                </a>
+
+                {/* New Files - 14,762 documents */}
+                <a
+                  href="https://journaliststudio.google.com/u/1/pinpoint/search?collection=ea371fdea7a785c0"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 w-full p-3 rounded-lg bg-gradient-to-r from-purple-500/10 to-pink-500/10 border border-purple-500/30 text-purple-400"
+                >
+                  <ExternalLink className="w-5 h-5" />
+                  <div className="text-left">
+                    <span className="font-medium block">New Epstein Files</span>
+                    <span className="text-xs text-purple-400/60">14,762 searchable documents</span>
+                  </div>
+                </a>
+
+                {/* Maxwell Videos */}
+                <a
+                  href="https://www.justice.gov/usao-sdny/united-states-v-ghislaine-maxwell#videos"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 w-full p-3 rounded-lg bg-pink-500/10 border border-pink-500/30 text-pink-400"
+                >
+                  <ExternalLink className="w-5 h-5" />
+                  <div className="text-left">
+                    <span className="font-medium block">Interview Videos</span>
+                    <span className="text-xs text-pink-400/60">Maxwell trial interviews</span>
                   </div>
                 </a>
               </div>

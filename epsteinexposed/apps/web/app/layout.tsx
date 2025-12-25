@@ -328,6 +328,8 @@ const jsonLd = {
   ]
 };
 
+import { ErrorBoundary } from './components/error/ErrorBoundary';
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -343,7 +345,9 @@ export default function RootLayout({
         />
       </head>
       <body className={`${inter.variable} ${jetbrainsMono.variable} font-sans antialiased`}>
-        {children}
+        <ErrorBoundary>
+          {children}
+        </ErrorBoundary>
       </body>
     </html>
   );
