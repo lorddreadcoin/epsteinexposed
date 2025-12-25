@@ -774,52 +774,53 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
         </button>
       </div>
 
-      {/* Command Center - How to Use */}
-      <div className="absolute bottom-96 left-4 bg-black/90 backdrop-blur border border-cyan-500/30 rounded-lg p-4 max-w-sm">
-        <div className="flex items-center gap-2 mb-3 pb-2 border-b border-cyan-500/20">
-          <svg className="w-5 h-5 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      {/* Command Center - How to Use - Mobile Responsive */}
+      <div className="absolute bottom-96 left-4 right-4 md:right-auto bg-black/90 backdrop-blur border border-cyan-500/30 rounded-lg p-3 md:p-4 max-w-sm">
+        <div className="flex items-center gap-2 mb-2 md:mb-3 pb-2 border-b border-cyan-500/20">
+          <svg className="w-4 h-4 md:w-5 md:h-5 text-cyan-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
-          <h3 className="text-cyan-400 font-bold text-sm font-mono">COMMAND CENTER</h3>
+          <h3 className="text-cyan-400 font-bold text-xs md:text-sm font-mono">COMMAND CENTER</h3>
         </div>
         
-        <div className="space-y-2 text-xs">
+        <div className="space-y-1.5 md:space-y-2 text-xs">
           <div className="flex items-start gap-2">
-            <span className="text-cyan-400 font-bold">1.</span>
+            <span className="text-cyan-400 font-bold flex-shrink-0">1.</span>
             <div>
-              <span className="text-white font-semibold">Click any node</span>
-              <span className="text-gray-400"> to view entity details & documents</span>
+              <span className="text-white font-semibold">Tap any node</span>
+              <span className="text-gray-400 hidden sm:inline"> to view entity details & documents</span>
             </div>
           </div>
           
           <div className="flex items-start gap-2">
-            <span className="text-green-400 font-bold">2.</span>
+            <span className="text-green-400 font-bold flex-shrink-0">2.</span>
             <div>
-              <span className="text-white font-semibold">Ctrl+Click multiple</span>
-              <span className="text-gray-400"> then hit &quot;Investigate&quot; to analyze connections</span>
+              <span className="text-white font-semibold hidden sm:inline">Ctrl+Click multiple</span>
+              <span className="text-white font-semibold sm:hidden">Tap multiple</span>
+              <span className="text-gray-400 hidden sm:inline"> then hit &quot;Investigate&quot; to analyze connections</span>
             </div>
           </div>
           
           <div className="flex items-start gap-2">
-            <span className="text-yellow-400 font-bold">3.</span>
+            <span className="text-yellow-400 font-bold flex-shrink-0">3.</span>
             <div>
-              <span className="text-white font-semibold">Use Search (Ctrl+K)</span>
-              <span className="text-gray-400"> to find specific people, places, or organizations</span>
+              <span className="text-white font-semibold">Use Search</span>
+              <span className="text-gray-400 hidden sm:inline"> (Ctrl+K) to find specific people, places, or organizations</span>
             </div>
           </div>
           
           <div className="flex items-start gap-2">
-            <span className="text-purple-400 font-bold">4.</span>
+            <span className="text-purple-400 font-bold flex-shrink-0">4.</span>
             <div>
               <span className="text-white font-semibold">Load More</span>
-              <span className="text-gray-400"> (top right) to expand the network</span>
+              <span className="text-gray-400 hidden sm:inline"> (top right) to expand the network</span>
             </div>
           </div>
         </div>
 
-        <div className="mt-3 pt-3 border-t border-cyan-500/20 flex items-center justify-between text-xs">
+        <div className="mt-2 md:mt-3 pt-2 md:pt-3 border-t border-cyan-500/20 text-xs">
           <div className="text-gray-500">
-            <span className="text-cyan-400">Scroll</span> zoom •
+            <span className="text-cyan-400">Pinch</span> zoom •
             <span className="text-pink-400 ml-1">Drag</span> rotate
           </div>
         </div>

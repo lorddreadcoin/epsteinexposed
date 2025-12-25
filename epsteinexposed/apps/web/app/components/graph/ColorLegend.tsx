@@ -10,27 +10,27 @@ const ENTITY_TYPES = [
 
 export function ColorLegend() {
   return (
-    <div className="absolute bottom-52 left-4 z-20 bg-[#0a0a0f]/90 backdrop-blur-md border border-[#ffffff15] rounded-lg p-3">
-      <div className="text-[10px] text-[#606070] font-mono mb-2 uppercase tracking-wider">Entity Types</div>
-      <div className="space-y-1.5">
+    <div className="absolute bottom-52 left-4 right-4 sm:right-auto z-20 bg-[#0a0a0f]/90 backdrop-blur-md border border-[#ffffff15] rounded-lg p-2.5 sm:p-3 max-w-xs">
+      <div className="text-[9px] sm:text-[10px] text-[#606070] font-mono mb-1.5 sm:mb-2 uppercase tracking-wider">Entity Types</div>
+      <div className="space-y-1 sm:space-y-1.5">
         {ENTITY_TYPES.map(({ type, color, label }) => (
-          <div key={type} className="flex items-center gap-2">
+          <div key={type} className="flex items-center gap-1.5 sm:gap-2">
             <div 
-              className="w-3 h-3 rounded-full shadow-lg" 
+              className="w-2.5 h-2.5 sm:w-3 sm:h-3 rounded-full shadow-lg flex-shrink-0" 
               style={{ 
                 backgroundColor: color,
                 boxShadow: `0 0 8px ${color}40`
               }} 
             />
-            <span className="text-xs text-gray-300 font-mono">{label}</span>
+            <span className="text-[11px] sm:text-xs text-gray-300 font-mono">{label}</span>
           </div>
         ))}
       </div>
-      <div className="mt-3 pt-2 border-t border-[#ffffff10]">
-        <div className="text-[10px] text-[#606070] font-mono mb-1 uppercase tracking-wider">Connection Strength</div>
+      <div className="mt-2 sm:mt-3 pt-1.5 sm:pt-2 border-t border-[#ffffff10]">
+        <div className="text-[9px] sm:text-[10px] text-[#606070] font-mono mb-1 uppercase tracking-wider">Connection Strength</div>
         <div className="flex items-center gap-1">
-          <div className="h-1 w-8 bg-gradient-to-r from-[#6496FF] to-[#00FFFF] rounded" />
-          <span className="text-[10px] text-gray-400">Weak → Strong</span>
+          <div className="h-1 w-6 sm:w-8 bg-gradient-to-r from-[#6496FF] to-[#00FFFF] rounded" />
+          <span className="text-[9px] sm:text-[10px] text-gray-400">Weak → Strong</span>
         </div>
       </div>
     </div>
