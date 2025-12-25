@@ -28,80 +28,50 @@ export async function GET(request: Request) {
     }
 
     const entityIds = entities.map(e => e.id);
+    const entityIdSet = new Set(entityIds);
 
-    // Fetch MORE connections to ensure we get enough after filtering
-    // We need to fetch extra because many will be filtered out
-    const fetchLimit = connectionLimit * 10; // Fetch 10x more to compensate for filtering
+    // DIFFERENT APPROACH: Query connections FOR these specific entities
+    // Instead of getting top global connections and filtering
     
-    const { data: connections, error: connectionsError } = await supabase
+    // Get connections where entity_a is in our set
+    const { data: connectionsA, error: errorA } = await supabase
       .from('connections')
-      .select('entity_a_id, entity_b_id, strength, connection_type')
+      .select('entity_a_id, entity_b_id, strength')
+      .in('entity_a_id', entityIds)
       .order('strength', { ascending: false })
-      .limit(fetchLimit);
+      .limit(connectionLimit);
 
-    console.log('[GRAPH API] Raw connections from DB:', connections?.length || 0);
+    // Get connections where entity_b is in our set  
+    const { data: connectionsB, error: errorB } = await supabase
+      .from('connections')
+      .select('entity_a_id, entity_b_id, strength')
+      .in('entity_b_id', entityIds)
+      .order('strength', { ascending: false })
+      .limit(connectionLimit);
 
-    if (connectionsError) {
-      console.error('Connections error:', connectionsError);
-      return NextResponse.json({
-        result: {
-          data: {
-            nodes: entities.map(e => ({
-              id: e.id,
-              label: e.name,
-              type: e.type,
-              documentCount: e.document_count || 0,
-              connections: e.connection_count || 0,
-            })),
-            edges: []
-          }
+    if (errorA) console.error('[GRAPH API] Connections A error:', errorA);
+    if (errorB) console.error('[GRAPH API] Connections B error:', errorB);
+
+    // Combine and dedupe - only keep if BOTH endpoints are visible
+    const connectionMap = new Map<string, { entity_a_id: string; entity_b_id: string; strength: number }>();
+    
+    for (const c of [...(connectionsA || []), ...(connectionsB || [])]) {
+      if (entityIdSet.has(c.entity_a_id) && entityIdSet.has(c.entity_b_id)) {
+        const key = [c.entity_a_id, c.entity_b_id].sort().join('-');
+        if (!connectionMap.has(key)) {
+          connectionMap.set(key, c);
         }
-      });
+      }
     }
 
-    // Filter connections - be more permissive for top entities
-    const entityIdSet = new Set(entityIds);
-    
-    // Top 100 entities get special treatment - show their connections even if other endpoint isn't visible
-    const topEntityIds = new Set(
-      entities
-        .slice(0, 100)
-        .map(e => e.id)
-    );
-    
-    // First pass: connections where BOTH endpoints are visible (guaranteed valid)
-    const bothVisible = (connections || []).filter(c => 
-      entityIdSet.has(c.entity_a_id) && entityIdSet.has(c.entity_b_id)
-    );
-    
-    // Second pass: connections where at least ONE endpoint is a top entity AND the other is visible
-    const topEntityConnections = (connections || []).filter(c => {
-      const aVisible = entityIdSet.has(c.entity_a_id);
-      const bVisible = entityIdSet.has(c.entity_b_id);
-      const aIsTop = topEntityIds.has(c.entity_a_id);
-      const bIsTop = topEntityIds.has(c.entity_b_id);
-      
-      // Include if: both visible, OR (one is top AND other is visible)
-      return (aVisible && bVisible) || (aIsTop && bVisible) || (aVisible && bIsTop);
-    });
-    
-    // Deduplicate and take the larger set
-    const connectionMap = new Map<string, typeof connections[0]>();
-    [...bothVisible, ...topEntityConnections].forEach(c => {
-      const key = `${c.entity_a_id}-${c.entity_b_id}`;
-      if (!connectionMap.has(key)) {
-        connectionMap.set(key, c);
-      }
-    });
-    
     const filteredConnections = Array.from(connectionMap.values())
       .sort((a, b) => (b.strength || 0) - (a.strength || 0))
       .slice(0, connectionLimit);
     
-    console.log('[GRAPH API] Both endpoints visible:', bothVisible.length);
-    console.log('[GRAPH API] Top entity connections:', topEntityConnections.length);
-    console.log('[GRAPH API] Final filtered connections:', filteredConnections.length);
-    console.log('[GRAPH API] Entity IDs count:', entityIds.length);
+    console.log('[GRAPH API] Entities:', entityIds.length);
+    console.log('[GRAPH API] Connections A:', connectionsA?.length || 0);
+    console.log('[GRAPH API] Connections B:', connectionsB?.length || 0);
+    console.log('[GRAPH API] Final filtered:', filteredConnections.length);
 
     const nodes = entities.map(e => ({
       id: e.id,

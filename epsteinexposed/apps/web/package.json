@@ -16,7 +16,8 @@
     "upload:storage": "tsx scripts/upload-to-storage.ts",
     "index:pdfs": "tsx scripts/index-pdfs.ts",
     "upload:all-pdfs": "tsx scripts/upload-all-pdfs.ts",
-    "download:joshwho": "tsx scripts/download-joshwho.ts"
+    "download:joshwho": "tsx scripts/download-joshwho.ts",
+    "index:storage": "tsx scripts/index-supabase-storage.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
