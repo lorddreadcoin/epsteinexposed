@@ -65,7 +65,7 @@ export function DocumentViewer({ documentId, highlightEntities = [], onClose }: 
   }, [onClose, totalPages]);
   
   return (
-    <div className="fixed inset-0 z-[100] bg-black/95 flex flex-col">
+    <div className="fixed inset-0 z-[9999] bg-black flex flex-col" style={{ isolation: 'isolate' }}>
       <div className="h-14 bg-[#12121a] border-b border-[#ffffff15] px-4 flex items-center justify-between shrink-0">
         <div className="flex items-center gap-4">
           <span className="font-mono text-sm text-[#00d4ff]">DOC-{documentId}</span>

@@ -85,7 +85,7 @@ export function SearchPanel() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 bg-black/80 z-50 flex items-start justify-center pt-20"
+            className="fixed inset-0 bg-black/95 z-[9998] flex items-start justify-center pt-20"
             onClick={() => setIsOpen(false)}
           >
             <motion.div
