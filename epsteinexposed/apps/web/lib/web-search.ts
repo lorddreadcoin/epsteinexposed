@@ -302,3 +302,260 @@ export function getKnownFigureContext(name: string): string | null {
   
   return null;
 }
+
+// =============================================================================
+// PATTERN RECOGNITION - Detect suspicious patterns in connections
+// =============================================================================
+
+export interface PatternAnalysis {
+  patterns: string[];
+  riskLevel: 'HIGH' | 'MEDIUM' | 'LOW';
+  flags: string[];
+  timeline: string[];
+}
+
+export function analyzeConnectionPatterns(
+  connections: Array<{ entityA: string; entityB: string; strength: number; type?: string }>,
+  entityName: string
+): PatternAnalysis {
+  const patterns: string[] = [];
+  const flags: string[] = [];
+  const timeline: string[] = [];
+  let riskScore = 0;
+
+  // Count connection types
+  const connectionTypes = new Map<string, number>();
+  const connectedEntities = new Set<string>();
+  
+  for (const conn of connections) {
+    const otherEntity = conn.entityA === entityName ? conn.entityB : conn.entityA;
+    connectedEntities.add(otherEntity);
+    
+    const type = conn.type || 'unknown';
+    connectionTypes.set(type, (connectionTypes.get(type) || 0) + 1);
+    
+    // High-strength connections are significant
+    if (conn.strength > 500) {
+      patterns.push(`Strong connection to ${otherEntity} (strength: ${conn.strength})`);
+      riskScore += 2;
+    }
+  }
+
+  // Pattern: Multiple high-profile connections
+  const highProfileConnections = Array.from(connectedEntities).filter(e => 
+    Object.keys(KNOWN_FIGURES).some(k => e.toLowerCase().includes(k.toLowerCase()))
+  );
+  if (highProfileConnections.length >= 3) {
+    patterns.push(`Connected to ${highProfileConnections.length} high-profile individuals`);
+    flags.push('MULTIPLE_HIGH_PROFILE_CONNECTIONS');
+    riskScore += 5;
+  }
+
+  // Pattern: Flight log appearances
+  if (connections.some(c => c.type === 'flight' || c.entityA?.includes('Flight') || c.entityB?.includes('Flight'))) {
+    patterns.push('Appears in flight log records');
+    flags.push('FLIGHT_LOG_PRESENCE');
+    riskScore += 3;
+  }
+
+  // Pattern: Location-based clustering
+  const locationConnections = connections.filter(c => 
+    c.type === 'location' || 
+    ['Palm Beach', 'Little St. James', 'Zorro Ranch', 'New York', 'Virgin Islands'].some(loc =>
+      c.entityA?.includes(loc) || c.entityB?.includes(loc)
+    )
+  );
+  if (locationConnections.length >= 2) {
+    patterns.push(`Connected to ${locationConnections.length} key Epstein locations`);
+    flags.push('KEY_LOCATION_CONNECTIONS');
+    riskScore += 4;
+  }
+
+  // Determine risk level
+  let riskLevel: 'HIGH' | 'MEDIUM' | 'LOW' = 'LOW';
+  if (riskScore >= 10) riskLevel = 'HIGH';
+  else if (riskScore >= 5) riskLevel = 'MEDIUM';
+
+  return { patterns, riskLevel, flags, timeline };
+}
+
+// =============================================================================
+// ENTITY TYPE-SPECIFIC INTELLIGENCE TEMPLATES
+// =============================================================================
+
+export interface EntityTypeIntelligence {
+  type: string;
+  investigationFocus: string[];
+  keyQuestions: string[];
+  relevantConnections: string[];
+  documentTypes: string[];
+}
+
+export const ENTITY_TYPE_TEMPLATES: Record<string, EntityTypeIntelligence> = {
+  person: {
+    type: 'person',
+    investigationFocus: [
+      'Role in Epstein network (victim, associate, enabler, witness)',
+      'Frequency and nature of interactions with Epstein/Maxwell',
+      'Presence in flight logs, black book, or court documents',
+      'Legal status (accused, convicted, settled, cleared)',
+      'Public statements or denials made'
+    ],
+    keyQuestions: [
+      'What was their relationship to Jeffrey Epstein?',
+      'Are they mentioned in flight logs? How many times?',
+      'Do they appear in the Black Book?',
+      'Were they named in any legal proceedings?',
+      'What locations connect them to the network?'
+    ],
+    relevantConnections: ['Ghislaine Maxwell', 'Jeffrey Epstein', 'Virginia Giuffre', 'flight logs', 'victims'],
+    documentTypes: ['Court filings', 'Depositions', 'Flight logs', 'Black Book', 'FBI documents']
+  },
+  location: {
+    type: 'location',
+    investigationFocus: [
+      'Events that occurred at this location',
+      'Who visited and when',
+      'Crimes alleged to have occurred here',
+      'Property ownership and access'
+    ],
+    keyQuestions: [
+      'What alleged crimes occurred here?',
+      'Who had access to this location?',
+      'What time period was this location active?',
+      'Are there witness statements about this place?'
+    ],
+    relevantConnections: ['visitors', 'staff', 'victims', 'witnesses'],
+    documentTypes: ['Property records', 'Witness statements', 'Court documents']
+  },
+  organization: {
+    type: 'organization',
+    investigationFocus: [
+      'Connection to Epstein financial network',
+      'Role in facilitating activities',
+      'Key personnel involved',
+      'Legal exposure'
+    ],
+    keyQuestions: [
+      'What was this organization\'s connection to Epstein?',
+      'Who were the key personnel?',
+      'Did they face legal consequences?',
+      'What financial connections existed?'
+    ],
+    relevantConnections: ['executives', 'board members', 'financial records'],
+    documentTypes: ['Corporate filings', 'Financial records', 'Court documents']
+  },
+  flight: {
+    type: 'flight',
+    investigationFocus: [
+      'Passenger manifest',
+      'Origin and destination',
+      'Date and frequency',
+      'Connection to key locations'
+    ],
+    keyQuestions: [
+      'Who was on this flight?',
+      'Where did it go?',
+      'Was it to a known Epstein property?',
+      'How many times did certain passengers fly?'
+    ],
+    relevantConnections: ['passengers', 'pilots', 'destinations'],
+    documentTypes: ['Flight logs', 'FAA records', 'Witness statements']
+  }
+};
+
+export function getEntityTypeIntelligence(type: string): EntityTypeIntelligence {
+  const template = ENTITY_TYPE_TEMPLATES[type.toLowerCase()];
+  return template || ENTITY_TYPE_TEMPLATES['person'] as EntityTypeIntelligence;
+}
+
+// =============================================================================
+// TIMELINE ANALYSIS - Build chronological narratives
+// =============================================================================
+
+export interface TimelineEvent {
+  date: string;
+  description: string;
+  entities: string[];
+  source: string;
+  significance: 'HIGH' | 'MEDIUM' | 'LOW';
+}
+
+// Key dates in the Epstein case for context
+export const KEY_TIMELINE_EVENTS: TimelineEvent[] = [
+  { date: '2005', description: 'Palm Beach police begin investigation', entities: ['Jeffrey Epstein', 'Palm Beach'], source: 'Court records', significance: 'HIGH' },
+  { date: '2006', description: 'FBI begins federal investigation', entities: ['Jeffrey Epstein', 'FBI'], source: 'DOJ documents', significance: 'HIGH' },
+  { date: '2007', description: 'Non-prosecution agreement signed', entities: ['Jeffrey Epstein', 'Alexander Acosta'], source: 'Court records', significance: 'HIGH' },
+  { date: '2008', description: 'Epstein pleads guilty to state charges, serves 13 months', entities: ['Jeffrey Epstein', 'Florida'], source: 'Court records', significance: 'HIGH' },
+  { date: '2015', description: 'Virginia Giuffre files defamation suit against Maxwell', entities: ['Virginia Giuffre', 'Ghislaine Maxwell'], source: 'Court filings', significance: 'HIGH' },
+  { date: '2019-07', description: 'Epstein arrested on federal sex trafficking charges', entities: ['Jeffrey Epstein', 'SDNY'], source: 'DOJ', significance: 'HIGH' },
+  { date: '2019-08-10', description: 'Epstein found dead in Manhattan jail cell', entities: ['Jeffrey Epstein', 'MCC New York'], source: 'News reports', significance: 'HIGH' },
+  { date: '2020-07', description: 'Ghislaine Maxwell arrested in New Hampshire', entities: ['Ghislaine Maxwell', 'FBI'], source: 'DOJ', significance: 'HIGH' },
+  { date: '2021-12', description: 'Maxwell convicted on 5 of 6 counts', entities: ['Ghislaine Maxwell'], source: 'Court records', significance: 'HIGH' },
+  { date: '2022-06', description: 'Maxwell sentenced to 20 years in prison', entities: ['Ghislaine Maxwell'], source: 'Court records', significance: 'HIGH' },
+];
+
+export function getRelevantTimelineEvents(entityName: string): TimelineEvent[] {
+  return KEY_TIMELINE_EVENTS.filter(event => 
+    event.entities.some(e => 
+      e.toLowerCase().includes(entityName.toLowerCase()) || 
+      entityName.toLowerCase().includes(e.toLowerCase())
+    )
+  );
+}
+
+export function buildTimelineContext(entityName: string): string {
+  const events = getRelevantTimelineEvents(entityName);
+  if (events.length === 0) return '';
+  
+  return `\n\nKEY TIMELINE EVENTS for ${entityName}:\n${events.map(e => 
+    `• ${e.date}: ${e.description} [${e.source}]`
+  ).join('\n')}`;
+}
+
+// =============================================================================
+// INVESTIGATION DEPTH SCORING
+// =============================================================================
+
+export interface InvestigationDepth {
+  documentMentions: number;
+  connectionStrength: number;
+  sourceVariety: number;
+  legalExposure: number;
+  overallScore: number;
+  tier: 'CENTRAL_FIGURE' | 'KEY_ASSOCIATE' | 'PERIPHERAL' | 'MINOR_MENTION';
+}
+
+export function calculateInvestigationDepth(
+  documentCount: number,
+  connectionCount: number,
+  connectionStrength: number,
+  inBlackBook: boolean,
+  inFlightLogs: boolean,
+  inCourtDocs: boolean
+): InvestigationDepth {
+  let sourceVariety = 0;
+  if (inBlackBook) sourceVariety += 30;
+  if (inFlightLogs) sourceVariety += 40;
+  if (inCourtDocs) sourceVariety += 30;
+  
+  const documentScore = Math.min(documentCount / 10, 100);
+  const connectionScore = Math.min(connectionCount / 5, 100);
+  const strengthScore = Math.min(connectionStrength / 10, 100);
+  
+  const overallScore = (documentScore * 0.3) + (connectionScore * 0.2) + (strengthScore * 0.2) + (sourceVariety * 0.3);
+  
+  let tier: InvestigationDepth['tier'] = 'MINOR_MENTION';
+  if (overallScore >= 80) tier = 'CENTRAL_FIGURE';
+  else if (overallScore >= 50) tier = 'KEY_ASSOCIATE';
+  else if (overallScore >= 20) tier = 'PERIPHERAL';
+  
+  return {
+    documentMentions: documentCount,
+    connectionStrength,
+    sourceVariety,
+    legalExposure: inCourtDocs ? 100 : 0,
+    overallScore,
+    tier
+  };
+}

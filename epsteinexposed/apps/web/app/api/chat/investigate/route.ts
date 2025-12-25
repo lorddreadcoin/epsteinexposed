@@ -1,7 +1,16 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { headers } from 'next/headers';
 import { supabase } from '@/lib/supabase';
-import { searchWeb, formatSearchResults, fetchWikipediaSummary, getKnownFigureContext } from '@/lib/web-search';
+import { 
+  searchWeb, 
+  formatSearchResults, 
+  fetchWikipediaSummary, 
+  getKnownFigureContext,
+  analyzeConnectionPatterns,
+  getEntityTypeIntelligence,
+  buildTimelineContext,
+  KNOWN_FIGURES
+} from '@/lib/web-search';
 
 export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
@@ -84,6 +93,8 @@ Be educational. Be factual. Cite everything. Label your confidence.`;
 interface DocumentResult {
   id: string;
   filename: string;
+  name?: string;
+  type?: string;
   excerpt: string;
   entities: string[];
   relevanceScore: number;
@@ -504,7 +515,60 @@ export async function POST(req: NextRequest) {
     // Build entity summary
     const entitySummary = relevantDocs.slice(0, 10).map(d => d.excerpt).join('\n');
 
-    // Step 4: Call GPT-4o-mini via OpenRouter (much cheaper than Claude)
+    // Step 5: ADVANCED INTELLIGENCE LAYERS
+    
+    // 5a. Pattern Recognition - Analyze connection patterns for suspicious activity
+    let patternAnalysisContext = '';
+    if (selectedEntities.length > 0 && connections.length > 0) {
+      const patternAnalysis = analyzeConnectionPatterns(connections, selectedEntities[0]);
+      if (patternAnalysis.patterns.length > 0) {
+        patternAnalysisContext = `\n\nPATTERN ANALYSIS [Risk Level: ${patternAnalysis.riskLevel}]:\n${patternAnalysis.patterns.map(p => `• ${p}`).join('\n')}`;
+        if (patternAnalysis.flags.length > 0) {
+          patternAnalysisContext += `\nFLAGS: ${patternAnalysis.flags.join(', ')}`;
+        }
+      }
+    }
+    
+    // 5b. Timeline Context - Add key dates and events
+    let timelineContext = '';
+    for (const entityName of selectedEntities.slice(0, 2)) {
+      const timeline = buildTimelineContext(entityName);
+      if (timeline) {
+        timelineContext += timeline;
+      }
+    }
+    
+    // 5c. Entity Type Intelligence - Get investigation focus based on entity type
+    let entityTypeContext = '';
+    if (selectedEntities.length > 0) {
+      // Determine entity type from search results
+      const primaryEntity = relevantDocs.find(d => 
+        selectedEntities.some(e => d.name?.toLowerCase().includes(e.toLowerCase()))
+      );
+      const entityType = primaryEntity?.type || 'person';
+      const typeIntel = getEntityTypeIntelligence(entityType);
+      entityTypeContext = `\n\nINVESTIGATION FOCUS for ${entityType.toUpperCase()}:\n${typeIntel.investigationFocus.slice(0, 3).map(f => `• ${f}`).join('\n')}\n\nKEY QUESTIONS TO ANSWER:\n${typeIntel.keyQuestions.slice(0, 3).map(q => `• ${q}`).join('\n')}`;
+    }
+    
+    // 5d. Cross-reference with known figures database
+    let knownFiguresContext = '';
+    const connectedKnownFigures = connections.filter(c => 
+      Object.keys(KNOWN_FIGURES).some(k => 
+        c.entityA?.toLowerCase().includes(k.toLowerCase()) || 
+        c.entityB?.toLowerCase().includes(k.toLowerCase())
+      )
+    );
+    if (connectedKnownFigures.length > 0) {
+      knownFiguresContext = `\n\nCONNECTIONS TO KNOWN FIGURES:\n${connectedKnownFigures.slice(0, 5).map(c => {
+        const knownEntity = Object.keys(KNOWN_FIGURES).find(k => 
+          c.entityA?.toLowerCase().includes(k.toLowerCase()) || 
+          c.entityB?.toLowerCase().includes(k.toLowerCase())
+        );
+        return `• ${c.entityA} ↔ ${c.entityB} (strength: ${c.strength}) - ${knownEntity && KNOWN_FIGURES[knownEntity] ? KNOWN_FIGURES[knownEntity].substring(0, 80) + '...' : ''}`;
+      }).join('\n')}`;
+    }
+
+    // Step 6: Call GPT-4o-mini via OpenRouter (much cheaper than Claude)
     const openrouterKey = process.env.OPENROUTER_API_KEY;
     
     if (!openrouterKey) {
@@ -515,8 +579,8 @@ export async function POST(req: NextRequest) {
       });
     }
 
-    // Build the full context for the AI with REAL evidence + PUBLIC KNOWLEDGE
-    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${publicKnowledgeContext}${connectionsContext}${documentContext}${webSearchContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
+    // Build the full context for the AI with ALL INTELLIGENCE LAYERS
+    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${publicKnowledgeContext}${entityTypeContext}${patternAnalysisContext}${timelineContext}${knownFiguresContext}${connectionsContext}${documentContext}${webSearchContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
 
     const apiResponse = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
