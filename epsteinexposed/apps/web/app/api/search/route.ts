@@ -34,8 +34,8 @@ export async function GET(req: NextRequest) {
       id: item.id,
       name: item.name,
       type: item.type,
-      occurrences: item.document_count,
-      documentIds: [], // Can be populated from entity_mentions if needed
+      occurrences: item.document_count || 0,
+      documentIds: item.document_count > 0 ? [item.id] : [], // Use entity ID as document reference
     }));
 
     return NextResponse.json({ result: { data: results } });

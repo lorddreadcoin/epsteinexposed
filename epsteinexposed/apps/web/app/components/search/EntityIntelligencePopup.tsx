@@ -104,8 +104,8 @@ export function EntityIntelligencePopup({ entity, onClose, onViewDocument }: Ent
       }]);
 
       setEntityDetails({
-        connections: data.connectionsFound || data.citations?.length || entity.occurrences || 50,
-        documents: data.documentsSearched || entity.documentIds?.length || data.citations?.length || 11622,
+        connections: data.connectionsFound || data.citations?.length || entity.occurrences || 0,
+        documents: entity.documentIds?.length || data.citations?.length || 0,
       });
 
     } catch (err) {
