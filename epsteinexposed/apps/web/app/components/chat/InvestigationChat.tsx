@@ -382,14 +382,27 @@ export function InvestigationChat({
   }, [isDragging]);
 
   return (
-    <div 
-      className={`
-        bg-[#0a0a0f]/98 backdrop-blur-md border-t-2 border-[#00d4ff] shadow-[0_-4px_20px_rgba(0,212,255,0.3)]
-        flex flex-col fixed left-0 right-0 z-[100] sm:bottom-0 bottom-14
-        ${isDragging ? '' : 'transition-all duration-300 ease-out'}
-      `}
-      style={{ height: isCollapsed ? '56px' : `${chatHeight}vh`, minHeight: isCollapsed ? '56px' : '220px' }}
-    >
+    <>
+      {/* Backdrop overlay when chat is open */}
+      {!isCollapsed && (
+        <div 
+          className="fixed inset-0 bg-black/60 backdrop-blur-sm z-[90] transition-opacity duration-300"
+          onClick={onToggleCollapse}
+        />
+      )}
+      
+      {/* Chat Modal/Panel */}
+      <div 
+        className={`
+          bg-[#0a0a0f]/98 backdrop-blur-md border-2 border-[#00d4ff] shadow-[0_0_40px_rgba(0,212,255,0.4)]
+          flex flex-col fixed z-[100] rounded-t-2xl
+          ${isCollapsed 
+            ? 'left-4 right-4 bottom-0 sm:left-auto sm:right-4 sm:w-96' 
+            : 'left-4 right-4 top-20 bottom-4 sm:left-1/2 sm:-translate-x-1/2 sm:w-[90vw] sm:max-w-5xl sm:top-16 sm:bottom-16'
+          }
+          ${isDragging ? '' : 'transition-all duration-300 ease-out'}
+        `}
+      >
       {/* Drag Handle for Resizing */}
       {!isCollapsed && (
         <div
@@ -519,6 +532,7 @@ export function InvestigationChat({
           </div>
         </>
       )}
-    </div>
+      </div>
+    </>
   );
 }
