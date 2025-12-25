@@ -103,9 +103,12 @@ export function EntityIntelligencePopup({ entity, onClose, onViewDocument }: Ent
         citations: data.citations || [],
       }]);
 
+      // Use the REAL counts from the entity data (from entities table)
+      // entity.occurrences = document_count from entities table
+      // Fall back to API response data if needed
       setEntityDetails({
-        connections: data.connectionsFound || data.citations?.length || entity.occurrences || 0,
-        documents: entity.documentIds?.length || data.citations?.length || 0,
+        connections: data.connectionsFound || 0,
+        documents: entity.occurrences || data.citations?.length || 0,
       });
 
     } catch (err) {
@@ -227,7 +230,7 @@ export function EntityIntelligencePopup({ entity, onClose, onViewDocument }: Ent
                       {entity.type}
                     </span>
                     <span className="text-white/70 text-sm">
-                      {entity.occurrences} mentions • {entity.documentIds?.length || 0} documents
+                      {entity.occurrences || 0} documents
                     </span>
                   </div>
                 </div>

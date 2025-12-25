@@ -174,7 +174,7 @@ export function SearchPanel() {
                             <div>
                               <div className="text-white font-medium">{result.name}</div>
                               <div className="text-xs text-gray-500">
-                                {result.type} • {result.occurrences} mentions • {result.documentIds?.length || 0} documents
+                                {result.type} • {result.occurrences || 0} documents
                               </div>
                             </div>
                           </div>
