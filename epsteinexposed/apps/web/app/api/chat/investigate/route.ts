@@ -80,6 +80,7 @@ async function fetchDocumentExcerpts(entityNames: string[], limit = 5): Promise<
   title: string;
   excerpt: string;
   entities: string[];
+  page?: number;
 }>> {
   if (entityNames.length === 0) return [];
   
@@ -118,24 +119,35 @@ async function fetchDocumentExcerpts(entityNames: string[], limit = 5): Promise<
       if (m.context) doc.contexts.push(m.context);
     }
     
-    // Get document titles
+    // Get document titles AND doc_id (the actual PDF filename ID)
     const docIds = Array.from(docMentions.keys()).slice(0, limit * 2);
     const { data: docs } = await supabase
       .from('documents')
       .select('id, doc_id, title')
       .in('id', docIds);
     
-    const docTitleMap = new Map((docs || []).map(d => [d.id, d.title || d.doc_id || 'Unknown Document']));
+    // Map database ID to doc_id (PDF filename) and title
+    const docInfoMap = new Map((docs || []).map(d => [
+      d.id, 
+      { 
+        pdfId: d.doc_id || d.id, // Use doc_id for PDF lookup, fallback to id
+        title: d.title || d.doc_id || 'Unknown Document' 
+      }
+    ]));
     
     // Build results, prioritizing docs with multiple entities
     const results = Array.from(docMentions.entries())
-      .map(([docId, data]) => ({
-        docId,
-        title: docTitleMap.get(docId) || 'Document',
-        excerpt: data.contexts.slice(0, 2).join(' ... ').substring(0, 300),
-        entities: Array.from(data.entities),
-        entityCount: data.entities.size
-      }))
+      .map(([dbId, data]) => {
+        const docInfo = docInfoMap.get(dbId);
+        return {
+          docId: docInfo?.pdfId || dbId, // Use the PDF-compatible ID
+          title: docInfo?.title || 'Document',
+          excerpt: data.contexts.slice(0, 2).join(' ... ').substring(0, 300),
+          entities: Array.from(data.entities),
+          entityCount: data.entities.size,
+          page: data.page
+        };
+      })
       .sort((a, b) => b.entityCount - a.entityCount)
       .slice(0, limit);
     
@@ -482,11 +494,12 @@ export async function POST(req: NextRequest) {
     // Log cost tracking
     console.log('[CHAT] Model: gpt-4o-mini, Tokens:', data.usage?.total_tokens || 'unknown');
 
-    // Step 5: Build citations from ACTUAL document excerpts (not entity IDs)
+    // Step 5: Build citations from ACTUAL document excerpts with page numbers
     const citations: Citation[] = documentExcerpts.map(d => ({
       documentId: d.docId,
-      documentName: d.title,
+      documentName: d.title + (d.page ? `, page ${d.page}` : ''),
       excerpt: d.excerpt.substring(0, 150) + (d.excerpt.length > 150 ? '...' : ''),
+      page: d.page,
     }));
 
     // Step 6: Check if we found useful info
