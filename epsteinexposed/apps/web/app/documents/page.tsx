@@ -17,9 +17,9 @@ interface PdfIndex {
 }
 
 const FEATURED_DOCS = [
+  { id: 'giuffre-vs-maxwell-943-pages-unredacted', title: 'Giuffre v. Maxwell - 943 Pages Unredacted', source: 'DocumentCloud', description: 'Full 943-page unsealed court filing from Giuffre v. Maxwell civil case (Jan 2024)' },
   { id: 'flight-logs', title: 'Epstein Flight Manifests', source: 'DocumentCloud', description: 'Complete flight logs from Epstein\'s private jets' },
-  { id: 'giuffre-maxwell', title: 'Giuffre v Maxwell Unsealed', source: 'The Guardian', description: '2024 unsealed court documents' },
-  { id: 'maxwell-criminal-complaint', title: 'Maxwell Criminal Complaint', source: 'CourtListener', description: 'Federal criminal complaint against Ghislaine Maxwell' },
+  { id: 'epstein-black-book', title: 'Epstein Black Book', source: 'DocumentCloud', description: 'Contact book with names and phone numbers' },
 ]
 
 export default function DocumentsPage() {

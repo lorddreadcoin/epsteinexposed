@@ -23,6 +23,7 @@ interface DocumentData {
   availableDocuments?: string[]
   error?: string
   message?: string
+  pageCount?: number
 }
 
 export default function DocumentViewer() {
@@ -108,10 +109,16 @@ export default function DocumentViewer() {
     const isSupabasePdf = doc.pdfUrl.includes('supabase.co');
     const isDocumentCloudPdf = doc.pdfUrl.includes('documentcloud.org');
     
-    // Google Docs viewer works better for cross-origin PDFs
+    // For large DocumentCloud PDFs (>20MB), use direct embed instead of Google Docs viewer
+    // Google Docs viewer has a ~25MB limit and may fail on large files
+    const isLargeFile = doc.pageCount && doc.pageCount > 500;
+    
+    // Choose viewer strategy
     const viewerUrl = isSupabasePdf 
       ? doc.pdfUrl  // Direct embed for Supabase
-      : `https://docs.google.com/viewer?url=${encodeURIComponent(doc.pdfUrl)}&embedded=true`;
+      : isLargeFile && isDocumentCloudPdf
+        ? doc.pdfUrl  // Direct embed for large DocumentCloud files
+        : `https://docs.google.com/viewer?url=${encodeURIComponent(doc.pdfUrl)}&embedded=true`;
     
     return (
       <div className="h-screen flex flex-col bg-[#0a0a0f]">
