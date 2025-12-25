@@ -22,6 +22,50 @@ const FALLBACK_EDGES = [
   { source: 'fallback-1', target: 'fallback-5', from: 'fallback-1', to: 'fallback-5', weight: 150, strength: 150 },
 ];
 
+// Type correction map for known misclassified entities
+const TYPE_CORRECTIONS: Record<string, string> = {
+  // Locations misclassified as people
+  'Palm Beach': 'location',
+  'West Palm Beach': 'location',
+  'Fort Lauderdale': 'location',
+  'Little St. James': 'location',
+  'Little Saint James': 'location',
+  'Manhattan': 'location',
+  'New York': 'location',
+  'London': 'location',
+  'Paris': 'location',
+  'Miami': 'location',
+  'Florida': 'location',
+  'Virgin Islands': 'location',
+  'New Mexico': 'location',
+  'Santa Fe': 'location',
+  
+  // Organizations
+  'FBI': 'organization',
+  'CIA': 'organization',
+  'DOJ': 'organization',
+  'Department of Justice': 'organization',
+  'Southern District': 'organization',
+  
+  // Known people (in case misclassified)
+  'Bill Clinton': 'person',
+  'Ghislaine Maxwell': 'person',
+  'Virginia Giuffre': 'person',
+  'Virginia Roberts': 'person',
+  'Prince Andrew': 'person',
+  'Alan Dershowitz': 'person',
+  'Leslie Wexner': 'person',
+};
+
+function correctEntityType(name: string, type: string): string {
+  const corrected = TYPE_CORRECTIONS[name];
+  if (corrected && corrected !== type) {
+    console.log(`[TYPE CORRECTION] ${name}: ${type} → ${corrected}`);
+    return corrected;
+  }
+  return type;
+}
+
 async function fetchGraphData(edgeLimit: number, nodeLimit: number, offset: number = 0) {
   // PRIORITY: Fetch PERSON entities first (victims, perpetrators, high-profile names)
   // Then fill remaining slots with locations/orgs
@@ -53,8 +97,13 @@ async function fetchGraphData(edgeLimit: number, nodeLimit: number, offset: numb
     console.error('[GRAPH] Other entities fetch error:', otherError);
   }
 
-  // Combine entities - people first
-  const entities = [...(peopleEntities || []), ...(otherEntities || [])];
+  // Combine entities - people first, then apply type corrections
+  const rawEntities = [...(peopleEntities || []), ...(otherEntities || [])];
+  const entities = rawEntities.map(e => ({
+    ...e,
+    type: correctEntityType(e.name, e.type)
+  }));
+  
   console.log('[GRAPH] Fetched', peopleEntities?.length || 0, 'people,', otherEntities?.length || 0, 'other entities');
 
   if (entities.length === 0) {
