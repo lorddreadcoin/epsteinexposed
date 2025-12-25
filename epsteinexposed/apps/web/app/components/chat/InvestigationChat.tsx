@@ -137,12 +137,17 @@ export function InvestigationChat({
   }, [selectedEntities]);
   
   // Auto-investigate when triggered from "Investigate in Chat" button
+  // OR when selectedEntities change significantly
   useEffect(() => {
-    if (autoInvestigate && selectedEntities.length > 0 && !isLoading) {
-      const entityKey = selectedEntities.sort().join(',');
+    if (selectedEntities.length > 0 && !isLoading) {
+      const entityKey = selectedEntities.slice().sort().join(',');
       
-      // Only auto-investigate if we haven't already for these exact entities
-      if (hasAutoInvestigated !== entityKey) {
+      // Auto-investigate if:
+      // 1. autoInvestigate flag is set, OR
+      // 2. The entities have changed from what we last investigated
+      const shouldInvestigate = autoInvestigate || (hasAutoInvestigated !== null && hasAutoInvestigated !== entityKey);
+      
+      if (shouldInvestigate && hasAutoInvestigated !== entityKey) {
         setHasAutoInvestigated(entityKey);
         
         // Build a comprehensive investigation query

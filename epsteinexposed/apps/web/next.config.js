@@ -23,15 +23,8 @@ const nextConfig = {
   // Empty turbopack config to silence warning (Next.js 16 uses Turbopack by default)
   turbopack: {},
   
-  // Proxy API requests to backend
-  async rewrites() {
-    return [
-      {
-        source: '/api/:path*',
-        destination: 'http://localhost:3001/:path*',
-      },
-    ];
-  },
+  // Note: API routes are handled by Next.js directly, no proxy needed
+  // The old rewrite to localhost:3001 was breaking on Netlify
   
   // Headers for performance and caching
   async headers() {
