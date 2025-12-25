@@ -19,9 +19,9 @@ export function Footer() {
         
         {/* Branding */}
         <div className="flex items-center gap-2">
-          <Image src="/logo.png" alt="Logo" width={28} height={28} className="rounded" />
+          <Image src="/vatra-logo.png" alt="Vatra Labs" width={28} height={28} className="rounded" />
           <span className="text-lg font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
-            Built by <Link href="https://x.com/danksterintel" target="_blank" className="hover:underline">@danksterintel</Link> of Vatra Labs AI Company
+            Built by Danks of Vatra Labs AI Company
           </span>
         </div>
         
@@ -32,13 +32,16 @@ export function Footer() {
         
         {/* Links & Donations */}
         <div className="flex items-center gap-3 text-base font-medium">
-          <Link 
-            href="https://x.com/danksterintel" 
-            target="_blank"
-            className="text-cyan-400 hover:text-cyan-300 transition-colors"
-          >
-            @danksterintel
-          </Link>
+          <div className="flex flex-col items-center">
+            <span className="text-xs text-gray-500 mb-0.5">Follow on X.com</span>
+            <Link 
+              href="https://x.com/danksterintel" 
+              target="_blank"
+              className="text-sm text-cyan-400 hover:text-cyan-300 transition-colors"
+            >
+              @danksterintel
+            </Link>
+          </div>
           
           <span className="text-gray-700">|</span>
           
