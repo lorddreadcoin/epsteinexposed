@@ -28,7 +28,11 @@ function mergedToSearchResult(merged: MergedEntity): SearchResult {
   };
 }
 
-export function SearchPanel() {
+interface SearchPanelProps {
+  onViewDocument?: (documentId: string) => void;
+}
+
+export function SearchPanel({ onViewDocument }: SearchPanelProps = {}) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
   const [loading, setLoading] = useState(false);
@@ -238,6 +242,7 @@ export function SearchPanel() {
         <EntityIntelligencePopup
           entity={selectedEntity}
           onClose={() => setSelectedEntity(null)}
+          onViewDocument={onViewDocument}
         />
       )}
     </>

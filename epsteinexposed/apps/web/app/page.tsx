@@ -361,7 +361,7 @@ export default function Home() {
       />
       
       {/* Search Panel - triggered from header */}
-      <SearchPanel />
+      <SearchPanel onViewDocument={handleViewDocument} />
       
       {/* Footer - Always visible with donations */}
       <Footer />
