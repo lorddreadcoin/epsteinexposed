@@ -174,29 +174,75 @@ async function searchDuckDuckGoHTML(query: string, maxResults: number): Promise<
     
     const response = await fetch(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
       },
     });
     
-    if (!response.ok) return [];
+    if (!response.ok) {
+      console.log('[DDG-HTML] Response not OK:', response.status);
+      return [];
+    }
     
     const html = await response.text();
     
-    // Parse HTML for results (basic regex parsing)
+    // Parse HTML for results - multiple regex patterns for different DDG layouts
     const results: Array<{title: string; url: string; snippet: string}> = [];
-    const resultRegex = /<a[^>]*class="result__a"[^>]*href="([^"]*)"[^>]*>([^<]*)<\/a>[\s\S]*?<a[^>]*class="result__snippet"[^>]*>([^<]*)<\/a>/g;
     
+    // Pattern 1: Standard DDG HTML results with result__a class
+    const pattern1 = /<a[^>]*class="[^"]*result__a[^"]*"[^>]*href="([^"]*)"[^>]*>([^<]*(?:<[^>]*>[^<]*)*)<\/a>/gi;
+    // Pattern 2: Snippet extraction
+    const snippetPattern = /<a[^>]*class="[^"]*result__snippet[^"]*"[^>]*>([^<]*(?:<[^>]*>[^<]*)*)<\/a>/gi;
+    // Pattern 3: Alternative layout - result-link class
+    const pattern3 = /<a[^>]*class="[^"]*result-link[^"]*"[^>]*href="([^"]*)"[^>]*>([^<]*)<\/a>/gi;
+    
+    // Extract all links and titles first
+    const links: Array<{url: string; title: string}> = [];
     let match;
-    while ((match = resultRegex.exec(html)) !== null && results.length < maxResults) {
-      const url = decodeURIComponent(match[1]);
-      const title = match[2].trim();
-      const snippet = match[3].trim();
+    
+    while ((match = pattern1.exec(html)) !== null) {
+      const rawUrl = match[1];
+      // DDG uses uddg parameter for actual URL
+      const urlMatch = rawUrl.match(/uddg=([^&]+)/);
+      const actualUrl = urlMatch ? decodeURIComponent(urlMatch[1]) : rawUrl;
+      const title = match[2].replace(/<[^>]*>/g, '').trim();
       
-      if (url && title && !url.includes('duckduckgo.com')) {
-        results.push({ title, url, snippet });
+      if (actualUrl && title && !actualUrl.includes('duckduckgo.com') && actualUrl.startsWith('http')) {
+        links.push({ url: actualUrl, title });
       }
     }
     
+    // Extract snippets
+    const snippets: string[] = [];
+    while ((match = snippetPattern.exec(html)) !== null) {
+      snippets.push(match[1].replace(/<[^>]*>/g, '').trim());
+    }
+    
+    // Combine links with snippets
+    for (let i = 0; i < Math.min(links.length, maxResults); i++) {
+      const link = links[i];
+      if (link) {
+        results.push({
+          title: link.title,
+          url: link.url,
+          snippet: snippets[i] || 'Click to view article',
+        });
+      }
+    }
+    
+    // Fallback: Try pattern 3 if no results
+    if (results.length === 0) {
+      while ((match = pattern3.exec(html)) !== null && results.length < maxResults) {
+        const url = decodeURIComponent(match[1]);
+        const title = match[2].trim();
+        if (url && title && !url.includes('duckduckgo.com') && url.startsWith('http')) {
+          results.push({ title, url, snippet: 'Click to view article' });
+        }
+      }
+    }
+    
+    console.log(`[DDG-HTML] Parsed ${results.length} results from HTML`);
     return results;
   } catch (error) {
     console.error('[DDG-HTML] Error:', error);
