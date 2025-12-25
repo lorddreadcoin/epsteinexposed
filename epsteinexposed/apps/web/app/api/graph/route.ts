@@ -132,14 +132,34 @@ export async function GET(request: Request) {
       }
     }
 
-    // Create entity map for quick lookup
+    // Filter out garbage entities (PDF parsing errors, UI elements)
+    const GARBAGE_ENTITY_PATTERNS = [
+      /^(Normal|Dear|Edit|Online|Network|Manual|Single|Double|Triple)$/i,
+      /^(Login|Logout|Sign|Email|Help|Only|Mode|View|Click|Button)$/i,
+      /^(Page|Next|Previous|Back|Forward|Home|Menu|Settings)$/i,
+      /^(Submit|Cancel|Save|Delete|Update|Refresh|Load|Search)$/i,
+      /^(Yes|No|OK|Cancel|Close|Open|Start|Stop|Exit)$/i,
+      /^(On|Off|True|False|Enable|Disable|Show|Hide)$/i,
+    ];
+    
+    const isGarbageEntity = (name: string): boolean => {
+      return GARBAGE_ENTITY_PATTERNS.some(pattern => pattern.test(name));
+    };
+    
+    // Create entity map for quick lookup, filtering out garbage entities
     type EntityType = { id: string; name: string; type: string; document_count: number; connection_count: number };
-    const entityMap = new Map<string, EntityType>((entities || []).map(e => [e.id, e]));
+    const entityMap = new Map<string, EntityType>(
+      (entities || [])
+        .filter(e => !isGarbageEntity(e.name))
+        .map(e => [e.id, e])
+    );
 
-    // Filter connections to only those where we have entity details
+    // Filter connections to only those where we have entity details (and both entities are valid)
     const validConnections = topConnections.filter(c => 
       entityMap.has(c.entity_a_id) && entityMap.has(c.entity_b_id)
     );
+    
+    console.log('[GRAPH] Filtered out garbage entities. Valid entities:', entityMap.size);
 
     console.log('[GRAPH] Valid connections:', validConnections.length);
 
