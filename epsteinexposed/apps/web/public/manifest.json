@@ -5,17 +5,23 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0f",
-  "theme_color": "#00d4ff",
-  "orientation": "portrait-primary",
+  "theme_color": "#0a0a0f",
+  "orientation": "any",
   "scope": "/",
   "lang": "en-US",
+  "dir": "ltr",
   "categories": ["news", "education", "utilities"],
+  "prefer_related_applications": false,
+  "display_override": ["standalone", "minimal-ui"],
+  "edge_side_panel": {
+    "preferred_width": 480
+  },
   "icons": [
     {
       "src": "/logo.png",
-      "sizes": "any",
+      "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "/favicon.ico",
@@ -28,7 +34,8 @@
       "src": "/og-image.png",
       "sizes": "1200x630",
       "type": "image/png",
-      "label": "Epstein Exposed Investigation Platform"
+      "form_factor": "wide",
+      "label": "Epstein Exposed Investigation Platform - Desktop View"
     }
   ],
   "shortcuts": [
@@ -37,14 +44,32 @@
       "short_name": "Search",
       "description": "Search the document database",
       "url": "/?search=true",
-      "icons": [{ "src": "/logo.png", "sizes": "any" }]
+      "icons": [{ "src": "/logo.png", "sizes": "512x512" }]
     },
     {
       "name": "AI Investigation",
       "short_name": "Investigate",
       "description": "Start an AI-powered investigation",
       "url": "/?chat=true",
-      "icons": [{ "src": "/logo.png", "sizes": "any" }]
+      "icons": [{ "src": "/logo.png", "sizes": "512x512" }]
+    },
+    {
+      "name": "3D Network Graph",
+      "short_name": "Graph",
+      "description": "Explore the 3D entity network",
+      "url": "/?view=graph",
+      "icons": [{ "src": "/logo.png", "sizes": "512x512" }]
     }
-  ]
+  ],
+  "share_target": {
+    "action": "/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
+  "related_applications": [],
+  "iarc_rating_id": ""
 }

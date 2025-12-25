@@ -21,6 +21,8 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   maximumScale: 5,
+  userScalable: true,
+  viewportFit: "cover", // For notched devices
   themeColor: [
     { media: "(prefers-color-scheme: dark)", color: "#0a0a0f" },
     { media: "(prefers-color-scheme: light)", color: "#0a0a0f" },
