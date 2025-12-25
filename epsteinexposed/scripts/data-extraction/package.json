@@ -1,0 +1,26 @@
+{
+  "name": "epstein-data-extraction",
+  "version": "1.0.0",
+  "description": "Extract entity data from Journalist Studio Epstein Files collection",
+  "type": "module",
+  "scripts": {
+    "extract:list": "npx tsx 01-scrape-document-list.ts",
+    "extract:text": "npx tsx 02-extract-pdf-text.ts",
+    "extract:entities": "npx tsx 03-extract-entities.ts",
+    "upload:supabase": "npx tsx 04-upload-to-supabase.ts",
+    "verify": "npx tsx 05-verify-data.ts",
+    "extract:all": "npm run extract:list && npm run extract:text && npm run extract:entities && npm run upload:supabase && npm run verify"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^21.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2"
+  }
+}
