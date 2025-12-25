@@ -804,8 +804,8 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
           <div className="flex items-start gap-2">
             <span className="text-yellow-400 font-bold flex-shrink-0">3.</span>
             <div>
-              <span className="text-white font-semibold">Use Search</span>
-              <span className="text-gray-400 hidden sm:inline"> (Ctrl+K) to find specific people, places, or organizations</span>
+              <span className="text-white font-semibold">Ask the AI</span>
+              <span className="text-gray-400 hidden sm:inline"> to find specific people, places, or organizations</span>
             </div>
           </div>
           

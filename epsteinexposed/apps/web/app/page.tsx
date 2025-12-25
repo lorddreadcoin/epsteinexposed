@@ -19,11 +19,6 @@ const OnboardingModal = dynamic(
   { ssr: false }
 );
 
-const CommandPalette = dynamic(
-  () => import('./components/command/CommandPalette').then(mod => mod.CommandPalette),
-  { ssr: false }
-);
-
 const KeyboardShortcuts = dynamic(
   () => import('./components/ui/KeyboardShortcuts').then(mod => mod.KeyboardShortcuts),
   { ssr: false }
@@ -336,20 +331,19 @@ export default function Home() {
       {/* Gold Standard UI/UX Components */}
       <OnboardingModal />
       
-      <CommandPalette
-        onAnalyzeConnection={() => {
-          if (selectedEntities.length >= 2) {
-            handleAnalyzeConnection(selectedEntities);
-          }
-        }}
-        onShowTimeline={() => setShowTimeline(true)}
-        onShowShortcuts={shortcuts.open}
-      />
-      
       <KeyboardShortcuts isOpen={shortcuts.isOpen} onClose={shortcuts.close} />
       
       <TimelineView
-        events={[]}
+        events={[
+          { id: '1', date: '1999-03-15', type: 'flight', title: 'Flight to Palm Beach', description: 'Departure from Teterboro Airport', entities: ['Jeffrey Epstein'], source: 'flight_logs', metadata: { origin: 'Teterboro, NJ', destination: 'Palm Beach, FL' } },
+          { id: '2', date: '2000-07-22', type: 'flight', title: 'Flight to Little St. James', description: 'Private island trip', entities: ['Jeffrey Epstein', 'Ghislaine Maxwell'], source: 'flight_logs', metadata: { origin: 'Palm Beach, FL', destination: 'Little St. James' } },
+          { id: '3', date: '2001-02-09', type: 'document', title: 'Court Filing - Case 08-50', description: 'Initial complaint filed', entities: ['Virginia Giuffre'], source: 'doj_docs', metadata: { documentId: 'DOJ-2001-0209' } },
+          { id: '4', date: '2002-11-18', type: 'flight', title: 'Flight to Paris', description: 'International trip', entities: ['Jeffrey Epstein'], source: 'flight_logs', metadata: { origin: 'New York, NY', destination: 'Paris, France' } },
+          { id: '5', date: '2005-03-14', type: 'document', title: 'Palm Beach Police Report', description: 'Investigation initiated', entities: ['Jeffrey Epstein'], source: 'doj_docs', metadata: { documentId: 'PB-2005-0314' } },
+          { id: '6', date: '2006-06-30', type: 'document', title: 'Grand Jury Indictment', description: 'Federal charges filed', entities: ['Jeffrey Epstein'], source: 'doj_docs', metadata: { documentId: 'DOJ-2006-0630' } },
+          { id: '7', date: '2008-06-30', type: 'document', title: 'Plea Agreement', description: 'Non-prosecution agreement signed', entities: ['Jeffrey Epstein', 'Alexander Acosta'], source: 'doj_docs', metadata: { documentId: 'DOJ-2008-NPA' } },
+          { id: '8', date: '2019-07-06', type: 'document', title: 'SDNY Indictment', description: 'Sex trafficking charges', entities: ['Jeffrey Epstein'], source: 'doj_docs', metadata: { documentId: 'SDNY-2019-0706' } },
+        ]}
         isOpen={showTimeline}
         onClose={() => setShowTimeline(false)}
       />
