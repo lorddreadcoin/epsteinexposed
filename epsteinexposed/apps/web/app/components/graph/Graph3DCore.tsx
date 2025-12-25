@@ -449,39 +449,155 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
   useEffect(() => {
     async function loadGraph() {
       try {
-        const res = await fetch('/api/graph?nodeLimit=500&connectionLimit=5000');
+        // Request MORE nodes with minConnections filter
+        const res = await fetch('/api/graph?nodeLimit=800&minConnections=3');
         if (!res.ok) throw new Error(`API error: ${res.status}`);
 
         const data = await res.json();
         const graphData = data.result?.data || data;
-        const rawNodes = graphData.nodes || [];
-        const rawEdges = graphData.edges || [];
+        const rawNodes = graphData.nodes || data.nodes || [];
+        const rawEdges = graphData.edges || data.edges || [];
 
         console.log('[GRAPH] Raw API data:', { nodes: rawNodes.length, edges: rawEdges.length });
 
         if (rawNodes.length === 0) throw new Error('No nodes returned from API');
 
-        const maxConn = Math.max(...rawNodes.map((n: any) => n.connections || n.connectionCount || 1));
+        // BUILD ADJACENCY FOR FORCE LAYOUT
+        const adjacency = new Map<string, Set<string>>();
+        
+        for (const edge of rawEdges) {
+          const source = edge.from || edge.source;
+          const target = edge.to || edge.target;
+          if (!adjacency.has(source)) adjacency.set(source, new Set());
+          if (!adjacency.has(target)) adjacency.set(target, new Set());
+          adjacency.get(source)!.add(target);
+          adjacency.get(target)!.add(source);
+        }
 
-        const positionedNodes: NodeData[] = rawNodes.map((node: any, i: number) => {
-          const phi = Math.acos(-1 + (2 * i) / rawNodes.length);
-          const theta = Math.sqrt(rawNodes.length * Math.PI) * phi;
+        // FORCE-DIRECTED LAYOUT (simplified spring simulation)
+        // This creates organic spider-web clustering
+        const positions = new Map<string, { x: number; y: number; z: number }>();
+        const velocities = new Map<string, { x: number; y: number; z: number }>();
+        
+        // Initialize with random positions
+        for (const node of rawNodes) {
+          positions.set(node.id, {
+            x: (Math.random() - 0.5) * 200,
+            y: (Math.random() - 0.5) * 200,
+            z: (Math.random() - 0.5) * 200
+          });
+          velocities.set(node.id, { x: 0, y: 0, z: 0 });
+        }
+
+        // Run force simulation (30 iterations for speed)
+        const ITERATIONS = 30;
+        const REPULSION = 400;
+        const ATTRACTION = 0.04;
+        const DAMPING = 0.85;
+
+        for (let iter = 0; iter < ITERATIONS; iter++) {
+          // Repulsion between all nodes (sample for performance)
+          const sampleSize = Math.min(rawNodes.length, 200);
+          for (let i = 0; i < sampleSize; i++) {
+            const nodeA = rawNodes[i];
+            const posA = positions.get(nodeA.id)!;
+            
+            for (let j = i + 1; j < sampleSize; j++) {
+              const nodeB = rawNodes[j];
+              const posB = positions.get(nodeB.id)!;
+              
+              const dx = posA.x - posB.x;
+              const dy = posA.y - posB.y;
+              const dz = posA.z - posB.z;
+              const dist = Math.sqrt(dx * dx + dy * dy + dz * dz) + 0.1;
+              
+              const force = REPULSION / (dist * dist);
+              const fx = (dx / dist) * force;
+              const fy = (dy / dist) * force;
+              const fz = (dz / dist) * force;
+              
+              velocities.get(nodeA.id)!.x += fx;
+              velocities.get(nodeA.id)!.y += fy;
+              velocities.get(nodeA.id)!.z += fz;
+              velocities.get(nodeB.id)!.x -= fx;
+              velocities.get(nodeB.id)!.y -= fy;
+              velocities.get(nodeB.id)!.z -= fz;
+            }
+          }
+
+          // Attraction along edges (spring force)
+          for (const edge of rawEdges) {
+            const source = edge.from || edge.source;
+            const target = edge.to || edge.target;
+            const posA = positions.get(source);
+            const posB = positions.get(target);
+            if (!posA || !posB) continue;
+            
+            const dx = posB.x - posA.x;
+            const dy = posB.y - posA.y;
+            const dz = posB.z - posA.z;
+            
+            const strength = ATTRACTION * Math.log(1 + (edge.weight || edge.strength || 1));
+            const fx = dx * strength;
+            const fy = dy * strength;
+            const fz = dz * strength;
+            
+            if (velocities.has(source)) {
+              velocities.get(source)!.x += fx;
+              velocities.get(source)!.y += fy;
+              velocities.get(source)!.z += fz;
+            }
+            if (velocities.has(target)) {
+              velocities.get(target)!.x -= fx;
+              velocities.get(target)!.y -= fy;
+              velocities.get(target)!.z -= fz;
+            }
+          }
+
+          // Apply velocities with damping
+          for (const node of rawNodes) {
+            const pos = positions.get(node.id)!;
+            const vel = velocities.get(node.id)!;
+            
+            pos.x += vel.x;
+            pos.y += vel.y;
+            pos.z += vel.z;
+            
+            vel.x *= DAMPING;
+            vel.y *= DAMPING;
+            vel.z *= DAMPING;
+            
+            // Keep within bounds
+            const maxDist = 150;
+            const dist = Math.sqrt(pos.x * pos.x + pos.y * pos.y + pos.z * pos.z);
+            if (dist > maxDist) {
+              pos.x *= maxDist / dist;
+              pos.y *= maxDist / dist;
+              pos.z *= maxDist / dist;
+            }
+          }
+        }
+
+        // Apply final positions
+        const maxConn = Math.max(...rawNodes.map((n: any) => n.connections || n.connectionCount || 1));
+        
+        const positionedNodes: NodeData[] = rawNodes.map((node: any) => {
+          const pos = positions.get(node.id) || { x: 0, y: 0, z: 0 };
           const connCount = node.connections || node.connectionCount || 1;
           const connRatio = connCount / maxConn;
-          const radius = 120 - connRatio * 80;
-
           const nodeName = node.label || node.name || 'Unknown';
+          
           return {
             id: node.id,
             name: nodeName,
-            label: nodeName, // Alias for page.tsx compatibility
+            label: nodeName,
             type: node.type || 'other',
-            x: radius * Math.cos(theta) * Math.sin(phi),
-            y: radius * Math.sin(theta) * Math.sin(phi),
-            z: radius * Math.cos(phi),
-            size: Math.max(0.8, Math.min(connCount / 15, 6)),
+            x: pos.x,
+            y: pos.y,
+            z: pos.z,
+            size: Math.max(0.5, Math.min(connRatio * 5 + 0.5, 4)),
             connectionCount: connCount,
-            connections: connCount, // Alias for page.tsx compatibility
+            connections: connCount,
             documentCount: node.documentCount || node.document_count || 0,
           };
         });
@@ -492,7 +608,7 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
           weight: e.strength || e.weight || 1,
         }));
 
-        console.log('[GRAPH] Final:', positionedNodes.length, 'nodes,', mappedEdges.length, 'edges');
+        console.log('[GRAPH] Layout complete:', positionedNodes.length, 'nodes,', mappedEdges.length, 'edges');
         setNodes(positionedNodes);
         setEdges(mappedEdges);
         setLoading(false);
