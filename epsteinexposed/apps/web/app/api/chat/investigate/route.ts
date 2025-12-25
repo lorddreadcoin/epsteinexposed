@@ -1,15 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { headers } from 'next/headers';
-import Anthropic from '@anthropic-ai/sdk';
 import { supabase } from '@/lib/supabase';
 
-// Initialize Anthropic client
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY || '',
-});
+export const dynamic = 'force-dynamic';
+export const maxDuration = 60;
 
 // Rate limiting to protect API costs
-const RATE_LIMIT = 20; // requests per hour per IP
+const RATE_LIMIT = 50; // requests per hour per IP (increased since cheaper)
 const rateLimitMap = new Map<string, { count: number; reset: number }>();
 
 function checkRateLimit(ip: string): boolean {
@@ -36,6 +33,26 @@ setInterval(() => {
   }
 }, 300000); // Every 5 minutes
 
+// System prompt optimized for token efficiency
+const SYSTEM_PROMPT = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents and 1.3M entity connections.
+
+RULES:
+- Be CONCISE. Max 200 words unless complex analysis needed.
+- NO markdown formatting (no **, no *, no #, no bullets)
+- NO preamble like "Based on the documents..." 
+- Lead with the key finding immediately
+- State facts directly with specific numbers
+- Connect dots between entities - this is your PRIMARY job
+- If connections data is provided, ALWAYS explain the relationships
+
+RESPONSE STYLE:
+Write in plain prose. Short paragraphs. Like a senior analyst giving a 30-second briefing.
+
+Example good response:
+"Bobbi Stemheim connects to Jeffrey Epstein through States Attorney (strength 47) and Laura Menninger (strength 32). She appears in 5 documents related to Maxwell court proceedings. The connection pattern suggests involvement in legal defense coordination."
+
+Be direct. Be specific. No fluff.`;
+
 interface DocumentResult {
   id: string;
   filename: string;
@@ -51,16 +68,16 @@ interface Citation {
   page?: number;
 }
 
-// Strip markdown formatting from AI responses to save tokens and clean display
+// Strip any markdown that slips through
 function stripMarkdown(text: string): string {
   return text
-    .replace(/\*\*/g, '')           // Remove **bold**
-    .replace(/\*/g, '')              // Remove *italic*
-    .replace(/^#+\s/gm, '')          // Remove # headers
-    .replace(/^[-•]\s/gm, '')        // Remove bullet points
-    .replace(/^\d+\.\s/gm, '')       // Remove numbered lists
-    .replace(/`([^`]+)`/g, '$1')     // Remove inline code
-    .replace(/\n{3,}/g, '\n\n')      // Collapse multiple newlines
+    .replace(/\*\*/g, '')
+    .replace(/\*/g, '')
+    .replace(/^#+\s/gm, '')
+    .replace(/^[-•]\s/gm, '')
+    .replace(/^\d+\.\s/gm, '')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
 
@@ -300,67 +317,70 @@ export async function POST(req: NextRequest) {
       ).join('\n')}`;
     }
     
-    // Build context for the AI - simplified, no technical details exposed
+    // Build context for the AI
     const contextText = documentContext
       .map(d => `Source: ${d.name}\nEntities: ${d.entities.join(', ')}\nContent: ${d.content}`)
       .join('\n\n---\n\n');
+
+    // Step 4: Call GPT-4o-mini via OpenRouter (much cheaper than Claude)
+    const openrouterKey = process.env.OPENROUTER_API_KEY;
     
-    const systemPrompt = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents and 1.3M entity connections.
+    if (!openrouterKey) {
+      console.error('[CHAT] Missing OPENROUTER_API_KEY');
+      return NextResponse.json({
+        response: 'Investigation API is not configured. Please add OPENROUTER_API_KEY.',
+        error: 'API not configured'
+      });
+    }
 
-CRITICAL TOKEN RULES:
-- NEVER use markdown formatting. No asterisks, no hashtags, no dashes for lists.
-- Write in SHORT paragraphs, 2-3 sentences max.
-- Be CONCISE. Every word costs money. Maximum 200 words unless asked for detail.
-- No preamble. Lead with the key finding immediately.
-- Write plain prose only. No formatting whatsoever.
+    // Build the full context for the AI
+    const fullContext = `${contextText ? `INTELLIGENCE:\n${contextText}` : 'Limited data.'}${connectionsContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
 
-RESPONSE FORMAT:
-Plain text only. No bold. No italic. No bullets. No numbered lists. No headers.
-Example: "Bobbi Stemheim connects to Jeffrey Epstein through 3 intermediaries. She appears in 5 documents alongside States Attorney and Laura Menninger. The connection strength of 47 indicates moderate co-occurrence in legal filings."
-
-NEVER:
-- Use ** or * for emphasis
-- Create lists with - or numbers
-- Use # for headers
-- Say "Based on the documents" or "The search results show"
-- Mention document IDs, OCR errors, or technical terms
-- Apologize or hedge
-- Say "no connection found" if connections data is provided
-
-DO:
-- ALWAYS explain the connections between entities when provided
-- State facts directly in flowing prose
-- Name specific connection strengths and types
-- Connect dots between entities - this is your PRIMARY job
-- Keep it tight and punchy like a 30-second briefing
-
-${contextText ? `INTELLIGENCE:\n${contextText}` : 'Limited data.'}
-${connectionsContext}
-
-${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}
-
-Your job is to CONNECT THE DOTS. Show how entities relate to each other.`;
-
-    // Step 4: Call Claude API with temperature 0 for factual accuracy
-    const response = await anthropic.messages.create({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 2000,
-      temperature: 0,
-      system: systemPrompt,
-      messages: [
-        ...conversationHistory.slice(-5).map((m: { role: string; content: string }) => ({
-          role: m.role as 'user' | 'assistant',
-          content: m.content,
-        })),
-        { role: 'user', content: message },
-      ],
+    const apiResponse = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${openrouterKey}`,
+        'Content-Type': 'application/json',
+        'HTTP-Referer': 'https://epsteinexposed.netlify.app',
+        'X-Title': 'Epstein Exposed Investigation'
+      },
+      body: JSON.stringify({
+        model: 'openai/gpt-4o-mini',
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPT },
+          ...conversationHistory.slice(-5).map((m: { role: string; content: string }) => ({
+            role: m.role,
+            content: m.content,
+          })),
+          { 
+            role: 'user', 
+            content: fullContext 
+              ? `Context from database:\n${fullContext}\n\nUser question: ${message}` 
+              : message
+          }
+        ],
+        max_tokens: 600,
+        temperature: 0.3
+      })
     });
 
-    const firstContent = response.content[0];
-    const rawResponseText = firstContent && 'text' in firstContent ? firstContent.text : '';
+    if (!apiResponse.ok) {
+      const errorText = await apiResponse.text();
+      console.error('[CHAT] OpenRouter error:', apiResponse.status, errorText);
+      return NextResponse.json({
+        response: `Analysis engine temporarily unavailable. Please try again.`,
+        error: `OpenRouter API error: ${apiResponse.status}`
+      });
+    }
+
+    const data = await apiResponse.json();
+    const rawResponseText = data.choices?.[0]?.message?.content || 'No response generated';
     
     // Strip any markdown formatting that slipped through
     const responseText = stripMarkdown(rawResponseText);
+
+    // Log cost tracking
+    console.log('[CHAT] Model: gpt-4o-mini, Tokens:', data.usage?.total_tokens || 'unknown');
 
     // Step 5: Extract citations from response
     const citations = extractCitations(responseText, relevantDocs);
@@ -374,6 +394,8 @@ Your job is to CONNECT THE DOTS. Show how entities relate to each other.`;
       citations,
       noDocumentResults,
       documentsSearched: relevantDocs.length,
+      model: 'gpt-4o-mini',
+      tokens: data.usage?.total_tokens
     });
 
   } catch (error) {
