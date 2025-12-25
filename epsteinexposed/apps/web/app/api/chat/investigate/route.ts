@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { headers } from 'next/headers';
 import { supabase } from '@/lib/supabase';
-import { searchWeb, formatSearchResults } from '@/lib/web-search';
+import { searchWeb, formatSearchResults, fetchWikipediaSummary, getKnownFigureContext } from '@/lib/web-search';
 
 export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
@@ -485,6 +485,22 @@ export async function POST(req: NextRequest) {
       ).join('\n\n')}`;
     }
     
+    // Step 4.5: ENTITY ENRICHMENT - Add public knowledge for context
+    let publicKnowledgeContext = '';
+    for (const entityName of selectedEntities.slice(0, 3)) {
+      // First check pre-cached known figures
+      const knownContext = getKnownFigureContext(entityName);
+      if (knownContext) {
+        publicKnowledgeContext += `\n\nPUBLIC KNOWLEDGE [${entityName}]: ${knownContext}`;
+      } else {
+        // Try Wikipedia for unknown entities
+        const wikiData = await fetchWikipediaSummary(entityName);
+        if (wikiData) {
+          publicKnowledgeContext += `\n\nPUBLIC KNOWLEDGE [${wikiData.name}]: ${wikiData.occupation ? `(${wikiData.occupation}) ` : ''}${wikiData.summary.substring(0, 300)}... [Source: Wikipedia]`;
+        }
+      }
+    }
+    
     // Build entity summary
     const entitySummary = relevantDocs.slice(0, 10).map(d => d.excerpt).join('\n');
 
@@ -499,8 +515,8 @@ export async function POST(req: NextRequest) {
       });
     }
 
-    // Build the full context for the AI with REAL evidence
-    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${connectionsContext}${documentContext}${webSearchContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
+    // Build the full context for the AI with REAL evidence + PUBLIC KNOWLEDGE
+    const fullContext = `ENTITY SUMMARY:\n${entitySummary || 'No entity data found.'}${publicKnowledgeContext}${connectionsContext}${documentContext}${webSearchContext}\n\n${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}`;
 
     const apiResponse = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
