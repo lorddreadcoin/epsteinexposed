@@ -103,6 +103,16 @@ export default function DocumentViewer() {
 
   // PDF Document
   if (doc.type === 'pdf' && doc.pdfUrl) {
+    // Use Google Docs viewer for cross-origin PDFs (more reliable)
+    // Direct embed for same-origin (Supabase) PDFs
+    const isSupabasePdf = doc.pdfUrl.includes('supabase.co');
+    const isDocumentCloudPdf = doc.pdfUrl.includes('documentcloud.org');
+    
+    // Google Docs viewer works better for cross-origin PDFs
+    const viewerUrl = isSupabasePdf 
+      ? doc.pdfUrl  // Direct embed for Supabase
+      : `https://docs.google.com/viewer?url=${encodeURIComponent(doc.pdfUrl)}&embedded=true`;
+    
     return (
       <div className="h-screen flex flex-col bg-[#0a0a0f]">
         {/* Header */}
@@ -130,6 +140,11 @@ export default function DocumentViewer() {
                     UNREDACTED
                   </span>
                 )}
+                {isDocumentCloudPdf && (
+                  <span className="px-2 py-0.5 text-xs rounded bg-purple-500/20 text-purple-400 border border-purple-500/30">
+                    DOCUMENTCLOUD
+                  </span>
+                )}
               </div>
               {doc.sourceNotes && (
                 <p className="text-xs text-gray-500 mt-1">{doc.sourceNotes}</p>
@@ -137,6 +152,7 @@ export default function DocumentViewer() {
             </div>
           </div>
           <div className="flex items-center gap-2">
+            {/* Direct PDF link - always works */}
             <a 
               href={doc.pdfUrl} 
               target="_blank" 
@@ -158,12 +174,24 @@ export default function DocumentViewer() {
           </div>
         </div>
         
-        {/* PDF Embed */}
-        <iframe
-          src={doc.pdfUrl}
-          className="flex-1 w-full bg-gray-900"
-          title={doc.title || 'Document'}
-        />
+        {/* PDF Embed with fallback */}
+        <div className="flex-1 relative">
+          <iframe
+            src={viewerUrl}
+            className="absolute inset-0 w-full h-full bg-gray-900"
+            title={doc.title || 'Document'}
+            allowFullScreen
+          />
+          {/* Fallback message if iframe fails */}
+          <noscript>
+            <div className="absolute inset-0 flex items-center justify-center bg-gray-900">
+              <div className="text-center">
+                <p className="text-gray-400 mb-4">PDF viewer requires JavaScript</p>
+                <a href={doc.pdfUrl} className="text-cyan-400 underline">Download PDF directly</a>
+              </div>
+            </div>
+          </noscript>
+        </div>
       </div>
     )
   }
