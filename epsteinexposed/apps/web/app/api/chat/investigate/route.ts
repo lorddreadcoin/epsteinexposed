@@ -76,13 +76,58 @@ function detectOCRError(term: string): boolean {
   return hasWeirdCaps || hasDigitLetterMix || looksLikeNonsense;
 }
 
-async function searchDocuments(terms: string[], selectedEntities: string[] = [], limit = 20): Promise<{ results: DocumentResult[]; searchType: string; ocrWarnings: string[] }> {
+// Fetch actual connections between entities from the connections table
+async function fetchEntityConnections(entityIds: string[]): Promise<Array<{
+  entityA: string;
+  entityB: string;
+  strength: number;
+  type: string;
+}>> {
+  if (entityIds.length === 0) return [];
+  
+  try {
+    const { data: connections, error } = await supabase
+      .from('connections')
+      .select('entity_a_id, entity_b_id, strength, connection_type')
+      .or(`entity_a_id.in.(${entityIds.join(',')}),entity_b_id.in.(${entityIds.join(',')})`)
+      .order('strength', { ascending: false })
+      .limit(50);
+    
+    if (error || !connections) return [];
+    
+    // Get entity names for the connections
+    const allEntityIds = new Set<string>();
+    connections.forEach(c => {
+      allEntityIds.add(c.entity_a_id);
+      allEntityIds.add(c.entity_b_id);
+    });
+    
+    const { data: entities } = await supabase
+      .from('entities')
+      .select('id, name')
+      .in('id', Array.from(allEntityIds));
+    
+    const entityNameMap = new Map((entities || []).map(e => [e.id, e.name]));
+    
+    return connections.map(c => ({
+      entityA: entityNameMap.get(c.entity_a_id) || 'Unknown',
+      entityB: entityNameMap.get(c.entity_b_id) || 'Unknown',
+      strength: c.strength || 1,
+      type: c.connection_type || 'co_occurrence'
+    }));
+  } catch (err) {
+    console.error('[CONNECTIONS] Error fetching connections:', err);
+    return [];
+  }
+}
+
+async function searchDocuments(terms: string[], selectedEntities: string[] = [], limit = 20): Promise<{ results: DocumentResult[]; searchType: string; ocrWarnings: string[]; connections: Array<{ entityA: string; entityB: string; strength: number; type: string }> }> {
   try {
     const searchTerms = [...terms, ...selectedEntities].filter(Boolean);
     const ocrWarnings: string[] = [];
     
     if (searchTerms.length === 0) {
-      return { results: [], searchType: 'none', ocrWarnings: [] };
+      return { results: [], searchType: 'none', ocrWarnings: [], connections: [] };
     }
     
     // Check for OCR errors in search terms
@@ -97,10 +142,13 @@ async function searchDocuments(terms: string[], selectedEntities: string[] = [],
       .from('entities')
       .select('id, name, type, document_count, connection_count')
       .or(searchTerms.map(term => `name.ilike.%${term}%`).join(','))
-      .order('connection_count', { ascending: false })
+      .order('document_count', { ascending: false })
       .limit(100);
     
     if (!exactError && exactEntities && exactEntities.length > 0) {
+      const entityIds = exactEntities.map(e => e.id);
+      const connections = await fetchEntityConnections(entityIds);
+      
       const results: DocumentResult[] = exactEntities.map((entity, idx) => ({
         id: entity.id,
         filename: `Entity: ${entity.name}`,
@@ -108,7 +156,7 @@ async function searchDocuments(terms: string[], selectedEntities: string[] = [],
         entities: [entity.name],
         relevanceScore: 1 - (idx / exactEntities.length),
       }));
-      return { results: results.slice(0, limit), searchType: 'exact', ocrWarnings };
+      return { results: results.slice(0, limit), searchType: 'exact', ocrWarnings, connections };
     }
     
     // Fall back to fuzzy search using RPC function (if available)
@@ -125,7 +173,9 @@ async function searchDocuments(terms: string[], selectedEntities: string[] = [],
             entities: [entity.name],
             relevanceScore: entity.similarity || (1 - idx / fuzzyEntities.length),
           }));
-          return { results, searchType: 'fuzzy', ocrWarnings };
+          const entityIds = fuzzyEntities.map((e: any) => e.id);
+          const connections = await fetchEntityConnections(entityIds);
+          return { results, searchType: 'fuzzy', ocrWarnings, connections };
         }
       }
     } catch (fuzzyErr) {
@@ -150,14 +200,16 @@ async function searchDocuments(terms: string[], selectedEntities: string[] = [],
           entities: [entity.name],
           relevanceScore: 0.5 - (idx / partialEntities.length) * 0.5,
         }));
-        return { results: results.slice(0, limit), searchType: 'partial', ocrWarnings };
+        const entityIds = partialEntities.map(e => e.id);
+        const connections = await fetchEntityConnections(entityIds);
+        return { results: results.slice(0, limit), searchType: 'partial', ocrWarnings, connections };
       }
     }
     
-    return { results: [], searchType: 'none', ocrWarnings };
+    return { results: [], searchType: 'none', ocrWarnings, connections: [] };
   } catch (error) {
     console.error('[SEARCH] Search error:', error);
-    return { results: [], searchType: 'error', ocrWarnings: [] };
+    return { results: [], searchType: 'error', ocrWarnings: [], connections: [] };
   }
 }
 
@@ -227,9 +279,9 @@ export async function POST(req: NextRequest) {
     ].filter(Boolean);
     
     const searchResult = await searchDocuments(searchTerms, selectedEntities, 20);
-    const { results: relevantDocs, searchType, ocrWarnings } = searchResult;
+    const { results: relevantDocs, searchType, connections } = searchResult;
     
-    console.log(`[CHAT] Found ${relevantDocs.length} documents (${searchType}) for:`, searchTerms);
+    console.log(`[CHAT] Found ${relevantDocs.length} documents (${searchType}), ${connections.length} connections for:`, searchTerms);
     
     // Step 2: Build context from documents
     const documentContext = relevantDocs.map(doc => ({
@@ -239,10 +291,13 @@ export async function POST(req: NextRequest) {
       entities: doc.entities,
     }));
     
-    // Step 3: Build OCR warning context
-    let ocrContext = '';
-    if (ocrWarnings.length > 0) {
-      ocrContext = `\n\nPOTENTIAL OCR ERRORS DETECTED:\n${ocrWarnings.join('\n')}\nConsider suggesting alternate spellings or similar names to the user.`;
+    // Step 3: Build connections context - THE KEY FEATURE
+    let connectionsContext = '';
+    if (connections.length > 0) {
+      const topConnections = connections.slice(0, 20);
+      connectionsContext = `\n\nKEY CONNECTIONS FOUND:\n${topConnections.map(c => 
+        `${c.entityA} ↔ ${c.entityB} (strength: ${c.strength}, type: ${c.type})`
+      ).join('\n')}`;
     }
     
     // Build context for the AI - simplified, no technical details exposed
@@ -250,18 +305,18 @@ export async function POST(req: NextRequest) {
       .map(d => `Source: ${d.name}\nEntities: ${d.entities.join(', ')}\nContent: ${d.content}`)
       .join('\n\n---\n\n');
     
-    const systemPrompt = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents.
+    const systemPrompt = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents and 1.3M entity connections.
 
 CRITICAL TOKEN RULES:
 - NEVER use markdown formatting. No asterisks, no hashtags, no dashes for lists.
 - Write in SHORT paragraphs, 2-3 sentences max.
-- Be CONCISE. Every word costs money. Maximum 150 words unless asked for detail.
+- Be CONCISE. Every word costs money. Maximum 200 words unless asked for detail.
 - No preamble. Lead with the key finding immediately.
 - Write plain prose only. No formatting whatsoever.
 
 RESPONSE FORMAT:
 Plain text only. No bold. No italic. No bullets. No numbered lists. No headers.
-Example: "Palm Beach is the primary hub appearing in 600+ documents. Miami Herald investigation triggered legal scrutiny. Jane Doe represents anonymous victims in 95 filings."
+Example: "Bobbi Stemheim connects to Jeffrey Epstein through 3 intermediaries. She appears in 5 documents alongside States Attorney and Laura Menninger. The connection strength of 47 indicates moderate co-occurrence in legal filings."
 
 NEVER:
 - Use ** or * for emphasis
@@ -270,18 +325,21 @@ NEVER:
 - Say "Based on the documents" or "The search results show"
 - Mention document IDs, OCR errors, or technical terms
 - Apologize or hedge
+- Say "no connection found" if connections data is provided
 
 DO:
+- ALWAYS explain the connections between entities when provided
 - State facts directly in flowing prose
-- Name specific numbers when known
-- Connect dots between entities
+- Name specific connection strengths and types
+- Connect dots between entities - this is your PRIMARY job
 - Keep it tight and punchy like a 30-second briefing
 
 ${contextText ? `INTELLIGENCE:\n${contextText}` : 'Limited data.'}
+${connectionsContext}
 
 ${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}
 
-Deliver insights like a senior analyst. No fluff.`;
+Your job is to CONNECT THE DOTS. Show how entities relate to each other.`;
 
     // Step 4: Call Claude API with temperature 0 for factual accuracy
     const response = await anthropic.messages.create({
