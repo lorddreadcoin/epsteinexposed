@@ -8,9 +8,19 @@ interface DocumentViewerProps {
   onClose: () => void;
 }
 
+interface DocumentData {
+  id: string;
+  title?: string;
+  pdfUrl?: string;
+  type?: string;
+  error?: string;
+  message?: string;
+}
+
 export function DocumentViewer({ documentId, highlightEntities = [], onClose }: DocumentViewerProps) {
   const [loading, setLoading] = useState(true);
-  const [pdfUrl, setPdfUrl] = useState<string | null>(null);
+  const [docData, setDocData] = useState<DocumentData | null>(null);
+  const [error, setError] = useState<string | null>(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
   const [zoom, setZoom] = useState(100);
@@ -18,15 +28,21 @@ export function DocumentViewer({ documentId, highlightEntities = [], onClose }: 
   useEffect(() => {
     const fetchDocument = async () => {
       setLoading(true);
+      setError(null);
       try {
         const response = await fetch(`/api/documents/${documentId}`);
-        if (!response.ok) throw new Error('Document not found');
         const data = await response.json();
-        setPdfUrl(data.url);
-        setTotalPages(data.pageCount || 1);
+        
+        if (!response.ok || data.error) {
+          setError(data.message || data.error || 'Document not found');
+          setDocData(null);
+        } else {
+          setDocData(data);
+          setTotalPages(data.pageCount || 1);
+        }
       } catch (err) {
         console.error('Failed to load document:', err);
-        setPdfUrl(`/documents/${documentId}.pdf`);
+        setError('Failed to load document. Please try again.');
       } finally {
         setLoading(false);
       }
@@ -49,7 +65,7 @@ export function DocumentViewer({ documentId, highlightEntities = [], onClose }: 
   }, [onClose, totalPages]);
   
   return (
-    <div className="fixed inset-0 z-50 bg-black/95 flex flex-col">
+    <div className="fixed inset-0 z-[100] bg-black/95 flex flex-col">
       <div className="h-14 bg-[#12121a] border-b border-[#ffffff15] px-4 flex items-center justify-between shrink-0">
         <div className="flex items-center gap-4">
           <span className="font-mono text-sm text-[#00d4ff]">DOC-{documentId}</span>
@@ -92,8 +108,8 @@ export function DocumentViewer({ documentId, highlightEntities = [], onClose }: 
               </svg>
             </button>
           </div>
-          {pdfUrl && (
-            <a href={pdfUrl} download={`epstein-doc-${documentId}.pdf`} className="p-2 hover:bg-[#ffffff10] rounded transition-colors" title="Download PDF">
+          {docData?.pdfUrl && (
+            <a href={docData.pdfUrl} download={`epstein-doc-${documentId}.pdf`} className="p-2 hover:bg-[#ffffff10] rounded transition-colors" title="Download PDF">
               <svg className="w-4 h-4 text-[#a0a0b0]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
               </svg>
@@ -113,13 +129,29 @@ export function DocumentViewer({ documentId, highlightEntities = [], onClose }: 
             <div className="w-8 h-8 border-2 border-[#00d4ff] border-t-transparent rounded-full animate-spin" />
             <p className="text-[#606070] font-mono text-sm">Loading document...</p>
           </div>
-        ) : pdfUrl ? (
+        ) : error ? (
+          <div className="text-center py-12">
+            <div className="text-5xl mb-4">⚠️</div>
+            <p className="text-[#ff3366] font-semibold text-lg mb-2">{error}</p>
+            <p className="text-[#606070] text-sm mb-4">Document ID: {documentId}</p>
+            <button onClick={onClose} className="px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
+          </div>
+        ) : docData?.pdfUrl ? (
           <div style={{ transform: `scale(${zoom / 100})`, transformOrigin: 'top center', transition: 'transform 0.2s ease' }}>
-            <iframe src={`${pdfUrl}#page=${currentPage}&toolbar=0`} className="w-[850px] h-[1100px] bg-white shadow-2xl rounded" title={`Document ${documentId}`} />
+            <iframe src={`${docData.pdfUrl}#page=${currentPage}&toolbar=0`} className="w-[850px] h-[1100px] bg-white shadow-2xl rounded" title={`Document ${documentId}`} />
+          </div>
+        ) : docData?.type === 'entity' ? (
+          <div className="text-center py-12">
+            <div className="text-5xl mb-4">👤</div>
+            <p className="text-white font-semibold text-lg mb-2">{docData.title || documentId}</p>
+            <p className="text-[#606070] text-sm">This is an entity reference, not a document.</p>
+            <p className="text-[#00d4ff] mt-2">View related documents in the graph.</p>
+            <button onClick={onClose} className="mt-4 px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
           </div>
         ) : (
-          <div className="text-center">
-            <p className="text-[#ff3366] font-mono mb-4">Document URL not available</p>
+          <div className="text-center py-12">
+            <div className="text-5xl mb-4">📄</div>
+            <p className="text-[#ff3366] font-mono mb-4">Document not available</p>
             <button onClick={onClose} className="px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
           </div>
         )}

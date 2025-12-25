@@ -3,6 +3,18 @@
 import { useState, useRef, useEffect } from 'react';
 import { Send, Loader2, FileText, ExternalLink, ChevronUp, ChevronDown, Sparkles } from 'lucide-react';
 
+// Strip markdown formatting from text
+function cleanText(text: string): string {
+  return text
+    .replace(/\*\*/g, '')           // Remove **bold**
+    .replace(/\*/g, '')              // Remove *italic*
+    .replace(/^#+\s/gm, '')          // Remove # headers
+    .replace(/^[-•]\s/gm, '')        // Remove bullet points
+    .replace(/^\d+\.\s/gm, '')       // Remove numbered lists
+    .replace(/`([^`]+)`/g, '$1')     // Remove inline code
+    .trim();
+}
+
 interface Message {
   id: string;
   role: 'user' | 'assistant' | 'system';
@@ -236,7 +248,7 @@ export function InvestigationChat({
     return (
       <div>
         <p className="text-[#e0e0e0] leading-relaxed whitespace-pre-wrap">
-          {message.content}
+          {cleanText(message.content)}
         </p>
         
         {/* Citations - Clean collapsible display */}

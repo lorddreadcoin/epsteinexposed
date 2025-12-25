@@ -66,7 +66,7 @@ export function KeyboardShortcuts({ isOpen, onClose }: KeyboardShortcutsProps) {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50"
+            className="fixed inset-0 bg-black/60 backdrop-blur-sm z-[100]"
             onClick={onClose}
           />
           
@@ -77,7 +77,7 @@ export function KeyboardShortcuts({ isOpen, onClose }: KeyboardShortcutsProps) {
             transition={{ type: "spring", stiffness: 400, damping: 30 }}
             className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 
                        w-full max-w-2xl max-h-[80vh] overflow-auto
-                       bg-[#12121a] border border-[#ffffff15] rounded-xl shadow-2xl z-50"
+                       bg-[#12121a] border border-[#ffffff15] rounded-xl shadow-2xl z-[100]"
           >
             <div className="sticky top-0 bg-[#12121a] border-b border-[#ffffff10] px-6 py-4 flex items-center justify-between">
               <div className="flex items-center gap-3">

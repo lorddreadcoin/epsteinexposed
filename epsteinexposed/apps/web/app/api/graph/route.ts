@@ -59,13 +59,48 @@ export async function GET(request: Request) {
       });
     }
 
-    // Filter connections to only those between visible nodes
+    // Filter connections - be more permissive for top entities
     const entityIdSet = new Set(entityIds);
-    const filteredConnections = (connections || []).filter(c => 
-      entityIdSet.has(c.entity_a_id) && entityIdSet.has(c.entity_b_id)
-    ).slice(0, connectionLimit); // Limit after filtering
     
-    console.log('[GRAPH API] Filtered connections (both endpoints in visible nodes):', filteredConnections.length);
+    // Top 100 entities get special treatment - show their connections even if other endpoint isn't visible
+    const topEntityIds = new Set(
+      entities
+        .slice(0, 100)
+        .map(e => e.id)
+    );
+    
+    // First pass: connections where BOTH endpoints are visible (guaranteed valid)
+    const bothVisible = (connections || []).filter(c => 
+      entityIdSet.has(c.entity_a_id) && entityIdSet.has(c.entity_b_id)
+    );
+    
+    // Second pass: connections where at least ONE endpoint is a top entity AND the other is visible
+    const topEntityConnections = (connections || []).filter(c => {
+      const aVisible = entityIdSet.has(c.entity_a_id);
+      const bVisible = entityIdSet.has(c.entity_b_id);
+      const aIsTop = topEntityIds.has(c.entity_a_id);
+      const bIsTop = topEntityIds.has(c.entity_b_id);
+      
+      // Include if: both visible, OR (one is top AND other is visible)
+      return (aVisible && bVisible) || (aIsTop && bVisible) || (aVisible && bIsTop);
+    });
+    
+    // Deduplicate and take the larger set
+    const connectionMap = new Map<string, typeof connections[0]>();
+    [...bothVisible, ...topEntityConnections].forEach(c => {
+      const key = `${c.entity_a_id}-${c.entity_b_id}`;
+      if (!connectionMap.has(key)) {
+        connectionMap.set(key, c);
+      }
+    });
+    
+    const filteredConnections = Array.from(connectionMap.values())
+      .sort((a, b) => (b.strength || 0) - (a.strength || 0))
+      .slice(0, connectionLimit);
+    
+    console.log('[GRAPH API] Both endpoints visible:', bothVisible.length);
+    console.log('[GRAPH API] Top entity connections:', topEntityConnections.length);
+    console.log('[GRAPH API] Final filtered connections:', filteredConnections.length);
     console.log('[GRAPH API] Entity IDs count:', entityIds.length);
 
     const nodes = entities.map(e => ({
