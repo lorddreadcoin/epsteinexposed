@@ -336,15 +336,71 @@ export function InvestigationChat({
     );
   };
   
+  // Resizable chat height state
+  const [chatHeight, setChatHeight] = useState(28); // vh percentage
+  const [isDragging, setIsDragging] = useState(false);
+  const maxHeight = 85; // Max height (up to header)
+
+  // Handle drag to resize
+  const handleDragStart = (e: React.MouseEvent | React.TouchEvent) => {
+    e.preventDefault();
+    setIsDragging(true);
+  };
+
+  useEffect(() => {
+    if (!isDragging) return;
+
+    const handleMove = (e: MouseEvent | TouchEvent) => {
+      let clientY: number;
+      if ('touches' in e && e.touches && e.touches.length > 0 && e.touches[0]) {
+        clientY = e.touches[0].clientY;
+      } else if ('clientY' in e) {
+        clientY = (e as MouseEvent).clientY;
+      } else {
+        return;
+      }
+      const windowHeight = window.innerHeight;
+      const newHeight = ((windowHeight - clientY) / windowHeight) * 100;
+      setChatHeight(Math.min(Math.max(newHeight, 20), maxHeight));
+    };
+
+    const handleEnd = () => {
+      setIsDragging(false);
+    };
+
+    window.addEventListener('mousemove', handleMove);
+    window.addEventListener('mouseup', handleEnd);
+    window.addEventListener('touchmove', handleMove);
+    window.addEventListener('touchend', handleEnd);
+
+    return () => {
+      window.removeEventListener('mousemove', handleMove);
+      window.removeEventListener('mouseup', handleEnd);
+      window.removeEventListener('touchmove', handleMove);
+      window.removeEventListener('touchend', handleEnd);
+    };
+  }, [isDragging]);
+
   return (
     <div 
       className={`
         bg-[#0a0a0f]/95 backdrop-blur-md border-t border-[#00d4ff30] 
-        transition-all duration-300 ease-out flex flex-col
-        fixed left-0 right-0 z-50
-        ${isCollapsed ? 'h-14 bottom-14' : 'h-[28vh] min-h-[220px] bottom-14'}
+        flex flex-col fixed left-0 right-0 z-50 sm:bottom-0 bottom-14
+        ${isDragging ? '' : 'transition-all duration-300 ease-out'}
       `}
+      style={{ height: isCollapsed ? '56px' : `${chatHeight}vh`, minHeight: isCollapsed ? '56px' : '220px' }}
     >
+      {/* Drag Handle for Resizing */}
+      {!isCollapsed && (
+        <div
+          className="absolute top-0 left-0 right-0 h-2 cursor-ns-resize group flex items-center justify-center -translate-y-1/2 z-10"
+          onMouseDown={handleDragStart}
+          onTouchStart={handleDragStart}
+        >
+          <div className="w-12 h-1 bg-[#00d4ff]/30 rounded-full group-hover:bg-[#00d4ff]/60 transition-colors" />
+        </div>
+      )}
+
       {/* Header bar */}
       <div 
         className="h-12 px-4 flex items-center justify-between border-b border-[#ffffff10] cursor-pointer hover:bg-[#12121a] shrink-0"
