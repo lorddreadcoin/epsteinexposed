@@ -37,17 +37,57 @@ const nextConfig = {
         ],
       },
       {
-        // Cache static assets aggressively
+        // Cache static assets aggressively (1 year)
         source: '/static/:path*',
         headers: [
           { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
         ],
       },
       {
-        // Cache JS/CSS chunks
+        // Cache JS/CSS chunks (1 year - they have hashes)
         source: '/_next/static/:path*',
         headers: [
           { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+        ],
+      },
+      {
+        // Cache images (30 days)
+        source: '/:path*.png',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=2592000, stale-while-revalidate=86400' },
+        ],
+      },
+      {
+        source: '/:path*.jpg',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=2592000, stale-while-revalidate=86400' },
+        ],
+      },
+      {
+        source: '/:path*.ico',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=2592000, stale-while-revalidate=86400' },
+        ],
+      },
+      {
+        // Cache fonts (1 year)
+        source: '/:path*.woff2',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+        ],
+      },
+      {
+        // Cache API graph data (5 minutes with stale-while-revalidate)
+        source: '/api/graph',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=300, stale-while-revalidate=600' },
+        ],
+      },
+      {
+        // Cache document list (10 minutes)
+        source: '/api/documents',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=600, stale-while-revalidate=1200' },
         ],
       },
     ];

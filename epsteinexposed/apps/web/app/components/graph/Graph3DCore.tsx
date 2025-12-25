@@ -36,6 +36,20 @@ interface Graph3DCoreProps {
 }
 
 // =============================================================================
+// LOCALSTORAGE CACHING FOR INSTANT SUBSEQUENT LOADS
+// =============================================================================
+
+const CACHE_KEY = 'epstein_graph_cache';
+const CACHE_EXPIRY = 5 * 60 * 1000; // 5 minutes
+
+interface CachedGraphData {
+  nodes: NodeData[];
+  edges: EdgeData[];
+  timestamp: number;
+  offset: number;
+}
+
+// =============================================================================
 // VIBRANT COLOR PALETTE
 // =============================================================================
 
@@ -456,8 +470,43 @@ function GraphScene({
     </>
   );
 }
-// MAIN EXPORT
-// =============================================================================
+
+function getCachedGraph(offset: number): CachedGraphData | null {
+  if (typeof window === 'undefined') return null;
+  try {
+    const cached = localStorage.getItem(`${CACHE_KEY}_${offset}`);
+    if (!cached) return null;
+    const data: CachedGraphData = JSON.parse(cached);
+    // Check if cache is still valid
+    if (Date.now() - data.timestamp < CACHE_EXPIRY) {
+      console.log('[GRAPH] Using cached data, age:', Math.round((Date.now() - data.timestamp) / 1000), 'seconds');
+      return data;
+    }
+    // Cache expired, remove it
+    localStorage.removeItem(`${CACHE_KEY}_${offset}`);
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+function setCachedGraph(nodes: NodeData[], edges: EdgeData[], offset: number): void {
+  if (typeof window === 'undefined') return;
+  try {
+    const data: CachedGraphData = { nodes, edges, timestamp: Date.now(), offset };
+    localStorage.setItem(`${CACHE_KEY}_${offset}`, JSON.stringify(data));
+    console.log('[GRAPH] Cached', nodes.length, 'nodes,', edges.length, 'edges');
+  } catch (e) {
+    // localStorage might be full, clear old caches
+    console.warn('[GRAPH] Cache write failed, clearing old caches');
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key?.startsWith(CACHE_KEY)) {
+        localStorage.removeItem(key);
+      }
+    }
+  }
+}
 
 export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCoreProps) {
   const [nodes, setNodes] = useState<NodeData[]>([]);
@@ -465,12 +514,31 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [graphOffset, setGraphOffset] = useState(0);
+  const [fromCache, setFromCache] = useState(false);
 
   useEffect(() => {
     async function loadGraph() {
+      // Try to load from cache first for instant display
+      const cached = getCachedGraph(graphOffset);
+      if (cached) {
+        setNodes(cached.nodes);
+        setEdges(cached.edges);
+        setLoading(false);
+        setFromCache(true);
+        // Still fetch fresh data in background
+        fetchFreshData(graphOffset, true);
+        return;
+      }
+      
+      await fetchFreshData(graphOffset, false);
+    }
+    
+    async function fetchFreshData(offset: number, isBackgroundRefresh: boolean) {
+      if (!isBackgroundRefresh) setLoading(true);
+      
       try {
         // Request 500 nodes and 1500 connections for a robust graph
-        const res = await fetch(`/api/graph?nodeLimit=500&connectionLimit=1500&offset=${graphOffset}`);
+        const res = await fetch(`/api/graph?nodeLimit=500&connectionLimit=1500&offset=${offset}`);
         
         if (!res.ok) {
           console.error('[GRAPH] API returned status:', res.status);
@@ -542,6 +610,10 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
         setNodes(positionedNodes);
         setEdges(mappedEdges);
         setLoading(false);
+        setFromCache(false);
+        
+        // Cache the data for instant subsequent loads
+        setCachedGraph(positionedNodes, mappedEdges, offset);
       } catch (err: any) {
         console.error('[GRAPH] Load error:', err);
         setError(err.message);
