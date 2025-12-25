@@ -2,81 +2,87 @@ import { supabase } from '@/lib/supabase';
 import { NextResponse } from 'next/server';
 
 export const dynamic = 'force-dynamic';
+export const maxDuration = 30;
 
 export async function GET(request: Request) {
+  const startTime = Date.now();
+  
   try {
     const { searchParams } = new URL(request.url);
-    const nodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '800'), 2000);
-    const minConnections = parseInt(searchParams.get('minConnections') || '3');
+    const nodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '500'), 1000);
+    const connectionLimit = parseInt(searchParams.get('connectionLimit') || '2000');
 
-    console.log('[GRAPH] Fetching graph with nodeLimit:', nodeLimit, 'minConnections:', minConnections);
+    console.log('[GRAPH] Starting with nodeLimit:', nodeLimit, 'connectionLimit:', connectionLimit);
 
-    // STEP 1: Get entities that HAVE connections (not just top by count)
-    const { data: entities, error: entitiesError } = await supabase
+    // STEP 1: Get top entities by connection count (simple query)
+    const { data: entities, error: entityError } = await supabase
       .from('entities')
       .select('id, name, type, document_count, connection_count')
-      .gte('connection_count', minConnections)
       .order('connection_count', { ascending: false })
       .limit(nodeLimit);
 
-    if (entitiesError) {
-      console.error('[GRAPH] Entity error:', entitiesError);
-      return NextResponse.json({ error: entitiesError.message }, { status: 500 });
+    if (entityError) {
+      console.error('[GRAPH] Entity query error:', entityError);
+      return NextResponse.json({ 
+        nodes: [], 
+        edges: [], 
+        error: `Entity query failed: ${entityError.message}` 
+      });
     }
 
     if (!entities || entities.length === 0) {
-      return NextResponse.json({ nodes: [], edges: [], meta: { error: 'No entities found' } });
+      console.error('[GRAPH] No entities found in database');
+      return NextResponse.json({ 
+        nodes: [], 
+        edges: [], 
+        error: 'No entities in database' 
+      });
     }
+
+    console.log('[GRAPH] Loaded', entities.length, 'entities');
 
     const entityIds = entities.map(e => e.id);
     const entityIdSet = new Set(entityIds);
-    
-    console.log('[GRAPH] Loaded', entities.length, 'entities');
 
-    // STEP 2: Get ALL connections between these specific entities using BATCH queries
-    const BATCH_SIZE = 100;
-    const allConnections: Array<{ entity_a_id: string; entity_b_id: string; strength: number }> = [];
+    // STEP 2: Get connections - simple approach
+    let connections: Array<{ entity_a_id: string; entity_b_id: string; strength: number }> = [];
     
-    // Query in batches to avoid timeout with large IN clauses
-    for (let i = 0; i < entityIds.length; i += BATCH_SIZE) {
-      const batchIds = entityIds.slice(i, i + BATCH_SIZE);
-      
-      const { data: batchConnections, error: connError } = await supabase
-        .from('connections')
-        .select('entity_a_id, entity_b_id, strength')
-        .in('entity_a_id', batchIds)
-        .order('strength', { ascending: false })
-        .limit(5000);
-      
-      if (connError) {
-        console.error('[GRAPH] Connection batch error:', connError);
-        continue;
-      }
-      
-      if (batchConnections) {
-        allConnections.push(...batchConnections);
-      }
+    const { data: connData, error: connError } = await supabase
+      .from('connections')
+      .select('entity_a_id, entity_b_id, strength')
+      .order('strength', { ascending: false })
+      .limit(connectionLimit);
+
+    if (connError) {
+      console.error('[GRAPH] Connection query error:', connError);
+      // Continue without connections rather than failing
+    } else {
+      connections = connData || [];
     }
 
-    console.log('[GRAPH] Raw connections fetched:', allConnections.length);
+    console.log('[GRAPH] Raw connections from DB:', connections.length);
 
-    // STEP 3: Filter to connections where BOTH endpoints are in our entity set and deduplicate
-    const connectionMap = new Map<string, { entity_a_id: string; entity_b_id: string; strength: number }>();
-    
-    for (const conn of allConnections) {
-      if (entityIdSet.has(conn.entity_a_id) && entityIdSet.has(conn.entity_b_id)) {
-        // Create consistent key for deduplication
-        const key = [conn.entity_a_id, conn.entity_b_id].sort().join('|');
-        
-        if (!connectionMap.has(key)) {
-          connectionMap.set(key, conn);
-        }
-      }
+    // STEP 3: Filter to connections where BOTH endpoints are visible
+    const filteredConnections = connections.filter(c => 
+      entityIdSet.has(c.entity_a_id) && entityIdSet.has(c.entity_b_id)
+    );
+
+    console.log('[GRAPH] Filtered connections (both visible):', filteredConnections.length);
+
+    // STEP 4: If very few connections, log diagnostic info
+    if (filteredConnections.length < 50) {
+      const connEntityIds = new Set([
+        ...connections.map(c => c.entity_a_id),
+        ...connections.map(c => c.entity_b_id)
+      ]);
+      
+      const overlap = [...entityIdSet].filter(id => connEntityIds.has(id));
+      console.log('[GRAPH] Entity overlap with connections:', overlap.length, '/', entityIds.length);
+      console.log('[GRAPH] Sample connection entity_a_ids:', connections.slice(0, 3).map(c => c.entity_a_id));
+      console.log('[GRAPH] Sample our entity IDs:', entityIds.slice(0, 3));
     }
 
-    console.log('[GRAPH] Filtered connections (both endpoints visible):', connectionMap.size);
-
-    // STEP 4: Format response
+    // STEP 5: Format response
     const nodes = entities.map(e => ({
       id: e.id,
       name: e.name || 'Unknown',
@@ -87,19 +93,17 @@ export async function GET(request: Request) {
       connections: e.connection_count || 0,
     }));
 
-    const edges = Array.from(connectionMap.values())
-      .sort((a, b) => (b.strength || 0) - (a.strength || 0))
-      .slice(0, 5000) // Cap at 5000 edges for performance
-      .map(c => ({
-        source: c.entity_a_id,
-        target: c.entity_b_id,
-        from: c.entity_a_id,
-        to: c.entity_b_id,
-        weight: c.strength || 1,
-        strength: c.strength || 1,
-      }));
+    const edges = filteredConnections.map(c => ({
+      source: c.entity_a_id,
+      target: c.entity_b_id,
+      from: c.entity_a_id,
+      to: c.entity_b_id,
+      weight: c.strength || 1,
+      strength: c.strength || 1,
+    }));
 
-    console.log('[GRAPH] Final:', nodes.length, 'nodes,', edges.length, 'edges');
+    const duration = Date.now() - startTime;
+    console.log('[GRAPH] Complete in', duration, 'ms:', nodes.length, 'nodes,', edges.length, 'edges');
 
     return NextResponse.json({
       nodes,
@@ -108,7 +112,7 @@ export async function GET(request: Request) {
       meta: {
         nodeCount: nodes.length,
         edgeCount: edges.length,
-        timestamp: new Date().toISOString()
+        queryTimeMs: duration
       }
     });
 
