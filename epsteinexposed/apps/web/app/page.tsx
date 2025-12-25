@@ -223,7 +223,7 @@ export default function Home() {
           </div>
         )}
         
-        <div className={`relative transition-all duration-300 ease-out ${chatCollapsed ? 'flex-1' : 'h-[75%]'} ${viewingDocument ? 'invisible' : ''}`}>
+        <div className={`relative transition-all duration-300 ease-out ${chatCollapsed ? 'flex-1' : 'h-[75%]'} ${viewingDocument ? 'invisible' : ''} z-0`}>
           <Graph3DCore onNodeSelect={handleNodeSelect} onAnalyzeConnection={handleAnalyzeConnection} />
           
           {selectedEntity && (

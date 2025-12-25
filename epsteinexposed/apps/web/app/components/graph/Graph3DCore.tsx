@@ -178,7 +178,7 @@ function AnimatedNode({
 
       {/* LABEL */}
       {showLabel && (
-        <Html position={[0, baseSize + 2, 0]} center style={{ pointerEvents: 'none' }}>
+        <Html position={[0, baseSize + 2, 0]} center style={{ pointerEvents: 'none', zIndex: 1 }}>
           <div
             className="whitespace-nowrap px-3 py-1.5 rounded-lg font-bold transition-all duration-200"
             style={{
@@ -190,6 +190,7 @@ function AnimatedNode({
                 ? '0 0 25px rgba(0,255,255,0.6), 0 0 50px rgba(0,255,255,0.3)' 
                 : '0 4px 12px rgba(0,0,0,0.5)',
               transform: `scale(${isSelected ? 1.15 : 1})`,
+              zIndex: 1,
             }}
           >
             {isSelected && (
@@ -207,13 +208,14 @@ function AnimatedNode({
       
       {/* SELECTED INDICATOR - Always visible when selected */}
       {isSelected && !showLabel && (
-        <Html position={[0, baseSize + 1.5, 0]} center style={{ pointerEvents: 'none' }}>
+        <Html position={[0, baseSize + 1.5, 0]} center style={{ pointerEvents: 'none', zIndex: 1 }}>
           <div 
             className="px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider"
             style={{
               backgroundColor: 'rgba(0,255,255,0.9)',
               color: '#000',
               boxShadow: '0 0 15px rgba(0,255,255,0.5)',
+              zIndex: 1,
             }}
           >
             ✓ Selected
