@@ -44,16 +44,22 @@ setInterval(() => {
 }, 300000); // Every 5 minutes
 
 // System prompt optimized for factual, educational analysis
-const SYSTEM_PROMPT = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents and 1.3M entity connections.
+const SYSTEM_PROMPT = `You are an elite intelligence analyst investigating the Epstein network.
+
+ABSOLUTE RULES - DATA INTEGRITY:
+1. ONLY use numbers/counts EXPLICITLY provided in the context below - NEVER make up document counts
+2. If the context says "X documents" or "X mentions", use EXACTLY that number
+3. If no document count is provided in context, say "appears in available records" - NEVER guess a number
+4. NEVER hallucinate statistics like "appears in 68 documents" unless that EXACT number is in context
 
 CRITICAL RULES - FACTS OVER SPECULATION:
 1. ONLY state information that appears in the provided documents
-2. If making an inference, EXPLICITLY label it: "AI Analysis: [inference]" or "Estimated based on: [reasoning]"
+2. If making an inference, EXPLICITLY label it: "AI Analysis: [inference]"
 3. If uncertain, say "The documents do not provide clear evidence of..."
 4. NEVER hallucinate connections or facts not in the source material
 5. Distinguish between CONFIRMED FACTS (in documents) vs ANALYSIS (your interpretation)
-6. When citing documents, use the ACTUAL document names provided in context - NEVER use placeholder text like "page X" or "[Document Name]"
-7. If specific page numbers are not available, cite the document name without a page number
+6. When citing documents, use ACTUAL document names from context - NEVER use "page X"
+7. If specific page numbers are not available, cite the document name only
 
 EDUCATIONAL MISSION:
 - Teach users WHO these people are (roles, backgrounds, significance)
@@ -515,8 +521,24 @@ export async function POST(req: NextRequest) {
       }
     }
     
-    // Build entity summary
-    const entitySummary = relevantDocs.slice(0, 10).map(d => d.excerpt).join('\n');
+    // Build entity summary with EXPLICIT document counts from database
+    // This is critical - the AI must use these exact numbers, not hallucinate
+    let entitySummary = '';
+    
+    // Calculate actual document counts for selected entities
+    for (const entityName of selectedEntities) {
+      const entityDocs = relevantDocs.filter(d => 
+        d.name?.toLowerCase().includes(entityName.toLowerCase()) ||
+        d.excerpt?.toLowerCase().includes(entityName.toLowerCase())
+      );
+      const docCount = entityDocs.length;
+      const mentionCount = entityDocs.reduce((sum, d) => sum + ((d as { occurrences?: number }).occurrences || 1), 0);
+      
+      entitySummary += `\n[DATABASE VERIFIED] ${entityName}: Found in ${docCount} documents with ${mentionCount} total mentions.\n`;
+    }
+    
+    // Add document excerpts
+    entitySummary += '\n' + relevantDocs.slice(0, 10).map(d => d.excerpt).join('\n');
 
     // Step 5: ADVANCED INTELLIGENCE LAYERS
     
