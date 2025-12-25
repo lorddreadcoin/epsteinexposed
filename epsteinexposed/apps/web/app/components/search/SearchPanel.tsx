@@ -3,6 +3,7 @@
 import { useState, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { EntityIntelligencePopup } from './EntityIntelligencePopup';
+import { mergeEntities, MergedEntity } from '@/lib/entity-normalization';
 
 interface SearchResult {
   id: string;
@@ -11,6 +12,20 @@ interface SearchResult {
   occurrences: number;
   documentIds: string[];
   context?: string;
+}
+
+// Convert merged entity to SearchResult format
+function mergedToSearchResult(merged: MergedEntity): SearchResult {
+  return {
+    id: merged.canonicalName.toLowerCase().replace(/\s+/g, '-'),
+    name: merged.canonicalName,
+    type: merged.type,
+    occurrences: merged.totalMentions,
+    documentIds: merged.allDocumentIds,
+    context: merged.variations.length > 1 
+      ? `Includes: ${merged.variations.map(v => v.name).join(', ')}`
+      : undefined,
+  };
 }
 
 export function SearchPanel() {
@@ -29,12 +44,23 @@ export function SearchPanel() {
     setLoading(true);
     try {
       const response = await fetch(
-        `/api/search?query=${encodeURIComponent(searchQuery)}&limit=20`
+        `/api/search?query=${encodeURIComponent(searchQuery)}&limit=50`
       );
       const data = await response.json();
       
       if (data.result?.data) {
-        setResults(data.result.data);
+        // Merge duplicate entities using smart normalization
+        const rawResults = data.result.data as SearchResult[];
+        const merged = mergeEntities(rawResults.map(r => ({
+          name: r.name,
+          type: r.type,
+          occurrences: r.occurrences,
+          documentIds: r.documentIds,
+        })));
+        
+        // Convert back to SearchResult format and take top 15
+        const consolidatedResults = merged.slice(0, 15).map(mergedToSearchResult);
+        setResults(consolidatedResults);
       }
     } catch (err) {
       console.error('Search failed:', err);
