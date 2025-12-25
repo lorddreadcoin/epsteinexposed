@@ -456,8 +456,6 @@ function GraphScene({
     </>
   );
 }
-
-// =============================================================================
 // MAIN EXPORT
 // =============================================================================
 
@@ -466,12 +464,13 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
   const [edges, setEdges] = useState<EdgeData[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [graphOffset, setGraphOffset] = useState(0);
 
   useEffect(() => {
     async function loadGraph() {
       try {
-        // Reduced initial load for faster LCP - load more on demand
-        const res = await fetch('/api/graph?nodeLimit=200&connectionLimit=800');
+        // Request 500 nodes and 1500 connections for a robust graph
+        const res = await fetch(`/api/graph?nodeLimit=500&connectionLimit=1500&offset=${graphOffset}`);
         
         if (!res.ok) {
           console.error('[GRAPH] API returned status:', res.status);
@@ -550,7 +549,13 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
       }
     }
     loadGraph();
-  }, []);
+  }, [graphOffset]);
+
+  // Refresh with new offset to get different entities
+  const handleRefreshGraph = () => {
+    // Cycle through different offsets (0, 100, 200, 300, 400, then back to 0)
+    setGraphOffset(prev => (prev + 100) % 500);
+  };
 
   if (loading) {
     return (
@@ -589,11 +594,23 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
         />
       </Canvas>
 
-      <div className="absolute top-4 right-4 bg-black/80 backdrop-blur px-4 py-2 rounded-lg border border-cyan-500/30 text-sm font-mono">
-        <span className="text-cyan-400 font-bold">{nodes.length.toLocaleString()}</span>
-        <span className="text-gray-400"> entities • </span>
-        <span className="text-purple-400 font-bold">{edges.length.toLocaleString()}</span>
-        <span className="text-gray-400"> connections</span>
+      <div className="absolute top-4 right-4 flex items-center gap-2">
+        <div className="bg-black/80 backdrop-blur px-4 py-2 rounded-lg border border-cyan-500/30 text-sm font-mono">
+          <span className="text-cyan-400 font-bold">{nodes.length.toLocaleString()}</span>
+          <span className="text-gray-400"> entities • </span>
+          <span className="text-purple-400 font-bold">{edges.length.toLocaleString()}</span>
+          <span className="text-gray-400"> connections</span>
+        </div>
+        <button
+          onClick={handleRefreshGraph}
+          className="bg-black/80 backdrop-blur px-3 py-2 rounded-lg border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/20 hover:border-cyan-400 transition-all text-sm font-mono flex items-center gap-2"
+          title="Load different entities"
+        >
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+          </svg>
+          <span className="hidden sm:inline">Refresh</span>
+        </button>
       </div>
 
       <div className="absolute bottom-48 left-4 text-xs text-gray-500 bg-black/60 px-3 py-2 rounded">

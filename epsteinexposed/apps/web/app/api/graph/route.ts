@@ -21,13 +21,14 @@ const FALLBACK_EDGES = [
   { source: 'fallback-1', target: 'fallback-5', from: 'fallback-1', to: 'fallback-5', weight: 150, strength: 150 },
 ];
 
-async function fetchGraphData(edgeLimit: number, nodeLimit: number) {
+async function fetchGraphData(edgeLimit: number, nodeLimit: number, offset: number = 0) {
   // Fetch connections with timeout handling
+  // Use offset to get different "slices" of the data for variety
   const { data: topConnections, error: connError } = await supabase
     .from('connections')
     .select('entity_a_id, entity_b_id, strength')
     .order('strength', { ascending: false })
-    .limit(edgeLimit);
+    .range(offset, offset + edgeLimit - 1);
 
   if (connError) {
     console.error('[GRAPH] Connection error:', connError);
@@ -81,42 +82,53 @@ async function fetchGraphData(edgeLimit: number, nodeLimit: number) {
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    // Start with smaller limits to avoid timeout
-    const requestedNodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '200'), 500);
-    const requestedEdgeLimit = Math.min(parseInt(searchParams.get('connectionLimit') || '400'), 1000);
+    // Increased limits for more robust graph - 500 nodes, 1500 edges
+    const requestedNodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '500'), 800);
+    const requestedEdgeLimit = Math.min(parseInt(searchParams.get('connectionLimit') || '1500'), 3000);
+    // Offset for variety on refresh (0-500 range for different slices)
+    const offset = Math.min(parseInt(searchParams.get('offset') || '0'), 500);
 
-    console.log('[GRAPH] Fetching nodeLimit:', requestedNodeLimit, 'edgeLimit:', requestedEdgeLimit);
+    console.log('[GRAPH] Fetching nodeLimit:', requestedNodeLimit, 'edgeLimit:', requestedEdgeLimit, 'offset:', offset);
 
     let topConnections;
     let entities;
     
     // Try with requested limits first, fall back to smaller if timeout
     try {
-      const result = await fetchGraphData(requestedEdgeLimit, requestedNodeLimit);
+      const result = await fetchGraphData(requestedEdgeLimit, requestedNodeLimit, offset);
       topConnections = result.topConnections;
       entities = result.entities;
     } catch (firstError) {
       console.warn('[GRAPH] First attempt failed, trying smaller dataset:', firstError);
       
-      // Try with much smaller limits
+      // Try with medium limits (still substantial)
       try {
-        const result = await fetchGraphData(200, 100);
+        const result = await fetchGraphData(800, 300, 0);
         topConnections = result.topConnections;
         entities = result.entities;
       } catch (secondError) {
-        console.error('[GRAPH] Second attempt failed, using fallback:', secondError);
+        console.warn('[GRAPH] Second attempt failed, trying minimum:', secondError);
         
-        // Return fallback data
-        return NextResponse.json({
-          nodes: FALLBACK_NODES,
-          edges: FALLBACK_EDGES,
-          result: { data: { nodes: FALLBACK_NODES, edges: FALLBACK_EDGES } },
-          meta: {
-            nodeCount: FALLBACK_NODES.length,
-            edgeCount: FALLBACK_EDGES.length,
-            fallback: true
-          }
-        });
+        // Try with minimum viable limits
+        try {
+          const result = await fetchGraphData(400, 150, 0);
+          topConnections = result.topConnections;
+          entities = result.entities;
+        } catch (thirdError) {
+          console.error('[GRAPH] All attempts failed, using fallback:', thirdError);
+          
+          // Return fallback data
+          return NextResponse.json({
+            nodes: FALLBACK_NODES,
+            edges: FALLBACK_EDGES,
+            result: { data: { nodes: FALLBACK_NODES, edges: FALLBACK_EDGES } },
+            meta: {
+              nodeCount: FALLBACK_NODES.length,
+              edgeCount: FALLBACK_EDGES.length,
+              fallback: true
+            }
+          });
+        }
       }
     }
 
