@@ -553,8 +553,81 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
 
   // Refresh with new offset to get different entities
   const handleRefreshGraph = () => {
+    setLoading(true);
     // Cycle through different offsets (0, 100, 200, 300, 400, then back to 0)
     setGraphOffset(prev => (prev + 100) % 500);
+  };
+
+  // Load more entities (add to existing)
+  const handleLoadMore = async () => {
+    try {
+      const newOffset = graphOffset + 200;
+      const res = await fetch(`/api/graph?nodeLimit=200&connectionLimit=600&offset=${newOffset}`);
+      if (!res.ok) return;
+      
+      const data = await res.json();
+      const rawNodes = data.nodes || [];
+      const rawEdges = data.edges || [];
+      
+      if (rawNodes.length === 0) return;
+      
+      // Get existing node IDs to avoid duplicates
+      const existingIds = new Set(nodes.map(n => n.id));
+      
+      const maxConn = Math.max(...rawNodes.map((n: any) => n.connectionCount || n.connections || 1));
+      const newNodes: NodeData[] = rawNodes
+        .filter((node: any) => !existingIds.has(node.id))
+        .map((node: any, i: number) => {
+          const total = rawNodes.length;
+          const phi = Math.acos(-1 + (2 * i + 1) / total);
+          const theta = Math.sqrt(total * Math.PI) * phi;
+          const connCount = node.connectionCount || node.connections || 1;
+          const connRatio = connCount / maxConn;
+          const radius = 100 + (1 - connRatio) * 50;
+          const nodeName = node.label || node.name || 'Unknown';
+          
+          return {
+            id: node.id,
+            name: nodeName,
+            label: nodeName,
+            type: node.type || 'other',
+            x: radius * Math.cos(theta) * Math.sin(phi),
+            y: radius * Math.sin(theta) * Math.sin(phi),
+            z: radius * Math.cos(phi),
+            size: Math.max(0.5, Math.min(connRatio * 4 + 0.5, 3)),
+            connectionCount: connCount,
+            connections: connCount,
+            documentCount: node.documentCount || node.document_count || 0,
+          };
+        });
+      
+      // Filter edges to only include nodes we have
+      const allNodeIds = new Set([...existingIds, ...newNodes.map(n => n.id)]);
+      const newEdges: EdgeData[] = rawEdges
+        .filter((e: any) => {
+          const source = e.from || e.source || e.entity_a_id;
+          const target = e.to || e.target || e.entity_b_id;
+          return allNodeIds.has(source) && allNodeIds.has(target);
+        })
+        .map((e: any) => ({
+          source: e.from || e.source || e.entity_a_id,
+          target: e.to || e.target || e.entity_b_id,
+          weight: e.strength || e.weight || 1,
+        }));
+      
+      // Merge with existing
+      setNodes(prev => [...prev, ...newNodes]);
+      setEdges(prev => {
+        const existingEdgeKeys = new Set(prev.map(e => `${e.source}-${e.target}`));
+        const uniqueNewEdges = newEdges.filter(e => !existingEdgeKeys.has(`${e.source}-${e.target}`));
+        return [...prev, ...uniqueNewEdges];
+      });
+      setGraphOffset(newOffset);
+      
+      console.log('[GRAPH] Loaded more:', newNodes.length, 'nodes,', newEdges.length, 'edges');
+    } catch (err) {
+      console.error('[GRAPH] Load more error:', err);
+    }
   };
 
   if (loading) {
@@ -601,6 +674,16 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
           <span className="text-purple-400 font-bold">{edges.length.toLocaleString()}</span>
           <span className="text-gray-400"> connections</span>
         </div>
+        <button
+          onClick={handleLoadMore}
+          className="bg-black/80 backdrop-blur px-3 py-2 rounded-lg border border-purple-500/30 text-purple-400 hover:bg-purple-500/20 hover:border-purple-400 transition-all text-sm font-mono flex items-center gap-2"
+          title="Add more entities to the graph"
+        >
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+          </svg>
+          <span className="hidden sm:inline">Load More</span>
+        </button>
         <button
           onClick={handleRefreshGraph}
           className="bg-black/80 backdrop-blur px-3 py-2 rounded-lg border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/20 hover:border-cyan-400 transition-all text-sm font-mono flex items-center gap-2"

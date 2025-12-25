@@ -436,12 +436,22 @@ export async function POST(req: NextRequest) {
     
     console.log(`[CHAT] Found ${relevantDocs.length} entities (${searchType}), ${connections.length} connections, ${documentExcerpts.length} doc excerpts for:`, searchTerms);
     
+    // Helper: Convert numeric strength to semantic label
+    const getInvolvementLevel = (strength: number): string => {
+      if (strength >= 1000) return 'Undeniably Connected (Alleged)';
+      if (strength >= 500) return 'Very Connected';
+      if (strength >= 200) return 'Connected';
+      if (strength >= 100) return 'Somewhat Connected';
+      if (strength >= 50) return 'Low Connection';
+      return 'Very Low Connection';
+    };
+    
     // Step 3: Build connections context - THE KEY FEATURE
     let connectionsContext = '';
     if (connections.length > 0) {
       const topConnections = connections.slice(0, 15);
       connectionsContext = `\n\nKEY CONNECTIONS:\n${topConnections.map(c => 
-        `${c.entityA} ↔ ${c.entityB} (strength: ${c.strength})`
+        `${c.entityA} ↔ ${c.entityB} [${getInvolvementLevel(c.strength)}]`
       ).join('\n')}`;
     }
     
@@ -527,17 +537,64 @@ export async function POST(req: NextRequest) {
     // Step 6: Check if we found useful info
     const noDocumentResults = documentExcerpts.length === 0 && connections.length === 0;
 
-    // Step 7: Generate follow-up suggestions based on the entities
+    // Step 7: Generate CONTEXTUAL follow-up suggestions based on the conversation
     const suggestions: string[] = [];
-    if (selectedEntities.length > 0) {
-      const mainEntity = selectedEntities[0];
-      suggestions.push(`What is ${mainEntity}'s role in the Epstein case?`);
-      if (connections.length > 0 && connections[0]) {
-        const topConnection = connections[0];
-        const otherEntity = topConnection.entityA === mainEntity ? topConnection.entityB : topConnection.entityA;
-        suggestions.push(`Tell me more about ${otherEntity}`);
+    
+    // Extract entities mentioned in the response for contextual suggestions
+    const mentionedEntities = new Set<string>();
+    connections.forEach(c => {
+      if (c.entityA) mentionedEntities.add(c.entityA);
+      if (c.entityB) mentionedEntities.add(c.entityB);
+    });
+    
+    // Remove already-selected entities to suggest NEW ones
+    const newEntities = Array.from(mentionedEntities).filter(e => !selectedEntities.includes(e));
+    
+    // Build contextual suggestions based on what was discussed
+    const userQuery = message.toLowerCase();
+    
+    if (userQuery.includes('role') || userQuery.includes('who is')) {
+      // User asked about role - suggest connections and documents
+      if (newEntities.length > 0) {
+        suggestions.push(`What documents connect ${selectedEntities[0] || 'them'} to ${newEntities[0]}?`);
       }
-      suggestions.push(`Search the web for recent news about ${mainEntity}`);
+      suggestions.push(`Show me the strongest connections in this network`);
+      if (documentExcerpts.length > 0) {
+        suggestions.push(`What other names appear in these documents?`);
+      }
+    } else if (userQuery.includes('connection') || userQuery.includes('related')) {
+      // User asked about connections - suggest deeper investigation
+      if (newEntities.length > 0) {
+        suggestions.push(`Investigate ${newEntities[0]}'s involvement`);
+      }
+      suggestions.push(`What locations are associated with these individuals?`);
+      suggestions.push(`Are there any flight records mentioning them?`);
+    } else if (userQuery.includes('document') || userQuery.includes('evidence')) {
+      // User asked about documents - suggest entity exploration
+      suggestions.push(`Who else appears in these same documents?`);
+      if (newEntities.length > 0) {
+        suggestions.push(`What is ${newEntities[0]}'s connection to Epstein?`);
+      }
+      suggestions.push(`Search for court filings related to this`);
+    } else {
+      // Default contextual suggestions
+      if (newEntities.length > 0) {
+        suggestions.push(`Tell me about ${newEntities[0]}`);
+      }
+      if (newEntities.length > 1) {
+        suggestions.push(`How is ${newEntities[1]} connected?`);
+      }
+      if (connections.length > 0) {
+        suggestions.push(`What documents support these connections?`);
+      } else {
+        suggestions.push(`Search for related court documents`);
+      }
+    }
+    
+    // Always add a web search option if not already suggested
+    if (!suggestions.some(s => s.toLowerCase().includes('search'))) {
+      const searchEntity = selectedEntities[0] || newEntities[0] || 'this topic';
+      suggestions.push(`Search the web for recent news about ${searchEntity}`);
     }
 
     return NextResponse.json({
