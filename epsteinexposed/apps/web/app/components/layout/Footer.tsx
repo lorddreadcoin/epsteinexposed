@@ -21,7 +21,7 @@ export function Footer() {
         <div className="flex items-center gap-2">
           <Image src="/logo.png" alt="Logo" width={28} height={28} className="rounded" />
           <span className="text-lg font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
-            The Legendary Dankster A.I. Algorithm
+            Built by <Link href="https://x.com/danksterintel" target="_blank" className="hover:underline">@danksterintel</Link> of Vatra Labs AI Company
           </span>
         </div>
         
