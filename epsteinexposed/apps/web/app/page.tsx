@@ -52,12 +52,35 @@ const Graph3DCore = dynamic(
   { 
     ssr: false,
     loading: () => (
-      <div className="w-full h-full flex items-center justify-center bg-[#0a0a0f]">
-        <div className="text-center">
-          <div className="relative w-64 h-1 bg-[#1a1a24] rounded overflow-hidden mb-4">
+      <div className="w-full h-full flex items-center justify-center bg-[#0a0a0f] relative">
+        {/* Skeleton nodes for visual feedback */}
+        <div className="absolute inset-0 overflow-hidden">
+          {[...Array(12)].map((_, i) => (
+            <div
+              key={i}
+              className="absolute w-3 h-3 rounded-full bg-[#00d4ff]/20 animate-pulse"
+              style={{
+                left: `${20 + (i % 4) * 20}%`,
+                top: `${20 + Math.floor(i / 4) * 25}%`,
+                animationDelay: `${i * 0.1}s`
+              }}
+            />
+          ))}
+          {/* Skeleton connections */}
+          <svg className="absolute inset-0 w-full h-full opacity-10">
+            <line x1="25%" y1="25%" x2="45%" y2="35%" stroke="#00d4ff" strokeWidth="1" />
+            <line x1="45%" y1="35%" x2="65%" y2="25%" stroke="#00d4ff" strokeWidth="1" />
+            <line x1="65%" y1="25%" x2="75%" y2="50%" stroke="#00d4ff" strokeWidth="1" />
+            <line x1="25%" y1="50%" x2="45%" y2="60%" stroke="#00d4ff" strokeWidth="1" />
+          </svg>
+        </div>
+        <div className="text-center z-10 bg-[#0a0a0f]/80 p-6 rounded-lg">
+          <h2 className="text-2xl font-bold text-white mb-2">EPSTEIN<span className="text-[#ff3366]">EXPOSED</span></h2>
+          <p className="text-[#606070] text-sm mb-4">11,622 DOJ Documents Cross-Referenced</p>
+          <div className="relative w-48 h-1 bg-[#1a1a24] rounded overflow-hidden mx-auto">
             <div className="absolute inset-0 bg-gradient-to-r from-transparent via-[#00d4ff] to-transparent animate-pulse" />
           </div>
-          <p className="font-mono text-[#00d4ff] text-sm">Loading 3D Engine...</p>
+          <p className="font-mono text-[#00d4ff] text-xs mt-2">Initializing Network Graph...</p>
         </div>
       </div>
     )
