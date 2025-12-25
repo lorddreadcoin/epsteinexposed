@@ -140,9 +140,10 @@ function GraphNode({
   
   return (
     <group position={node.position}>
-      <mesh ref={glowRef} scale={baseSize * 3}>
+      {/* Reduced glow effect - much smaller and less intense */}
+      <mesh ref={glowRef} scale={baseSize * 1.5}>
         <sphereGeometry args={[1, 16, 16]} />
-        <meshBasicMaterial color={colors.main} transparent opacity={0.1} depthWrite={false} />
+        <meshBasicMaterial color={colors.main} transparent opacity={0.05} depthWrite={false} />
       </mesh>
       
       <mesh ref={meshRef} onClick={handleClick} onPointerEnter={handlePointerEnter} onPointerLeave={handlePointerLeave}>

@@ -10,6 +10,7 @@ import { KeyboardShortcuts, useKeyboardShortcuts } from './components/ui/Keyboar
 import { TimelineView } from './components/timeline/TimelineView';
 import { MobileNav } from './components/mobile/MobileNav';
 import { SearchPanel } from './components/search/SearchPanel';
+import { Footer } from './components/layout/Footer';
 import './styles/design-system.css';
 
 const Graph3DCore = dynamic(
@@ -239,42 +240,8 @@ export default function Home() {
       {/* Search Panel - triggered from header */}
       <SearchPanel />
       
-      {/* Branded Footer */}
-      <footer className="fixed bottom-0 left-0 right-0 bg-[#0a0a0f]/95 backdrop-blur-sm border-t border-[#ffffff08] py-3 px-4 z-40 hidden sm:block">
-        <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
-          <div className="flex items-center gap-2">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/logo.png" alt="" className="w-6 h-6 rounded-full opacity-60" />
-            <span className="text-xs text-[#606070]">
-              Powered by <span className="text-[#00d4ff] font-semibold">The Legendary Dankster A.I. Algorithm</span>
-            </span>
-          </div>
-          
-          <p className="text-[10px] text-[#606070] text-center">
-            For research and educational purposes only. All documents are from public sources. Donations accepted.
-          </p>
-          
-          <div className="flex items-center gap-3 text-[10px]">
-            <a 
-              href="https://x.com/danksterintel" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-[#00d4ff] hover:underline"
-            >
-              @danksterintel
-            </a>
-            <span className="text-[#ffffff20]">•</span>
-            <a 
-              href="https://github.com/lorddreadcoin/epsteinexposed" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-[#606070] hover:text-white"
-            >
-              GitHub
-            </a>
-          </div>
-        </div>
-      </footer>
+      {/* Footer - Always visible with donations */}
+      <Footer />
     </div>
   );
 }

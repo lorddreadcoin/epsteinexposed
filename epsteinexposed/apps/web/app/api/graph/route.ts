@@ -1,26 +1,35 @@
 import { NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
 
-export async function GET() {
+export async function GET(request: Request) {
   try {
-    // Fetch entities (nodes) from Supabase
+    const { searchParams } = new URL(request.url);
+    const nodeLimit = parseInt(searchParams.get('nodeLimit') || '500');
+    const connectionLimit = parseInt(searchParams.get('connectionLimit') || '2000');
+    
+    // Fetch entities (nodes) from Supabase - top by connection count
     const { data: entities, error: entitiesError } = await supabase
       .from('entities')
       .select('id, name, type, document_count, connection_count')
       .order('connection_count', { ascending: false })
-      .limit(500);
+      .limit(nodeLimit);
 
     if (entitiesError) {
       console.error('[GRAPH] Entities error:', entitiesError);
       throw entitiesError;
     }
 
-    // Fetch connections (edges) from Supabase
+    // Get entity IDs for filtering connections
+    const entityIds = (entities || []).map(e => e.id);
+    
+    // Fetch only connections between visible nodes
     const { data: connections, error: connectionsError } = await supabase
       .from('connections')
       .select('entity_a_id, entity_b_id, strength')
+      .in('entity_a_id', entityIds)
+      .in('entity_b_id', entityIds)
       .order('strength', { ascending: false })
-      .limit(2000);
+      .limit(connectionLimit);
 
     if (connectionsError) {
       console.error('[GRAPH] Connections error:', connectionsError);
