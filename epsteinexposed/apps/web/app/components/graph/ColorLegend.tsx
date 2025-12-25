@@ -10,7 +10,7 @@ const ENTITY_TYPES = [
 
 export function ColorLegend() {
   return (
-    <div className="absolute bottom-32 left-4 z-20 bg-[#0a0a0f]/90 backdrop-blur-md border border-[#ffffff15] rounded-lg p-3">
+    <div className="absolute bottom-52 left-4 z-20 bg-[#0a0a0f]/90 backdrop-blur-md border border-[#ffffff15] rounded-lg p-3">
       <div className="text-[10px] text-[#606070] font-mono mb-2 uppercase tracking-wider">Entity Types</div>
       <div className="space-y-1.5">
         {ENTITY_TYPES.map(({ type, color, label }) => (

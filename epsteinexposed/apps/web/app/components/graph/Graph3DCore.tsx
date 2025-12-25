@@ -204,7 +204,6 @@ function GraphNode({
             anchorY="middle" 
             outlineWidth={0.02} 
             outlineColor="#000000"
-            font="/fonts/Inter-Bold.woff"
           >
             {node.label}
           </Text>
@@ -473,7 +472,7 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
       )}
       
       {multiSelectedNodes.size === 0 && !selectedNode && (
-        <div className="absolute bottom-4 left-4 z-10">
+        <div className="absolute bottom-48 left-4 z-10">
           <div className="bg-[#12121a]/80 backdrop-blur-sm border border-[#ffffff10] rounded-lg px-4 py-2">
             <p className="text-[#606070] font-mono text-xs">
               <span className="text-[#00d4ff]">Click</span> node to select • 
