@@ -31,8 +31,8 @@ export async function GET(req: NextRequest) {
       return NextResponse.json({ result: { data: [] } });
     }
     
-    const entity1 = entities[0];
-    const entity2 = entities[1];
+    const entity1 = entities[0]!;
+    const entity2 = entities[1]!;
     
     // Find the connection between them
     const { data: connection, error: connectionError } = await supabase
