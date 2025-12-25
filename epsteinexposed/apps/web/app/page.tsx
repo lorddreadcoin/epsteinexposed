@@ -203,11 +203,24 @@ export default function Home() {
                     <h3 className="text-white font-semibold">{selectedEntity.label || selectedEntity.name}</h3>
                     <p className="text-[#606070] text-xs font-mono capitalize">{selectedEntity.type}</p>
                   </div>
-                  <button onClick={() => setSelectedEntity(null)} className="p-1 hover:bg-[#ffffff10] rounded">
-                    <svg className="w-4 h-4 text-[#606070]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                  </button>
+                  <div className="flex items-center gap-1">
+                    {/* Refresh button */}
+                    <button 
+                      onClick={() => window.location.reload()} 
+                      className="p-1 hover:bg-[#00d4ff]/20 rounded group"
+                      title="Refresh graph"
+                    >
+                      <svg className="w-4 h-4 text-[#606070] group-hover:text-[#00d4ff]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                      </svg>
+                    </button>
+                    {/* Close button */}
+                    <button onClick={() => setSelectedEntity(null)} className="p-1 hover:bg-[#ffffff10] rounded">
+                      <svg className="w-4 h-4 text-[#606070]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                      </svg>
+                    </button>
+                  </div>
                 </div>
                 <div className="space-y-3">
                   <div className="flex justify-between text-sm">

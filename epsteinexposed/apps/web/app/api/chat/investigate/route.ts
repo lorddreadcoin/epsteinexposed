@@ -379,24 +379,46 @@ export async function POST(req: NextRequest) {
     const selectedEntities = context?.selectedEntities || [];
     const conversationHistory = context?.conversationHistory || [];
     
-    // Check if user is requesting web search
-    const isWebSearch = message.toLowerCase().includes('search the web') || 
-                        message.toLowerCase().includes('recent news') ||
-                        message.toLowerCase().includes('latest news') ||
+    // Check if user is requesting web search - expanded triggers
+    const messageLower = message.toLowerCase();
+    const isWebSearch = messageLower.includes('search the web') || 
+                        messageLower.includes('from the web') ||
+                        messageLower.includes('recent news') ||
+                        messageLower.includes('latest news') ||
+                        messageLower.includes('find info') ||
+                        messageLower.includes('look up') ||
+                        messageLower.includes('wikipedia') ||
+                        messageLower.includes('online') ||
                         context?.useWebSearch === true;
     
     // Step 0: If web search requested, do that first
     let webSearchContext = '';
+    let webSearchPerformed = false;
     if (isWebSearch) {
-      const searchQuery = selectedEntities.length > 0 
-        ? `${selectedEntities[0]} Epstein case news`
-        : message.replace(/search the web for|recent news about|latest news/gi, '').trim();
+      // Extract the search subject from the message
+      let searchQuery = '';
+      if (selectedEntities.length > 0) {
+        searchQuery = `${selectedEntities[0]} Jeffrey Epstein`;
+      } else {
+        // Try to extract what they want to search for
+        searchQuery = message
+          .replace(/search the web for|from the web|recent news about|latest news|find info on|look up|can you find/gi, '')
+          .trim();
+        if (!searchQuery || searchQuery.length < 3) {
+          searchQuery = message;
+        }
+      }
       
       console.log('[CHAT] Performing web search for:', searchQuery);
       const webResults = await searchWeb(searchQuery, 5);
+      webSearchPerformed = true;
       
       if (webResults.length > 0) {
-        webSearchContext = `\n\nWEB SEARCH RESULTS (external sources):\n${formatSearchResults(webResults)}`;
+        webSearchContext = `\n\nWEB SEARCH RESULTS (Wikipedia & external sources):\n${formatSearchResults(webResults)}`;
+        console.log('[CHAT] Web search returned', webResults.length, 'results');
+      } else {
+        webSearchContext = '\n\nWEB SEARCH: No relevant external results found for this query.';
+        console.log('[CHAT] Web search returned no results');
       }
     }
     
@@ -525,6 +547,7 @@ export async function POST(req: NextRequest) {
       documentsSearched: documentExcerpts.length,
       connectionsFound: connections.length,
       suggestions: suggestions.slice(0, 3),
+      webSearchPerformed,
       model: 'gpt-4o-mini',
       tokens: data.usage?.total_tokens
     });
