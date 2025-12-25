@@ -14,7 +14,8 @@
     "build:connections": "tsx scripts/build-connections.ts",
     "download:external": "tsx scripts/download-external-sources.ts",
     "upload:storage": "tsx scripts/upload-to-storage.ts",
-    "index:pdfs": "tsx scripts/index-pdfs.ts"
+    "index:pdfs": "tsx scripts/index-pdfs.ts",
+    "upload:all-pdfs": "tsx scripts/upload-all-pdfs.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

@@ -15,16 +15,16 @@
     "filename": "epstein-flight-manifests-gawker.pdf",
     "folder": "flight-logs",
     "isUnredacted": true,
-    "status": "downloaded",
+    "status": "exists",
     "path": "external-docs\\flight-logs\\epstein-flight-manifests-gawker.pdf",
     "size": 9504224
   },
   {
-    "name": "Virginia Giuffre Deposition",
-    "url": "https://assets.documentcloud.org/documents/6250471/Giuffre-Exhibits.pdf",
-    "filename": "giuffre-exhibits.pdf",
-    "folder": "court-filings",
-    "isUnredacted": false,
+    "name": "Flight Logs 2021 Release",
+    "url": "https://assets.documentcloud.org/documents/21165424/epstein-flight-manifests.pdf",
+    "filename": "epstein-flight-logs-2021.pdf",
+    "folder": "flight-logs",
+    "isUnredacted": true,
     "status": "failed"
   },
   {
@@ -33,8 +33,76 @@
     "filename": "maxwell-criminal-complaint.pdf",
     "folder": "court-filings",
     "isUnredacted": false,
-    "status": "downloaded",
+    "status": "exists",
     "path": "external-docs\\court-filings\\maxwell-criminal-complaint.pdf",
     "size": 394386
+  },
+  {
+    "name": "Maxwell Indictment",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.539612/gov.uscourts.nysd.539612.2.0.pdf",
+    "filename": "maxwell-indictment.pdf",
+    "folder": "court-filings",
+    "isUnredacted": true,
+    "status": "downloaded",
+    "path": "external-docs\\court-filings\\maxwell-indictment.pdf",
+    "size": 35994
+  },
+  {
+    "name": "Epstein Indictment SDNY",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.517520/gov.uscourts.nysd.517520.2.0.pdf",
+    "filename": "epstein-indictment-sdny.pdf",
+    "folder": "court-filings",
+    "isUnredacted": true,
+    "status": "failed"
+  },
+  {
+    "name": "Epstein Non-Prosecution Agreement",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.flsd.350114/gov.uscourts.flsd.350114.1.0.pdf",
+    "filename": "epstein-npa-florida.pdf",
+    "folder": "court-filings",
+    "isUnredacted": true,
+    "status": "failed"
+  },
+  {
+    "name": "Black Book Unredacted + Flight Logs",
+    "url": "https://ia800601.us.archive.org/15/items/jeffrey-epsteins-black-book-unredacted-with-bonus-flight-logs-jeffrey-epstein/Jeffrey%20Epsteins%20Black%20Book%20UNREDACTED%20with%20Bonus%20Flight%20Logs%20Jeffrey%20Epstein.pdf",
+    "filename": "black-book-unredacted-flight-logs.pdf",
+    "folder": "unredacted",
+    "isUnredacted": true,
+    "status": "failed"
+  },
+  {
+    "name": "Little Black Book Original",
+    "url": "https://ia803203.us.archive.org/22/items/jeffrey-epsteins-little-black-book-unredacted_202006/Jeffrey%20Epstein%27s%20Little%20Black%20Book%20unredacted.pdf",
+    "filename": "little-black-book-original.pdf",
+    "folder": "unredacted",
+    "isUnredacted": true,
+    "status": "downloaded",
+    "path": "external-docs\\unredacted\\little-black-book-original.pdf",
+    "size": 4682348
+  },
+  {
+    "name": "House Oversight Epstein Estate Batch",
+    "url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/Epstein%20Estate%20Documents.pdf",
+    "filename": "oversight-estate-documents.pdf",
+    "folder": "house-oversight",
+    "isUnredacted": false,
+    "status": "failed"
+  },
+  {
+    "name": "Palm Beach Police Report",
+    "url": "https://assets.documentcloud.org/documents/1508967/palm-beach-police-report.pdf",
+    "filename": "palm-beach-police-report.pdf",
+    "folder": "florida-case",
+    "isUnredacted": true,
+    "status": "failed"
+  },
+  {
+    "name": "Victim Impact Statements",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.517520/gov.uscourts.nysd.517520.48.0.pdf",
+    "filename": "victim-impact-statements.pdf",
+    "folder": "victim-statements",
+    "isUnredacted": false,
+    "status": "failed"
   }
 ]

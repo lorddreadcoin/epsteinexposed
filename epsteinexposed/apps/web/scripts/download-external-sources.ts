@@ -15,7 +15,9 @@ interface SourceFile {
 }
 
 const SOURCES: SourceFile[] = [
+  // ═══════════════════════════════════════════════════════════════════
   // COURT FILINGS - VERIFIED WORKING
+  // ═══════════════════════════════════════════════════════════════════
   {
     name: 'Giuffre v Maxwell Unsealed 2024',
     url: 'https://uploads.guim.co.uk/2024/01/04/Final_Epstein_documents.pdf',
@@ -24,7 +26,9 @@ const SOURCES: SourceFile[] = [
     isUnredacted: false
   },
   
+  // ═══════════════════════════════════════════════════════════════════
   // DOCUMENTCLOUD - PUBLIC COURT DOCUMENTS
+  // ═══════════════════════════════════════════════════════════════════
   {
     name: 'Epstein Flight Logs (Gawker)',
     url: 'https://assets.documentcloud.org/documents/1507315/epstein-flight-manifests.pdf',
@@ -33,19 +37,93 @@ const SOURCES: SourceFile[] = [
     isUnredacted: true
   },
   {
-    name: 'Virginia Giuffre Deposition',
-    url: 'https://assets.documentcloud.org/documents/6250471/Giuffre-Exhibits.pdf',
-    filename: 'giuffre-exhibits.pdf',
-    folder: 'court-filings',
-    isUnredacted: false
+    name: 'Flight Logs 2021 Release',
+    url: 'https://assets.documentcloud.org/documents/21165424/epstein-flight-manifests.pdf',
+    filename: 'epstein-flight-logs-2021.pdf',
+    folder: 'flight-logs',
+    isUnredacted: true
   },
   
+  // ═══════════════════════════════════════════════════════════════════
   // COURTLISTENER / PACER DOCUMENTS
+  // ═══════════════════════════════════════════════════════════════════
   {
     name: 'Maxwell Criminal Complaint',
     url: 'https://storage.courtlistener.com/recap/gov.uscourts.nysd.539612/gov.uscourts.nysd.539612.1.0.pdf',
     filename: 'maxwell-criminal-complaint.pdf',
     folder: 'court-filings',
+    isUnredacted: false
+  },
+  {
+    name: 'Maxwell Indictment',
+    url: 'https://storage.courtlistener.com/recap/gov.uscourts.nysd.539612/gov.uscourts.nysd.539612.2.0.pdf',
+    filename: 'maxwell-indictment.pdf',
+    folder: 'court-filings',
+    isUnredacted: true
+  },
+  {
+    name: 'Epstein Indictment SDNY',
+    url: 'https://storage.courtlistener.com/recap/gov.uscourts.nysd.517520/gov.uscourts.nysd.517520.2.0.pdf',
+    filename: 'epstein-indictment-sdny.pdf',
+    folder: 'court-filings',
+    isUnredacted: true
+  },
+  {
+    name: 'Epstein Non-Prosecution Agreement',
+    url: 'https://storage.courtlistener.com/recap/gov.uscourts.flsd.350114/gov.uscourts.flsd.350114.1.0.pdf',
+    filename: 'epstein-npa-florida.pdf',
+    folder: 'court-filings',
+    isUnredacted: true
+  },
+  
+  // ═══════════════════════════════════════════════════════════════════
+  // ARCHIVE.ORG - UNREDACTED BLACK BOOKS (Multiple mirrors)
+  // ═══════════════════════════════════════════════════════════════════
+  {
+    name: 'Black Book Unredacted + Flight Logs',
+    url: 'https://ia800601.us.archive.org/15/items/jeffrey-epsteins-black-book-unredacted-with-bonus-flight-logs-jeffrey-epstein/Jeffrey%20Epsteins%20Black%20Book%20UNREDACTED%20with%20Bonus%20Flight%20Logs%20Jeffrey%20Epstein.pdf',
+    filename: 'black-book-unredacted-flight-logs.pdf',
+    folder: 'unredacted',
+    isUnredacted: true
+  },
+  {
+    name: 'Little Black Book Original',
+    url: 'https://ia803203.us.archive.org/22/items/jeffrey-epsteins-little-black-book-unredacted_202006/Jeffrey%20Epstein%27s%20Little%20Black%20Book%20unredacted.pdf',
+    filename: 'little-black-book-original.pdf',
+    folder: 'unredacted',
+    isUnredacted: true
+  },
+  
+  // ═══════════════════════════════════════════════════════════════════
+  // HOUSE OVERSIGHT / GOVERNMENT RELEASES
+  // ═══════════════════════════════════════════════════════════════════
+  {
+    name: 'House Oversight Epstein Estate Batch',
+    url: 'https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/Epstein%20Estate%20Documents.pdf',
+    filename: 'oversight-estate-documents.pdf',
+    folder: 'house-oversight',
+    isUnredacted: false
+  },
+  
+  // ═══════════════════════════════════════════════════════════════════
+  // FLORIDA CASE FILES
+  // ═══════════════════════════════════════════════════════════════════
+  {
+    name: 'Palm Beach Police Report',
+    url: 'https://assets.documentcloud.org/documents/1508967/palm-beach-police-report.pdf',
+    filename: 'palm-beach-police-report.pdf',
+    folder: 'florida-case',
+    isUnredacted: true
+  },
+  
+  // ═══════════════════════════════════════════════════════════════════
+  // VICTIM STATEMENTS & DEPOSITIONS
+  // ═══════════════════════════════════════════════════════════════════
+  {
+    name: 'Victim Impact Statements',
+    url: 'https://storage.courtlistener.com/recap/gov.uscourts.nysd.517520/gov.uscourts.nysd.517520.48.0.pdf',
+    filename: 'victim-impact-statements.pdf',
+    folder: 'victim-statements',
     isUnredacted: false
   }
 ]

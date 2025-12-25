@@ -41,8 +41,12 @@ const HOSTED_PDFS: Record<string, { title: string; url: string; source: string; 
 interface PdfEntry {
   id: string;
   filename: string;
+  fullPath: string;
   relativePath: string;
+  storagePath: string;
   size: number;
+  source: string;
+  dataset: string;
 }
 interface PdfIndex {
   totalCount: number;
@@ -62,6 +66,11 @@ async function loadPdfIndex(): Promise<PdfIndex | null> {
   } catch {
     return null;
   }
+}
+
+// Generate Supabase Storage URL for a PDF
+function getSupabaseStorageUrl(storagePath: string): string {
+  return `https://lyzpmfvujegnbsdptypz.supabase.co/storage/v1/object/public/documents/${storagePath}`;
 }
 
 export async function GET(
@@ -112,12 +121,13 @@ export async function GET(
       if (pdfEntry) {
         return NextResponse.json({
           id: pdfEntry.id,
-          title: pdfEntry.filename.replace('.pdf', '').replace('.PDF', ''),
-          pdfUrl: `/api/pdf/${pdfEntry.relativePath}`,
-          source: 'doj',
-          isRedacted: true,
-          hosted: false,
-          localPath: pdfEntry.relativePath,
+          title: pdfEntry.filename.replace(/\.pdf$/i, '').replace(/-/g, ' '),
+          pdfUrl: getSupabaseStorageUrl(pdfEntry.storagePath),
+          source: pdfEntry.source || 'doj',
+          dataset: pdfEntry.dataset,
+          isRedacted: !pdfEntry.storagePath.includes('unredacted'),
+          hosted: true,
+          size: pdfEntry.size,
           type: 'pdf'
         });
       }
