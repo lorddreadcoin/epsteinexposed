@@ -12,12 +12,14 @@ import * as THREE from 'three';
 interface NodeData {
   id: string;
   name: string;
+  label: string; // Alias for name - required for page.tsx compatibility
   type: string;
   x: number;
   y: number;
   z: number;
   size: number;
   connectionCount: number;
+  connections: number; // Alias for connectionCount
   documentCount: number;
 }
 
@@ -263,15 +265,18 @@ export function Graph3DCore({ onNodeSelect }: Graph3DCoreProps) {
           const connRatio = connCount / maxConn;
           const radius = 120 - connRatio * 80;
 
+          const nodeName = node.label || node.name || 'Unknown';
           return {
             id: node.id,
-            name: node.label || node.name || 'Unknown',
+            name: nodeName,
+            label: nodeName, // Alias for page.tsx compatibility
             type: node.type || 'other',
             x: radius * Math.cos(theta) * Math.sin(phi),
             y: radius * Math.sin(theta) * Math.sin(phi),
             z: radius * Math.cos(phi),
             size: Math.max(0.8, Math.min(connCount / 15, 6)),
             connectionCount: connCount,
+            connections: connCount, // Alias for page.tsx compatibility
             documentCount: node.documentCount || node.document_count || 0,
           };
         });
