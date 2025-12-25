@@ -774,11 +774,55 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
         </button>
       </div>
 
-      <div className="absolute bottom-48 left-4 text-xs text-gray-500 bg-black/60 px-3 py-2 rounded">
-        <span className="text-cyan-400">Click</span> select •
-        <span className="text-green-400 ml-1">Ctrl+Click</span> multi-select •
-        <span className="text-yellow-400 ml-1">Scroll</span> zoom •
-        <span className="text-pink-400 ml-1">Drag</span> rotate
+      {/* Command Center - How to Use */}
+      <div className="absolute bottom-48 left-4 bg-black/90 backdrop-blur border border-cyan-500/30 rounded-lg p-4 max-w-sm">
+        <div className="flex items-center gap-2 mb-3 pb-2 border-b border-cyan-500/20">
+          <svg className="w-5 h-5 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+          <h3 className="text-cyan-400 font-bold text-sm font-mono">COMMAND CENTER</h3>
+        </div>
+        
+        <div className="space-y-2 text-xs">
+          <div className="flex items-start gap-2">
+            <span className="text-cyan-400 font-bold">1.</span>
+            <div>
+              <span className="text-white font-semibold">Click any node</span>
+              <span className="text-gray-400"> to view entity details & documents</span>
+            </div>
+          </div>
+          
+          <div className="flex items-start gap-2">
+            <span className="text-green-400 font-bold">2.</span>
+            <div>
+              <span className="text-white font-semibold">Ctrl+Click multiple</span>
+              <span className="text-gray-400"> then hit &quot;Investigate&quot; to analyze connections</span>
+            </div>
+          </div>
+          
+          <div className="flex items-start gap-2">
+            <span className="text-yellow-400 font-bold">3.</span>
+            <div>
+              <span className="text-white font-semibold">Use Search (Ctrl+K)</span>
+              <span className="text-gray-400"> to find specific people, places, or organizations</span>
+            </div>
+          </div>
+          
+          <div className="flex items-start gap-2">
+            <span className="text-purple-400 font-bold">4.</span>
+            <div>
+              <span className="text-white font-semibold">Load More</span>
+              <span className="text-gray-400"> (top right) to expand the network</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="mt-3 pt-3 border-t border-cyan-500/20 flex items-center justify-between text-xs">
+          <div className="text-gray-500">
+            <span className="text-cyan-400">Scroll</span> zoom •
+            <span className="text-pink-400 ml-1">Drag</span> rotate
+          </div>
+        </div>
       </div>
     </div>
   );
