@@ -45,18 +45,23 @@ interface InvestigationChatProps {
   onViewDocument: (documentId: string) => void;
   isCollapsed: boolean;
   onToggleCollapse: () => void;
+  autoInvestigate?: boolean;
+  onAutoInvestigateComplete?: () => void;
 }
 
 export function InvestigationChat({ 
   selectedEntities = [],
   onViewDocument,
   isCollapsed,
-  onToggleCollapse 
+  onToggleCollapse,
+  autoInvestigate = false,
+  onAutoInvestigateComplete
 }: InvestigationChatProps) {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [pendingDiscovery, setPendingDiscovery] = useState<Discovery | null>(null);
+  const [hasAutoInvestigated, setHasAutoInvestigated] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
   
@@ -129,6 +134,30 @@ export function InvestigationChat({
       setPendingDiscovery(null);
     }
   }, [selectedEntities]);
+  
+  // Auto-investigate when triggered from "Investigate in Chat" button
+  useEffect(() => {
+    if (autoInvestigate && selectedEntities.length > 0 && !isLoading) {
+      const entityKey = selectedEntities.sort().join(',');
+      
+      // Only auto-investigate if we haven't already for these exact entities
+      if (hasAutoInvestigated !== entityKey) {
+        setHasAutoInvestigated(entityKey);
+        
+        // Build a comprehensive investigation query
+        const entityName = selectedEntities[0];
+        const query = selectedEntities.length === 1
+          ? `Provide a comprehensive intelligence briefing on "${entityName}". Who are they? What is their connection to Epstein? What documents mention them? What other entities are they connected to? Summarize all relevant findings from the documents.`
+          : `Investigate the connection between ${selectedEntities.join(' and ')}. How are they related? What documents mention them together? What is the nature of their relationship based on the evidence?`;
+        
+        // Auto-send the investigation
+        sendMessage(query, true);
+        
+        // Notify parent that auto-investigate is complete
+        onAutoInvestigateComplete?.();
+      }
+    }
+  }, [autoInvestigate, selectedEntities, isLoading, hasAutoInvestigated, onAutoInvestigateComplete]);
   
   // Send message to Claude API (document-grounded)
   const sendMessage = async (content: string, isDiscoveryQuery = false) => {

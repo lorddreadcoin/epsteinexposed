@@ -57,6 +57,7 @@ export default function Home() {
   const [viewingDocument, setViewingDocument] = useState<ViewingDocument | null>(null);
   const [showTimeline, setShowTimeline] = useState(false);
   const [showSearch, setShowSearch] = useState(false);
+  const [autoInvestigate, setAutoInvestigate] = useState(false);
   
   // Keyboard shortcuts hook
   const shortcuts = useKeyboardShortcuts();
@@ -198,7 +199,11 @@ export default function Home() {
                   </div>
                 </div>
                 <button
-                  onClick={() => { setSelectedEntities([selectedEntity.label]); setChatCollapsed(false); }}
+                  onClick={() => { 
+                    setSelectedEntities([selectedEntity.label]); 
+                    setChatCollapsed(false); 
+                    setAutoInvestigate(true);
+                  }}
                   className="w-full mt-4 py-2 bg-[#00d4ff]/20 text-[#00d4ff] rounded font-mono text-sm hover:bg-[#00d4ff]/30 transition-colors"
                 >
                   Investigate in Chat
@@ -216,6 +221,8 @@ export default function Home() {
           onViewDocument={handleViewDocument}
           isCollapsed={chatCollapsed}
           onToggleCollapse={handleToggleChat}
+          autoInvestigate={autoInvestigate}
+          onAutoInvestigateComplete={() => setAutoInvestigate(false)}
         />
       </div>
       

@@ -177,10 +177,31 @@ function AnimatedNode({
               transform: `scale(${isSelected ? 1.15 : 1})`,
             }}
           >
+            {isSelected && (
+              <div className="text-[9px] uppercase tracking-wider opacity-70 mb-0.5">
+                ✓ Selected
+              </div>
+            )}
             {node.name}
             <div className="text-[10px] opacity-80 font-normal mt-0.5">
               {node.documentCount} docs · {node.connectionCount} links
             </div>
+          </div>
+        </Html>
+      )}
+      
+      {/* SELECTED INDICATOR - Always visible when selected */}
+      {isSelected && !showLabel && (
+        <Html position={[0, baseSize + 1.5, 0]} center style={{ pointerEvents: 'none' }}>
+          <div 
+            className="px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider"
+            style={{
+              backgroundColor: 'rgba(0,255,255,0.9)',
+              color: '#000',
+              boxShadow: '0 0 15px rgba(0,255,255,0.5)',
+            }}
+          >
+            ✓ Selected
           </div>
         </Html>
       )}
