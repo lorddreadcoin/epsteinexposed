@@ -7,8 +7,8 @@ export const maxDuration = 30;
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const nodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '500'), 1000);
-    const edgeLimit = Math.min(parseInt(searchParams.get('connectionLimit') || '1000'), 3000);
+    const nodeLimit = Math.min(parseInt(searchParams.get('nodeLimit') || '600'), 1000);
+    const edgeLimit = Math.min(parseInt(searchParams.get('connectionLimit') || '1500'), 5000);
 
     console.log('[GRAPH] Fetching nodeLimit:', nodeLimit, 'edgeLimit:', edgeLimit);
 
