@@ -559,6 +559,20 @@ export async function POST(req: NextRequest) {
     // Step 6: Check if we found useful info
     const noDocumentResults = documentExcerpts.length === 0 && connections.length === 0;
 
+    // Helper: Filter out garbage entities (PDF parsing errors, UI elements)
+    const GARBAGE_ENTITY_PATTERNS = [
+      /^(Normal|Dear|Edit|Online|Network|Manual|Single|Double|Triple)$/i,
+      /^(Login|Logout|Sign|Email|Help|Only|Mode|View|Click|Button)$/i,
+      /^(Page|Next|Previous|Back|Forward|Home|Menu|Settings)$/i,
+      /^(Submit|Cancel|Save|Delete|Update|Refresh|Load|Search)$/i,
+      /^(Yes|No|OK|Cancel|Close|Open|Start|Stop|Exit)$/i,
+      /^(On|Off|True|False|Enable|Disable|Show|Hide)$/i,
+    ];
+    
+    const isGarbageEntity = (name: string): boolean => {
+      return GARBAGE_ENTITY_PATTERNS.some(pattern => pattern.test(name));
+    };
+    
     // Helper: Format date entities properly (fix "On Aug" -> "August 2019" or "Events in August")
     const formatEntityName = (name: string): string => {
       // Fix date entities that start with "On"
@@ -579,12 +593,35 @@ export async function POST(req: NextRequest) {
     // Extract entities mentioned in the response for contextual suggestions
     const mentionedEntities = new Set<string>();
     connections.forEach(c => {
-      if (c.entityA) mentionedEntities.add(formatEntityName(c.entityA));
-      if (c.entityB) mentionedEntities.add(formatEntityName(c.entityB));
+      // Filter out garbage entities before adding
+      if (c.entityA && !isGarbageEntity(c.entityA)) {
+        mentionedEntities.add(formatEntityName(c.entityA));
+      }
+      if (c.entityB && !isGarbageEntity(c.entityB)) {
+        mentionedEntities.add(formatEntityName(c.entityB));
+      }
     });
     
     // Remove already-selected entities to suggest NEW ones
     const newEntities = Array.from(mentionedEntities).filter(e => !selectedEntities.includes(e));
+    
+    // If user selected a garbage entity, warn them
+    const selectedGarbageEntities = selectedEntities.filter(e => isGarbageEntity(e));
+    if (selectedGarbageEntities.length > 0) {
+      return NextResponse.json({
+        response: `NOTICE: The selected entity "${selectedGarbageEntities[0]}" appears to be a PDF parsing error or UI element, not an actual person, organization, or location in the Epstein investigation. These technical terms were incorrectly extracted from document formatting.\n\nPlease select a different entity from the graph to investigate actual individuals, organizations, or locations connected to the Epstein case.`,
+        citations: [],
+        noDocumentResults: true,
+        documentsSearched: 0,
+        connectionsFound: 0,
+        suggestions: [
+          'Select a person entity (like Jeffrey Epstein, Ghislaine Maxwell)',
+          'Select a location entity (like Palm Beach, Virgin Islands)',
+          'Select an organization entity (like Southern District)'
+        ],
+        webSearchPerformed: false,
+      });
+    }
     
     // Build contextual suggestions based on what was discussed
     const userQuery = message.toLowerCase();

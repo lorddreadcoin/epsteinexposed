@@ -49,23 +49,32 @@ export function Footer() {
           <Link 
             href="https://venmo.com/code?user_id=1936415466192896380&created=1766623404"
             target="_blank"
-            className="px-2 py-1 bg-green-500/20 text-green-400 rounded hover:bg-green-500/30 transition-colors"
+            className="px-2 py-1 bg-[#008CFF]/20 text-[#008CFF] rounded hover:bg-[#008CFF]/30 transition-colors flex items-center gap-1"
+            title="Donate via Venmo"
           >
-            Venmo
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M19.83 4.39c.8 1.24 1.17 2.54 1.17 4.15 0 5.18-4.39 11.19-7.98 16.46H7.16L3.5 4.39h5.66l1.96 11.03c1.49-2.41 3.29-5.93 3.29-8.57 0-1.29-.26-2.25-.66-2.97l5.08-.49z"/>
+            </svg>
           </Link>
           <Link 
             href="https://cash.app/$dankstervision"
             target="_blank"
-            className="px-2 py-1 bg-green-500/20 text-green-400 rounded hover:bg-green-500/30 transition-colors"
+            className="px-2 py-1 bg-[#00D632]/20 text-[#00D632] rounded hover:bg-[#00D632]/30 transition-colors flex items-center gap-1"
+            title="Donate via Cash App"
           >
-            Cash
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M23.59 3.47c-.18.18-.44.29-.71.29-.07 0-.14-.01-.2-.02-1.35-.39-2.69-.49-3.99-.49-3.02 0-5.31.97-7.06 2.07-.17.11-.36.16-.55.16-.31 0-.61-.14-.81-.39L8.5 2.84c-.31-.39-.26-.96.12-1.28C10.66.29 13.66-.5 17.24.14c.55.1.92.61.82 1.16-.1.55-.61.92-1.16.82-2.92-.52-5.38.12-7.31 1.18l.83 1.05c1.79-1.03 3.99-1.79 6.77-1.79 1.18 0 2.41.1 3.66.44.12.04.24.06.35.06.33 0 .64-.16.82-.43.27-.41.16-.96-.25-1.23l-.18-.11zM3.15 20.53c-.18-.18-.29-.44-.29-.71 0-.07.01-.14.02-.2.39-1.35.49-2.69.49-3.99 0-3.02-.97-5.31-2.07-7.06-.11-.17-.16-.36-.16-.55 0-.31.14-.61.39-.81l2.25-1.77c.39-.31.96-.26 1.28.12 1.27 2.04 2.06 5.04 1.42 8.62-.1.55-.61.92-1.16.82-.55-.1-.92-.61-.82-1.16.52-2.92-.12-5.38-1.18-7.31l-1.05.83c1.03 1.79 1.79 3.99 1.79 6.77 0 1.18-.1 2.41-.44 3.66-.04.12-.06.24-.06.35 0 .33.16.64.43.82.41.27.96.16 1.23-.25l.11-.18z"/>
+            </svg>
           </Link>
           <button
             onClick={copyBTC}
-            className="px-2 py-1 bg-orange-500/20 text-orange-400 rounded hover:bg-orange-500/30 transition-colors"
-            title="bc1qyh3yj9ga7dt2npgvdk2mywxt6krgye249md9ax"
+            className="px-2 py-1 bg-[#F7931A]/20 text-[#F7931A] rounded hover:bg-[#F7931A]/30 transition-colors flex items-center gap-1"
+            title="Copy Bitcoin address: bc1qyh3yj9ga7dt2npgvdk2mywxt6krgye249md9ax"
           >
-            {copied ? '✓ Copied!' : 'BTC'}
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M23.638 14.904c-1.602 6.43-8.113 10.34-14.542 8.736C2.67 22.05-1.244 15.525.362 9.105 1.962 2.67 8.475-1.243 14.9.358c6.43 1.605 10.342 8.115 8.738 14.548v-.002zm-6.35-4.613c.24-1.59-.974-2.45-2.64-3.03l.54-2.153-1.315-.33-.525 2.107c-.345-.087-.705-.167-1.064-.25l.526-2.127-1.32-.33-.54 2.165c-.285-.067-.565-.132-.84-.2l-1.815-.45-.35 1.407s.975.225.955.236c.535.136.63.486.615.766l-1.477 5.92c-.075.166-.24.406-.614.314.015.02-.96-.24-.96-.24l-.66 1.51 1.71.426.93.242-.54 2.19 1.32.327.54-2.17c.36.1.705.19 1.05.273l-.51 2.154 1.32.33.545-2.19c2.24.427 3.93.257 4.64-1.774.57-1.637-.03-2.58-1.217-3.196.854-.193 1.5-.76 1.68-1.93h.01zm-3.01 4.22c-.404 1.64-3.157.75-4.05.53l.72-2.9c.896.23 3.757.67 3.33 2.37zm.41-4.24c-.37 1.49-2.662.735-3.405.55l.654-2.64c.744.18 3.137.524 2.75 2.084v.006z"/>
+            </svg>
+            {copied ? '✓' : ''}
           </button>
         </div>
       </div>
