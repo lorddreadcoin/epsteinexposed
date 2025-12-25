@@ -1,6 +1,87 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { getRelevantExternalResources, getResourceColorClasses, buildExternalSearchUrl } from '@/lib/external-resources';
+
+// Smart External Resources Component - shows context-aware links based on entity/document
+function SmartExternalResources({ 
+  documentId, 
+  highlightEntities, 
+  error, 
+  onClose 
+}: { 
+  documentId: string; 
+  highlightEntities: string[]; 
+  error: string; 
+  onClose: () => void;
+}) {
+  // Get relevant resources based on context
+  const entityName = highlightEntities.length > 0 ? highlightEntities[0] : undefined;
+  const resources = getRelevantExternalResources(entityName, documentId);
+  
+  // Build search URLs for this specific document/entity
+  const searchQuery = entityName || documentId;
+  const googleSearchUrl = buildExternalSearchUrl(searchQuery, 'google');
+
+  return (
+    <div className="max-w-lg w-full">
+      <div className="text-center mb-6">
+        <div className="text-5xl mb-4">⚠️</div>
+        <p className="text-[#ff3366] font-semibold text-lg mb-2">{error}</p>
+        <p className="text-[#606070] text-sm mb-2">Document ID: {documentId}</p>
+        {entityName && (
+          <p className="text-cyan-400 text-sm">Searching for: <span className="font-semibold">{entityName}</span></p>
+        )}
+      </div>
+      
+      {/* Context-Aware External Resources */}
+      <div className="bg-[#12121a] border border-[#ffffff15] rounded-xl p-5 mb-4">
+        <h3 className="text-white font-semibold mb-1">
+          {entityName ? `Find "${entityName}" on official sources:` : 'Find this document on official sources:'}
+        </h3>
+        <p className="text-gray-500 text-xs mb-4">These links are selected based on what you&apos;re researching</p>
+        
+        <div className="space-y-2">
+          {resources.map((resource, i) => {
+            const colors = getResourceColorClasses(resource.color);
+            return (
+              <a
+                key={i}
+                href={resource.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={`flex items-center justify-between p-3 ${colors.bg} border ${colors.border} hover:bg-opacity-20 rounded-lg transition-colors group`}
+              >
+                <div>
+                  <span className={`${colors.text} font-medium block`}>{resource.name}</span>
+                  <span className="text-gray-500 text-xs">{resource.description}</span>
+                </div>
+                <svg className={`w-4 h-4 text-gray-500 ${colors.hover}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </a>
+            );
+          })}
+        </div>
+        
+        {/* Direct search link */}
+        <a
+          href={googleSearchUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 flex items-center justify-center gap-2 p-3 bg-gradient-to-r from-purple-500/10 to-pink-500/10 border border-purple-500/30 rounded-lg text-purple-400 hover:text-purple-300 transition-colors"
+        >
+          <span>Search all 14,762 new Epstein files</span>
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+        </a>
+      </div>
+      
+      <button onClick={onClose} className="w-full px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
+    </div>
+  );
+}
 
 interface DocumentViewerProps {
   documentId: string;
@@ -130,55 +211,12 @@ export function DocumentViewer({ documentId, highlightEntities = [], onClose }: 
             <p className="text-[#606070] font-mono text-sm">Loading document...</p>
           </div>
         ) : error ? (
-          <div className="max-w-lg w-full">
-            <div className="text-center mb-6">
-              <div className="text-5xl mb-4">⚠️</div>
-              <p className="text-[#ff3366] font-semibold text-lg mb-2">{error}</p>
-              <p className="text-[#606070] text-sm mb-4">Document ID: {documentId}</p>
-            </div>
-            
-            {/* External Resources Fallback */}
-            <div className="bg-[#12121a] border border-[#ffffff15] rounded-xl p-5 mb-4">
-              <h3 className="text-white font-semibold mb-3">Find this document on official sources:</h3>
-              <div className="space-y-2">
-                <a
-                  href="https://www.justice.gov/epstein/court-records"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-between p-3 bg-[#1a1a24] hover:bg-[#252530] rounded-lg transition-colors group"
-                >
-                  <span className="text-cyan-400">DOJ Court Records</span>
-                  <svg className="w-4 h-4 text-gray-500 group-hover:text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                </a>
-                <a
-                  href="https://www.epsteinarchive.org/docs/giuffre-v-maxwell-unsealed/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-between p-3 bg-[#1a1a24] hover:bg-[#252530] rounded-lg transition-colors group"
-                >
-                  <span className="text-amber-400">Epstein Archive - Unsealed Documents</span>
-                  <svg className="w-4 h-4 text-gray-500 group-hover:text-amber-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                </a>
-                <a
-                  href="https://journaliststudio.google.com/u/1/pinpoint/search?collection=ea371fdea7a785c0"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-between p-3 bg-[#1a1a24] hover:bg-[#252530] rounded-lg transition-colors group"
-                >
-                  <span className="text-purple-400">New Epstein Files (14,762 docs)</span>
-                  <svg className="w-4 h-4 text-gray-500 group-hover:text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                </a>
-              </div>
-            </div>
-            
-            <button onClick={onClose} className="w-full px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
-          </div>
+          <SmartExternalResources 
+            documentId={documentId} 
+            highlightEntities={highlightEntities} 
+            error={error} 
+            onClose={onClose} 
+          />
         ) : docData?.pdfUrl ? (
           <div style={{ transform: `scale(${zoom / 100})`, transformOrigin: 'top center', transition: 'transform 0.2s ease' }}>
             <iframe src={`${docData.pdfUrl}#page=${currentPage}&toolbar=0`} className="w-[850px] h-[1100px] bg-white shadow-2xl rounded" title={`Document ${documentId}`} />
