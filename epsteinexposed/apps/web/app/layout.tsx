@@ -55,12 +55,12 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
-      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/logo.png", type: "image/png" },
     ],
     apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180" },
+      { url: "/logo.png", sizes: "180x180" },
     ],
-    shortcut: "/favicon-16x16.png",
+    shortcut: "/favicon.ico",
   },
   
   // Manifest for PWA
@@ -143,7 +143,7 @@ export const metadata: Metadata = {
   // Other metadata
   other: {
     "msapplication-TileColor": "#0a0a0f",
-    "apple-mobile-web-app-capable": "yes",
+    "mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "black-translucent",
     "format-detection": "telephone=no",
   },

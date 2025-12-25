@@ -12,16 +12,15 @@
   "categories": ["news", "education", "utilities"],
   "icons": [
     {
-      "src": "/icon-192.png",
-      "sizes": "192x192",
+      "src": "/logo.png",
+      "sizes": "any",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
     }
   ],
   "screenshots": [
@@ -38,14 +37,14 @@
       "short_name": "Search",
       "description": "Search the document database",
       "url": "/?search=true",
-      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/logo.png", "sizes": "any" }]
     },
     {
       "name": "AI Investigation",
       "short_name": "Investigate",
       "description": "Start an AI-powered investigation",
       "url": "/?chat=true",
-      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/logo.png", "sizes": "any" }]
     }
   ]
 }
