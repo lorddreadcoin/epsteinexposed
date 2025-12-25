@@ -775,7 +775,7 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
       </div>
 
       {/* Command Center - How to Use */}
-      <div className="absolute bottom-48 left-4 bg-black/90 backdrop-blur border border-cyan-500/30 rounded-lg p-4 max-w-sm">
+      <div className="absolute bottom-96 left-4 bg-black/90 backdrop-blur border border-cyan-500/30 rounded-lg p-4 max-w-sm">
         <div className="flex items-center gap-2 mb-3 pb-2 border-b border-cyan-500/20">
           <svg className="w-5 h-5 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
