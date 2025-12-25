@@ -94,8 +94,159 @@ interface DocumentData {
   title?: string;
   pdfUrl?: string;
   type?: string;
+  entityType?: string;
   error?: string;
   message?: string;
+}
+
+// Rich Entity Information Panel - shows news, resources, and related documents
+function EntityInfoPanel({ 
+  entityName, 
+  entityType,
+  onClose 
+}: { 
+  entityName: string; 
+  entityType: string;
+  onClose: () => void;
+}) {
+  const searchQuery = `${entityName} Jeffrey Epstein`;
+  const encodedQuery = encodeURIComponent(searchQuery);
+  const encodedEntity = encodeURIComponent(entityName);
+  
+  // Build search URLs for various sources
+  const newsSearchUrl = `https://news.google.com/search?q=${encodedQuery}`;
+  const wikipediaUrl = `https://en.wikipedia.org/wiki/Special:Search?search=${encodedEntity}`;
+  const googleSearchUrl = `https://www.google.com/search?q=${encodedQuery}`;
+  const dojSearchUrl = `https://www.justice.gov/usao-sdny/press-releases?search=${encodedEntity}`;
+  const courtListenerUrl = `https://www.courtlistener.com/?q=${encodedQuery}`;
+  
+  // Entity type icons
+  const typeIcons: Record<string, string> = {
+    person: '👤',
+    location: '📍',
+    organization: '🏢',
+    date: '📅',
+    flight: '✈️',
+    other: '📋'
+  };
+  
+  const icon = typeIcons[entityType] || typeIcons.other;
+
+  return (
+    <div className="max-w-2xl w-full">
+      {/* Entity Header */}
+      <div className="text-center mb-6">
+        <div className="text-6xl mb-4">{icon}</div>
+        <h2 className="text-white font-bold text-2xl mb-2">{entityName}</h2>
+        <span className="px-3 py-1 bg-cyan-500/20 text-cyan-400 rounded-full text-sm capitalize">
+          {entityType}
+        </span>
+      </div>
+      
+      {/* Main Info Card */}
+      <div className="bg-[#12121a] border border-[#ffffff15] rounded-xl p-6 mb-4">
+        <h3 className="text-white font-semibold mb-2 flex items-center gap-2">
+          <span className="text-cyan-400">🔍</span>
+          Research &quot;{entityName}&quot; + Epstein Connection
+        </h3>
+        <p className="text-gray-400 text-sm mb-4">
+          Click any link below to find news, court records, and information about this entity&apos;s connection to the Epstein case.
+        </p>
+        
+        {/* News & Media */}
+        <div className="space-y-3">
+          <a
+            href={newsSearchUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-between p-3 bg-red-500/10 border border-red-500/30 hover:bg-red-500/20 rounded-lg transition-colors group"
+          >
+            <div>
+              <span className="text-red-400 font-medium block">📰 Google News</span>
+              <span className="text-gray-500 text-xs">Recent news about {entityName} + Epstein</span>
+            </div>
+            <svg className="w-4 h-4 text-gray-500 group-hover:text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+          
+          <a
+            href={wikipediaUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-between p-3 bg-blue-500/10 border border-blue-500/30 hover:bg-blue-500/20 rounded-lg transition-colors group"
+          >
+            <div>
+              <span className="text-blue-400 font-medium block">📚 Wikipedia</span>
+              <span className="text-gray-500 text-xs">Encyclopedia entry for {entityName}</span>
+            </div>
+            <svg className="w-4 h-4 text-gray-500 group-hover:text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+          
+          <a
+            href={dojSearchUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-between p-3 bg-amber-500/10 border border-amber-500/30 hover:bg-amber-500/20 rounded-lg transition-colors group"
+          >
+            <div>
+              <span className="text-amber-400 font-medium block">⚖️ DOJ Press Releases</span>
+              <span className="text-gray-500 text-xs">Official Department of Justice statements</span>
+            </div>
+            <svg className="w-4 h-4 text-gray-500 group-hover:text-amber-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+          
+          <a
+            href={courtListenerUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-between p-3 bg-purple-500/10 border border-purple-500/30 hover:bg-purple-500/20 rounded-lg transition-colors group"
+          >
+            <div>
+              <span className="text-purple-400 font-medium block">📋 Court Records</span>
+              <span className="text-gray-500 text-xs">Search federal court documents</span>
+            </div>
+            <svg className="w-4 h-4 text-gray-500 group-hover:text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+          
+          <a
+            href={googleSearchUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-between p-3 bg-green-500/10 border border-green-500/30 hover:bg-green-500/20 rounded-lg transition-colors group"
+          >
+            <div>
+              <span className="text-green-400 font-medium block">🔎 Google Search</span>
+              <span className="text-gray-500 text-xs">All web results for {entityName} + Epstein</span>
+            </div>
+            <svg className="w-4 h-4 text-gray-500 group-hover:text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        </div>
+      </div>
+      
+      {/* Tip */}
+      <div className="bg-cyan-500/10 border border-cyan-500/30 rounded-lg p-4 mb-4">
+        <p className="text-cyan-400 text-sm">
+          💡 <strong>Tip:</strong> Use the AI Investigator to ask specific questions about {entityName}&apos;s connection to the Epstein case. The AI can search our database of 11,622 documents for relevant information.
+        </p>
+      </div>
+      
+      <button 
+        onClick={onClose} 
+        className="w-full px-4 py-3 bg-[#ffffff10] text-white rounded-lg hover:bg-[#ffffff20] transition-colors font-medium"
+      >
+        Close
+      </button>
+    </div>
+  );
 }
 
 export function DocumentViewer({ documentId, highlightEntities = [], onClose }: DocumentViewerProps) {
@@ -222,19 +373,18 @@ export function DocumentViewer({ documentId, highlightEntities = [], onClose }: 
             <iframe src={`${docData.pdfUrl}#page=${currentPage}&toolbar=0`} className="w-[850px] h-[1100px] bg-white shadow-2xl rounded" title={`Document ${documentId}`} />
           </div>
         ) : docData?.type === 'entity' ? (
-          <div className="text-center py-12">
-            <div className="text-5xl mb-4">👤</div>
-            <p className="text-white font-semibold text-lg mb-2">{docData.title || documentId}</p>
-            <p className="text-[#606070] text-sm">This is an entity reference, not a document.</p>
-            <p className="text-[#00d4ff] mt-2">View related documents in the graph.</p>
-            <button onClick={onClose} className="mt-4 px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
-          </div>
+          <EntityInfoPanel 
+            entityName={docData.title || documentId} 
+            entityType={docData.entityType || 'unknown'}
+            onClose={onClose}
+          />
         ) : (
-          <div className="text-center py-12">
-            <div className="text-5xl mb-4">📄</div>
-            <p className="text-[#ff3366] font-mono mb-4">Document not available</p>
-            <button onClick={onClose} className="px-4 py-2 bg-[#ffffff10] text-white rounded hover:bg-[#ffffff20] transition-colors">Close</button>
-          </div>
+          <SmartExternalResources 
+            documentId={documentId}
+            highlightEntities={highlightEntities}
+            error="Document not found in database"
+            onClose={onClose}
+          />
         )}
       </div>
       
