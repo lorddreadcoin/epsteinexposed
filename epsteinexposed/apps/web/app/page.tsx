@@ -160,8 +160,9 @@ export default function Home() {
   }, []);
   
   return (
-    <div className="h-screen w-screen bg-[#0a0a0f] flex flex-col overflow-hidden pb-16">
-      <header className="h-14 bg-[#12121a] border-b border-[#ffffff10] px-6 flex items-center justify-between shrink-0">
+    <div className="h-screen w-screen bg-[#0a0a0f] flex flex-col overflow-hidden pb-16 sm:pb-0">
+      {/* Desktop Header - Hidden on Mobile */}
+      <header className="hidden sm:flex h-14 bg-[#12121a] border-b border-[#ffffff10] px-6 items-center justify-between shrink-0">
         <div className="flex items-center gap-4">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/logo.png" alt="Epstein Exposed" className="w-10 h-10 rounded-full" />
@@ -209,9 +210,9 @@ export default function Home() {
         </div>
       </header>
       
-      <div className="flex-1 flex flex-col min-h-0">
-        {/* Unredacted Files Banner */}
-        <div className="px-4 pt-2 shrink-0">
+      <div className="flex-1 flex flex-col min-h-0 pt-14 sm:pt-0">
+        {/* Unredacted Files Banner - Hidden on Mobile (available in hamburger menu) */}
+        <div className="hidden sm:block px-4 pt-2 shrink-0">
           <UnredactedBanner />
         </div>
         
@@ -352,8 +353,8 @@ export default function Home() {
       
       <MobileNav
         onOpenChat={() => setChatCollapsed(false)}
-        onOpenHelp={shortcuts.open}
-        activeTab={chatCollapsed ? 'graph' : 'chat'}
+        onOpenSearch={() => {}} 
+        onViewDocument={handleViewDocument}
       />
       
       {/* Search Panel - triggered from header */}
