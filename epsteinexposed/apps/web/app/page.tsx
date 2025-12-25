@@ -216,6 +216,13 @@ export default function Home() {
           <UnredactedBanner />
         </div>
         
+        {/* Search Panel - Positioned under notification banner */}
+        {showSearch && (
+          <div className="px-4 pb-2 shrink-0 z-50">
+            <SearchPanel />
+          </div>
+        )}
+        
         <div className={`relative transition-all duration-300 ease-out ${chatCollapsed ? 'flex-1' : 'h-[75%]'} ${viewingDocument ? 'invisible' : ''}`}>
           <Graph3DCore onNodeSelect={handleNodeSelect} onAnalyzeConnection={handleAnalyzeConnection} />
           

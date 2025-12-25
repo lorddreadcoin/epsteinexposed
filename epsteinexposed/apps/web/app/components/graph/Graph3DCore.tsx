@@ -101,7 +101,7 @@ function AnimatedNode({
   const glowRef = useRef<THREE.Mesh>(null);
   const ringRef = useRef<THREE.Mesh>(null);
   const color = new THREE.Color(ENTITY_COLORS[node.type] || ENTITY_COLORS.other);
-  const baseSize = node.size || 1;
+  const baseSize = (node.size || 1) * 2.5; // 2.5x larger nodes for better visibility
 
   // BREATHING - All nodes gently pulse
   const breathe = Math.sin(globalTime * 0.5 + node.x * 0.1) * 0.08 + 1;
