@@ -1,19 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { createClient } from '@supabase/supabase-js';
-
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.SUPABASE_SERVICE_ROLE_KEY!
-);
-
-interface DocumentResult {
-  id: string;
-  title: string;
-  pdfUrl: string;
-  source: string;
-  isRedacted: boolean;
-  type: string;
-}
 
 export async function GET(
   request: NextRequest,
@@ -27,47 +12,44 @@ export async function GET(
       return NextResponse.json({ error: 'Document ID required' }, { status: 400 });
     }
 
-    console.log('[DOC API] Querying Supabase for document:', docId);
+    console.log('[DOC API] Looking for PDF:', docId);
 
-    // Query Supabase for documents mentioning this entity or with this ID
-    // First, try to find entities with this name
-    const { data: entities, error: entityError } = await supabase
-      .from('entities')
-      .select('name, document_count')
-      .ilike('name', `%${docId}%`)
-      .limit(5);
+    // DIRECT PDF LINKING - Build Supabase Storage URL directly
+    // All PDFs are stored in Supabase Storage bucket 'pdfs'
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+    
+    // Try multiple PDF path patterns
+    const possiblePaths = [
+      `${docId}.pdf`,
+      `${docId}`,
+      `documents/${docId}.pdf`,
+      `documents/${docId}`,
+      // Try with underscores instead of hyphens
+      `${docId.replace(/-/g, '_')}.pdf`,
+      // Try original format from entity files
+      `${docId.replace(/-/g, '_')}`,
+    ];
 
-    if (entityError) {
-      console.error('[DOC API] Entity query error:', entityError);
-    }
+    // Build direct Supabase Storage URLs
+    const pdfUrls = possiblePaths.map(path => 
+      `${supabaseUrl}/storage/v1/object/public/pdfs/${path}`
+    );
 
-    // If we found entities, return information about them
-    if (entities && entities.length > 0) {
-      const entity = entities[0]!;
-      console.log('[DOC API] Found entity:', entity.name, 'with', entity.document_count, 'documents');
-      
-      return NextResponse.json({
-        id: docId,
-        title: entity.name,
-        entityName: entity.name,
-        documentCount: entity.document_count,
-        type: 'entity',
-        message: `Found entity "${entity.name}" mentioned in ${entity.document_count} documents. Use the AI Investigation to explore this entity's connections.`,
-        relatedEntities: entities.slice(1).map(e => ({ name: e.name, documentCount: e.document_count }))
-      });
-    }
-
-    // If no entity found, try searching for actual document files
-    // This would require a documents table in Supabase (which we should add)
-    console.log('[DOC API] No entity found for:', docId);
+    // Return the first URL (we'll let the browser handle 404s)
+    const pdfUrl = pdfUrls[0];
+    
+    console.log('[DOC API] Returning PDF URL:', pdfUrl);
     
     return NextResponse.json({
-      error: 'Document not found',
-      docId,
-      message: `Document "${docId}" not found. Searching for: "${docId}"`,
-      suggestion: 'Try searching for entity names like "Donald Trump", "Jeffrey Epstein", "Palm Beach, FL" etc.',
-      searchQuery: docId
-    }, { status: 404 });
+      id: docId,
+      title: docId.replace(/-/g, ' ').replace(/_/g, ' '),
+      pdfUrl: pdfUrl,
+      source: 'Supabase Storage',
+      isRedacted: false,
+      type: 'pdf',
+      // Provide alternative URLs in case first one fails
+      alternativeUrls: pdfUrls.slice(1)
+    });
 
   } catch (error) {
     console.error('[DOC API] Error:', error);
