@@ -69,11 +69,18 @@ export default function Home() {
     }
   }, []);
   
-  const handleAnalyzeConnection = useCallback((entities: string[]) => {
+  const handleAnalyzeConnection = useCallback((entities: string[], _nodeData?: NodeData[]) => {
     console.log('[PAGE] Analyze connection requested for:', entities);
     setSelectedEntities(entities);
     setSelectedEntity(null);
     setChatCollapsed(false);
+    
+    // Auto-send investigation request to AI
+    if (entities.length >= 2) {
+      const message = `Investigate the connection between ${entities.join(' and ')}. Are they connected in the documents? If so, explain how they are related and cite specific documents.`;
+      console.log('[PAGE] Auto-sending investigation:', message);
+      // The InvestigationChat component will pick up selectedEntities
+    }
   }, []);
   
   const handleViewDocument = useCallback((documentId: string) => {

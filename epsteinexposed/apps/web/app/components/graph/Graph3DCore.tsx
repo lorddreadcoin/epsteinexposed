@@ -31,7 +31,7 @@ interface EdgeData {
 
 interface Graph3DCoreProps {
   onNodeSelect?: (node: NodeData | null) => void;
-  onAnalyzeConnection?: (entities: string[]) => void;
+  onAnalyzeConnection?: (entities: string[], nodeData: NodeData[]) => void;
 }
 
 // =============================================================================
@@ -57,21 +57,30 @@ function GraphNode({
   node,
   isSelected,
   isHighlighted,
+  isHovered,
   showLabel,
   onClick,
+  onHover,
 }: {
   node: NodeData;
   isSelected: boolean;
   isHighlighted: boolean;
+  isHovered: boolean;
   showLabel: boolean;
-  onClick: () => void;
+  onClick: (e: React.MouseEvent) => void;
+  onHover: (hovering: boolean) => void;
 }) {
   const meshRef = useRef<THREE.Mesh>(null);
   const color = ENTITY_COLORS[node.type] || ENTITY_COLORS.other;
 
   return (
     <group position={[node.x, node.y, node.z]}>
-      <mesh ref={meshRef} onClick={onClick}>
+      <mesh 
+        ref={meshRef} 
+        onClick={onClick}
+        onPointerOver={() => onHover(true)}
+        onPointerOut={() => onHover(false)}
+      >
         <sphereGeometry args={[node.size, 32, 32]} />
         <meshStandardMaterial
           color={isSelected ? '#FFFFFF' : color}
@@ -152,12 +161,15 @@ function GraphScene({
   nodes,
   edges,
   onNodeSelect,
+  onAnalyzeConnection,
 }: {
   nodes: NodeData[];
   edges: EdgeData[];
   onNodeSelect: (node: NodeData | null) => void;
+  onAnalyzeConnection: (entities: string[], nodeData: NodeData[]) => void;
 }) {
-  const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
+  const [selectedNodeIds, setSelectedNodeIds] = useState<Set<string>>(new Set());
+  const [hoveredNodeId, setHoveredNodeId] = useState<string | null>(null);
 
   const nodeMap = useMemo(() => {
     const map = new Map<string, NodeData>();
@@ -166,16 +178,28 @@ function GraphScene({
   }, [nodes]);
 
   const highlightedNodeIds = useMemo(() => {
-    if (!selectedNodeId) return new Set<string>();
+    if (selectedNodeIds.size === 0) return new Set<string>();
     const connected = new Set<string>();
     edges.forEach((e) => {
-      if (e.source === selectedNodeId) connected.add(e.target);
-      if (e.target === selectedNodeId) connected.add(e.source);
+      if (selectedNodeIds.has(e.source)) connected.add(e.target);
+      if (selectedNodeIds.has(e.target)) connected.add(e.source);
     });
     return connected;
-  }, [selectedNodeId, edges]);
+  }, [selectedNodeIds, edges]);
 
-  const topNodeIds = useMemo(() => {
+  // Check if there's a direct connection between selected nodes
+  const selectedNodesConnection = useMemo(() => {
+    if (selectedNodeIds.size < 2) return null;
+    const ids = Array.from(selectedNodeIds);
+    for (const edge of edges) {
+      if (ids.includes(edge.source) && ids.includes(edge.target)) {
+        return edge;
+      }
+    }
+    return null;
+  }, [selectedNodeIds, edges]);
+
+  void useMemo(() => {
     return new Set(
       [...nodes]
         .sort((a, b) => b.connectionCount - a.connectionCount)
@@ -185,13 +209,53 @@ function GraphScene({
   }, [nodes]);
 
   const handleNodeClick = useCallback(
-    (node: NodeData) => {
-      const newSelected = selectedNodeId === node.id ? null : node.id;
-      setSelectedNodeId(newSelected);
-      onNodeSelect(newSelected ? node : null);
+    (node: NodeData, e: React.MouseEvent) => {
+      const ctrlKey = e.ctrlKey || e.metaKey;
+      
+      setSelectedNodeIds(prev => {
+        const newSet = new Set(prev);
+        
+        if (ctrlKey) {
+          // Multi-select: toggle this node
+          if (newSet.has(node.id)) {
+            newSet.delete(node.id);
+          } else {
+            newSet.add(node.id);
+          }
+        } else {
+          // Single select: clear and select only this
+          if (newSet.size === 1 && newSet.has(node.id)) {
+            newSet.clear(); // Deselect if clicking same node
+          } else {
+            newSet.clear();
+            newSet.add(node.id);
+          }
+        }
+        
+        // Trigger connection analysis when 2+ nodes selected
+        if (newSet.size >= 2) {
+          const selectedNodes = Array.from(newSet).map(id => nodeMap.get(id)).filter(Boolean) as NodeData[];
+          const names = selectedNodes.map(n => n.name);
+          setTimeout(() => onAnalyzeConnection(names, selectedNodes), 100);
+        }
+        
+        // Update single node select for sidebar
+        if (newSet.size === 1) {
+          const singleId = Array.from(newSet)[0] as string;
+          onNodeSelect(nodeMap.get(singleId) || null);
+        } else if (newSet.size === 0) {
+          onNodeSelect(null);
+        }
+        
+        return newSet;
+      });
     },
-    [selectedNodeId, onNodeSelect]
+    [nodeMap, onNodeSelect, onAnalyzeConnection]
   );
+
+  const handleNodeHover = useCallback((nodeId: string, hovering: boolean) => {
+    setHoveredNodeId(hovering ? nodeId : null);
+  }, []);
 
   return (
     <>
@@ -199,30 +263,65 @@ function GraphScene({
       <pointLight position={[100, 100, 100]} intensity={0.8} />
       <pointLight position={[-100, -100, -100]} intensity={0.4} />
 
+      {/* All connection lines - always visible */}
       {edges.map((edge, i) => (
         <ConnectionLine
           key={`${edge.source}-${edge.target}-${i}`}
           edge={edge}
           nodeMap={nodeMap}
           isHighlighted={
-            selectedNodeId === edge.source ||
-            selectedNodeId === edge.target ||
+            selectedNodeIds.has(edge.source) ||
+            selectedNodeIds.has(edge.target) ||
             highlightedNodeIds.has(edge.source) ||
-            highlightedNodeIds.has(edge.target)
+            highlightedNodeIds.has(edge.target) ||
+            hoveredNodeId === edge.source ||
+            hoveredNodeId === edge.target
           }
         />
       ))}
+
+      {/* Special highlight line between selected nodes */}
+      {selectedNodeIds.size >= 2 && (() => {
+        const ids = Array.from(selectedNodeIds) as string[];
+        const lines: React.ReactNode[] = [];
+        for (let i = 0; i < ids.length; i++) {
+          for (let j = i + 1; j < ids.length; j++) {
+            const idA = ids[i] as string;
+            const idB = ids[j] as string;
+            const nodeA = nodeMap.get(idA);
+            const nodeB = nodeMap.get(idB);
+            if (nodeA && nodeB) {
+              lines.push(
+                <Line
+                  key={`selected-${idA}-${idB}`}
+                  points={[[nodeA.x, nodeA.y, nodeA.z], [nodeB.x, nodeB.y, nodeB.z]]}
+                  color={selectedNodesConnection ? '#00FF00' : '#FF6B35'}
+                  lineWidth={4}
+                  dashed={!selectedNodesConnection}
+                  dashSize={2}
+                  gapSize={1}
+                />
+              );
+            }
+          }
+        }
+        return lines;
+      })()}
 
       {nodes.map((node) => (
         <GraphNode
           key={node.id}
           node={node}
-          isSelected={selectedNodeId === node.id}
+          isSelected={selectedNodeIds.has(node.id)}
           isHighlighted={highlightedNodeIds.has(node.id)}
+          isHovered={hoveredNodeId === node.id}
           showLabel={
-            topNodeIds.has(node.id) || selectedNodeId === node.id || highlightedNodeIds.has(node.id)
+            selectedNodeIds.has(node.id) || 
+            hoveredNodeId === node.id || 
+            highlightedNodeIds.has(node.id)
           }
-          onClick={() => handleNodeClick(node)}
+          onClick={(e) => handleNodeClick(node, e)}
+          onHover={(hovering) => handleNodeHover(node.id, hovering)}
         />
       ))}
 
@@ -235,7 +334,7 @@ function GraphScene({
 // MAIN EXPORT
 // =============================================================================
 
-export function Graph3DCore({ onNodeSelect }: Graph3DCoreProps) {
+export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCoreProps) {
   const [nodes, setNodes] = useState<NodeData[]>([]);
   const [edges, setEdges] = useState<EdgeData[]>([]);
   const [loading, setLoading] = useState(true);
@@ -329,7 +428,12 @@ export function Graph3DCore({ onNodeSelect }: Graph3DCoreProps) {
   return (
     <div className="w-full h-full relative">
       <Canvas camera={{ position: [0, 0, 180], fov: 60 }} style={{ background: '#0a0a0f' }}>
-        <GraphScene nodes={nodes} edges={edges} onNodeSelect={onNodeSelect || (() => {})} />
+        <GraphScene 
+          nodes={nodes} 
+          edges={edges} 
+          onNodeSelect={onNodeSelect || (() => {})} 
+          onAnalyzeConnection={onAnalyzeConnection || (() => {})}
+        />
       </Canvas>
 
       <div className="absolute top-4 right-4 bg-black/80 backdrop-blur px-4 py-2 rounded-lg border border-cyan-500/30 text-sm font-mono">
@@ -340,9 +444,10 @@ export function Graph3DCore({ onNodeSelect }: Graph3DCoreProps) {
       </div>
 
       <div className="absolute bottom-48 left-4 text-xs text-gray-500 bg-black/60 px-3 py-2 rounded">
-        <span className="text-cyan-400">Click</span> node to select •
-        <span className="text-yellow-400 ml-1">Scroll</span> to zoom •
-        <span className="text-pink-400 ml-1">Drag</span> to rotate
+        <span className="text-cyan-400">Click</span> select •
+        <span className="text-green-400 ml-1">Ctrl+Click</span> multi-select •
+        <span className="text-yellow-400 ml-1">Scroll</span> zoom •
+        <span className="text-pink-400 ml-1">Drag</span> rotate
       </div>
     </div>
   );
