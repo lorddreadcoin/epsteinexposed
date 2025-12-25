@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { EntityIntelligencePopup } from './EntityIntelligencePopup';
 
 interface SearchResult {
   id: string;
@@ -17,6 +18,7 @@ export function SearchPanel() {
   const [results, setResults] = useState<SearchResult[]>([]);
   const [loading, setLoading] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
+  const [selectedEntity, setSelectedEntity] = useState<SearchResult | null>(null);
   
   const handleSearch = useCallback(async (searchQuery: string) => {
     if (!searchQuery.trim()) {
@@ -113,7 +115,7 @@ export function SearchPanel() {
                         key={result.id}
                         className="p-3 hover:bg-gray-800 rounded-lg cursor-pointer transition-colors"
                         onClick={() => {
-                          console.log('Selected:', result);
+                          setSelectedEntity(result);
                           setIsOpen(false);
                         }}
                       >
@@ -186,6 +188,14 @@ export function SearchPanel() {
           </motion.div>
         )}
       </AnimatePresence>
+      
+      {/* Entity Intelligence Popup */}
+      {selectedEntity && (
+        <EntityIntelligencePopup
+          entity={selectedEntity}
+          onClose={() => setSelectedEntity(null)}
+        />
+      )}
     </>
   );
 }

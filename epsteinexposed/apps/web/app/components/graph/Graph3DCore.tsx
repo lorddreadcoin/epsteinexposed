@@ -630,11 +630,15 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
     setGraphOffset(prev => (prev + 100) % 500);
   };
 
-  // Load more entities (add to existing)
+  // Load more entities (add to existing) - fetch DIFFERENT entities using exclude list
   const handleLoadMore = async () => {
     try {
-      const newOffset = graphOffset + 200;
-      const res = await fetch(`/api/graph?nodeLimit=200&connectionLimit=600&offset=${newOffset}`);
+      // Get IDs of entities we already have to exclude them
+      const currentIds = nodes.map(n => n.id);
+      const excludeParam = currentIds.slice(0, 100).join(','); // Limit to avoid URL too long
+      const newOffset = graphOffset + nodes.length;
+      
+      const res = await fetch(`/api/graph?nodeLimit=200&connectionLimit=600&offset=${newOffset}&exclude=${excludeParam}`);
       if (!res.ok) return;
       
       const data = await res.json();
@@ -644,7 +648,7 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
       if (rawNodes.length === 0) return;
       
       // Get existing node IDs to avoid duplicates
-      const existingIds = new Set(nodes.map(n => n.id));
+      const existingIds = new Set(currentIds);
       
       const maxConn = Math.max(...rawNodes.map((n: any) => n.connectionCount || n.connections || 1));
       const newNodes: NodeData[] = rawNodes
