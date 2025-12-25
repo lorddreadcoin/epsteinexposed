@@ -2,18 +2,50 @@
 
 import { useState, useCallback } from 'react';
 import dynamic from 'next/dynamic';
-import { InvestigationChat } from './components/chat/InvestigationChat';
 import { SourceBadges } from './components/ui/SourceBadges';
-import { OnboardingModal } from './components/onboarding/OnboardingModal';
-import { CommandPalette } from './components/command/CommandPalette';
-import { KeyboardShortcuts, useKeyboardShortcuts } from './components/ui/KeyboardShortcuts';
-import { TimelineView } from './components/timeline/TimelineView';
-import { MobileNav } from './components/mobile/MobileNav';
-import { SearchPanel } from './components/search/SearchPanel';
 import { Footer } from './components/layout/Footer';
 import { ColorLegend } from './components/graph/ColorLegend';
 import UnredactedBanner from './components/UnredactedBanner';
 import './styles/design-system.css';
+
+// Dynamic imports for heavy components - improves initial load
+const InvestigationChat = dynamic(
+  () => import('./components/chat/InvestigationChat').then(mod => mod.InvestigationChat),
+  { ssr: false }
+);
+
+const OnboardingModal = dynamic(
+  () => import('./components/onboarding/OnboardingModal').then(mod => mod.OnboardingModal),
+  { ssr: false }
+);
+
+const CommandPalette = dynamic(
+  () => import('./components/command/CommandPalette').then(mod => mod.CommandPalette),
+  { ssr: false }
+);
+
+const KeyboardShortcuts = dynamic(
+  () => import('./components/ui/KeyboardShortcuts').then(mod => mod.KeyboardShortcuts),
+  { ssr: false }
+);
+
+const TimelineView = dynamic(
+  () => import('./components/timeline/TimelineView').then(mod => mod.TimelineView),
+  { ssr: false }
+);
+
+const MobileNav = dynamic(
+  () => import('./components/mobile/MobileNav').then(mod => mod.MobileNav),
+  { ssr: false }
+);
+
+const SearchPanel = dynamic(
+  () => import('./components/search/SearchPanel').then(mod => mod.SearchPanel),
+  { ssr: false }
+);
+
+// Import hook separately (can't be dynamic)
+import { useKeyboardShortcuts } from './components/ui/KeyboardShortcuts';
 
 const Graph3DCore = dynamic(
   () => import('./components/graph/Graph3DCore').then(mod => mod.Graph3DCore),

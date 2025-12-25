@@ -61,6 +61,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
+      <head>
+        {/* Preconnect to critical domains */}
+        <link rel="preconnect" href="https://lyzpmfvujegnbsdptypz.supabase.co" />
+        <link rel="dns-prefetch" href="https://lyzpmfvujegnbsdptypz.supabase.co" />
+        <link rel="preconnect" href="https://openrouter.ai" />
+        {/* Preload critical fonts */}
+        <link rel="preload" href="/fonts/inter-var.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+      </head>
       <body className={`${inter.variable} ${jetbrainsMono.variable} font-sans antialiased`}>
         {children}
       </body>

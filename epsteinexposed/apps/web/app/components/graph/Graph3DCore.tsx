@@ -470,7 +470,8 @@ export function Graph3DCore({ onNodeSelect, onAnalyzeConnection }: Graph3DCorePr
   useEffect(() => {
     async function loadGraph() {
       try {
-        const res = await fetch('/api/graph?nodeLimit=500&connectionLimit=2000');
+        // Reduced initial load for faster LCP - load more on demand
+        const res = await fetch('/api/graph?nodeLimit=200&connectionLimit=800');
         
         if (!res.ok) {
           console.error('[GRAPH] API returned status:', res.status);

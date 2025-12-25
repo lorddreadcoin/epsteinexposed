@@ -2,6 +2,12 @@
 const nextConfig = {
   reactStrictMode: true,
   
+  // Enable static optimization where possible
+  poweredByHeader: false,
+  
+  // Compress responses
+  compress: true,
+  
   // Optimize images
   images: {
     formats: ['image/avif', 'image/webp'],
@@ -11,7 +17,7 @@ const nextConfig = {
   
   // Experimental features for performance
   experimental: {
-    optimizePackageImports: ['three', '@react-three/fiber', '@react-three/drei', 'framer-motion'],
+    optimizePackageImports: ['three', '@react-three/fiber', '@react-three/drei', 'framer-motion', 'lucide-react'],
   },
   
   // Empty turbopack config to silence warning (Next.js 16 uses Turbopack by default)
@@ -27,7 +33,7 @@ const nextConfig = {
     ];
   },
   
-  // Headers for performance
+  // Headers for performance and caching
   async headers() {
     return [
       {
@@ -35,6 +41,20 @@ const nextConfig = {
         headers: [
           { key: 'X-DNS-Prefetch-Control', value: 'on' },
           { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+        ],
+      },
+      {
+        // Cache static assets aggressively
+        source: '/static/:path*',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+        ],
+      },
+      {
+        // Cache JS/CSS chunks
+        source: '/_next/static/:path*',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
         ],
       },
     ];
