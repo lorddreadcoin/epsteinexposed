@@ -109,7 +109,7 @@ interface NodeData {
 }
 
 export default function Home() {
-  const [chatCollapsed, setChatCollapsed] = useState(false);
+  const [chatCollapsed, setChatCollapsed] = useState(true); // Start collapsed
   const [selectedEntity, setSelectedEntity] = useState<NodeData | null>(null);
   const [selectedEntities, setSelectedEntities] = useState<string[]>([]);
   const [viewingDocument, setViewingDocument] = useState<ViewingDocument | null>(null);

@@ -57,15 +57,24 @@ export function SearchPanel() {
   
   return (
     <>
+      {/* AI Chat Header Note - Points to search */}
+      <div className="fixed top-2 left-1/2 -translate-x-1/2 z-[65] flex items-center gap-2 text-xs text-cyan-400/80 animate-pulse">
+        <span>💡 Search any entity below to chat with AI</span>
+        <svg className="w-3 h-3 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+        </svg>
+      </div>
+
       {/* Search Toggle Button - Fixed position with high z-index */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed top-20 left-1/2 -translate-x-1/2 z-[60] bg-black/95 border-2 border-cyan-500/50 rounded-full px-5 py-2.5 flex items-center gap-3 hover:border-cyan-400 hover:bg-cyan-950/50 transition-all shadow-lg shadow-cyan-500/20"
+        className="fixed top-20 left-1/2 -translate-x-1/2 z-[60] bg-black/95 border-2 border-cyan-500/50 rounded-full px-5 py-2.5 flex items-center gap-3 hover:border-cyan-400 hover:bg-cyan-950/50 transition-all shadow-lg shadow-cyan-500/20 group"
       >
-        <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <svg className="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
         </svg>
-        <span className="text-sm text-gray-400">Search entities...</span>
+        <span className="text-sm text-gray-300">Search entities...</span>
+        <span className="text-[10px] bg-cyan-500/20 text-cyan-400 px-1.5 py-0.5 rounded-full border border-cyan-500/30">AI Chat</span>
         <kbd className="text-xs bg-gray-800 px-1.5 py-0.5 rounded text-gray-500">⌘K</kbd>
       </button>
       
@@ -86,10 +95,19 @@ export function SearchPanel() {
               className="w-full max-w-2xl bg-gray-900 border border-gray-800 rounded-lg shadow-2xl overflow-hidden"
               onClick={(e) => e.stopPropagation()}
             >
+              {/* AI Chat Banner */}
+              <div className="px-4 py-2 bg-gradient-to-r from-cyan-500/10 via-purple-500/10 to-cyan-500/10 border-b border-cyan-500/20">
+                <div className="flex items-center justify-center gap-2 text-sm">
+                  <span className="text-cyan-400">✨</span>
+                  <span className="text-gray-300">Click any result to open</span>
+                  <span className="text-cyan-400 font-semibold">AI Intelligence Briefing</span>
+                </div>
+              </div>
+              
               {/* Search Input */}
               <div className="p-4 border-b border-gray-800">
                 <div className="flex items-center gap-3">
-                  <svg className="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <svg className="w-5 h-5 text-cyan-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                   </svg>
                   <input
@@ -101,7 +119,7 @@ export function SearchPanel() {
                     autoFocus
                   />
                   {loading && (
-                    <div className="w-5 h-5 border-2 border-amber-500 border-t-transparent rounded-full animate-spin" />
+                    <div className="w-5 h-5 border-2 border-cyan-500 border-t-transparent rounded-full animate-spin" />
                   )}
                 </div>
               </div>
