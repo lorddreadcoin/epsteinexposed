@@ -22,32 +22,38 @@ const FALLBACK_EDGES = [
   { source: 'fallback-1', target: 'fallback-5', from: 'fallback-1', to: 'fallback-5', weight: 150, strength: 150 },
 ];
 
-// Type correction map for known misclassified entities
+// Intelligent type detection patterns
+const LOCATION_PATTERNS = [
+  // US States
+  /^(Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)$/i,
+  // Major US Cities
+  /^(New York|Los Angeles|Chicago|Houston|Phoenix|Philadelphia|San Antonio|San Diego|Dallas|San Jose|Austin|Jacksonville|Fort Worth|Columbus|Charlotte|San Francisco|Indianapolis|Seattle|Denver|Boston|Nashville|Detroit|Portland|Las Vegas|Memphis|Louisville|Baltimore|Milwaukee|Albuquerque|Tucson|Fresno|Sacramento|Kansas City|Mesa|Atlanta|Omaha|Colorado Springs|Raleigh|Miami|Oakland|Minneapolis|Tulsa|Wichita|New Orleans)$/i,
+  // Florida Cities
+  /^(Miami|Tampa|Orlando|Jacksonville|Fort Lauderdale|West Palm Beach|Palm Beach|Boca Raton|Naples|Sarasota|Clearwater|St\. Petersburg|Tallahassee|Gainesville|Key West|Fort Myers)$/i,
+  // International Cities
+  /^(London|Paris|Tokyo|Berlin|Madrid|Rome|Moscow|Beijing|Shanghai|Dubai|Sydney|Toronto|Montreal|Vancouver|Mexico City|São Paulo|Buenos Aires|Cairo|Mumbai|Delhi|Bangkok|Singapore|Hong Kong|Seoul|Istanbul|Amsterdam|Brussels|Vienna|Prague|Stockholm|Copenhagen|Oslo|Helsinki|Athens|Lisbon|Warsaw|Budapest)$/i,
+  // Islands & Territories
+  /^(Little St\.? James|Little Saint James|Great St\.? James|Virgin Islands|U\.?S\.? Virgin Islands|British Virgin Islands|Cayman Islands|Bahamas|Bermuda|Puerto Rico|Guam|American Samoa)$/i,
+  // Geographic patterns
+  /\b(Beach|Island|Islands|City|County|District|State|Province|Territory|Region|Area|Zone)\b/i,
+  /^(North|South|East|West|Central)\s+/i,
+];
+
+const ORGANIZATION_PATTERNS = [
+  // Government agencies
+  /^(FBI|CIA|DOJ|NSA|DEA|ATF|DHS|TSA|ICE|FEMA|EPA|FDA|CDC|NIH|NASA|USPS|IRS|SSA)$/i,
+  /\b(Department|Agency|Bureau|Commission|Administration|Service|Office|Division|Unit)\b/i,
+  // Legal entities
+  /^(Southern District|Eastern District|Western District|Northern District|District Court|Supreme Court|Court of Appeals|Federal Court)$/i,
+  // Business entities
+  /\b(Inc\.|LLC|Corp\.|Corporation|Company|Co\.|Ltd\.|Limited|Group|Associates|Partners|Enterprises|Industries|Holdings|Foundation|Institute|Organization|Association|Society|Council|Committee|Board)$/i,
+  // Universities & Schools
+  /\b(University|College|School|Academy|Institute of Technology)$/i,
+];
+
+// Specific known entities that need correction
 const TYPE_CORRECTIONS: Record<string, string> = {
-  // Locations misclassified as people
-  'Palm Beach': 'location',
-  'West Palm Beach': 'location',
-  'Fort Lauderdale': 'location',
-  'Little St. James': 'location',
-  'Little Saint James': 'location',
-  'Manhattan': 'location',
-  'New York': 'location',
-  'London': 'location',
-  'Paris': 'location',
-  'Miami': 'location',
-  'Florida': 'location',
-  'Virgin Islands': 'location',
-  'New Mexico': 'location',
-  'Santa Fe': 'location',
-  
-  // Organizations
-  'FBI': 'organization',
-  'CIA': 'organization',
-  'DOJ': 'organization',
-  'Department of Justice': 'organization',
-  'Southern District': 'organization',
-  
-  // Known people (in case misclassified)
+  // High-profile people (ensure these stay person)
   'Bill Clinton': 'person',
   'Ghislaine Maxwell': 'person',
   'Virginia Giuffre': 'person',
@@ -55,14 +61,45 @@ const TYPE_CORRECTIONS: Record<string, string> = {
   'Prince Andrew': 'person',
   'Alan Dershowitz': 'person',
   'Leslie Wexner': 'person',
+  'Donald Trump': 'person',
+  'Bill Gates': 'person',
+  'Stephen Hawking': 'person',
 };
 
 function correctEntityType(name: string, type: string): string {
-  const corrected = TYPE_CORRECTIONS[name];
-  if (corrected && corrected !== type) {
-    console.log(`[TYPE CORRECTION] ${name}: ${type} → ${corrected}`);
-    return corrected;
+  // Check explicit corrections first
+  const explicitCorrection = TYPE_CORRECTIONS[name];
+  if (explicitCorrection) {
+    if (explicitCorrection !== type) {
+      console.log(`[TYPE CORRECTION] ${name}: ${type} → ${explicitCorrection}`);
+    }
+    return explicitCorrection;
   }
+
+  // If already correctly typed, return as-is
+  if (type === 'location' || type === 'organization') {
+    return type;
+  }
+
+  // Apply pattern-based detection for misclassified entities
+  if (type === 'person' || type === 'other') {
+    // Check if it's actually a location
+    for (const pattern of LOCATION_PATTERNS) {
+      if (pattern.test(name)) {
+        console.log(`[TYPE CORRECTION] ${name}: ${type} → location (pattern match)`);
+        return 'location';
+      }
+    }
+
+    // Check if it's actually an organization
+    for (const pattern of ORGANIZATION_PATTERNS) {
+      if (pattern.test(name)) {
+        console.log(`[TYPE CORRECTION] ${name}: ${type} → organization (pattern match)`);
+        return 'organization';
+      }
+    }
+  }
+
   return type;
 }
 
