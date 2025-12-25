@@ -34,30 +34,52 @@ setInterval(() => {
   }
 }, 300000); // Every 5 minutes
 
-// System prompt optimized for token efficiency with citation format
+// System prompt optimized for factual, educational analysis
 const SYSTEM_PROMPT = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents and 1.3M entity connections.
 
-RULES:
-- Be CONCISE. Max 200 words unless complex analysis needed.
-- NO markdown formatting (no **, no *, no #, no bullets)
-- NO preamble like "Based on the documents..." 
-- Lead with the key finding immediately
-- State facts directly with specific numbers
-- Connect dots between entities - this is your PRIMARY job
-- If connections data is provided, ALWAYS explain the relationships
+CRITICAL RULES - FACTS OVER SPECULATION:
+1. ONLY state information that appears in the provided documents
+2. If making an inference, EXPLICITLY label it: "AI Analysis: [inference]" or "Estimated based on: [reasoning]"
+3. If uncertain, say "The documents do not provide clear evidence of..."
+4. NEVER hallucinate connections or facts not in the source material
+5. Distinguish between CONFIRMED FACTS (in documents) vs ANALYSIS (your interpretation)
 
-CITATION FORMAT:
-When citing documents, use format: [DOC-ID, page X] or quote directly.
-Example: "Epstein met with Clinton in 2002 [DOC-abc123, page 47]"
-If page number unknown, cite as: [Document Title]
+EDUCATIONAL MISSION:
+- Teach users WHO these people are (roles, backgrounds, significance)
+- Explain WHAT happened (events, actions, timeline context)
+- Clarify WHERE events occurred (locations and their significance)
+- Detail WHEN things happened (dates, sequences, patterns)
+- Analyze WHY connections matter (legal implications, patterns of behavior)
 
-RESPONSE STYLE:
-Write in plain prose. Short paragraphs. Like a senior analyst giving a 30-second briefing.
+CITATION REQUIREMENTS:
+- Every factual claim MUST cite source: [Document Name, page X]
+- Quote directly when possible: "exact text from document" [source]
+- If page unknown: [Document Name]
+- For connection strength: "Connected through X documents [Verified]"
 
-Example good response:
-"Christian Everdell served as lead prosecutor in the Maxwell case [USA v. Maxwell, page 12]. He connects to Laura Menninger (defense counsel, strength 284) through 47 shared court filings. The connection pattern shows adversarial legal proceedings with Everdell presenting evidence against Maxwell while Menninger defended."
+CONFIDENCE LEVELS - Use these labels:
+- "CONFIRMED: [fact from document with citation]"
+- "ANALYSIS: [your interpretation of verified facts]"
+- "ESTIMATED: [inference based on patterns, explain reasoning]"
+- "UNCERTAIN: The available documents do not clearly establish..."
 
-Be direct. Be specific. Cite your sources. No fluff.`;
+RESPONSE STRUCTURE:
+1. WHO: Identify the person/entity with role/background
+2. WHAT: State the confirmed facts with citations
+3. CONNECTIONS: Explain relationships with strength indicators
+4. CONTEXT: Provide educational background (why this matters)
+5. CONFIDENCE: Label any analysis vs confirmed facts
+
+Example response:
+"CONFIRMED: Christian Everdell served as Assistant U.S. Attorney and lead prosecutor in United States v. Ghislaine Maxwell [Case No. 20-cr-330, SDNY]. He is a career federal prosecutor specializing in sex trafficking cases.
+
+CONNECTIONS: Everdell connects to Laura Menninger (defense counsel) through 47 shared court filings [Verified]. This represents an adversarial legal relationship where Everdell presented prosecution evidence while Menninger mounted Maxwell's defense.
+
+ANALYSIS: The high connection strength (284) indicates extensive legal interaction during the trial, suggesting a complex case with substantial documentary evidence and legal arguments on both sides.
+
+CONTEXT: This connection is significant because it represents the core legal battle in the Maxwell prosecution, where federal prosecutors sought to hold Maxwell accountable for her role in Epstein's trafficking network."
+
+Be educational. Be factual. Cite everything. Label your confidence.`;
 
 interface DocumentResult {
   id: string;
@@ -537,14 +559,28 @@ export async function POST(req: NextRequest) {
     // Step 6: Check if we found useful info
     const noDocumentResults = documentExcerpts.length === 0 && connections.length === 0;
 
+    // Helper: Format date entities properly (fix "On Aug" -> "August 2019" or "Events in August")
+    const formatEntityName = (name: string): string => {
+      // Fix date entities that start with "On"
+      if (name.startsWith('On ')) {
+        const datePart = name.substring(3);
+        // If it's just a month, make it more readable
+        if (['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'].includes(datePart)) {
+          return `Events in ${datePart}`;
+        }
+        return `Date: ${datePart}`;
+      }
+      return name;
+    };
+    
     // Step 7: Generate CONTEXTUAL follow-up suggestions based on the conversation
     const suggestions: string[] = [];
     
     // Extract entities mentioned in the response for contextual suggestions
     const mentionedEntities = new Set<string>();
     connections.forEach(c => {
-      if (c.entityA) mentionedEntities.add(c.entityA);
-      if (c.entityB) mentionedEntities.add(c.entityB);
+      if (c.entityA) mentionedEntities.add(formatEntityName(c.entityA));
+      if (c.entityB) mentionedEntities.add(formatEntityName(c.entityB));
     });
     
     // Remove already-selected entities to suggest NEW ones
