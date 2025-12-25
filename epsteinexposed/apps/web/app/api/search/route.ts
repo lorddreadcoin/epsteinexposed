@@ -23,20 +23,43 @@ export async function GET(req: NextRequest) {
       throw error;
     }
 
-    // Format results to match expected structure
+    // Query entity_mentions to get ACTUAL document count per entity
+    const entityIds = (data || []).map((item: { id: string }) => item.id);
+    
+    // Get actual document counts from entity_mentions table
+    const documentCountsPromises = entityIds.map(async (entityId) => {
+      const { data: mentions, error: mentionsError } = await supabase
+        .from('entity_mentions')
+        .select('document_id', { count: 'exact', head: false })
+        .eq('entity_id', entityId);
+      
+      if (mentionsError || !mentions) return { entityId, count: 0, docIds: [] };
+      
+      // Get unique document IDs
+      const uniqueDocIds = [...new Set(mentions.map(m => m.document_id))];
+      return { entityId, count: uniqueDocIds.length, docIds: uniqueDocIds };
+    });
+    
+    const documentCounts = await Promise.all(documentCountsPromises);
+    const docCountMap = new Map(documentCounts.map(dc => [dc.entityId, { count: dc.count, docIds: dc.docIds }]));
+    
+    // Format results with ACTUAL document counts from entity_mentions
     const results = (data || []).map((item: {
       id: string;
       name: string;
       type: string;
       document_count: number;
       connection_count: number;
-    }) => ({
-      id: item.id,
-      name: item.name,
-      type: item.type,
-      occurrences: item.document_count || 0,
-      documentIds: item.document_count > 0 ? [item.id] : [], // Use entity ID as document reference
-    }));
+    }) => {
+      const actualDocData = docCountMap.get(item.id) || { count: 0, docIds: [] };
+      return {
+        id: item.id,
+        name: item.name,
+        type: item.type,
+        occurrences: actualDocData.count, // Use ACTUAL count from entity_mentions
+        documentIds: actualDocData.docIds.slice(0, 10), // Provide actual document IDs
+      };
+    });
 
     return NextResponse.json({ result: { data: results } });
   } catch (error: unknown) {
