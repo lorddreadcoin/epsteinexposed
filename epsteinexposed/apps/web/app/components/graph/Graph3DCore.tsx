@@ -1,7 +1,7 @@
 'use client';
 
 import { useRef, useState, useEffect, useMemo, useCallback } from 'react';
-import { Canvas } from '@react-three/fiber';
+import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Html, Line } from '@react-three/drei';
 import * as THREE from 'three';
 
@@ -12,14 +12,14 @@ import * as THREE from 'three';
 interface NodeData {
   id: string;
   name: string;
-  label: string; // Alias for name - required for page.tsx compatibility
+  label: string;
   type: string;
   x: number;
   y: number;
   z: number;
   size: number;
   connectionCount: number;
-  connections: number; // Alias for connectionCount
+  connections: number;
   documentCount: number;
 }
 
@@ -35,7 +35,7 @@ interface Graph3DCoreProps {
 }
 
 // =============================================================================
-// CLEAN COLOR PALETTE
+// VIBRANT COLOR PALETTE
 // =============================================================================
 
 const ENTITY_COLORS: Record<string, string> = {
@@ -50,65 +50,136 @@ const ENTITY_COLORS: Record<string, string> = {
 };
 
 // =============================================================================
-// SINGLE NODE COMPONENT - Clean sphere
+// GLOBAL ANIMATION CLOCK COMPONENT
 // =============================================================================
 
-function GraphNode({
+function useGlobalTime() {
+  const [time, setTime] = useState(0);
+  useFrame((state) => {
+    setTime(state.clock.elapsedTime);
+  });
+  return time;
+}
+
+// =============================================================================
+// ANIMATED NODE COMPONENT - Breathing, pulsing, glowing
+// =============================================================================
+
+function AnimatedNode({
   node,
   isSelected,
-  isHighlighted,
-  isHovered,
+  isConnected,
   showLabel,
   onClick,
   onHover,
+  globalTime,
 }: {
   node: NodeData;
   isSelected: boolean;
-  isHighlighted: boolean;
-  isHovered: boolean;
+  isConnected: boolean;
   showLabel: boolean;
   onClick: (e: React.MouseEvent) => void;
   onHover: (hovering: boolean) => void;
+  globalTime: number;
 }) {
   const meshRef = useRef<THREE.Mesh>(null);
-  const color = ENTITY_COLORS[node.type] || ENTITY_COLORS.other;
+  const glowRef = useRef<THREE.Mesh>(null);
+  const ringRef = useRef<THREE.Mesh>(null);
+  const color = new THREE.Color(ENTITY_COLORS[node.type] || ENTITY_COLORS.other);
+  const baseSize = node.size || 1;
+
+  // BREATHING - All nodes gently pulse
+  const breathe = Math.sin(globalTime * 0.5 + node.x * 0.1) * 0.08 + 1;
+  
+  // HEARTBEAT for selected nodes
+  const heartbeat = isSelected ? Math.sin(globalTime * 3) * 0.2 + 1.15 : 1;
+  
+  // RIPPLE for connected nodes
+  const ripple = isConnected ? Math.sin(globalTime * 4 - node.y * 0.05) * 0.12 + 1.08 : 1;
+  
+  const finalScale = baseSize * breathe * heartbeat * ripple;
+
+  // Animate mesh
+  useFrame(() => {
+    if (meshRef.current) {
+      meshRef.current.scale.setScalar(finalScale);
+    }
+    if (glowRef.current) {
+      glowRef.current.scale.setScalar(finalScale * (isSelected ? 2.8 : isConnected ? 2.2 : 1.6));
+      (glowRef.current.material as THREE.MeshBasicMaterial).opacity = 
+        isSelected ? 0.5 : isConnected ? 0.3 : 0.12;
+    }
+    if (ringRef.current && isSelected) {
+      ringRef.current.rotation.z = globalTime * 0.8;
+      ringRef.current.scale.setScalar(finalScale * 3.5 + Math.sin(globalTime * 2) * 0.6);
+    }
+  });
 
   return (
     <group position={[node.x, node.y, node.z]}>
-      <mesh 
-        ref={meshRef} 
+      {/* OUTER GLOW */}
+      <mesh ref={glowRef}>
+        <sphereGeometry args={[1, 16, 16]} />
+        <meshBasicMaterial color={color} transparent opacity={0.12} depthWrite={false} />
+      </mesh>
+
+      {/* SELECTION RING - Spinning ring around selected nodes */}
+      {isSelected && (
+        <mesh ref={ringRef} rotation={[Math.PI / 2, 0, 0]}>
+          <torusGeometry args={[2.5, 0.08, 8, 32]} />
+          <meshBasicMaterial color="#00FFFF" transparent opacity={0.9} />
+        </mesh>
+      )}
+
+      {/* MAIN NODE */}
+      <mesh
+        ref={meshRef}
         onClick={onClick}
         onPointerOver={() => onHover(true)}
         onPointerOut={() => onHover(false)}
       >
-        <sphereGeometry args={[node.size, 32, 32]} />
+        <sphereGeometry args={[1, 32, 32]} />
         <meshStandardMaterial
           color={isSelected ? '#FFFFFF' : color}
-          emissive={isHighlighted ? color : '#000000'}
-          emissiveIntensity={isHighlighted ? 0.3 : 0}
-          metalness={0.1}
-          roughness={0.8}
+          emissive={color}
+          emissiveIntensity={isSelected ? 0.9 : isConnected ? 0.6 : 0.25}
+          metalness={0.4}
+          roughness={0.6}
         />
       </mesh>
 
+      {/* PULSE RINGS - Emanate from connected nodes */}
+      {isConnected && (
+        <mesh rotation={[Math.PI / 2, 0, 0]} scale={1 + (globalTime % 2)}>
+          <ringGeometry args={[0.9, 1.1, 32]} />
+          <meshBasicMaterial
+            color={color}
+            transparent
+            opacity={Math.max(0, 1 - (globalTime % 2) / 2)}
+            side={THREE.DoubleSide}
+          />
+        </mesh>
+      )}
+
+      {/* LABEL */}
       {showLabel && (
-        <Html position={[0, node.size + 1.5, 0]} center style={{ pointerEvents: 'none' }}>
-          <div className="whitespace-nowrap text-center">
-            <div
-              className="px-2 py-1 rounded text-white font-bold shadow-lg"
-              style={{
-                backgroundColor: 'rgba(0,0,0,0.9)',
-                fontSize: isSelected ? '14px' : '11px',
-                border: `2px solid ${color}`,
-              }}
-            >
-              {node.name}
-            </div>
-            <div
-              className="text-xs mt-1 px-1 rounded"
-              style={{ color: color, backgroundColor: 'rgba(0,0,0,0.8)', fontSize: '10px' }}
-            >
-              {node.documentCount} docs • {node.connectionCount} links
+        <Html position={[0, baseSize + 2, 0]} center style={{ pointerEvents: 'none' }}>
+          <div
+            className="whitespace-nowrap px-3 py-1.5 rounded-lg font-bold transition-all duration-200"
+            style={{
+              backgroundColor: isSelected ? 'rgba(0,255,255,0.95)' : 'rgba(0,0,0,0.92)',
+              color: isSelected ? '#000' : '#fff',
+              fontSize: isSelected ? '14px' : '12px',
+              border: `2px solid ${isSelected ? '#00FFFF' : color.getStyle()}`,
+              boxShadow: isSelected 
+                ? '0 0 25px rgba(0,255,255,0.6), 0 0 50px rgba(0,255,255,0.3)' 
+                : '0 4px 12px rgba(0,0,0,0.5)',
+              transform: `scale(${isSelected ? 1.15 : 1})`,
+            }}
+          >
+            {node.name}
+            <div className="text-[10px] opacity-80 font-normal mt-0.5">
+              {node.documentCount} docs · {node.connectionCount} links
             </div>
           </div>
         </Html>
@@ -257,11 +328,14 @@ function GraphScene({
     setHoveredNodeId(hovering ? nodeId : null);
   }, []);
 
+  // Global animation time
+  const globalTime = useGlobalTime();
+
   return (
     <>
-      <ambientLight intensity={0.6} />
-      <pointLight position={[100, 100, 100]} intensity={0.8} />
-      <pointLight position={[-100, -100, -100]} intensity={0.4} />
+      <ambientLight intensity={0.5} />
+      <pointLight position={[100, 100, 100]} intensity={0.7} />
+      <pointLight position={[-100, -100, 50]} intensity={0.4} color="#00D4FF" />
 
       {/* All connection lines - always visible */}
       {edges.map((edge, i) => (
@@ -309,12 +383,11 @@ function GraphScene({
       })()}
 
       {nodes.map((node) => (
-        <GraphNode
+        <AnimatedNode
           key={node.id}
           node={node}
           isSelected={selectedNodeIds.has(node.id)}
-          isHighlighted={highlightedNodeIds.has(node.id)}
-          isHovered={hoveredNodeId === node.id}
+          isConnected={highlightedNodeIds.has(node.id)}
           showLabel={
             selectedNodeIds.has(node.id) || 
             hoveredNodeId === node.id || 
@@ -322,10 +395,22 @@ function GraphScene({
           }
           onClick={(e) => handleNodeClick(node, e)}
           onHover={(hovering) => handleNodeHover(node.id, hovering)}
+          globalTime={globalTime}
         />
       ))}
 
-      <OrbitControls enablePan enableZoom enableRotate minDistance={20} maxDistance={500} />
+      <OrbitControls 
+        enablePan 
+        enableZoom 
+        enableRotate 
+        minDistance={20} 
+        maxDistance={500}
+        autoRotate={selectedNodeIds.size === 0}
+        autoRotateSpeed={0.3}
+      />
+      
+      {/* Fog for depth perception */}
+      <fog attach="fog" args={['#0a0a0f', 150, 400]} />
     </>
   );
 }

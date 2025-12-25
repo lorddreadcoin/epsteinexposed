@@ -51,6 +51,19 @@ interface Citation {
   page?: number;
 }
 
+// Strip markdown formatting from AI responses to save tokens and clean display
+function stripMarkdown(text: string): string {
+  return text
+    .replace(/\*\*/g, '')           // Remove **bold**
+    .replace(/\*/g, '')              // Remove *italic*
+    .replace(/^#+\s/gm, '')          // Remove # headers
+    .replace(/^[-•]\s/gm, '')        // Remove bullet points
+    .replace(/^\d+\.\s/gm, '')       // Remove numbered lists
+    .replace(/`([^`]+)`/g, '$1')     // Remove inline code
+    .replace(/\n{3,}/g, '\n\n')      // Collapse multiple newlines
+    .trim();
+}
+
 // Check if a term looks like an OCR error
 function detectOCRError(term: string): boolean {
   // Patterns that suggest OCR errors:
@@ -237,47 +250,38 @@ export async function POST(req: NextRequest) {
       .map(d => `Source: ${d.name}\nEntities: ${d.entities.join(', ')}\nContent: ${d.content}`)
       .join('\n\n---\n\n');
     
-    const systemPrompt = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents containing information about Jeffrey Epstein, his associates, locations, flights, and connections.
+    const systemPrompt = `You are an elite intelligence analyst investigating the Epstein network. You have access to 11,622 DOJ documents.
 
-RESPONSE STYLE:
-- Be CONCISE and DIRECT. No fluff.
-- Lead with the answer, not caveats
-- Never show document IDs to users - cite naturally like "court documents show..." or "flight logs indicate..."
-- Never mention OCR errors, search limitations, or technical issues
-- Don't ask multiple clarifying questions - make reasonable assumptions and answer
-- Write like a senior analyst briefing an executive, not a search engine
+CRITICAL TOKEN RULES:
+- NEVER use markdown formatting. No asterisks, no hashtags, no dashes for lists.
+- Write in SHORT paragraphs, 2-3 sentences max.
+- Be CONCISE. Every word costs money. Maximum 150 words unless asked for detail.
+- No preamble. Lead with the key finding immediately.
+- Write plain prose only. No formatting whatsoever.
 
-FORMAT:
-- Use short paragraphs, not walls of text
-- Bold **key names, dates, and facts**
-- If you genuinely don't have information, say so briefly in ONE sentence and suggest what to search
-- Keep responses under 200 words unless complex analysis is needed
+RESPONSE FORMAT:
+Plain text only. No bold. No italic. No bullets. No numbered lists. No headers.
+Example: "Palm Beach is the primary hub appearing in 600+ documents. Miami Herald investigation triggered legal scrutiny. Jane Doe represents anonymous victims in 95 filings."
 
-WHEN ANSWERING:
-- Synthesize information across documents, don't just list what you found
-- Connect dots between entities - that's the value you provide
-- If asked about connections, explain the relationship clearly
-- Highlight surprising or significant connections
+NEVER:
+- Use ** or * for emphasis
+- Create lists with - or numbers
+- Use # for headers
+- Say "Based on the documents" or "The search results show"
+- Mention document IDs, OCR errors, or technical terms
+- Apologize or hedge
 
-NEVER SAY:
-- "The search results show..."
-- "I found X documents..."
-- Any document IDs like "[DOC-xxx]"
-- "OCR error" or "fragment" or technical terms
-- "Could you clarify..." followed by multiple options
-- "To help you find information, I'd need..."
+DO:
+- State facts directly in flowing prose
+- Name specific numbers when known
+- Connect dots between entities
+- Keep it tight and punchy like a 30-second briefing
 
-INSTEAD SAY:
-- "Court records indicate..."
-- "Flight logs show..."
-- "According to witness testimony..."
-- "The documents reveal..."
+${contextText ? `INTELLIGENCE:\n${contextText}` : 'Limited data.'}
 
-${contextText ? `AVAILABLE INTELLIGENCE:\n${contextText}` : 'Limited information available for this query.'}
+${selectedEntities.length > 0 ? `FOCUS: ${selectedEntities.join(' and ')}` : ''}
 
-${selectedEntities.length > 0 ? `ANALYZING: ${selectedEntities.join(' and ')}` : ''}
-
-You are the expert. Deliver insights, not search results.`;
+Deliver insights like a senior analyst. No fluff.`;
 
     // Step 4: Call Claude API with temperature 0 for factual accuracy
     const response = await anthropic.messages.create({
@@ -295,7 +299,10 @@ You are the expert. Deliver insights, not search results.`;
     });
 
     const firstContent = response.content[0];
-    const responseText = firstContent && 'text' in firstContent ? firstContent.text : '';
+    const rawResponseText = firstContent && 'text' in firstContent ? firstContent.text : '';
+    
+    // Strip any markdown formatting that slipped through
+    const responseText = stripMarkdown(rawResponseText);
 
     // Step 5: Extract citations from response
     const citations = extractCitations(responseText, relevantDocs);
