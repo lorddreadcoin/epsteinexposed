@@ -174,10 +174,31 @@ export default function Home() {
           </div>
         </div>
         <div className="flex items-center gap-2">
+          {/* Resource Links */}
+          <a 
+            href="https://www.justice.gov/usao-sdny/us-v-ghislaine-maxwell"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-2 py-1 text-xs font-mono bg-[#1a1a24] hover:bg-[#ffffff10] text-[#606070] hover:text-[#00d4ff] rounded border border-[#ffffff10] transition-colors hidden md:flex items-center gap-1"
+            title="DOJ Official Files"
+          >
+            <span>🏛️</span>
+            <span>DOJ Files</span>
+          </a>
+          <a 
+            href="https://www.documentcloud.org/app?q=%2Bproject%3Ajeffrey-epstein-702"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-2 py-1 text-xs font-mono bg-[#1a1a24] hover:bg-[#ffffff10] text-[#606070] hover:text-[#ffb800] rounded border border-[#ffffff10] transition-colors hidden md:flex items-center gap-1"
+            title="DocumentCloud Journalist Archive"
+          >
+            <span>📰</span>
+            <span>Press Archive</span>
+          </a>
           <button 
             onClick={() => setShowSearch(!showSearch)}
             className="p-2 hover:bg-[#ffffff10] rounded-lg transition-colors group"
-            title="Search entities (Ctrl+K)"
+            title="Search entities"
           >
             <svg className="w-5 h-5 text-[#606070] group-hover:text-[#00d4ff]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />

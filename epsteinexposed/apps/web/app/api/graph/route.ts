@@ -66,6 +66,64 @@ const TYPE_CORRECTIONS: Record<string, string> = {
   'Stephen Hawking': 'person',
 };
 
+// GARBAGE ENTITIES - Data artifacts that are NOT real people/places/orgs
+// These are parsing artifacts from phone records, metadata fields, column headers, etc.
+const GARBAGE_ENTITY_PATTERNS = [
+  // Phone record artifacts
+  /^phone\s*(begin|on|off|end|start|stop|number|call|record|log|data|entry|type|status)$/i,
+  /^(begin|end|start|stop)\s*(phone|call|record|entry|date|time)$/i,
+  // Date/time artifacts
+  /^(date|time|timestamp|datetime|created|updated|modified)\s*(begin|end|start|on|off)?$/i,
+  // Column header artifacts
+  /^(column|field|row|cell|entry|record|data|value|type|status|id|index|count|number)\s*\d*$/i,
+  // Generic parsing artifacts
+  /^(unknown|undefined|null|none|n\/a|na|tbd|tba|blank|empty)$/i,
+  /^(service\s*provider|provider|carrier|network)$/i,
+  // Single characters or very short nonsense
+  /^[a-z]{1,2}$/i,
+  /^\d+$/,
+  /^[^a-zA-Z]*$/,  // No letters at all
+  // Common OCR/parsing errors
+  /^(page|pages|exhibit|document|file|attachment|appendix)\s*\d*$/i,
+  /^(see|ref|reference|note|notes|comment|comments)$/i,
+  // Metadata field names
+  /^(from|to|cc|bcc|subject|re|fwd|sent|received)$/i,
+  /^(questions?\s*what|what\s*questions?)$/i,
+];
+
+// Explicit garbage entity names to filter out
+const GARBAGE_ENTITY_NAMES = new Set([
+  'phone begin', 'phone on', 'phone off', 'phone end',
+  'begin phone', 'end phone', 'phone number', 'phone call',
+  'service provider', 'provider', 'unknown', 'undefined',
+  'n/a', 'na', 'tbd', 'none', 'blank', 'empty',
+  'questions what', 'what questions', 'see attached',
+  'page 1', 'page 2', 'exhibit a', 'exhibit b',
+  'column a', 'column b', 'field 1', 'field 2',
+]);
+
+function isGarbageEntity(name: string): boolean {
+  if (!name || name.trim().length < 2) return true;
+  
+  const normalized = name.toLowerCase().trim();
+  
+  // Check explicit garbage names
+  if (GARBAGE_ENTITY_NAMES.has(normalized)) {
+    console.log(`[GARBAGE FILTER] Removing: "${name}" (explicit match)`);
+    return true;
+  }
+  
+  // Check garbage patterns
+  for (const pattern of GARBAGE_ENTITY_PATTERNS) {
+    if (pattern.test(normalized)) {
+      console.log(`[GARBAGE FILTER] Removing: "${name}" (pattern match)`);
+      return true;
+    }
+  }
+  
+  return false;
+}
+
 function correctEntityType(name: string, type: string): string {
   // Check explicit corrections first
   const explicitCorrection = TYPE_CORRECTIONS[name];
@@ -134,14 +192,18 @@ async function fetchGraphData(edgeLimit: number, nodeLimit: number, offset: numb
     console.error('[GRAPH] Other entities fetch error:', otherError);
   }
 
-  // Combine entities - people first, then apply type corrections
+  // Combine entities - people first, filter garbage, then apply type corrections
   const rawEntities = [...(peopleEntities || []), ...(otherEntities || [])];
-  const entities = rawEntities.map(e => ({
+  
+  // Filter out garbage entities (data artifacts like "Phone Begin", "Service Provider", etc.)
+  const cleanEntities = rawEntities.filter(e => !isGarbageEntity(e.name));
+  
+  const entities = cleanEntities.map(e => ({
     ...e,
     type: correctEntityType(e.name, e.type)
   }));
   
-  console.log('[GRAPH] Fetched', peopleEntities?.length || 0, 'people,', otherEntities?.length || 0, 'other entities');
+  console.log('[GRAPH] Fetched', peopleEntities?.length || 0, 'people,', otherEntities?.length || 0, 'other. After garbage filter:', entities.length);
 
   if (entities.length === 0) {
     throw new Error('No entities found');
