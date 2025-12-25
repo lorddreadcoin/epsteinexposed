@@ -46,6 +46,32 @@ interface CommandPaletteProps {
   onShowTimeline?: () => void;
   onShowComparison?: () => void;
   onShowShortcuts?: () => void;
+  onExport?: () => void;
+  onShowFilters?: () => void;
+  onShowStats?: () => void;
+  onShowSettings?: () => void;
+}
+
+// Toast notification state
+let toastTimeout: NodeJS.Timeout | null = null;
+
+function showToast(message: string) {
+  // Remove existing toast
+  const existing = document.getElementById('command-toast');
+  if (existing) existing.remove();
+  if (toastTimeout) clearTimeout(toastTimeout);
+  
+  // Create toast
+  const toast = document.createElement('div');
+  toast.id = 'command-toast';
+  toast.className = 'fixed bottom-20 left-1/2 -translate-x-1/2 z-[100] px-4 py-2 bg-[#ffb800] text-black font-mono text-sm rounded-lg shadow-xl animate-pulse';
+  toast.textContent = message;
+  document.body.appendChild(toast);
+  
+  // Remove after 3 seconds
+  toastTimeout = setTimeout(() => {
+    toast.remove();
+  }, 3000);
 }
 
 export function CommandPalette({
@@ -55,6 +81,10 @@ export function CommandPalette({
   onShowTimeline,
   onShowComparison,
   onShowShortcuts,
+  onExport,
+  onShowFilters,
+  onShowStats,
+  onShowSettings,
 }: CommandPaletteProps) {
   const [open, setOpen] = useState(false);
   const [search, setSearch] = useState('');
@@ -106,7 +136,14 @@ export function CommandPalette({
       description: 'Side-by-side entity comparison',
       icon: <GitCompare className="w-4 h-4" />,
       category: 'action',
-      action: () => { onShowComparison?.(); setOpen(false); },
+      action: () => { 
+        if (onShowComparison) {
+          onShowComparison();
+        } else {
+          showToast('🔄 Select 2+ entities first, then compare!');
+        }
+        setOpen(false); 
+      },
     },
     {
       id: 'export',
@@ -114,7 +151,14 @@ export function CommandPalette({
       description: 'Download as PNG or JSON',
       icon: <Download className="w-4 h-4" />,
       category: 'action',
-      action: () => { setOpen(false); },
+      action: () => { 
+        if (onExport) {
+          onExport();
+        } else {
+          showToast('📸 Export feature coming soon!');
+        }
+        setOpen(false); 
+      },
     },
     {
       id: 'filters',
@@ -122,7 +166,14 @@ export function CommandPalette({
       description: 'Filter by source, date, type',
       icon: <Filter className="w-4 h-4" />,
       category: 'action',
-      action: () => { setOpen(false); },
+      action: () => { 
+        if (onShowFilters) {
+          onShowFilters();
+        } else {
+          showToast('🔍 Filter panel coming soon!');
+        }
+        setOpen(false); 
+      },
     },
     {
       id: 'stats',
@@ -130,7 +181,14 @@ export function CommandPalette({
       description: 'Document and entity statistics',
       icon: <BarChart3 className="w-4 h-4" />,
       category: 'action',
-      action: () => { setOpen(false); },
+      action: () => { 
+        if (onShowStats) {
+          onShowStats();
+        } else {
+          showToast('📊 33,824 entities • 1.3M connections • 11,622 docs');
+        }
+        setOpen(false); 
+      },
     },
     {
       id: 'help',
@@ -146,7 +204,14 @@ export function CommandPalette({
       description: 'Configure preferences',
       icon: <Settings className="w-4 h-4" />,
       category: 'navigation',
-      action: () => { setOpen(false); },
+      action: () => { 
+        if (onShowSettings) {
+          onShowSettings();
+        } else {
+          showToast('⚙️ Settings panel coming soon!');
+        }
+        setOpen(false); 
+      },
     },
     
     ...entities.slice(0, 100).map(entity => ({
