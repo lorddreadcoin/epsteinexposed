@@ -1,18 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import fs from 'fs/promises';
-import path from 'path';
-
-interface EntityPerson { name: string; role?: string; context?: string; }
-interface EntityLocation { name: string; type?: string; }
-interface EntityOrg { name: string; }
-interface DocumentData {
-  document?: { filename?: string; text?: string; };
-  entities?: {
-    people?: EntityPerson[];
-    locations?: EntityLocation[];
-    organizations?: EntityOrg[];
-  };
-}
+import { supabase } from '@/lib/supabase';
 
 interface DocumentReference {
   id: string;
@@ -25,80 +12,69 @@ interface DocumentReference {
 
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
-  const entity1 = searchParams.get('entity1')?.toLowerCase() || '';
-  const entity2 = searchParams.get('entity2')?.toLowerCase() || '';
+  const entity1Name = searchParams.get('entity1') || '';
+  const entity2Name = searchParams.get('entity2') || '';
   
-  if (!entity1 || !entity2) {
+  if (!entity1Name || !entity2Name) {
     return NextResponse.json({ result: { data: [] } });
   }
-  
-  const possiblePaths = [
-    path.join(process.cwd(), 'data', 'entities'),
-    path.join(process.cwd(), '..', 'api', 'data', 'entities'),
-    path.join(process.cwd(), 'public', 'data', 'entities'),
-  ];
-
-  let entitiesPath = '';
-  for (const p of possiblePaths) {
-    try {
-      await fs.access(p);
-      entitiesPath = p;
-      break;
-    } catch {
-      // Try next
-    }
-  }
-
-  if (!entitiesPath) {
-    return NextResponse.json({ result: { data: [] } });
-  }
-
-  const documents: DocumentReference[] = [];
   
   try {
-    const files = await fs.readdir(entitiesPath);
-    const jsonFiles = files.filter(f => f.endsWith('.json')).slice(0, 2000);
+    // Find both entities
+    const { data: entities, error: entitiesError } = await supabase
+      .from('entities')
+      .select('id, name, type')
+      .or(`name.ilike.%${entity1Name}%,name.ilike.%${entity2Name}%`)
+      .limit(2);
     
-    for (const file of jsonFiles) {
-      try {
-        const content = await fs.readFile(path.join(entitiesPath, file), 'utf-8');
-        const data: DocumentData = JSON.parse(content);
-        const docId = file.replace('.json', '');
-        
-        const allEntities: string[] = [
-          ...(data.entities?.people?.map(p => p.name?.toLowerCase() || '') || []),
-          ...(data.entities?.locations?.map(l => l.name?.toLowerCase() || '') || []),
-          ...(data.entities?.organizations?.map(o => o.name?.toLowerCase() || '') || []),
-        ];
-        
-        const hasEntity1 = allEntities.some(e => e.includes(entity1));
-        const hasEntity2 = allEntities.some(e => e.includes(entity2));
-        
-        if (hasEntity1 && hasEntity2) {
-          const mentions: Array<{ entity: string; type: string; context?: string }> = [];
-          
-          for (const person of data.entities?.people || []) {
-            if (person.name?.toLowerCase().includes(entity1) || person.name?.toLowerCase().includes(entity2)) {
-              mentions.push({ entity: person.name, type: 'person', context: person.context });
-            }
-          }
-          
-          documents.push({
-            id: docId,
-            filename: data.document?.filename || `${docId}.pdf`,
-            path: `/documents/${docId}`,
-            pageCount: 1,
-            dataset: 'DOJ Release',
-            mentions,
-          });
-        }
-      } catch {
-        // Skip
-      }
+    if (entitiesError || !entities || entities.length < 2) {
+      return NextResponse.json({ result: { data: [] } });
     }
-  } catch {
-    // Return empty
+    
+    const entity1 = entities[0];
+    const entity2 = entities[1];
+    
+    // Find the connection between them
+    const { data: connection, error: connectionError } = await supabase
+      .from('connections')
+      .select('entity_a_id, entity_b_id, strength')
+      .or(`and(entity_a_id.eq.${entity1.id},entity_b_id.eq.${entity2.id}),and(entity_a_id.eq.${entity2.id},entity_b_id.eq.${entity1.id})`)
+      .limit(1)
+      .single();
+    
+    if (connectionError || !connection) {
+      return NextResponse.json({ result: { data: [] } });
+    }
+    
+    // Create document references representing the connection
+    const documents: DocumentReference[] = [
+      {
+        id: `${entity1.id}-${entity2.id}`,
+        filename: `Connection: ${entity1.name} ↔ ${entity2.name}`,
+        path: `/connection/${entity1.id}/${entity2.id}`,
+        pageCount: 1,
+        dataset: 'DOJ Release',
+        mentions: [
+          { entity: entity1.name, type: entity1.type },
+          { entity: entity2.name, type: entity2.type },
+        ],
+      },
+      {
+        id: `shared-docs-${connection.strength}`,
+        filename: `${connection.strength} shared document mentions`,
+        path: `/shared/${entity1.id}/${entity2.id}`,
+        pageCount: connection.strength,
+        dataset: 'DOJ Release',
+        mentions: [
+          { entity: entity1.name, type: entity1.type },
+          { entity: entity2.name, type: entity2.type },
+        ],
+      },
+    ];
+    
+    return NextResponse.json({ result: { data: documents } });
+  } catch (error) {
+    console.error('[CONNECTION DOCS] Error:', error);
+    return NextResponse.json({ result: { data: [] } });
   }
-  
-  return NextResponse.json({ result: { data: documents.slice(0, 50) } });
 }

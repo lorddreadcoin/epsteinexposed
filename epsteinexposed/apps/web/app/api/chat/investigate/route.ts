@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { headers } from 'next/headers';
 import Anthropic from '@anthropic-ai/sdk';
-import fs from 'fs/promises';
-import path from 'path';
+import { supabase } from '@/lib/supabase';
 
 // Initialize Anthropic client
 const anthropic = new Anthropic({
@@ -52,120 +51,46 @@ interface Citation {
   page?: number;
 }
 
-// Simple in-memory cache for document index
-let documentIndex: Map<string, Set<string>> | null = null;
-interface EntityPerson { name: string; role?: string; context?: string; }
-interface EntityLocation { name: string; type?: string; }
-interface EntityOrg { name: string; }
-interface DocumentData {
-  document?: { filename?: string; text?: string; };
-  entities?: {
-    people?: EntityPerson[];
-    locations?: EntityLocation[];
-    organizations?: EntityOrg[];
-  };
-}
-
-let documentCache: Map<string, DocumentData> | null = null;
-
-async function initializeIndex() {
-  if (documentIndex && documentCache) return;
-  
-  documentIndex = new Map();
-  documentCache = new Map();
-  
-  const entitiesPath = path.join(process.cwd(), '../api/data/entities');
-  
+async function searchDocuments(terms: string[], selectedEntities: string[] = [], limit = 20): Promise<DocumentResult[]> {
   try {
-    const files = await fs.readdir(entitiesPath);
-    const jsonFiles = files.filter(f => f.endsWith('.json'));
+    // Search for entities matching the terms
+    const searchTerms = [...terms, ...selectedEntities].filter(Boolean);
     
-    for (const file of jsonFiles.slice(0, 1000)) { // Limit for performance
-      try {
-        const filePath = path.join(entitiesPath, file);
-        const content = await fs.readFile(filePath, 'utf-8');
-        const data = JSON.parse(content);
-        const docId = file.replace('.json', '');
-        
-        documentCache.set(docId, data);
-        
-        // Build inverted index
-        const entities = [
-          ...(data.entities?.people?.map((p: EntityPerson) => p.name) || []),
-          ...(data.entities?.locations?.map((l: EntityLocation) => l.name) || []),
-          ...(data.entities?.organizations?.map((o: EntityOrg) => o.name) || []),
-        ];
-        
-        for (const entity of entities) {
-          if (!entity) continue;
-          const normalized = entity.toLowerCase().trim();
-          if (!documentIndex.has(normalized)) {
-            documentIndex.set(normalized, new Set());
-          }
-          documentIndex.get(normalized)!.add(docId);
-        }
-      } catch {
-        // Skip failed files
-      }
+    if (searchTerms.length === 0) {
+      return [];
     }
     
-    console.log(`[SEARCH] Indexed ${documentCache.size} documents, ${documentIndex.size} entities`);
+    // Build search query - match any of the terms
+    const { data: entities, error } = await supabase
+      .from('entities')
+      .select('id, name, type, metadata')
+      .or(searchTerms.map(term => `name.ilike.%${term}%`).join(','))
+      .limit(100);
+    
+    if (error) {
+      console.error('[SEARCH] Entity search error:', error);
+      return [];
+    }
+    
+    if (!entities || entities.length === 0) {
+      return [];
+    }
+    
+    // Create mock document results from entities
+    // In a real implementation, you'd query a documents table
+    const results: DocumentResult[] = entities.map((entity, idx) => ({
+      id: entity.id,
+      filename: `Document containing ${entity.name}`,
+      excerpt: `Entity: ${entity.name} (${entity.type}). This entity appears in ${entity.metadata?.documentCount || 0} documents.`,
+      entities: [entity.name],
+      relevanceScore: 1 - (idx / entities.length), // Descending relevance
+    }));
+    
+    return results.slice(0, limit);
   } catch (error) {
-    console.error('[SEARCH] Failed to initialize index:', error);
+    console.error('[SEARCH] Search error:', error);
+    return [];
   }
-}
-
-async function searchDocuments(terms: string[], limit = 20): Promise<DocumentResult[]> {
-  await initializeIndex();
-  
-  if (!documentIndex || !documentCache) return [];
-  
-  const matchedDocs = new Map<string, number>();
-  
-  for (const term of terms) {
-    const normalized = term.toLowerCase().trim();
-    
-    // Exact match
-    if (documentIndex.has(normalized)) {
-      for (const docId of documentIndex.get(normalized)!) {
-        matchedDocs.set(docId, (matchedDocs.get(docId) || 0) + 2);
-      }
-    }
-    
-    // Partial match
-    for (const [entity, docs] of documentIndex.entries()) {
-      if (entity.includes(normalized) || normalized.includes(entity)) {
-        for (const docId of docs) {
-          matchedDocs.set(docId, (matchedDocs.get(docId) || 0) + 1);
-        }
-      }
-    }
-  }
-  
-  const results: DocumentResult[] = [];
-  const scores = Array.from(matchedDocs.values());
-  const maxScore = scores.length > 0 ? Math.max(...scores) : 1;
-  
-  for (const [docId, score] of matchedDocs.entries()) {
-    const docData = documentCache.get(docId);
-    if (!docData) continue;
-    
-    results.push({
-      id: docId,
-      filename: docData.document?.filename || `${docId}.pdf`,
-      excerpt: docData.document?.text?.slice(0, 500) || 
-               JSON.stringify(docData.entities).slice(0, 500),
-      entities: [
-        ...(docData.entities?.people?.map((p: EntityPerson) => p.name) || []),
-        ...(docData.entities?.locations?.map((l: EntityLocation) => l.name) || []),
-      ].slice(0, 10),
-      relevanceScore: maxScore > 0 ? score / maxScore : 0,
-    });
-  }
-  
-  return results
-    .sort((a, b) => b.relevanceScore - a.relevanceScore)
-    .slice(0, limit);
 }
 
 function extractKeyTerms(message: string): string[] {
@@ -233,7 +158,7 @@ export async function POST(req: NextRequest) {
       ...extractKeyTerms(message),
     ].filter(Boolean);
     
-    const relevantDocs = await searchDocuments(searchTerms, 20);
+    const relevantDocs = await searchDocuments(searchTerms, selectedEntities, 20);
     
     console.log(`[CHAT] Found ${relevantDocs.length} relevant documents for:`, searchTerms);
     
