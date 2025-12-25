@@ -385,7 +385,7 @@ export function InvestigationChat({
     <div 
       className={`
         bg-[#0a0a0f]/95 backdrop-blur-md border-t border-[#00d4ff30] 
-        flex flex-col fixed left-0 right-0 z-50 sm:bottom-0 bottom-14
+        flex flex-col fixed left-0 right-0 z-40 sm:bottom-0 bottom-14
         ${isDragging ? '' : 'transition-all duration-300 ease-out'}
       `}
       style={{ height: isCollapsed ? '56px' : `${chatHeight}vh`, minHeight: isCollapsed ? '56px' : '220px' }}
