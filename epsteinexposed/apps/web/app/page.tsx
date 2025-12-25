@@ -298,12 +298,8 @@ export default function Home() {
                 </div>
                 <button
                   onClick={() => { 
-                    // Include connected entities in the investigation
-                    const entitiesToInvestigate = [
-                      selectedEntity.label || selectedEntity.name || '',
-                      ...(selectedEntity.connectedEntities || []).slice(0, 5)
-                    ].filter(Boolean);
-                    setSelectedEntities(entitiesToInvestigate); 
+                    // Only investigate the selected entity itself, not connections
+                    setSelectedEntities([selectedEntity.label || selectedEntity.name || '']); 
                     setChatCollapsed(false); 
                     setAutoInvestigate(true);
                   }}

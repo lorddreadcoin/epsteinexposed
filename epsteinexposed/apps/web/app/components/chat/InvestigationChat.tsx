@@ -136,21 +136,22 @@ export function InvestigationChat({
     }
   }, [selectedEntities]);
   
-  // Auto-investigate when triggered from "Investigate in Chat" button
-  // OR when selectedEntities change significantly
+  // Auto-investigate ONLY when explicitly triggered or for multi-select
+  // Single node clicks should NOT auto-investigate
   useEffect(() => {
     if (selectedEntities.length > 0 && !isLoading) {
       const entityKey = selectedEntities.slice().sort().join(',');
       
-      // Auto-investigate if:
-      // 1. autoInvestigate flag is set, OR
-      // 2. The entities have changed from what we last investigated
-      const shouldInvestigate = autoInvestigate || (hasAutoInvestigated !== null && hasAutoInvestigated !== entityKey);
+      // Auto-investigate ONLY if:
+      // 1. autoInvestigate flag is explicitly set (from "Investigate in Chat" button), OR
+      // 2. Multiple entities are selected (Ctrl/Cmd+click multi-select)
+      // DO NOT auto-investigate for single entity selection
+      const shouldInvestigate = autoInvestigate && hasAutoInvestigated !== entityKey;
       
-      if (shouldInvestigate && hasAutoInvestigated !== entityKey) {
+      if (shouldInvestigate) {
         setHasAutoInvestigated(entityKey);
         
-        // Build a comprehensive investigation query
+        // Build investigation query based on selection count
         const entityName = selectedEntities[0];
         const query = selectedEntities.length === 1
           ? `Provide a comprehensive intelligence briefing on "${entityName}". Who are they? What is their connection to Epstein? What documents mention them? What other entities are they connected to? Summarize all relevant findings from the documents.`
