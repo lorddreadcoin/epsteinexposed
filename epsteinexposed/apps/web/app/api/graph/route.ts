@@ -1,5 +1,6 @@
 import { supabase } from '@/lib/supabase';
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
+import { checkRateLimit, getClientIP, RATE_LIMITS, getRateLimitHeaders } from '@/lib/rate-limit';
 
 export const dynamic = 'force-dynamic';
 export const maxDuration = 30;
@@ -79,7 +80,18 @@ async function fetchGraphData(edgeLimit: number, nodeLimit: number, offset: numb
   return { topConnections, entities };
 }
 
-export async function GET(request: Request) {
+export async function GET(request: NextRequest) {
+  // Rate limiting
+  const ip = getClientIP(request.headers);
+  const rateLimit = checkRateLimit(`graph:${ip}`, RATE_LIMITS.graph);
+  
+  if (!rateLimit.success) {
+    return NextResponse.json(
+      { error: 'Too many requests. Please slow down.' },
+      { status: 429, headers: getRateLimitHeaders(rateLimit) }
+    );
+  }
+
   try {
     const { searchParams } = new URL(request.url);
     // MASSIVELY increased limits for robust, dense graph - 2000 nodes, 8000 edges

@@ -1,7 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { supabase } from '@/lib/supabase';
+import { checkRateLimit, getClientIP, RATE_LIMITS, getRateLimitHeaders } from '@/lib/rate-limit';
 
 export async function GET(req: NextRequest) {
+  // Rate limiting
+  const ip = getClientIP(req.headers);
+  const rateLimit = checkRateLimit(`search:${ip}`, RATE_LIMITS.search);
+  
+  if (!rateLimit.success) {
+    return NextResponse.json(
+      { error: 'Too many requests. Please slow down.' },
+      { status: 429, headers: getRateLimitHeaders(rateLimit) }
+    );
+  }
+
   const { searchParams } = new URL(req.url);
   const query = searchParams.get('query') || '';
   const limit = parseInt(searchParams.get('limit') || '50', 10);
