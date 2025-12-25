@@ -338,9 +338,30 @@ export async function GET(
         });
       }
       
-      // Priority 2: Use doc_id to construct URL
+      // Priority 2: Check pdf-index.json for the correct storage path
       if (doc.doc_id) {
-        const pdfUrl = `${supabaseUrl}/storage/v1/object/public/pdfs/${doc.doc_id}.pdf`;
+        // First try to find in pdf-index.json for correct path
+        const pdfIndex = getPdfIndex();
+        const docIdLower = doc.doc_id.toLowerCase();
+        const pdfEntry = pdfIndex?.pdfs?.find(p => 
+          p.id.toLowerCase() === docIdLower ||
+          p.filename.toLowerCase().replace('.pdf', '') === docIdLower
+        );
+        
+        if (pdfEntry) {
+          console.log('[DOC API] Found in pdf-index.json via doc_id:', pdfEntry.filename);
+          return NextResponse.json({
+            id: doc.id,
+            title: doc.title || pdfEntry.filename.replace('.pdf', ''),
+            pdfUrl: pdfEntry.publicUrl,
+            source: pdfEntry.source || 'DOJ',
+            type: 'pdf',
+            pageCount: doc.page_count || 1,
+          });
+        }
+        
+        // Fallback: construct URL (may not work for all documents)
+        const pdfUrl = `${supabaseUrl}/storage/v1/object/public/documents/${doc.doc_id}.pdf`;
         return NextResponse.json({
           id: doc.id,
           title: doc.title || doc.doc_id,
@@ -372,7 +393,30 @@ export async function GET(
         .single();
 
       if (actualDoc) {
-        const pdfUrl = actualDoc.pdf_url || `${supabaseUrl}/storage/v1/object/public/pdfs/${actualDoc.doc_id || actualDoc.id}.pdf`;
+        // Try pdf-index.json first for correct path
+        if (actualDoc.doc_id) {
+          const pdfIndex = getPdfIndex();
+          const docIdLower = actualDoc.doc_id.toLowerCase();
+          const pdfEntry = pdfIndex?.pdfs?.find(p => 
+            p.id.toLowerCase() === docIdLower ||
+            p.filename.toLowerCase().replace('.pdf', '') === docIdLower
+          );
+          
+          if (pdfEntry) {
+            console.log('[DOC API] Found in pdf-index.json via entity_mentions:', pdfEntry.filename);
+            return NextResponse.json({
+              id: actualDoc.id,
+              title: actualDoc.title || pdfEntry.filename.replace('.pdf', ''),
+              pdfUrl: pdfEntry.publicUrl,
+              source: pdfEntry.source || 'DOJ',
+              type: 'pdf',
+              pageCount: actualDoc.page_count || 1,
+            });
+          }
+        }
+        
+        // Fallback to pdf_url or constructed URL
+        const pdfUrl = actualDoc.pdf_url || `${supabaseUrl}/storage/v1/object/public/documents/${actualDoc.doc_id || actualDoc.id}.pdf`;
         return NextResponse.json({
           id: actualDoc.id,
           title: actualDoc.title || actualDoc.doc_id || 'Document',
